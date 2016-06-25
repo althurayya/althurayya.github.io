@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.76716,
+                    31.48039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.48039",
+                    "coord_lon": "40.76716",
+                    "cornu_URI": "KHANFAS_407E314N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلخنفس",
+                    "toponym_arabic_other": "ﭐلخنفس، ﭐلحنفس، ﭐلجنفس",
+                    "toponym_buckwalter": "al-Khanfas, al-Hanfas, al-Janfas",
+                    "toponym_search": "al-Khanfas, al-Hanfas, al-Janfas",
+                    "toponym_translit": "al-Ḫanfas",
+                    "toponym_translit_other": "al-Ḫanfas, al-Ḥanfas, al-Ǧanfas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003912",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحزم</h1> من غير إضافة وهو موضع أمام خطم الحجون الذي دون سدرة آل أسيد يسارا على طريق نخلة والحاج العراقي ",
+                "title": "الحزم",
+                "uri": "JK_000129_003912"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

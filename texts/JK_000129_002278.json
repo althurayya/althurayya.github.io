@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002278",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.514",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بهار والنسبة البهاري</h1> من قرى مرو ويقال لها بهارين أيضا ينسب إليها رقاد بن إبراهيم البهاري مات سنة 426 ",
+                "title": "بهار والنسبة البهاري",
+                "uri": "JK_000129_002278"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

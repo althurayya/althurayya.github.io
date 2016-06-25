@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006794",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.228",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سقمان</h1> فعلان من السقم بفتح أوله وسكون ثانيه موضع قال الشاعر رعى القسور الجوني من حول أشمس ومن بطن شقمان الدعادع ديما ",
+                "title": "سقمان",
+                "uri": "JK_000129_006794"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

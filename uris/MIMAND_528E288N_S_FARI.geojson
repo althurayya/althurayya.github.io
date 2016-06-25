@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.85141,
+                    28.88488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.88488",
+                    "coord_lon": "52.85141",
+                    "cornu_URI": "MIMAND_528E288N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ميمند",
+                    "toponym_arabic_other": "ميمند",
+                    "toponym_buckwalter": "Mimand",
+                    "toponym_search": "Mimand",
+                    "toponym_translit": "Mīmand",
+                    "toponym_translit_other": "Mīmand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

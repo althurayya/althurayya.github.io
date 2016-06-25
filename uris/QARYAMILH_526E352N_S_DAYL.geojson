@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.636,
+                    35.26209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.26209",
+                    "coord_lon": "52.63600",
+                    "cornu_URI": "QARYAMILH_526E352N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قرية ﭐلملح",
+                    "toponym_arabic_other": "قرية ﭐلملح",
+                    "toponym_buckwalter": "Qarya al-Milh",
+                    "toponym_search": "Qarya al-Milh",
+                    "toponym_translit": "Qaryaŧ al-Milḥ",
+                    "toponym_translit_other": "Qaryaŧ al-Milḥ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.27233,
+                    39.91956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.91956",
+                    "coord_lon": "41.27233",
+                    "cornu_URI": "QALIQALA_412E399N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قاليقلا",
+                    "toponym_arabic_other": "قاليقلا",
+                    "toponym_buckwalter": "Qaliqala",
+                    "toponym_search": "Qaliqala",
+                    "toponym_translit": "Qālīqalā",
+                    "toponym_translit_other": "Qālīqalā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

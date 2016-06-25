@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005461",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.3",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذات المنار</h1> موضع في أول أرض الشام من جهة الحجاز نزله أبو عبيدة في مسيره إلى الشام ",
+                "title": "ذات المنار",
+                "uri": "JK_000129_005461"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

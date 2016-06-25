@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003174",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.129",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جرمة</h1> بالفتح اسم قصبة بناحية فزان في جنوبي إفريقية لها ذكر في الفتوح افتتحها عقبة بن عامر وأسر أهلها ",
+                "title": "جرمة",
+                "uri": "JK_000129_003174"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

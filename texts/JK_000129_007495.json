@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007495",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.340",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشروين</h1> بالتحريك بثلاث فتحات وياء ساكنة ونون هما جبلان بسلمى كان اسمهما فخ ومخزم عن نصر ",
+                "title": "الشروين",
+                "uri": "JK_000129_007495"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

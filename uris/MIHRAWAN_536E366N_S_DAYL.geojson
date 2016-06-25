@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.69593,
+                    36.68468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.68468",
+                    "coord_lon": "53.69593",
+                    "cornu_URI": "MIHRAWAN_536E366N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "مهروان",
+                    "toponym_arabic_other": "مهروان",
+                    "toponym_buckwalter": "Mihrawan",
+                    "toponym_search": "Mihrawan",
+                    "toponym_translit": "Mihrawān",
+                    "toponym_translit_other": "Mihrawān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

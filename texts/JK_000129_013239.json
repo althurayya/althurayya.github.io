@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013239",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.365",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوداع</h1> ثنية الوداع ذكرت في ثنية ",
+                "title": "الوداع",
+                "uri": "JK_000129_013239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

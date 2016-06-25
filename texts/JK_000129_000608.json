@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000608",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.176",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أستوريس</h1> بالضم حصن من أعمال وادي الحجارة بالأندلس أحدثه محمد بن عبد الرحمن بن الحكم بن هشام الأموي صاحب الأندلس عمره في نحر العدو ",
+                "title": "أستوريس",
+                "uri": "JK_000129_000608"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

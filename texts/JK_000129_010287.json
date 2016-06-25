@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010287",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.355",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر الإفريقي</h1> مدينة جامعة على مشرف من الأرض ذات مسارح ومزارع كثيرة ",
+                "title": "قصر الإفريقي",
+                "uri": "JK_000129_010287"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

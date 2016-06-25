@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.87697,
+                    25.8651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.86510",
+                    "coord_lon": "68.87697",
+                    "cornu_URI": "MANSURA_688E258N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلمنصورة",
+                    "toponym_arabic_other": "ﭐلمنصورة",
+                    "toponym_buckwalter": "al-Mansura",
+                    "toponym_search": "al-Mansura",
+                    "toponym_translit": "al-Manṣūraŧ",
+                    "toponym_translit_other": "al-Manṣūraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

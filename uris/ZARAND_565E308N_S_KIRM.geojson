@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.59714,
+                    30.82737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.82737",
+                    "coord_lon": "56.59714",
+                    "cornu_URI": "ZARAND_565E308N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زرند",
+                    "toponym_arabic_other": "زرند",
+                    "toponym_buckwalter": "Zarand",
+                    "toponym_search": "Zarand",
+                    "toponym_translit": "Zarand",
+                    "toponym_translit_other": "Zarand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

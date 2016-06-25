@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005805",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.52-53",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رعين</h1> قصر عظيم باليمن وقيل جبل باليمن فيه حصن وبه سمي ذو رعين قال امرؤ القيس |جـ 3 صـ 53| ودار بني سواسة في رعين تخر على جوانبه الشمال ",
+                "title": "رعين",
+                "uri": "JK_000129_005805"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

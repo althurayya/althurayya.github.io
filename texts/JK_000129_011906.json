@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011906",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.119",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مرين</h1> بالضم ثم الكسر وياء ساكنة ونون بلفظ جمع التصحيح من المر ناحية من ديار مضر عن الحازمي ",
+                "title": "مرين",
+                "uri": "JK_000129_011906"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

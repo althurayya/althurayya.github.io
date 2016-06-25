@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.77466,
+                    35.42345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.42345",
+                    "coord_lon": "51.77466",
+                    "cornu_URI": "AFRIDHIN_517E354N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "أفريذين",
+                    "toponym_arabic_other": "أفريذين",
+                    "toponym_buckwalter": "Afridhin",
+                    "toponym_search": "Afridhin",
+                    "toponym_translit": "Afrīḏīn",
+                    "toponym_translit_other": "Afrīḏīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

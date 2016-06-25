@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.13227,
+                    35.37489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.37489",
+                    "coord_lon": "8.13227",
+                    "cornu_URI": "TABASSA_081E353N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "تبسا",
+                    "toponym_arabic_other": "تبسا",
+                    "toponym_buckwalter": "Tabassa",
+                    "toponym_search": "Tabassa",
+                    "toponym_translit": "Tabassā",
+                    "toponym_translit_other": "Tabassā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

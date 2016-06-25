@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005975",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.85",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة الأخرمين</h1> في شعر المسيب بن علس ترعى رياض الأخرمين له فيها موارد ماؤها غدق ",
+                "title": "روضة الأخرمين",
+                "uri": "JK_000129_005975"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

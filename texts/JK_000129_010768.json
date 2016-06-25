@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010768",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.436",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كتمى</h1> بوزن حبلى اسم جبل في شعر ابن مقبل أإحدى بني عبس ذكرت ودونها سنيح ومن رمل البعوضة منكب وكتمى ودوار كأن ذراهما وقد خفيا إلا الغوارب ربرب ",
+                "title": "كتمى",
+                "uri": "JK_000129_010768"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

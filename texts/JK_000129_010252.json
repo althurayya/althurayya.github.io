@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010252",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.350",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قسين</h1> بالضم ثم الكسر والتشديد وياء مثناة من تحت ونون كورة من نواحي الكوفة ",
+                "title": "قسين",
+                "uri": "JK_000129_010252"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.70385,
+                    41.72062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.72062",
+                    "coord_lon": "60.70385",
+                    "cornu_URI": "KATH_607E417N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "كث",
+                    "toponym_arabic_other": "كث",
+                    "toponym_buckwalter": "Kath",
+                    "toponym_search": "Kath",
+                    "toponym_translit": "Kaṯ",
+                    "toponym_translit_other": "Kaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

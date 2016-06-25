@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.25084,
+                    35.59348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.59348",
+                    "coord_lon": "49.25084",
+                    "cornu_URI": "UDH_492E355N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أوذ",
+                    "toponym_arabic_other": "أوذ",
+                    "toponym_buckwalter": "Udh",
+                    "toponym_search": "Udh",
+                    "toponym_translit": "Ūḏ",
+                    "toponym_translit_other": "Ūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

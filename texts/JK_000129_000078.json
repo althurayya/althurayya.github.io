@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000078",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.62",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبان</h1> بفتح أوله وتخفيف ثانيه وألف ونون أبان الأبيض وأبان الأسود فأبان الأبيض شرقي الحاجر فيه نخل وماء يقال له أكرة وهو العلم لبني فزارة وعبس ",
+                "title": "أبان",
+                "uri": "JK_000129_000078"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

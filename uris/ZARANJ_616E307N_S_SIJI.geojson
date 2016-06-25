@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.61613,
+                    30.7594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.75940",
+                    "coord_lon": "61.61613",
+                    "cornu_URI": "ZARANJ_616E307N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "زرنج",
+                    "toponym_arabic_other": "زرنج",
+                    "toponym_buckwalter": "Zaranj",
+                    "toponym_search": "Zaranj",
+                    "toponym_translit": "Zaranǧ",
+                    "toponym_translit_other": "Zaranǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

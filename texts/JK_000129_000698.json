@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000698",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.198",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأشفار</h1> بالفاء كأنه جمع شفر وهو الحد بلد بالنجد من أرض مهرة قرب حضرموت بأقصى اليمن له ذكر في أخبار الردة ",
+                "title": "الأشفار",
+                "uri": "JK_000129_000698"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

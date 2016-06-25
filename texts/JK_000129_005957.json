@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005957",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.78",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روذك</h1> بضم أوله وسكون ثانيه وذال معجمة وآخره هاء محلة بالري ",
+                "title": "روذك",
+                "uri": "JK_000129_005957"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

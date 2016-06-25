@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008244",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.462",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ضليلى</h1> كأنه فعيلى من الضلال وياؤه للتأنيث والضلال ضد القصد وهو اسم موضع وجاء به ابن القطاع في الأبنية ممدودا فقال ضليلاء في باب المضاعف ",
+                "title": "ضليلى",
+                "uri": "JK_000129_008244"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

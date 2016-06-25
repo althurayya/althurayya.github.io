@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.81609,
+                    33.8038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.80380",
+                    "coord_lon": "8.81609",
+                    "cornu_URI": "BISHSHARA_088E338N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "بشرى",
+                    "toponym_arabic_other": "بشرى، بشري",
+                    "toponym_buckwalter": "Bishshara, Bishri",
+                    "toponym_search": "Bishshara, Bishri",
+                    "toponym_translit": "Biššará",
+                    "toponym_translit_other": "Biššará, Bišrī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001873",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.403",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برندق</h1> بالتحريك وسكون النون وفتح الدال وقاف قرية كبيرة من واد بين قزوين وخلخال من أعمال أذربيحان ",
+                "title": "برندق",
+                "uri": "JK_000129_001873"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

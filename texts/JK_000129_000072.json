@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000072",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.60",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبارق النسر</h1> بفتح النون وسكون السين المهملة والراء وقال أبو العتريف وأهوى دماث النسر ادخل بينها بحيث التقت سلانه وأبارقه ",
+                "title": "أبارق النسر",
+                "uri": "JK_000129_000072"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

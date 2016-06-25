@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009116",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.156",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العمرية</h1> ماء بنجد لبني عمرو بن قعين بن الحارث بن ثعلبة بن دودان بن أسد بن خزيمة ",
+                "title": "العمرية",
+                "uri": "JK_000129_009116"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

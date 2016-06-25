@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.5535,
+                    33.90176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.90176",
+                    "coord_lon": "35.55350",
+                    "cornu_URI": "ROUTPOINT0118_355E339N_O_NODA",
+                    "region_code": 22,
+                    "region_spelled": "noData",
+                    "top_type_hom": "xroads",
+                    "top_type_orig": "rPoint",
+                    "toponym_arabic": "RoutPoint0118",
+                    "toponym_arabic_other": "RoutPoint0118",
+                    "toponym_buckwalter": "RoutPoint0118",
+                    "toponym_search": "RoutPoint0118",
+                    "toponym_translit": "RoutPoint0118",
+                    "toponym_translit_other": "RoutPoint0118"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

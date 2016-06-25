@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    29.71572,
+                    30.93264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.93264",
+                    "coord_lon": "29.71572",
+                    "cornu_URI": "BUMINA_297E309N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بومينة",
+                    "toponym_arabic_other": "بومينة، بومينى",
+                    "toponym_buckwalter": "Bumina, Bumina",
+                    "toponym_search": "Bumina, Bumina",
+                    "toponym_translit": "Būmīnaŧ",
+                    "toponym_translit_other": "Būmīnaŧ, Būmīná"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

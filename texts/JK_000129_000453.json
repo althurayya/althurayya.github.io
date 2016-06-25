@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000453",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.145",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أرخمان</h1> بالفتح ثم السكون وضم الخاء المعجمة وميم وألف ونون بليدة من نواحي فارس من كورة إصطخر ",
+                "title": "أرخمان",
+                "uri": "JK_000129_000453"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

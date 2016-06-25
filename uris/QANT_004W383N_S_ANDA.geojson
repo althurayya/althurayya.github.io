@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.47061,
+                    38.34618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.34618",
+                    "coord_lon": "-0.47061",
+                    "cornu_URI": "QANT_004W383N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قانت",
+                    "toponym_arabic_other": "قانت",
+                    "toponym_buckwalter": "Qant",
+                    "toponym_search": "Qant",
+                    "toponym_translit": "Qānt",
+                    "toponym_translit_other": "Qānt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

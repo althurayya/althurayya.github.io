@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    33.12566,
+                    31.02385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.02385",
+                    "coord_lon": "33.12566",
+                    "cornu_URI": "BAQQARA_331E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلبقارة",
+                    "toponym_arabic_other": "ﭐلبقارة",
+                    "toponym_buckwalter": "al-Baqqara",
+                    "toponym_search": "al-Baqqara",
+                    "toponym_translit": "al-Baqqāraŧ",
+                    "toponym_translit_other": "al-Baqqāraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

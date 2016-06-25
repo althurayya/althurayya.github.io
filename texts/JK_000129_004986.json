@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004986",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.427",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دارة داثر</h1> في أرض فزارة وداثر ماء لهم قال حجر بن عقبة الفزاري رأيت المطي دون دارة داثر جنوحا أذاقته الهوان خزائمه ",
+                "title": "دارة داثر",
+                "uri": "JK_000129_004986"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

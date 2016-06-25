@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003844",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.243",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حرلان</h1> آخره نون ناحية بدمشق بالغوطة فيها عدة قرى بها قوم من أشراف بني أمية ",
+                "title": "حرلان",
+                "uri": "JK_000129_003844"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

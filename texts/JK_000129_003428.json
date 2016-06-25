@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003428",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.174",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجوابة</h1> بفتحتين والثانية مشددة وألف وباء موحدة رداه بنجد لها جبال سود صغار والراده جمع ردهة وهو ماء مستنقع في الصخر ",
+                "title": "الجوابة",
+                "uri": "JK_000129_003428"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

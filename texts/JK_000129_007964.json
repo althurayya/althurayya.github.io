@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007964",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.401-402",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صرعينا</h1> موضع ذكره ابن القطاع في كتاب الأبنية |جـ 3 صـ 402| ",
+                "title": "صرعينا",
+                "uri": "JK_000129_007964"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.22657,
+                    25.59071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.59071",
+                    "coord_lon": "56.22657",
+                    "cornu_URI": "DABA_562E255N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دبا",
+                    "toponym_arabic_other": "دبا",
+                    "toponym_buckwalter": "Daba",
+                    "toponym_search": "Daba",
+                    "toponym_translit": "Dabā",
+                    "toponym_translit_other": "Dabā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

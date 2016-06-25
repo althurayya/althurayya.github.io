@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010122",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.321",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قرحياء</h1> بكسر أوله وسكون ثانيه وكسر الحاء والياء المثناة من تحت والمد قال الحسن المهلبي موضع قال وكل أرض ملساء قرحياء ",
+                "title": "قرحياء",
+                "uri": "JK_000129_010122"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

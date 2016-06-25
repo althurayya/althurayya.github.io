@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.35353,
+                    37.70285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.70285",
+                    "coord_lon": "45.35353",
+                    "cornu_URI": "BUHAYRAURMIYYA_453E377N_W_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة أرمية",
+                    "toponym_arabic_other": "بحيرة أرمية",
+                    "toponym_buckwalter": "Buhayra Urmiyya",
+                    "toponym_search": "Buhayra Urmiyya",
+                    "toponym_translit": "Buḥayraŧ Urmiyyaŧ",
+                    "toponym_translit_other": "Buḥayraŧ Urmiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

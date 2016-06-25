@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.14753,
+                    14.94825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.94825",
+                    "coord_lon": "34.14753",
+                    "cornu_URI": "BILADHABASHA_341E149N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بلاد ﭐلحبشة",
+                    "toponym_arabic_other": "بلاد ﭐلحبشة",
+                    "toponym_buckwalter": "Bilad al-Habasha",
+                    "toponym_search": "Bilad al-Habasha",
+                    "toponym_translit": "Bilād al-Ḥabašaŧ",
+                    "toponym_translit_other": "Bilād al-Ḥabašaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.79626,
+                    25.04085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.04085",
+                    "coord_lon": "40.79626",
+                    "cornu_URI": "USAYLA_407E250N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلعسيلة",
+                    "toponym_arabic_other": "ﭐلعسيلة",
+                    "toponym_buckwalter": "al-Usayla",
+                    "toponym_search": "al-Usayla",
+                    "toponym_translit": "al-ʿUsaylaŧ",
+                    "toponym_translit_other": "al-ʿUsaylaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000242",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.100",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأجابين</h1> بالفتح وبعد الألف ياءان تحت كل واحدة منهما نقطتان بلفظ التثنية اسم موضع كان لهم فيه يوم من أيامهم ",
+                "title": "الأجابين",
+                "uri": "JK_000129_000242"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

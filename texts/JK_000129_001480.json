@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001480",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.338",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بثرون</h1> بالتحريك والراء حصن بين جبيل وأنفة على ساحل بحر الشام ",
+                "title": "بثرون",
+                "uri": "JK_000129_001480"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

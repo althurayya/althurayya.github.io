@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004971",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.423",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دار المربعة</h1> بدار الخلافة ببغداد وهي من بناء المطيع لله أيضا ",
+                "title": "دار المربعة",
+                "uri": "JK_000129_004971"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

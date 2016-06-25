@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006802",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.229",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سكاب</h1> وقيل هو علم فرس بوزن قطام جبل من جبال القبلية عن الزمخشري ",
+                "title": "سكاب",
+                "uri": "JK_000129_006802"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

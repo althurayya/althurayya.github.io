@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.27273,
+                    37.26306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.26306",
+                    "coord_lon": "65.27273",
+                    "cornu_URI": "RIBATAFRIGHUN_652E372N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط أفريغون",
+                    "toponym_arabic_other": "رباط أفريغون",
+                    "toponym_buckwalter": "Ribat Afrighun",
+                    "toponym_search": "Ribat Afrighun",
+                    "toponym_translit": "Ribāṭ Afrīġūn",
+                    "toponym_translit_other": "Ribāṭ Afrīġūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

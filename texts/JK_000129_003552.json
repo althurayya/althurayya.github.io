@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003552",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.194",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جهور</h1> موضع في شعر سلمى بن المقعد الهذلي ولولا اتقاء الله حين ادخلتم لكم صرط بين الكحيل وجهور لأرسلت فيكم كل سيد سميدع أخي ثقة في كل يوم مذكر ",
+                "title": "جهور",
+                "uri": "JK_000129_003552"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

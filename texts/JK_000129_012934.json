@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012934",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.306",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>النوابة</h1> من قرى مخلاف سنحان باليمن ",
+                "title": "النوابة",
+                "uri": "JK_000129_012934"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

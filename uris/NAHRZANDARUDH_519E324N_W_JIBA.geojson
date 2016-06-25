@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.91596,
+                    32.45826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.45826",
+                    "coord_lon": "51.91596",
+                    "cornu_URI": "NAHRZANDARUDH_519E324N_W_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر زندروذ",
+                    "toponym_arabic_other": "نهر زندروذ، ﭐلزرينروذ، زرنروذ",
+                    "toponym_buckwalter": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh",
+                    "toponym_search": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh",
+                    "toponym_translit": "Nahr Zandarūḏ",
+                    "toponym_translit_other": "Nahr Zandarūḏ, al-Zarīnrūḏ, Zaranrūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

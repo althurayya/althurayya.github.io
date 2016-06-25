@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001519",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.349",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بحطيط</h1> بالفتح ثم السكون وكسر الطاء قرية في حوف مصر بها قبة يقال إن فيها ذبحت بقرة بني إسرائيل التي أمروا بذبحها ",
+                "title": "بحطيط",
+                "uri": "JK_000129_001519"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

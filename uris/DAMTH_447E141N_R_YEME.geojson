@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.74355,
+                    14.16433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.16433",
+                    "coord_lon": "44.74355",
+                    "cornu_URI": "DAMTH_447E141N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "دمث",
+                    "toponym_arabic_other": "دمث",
+                    "toponym_buckwalter": "Damth",
+                    "toponym_search": "Damth",
+                    "toponym_translit": "Damṯ",
+                    "toponym_translit_other": "Damṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

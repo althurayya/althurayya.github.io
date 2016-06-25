@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.54129,
+                    29.66188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.66188",
+                    "coord_lon": "51.54129",
+                    "cornu_URI": "DARIZ_515E296N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دريز",
+                    "toponym_arabic_other": "دريز",
+                    "toponym_buckwalter": "Dariz",
+                    "toponym_search": "Dariz",
+                    "toponym_translit": "Darīz",
+                    "toponym_translit_other": "Darīz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

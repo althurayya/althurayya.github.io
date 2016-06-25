@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.47226,
+                    30.33334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.33334",
+                    "coord_lon": "35.47226",
+                    "cornu_URI": "WADIMUSA_354E303N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "وادي موسى",
+                    "toponym_arabic_other": "وادي موسى",
+                    "toponym_buckwalter": "Wadi Musa",
+                    "toponym_search": "Wadi Musa",
+                    "toponym_translit": "Wādī Mūsá",
+                    "toponym_translit_other": "Wādī Mūsá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

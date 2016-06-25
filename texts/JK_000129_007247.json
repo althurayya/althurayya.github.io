@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007247",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.298",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سيفذنج</h1> بكسر أوله وسكون ثانيه وفتح الفاء والذال المعجمة مفتوحة ثم نون ساكنة وآخره جيم قرية بينها وبين مرو أربعة فراسخ ",
+                "title": "سيفذنج",
+                "uri": "JK_000129_007247"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

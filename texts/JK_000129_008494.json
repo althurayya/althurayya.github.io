@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008494",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.51",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طويل البنات</h1> بتقديم الباء على النون من البنات ورواه بعضهم بتقديم النون جبل بين اليمامة والحجاز ",
+                "title": "طويل البنات",
+                "uri": "JK_000129_008494"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

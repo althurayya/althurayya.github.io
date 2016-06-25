@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011953",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.126",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المسرقانان</h1> نهران بالبصرة كانت لأبي بكرة قطيعة سميت بالمسرقان الذي بخوزستان ",
+                "title": "المسرقانان",
+                "uri": "JK_000129_011953"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

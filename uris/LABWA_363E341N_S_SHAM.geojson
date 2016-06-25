@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.33244,
+                    34.19007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.19007",
+                    "coord_lon": "36.33244",
+                    "cornu_URI": "LABWA_363E341N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village?",
+                    "toponym_arabic": "لبوة",
+                    "toponym_arabic_other": "لبوة",
+                    "toponym_buckwalter": "Labwa",
+                    "toponym_search": "Labwa",
+                    "toponym_translit": "Labwaŧ",
+                    "toponym_translit_other": "Labwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

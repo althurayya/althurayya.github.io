@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003455",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.178",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جوثاء</h1> بالفتح ثم السكون وثاء مثلثة وألف ممدودة موضع ",
+                "title": "جوثاء",
+                "uri": "JK_000129_003455"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

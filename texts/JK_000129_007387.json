@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007387",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.325",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شتنا</h1> من قرى مصر بينها وبين مليج فرسخ على بحر المحلة ",
+                "title": "شتنا",
+                "uri": "JK_000129_007387"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

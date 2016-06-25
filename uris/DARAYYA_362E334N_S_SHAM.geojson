@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.23184,
+                    33.46544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.46544",
+                    "coord_lon": "36.23184",
+                    "cornu_URI": "DARAYYA_362E334N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "داريا",
+                    "toponym_arabic_other": "داريا",
+                    "toponym_buckwalter": "Darayya",
+                    "toponym_search": "Darayya",
+                    "toponym_translit": "Dārayyā",
+                    "toponym_translit_other": "Dārayyā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

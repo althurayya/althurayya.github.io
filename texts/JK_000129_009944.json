@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009944",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.290",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القابل</h1> بعد الألف باء موحدة المسجد أو الجبل الذي عن يسارك من مسجد الخيف بمكة عن الأصمعي ",
+                "title": "القابل",
+                "uri": "JK_000129_009944"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

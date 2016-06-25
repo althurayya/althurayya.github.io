@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011929",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.123",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المزيرعة</h1> تصغير المزرعة قرية بالبحرين لبني عامر بن الحارث بن عبد القيس ",
+                "title": "المزيرعة",
+                "uri": "JK_000129_011929"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

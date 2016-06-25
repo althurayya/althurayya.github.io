@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007130",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.282",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سوق الأهواز</h1> اسم مدينة ذكرت خبرها مبسوطا في الأهواز ",
+                "title": "سوق الأهواز",
+                "uri": "JK_000129_007130"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

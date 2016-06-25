@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.94751,
+                    36.20578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.20578",
+                    "coord_lon": "65.94751",
+                    "cornu_URI": "ANBAR_659E362N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلأنبار",
+                    "toponym_arabic_other": "ﭐلأنبار",
+                    "toponym_buckwalter": "al-Anbar",
+                    "toponym_search": "al-Anbar",
+                    "toponym_translit": "al-Anbār",
+                    "toponym_translit_other": "al-Anbār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

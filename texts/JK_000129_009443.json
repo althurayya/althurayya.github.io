@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009443",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.206",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غضور</h1> بفتح أوله وثانيه وتشديد الواو ثم راء موضع آخر قال الشماخ فأوردها ماء الغضور آجنا له عرمض كالغسل فيه طموم ",
+                "title": "غضور",
+                "uri": "JK_000129_009443"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

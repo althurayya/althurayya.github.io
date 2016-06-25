@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.2099,
+                    30.32501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.32501",
+                    "coord_lon": "61.20990",
+                    "cornu_URI": "RAMASHAHRISTAN_612E303N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "رامشهرستان",
+                    "toponym_arabic_other": "رامشهرستان",
+                    "toponym_buckwalter": "Ramashahristan",
+                    "toponym_search": "Ramashahristan",
+                    "toponym_translit": "Rāmašahristān",
+                    "toponym_translit_other": "Rāmašahristān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

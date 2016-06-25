@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004405",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.338",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خاكة</h1> واد من بلاد عذرة كانت به وقعة عن نصر عن العمراني ",
+                "title": "خاكة",
+                "uri": "JK_000129_004405"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

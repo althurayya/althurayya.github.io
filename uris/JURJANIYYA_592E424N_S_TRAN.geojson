@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.21993,
+                    42.45632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.45632",
+                    "coord_lon": "59.21993",
+                    "cornu_URI": "JURJANIYYA_592E424N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلجرجانية",
+                    "toponym_arabic_other": "ﭐلجرجانية",
+                    "toponym_buckwalter": "al-Jurjaniyya",
+                    "toponym_search": "al-Jurjaniyya",
+                    "toponym_translit": "al-Ǧurǧāniyyaŧ",
+                    "toponym_translit_other": "al-Ǧurǧāniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

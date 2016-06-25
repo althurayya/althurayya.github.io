@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.92797,
+                    28.41584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.41584",
+                    "coord_lon": "45.92797",
+                    "cornu_URI": "HAFARABUMUSA_459E284N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حفر أبو موسى",
+                    "toponym_arabic_other": "حفر أبو موسى",
+                    "toponym_buckwalter": "Hafar Abu Musa",
+                    "toponym_search": "Hafar Abu Musa",
+                    "toponym_translit": "Ḥafar Abū Mūsá",
+                    "toponym_translit_other": "Ḥafar Abū Mūsá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

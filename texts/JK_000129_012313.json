@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012313",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.202",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المنازل</h1> بالفتح جمع منزل قرن المنازل جبيل قرب مكة يحرم منه حاج نجد ",
+                "title": "المنازل",
+                "uri": "JK_000129_012313"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

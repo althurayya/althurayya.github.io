@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.52452,
+                    41.31976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.31976",
+                    "coord_lon": "69.52452",
+                    "cornu_URI": "JABGHUKATH_695E413N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جبغوكث",
+                    "toponym_arabic_other": "جبغوكث",
+                    "toponym_buckwalter": "Jabghukath",
+                    "toponym_search": "Jabghukath",
+                    "toponym_translit": "Ǧabġūkaṯ",
+                    "toponym_translit_other": "Ǧabġūkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

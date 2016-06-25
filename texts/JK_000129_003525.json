@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003525",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.190",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جو</h1> أرض لبني ثعل بالجبلين قال امرؤ القيس تظل لبوني بين جو ومسطح تراعي الفراخ الدارجات من الحجل ولعلها التي قبلها ",
+                "title": "جو",
+                "uri": "JK_000129_003525"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

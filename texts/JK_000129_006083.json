@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006083",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.109",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رهوى</h1> بفتح أوله وسكون ثانيه مقصور في كتاب العين المرأة الرهو والرهوى لغتان المرأة الواسعة وهو اسم موضع ",
+                "title": "رهوى",
+                "uri": "JK_000129_006083"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

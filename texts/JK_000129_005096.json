@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005096",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.444",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دحل</h1> بضم أوله وسكون ثانيه جمع للذي قبله وقد ذكر تفسيره وهي جزيرة بين اليمن وبلاد البجة بين الصعيد وتهامة تغزى البجة من هذه الناحية ",
+                "title": "دحل",
+                "uri": "JK_000129_005096"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

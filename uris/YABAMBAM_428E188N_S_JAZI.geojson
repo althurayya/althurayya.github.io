@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.82847,
+                    18.87682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "18.87682",
+                    "coord_lon": "42.82847",
+                    "cornu_URI": "YABAMBAM_428E188N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "يبمبم",
+                    "toponym_arabic_other": "يبمبم، يبنبم",
+                    "toponym_buckwalter": "Yabambam, Yabanbam",
+                    "toponym_search": "Yabambam, Yabanbam",
+                    "toponym_translit": "Yabambam",
+                    "toponym_translit_other": "Yabambam, Yabanbam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

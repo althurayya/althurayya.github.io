@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009743",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.257",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الفروان</h1> ساق الفروين جبل في أرض بني أسد بنجد وأنشد الحفصي أقفر من خولة ساق فروين فالحضر فالركن من أبانين وساق جبل آخر يذكر مفردا ومضافا ",
+                "title": "الفروان",
+                "uri": "JK_000129_009743"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

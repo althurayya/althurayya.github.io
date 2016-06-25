@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007509",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.342",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شري</h1> بتشديد الياء طريق بين تهامة واليمن ",
+                "title": "شري",
+                "uri": "JK_000129_007509"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

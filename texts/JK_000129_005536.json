@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005536",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.12",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>راجل</h1> بلفظ واحد الرجالة واد بنجد وقيل حرة راجل بين السر ومشارف حوران ",
+                "title": "راجل",
+                "uri": "JK_000129_005536"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

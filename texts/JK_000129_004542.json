@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004542",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.359",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خرشان</h1> بفتح أوله وبعد الراء الساكنة شين معجمة موضع ",
+                "title": "خرشان",
+                "uri": "JK_000129_004542"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

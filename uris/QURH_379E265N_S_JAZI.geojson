@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.99288,
+                    26.55412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.55412",
+                    "coord_lon": "37.99288",
+                    "cornu_URI": "QURH_379E265N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "قرح",
+                    "toponym_arabic_other": "قرح",
+                    "toponym_buckwalter": "Qurh",
+                    "toponym_search": "Qurh",
+                    "toponym_translit": "Qurḥ",
+                    "toponym_translit_other": "Qurḥ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

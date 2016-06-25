@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009905",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.282",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فيجكث</h1> بالكسر ثم السكون وفتح الجيم وكاف مفتوحة ثم ثاء مثلثة من قرى نسف ",
+                "title": "فيجكث",
+                "uri": "JK_000129_009905"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

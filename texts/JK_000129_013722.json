@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013722",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.439",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>يغوث</h1> آخره ثاء مثلثة اسم صنم وهو من غثب الرجل أغوثه من الغوث أي أغثته قال متى يأتي غياثك من يغوث تغوث ",
+                "title": "يغوث",
+                "uri": "JK_000129_013722"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

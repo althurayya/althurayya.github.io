@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.98155,
+                    32.29512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.29512",
+                    "coord_lon": "34.98155",
+                    "cornu_URI": "QALANSUWA_349E322N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قلنسوة",
+                    "toponym_arabic_other": "قلنسوة",
+                    "toponym_buckwalter": "Qalansuwa",
+                    "toponym_search": "Qalansuwa",
+                    "toponym_translit": "Qalansuwaŧ",
+                    "toponym_translit_other": "Qalansuwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

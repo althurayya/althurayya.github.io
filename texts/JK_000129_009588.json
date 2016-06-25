@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009588",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.232",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فاطماباذ</h1> من قرى همذان قال شيرويه قيل إن مسجد جامع همذان كان بفاطماباذ وإنه كان بجنب المسجد الجامع اليوم كروم وزروع ",
+                "title": "فاطماباذ",
+                "uri": "JK_000129_009588"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

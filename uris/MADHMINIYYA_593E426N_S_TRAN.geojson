@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.30953,
+                    42.67871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.67871",
+                    "coord_lon": "59.30953",
+                    "cornu_URI": "MADHMINIYYA_593E426N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مذمينية",
+                    "toponym_arabic_other": "مذمينية، مدكمينية !",
+                    "toponym_buckwalter": "Madhminiyya, Madkaminiyya !",
+                    "toponym_search": "Madhminiyya, Madkaminiyya !",
+                    "toponym_translit": "Maḏmīniyyaŧ",
+                    "toponym_translit_other": "Maḏmīniyyaŧ, Madkamīniyyaŧ !"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

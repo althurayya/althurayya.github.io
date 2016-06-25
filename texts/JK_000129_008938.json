@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008938",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.127",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عشورى</h1> بضم أوله والقصر موضع في كتاب الأبنية لابن القطاع ",
+                "title": "عشورى",
+                "uri": "JK_000129_008938"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

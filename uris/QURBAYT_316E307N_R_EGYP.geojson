@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.62447,
+                    30.73556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.73556",
+                    "coord_lon": "31.62447",
+                    "cornu_URI": "QURBAYT_316E307N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "قربيت",
+                    "toponym_arabic_other": "قربيت",
+                    "toponym_buckwalter": "Qurbayt",
+                    "toponym_search": "Qurbayt",
+                    "toponym_translit": "Qurbayt",
+                    "toponym_translit_other": "Qurbayt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

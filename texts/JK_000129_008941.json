@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008941",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.127",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عشوزن</h1> مثل الذي قبله إلا أن آخره نون والعشوزن السيء الخلق من كل شيء وهو اسم موضع ",
+                "title": "عشوزن",
+                "uri": "JK_000129_008941"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

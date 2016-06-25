@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.10865,
+                    37.53493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.53493",
+                    "coord_lon": "-5.10865",
+                    "cornu_URI": "ISTIJA_051W375N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إستجة",
+                    "toponym_arabic_other": "إستجة",
+                    "toponym_buckwalter": "Istija",
+                    "toponym_search": "Istija",
+                    "toponym_translit": "Istiǧaŧ",
+                    "toponym_translit_other": "Istiǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

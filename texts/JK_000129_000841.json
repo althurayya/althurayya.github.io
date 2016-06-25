@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000841",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.227",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأفراع</h1> موضع حول مكة في شعر الفضل اللهبي فالهاوتان فكبكب فجتاوب فالبوص فالأفراع من أشقاب ",
+                "title": "الأفراع",
+                "uri": "JK_000129_000841"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

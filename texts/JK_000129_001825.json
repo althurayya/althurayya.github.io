@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001825",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.397",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة ذي قار</h1> قال بعضهم لقد خبرت عيناك يوما بحبها ببرقة ذي قار وقد كتم الصدر ",
+                "title": "برقة ذي قار",
+                "uri": "JK_000129_001825"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

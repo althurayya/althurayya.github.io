@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007361",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شبر</h1> بالتحريك وآخره راء والشبر العطية وقيل القربان الذي يتقرب به النصارى قال العجاج الحمد لله الذي أعطى الشبر وهو موضع من نواحي البحرين ",
+                "title": "شبر",
+                "uri": "JK_000129_007361"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

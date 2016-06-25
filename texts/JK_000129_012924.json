@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012924",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.305",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نمرى</h1> بلد من كورة الغربية من نواحي مصر عن الزهري ",
+                "title": "نمرى",
+                "uri": "JK_000129_012924"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

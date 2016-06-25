@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006823",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.231",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سكير العباس</h1> موضع في بلفظ تصغير السكر وهو اسم للسداد الذي تسد به فوهة الأنهر وهي بليدة صغيرة بالخابور فيها منبر وسوق ",
+                "title": "سكير العباس",
+                "uri": "JK_000129_006823"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

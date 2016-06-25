@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.96347,
+                    54.45304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "54.45304",
+                    "coord_lon": "49.96347",
+                    "cornu_URI": "SUWAR_499E544N_S_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سوار",
+                    "toponym_arabic_other": "سوار",
+                    "toponym_buckwalter": "Suwar",
+                    "toponym_search": "Suwar",
+                    "toponym_translit": "Suwār",
+                    "toponym_translit_other": "Suwār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

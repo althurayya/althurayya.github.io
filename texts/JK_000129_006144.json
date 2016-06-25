@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006144",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.125",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زابيا</h1> بكسر الباء الموحدة وياء نهر احتفره الحجاج فوق واسط وسماه بذلك لأخذه من الزابين تثنية الزاب ",
+                "title": "زابيا",
+                "uri": "JK_000129_006144"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

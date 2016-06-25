@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.50815,
+                    27.06977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.06977",
+                    "coord_lon": "42.50815",
+                    "cornu_URI": "FAYD_425E270N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فيد",
+                    "toponym_arabic_other": "فيد",
+                    "toponym_buckwalter": "Fayd",
+                    "toponym_search": "Fayd",
+                    "toponym_translit": "Fayd",
+                    "toponym_translit_other": "Fayd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

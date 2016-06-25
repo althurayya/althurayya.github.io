@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013142",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.345",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وادي القصور</h1> في بلاد هذيل قال صخر الغي الهذلي يصف سحابا فأصبح ما بين وادي القصور حتى يلملم حوضا لقيفا ",
+                "title": "وادي القصور",
+                "uri": "JK_000129_013142"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.08509,
+                    14.2537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.25370",
+                    "coord_lon": "44.08509",
+                    "cornu_URI": "WADISUHUL_440E142N_W_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي سحول",
+                    "toponym_arabic_other": "وادي سحول",
+                    "toponym_buckwalter": "Wadi Suhul",
+                    "toponym_search": "Wadi Suhul",
+                    "toponym_translit": "Wādī Suḥūl",
+                    "toponym_translit_other": "Wādī Suḥūl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

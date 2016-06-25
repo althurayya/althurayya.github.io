@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006324",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.148-150",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زملق</h1> بضم أوله وثانيه وسكون اللام وآخره قاف قرية قريبة من سنج من قرى مرو وهي |جـ 3 صـ 150| الآن خراب وقد نسب إليها نفر من العلماء عن السمعاني ",
+                "title": "زملق",
+                "uri": "JK_000129_006324"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

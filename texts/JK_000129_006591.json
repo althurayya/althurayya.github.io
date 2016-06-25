@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006591",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.195",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سحطة</h1> حصن في جبال صنعاء كان بيد عبد الله بن حمزة الزيدي الخارجي ",
+                "title": "سحطة",
+                "uri": "JK_000129_006591"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

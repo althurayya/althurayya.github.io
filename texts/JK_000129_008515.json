@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008515",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.55",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طيسانية</h1> بالكسر ثم السكون وسين مهملة وبعد الألف نون وباء مثناة من تحت خفيفة بلدة بالأندلس من أعمال إشبيلية ",
+                "title": "طيسانية",
+                "uri": "JK_000129_008515"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

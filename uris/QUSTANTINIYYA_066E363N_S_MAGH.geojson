@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.62703,
+                    36.3379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.33790",
+                    "coord_lon": "6.62703",
+                    "cornu_URI": "QUSTANTINIYYA_066E363N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلقسطنطنية",
+                    "toponym_arabic_other": "ﭐلقسطنطنية، قسطنطنية",
+                    "toponym_buckwalter": "al-Qustantiniyya, Qustantiniyya",
+                    "toponym_search": "al-Qustantiniyya, Qustantiniyya",
+                    "toponym_translit": "al-Qusṭanṭiniyyaŧ",
+                    "toponym_translit_other": "al-Qusṭanṭiniyyaŧ, Qusṭanṭiniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

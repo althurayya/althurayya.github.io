@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.49859,
+                    29.61311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.61311",
+                    "coord_lon": "57.49859",
+                    "cornu_URI": "RAIN_574E296N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رائن",
+                    "toponym_arabic_other": "رائن، راين",
+                    "toponym_buckwalter": "Rain, Rayin",
+                    "toponym_search": "Rain, Rayin",
+                    "toponym_translit": "Rāʾin",
+                    "toponym_translit_other": "Rāʾin, Rāyin"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

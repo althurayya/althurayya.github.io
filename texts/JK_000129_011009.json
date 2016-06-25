@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011009",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.476",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كلب</h1> بالتحريك بلفظ الداء الذي يصيب من يعضه الكلب الكلب دير الكلب في ناحية باعذرا من أعمال الموصل ",
+                "title": "كلب",
+                "uri": "JK_000129_011009"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

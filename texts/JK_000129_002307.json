@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002307",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.518",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بيان</h1> بالفتح والتخفيف صقع من سواد البصرة في الجانب الشرقي من دجلة عليه الطريق إلى حصن مهدي وهي قريبة منه وهو من نواحي الأهواز أعني حصن مهدي ",
+                "title": "بيان",
+                "uri": "JK_000129_002307"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

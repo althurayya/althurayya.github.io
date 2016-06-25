@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004624",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.371",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خسفين</h1> بكسر أوله وفاء مكسورة وياء مثناة من تحت ونون قرية من أعمال حوران بعد نوى في طريق مصر بين نوى والأردن وبينها وبين دمشق خمسة عشر فرسخا ",
+                "title": "خسفين",
+                "uri": "JK_000129_004624"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

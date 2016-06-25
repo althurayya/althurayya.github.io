@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001412",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.328",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باكة</h1> بتشديد الكاف حصن بالأندلس من نواحي بربشتر وهو اليوم بيد الأفرنج ",
+                "title": "باكة",
+                "uri": "JK_000129_001412"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

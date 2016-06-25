@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.93672,
+                    33.55385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.55385",
+                    "coord_lon": "54.93672",
+                    "cornu_URI": "JARMAQ_549E335N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "جرمق",
+                    "toponym_arabic_other": "جرمق",
+                    "toponym_buckwalter": "Jarmaq",
+                    "toponym_search": "Jarmaq",
+                    "toponym_translit": "Ǧarmaq",
+                    "toponym_translit_other": "Ǧarmaq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

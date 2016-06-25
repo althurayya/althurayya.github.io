@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.02806,
+                    37.67797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.67797",
+                    "coord_lon": "13.02806",
+                    "cornu_URI": "BALJA_130E376N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بلجة",
+                    "toponym_arabic_other": "بلجة",
+                    "toponym_buckwalter": "Balja",
+                    "toponym_search": "Balja",
+                    "toponym_translit": "Balǧaŧ",
+                    "toponym_translit_other": "Balǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003236",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.139",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جزيرة مزغناي</h1> ويقال جزيرة بني مزغناي وقد مر ذكره في جزائر ",
+                "title": "جزيرة مزغناي",
+                "uri": "JK_000129_003236"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

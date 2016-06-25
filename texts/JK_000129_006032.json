@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006032",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.95",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة المضجع</h1> بفتح الميم وسكون الضاد المعجمة وفتح الجيم في بلاد أبي بكر بن كلاب قال بعضهم قفا نحي روضة بالمضجع قد حدقت بنبتها الموشع ",
+                "title": "روضة المضجع",
+                "uri": "JK_000129_006032"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

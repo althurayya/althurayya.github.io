@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.86183,
+                    31.59434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.59434",
+                    "coord_lon": "65.86183",
+                    "cornu_URI": "BAKRABADH_658E315N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بكراباذ",
+                    "toponym_arabic_other": "بكراباذ، بكراواذ",
+                    "toponym_buckwalter": "Bakrabadh, Bakrawadh",
+                    "toponym_search": "Bakrabadh, Bakrawadh",
+                    "toponym_translit": "Bakrābāḏ",
+                    "toponym_translit_other": "Bakrābāḏ, Bakrāwāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

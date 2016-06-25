@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012772",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.284",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نستر</h1> بكسر النون ثم السكون وتاء مثناة من فوقها وراء كلمة نبطية اسم لصقع بسواد العراق ثم من نواحي بغداد فيه قرى ومزارع ",
+                "title": "نستر",
+                "uri": "JK_000129_012772"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

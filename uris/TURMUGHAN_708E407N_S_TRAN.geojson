@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.89318,
+                    40.78105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.78105",
+                    "coord_lon": "70.89318",
+                    "cornu_URI": "TURMUGHAN_708E407N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ترمغان",
+                    "toponym_arabic_other": "ترمغان، طرمقان",
+                    "toponym_buckwalter": "Turmughan, Turmuqan",
+                    "toponym_search": "Turmughan, Turmuqan",
+                    "toponym_translit": "Turmuġān",
+                    "toponym_translit_other": "Turmuġān, Ṭurmuqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

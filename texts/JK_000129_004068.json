@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004068",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.275",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حفر الرباب</h1> ماء بالدهناء من منازل تيم بن مرة والحفر غير مضاف إلى شيء علمته من منازل أبي بكر بن كلاب عن أبي زياد ",
+                "title": "حفر الرباب",
+                "uri": "JK_000129_004068"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

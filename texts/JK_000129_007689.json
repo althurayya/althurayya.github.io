@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007689",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.365",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شمونت</h1> بالفتح والتشديد وسكون الواو وفتح النون والتاء المثناة قرية من أعمال مدينة سالم بالأندلس لها ذكر في أخبارهم ",
+                "title": "شمونت",
+                "uri": "JK_000129_007689"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

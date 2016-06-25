@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.05459,
+                    25.06481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.06481",
+                    "coord_lon": "38.05459",
+                    "cornu_URI": "RASAYN_380E250N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رأس ﭐلعين",
+                    "toponym_arabic_other": "رأس ﭐلعين",
+                    "toponym_buckwalter": "Ras al-Ayn",
+                    "toponym_search": "Ras al-Ayn",
+                    "toponym_translit": "Raʾs al-ʿAyn",
+                    "toponym_translit_other": "Raʾs al-ʿAyn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    12.88988,
+                    37.7083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.70830",
+                    "coord_lon": "12.88988",
+                    "cornu_URI": "BARTANNA_128E377N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "برطنة",
+                    "toponym_arabic_other": "برطنة",
+                    "toponym_buckwalter": "Bartanna",
+                    "toponym_search": "Bartanna",
+                    "toponym_translit": "Barṭannaŧ",
+                    "toponym_translit_other": "Barṭannaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

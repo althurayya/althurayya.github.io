@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.67825,
+                    29.79365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.79365",
+                    "coord_lon": "55.67825",
+                    "cornu_URI": "KURDAKAN_556E297N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "كردكان",
+                    "toponym_arabic_other": "كردكان",
+                    "toponym_buckwalter": "Kurdakan",
+                    "toponym_search": "Kurdakan",
+                    "toponym_translit": "Kurdakān",
+                    "toponym_translit_other": "Kurdakān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

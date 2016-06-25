@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007086",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.276",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذات السواسى</h1> جبل لبني جعفر بن كلاب قال الأصمعي ذات السواسى شعب بنصيبين من ينوف وأنشد وأبصر نارا بذات السواسى ",
+                "title": "ذات السواسى",
+                "uri": "JK_000129_007086"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

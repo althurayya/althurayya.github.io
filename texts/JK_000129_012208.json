@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012208",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.177",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مقلص</h1> موضع في شعر أبي دؤاد الإيادي حيث قال أقفر الخب من منازل أسما ء فجنبا مقلص فظليم وترى بالجواء منها حلولا وبذات القصيم منها رسوم ",
+                "title": "مقلص",
+                "uri": "JK_000129_012208"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

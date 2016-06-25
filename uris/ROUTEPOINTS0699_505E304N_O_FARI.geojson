@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.51371,
+                    30.44661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.44661",
+                    "coord_lon": "50.51371",
+                    "cornu_URI": "ROUTEPOINTS0699_505E304N_O_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "xroads",
+                    "top_type_orig": "rPoint",
+                    "toponym_arabic": "RoutePoints0699",
+                    "toponym_arabic_other": "RoutePoints0699",
+                    "toponym_buckwalter": "RoutePoints0699",
+                    "toponym_search": "RoutePoints0699",
+                    "toponym_translit": "RoutePoints0699",
+                    "toponym_translit_other": "RoutePoints0699"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

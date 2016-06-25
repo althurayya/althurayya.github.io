@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009542",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.221",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غيق</h1> موضع في قول البعيث الجهني ونحن وقعنا في مزينة وقعة غداة التقينا بين غيق وعيهما وقد تقدم عيهم ",
+                "title": "غيق",
+                "uri": "JK_000129_009542"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

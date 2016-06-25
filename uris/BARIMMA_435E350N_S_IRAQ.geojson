@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.57361,
+                    35.07982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.07982",
+                    "coord_lon": "43.57361",
+                    "cornu_URI": "BARIMMA_435E350N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بارما",
+                    "toponym_arabic_other": "بارما",
+                    "toponym_buckwalter": "Barimma",
+                    "toponym_search": "Barimma",
+                    "toponym_translit": "Bārimmā",
+                    "toponym_translit_other": "Bārimmā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

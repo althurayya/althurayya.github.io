@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.46475,
+                    31.21242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.21242",
+                    "coord_lon": "37.46475",
+                    "cornu_URI": "NABK_374E312N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "pointdeau",
+                    "toponym_arabic": "ﭐلنبك",
+                    "toponym_arabic_other": "ﭐلنبك",
+                    "toponym_buckwalter": "al-Nabk",
+                    "toponym_search": "al-Nabk",
+                    "toponym_translit": "al-Nabk",
+                    "toponym_translit_other": "al-Nabk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

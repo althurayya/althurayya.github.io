@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009540",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.221",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غيطلة</h1> وذات أسلام موضع بأرض اليمامة في رحبة الهدار قال مخيس بن أرطاة تبدلت ذات أسلام فغيطلة ",
+                "title": "غيطلة",
+                "uri": "JK_000129_009540"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

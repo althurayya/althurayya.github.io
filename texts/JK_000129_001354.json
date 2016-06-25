@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001354",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.321",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بازة والنسبة البازي</h1> بزيادة هاء في آخرها بلد بأرض السودان وراء سواكن يذكر مع نافة يجلب منه الحمام البازي إلى مكة شرفها الله ",
+                "title": "بازة والنسبة البازي",
+                "uri": "JK_000129_001354"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

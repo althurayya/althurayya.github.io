@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.11443,
+                    37.99945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.99945",
+                    "coord_lon": "-1.11443",
+                    "cornu_URI": "MURSIYA_011W379N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مرسية",
+                    "toponym_arabic_other": "مرسية",
+                    "toponym_buckwalter": "Mursiya",
+                    "toponym_search": "Mursiya",
+                    "toponym_translit": "Mursiyaŧ",
+                    "toponym_translit_other": "Mursiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

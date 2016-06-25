@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004379",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.332-333",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حيلة</h1> بزيادة الهاء بلدة بالسراة كان يسكنها بنو ثابر حي من العاربة الأولى أجلتهم عنه قسر بن عبقر ابن أنمار بن أراش |جـ 2 صـ 333| ",
+                "title": "حيلة",
+                "uri": "JK_000129_004379"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

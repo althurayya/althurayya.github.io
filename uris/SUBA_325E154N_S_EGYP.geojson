@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.55275,
+                    15.48074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.48074",
+                    "coord_lon": "32.55275",
+                    "cornu_URI": "SUBA_325E154N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "سوبة",
+                    "toponym_arabic_other": "سوبة",
+                    "toponym_buckwalter": "Suba",
+                    "toponym_search": "Suba",
+                    "toponym_translit": "Sūbaŧ",
+                    "toponym_translit_other": "Sūbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

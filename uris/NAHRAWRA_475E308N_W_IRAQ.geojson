@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.55725,
+                    30.86237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.86237",
+                    "coord_lon": "47.55725",
+                    "cornu_URI": "NAHRAWRA_475E308N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "cours",
+                    "toponym_arabic": "نهر ﭐلعورا",
+                    "toponym_arabic_other": "نهر ﭐلعورا",
+                    "toponym_buckwalter": "Nahr al-Awra",
+                    "toponym_search": "Nahr al-Awra",
+                    "toponym_translit": "Nahr al-ʿAwrā",
+                    "toponym_translit_other": "Nahr al-ʿAwrā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

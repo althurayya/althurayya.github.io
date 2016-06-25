@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.10968,
+                    37.52663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.52663",
+                    "coord_lon": "15.10968",
+                    "cornu_URI": "QATANIYA_151E375N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قطانية",
+                    "toponym_arabic_other": "قطانية",
+                    "toponym_buckwalter": "Qataniya",
+                    "toponym_search": "Qataniya",
+                    "toponym_translit": "Qaṭāniyaŧ",
+                    "toponym_translit_other": "Qaṭāniyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003051",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.111",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جحشية</h1> بالفتح ثم السكون والشين معجمة كأنها منسوبة إلى رجل اسمه جحش قرية كبيرة كالمدينة من قرى الخابور بينها وبين المجدل نحو أربعة أميال ",
+                "title": "جحشية",
+                "uri": "JK_000129_003051"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004453",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.344",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خبزة</h1> بضم أوله وتسكين ثانيه وزاي حصن من أعمال ينبع من أرض تهامة قرب مكة ",
+                "title": "خبزة",
+                "uri": "JK_000129_004453"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

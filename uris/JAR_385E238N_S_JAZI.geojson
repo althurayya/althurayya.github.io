@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.50713,
+                    23.8182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.81820",
+                    "coord_lon": "38.50713",
+                    "cornu_URI": "JAR_385E238N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلجار",
+                    "toponym_arabic_other": "ﭐلجار",
+                    "toponym_buckwalter": "al-Jar",
+                    "toponym_search": "al-Jar",
+                    "toponym_translit": "al-Ǧār",
+                    "toponym_translit_other": "al-Ǧār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

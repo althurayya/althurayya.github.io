@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003143",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.124",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جردان</h1> الدال مهملة واخره نون بلد قرب كابلستان بين غزنة وكابل به يصيف أهل ألبان ",
+                "title": "جردان",
+                "uri": "JK_000129_003143"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

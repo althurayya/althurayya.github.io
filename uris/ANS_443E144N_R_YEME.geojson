@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.37788,
+                    14.43955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.43955",
+                    "coord_lon": "44.37788",
+                    "cornu_URI": "ANS_443E144N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "عنس",
+                    "toponym_arabic_other": "عنس",
+                    "toponym_buckwalter": "Ans",
+                    "toponym_search": "Ans",
+                    "toponym_translit": "ʿAns",
+                    "toponym_translit_other": "ʿAns"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

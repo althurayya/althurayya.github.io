@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.76153,
+                    36.16114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.16114",
+                    "coord_lon": "40.76153",
+                    "cornu_URI": "TABAN_407E361N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طابان",
+                    "toponym_arabic_other": "طابان، طلبان",
+                    "toponym_buckwalter": "Taban, Talaban",
+                    "toponym_search": "Taban, Talaban",
+                    "toponym_translit": "Ṭābān",
+                    "toponym_translit_other": "Ṭābān, Ṭalabān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.3809,
+                    31.4679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.46790",
+                    "coord_lon": "48.38090",
+                    "cornu_URI": "NAHRTIRA_483E314N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نهر تيرا",
+                    "toponym_arabic_other": "نهر تيرا، نهر تيرين",
+                    "toponym_buckwalter": "Nahr Tira, Nahr Tirin",
+                    "toponym_search": "Nahr Tira, Nahr Tirin",
+                    "toponym_translit": "Nahr Tīrā",
+                    "toponym_translit_other": "Nahr Tīrā, Nahr Tīrīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

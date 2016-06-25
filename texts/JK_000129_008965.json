@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008965",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.130",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عطم</h1> بضم أوله وسكون ثانيه موضع عن الأديبي وقال أبو منصور العطم الصوف المنفوش والعطم الهلكى واحدهم عطيم وعاطم والله أعلم ",
+                "title": "عطم",
+                "uri": "JK_000129_008965"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

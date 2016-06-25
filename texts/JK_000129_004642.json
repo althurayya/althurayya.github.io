@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004642",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.373",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخشبية</h1> بلفظ النسبة إلى الخشب جبل قرب المصيصة بالثغور كان به مسلحة للمسلمين وهي مسلحة الثغور كذا نقلته من خط ابن كوجك عن أحمد بن الطيب ",
+                "title": "الخشبية",
+                "uri": "JK_000129_004642"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

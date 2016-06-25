@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001184",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.288",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إيجلي</h1> بوزن إفعلي اسم موضع قالوا ولم يأت عنهم على هذا الوزن غيره ",
+                "title": "إيجلي",
+                "uri": "JK_000129_001184"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

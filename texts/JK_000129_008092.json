@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008092",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.425",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صندل</h1> يوم صندل بلفظ العود الطيب الريح يكون أحمر وأبيض والصندل من حمر الوحش وغيرها الشديد الضخم الرأس من أيام العرب ",
+                "title": "صندل",
+                "uri": "JK_000129_008092"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

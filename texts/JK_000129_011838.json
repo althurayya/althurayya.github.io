@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011838",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.105",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مرزنكى</h1> بعد الراء الساكنة زاي مفتوحة ثم نون ساكنة وكاف ",
+                "title": "مرزنكى",
+                "uri": "JK_000129_011838"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

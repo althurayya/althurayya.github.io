@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009023",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.138",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العقير</h1> نخل لبني عامر بن حنيفة باليمامة كلاهما عن الحفصي ",
+                "title": "العقير",
+                "uri": "JK_000129_009023"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

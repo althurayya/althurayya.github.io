@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    11.63847,
+                    33.05675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.05675",
+                    "coord_lon": "11.63847",
+                    "cornu_URI": "BARJAMT_116E330N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بارجمت",
+                    "toponym_arabic_other": "بارجمت، أبار دخت",
+                    "toponym_buckwalter": "Barjamt, Abar Dakht",
+                    "toponym_search": "Barjamt, Abar Dakht",
+                    "toponym_translit": "Bārǧamt",
+                    "toponym_translit_other": "Bārǧamt, Abār Daḫt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

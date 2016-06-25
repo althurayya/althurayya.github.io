@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005827",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.57",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرقاق</h1> بفتح أوله والتكرير موضع في عامر وأصله الأرض المستوية اللينة التراب تحتها صلابة والله أعلم ",
+                "title": "الرقاق",
+                "uri": "JK_000129_005827"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

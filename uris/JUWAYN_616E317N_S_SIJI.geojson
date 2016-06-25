@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.60731,
+                    31.72221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.72221",
+                    "coord_lon": "61.60731",
+                    "cornu_URI": "JUWAYN_616E317N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جوين",
+                    "toponym_arabic_other": "جوين، كوين",
+                    "toponym_buckwalter": "Juwayn, Kuwayn",
+                    "toponym_search": "Juwayn, Kuwayn",
+                    "toponym_translit": "Ǧuwayn",
+                    "toponym_translit_other": "Ǧuwayn, Kuwayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

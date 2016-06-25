@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013305",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.374",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ورنتل</h1> بفتح أوله وثانيه وفتح التاء المثناة علم مرتجل اسم موضع عن ابن السكيت ",
+                "title": "ورنتل",
+                "uri": "JK_000129_013305"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006184",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.129",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زبارا</h1> موضع أظنه من نواحي الكوفة ذكر في قتال القرامطة أيام المقتدر ",
+                "title": "زبارا",
+                "uri": "JK_000129_006184"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

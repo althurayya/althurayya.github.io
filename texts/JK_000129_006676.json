@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006676",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.211",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سرسن</h1> بلد في أقصى بلاد الترك فيه سوق لهم يباع فيها القندس والبرطاسي والسمور وغير ذلك ",
+                "title": "سرسن",
+                "uri": "JK_000129_006676"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

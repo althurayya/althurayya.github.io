@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013025",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر حميدة</h1> بالبصرة نسب إلى حميدة أم عبد العزيز بن عبد الله بن عامر بن كريز وهي من بني عبد الرحمن بن سمرة بن حبيب بن عبد شمس ",
+                "title": "نهر حميدة",
+                "uri": "JK_000129_013025"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

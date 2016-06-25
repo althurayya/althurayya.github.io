@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001134",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.279-280",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أوريط</h1> بالضم ثم السكون وكسر الراء وياء وطاء مهملة مدينة بالأندلس بين الشرق والجوف |جـ 1 صـ 280| ",
+                "title": "أوريط",
+                "uri": "JK_000129_001134"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

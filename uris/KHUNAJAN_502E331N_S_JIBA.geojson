@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.28728,
+                    33.18407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.18407",
+                    "coord_lon": "50.28728",
+                    "cornu_URI": "KHUNAJAN_502E331N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خنجان",
+                    "toponym_arabic_other": "خنجان",
+                    "toponym_buckwalter": "Khunajan",
+                    "toponym_search": "Khunajan",
+                    "toponym_translit": "Ḫunaǧān",
+                    "toponym_translit_other": "Ḫunaǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

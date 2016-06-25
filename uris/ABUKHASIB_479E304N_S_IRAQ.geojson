@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.99265,
+                    30.43759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.43759",
+                    "coord_lon": "47.99265",
+                    "cornu_URI": "ABUKHASIB_479E304N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أبو ﭐلخصيب",
+                    "toponym_arabic_other": "أبو ﭐلخصيب",
+                    "toponym_buckwalter": "Abu al-Khasib",
+                    "toponym_search": "Abu al-Khasib",
+                    "toponym_translit": "Abū al-Ḫaṣīb",
+                    "toponym_translit_other": "Abū al-Ḫaṣīb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

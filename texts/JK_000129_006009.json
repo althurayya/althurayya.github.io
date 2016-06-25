@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006009",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.90",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة ذي هاش</h1> بالشين المعجمة وقد ذكرت في بابها قال عياض بن نصر المري بروضة ذي هاش تركنا قتيلهم عليه ضباع عكف ونسور ",
+                "title": "روضة ذي هاش",
+                "uri": "JK_000129_006009"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

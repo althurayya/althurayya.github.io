@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010592",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.410",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قواديان</h1> هي مدينة وولاية على جيحون فوق الترمذ بينها وبين الختل وهي أصغر من الترمذ يرتفع منها الفوة وهي مجاورة للصغانيان ",
+                "title": "قواديان",
+                "uri": "JK_000129_010592"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

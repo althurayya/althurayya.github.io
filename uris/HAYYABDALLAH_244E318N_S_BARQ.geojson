@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    24.49433,
+                    31.87271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.87271",
+                    "coord_lon": "24.49433",
+                    "cornu_URI": "HAYYABDALLAH_244E318N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حي عبد ﭐلله",
+                    "toponym_arabic_other": "حي عبد ﭐلله",
+                    "toponym_buckwalter": "Hayy Abd Allah",
+                    "toponym_search": "Hayy Abd Allah",
+                    "toponym_translit": "Ḥayy ʿAbd Allãh",
+                    "toponym_translit_other": "Ḥayy ʿAbd Allãh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

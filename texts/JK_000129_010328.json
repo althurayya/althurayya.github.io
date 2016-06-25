@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010328",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.362-363",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر كليب</h1> ويقال قصر بني كليب قرية بصعيد مصر على شرقي النيل قرب فاو |جـ 4 صـ 363| ",
+                "title": "قصر كليب",
+                "uri": "JK_000129_010328"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

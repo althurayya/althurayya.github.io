@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012847",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.295",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>النغل</h1> ماء قال زيد الخيل يصف ناقته فقد غادت للطير ليلة خمسها جوارا برمل النغل لما يشعر ",
+                "title": "النغل",
+                "uri": "JK_000129_012847"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

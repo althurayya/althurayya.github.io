@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.94527,
+                    29.57226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.57226",
+                    "coord_lon": "34.94527",
+                    "cornu_URI": "AYLA_349E295N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "أيلة",
+                    "toponym_arabic_other": "أيلة، ويلة",
+                    "toponym_buckwalter": "Ayla, Wayla",
+                    "toponym_search": "Ayla, Wayla",
+                    "toponym_translit": "Aylaŧ",
+                    "toponym_translit_other": "Aylaŧ, Waylaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

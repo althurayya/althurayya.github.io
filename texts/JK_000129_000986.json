@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000986",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأمرغ</h1> بالغين المعجمة اسم موضع ",
+                "title": "الأمرغ",
+                "uri": "JK_000129_000986"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

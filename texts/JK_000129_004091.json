@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004091",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.277",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحفيرة</h1> بالفتح ثم الكسر غير مضاف ماءة لبني موجن الضبابي ولها جبل يقال له العمود ينسب إليها فيقال عمود الحفيرة ",
+                "title": "الحفيرة",
+                "uri": "JK_000129_004091"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

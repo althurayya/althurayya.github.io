@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.7573,
+                    33.44757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.44757",
+                    "coord_lon": "48.75730",
+                    "cornu_URI": "DARAQAN_487E334N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دارقان",
+                    "toponym_arabic_other": "دارقان",
+                    "toponym_buckwalter": "Daraqan",
+                    "toponym_search": "Daraqan",
+                    "toponym_translit": "Dāraqān",
+                    "toponym_translit_other": "Dāraqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

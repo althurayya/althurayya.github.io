@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003421",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.173",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجنيد</h1> تصغير جند إسكاف بني الجنيد بلد من نواحي النهروان ثم من أعمال بغداد وهو الآن خراب وقد ذكر في إسكاف ",
+                "title": "الجنيد",
+                "uri": "JK_000129_003421"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

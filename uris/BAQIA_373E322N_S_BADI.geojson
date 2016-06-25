@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.32662,
+                    32.21167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.21167",
+                    "coord_lon": "37.32662",
+                    "cornu_URI": "BAQIA_373E322N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلبقيعة",
+                    "toponym_arabic_other": "ﭐلبقيعة",
+                    "toponym_buckwalter": "al-Baqia",
+                    "toponym_search": "al-Baqia",
+                    "toponym_translit": "al-Baqīʿaŧ",
+                    "toponym_translit_other": "al-Baqīʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

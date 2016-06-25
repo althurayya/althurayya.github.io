@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009050",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.145",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العلاة</h1> كورة كبيرة من عمل معرة النعمان من جهة البر تشتمل على قرى كثيرة ويطؤها القاصد من حلب إلى حماة ",
+                "title": "العلاة",
+                "uri": "JK_000129_009050"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

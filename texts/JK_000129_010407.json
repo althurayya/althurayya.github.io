@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010407",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.378",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قطيعة النصارى</h1> محلة متصلة بنهر طابق من محال بغداد ",
+                "title": "قطيعة النصارى",
+                "uri": "JK_000129_010407"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

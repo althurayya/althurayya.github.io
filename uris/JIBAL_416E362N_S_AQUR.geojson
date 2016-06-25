@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.62102,
+                    36.2374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.23740",
+                    "coord_lon": "41.62102",
+                    "cornu_URI": "JIBAL_416E362N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلجبال",
+                    "toponym_arabic_other": "ﭐلجبال، عين ﭐلجبال",
+                    "toponym_buckwalter": "al-Jibal, Ayn al-Jibal",
+                    "toponym_search": "al-Jibal, Ayn al-Jibal",
+                    "toponym_translit": "al-Ǧibāl",
+                    "toponym_translit_other": "al-Ǧibāl, ʿAyn al-Ǧibāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

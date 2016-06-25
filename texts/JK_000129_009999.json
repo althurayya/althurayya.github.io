@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009999",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.302",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القبابة</h1> بالضم وتكرير الباء واحدة القباب ضرب من السمك يشبه الكنعد وهو أطم من آطام المدينة ",
+                "title": "القبابة",
+                "uri": "JK_000129_009999"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

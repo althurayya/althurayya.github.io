@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009902",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.281",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فيادسون</h1> بالكسر وبعد الألف دال مهملة وسين مهملة وبعد الواو الساكنة نون من قرى بخارى ",
+                "title": "فيادسون",
+                "uri": "JK_000129_009902"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

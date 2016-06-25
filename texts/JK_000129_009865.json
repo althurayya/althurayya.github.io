@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009865",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.278",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فنك</h1> بالفتح أولا وثانيا وكاف قرية بينها وبين سمرقند نصف فرسخ ",
+                "title": "فنك",
+                "uri": "JK_000129_009865"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

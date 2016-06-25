@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012569",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.245",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ميمنة</h1> بكسر أوله وسكون ثانيه وفتح الميم ونون بلدة بين باميان والغور وأظنها الميمند الذي قبله ",
+                "title": "ميمنة",
+                "uri": "JK_000129_012569"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

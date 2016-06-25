@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010684",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.424",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القين</h1> من قرى عثر من جهة القبلة في أوائل اليمن ",
+                "title": "القين",
+                "uri": "JK_000129_010684"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

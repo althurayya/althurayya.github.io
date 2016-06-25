@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012621",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ناعم</h1> بكسر العين حصن من حصون خيبر عنده قتل محمود بن مسلمة أخو محمد بن مسلمة ألقوا عليه رحا فقتلوه عام خيبر ",
+                "title": "ناعم",
+                "uri": "JK_000129_012621"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

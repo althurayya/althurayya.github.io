@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006043",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.96",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة واقصات</h1> جمع واقصة وقد ذكرت قال الشماخ يصف حمار وحش وسقن له بروضة واقصات سجال الماء في حلق منيع ",
+                "title": "روضة واقصات",
+                "uri": "JK_000129_006043"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

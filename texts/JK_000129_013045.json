@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013045",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.321",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر الصلة</h1> بواسط أمر بحفره المهدي فحفر وأحيي ما عليه من الأراضي وجعلت غلته لصلات أهل الحرمين ونفقتهم ",
+                "title": "نهر الصلة",
+                "uri": "JK_000129_013045"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

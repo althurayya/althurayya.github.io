@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000710",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.199",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إشكنوار</h1> بالكسر وفتح الكاف وسكون النون وواو وألف وراء بلد بفارس ",
+                "title": "إشكنوار",
+                "uri": "JK_000129_000710"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

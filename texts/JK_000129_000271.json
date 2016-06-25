@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000271",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.105-106",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأجيراف</h1> كأنه تصغير أجراف واد لطيىء فيه |جـ 1 صـ 106| تين ونخل عن نصر ",
+                "title": "الأجيراف",
+                "uri": "JK_000129_000271"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

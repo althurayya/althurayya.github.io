@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007013",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.264",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنج</h1> بضم أوله وسكون ثانيه وآخره جيم قال العمراني قرية بباميان وقال لي رجل من أهل الغور سنجة والعجم تقول سنكة من أشهر مدن الغور ",
+                "title": "سنج",
+                "uri": "JK_000129_007013"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

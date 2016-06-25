@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001902",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.407",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البريكان</h1> تصغير تثنية بريك يوم البريكين من أيام العرب ",
+                "title": "البريكان",
+                "uri": "JK_000129_001902"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

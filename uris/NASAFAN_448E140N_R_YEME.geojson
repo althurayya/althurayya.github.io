@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.8432,
+                    14.02916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.02916",
+                    "coord_lon": "44.84320",
+                    "cornu_URI": "NASAFAN_448E140N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نسفان",
+                    "toponym_arabic_other": "نسفان",
+                    "toponym_buckwalter": "Nasafan",
+                    "toponym_search": "Nasafan",
+                    "toponym_translit": "Nasafān",
+                    "toponym_translit_other": "Nasafān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

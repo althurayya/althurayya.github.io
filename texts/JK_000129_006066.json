@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006066",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.105",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رويندز</h1> قلعة حصينة من أعمال أذربيجان قرب تبريز ",
+                "title": "رويندز",
+                "uri": "JK_000129_006066"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

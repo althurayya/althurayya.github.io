@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003202",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.132",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جرى</h1> بفتح أوله وتشديد ثانيه والقصر ناحية بين قم وهمذان ينسب إليها قوم من أهل العلم ",
+                "title": "جرى",
+                "uri": "JK_000129_003202"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

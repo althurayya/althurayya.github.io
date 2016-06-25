@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_3282",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.4, p.525",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>القطفي</h1> بضم القاف وسكون الطاء المهملة وفي آخرها الفاء والمشهور بهذه النسبة محمد بن معدان القطفي ",
+                "title": "القطفي",
+                "uri": "JK_000952_3282"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

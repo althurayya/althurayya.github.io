@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.66965,
+                    37.38969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.38969",
+                    "coord_lon": "-6.66965",
+                    "cornu_URI": "LABLA_066W373N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "لبلة",
+                    "toponym_arabic_other": "لبلة",
+                    "toponym_buckwalter": "Labla",
+                    "toponym_search": "Labla",
+                    "toponym_translit": "Lablaŧ",
+                    "toponym_translit_other": "Lablaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

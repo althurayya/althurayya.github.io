@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010710",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.430",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كاسان</h1> يروى بالسين المهملة مدينة كبيرة في أول بلاد تركستان وراء نهر سيحون وراء الشاش ولها قلعة حصينة وعلى بابها وادي أخسيكث ",
+                "title": "كاسان",
+                "uri": "JK_000129_010710"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

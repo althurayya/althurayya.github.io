@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.24964,
+                    30.04325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.04325",
+                    "coord_lon": "31.24964",
+                    "cornu_URI": "FUSTAT_312E300N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "فسطاط",
+                    "toponym_arabic_other": "فسطاط",
+                    "toponym_buckwalter": "Fustat",
+                    "toponym_search": "Fustat",
+                    "toponym_translit": "Fusṭāṭ",
+                    "toponym_translit_other": "Fusṭāṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

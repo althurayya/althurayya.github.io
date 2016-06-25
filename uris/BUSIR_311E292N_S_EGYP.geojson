@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.10677,
+                    29.27633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.27633",
+                    "coord_lon": "31.10677",
+                    "cornu_URI": "BUSIR_311E292N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بوصير",
+                    "toponym_arabic_other": "بوصير، بوصير ﭐلفيوم، أبوصير، بوصير قوريدس، بوصير ﭐلأشمونين",
+                    "toponym_buckwalter": "Busir, Busir al-Fayyum, Abusir, Busir Quridus, Busir al-Ashmunayn",
+                    "toponym_search": "Busir, Busir al-Fayyum, Abusir, Busir Quridus, Busir al-Ashmunayn",
+                    "toponym_translit": "Būṣīr",
+                    "toponym_translit_other": "Būṣīr, Būṣīr al-Fayyūm, Abūṣīr, Būṣīr Qūrīdus, Būṣīr al-Ašmūnayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.87027,
+                    32.4344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.43440",
+                    "coord_lon": "58.87027",
+                    "cornu_URI": "RASMA_588E324N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رأس ﭐلماء",
+                    "toponym_arabic_other": "رأس ﭐلماء",
+                    "toponym_buckwalter": "Ras al-Ma",
+                    "toponym_search": "Ras al-Ma",
+                    "toponym_translit": "Raʾs al-Māʾ",
+                    "toponym_translit_other": "Raʾs al-Māʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

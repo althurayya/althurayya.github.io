@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008147",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.438",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صيد</h1> بالفتح ثم السكون ودال مهملة جبل عظيم عال جدا في أرض اليمن من مخلاف جعفر من حقل ذمار في رأسه قلعة يقال لها سمارة ",
+                "title": "صيد",
+                "uri": "JK_000129_008147"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

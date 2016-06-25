@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.30291,
+                    32.53782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.53782",
+                    "coord_lon": "48.30291",
+                    "cornu_URI": "LUR_483E325N_R_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "ﭐللور",
+                    "toponym_arabic_other": "ﭐللور",
+                    "toponym_buckwalter": "al-Lur",
+                    "toponym_search": "al-Lur",
+                    "toponym_translit": "al-Lūr",
+                    "toponym_translit_other": "al-Lūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

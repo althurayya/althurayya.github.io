@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002303",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.517-518",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بياس</h1> بتخفيف الياء نهر عظيم بالسند مفضاه إلى المولتان |جـ 1 صـ 518| ",
+                "title": "بياس",
+                "uri": "JK_000129_002303"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.24428,
+                    22.48899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.48899",
+                    "coord_lon": "36.24428",
+                    "cornu_URI": "AYDHAB_362E224N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "port",
+                    "toponym_arabic": "عيذب",
+                    "toponym_arabic_other": "عيذب",
+                    "toponym_buckwalter": "Aydhab",
+                    "toponym_search": "Aydhab",
+                    "toponym_translit": "ʿAyḏab",
+                    "toponym_translit_other": "ʿAyḏab"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010952",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.468",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كفرتكيس</h1> بالتاء المثناة من فوق وكسرها وكسر الكاف أيضا وياء مثناة من تحتها وسين مهملة من أعمال حمص ",
+                "title": "كفرتكيس",
+                "uri": "JK_000129_010952"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

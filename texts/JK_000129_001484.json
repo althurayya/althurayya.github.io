@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001484",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.338",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بثينة</h1> مصغرا بلفظ صاحبة جميل وقد تقدم اشتقاقه هضبة على طريق السفر بين البحرين والبصرة ",
+                "title": "بثينة",
+                "uri": "JK_000129_001484"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

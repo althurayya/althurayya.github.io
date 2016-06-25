@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013237",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.365",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وخفان</h1> بالفتح ثم السكون موضع عن ابن دريد وفيه نظر ",
+                "title": "وخفان",
+                "uri": "JK_000129_013237"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

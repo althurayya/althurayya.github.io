@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012247",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.190",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ملجان</h1> بفتح أوله وتشديد ثانيه وجيم وآخره نون ناحية بفارس بين أرجان وشيراز ذات قرى وحصون ",
+                "title": "ملجان",
+                "uri": "JK_000129_012247"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

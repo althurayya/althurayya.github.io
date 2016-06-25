@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002815",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.70",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثاءة</h1> بعد الألف همزة مفتوحة وهاء التأنيث موضع قال ابن أنمار الخزاعي أنا ابن أنمار وهذا زيري جمعت أهل تاءة وحجر وآخر من عند سيف البحر ",
+                "title": "ثاءة",
+                "uri": "JK_000129_002815"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

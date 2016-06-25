@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.57979,
+                    30.16955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.16955",
+                    "coord_lon": "31.57979",
+                    "cornu_URI": "BUWAYB_315E301N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بويب",
+                    "toponym_arabic_other": "بويب",
+                    "toponym_buckwalter": "Buwayb",
+                    "toponym_search": "Buwayb",
+                    "toponym_translit": "Buwayb",
+                    "toponym_translit_other": "Buwayb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

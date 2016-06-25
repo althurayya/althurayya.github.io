@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.89161,
+                    30.34164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.34164",
+                    "coord_lon": "30.89161",
+                    "cornu_URI": "JURASIYYAT_308E303N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "ﭐلجرسيات",
+                    "toponym_arabic_other": "ﭐلجرسيات",
+                    "toponym_buckwalter": "al-Jurasiyyat",
+                    "toponym_search": "al-Jurasiyyat",
+                    "toponym_translit": "al-Ǧurasiyyāt",
+                    "toponym_translit_other": "al-Ǧurasiyyāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.37368,
+                    28.54666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.54666",
+                    "coord_lon": "48.37368",
+                    "cornu_URI": "HADUTHA_483E285N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلحدوثة",
+                    "toponym_arabic_other": "ﭐلحدوثة",
+                    "toponym_buckwalter": "al-Hadutha",
+                    "toponym_search": "al-Hadutha",
+                    "toponym_translit": "al-Ḥadūṯaŧ",
+                    "toponym_translit_other": "al-Ḥadūṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000002",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.49",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>آبار الأعراب</h1> جمع بئر يقال في جمعها آبار وبئار وأبآر موضع بين الأجفر وفيد على خمسة أميال من الأجفر ",
+                "title": "آبار الأعراب",
+                "uri": "JK_000129_000002"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006509",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.182",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سبا صهيب</h1> بلد مشهور بناحية اليمن وفيه حصن حصين ",
+                "title": "سبا صهيب",
+                "uri": "JK_000129_006509"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

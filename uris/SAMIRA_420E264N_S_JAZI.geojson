@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.03339,
+                    26.41998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.41998",
+                    "coord_lon": "42.03339",
+                    "cornu_URI": "SAMIRA_420E264N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سميراء",
+                    "toponym_arabic_other": "سميراء",
+                    "toponym_buckwalter": "Samira",
+                    "toponym_search": "Samira",
+                    "toponym_translit": "Samīrāʾ",
+                    "toponym_translit_other": "Samīrāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

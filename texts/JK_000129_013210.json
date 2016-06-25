@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013210",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.360",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وتر</h1> موضع فيه نخيلات من نواحي اليمامة قاله الحفصي وأنشد يذودها عن زغري بوتر صفائح الهند وفتيان غير والزغري نوع من التمر ",
+                "title": "وتر",
+                "uri": "JK_000129_013210"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

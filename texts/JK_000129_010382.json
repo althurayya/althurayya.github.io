@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010382",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.373",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القطرية</h1> من نواحي اليمامة عن الحفصي ",
+                "title": "القطرية",
+                "uri": "JK_000129_010382"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.20076,
+                    39.81909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.81909",
+                    "coord_lon": "64.20076",
+                    "cornu_URI": "KHUJADAH_642E398N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "خجاده",
+                    "toponym_arabic_other": "خجاده",
+                    "toponym_buckwalter": "Khujadah",
+                    "toponym_search": "Khujadah",
+                    "toponym_translit": "Ḫuǧādah",
+                    "toponym_translit_other": "Ḫuǧādah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

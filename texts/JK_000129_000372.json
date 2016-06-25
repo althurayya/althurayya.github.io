@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000372",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.126",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أدماث</h1> بالفتح ثم السكون وميم وألف وثاء مثلثة كأنه جمع دمث وهو مكان الرمل اللين وجمعه دماث وأدماث والدماثة سهولة الخلق منه وهو موضع ",
+                "title": "أدماث",
+                "uri": "JK_000129_000372"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

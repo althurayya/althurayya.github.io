@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001783",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.393",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة الحمى</h1> قد ذكر الحمى قال الشاعر أضاءت له نار على برقه الحمى وعرض الصليب دونه فالأماثل ",
+                "title": "برقة الحمى",
+                "uri": "JK_000129_001783"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

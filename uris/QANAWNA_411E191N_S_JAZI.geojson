@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.15761,
+                    19.12337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.12337",
+                    "coord_lon": "41.15761",
+                    "cornu_URI": "QANAWNA_411E191N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قنونة",
+                    "toponym_arabic_other": "قنونة",
+                    "toponym_buckwalter": "Qanawna",
+                    "toponym_search": "Qanawna",
+                    "toponym_translit": "Qanawnaŧ",
+                    "toponym_translit_other": "Qanawnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

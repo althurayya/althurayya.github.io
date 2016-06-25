@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004700",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.378",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخطط</h1> موضع فيه نخل باليمامة عن الحفصي ",
+                "title": "الخطط",
+                "uri": "JK_000129_004700"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

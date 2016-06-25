@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012217",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.178-179",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مكا</h1> بالفتح يقال مكيت يده تمكا مكا شديدا إذا غلظت ومكا جبل لهذيل |جـ 5 صـ 179| ",
+                "title": "مكا",
+                "uri": "JK_000129_012217"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

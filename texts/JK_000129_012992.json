@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012992",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.315",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر أبا</h1> بفتح الهمزة وتشديد الباء الموحدة والقصر من نواحي بغداد حفره أبا بن الصمغان النبطي ",
+                "title": "نهر أبا",
+                "uri": "JK_000129_012992"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

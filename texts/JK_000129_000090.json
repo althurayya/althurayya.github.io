@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000090",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.64",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبراد</h1> نحو جمع برد قال أبو زياد ومن الجبال التي في ديار أبي بكر بن كلاب أجبل يقال لهن أبراد وهن بين الظبية والحوأب ",
+                "title": "أبراد",
+                "uri": "JK_000129_000090"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

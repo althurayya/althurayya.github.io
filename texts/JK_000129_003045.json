@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003045",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.110",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جثا</h1> بتشديد الثاء والقصر أيضا جبل من جبال أجإ مشرف على رمل طيء وعنده المناعان وهما جبلان ",
+                "title": "جثا",
+                "uri": "JK_000129_003045"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

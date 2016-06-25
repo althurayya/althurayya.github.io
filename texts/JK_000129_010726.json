@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010726",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.432",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كامخية</h1> والكامخ شيء يصطنع به من الإدام والكمخ الكبر والعظمة والكامخ المتعظم وهو موضع ذكره أبو تمام ",
+                "title": "كامخية",
+                "uri": "JK_000129_010726"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

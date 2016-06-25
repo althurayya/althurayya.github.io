@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.58702,
+                    37.95728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.95728",
+                    "coord_lon": "-5.58702",
+                    "cornu_URI": "FIRRISH_055W379N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "فريش",
+                    "toponym_arabic_other": "فريش، قرسيس",
+                    "toponym_buckwalter": "Firrish, Qarsis",
+                    "toponym_search": "Firrish, Qarsis",
+                    "toponym_translit": "Firrīš",
+                    "toponym_translit_other": "Firrīš, Qarsīs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

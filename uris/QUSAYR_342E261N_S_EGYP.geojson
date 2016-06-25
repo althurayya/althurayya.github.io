@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.27748,
+                    26.10673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.10673",
+                    "coord_lon": "34.27748",
+                    "cornu_URI": "QUSAYR_342E261N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قصير",
+                    "toponym_arabic_other": "قصير",
+                    "toponym_buckwalter": "Qusayr",
+                    "toponym_search": "Qusayr",
+                    "toponym_translit": "Quṣayr",
+                    "toponym_translit_other": "Quṣayr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009723",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.254-255",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فرقد</h1> بالفتح ثم السكون ثم قاف مفتوحة ودال وهو ولد البقرة اسم موضع ببخارى |جـ 4 صـ 255| ",
+                "title": "فرقد",
+                "uri": "JK_000129_009723"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

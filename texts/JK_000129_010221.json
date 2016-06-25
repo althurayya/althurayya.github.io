@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010221",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.342",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قزوينك</h1> هو تصغير قزوين بالفارسية لأن زيادة الكاف في آخر الكلمة دليل التصغير عندهم وهي قرية من قرى الدينور ",
+                "title": "قزوينك",
+                "uri": "JK_000129_010221"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

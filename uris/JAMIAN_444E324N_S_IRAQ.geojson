@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.43704,
+                    32.48152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.48152",
+                    "coord_lon": "44.43704",
+                    "cornu_URI": "JAMIAN_444E324N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلجامعان",
+                    "toponym_arabic_other": "ﭐلجامعان، ﭐلجامعين",
+                    "toponym_buckwalter": "al-Jamian, al-Jamiayn",
+                    "toponym_search": "al-Jamian, al-Jamiayn",
+                    "toponym_translit": "al-Ǧāmiʿān",
+                    "toponym_translit_other": "al-Ǧāmiʿān, al-Ǧāmiʿayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

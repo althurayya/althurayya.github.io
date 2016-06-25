@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8804,
+                    32.27309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.27309",
+                    "coord_lon": "35.88040",
+                    "cornu_URI": "JURASH_358E322N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرش",
+                    "toponym_arabic_other": "جرش",
+                    "toponym_buckwalter": "Jurash",
+                    "toponym_search": "Jurash",
+                    "toponym_translit": "Ǧuraš",
+                    "toponym_translit_other": "Ǧuraš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.31039,
+                    30.11166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.11166",
+                    "coord_lon": "57.31039",
+                    "cornu_URI": "MAHAN_573E301N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ماهان",
+                    "toponym_arabic_other": "ماهان",
+                    "toponym_buckwalter": "Mahan",
+                    "toponym_search": "Mahan",
+                    "toponym_translit": "Māhān",
+                    "toponym_translit_other": "Māhān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

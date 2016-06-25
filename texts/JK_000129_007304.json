@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007304",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.308",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شارمساح</h1> قرية كبيرة كالمدينة بمصر بينها وبين بورة أربعة فراسخ وبينها وبين دمياط خمسة فراسخ من كورة الدقهلية ",
+                "title": "شارمساح",
+                "uri": "JK_000129_007304"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

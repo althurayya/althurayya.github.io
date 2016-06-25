@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010523",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.399",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قناء</h1> بالضم ثم المد في آخره وهو ادخار المال اسم ماء وأنشد جموع التغلبي على قناء ",
+                "title": "قناء",
+                "uri": "JK_000129_010523"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

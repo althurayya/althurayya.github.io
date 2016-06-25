@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.64158,
+                    37.31295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.31295",
+                    "coord_lon": "42.64158",
+                    "cornu_URI": "THAMANIN_426E373N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ثمانين",
+                    "toponym_arabic_other": "ثمانين",
+                    "toponym_buckwalter": "Thamanin",
+                    "toponym_search": "Thamanin",
+                    "toponym_translit": "Ṯamānīn",
+                    "toponym_translit_other": "Ṯamānīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

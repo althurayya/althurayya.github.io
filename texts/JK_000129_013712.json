@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013712",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.438",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>يعار</h1> بالفتح وآخره راء من عار الفرس إذا أفلت هاربا جبل لبني سليم ",
+                "title": "يعار",
+                "uri": "JK_000129_013712"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

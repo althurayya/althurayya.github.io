@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009349",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.190",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الغرابة</h1> بالفتح بعد الألف باء موحدة وهو الشيء الغريب فيما أحسب موضع في قول الشاعر تذكرت ميتا بالغرابة ثاويا ",
+                "title": "الغرابة",
+                "uri": "JK_000129_009349"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

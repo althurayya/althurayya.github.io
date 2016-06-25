@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011293",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.17",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>لصبين</h1> بكسر أوله وهو في الأصل المضيق في الجبل وهو موضع بعينه قال تميم بن مقبل أتاهن لبان ببيض نعامة حواها بذي اللصبين فوق جنان ",
+                "title": "لصبين",
+                "uri": "JK_000129_011293"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

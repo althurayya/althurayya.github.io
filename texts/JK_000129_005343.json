@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005343",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.490",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دونة</h1> بضم أوله وبعد الواو الساكنة نون قرية من قرى نهاوند وقد نسب إليها بعض الصالحين ذكره والذي قبله الحازمي كما كتبناه سواء ",
+                "title": "دونة",
+                "uri": "JK_000129_005343"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

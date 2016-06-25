@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.75347,
+                    27.96611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.96611",
+                    "coord_lon": "56.75347",
+                    "cornu_URI": "MARZAQAN_567E279N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "مرزقان",
+                    "toponym_arabic_other": "مرزقان",
+                    "toponym_buckwalter": "Marzaqan",
+                    "toponym_search": "Marzaqan",
+                    "toponym_translit": "Marzaqān",
+                    "toponym_translit_other": "Marzaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

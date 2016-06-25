@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012795",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.286",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نشوءة</h1> بالفتح ثم الضم وسكون الواو وهمزة وهاء جبل حجازي ",
+                "title": "نشوءة",
+                "uri": "JK_000129_012795"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

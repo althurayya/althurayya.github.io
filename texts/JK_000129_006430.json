@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006430",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.165",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الزيمة</h1> قرية بوادي نخلة من أرض مكة فيها يقول محمد بن إبراهيم بن قربة شاعر عصري مرتعي من بلاد نخلة في الصي ف بأكناف سولة والزيمه ",
+                "title": "الزيمة",
+                "uri": "JK_000129_006430"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

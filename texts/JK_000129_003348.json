@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003348",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.161",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجمح</h1> بوزن الجرذ جبل لبني نمير وهو مجمع من مجامع لصوصهم ",
+                "title": "الجمح",
+                "uri": "JK_000129_003348"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

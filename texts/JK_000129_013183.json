@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013183",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.355",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوالجة</h1> من قرى اليمامة وهي نخيلات لبني عبيد بن ثعلبة من بني حنيفة وهي من حجر اليمامة ",
+                "title": "الوالجة",
+                "uri": "JK_000129_013183"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

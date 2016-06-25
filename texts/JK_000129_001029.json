@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001029",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.258-259",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إنبط</h1> من قرى همذان بها قبر الزاهد أبي علي أحمد بن محمد القومساني صاحب كرامات يزار فيها من الآفاق مات في سنة 783 |جـ 1 صـ 259| ",
+                "title": "إنبط",
+                "uri": "JK_000129_001029"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

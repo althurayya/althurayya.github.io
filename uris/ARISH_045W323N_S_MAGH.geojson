@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.52149,
+                    32.30201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.30201",
+                    "coord_lon": "-4.52149",
+                    "cornu_URI": "ARISH_045W323N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "عريش",
+                    "toponym_arabic_other": "عريش",
+                    "toponym_buckwalter": "Arish",
+                    "toponym_search": "Arish",
+                    "toponym_translit": "ʿArīš",
+                    "toponym_translit_other": "ʿArīš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

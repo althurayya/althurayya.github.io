@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002272",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.513",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البويرة</h1> قرية أو بئر دون أجإ وفيها قال إن لنا بئرا بشرقي العلم عادية ما حفرت بعد إرم ذات سجال حامش ذات أجم قال واسمها اللقيطة ",
+                "title": "البويرة",
+                "uri": "JK_000129_002272"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

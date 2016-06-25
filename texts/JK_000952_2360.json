@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_2360",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.3, pp.444-445",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>الشقري</h1> بضم الشين المعجمة وسكون القاف وفي آخرها الراء هذه النسبة إلى شقرة بن نكرة بن لكيز بن أفصى بن عبد القيس وهو بطن من عبد القيس |جـ 3 صـ 445| ",
+                "title": "الشقري",
+                "uri": "JK_000952_2360"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

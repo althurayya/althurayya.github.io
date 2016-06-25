@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006390",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.160",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الزوية</h1> موضع في بلاد عبس قال رجل من بني عبس وكائن ترى بين الزوية والصفا مجر كمي لا تعفى مساحبه ",
+                "title": "الزوية",
+                "uri": "JK_000129_006390"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

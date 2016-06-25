@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011956",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.126",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مسطاسة</h1> قبيلة من قبائل البربر ",
+                "title": "مسطاسة",
+                "uri": "JK_000129_011956"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

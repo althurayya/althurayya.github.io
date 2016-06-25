@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006901",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.243",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سليماناباذ والنسبة السليماناباذي</h1> محلة أو قرية من نواحي جرجان عن أبي سعد نسب إلى سليمان ",
+                "title": "سليماناباذ والنسبة السليماناباذي",
+                "uri": "JK_000129_006901"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

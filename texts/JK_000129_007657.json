@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007657",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.360",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شلول</h1> موضع بنواحي المدينة قال ابن هرمة أتذكر عهد ذي العهد المحيل وعصرك بالأعارف والشلول وتعريج المطية يوم شوطى على العرصات والدمن الحلول ",
+                "title": "شلول",
+                "uri": "JK_000129_007657"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

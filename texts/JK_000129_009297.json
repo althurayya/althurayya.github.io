@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009297",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.183",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الغامرية</h1> قرية في أرض بابل قرب حلة بني مزيد منها كان أبو الفتح بن جياء الكاتب الشاعر ",
+                "title": "الغامرية",
+                "uri": "JK_000129_009297"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

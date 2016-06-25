@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008134",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.435-436",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صهباء</h1> بلفظ اسم الخمر وسميت بذلك لصهوبة لونها وهو حمرتها أو شقرتها وهو اسم موضع بينه وبين خيبر روحة له ذكر في الأخبار |جـ 3 صـ 436| ",
+                "title": "صهباء",
+                "uri": "JK_000129_008134"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

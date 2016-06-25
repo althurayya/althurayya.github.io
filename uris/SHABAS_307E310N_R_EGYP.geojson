@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.72312,
+                    31.08986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.08986",
+                    "coord_lon": "30.72312",
+                    "cornu_URI": "SHABAS_307E310N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "شباس",
+                    "toponym_arabic_other": "شباس",
+                    "toponym_buckwalter": "Shabas",
+                    "toponym_search": "Shabas",
+                    "toponym_translit": "Šabās",
+                    "toponym_translit_other": "Šabās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

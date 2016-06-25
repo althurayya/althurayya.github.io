@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003641",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.210",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حباباء</h1> بالفتح وبعد الألف باء أخرى وألف ممدودة جبل بنجد من سبعة أجبل تسمى الأكوام مشرفة على بطن الجريب ",
+                "title": "حباباء",
+                "uri": "JK_000129_003641"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

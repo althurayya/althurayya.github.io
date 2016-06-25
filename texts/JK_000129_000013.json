@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000013",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.51",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>آتيل</h1> قلعة بناحية الزوزان من قلاع الأكراد البختية معروفة عن عز الدين أبي الحسن علي بن عبد الكريم الجزري ",
+                "title": "آتيل",
+                "uri": "JK_000129_000013"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

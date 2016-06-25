@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.65214,
+                    24.74231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.74231",
+                    "coord_lon": "50.65214",
+                    "cornu_URI": "HAMAD_506E247N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حمض",
+                    "toponym_arabic_other": "حمض",
+                    "toponym_buckwalter": "Hamad",
+                    "toponym_search": "Hamad",
+                    "toponym_translit": "Ḥamaḍ",
+                    "toponym_translit_other": "Ḥamaḍ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

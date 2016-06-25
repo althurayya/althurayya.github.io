@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.80628,
+                    33.6437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.64370",
+                    "coord_lon": "42.80628",
+                    "cornu_URI": "HIT_428E336N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هيت",
+                    "toponym_arabic_other": "هيت",
+                    "toponym_buckwalter": "Hit",
+                    "toponym_search": "Hit",
+                    "toponym_translit": "Hīt",
+                    "toponym_translit_other": "Hīt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

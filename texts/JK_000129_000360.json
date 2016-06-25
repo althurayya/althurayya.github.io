@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000360",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.125",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأداة</h1> بالفتح بلفظ واحدة الأدوات اسم جبل ",
+                "title": "الأداة",
+                "uri": "JK_000129_000360"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

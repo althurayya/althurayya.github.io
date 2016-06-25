@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012395",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.216",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>منور</h1> بفتح أوله وسكون ثانيه وفتح الواو والراء جبل في قول بشر ذو بحار فمنور وقال يزيد بن أبي حارثة إني لعمرك لا أصالح طيئا حتى يغور مكان رمح منور ",
+                "title": "منور",
+                "uri": "JK_000129_012395"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

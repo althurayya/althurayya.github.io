@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.22379,
+                    34.30577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.30577",
+                    "coord_lon": "46.22379",
+                    "cornu_URI": "MARJ_462E343N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلمرج",
+                    "toponym_arabic_other": "ﭐلمرج، مرج ﭐلقلعة",
+                    "toponym_buckwalter": "al-Marj, Marj al-Qala",
+                    "toponym_search": "al-Marj, Marj al-Qala",
+                    "toponym_translit": "al-Marǧ",
+                    "toponym_translit_other": "al-Marǧ, Marǧ al-Qalʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

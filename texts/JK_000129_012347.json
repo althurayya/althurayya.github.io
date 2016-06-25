@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012347",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.208",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المنحاة</h1> موضع في بلاد هذيل قال مالك بن خالد الهذلي لظمياء دار قد تعفت رسومها قفار وبالمنحاة منها مساكن ",
+                "title": "المنحاة",
+                "uri": "JK_000129_012347"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

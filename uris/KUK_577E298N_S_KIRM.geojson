@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.76105,
+                    29.86457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.86457",
+                    "coord_lon": "57.76105",
+                    "cornu_URI": "KUK_577E298N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كوك",
+                    "toponym_arabic_other": "كوك",
+                    "toponym_buckwalter": "Kuk",
+                    "toponym_search": "Kuk",
+                    "toponym_translit": "Kūk",
+                    "toponym_translit_other": "Kūk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

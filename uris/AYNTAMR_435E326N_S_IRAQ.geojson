@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.52574,
+                    32.62337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.62337",
+                    "coord_lon": "43.52574",
+                    "cornu_URI": "AYNTAMR_435E326N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عين ﭐلتمر",
+                    "toponym_arabic_other": "عين ﭐلتمر",
+                    "toponym_buckwalter": "Ayn al-Tamr",
+                    "toponym_search": "Ayn al-Tamr",
+                    "toponym_translit": "ʿAyn al-Tamr",
+                    "toponym_translit_other": "ʿAyn al-Tamr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

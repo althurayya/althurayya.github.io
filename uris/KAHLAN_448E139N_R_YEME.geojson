@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.85637,
+                    13.96335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.96335",
+                    "coord_lon": "44.85637",
+                    "cornu_URI": "KAHLAN_448E139N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "كحلان",
+                    "toponym_arabic_other": "كحلان",
+                    "toponym_buckwalter": "Kahlan",
+                    "toponym_search": "Kahlan",
+                    "toponym_translit": "Kaḥlān",
+                    "toponym_translit_other": "Kaḥlān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

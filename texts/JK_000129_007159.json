@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007159",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.288",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سويقة أبي عبيد الله</h1> كانت بشرقي بغداد بين الرصافة ونهر المعلى منسوبة إلى أبي عبيد الله معاوية ابن عمرو وزير المهدي ",
+                "title": "سويقة أبي عبيد الله",
+                "uri": "JK_000129_007159"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

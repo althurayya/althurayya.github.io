@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007699",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.366",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شميكان</h1> بالفتح ثم الكسر وبعد الياء كاف وآخره نون محلة بأصبهان نسب إليها بعض الرواة أبو سعد ",
+                "title": "شميكان",
+                "uri": "JK_000129_007699"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

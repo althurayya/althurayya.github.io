@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006530",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.184-185",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سبسير</h1> بفتح أوله وسكون ثانيه وسين أخرى ما أراه إلا علما مرتجلا يوم سبسير ذي طريف |جـ 3 صـ 185| من أيام العرب ",
+                "title": "سبسير",
+                "uri": "JK_000129_006530"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

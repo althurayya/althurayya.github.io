@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009381",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.195",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غرمى</h1> بالتحريك والقصر على وزن بشكى وجمزى وأصله من الغرم وهو أداء شيء يلزم فيما أحسب هكذا ضبطه الأديبي وقال هو اسم موضع ",
+                "title": "غرمى",
+                "uri": "JK_000129_009381"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

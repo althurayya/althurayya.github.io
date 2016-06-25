@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000135",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.73",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إبشيش</h1> بشينين معجمتين بينهما ياء ساكنة من قرى مصر من ناحية السمنودية ",
+                "title": "إبشيش",
+                "uri": "JK_000129_000135"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.19454,
+                    30.91373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.91373",
+                    "coord_lon": "32.19454",
+                    "cornu_URI": "JURJIR_321E309N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرجير",
+                    "toponym_arabic_other": "جرجير",
+                    "toponym_buckwalter": "Jurjir",
+                    "toponym_search": "Jurjir",
+                    "toponym_translit": "Ǧurǧīr",
+                    "toponym_translit_other": "Ǧurǧīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

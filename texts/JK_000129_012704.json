@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012704",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.270",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نجران</h1> موضع بالبحرين فيما قيل ",
+                "title": "نجران",
+                "uri": "JK_000129_012704"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

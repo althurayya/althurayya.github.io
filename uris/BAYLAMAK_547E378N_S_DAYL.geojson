@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.72705,
+                    37.88855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.88855",
+                    "coord_lon": "54.72705",
+                    "cornu_URI": "BAYLAMAK_547E378N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بيلمك",
+                    "toponym_arabic_other": "بيلمك، سلمك",
+                    "toponym_buckwalter": "Baylamak, Salmak",
+                    "toponym_search": "Baylamak, Salmak",
+                    "toponym_translit": "Baylamak",
+                    "toponym_translit_other": "Baylamak, Salmak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.51137,
+                    30.95938
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.95938",
+                    "coord_lon": "30.51137",
+                    "cornu_URI": "DANSHAL_305E309N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "دنشال",
+                    "toponym_arabic_other": "دنشال",
+                    "toponym_buckwalter": "Danshal",
+                    "toponym_search": "Danshal",
+                    "toponym_translit": "Danšāl",
+                    "toponym_translit_other": "Danšāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

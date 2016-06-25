@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007277",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.304",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شابور</h1> بعد الباء الموحدة واو ساكنة وآخره راء مهملة قال العمراني موضع بمصر وشابورتزه بالزاي من قرى مرو عن أبي سعد ونسب إليها بعض الرواة ",
+                "title": "شابور",
+                "uri": "JK_000129_007277"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

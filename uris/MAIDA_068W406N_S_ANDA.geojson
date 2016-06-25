@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.87557,
+                    40.62317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.62317",
+                    "coord_lon": "-6.87557",
+                    "cornu_URI": "MAIDA_068W406N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمئدة",
+                    "toponym_arabic_other": "ﭐلمئدة",
+                    "toponym_buckwalter": "al-Maida",
+                    "toponym_search": "al-Maida",
+                    "toponym_translit": "al-Maʾidaŧ",
+                    "toponym_translit_other": "al-Maʾidaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

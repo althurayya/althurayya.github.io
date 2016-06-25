@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002516",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.20",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ترابة</h1> بالضم بلفظ واحدة التراب بلد باليمن وقال الخارزنجي ترابة واد ",
+                "title": "ترابة",
+                "uri": "JK_000129_002516"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

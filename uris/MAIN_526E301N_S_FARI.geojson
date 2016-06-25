@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.63784,
+                    30.18595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.18595",
+                    "coord_lon": "52.63784",
+                    "cornu_URI": "MAIN_526E301N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مئين",
+                    "toponym_arabic_other": "مئين، معين",
+                    "toponym_buckwalter": "Main, Main",
+                    "toponym_search": "Main, Main",
+                    "toponym_translit": "Maʾīn",
+                    "toponym_translit_other": "Maʾīn, Maʿīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009355",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.191",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الغراميل</h1> جمع غرمول وهو الذكر الضخم لا أعرف له معنى غيره وهي هضاب حمر قال الشماخ محويين سنام عن يمينهما وبالشمال مشان فالغراميل حوى عدا ",
+                "title": "الغراميل",
+                "uri": "JK_000129_009355"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

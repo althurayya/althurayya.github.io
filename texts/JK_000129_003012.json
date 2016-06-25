@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003012",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.101",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جبرين الفستق</h1> قرية على باب حلب بينهما نحو ميلين وهي كبيرة عامرة ",
+                "title": "جبرين الفستق",
+                "uri": "JK_000129_003012"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

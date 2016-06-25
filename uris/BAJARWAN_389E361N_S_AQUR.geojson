@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.98556,
+                    36.13571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.13571",
+                    "coord_lon": "38.98556",
+                    "cornu_URI": "BAJARWAN_389E361N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باجروان",
+                    "toponym_arabic_other": "باجروان",
+                    "toponym_buckwalter": "Bajarwan",
+                    "toponym_search": "Bajarwan",
+                    "toponym_translit": "Bāǧarwān",
+                    "toponym_translit_other": "Bāǧarwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

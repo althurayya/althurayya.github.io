@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001449",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.333",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باي بابان والنسبة الباباني</h1> ذكر في بابان لأن النسبة إليها باباني ",
+                "title": "باي بابان والنسبة الباباني",
+                "uri": "JK_000129_001449"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

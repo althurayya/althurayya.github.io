@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000765",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.214",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أضرعة</h1> من قرى ذمار من نواحي اليمن ",
+                "title": "أضرعة",
+                "uri": "JK_000129_000765"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.09845,
+                    34.32388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.32388",
+                    "coord_lon": "47.09845",
+                    "cornu_URI": "QARMASIN_470E343N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قرماسين",
+                    "toponym_arabic_other": "قرماسين، قرميسين",
+                    "toponym_buckwalter": "Qarmasin, Qarmisin",
+                    "toponym_search": "Qarmasin, Qarmisin",
+                    "toponym_translit": "Qarmāsīn",
+                    "toponym_translit_other": "Qarmāsīn, Qarmīsīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

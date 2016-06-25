@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011630",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.68",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مخلاف رداع وثات</h1> رداع وثات والعروش وبشران وبلد ردمان وكومان بلد واسع يسكنه كومان وقوم من روق وصنابح ",
+                "title": "مخلاف رداع وثات",
+                "uri": "JK_000129_011630"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

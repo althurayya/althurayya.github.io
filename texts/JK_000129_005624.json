@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005624",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.24",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الربان</h1> بضم أوله وتشديد ثانيه وآخره نون وربان الشيء أوله ومنه ربان الشباب وهو ههنا ركن ضخم من أركان أجإ ",
+                "title": "الربان",
+                "uri": "JK_000129_005624"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

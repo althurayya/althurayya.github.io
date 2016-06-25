@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.64544,
+                    26.15778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.15778",
+                    "coord_lon": "32.64544",
+                    "cornu_URI": "DANDARA_326E261N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "دندرة",
+                    "toponym_arabic_other": "دندرة",
+                    "toponym_buckwalter": "Dandara",
+                    "toponym_search": "Dandara",
+                    "toponym_translit": "Dandaraŧ",
+                    "toponym_translit_other": "Dandaraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

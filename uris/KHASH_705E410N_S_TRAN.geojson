@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.53285,
+                    41.02958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.02958",
+                    "coord_lon": "70.53285",
+                    "cornu_URI": "KHASH_705E410N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خاش",
+                    "toponym_arabic_other": "خاش، خاس، خشت",
+                    "toponym_buckwalter": "Khash, Khas, Khasht",
+                    "toponym_search": "Khash, Khas, Khasht",
+                    "toponym_translit": "Ḫāš",
+                    "toponym_translit_other": "Ḫāš, Ḫās, Ḫašt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010967",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.470",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كفرعزا</h1> قرية من قرى إربل بينها وبين الزاب الأسفل ينسب إليها قاضي إربل ",
+                "title": "كفرعزا",
+                "uri": "JK_000129_010967"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

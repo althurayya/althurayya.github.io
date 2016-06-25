@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.77635,
+                    30.76476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.76476",
+                    "coord_lon": "57.77635",
+                    "cornu_URI": "DARKUJUWI_577E307N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "دركوجوي",
+                    "toponym_arabic_other": "دركوجوي",
+                    "toponym_buckwalter": "Darkujuwi",
+                    "toponym_search": "Darkujuwi",
+                    "toponym_translit": "Darkūǧuwī",
+                    "toponym_translit_other": "Darkūǧuwī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007063",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.270",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنيرين</h1> بلفظ الذي قبله إذا كان مثنى مجرورا قال الزمخشري موضع ",
+                "title": "سنيرين",
+                "uri": "JK_000129_007063"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

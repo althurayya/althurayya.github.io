@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.19969,
+                    31.74166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.74166",
+                    "coord_lon": "54.19969",
+                    "cornu_URI": "QARYAMAJUS_541E317N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلمجوس",
+                    "toponym_arabic_other": "قرية ﭐلمجوس",
+                    "toponym_buckwalter": "Qarya al-Majus",
+                    "toponym_search": "Qarya al-Majus",
+                    "toponym_translit": "Qaryaŧ al-Maǧūs",
+                    "toponym_translit_other": "Qaryaŧ al-Maǧūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

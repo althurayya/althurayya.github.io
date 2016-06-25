@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002408",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.532",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بيطرة</h1> بلدة وحصن من أعمال سرقسطة ",
+                "title": "بيطرة",
+                "uri": "JK_000129_002408"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

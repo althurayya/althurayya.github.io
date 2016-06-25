@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.84351,
+                    32.09289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.09289",
+                    "coord_lon": "50.84351",
+                    "cornu_URI": "SAWJAR_508E320N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سوجر",
+                    "toponym_arabic_other": "سوجر",
+                    "toponym_buckwalter": "Sawjar",
+                    "toponym_search": "Sawjar",
+                    "toponym_translit": "Sawǧar",
+                    "toponym_translit_other": "Sawǧar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

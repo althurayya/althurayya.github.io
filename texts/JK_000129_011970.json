@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011970",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.129",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مسلح</h1> بضم أوله وفتح ثانيه وتشديد اللام وكسرها وحاء مهملة شعب بجبلة دخلته بنو عامر يوم جبلة فحصنوا فيه نساءهم وذراريهم ",
+                "title": "مسلح",
+                "uri": "JK_000129_011970"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

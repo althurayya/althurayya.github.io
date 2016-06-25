@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011846",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.107",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المرسلية</h1> من مياه بني كليب بن يربوع باليمامة أو ما يقاربها عن محمد بن إدريس بن أبي حفصة ",
+                "title": "المرسلية",
+                "uri": "JK_000129_011846"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

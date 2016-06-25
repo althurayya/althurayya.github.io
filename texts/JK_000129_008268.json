@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008268",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.465",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ضيفة إير</h1> بالفتح ثم السكون والفاء وإير بكسر همزته اسم للريح الشمال وقيل لريح حارة وهو موضع في شعر عامر بن الطفيل ",
+                "title": "ضيفة إير",
+                "uri": "JK_000129_008268"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

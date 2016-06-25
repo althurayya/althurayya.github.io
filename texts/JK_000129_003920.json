@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003920",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حزم الضباب</h1> وهم ولد عمرو بن معاوية بن كلاب سموا بذلك لأن فيهم ضبا ومضبا وحسلا وحسيلا ",
+                "title": "حزم الضباب",
+                "uri": "JK_000129_003920"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

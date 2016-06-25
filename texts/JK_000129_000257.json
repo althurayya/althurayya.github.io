@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000257",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.102",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أجزل</h1> بالزاي واللام قال قيس بن الصراع العجلي سقى جدثا بالأجزل الفرد فالنقا رهام الغوادي مزنة فاستهلت ",
+                "title": "أجزل",
+                "uri": "JK_000129_000257"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

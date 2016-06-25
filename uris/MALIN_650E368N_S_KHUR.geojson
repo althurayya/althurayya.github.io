@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.07649,
+                    36.81403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.81403",
+                    "coord_lon": "65.07649",
+                    "cornu_URI": "MALIN_650E368N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مالن",
+                    "toponym_arabic_other": "مالن",
+                    "toponym_buckwalter": "Malin",
+                    "toponym_search": "Malin",
+                    "toponym_translit": "Mālin",
+                    "toponym_translit_other": "Mālin"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

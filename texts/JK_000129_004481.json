@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004481",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.348",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خدار</h1> قلعة بينها وبين صنعاء يوم ويقال لها ذو الخدار وذو الجدار غيرها ",
+                "title": "خدار",
+                "uri": "JK_000129_004481"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

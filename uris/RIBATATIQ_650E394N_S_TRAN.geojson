@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.02339,
+                    39.44667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.44667",
+                    "coord_lon": "65.02339",
+                    "cornu_URI": "RIBATATIQ_650E394N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط عتيق",
+                    "toponym_arabic_other": "رباط عتيق",
+                    "toponym_buckwalter": "Ribat Atiq",
+                    "toponym_search": "Ribat Atiq",
+                    "toponym_translit": "Ribāṭ ʿAtīq",
+                    "toponym_translit_other": "Ribāṭ ʿAtīq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

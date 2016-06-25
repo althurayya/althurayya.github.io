@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009627",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.236-237",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فحل</h1> بفتح أوله وكسر ثانيه لعله منقول عن الفعل الماضي من فحل يفحل إذا صار فحلا وهو اسم |جـ 4 صـ 237| موضع حكاه أبو الحسن الخوارزمي ",
+                "title": "فحل",
+                "uri": "JK_000129_009627"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003295",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.149-150",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جلاوند</h1> بتخفيف الام وفتح الواو وسكون النون من قرى قم نسب إليها بعضهم |جـ 2 صـ 150| ",
+                "title": "جلاوند",
+                "uri": "JK_000129_003295"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

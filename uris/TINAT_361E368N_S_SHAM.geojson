@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.16107,
+                    36.86458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.86458",
+                    "coord_lon": "36.16107",
+                    "cornu_URI": "TINAT_361E368N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "placeforte",
+                    "toponym_arabic": "تينات",
+                    "toponym_arabic_other": "تينات، حصن ﭐلتينات",
+                    "toponym_buckwalter": "Tinat, Hisn al-Tinat",
+                    "toponym_search": "Tinat, Hisn al-Tinat",
+                    "toponym_translit": "Tīnāt",
+                    "toponym_translit_other": "Tīnāt, Ḥiṣn al-Tīnāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

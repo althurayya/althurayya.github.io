@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000419",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.135",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أرال</h1> بالفتح وآخره لام قال الأصمعي ولهذيل جبل يقال له أرال وأنشد غيره لكثير ألا ليت شعري هل تغير بعدنا أرال فصر ما قادم فتناضب ",
+                "title": "أرال",
+                "uri": "JK_000129_000419"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

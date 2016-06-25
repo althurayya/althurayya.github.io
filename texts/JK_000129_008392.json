@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008392",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.34",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طريف</h1> مصغر موضع بالبحرين كان لهم فيه وقعة ذكره نصر ",
+                "title": "طريف",
+                "uri": "JK_000129_008392"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

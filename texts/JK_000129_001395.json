@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001395",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.326",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باغون</h1> بضم الغين بلدة من عمل بوشنج من نواحي هراة ذكرها في الفتوح فتحها المسلمون عنوة سنة 13 ",
+                "title": "باغون",
+                "uri": "JK_000129_001395"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

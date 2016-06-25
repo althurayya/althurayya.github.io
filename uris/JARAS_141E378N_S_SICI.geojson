@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.1894,
+                    37.85376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.85376",
+                    "coord_lon": "14.18940",
+                    "cornu_URI": "JARAS_141E378N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جاراس",
+                    "toponym_arabic_other": "جاراس",
+                    "toponym_buckwalter": "Jaras",
+                    "toponym_search": "Jaras",
+                    "toponym_translit": "Ǧārās",
+                    "toponym_translit_other": "Ǧārās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

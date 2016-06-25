@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.80739,
+                    32.19588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.19588",
+                    "coord_lon": "34.80739",
+                    "cornu_URI": "ARSUF_348E321N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أرسوف",
+                    "toponym_arabic_other": "أرسوف",
+                    "toponym_buckwalter": "Arsuf",
+                    "toponym_search": "Arsuf",
+                    "toponym_translit": "Arsūf",
+                    "toponym_translit_other": "Arsūf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

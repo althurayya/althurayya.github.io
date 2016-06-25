@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010799",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.442",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كدك</h1> بالفتح ثم السكون وكاف أخرى من نواحي سمرقند فيما أحسب ",
+                "title": "كدك",
+                "uri": "JK_000129_010799"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

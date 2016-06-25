@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004097",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.278",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حقاء</h1> بالكسر والمد وهو في اللغة جمع حقو وهو ما ارتفع من الأرض عن النجوة وهو موضع عن ابن دريد ",
+                "title": "حقاء",
+                "uri": "JK_000129_004097"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

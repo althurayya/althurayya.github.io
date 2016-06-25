@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000746",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.211",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأصدار</h1> كأنه جمع الصدر ضد الورد مواضع بنعمان الأراك قرب مكة يجلب منها العسل والمراد بها صدور الوادي عن الأصمعي ",
+                "title": "الأصدار",
+                "uri": "JK_000129_000746"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

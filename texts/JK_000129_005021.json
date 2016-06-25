@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005021",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.430",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دارة ملحوب</h1> قال الشاعر إن تقتلوا ابن أبي بكر فقد قتلت جحرا بدارة ملحوب بنو أسد ",
+                "title": "دارة ملحوب",
+                "uri": "JK_000129_005021"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009626",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.236",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الفحلاء</h1> بالفتح ثم السكون والمد والفحل من صفة الذكور وفحلاء من صفات الإناث فإن لم يكن أريد به تأنيث الأرض فلا أدري ما هو وهو اسم موضع ",
+                "title": "الفحلاء",
+                "uri": "JK_000129_009626"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

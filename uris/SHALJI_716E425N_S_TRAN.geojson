@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.66129,
+                    42.59356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.59356",
+                    "coord_lon": "71.66129",
+                    "cornu_URI": "SHALJI_716E425N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شلجي",
+                    "toponym_arabic_other": "شلجي",
+                    "toponym_buckwalter": "Shalji",
+                    "toponym_search": "Shalji",
+                    "toponym_translit": "Šalǧī",
+                    "toponym_translit_other": "Šalǧī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

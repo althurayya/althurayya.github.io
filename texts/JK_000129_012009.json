@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012009",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.133",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مشروق والنسبة المشروقي</h1> موضع باليمن منه معدي كرب المشروقي الهمذاني يروي عن علي وابن مسعود روى عنه أبو إسحاق الهمذاني ",
+                "title": "مشروق والنسبة المشروقي",
+                "uri": "JK_000129_012009"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

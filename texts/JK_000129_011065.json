@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011065",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.481-482",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كنجروذ</h1> بالفتح ثم السكون وجيم ثم راء بعدها واو ساكنة وذال معجمة قرية على باب نيسابور |جـ 4 صـ 482| ",
+                "title": "كنجروذ",
+                "uri": "JK_000129_011065"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

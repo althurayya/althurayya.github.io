@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011591",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.63",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>محلة نقيدة</h1> بالحوف الغربي بمصر ",
+                "title": "محلة نقيدة",
+                "uri": "JK_000129_011591"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

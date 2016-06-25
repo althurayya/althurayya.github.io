@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001266",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.307-308",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بابرت</h1> بكسر الباء الثانية قرية كبيرة ومدينة حسنة من نواحي أرزن الروم من نواحي أرمينية خبرني بها رجل من أهلها فقيه |جـ 1 صـ 308| ",
+                "title": "بابرت",
+                "uri": "JK_000129_001266"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

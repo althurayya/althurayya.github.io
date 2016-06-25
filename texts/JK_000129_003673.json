@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003673",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.215",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حبوكر</h1> بفتحتين وسكون الواو وفتح الكاف وراء من أسماء الدواهي وهو أيضا اسم رملة كثيرة الرمل ",
+                "title": "حبوكر",
+                "uri": "JK_000129_003673"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

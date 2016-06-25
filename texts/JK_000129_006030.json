@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006030",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.95",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة مرخ</h1> بالتحريك وآخره خاء معجمة بالمدينة قال ابن المولى المدني هل تذكرين بجنب الروض من مرخ يا أملح الناس وعدا شفني كمدا ",
+                "title": "روضة مرخ",
+                "uri": "JK_000129_006030"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

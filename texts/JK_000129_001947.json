@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001947",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.414",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بستان ابن عامر</h1> هو بستان ابن معمر المذكور فيما بعد ",
+                "title": "بستان ابن عامر",
+                "uri": "JK_000129_001947"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

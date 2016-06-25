@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005720",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.39",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرخيخ</h1> بالتصغير كأنه تصغير وهو نبات هش عن ابن حماد موضع قرب المكيمن وحبران والروحاء وقيل بدال وحاء وجيم عن نصر ",
+                "title": "الرخيخ",
+                "uri": "JK_000129_005720"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

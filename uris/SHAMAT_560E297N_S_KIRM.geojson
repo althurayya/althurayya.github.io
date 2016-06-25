@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.01438,
+                    29.76249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.76249",
+                    "coord_lon": "56.01438",
+                    "cornu_URI": "SHAMAT_560E297N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلشامات",
+                    "toponym_arabic_other": "ﭐلشامات",
+                    "toponym_buckwalter": "al-Shamat",
+                    "toponym_search": "al-Shamat",
+                    "toponym_translit": "al-Šāmāt",
+                    "toponym_translit_other": "al-Šāmāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

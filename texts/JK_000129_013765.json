@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013765",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.451",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ينقب</h1> موضع عن العمراني ",
+                "title": "ينقب",
+                "uri": "JK_000129_013765"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

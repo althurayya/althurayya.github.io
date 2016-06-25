@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.67168,
+                    30.91897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.91897",
+                    "coord_lon": "52.67168",
+                    "cornu_URI": "IQLID_526E309N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "إقليد",
+                    "toponym_arabic_other": "إقليد",
+                    "toponym_buckwalter": "Iqlid",
+                    "toponym_search": "Iqlid",
+                    "toponym_translit": "Iqlīd",
+                    "toponym_translit_other": "Iqlīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

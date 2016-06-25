@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008165",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.441",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صيهد</h1> قال سيف في الفتوح صيهد مفازة بين مأرب وحضرموت ",
+                "title": "صيهد",
+                "uri": "JK_000129_008165"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

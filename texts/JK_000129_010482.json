@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010482",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.391",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قلمرية</h1> بضم أوله وثانيه وسكون الميم وكسر الراء وتخفيف الياء مدينة بالأندلس وهي اليوم بيد الأفرنج خذلهم الله ",
+                "title": "قلمرية",
+                "uri": "JK_000129_010482"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.56194,
+                    27.45601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.45601",
+                    "coord_lon": "57.56194",
+                    "cornu_URI": "MANUQAN_575E274N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منوقان",
+                    "toponym_arabic_other": "منوقان، منوجان",
+                    "toponym_buckwalter": "Manuqan, Manujan",
+                    "toponym_search": "Manuqan, Manujan",
+                    "toponym_translit": "Manūqān",
+                    "toponym_translit_other": "Manūqān, Manūǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

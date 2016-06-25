@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001616",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.368",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>براهان</h1> بتخفيف الراء قلعة من نواحي همذان ويقال لها فردجان أيضا ",
+                "title": "براهان",
+                "uri": "JK_000129_001616"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003475",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.182",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جور</h1> بالضم ثم الفتح والراء قرية من قرى أصبهان قال أبو بكر بن موسى الحافظ خرج منها رجل يكتب الحديث ولم أثبت اسمه ",
+                "title": "جور",
+                "uri": "JK_000129_003475"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

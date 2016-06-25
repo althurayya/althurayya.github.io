@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002215",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.502",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بوار</h1> بالفتح بلفظ البوار بمعنى الهلاك بلد باليمن له ذكر في الأخبار عن نصر ",
+                "title": "بوار",
+                "uri": "JK_000129_002215"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

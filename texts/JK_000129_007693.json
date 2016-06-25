@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007693",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.365",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شميران</h1> بالفتح والكسر ثم ياء مثناة من تحت ساكنة وراء آخره نون بلد بأرمينية وقرية بمرو الشاهجان ",
+                "title": "شميران",
+                "uri": "JK_000129_007693"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.51012,
+                    28.51826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.51826",
+                    "coord_lon": "53.51012",
+                    "cornu_URI": "JAHRAM_535E285N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جهرم",
+                    "toponym_arabic_other": "جهرم",
+                    "toponym_buckwalter": "Jahram",
+                    "toponym_search": "Jahram",
+                    "toponym_translit": "Ǧahram",
+                    "toponym_translit_other": "Ǧahram"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

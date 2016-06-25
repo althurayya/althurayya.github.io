@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.99606,
+                    31.58612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.58612",
+                    "coord_lon": "30.99606",
+                    "cornu_URI": "BURULLUS_309E315N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "برلس",
+                    "toponym_arabic_other": "برلس، برلس",
+                    "toponym_buckwalter": "Burullus, Barullus",
+                    "toponym_search": "Burullus, Barullus",
+                    "toponym_translit": "Burullus",
+                    "toponym_translit_other": "Burullus, Barullus"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

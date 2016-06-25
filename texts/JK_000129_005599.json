@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005599",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.19",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>راونج</h1> ويقال ريونج وقد ذكرت هناك ",
+                "title": "راونج",
+                "uri": "JK_000129_005599"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

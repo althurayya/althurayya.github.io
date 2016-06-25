@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013630",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.425",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ياركث</h1> بعد الألف راء ساكنة يلتقي عندها ساكنان وكاف مفتوحة وثاء مثلثة من قرى أشروسنة بما وراء النهر عن أبي سعد ",
+                "title": "ياركث",
+                "uri": "JK_000129_013630"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

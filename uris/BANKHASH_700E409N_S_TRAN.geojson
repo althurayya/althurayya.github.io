@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.00883,
+                    40.99377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.99377",
+                    "coord_lon": "70.00883",
+                    "cornu_URI": "BANKHASH_700E409N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بنخاش",
+                    "toponym_arabic_other": "بنخاش، بنجخاش",
+                    "toponym_buckwalter": "Bankhash, Banjkhash",
+                    "toponym_search": "Bankhash, Banjkhash",
+                    "toponym_translit": "Banḫāš",
+                    "toponym_translit_other": "Banḫāš, Banǧḫāš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

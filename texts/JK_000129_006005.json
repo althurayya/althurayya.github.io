@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006005",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.89",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة الزبرتين</h1> لبني أسيد بمفجر وادي الرمة من التنعيم عن يسار طريق الحاج المصعد ",
+                "title": "روضة الزبرتين",
+                "uri": "JK_000129_006005"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007016",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.264",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنجديزه</h1> هي سنكديزه وقد ذكرت بعد وهي محلة بسمرقند ",
+                "title": "سنجديزه",
+                "uri": "JK_000129_007016"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

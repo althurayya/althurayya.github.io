@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009162",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.162",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عنك</h1> بلفظ زفر وآخره كاف عن نصر علم مرتجل لاسم قرية بالبحرين ",
+                "title": "عنك",
+                "uri": "JK_000129_009162"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

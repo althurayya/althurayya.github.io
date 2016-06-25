@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011828",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.104",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مردا</h1> قرية قرب نابلس إلا أن هذه لا يتلفظ بها إلا بالقصر ",
+                "title": "مردا",
+                "uri": "JK_000129_011828"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

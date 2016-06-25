@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.21396,
+                    39.97506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.97506",
+                    "coord_lon": "71.21396",
+                    "cornu_URI": "SUKH_712E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سوخ",
+                    "toponym_arabic_other": "سوخ، سوج",
+                    "toponym_buckwalter": "Sukh, Suj",
+                    "toponym_search": "Sukh, Suj",
+                    "toponym_translit": "Sūḫ",
+                    "toponym_translit_other": "Sūḫ, Sūǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

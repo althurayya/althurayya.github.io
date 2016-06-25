@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004322",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.319",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحوش</h1> بلاد الجن من وراء يبرين لا يسكنها أحد من الناس قال مالك بن الريب من الرمل رمل الحوش أو غاف راسب وعهدي برمل الحوش وهو بعيد ",
+                "title": "الحوش",
+                "uri": "JK_000129_004322"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

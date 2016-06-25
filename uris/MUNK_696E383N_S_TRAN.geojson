@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.69102,
+                    38.32824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.32824",
+                    "coord_lon": "69.69102",
+                    "cornu_URI": "MUNK_696E383N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منك",
+                    "toponym_arabic_other": "منك",
+                    "toponym_buckwalter": "Munk",
+                    "toponym_search": "Munk",
+                    "toponym_translit": "Munk",
+                    "toponym_translit_other": "Munk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

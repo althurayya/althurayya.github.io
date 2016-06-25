@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005534",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.11-12",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رابة</h1> بعد الألف باء موحدة مخففة بلدة في وسط جزيرة صقلية |جـ 3 صـ 12| ",
+                "title": "رابة",
+                "uri": "JK_000129_005534"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

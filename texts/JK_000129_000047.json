@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000047",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.56",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>آلية</h1> بعد اللام المكسورة ياء مفتوحة خفيفة قصر آلية لا أعرف من أمره غير هذا ",
+                "title": "آلية",
+                "uri": "JK_000129_000047"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

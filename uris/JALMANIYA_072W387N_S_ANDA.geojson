@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.22985,
+                    38.77894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.77894",
+                    "coord_lon": "-7.22985",
+                    "cornu_URI": "JALMANIYA_072W387N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جلمانية",
+                    "toponym_arabic_other": "جلمانية",
+                    "toponym_buckwalter": "Jalmaniya",
+                    "toponym_search": "Jalmaniya",
+                    "toponym_translit": "Ǧalmāniyaŧ",
+                    "toponym_translit_other": "Ǧalmāniyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

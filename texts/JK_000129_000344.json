@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000344",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.123",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأخضر</h1> موضع بالجزيرة للنمر بن قاسط ومواضع كثيرة عربية وعجمية تسمى الأخضر ",
+                "title": "الأخضر",
+                "uri": "JK_000129_000344"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

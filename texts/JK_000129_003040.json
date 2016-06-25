@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003040",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.110",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جبيل</h1> جبل بين أفاعية والمسلح يقال له جبل بان لأن نباته البان وهو صلب أصم ",
+                "title": "جبيل",
+                "uri": "JK_000129_003040"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

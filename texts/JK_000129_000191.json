@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000191",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.87",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إتريش</h1> بالكسر ثم السكون وكسر الراء وياء ساكنة وشين معجمة هو حصن بالأندلس من أعمال رية منها كانت فتنة ابن حفصونة وإليها كان يلجأ عند الخوف ",
+                "title": "إتريش",
+                "uri": "JK_000129_000191"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

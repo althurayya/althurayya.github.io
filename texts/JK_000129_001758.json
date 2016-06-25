@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001758",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.391",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة أخرم</h1> وقد ذكر أخرم خيم في موضعه قال ابن هرمة بلوى كفافة أو ببرقة أخرم خيم على آلاتهن وشيع في أبيات ذكرت في كفافة ",
+                "title": "برقة أخرم",
+                "uri": "JK_000129_001758"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

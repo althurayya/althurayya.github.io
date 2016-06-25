@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007342",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.316",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شاه دز</h1> قلعة بناها نصر بن الحسن بن فيروزان الديلمي في جبل شهريار في حدود سنة 360 ومعنى شاه دز قلعة الملك ",
+                "title": "شاه دز",
+                "uri": "JK_000129_007342"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

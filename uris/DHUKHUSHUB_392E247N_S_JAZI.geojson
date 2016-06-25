@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.29172,
+                    24.72896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.72896",
+                    "coord_lon": "39.29172",
+                    "cornu_URI": "DHUKHUSHUB_392E247N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ذو خشب",
+                    "toponym_arabic_other": "ذو خشب",
+                    "toponym_buckwalter": "Dhu Khushub",
+                    "toponym_search": "Dhu Khushub",
+                    "toponym_translit": "Ḏū Ḫušub",
+                    "toponym_translit_other": "Ḏū Ḫušub"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001468",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.335",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بترير</h1> بالكسر ثم السكون وكسر الراء وياء ساكنة وراء أخرى حصن من أعمال مرسية بالأندلس ",
+                "title": "بترير",
+                "uri": "JK_000129_001468"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

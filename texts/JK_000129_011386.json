@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011386",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.28-29",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ليلش</h1> قرية في اللحف من أعمال شرقي الموصل منها الشيخ عدي بن مسافر الشافعي شيخ الأكراد وإمامهم وولده |جـ 5 صـ 29| ",
+                "title": "ليلش",
+                "uri": "JK_000129_011386"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

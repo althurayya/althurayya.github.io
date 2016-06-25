@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.80321,
+                    38.46017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.46017",
+                    "coord_lon": "45.80321",
+                    "cornu_URI": "MARAND_458E384N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مرند",
+                    "toponym_arabic_other": "مرند",
+                    "toponym_buckwalter": "Marand",
+                    "toponym_search": "Marand",
+                    "toponym_translit": "Marand",
+                    "toponym_translit_other": "Marand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005289",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.478",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دنن</h1> بفتحتين ونونين اسم بلد بعينه قال ابن مقبل يعنيه يثنين أعناق أدم يفتلين بها حب الأراك وحب الضال من دنن ويروى ددن ",
+                "title": "دنن",
+                "uri": "JK_000129_005289"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

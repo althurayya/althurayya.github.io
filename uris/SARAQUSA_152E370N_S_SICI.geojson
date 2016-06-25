@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.29356,
+                    37.0911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.09110",
+                    "coord_lon": "15.29356",
+                    "cornu_URI": "SARAQUSA_152E370N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سرقوسة",
+                    "toponym_arabic_other": "سرقوسة",
+                    "toponym_buckwalter": "Saraqusa",
+                    "toponym_search": "Saraqusa",
+                    "toponym_translit": "Saraqūsaŧ",
+                    "toponym_translit_other": "Saraqūsaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

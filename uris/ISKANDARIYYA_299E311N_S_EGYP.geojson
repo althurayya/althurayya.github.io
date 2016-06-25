@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    29.90981,
+                    31.1949
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.19490",
+                    "coord_lon": "29.90981",
+                    "cornu_URI": "ISKANDARIYYA_299E311N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلإسكندرية",
+                    "toponym_arabic_other": "ﭐلإسكندرية",
+                    "toponym_buckwalter": "al-Iskandariyya",
+                    "toponym_search": "al-Iskandariyya",
+                    "toponym_translit": "al-Iskandariyyaŧ",
+                    "toponym_translit_other": "al-Iskandariyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007925",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.395",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الصخرة</h1> بلفظ واحدة الصخر من الحجارة من أقاليم أكشونية بالأندلس ",
+                "title": "الصخرة",
+                "uri": "JK_000129_007925"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007620",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.356",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شقوق</h1> جمع شق أو شق وهو الناحية منزل بطريق مكة بعد واقصة من الكوفة وبعدها تلقاء مكة بطان وقبر العبادي وهو لبني سلامة من بني أسد ",
+                "title": "شقوق",
+                "uri": "JK_000129_007620"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

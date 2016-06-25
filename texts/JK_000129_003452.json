@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003452",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.178",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جوبه</h1> هو الذي قبله وإنما تزاد القاف فيه إذا نسب إليه ",
+                "title": "جوبه",
+                "uri": "JK_000129_003452"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

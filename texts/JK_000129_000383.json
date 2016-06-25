@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000383",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.127",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأدنيان</h1> بالفتح ثم السكون وفتح النون وياء وألف ونون كأنه تثنية الأدنى أي الأقرب من دنا يدنو اسم واد في بلادهم ",
+                "title": "الأدنيان",
+                "uri": "JK_000129_000383"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000920",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.241",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأكوار</h1> دارة الأكوار ذكرت في الدارات ",
+                "title": "الأكوار",
+                "uri": "JK_000129_000920"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

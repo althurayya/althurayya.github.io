@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.46843,
+                    27.22823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.22823",
+                    "coord_lon": "57.46843",
+                    "cornu_URI": "JAKIN_574E272N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جكين",
+                    "toponym_arabic_other": "جكين",
+                    "toponym_buckwalter": "Jakin",
+                    "toponym_search": "Jakin",
+                    "toponym_translit": "Ǧakīn",
+                    "toponym_translit_other": "Ǧakīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

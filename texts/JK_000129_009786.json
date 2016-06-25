@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009786",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.267",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الفصا</h1> بالضم والقصر كأنه جمع فصية من قولهم تفصى من كذا أي تخلص منه ثنية باليمن ",
+                "title": "الفصا",
+                "uri": "JK_000129_009786"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

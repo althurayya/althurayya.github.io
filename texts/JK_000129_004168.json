@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004168",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.298",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حمار</h1> بالفتح وتشديد الميم بوزن عطار موضع بالجزيرة ",
+                "title": "حمار",
+                "uri": "JK_000129_004168"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

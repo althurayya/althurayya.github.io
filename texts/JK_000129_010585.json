@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010585",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.410",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القنيعة</h1> واحدة الذي قبله بركة بين الثعلبية والخزيمية بطريق مكة لأم جعفر ويجوز أن يكون تصغير القناعة مرخما ",
+                "title": "القنيعة",
+                "uri": "JK_000129_010585"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

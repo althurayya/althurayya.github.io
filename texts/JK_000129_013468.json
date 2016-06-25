@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013468",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.394",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الهجرة</h1> من نواحي اليمامة قرية ونخيلات لبني قيس بن ثعلبة رهط الأعشى وقال في موضع آخر مويهة لبني قيس ",
+                "title": "الهجرة",
+                "uri": "JK_000129_013468"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001119",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.277",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أودن</h1> بالنون قال أحمد بن الطيب أودن قرية كبيرة تحت جبل بين مرعش والفرات وقال أبو بكر بن موسى ",
+                "title": "أودن",
+                "uri": "JK_000129_001119"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

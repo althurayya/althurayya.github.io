@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.65666,
+                    33.76006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.76006",
+                    "coord_lon": "44.65666",
+                    "cornu_URI": "BAQUBA_446E337N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بعقوبا",
+                    "toponym_arabic_other": "بعقوبا، باقوبة",
+                    "toponym_buckwalter": "Baquba, Baquba",
+                    "toponym_search": "Baquba, Baquba",
+                    "toponym_translit": "Baʿqūbā",
+                    "toponym_translit_other": "Baʿqūbā, Bāqūbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

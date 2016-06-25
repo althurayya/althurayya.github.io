@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009737",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.257",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فرنكد</h1> بفتحتين وسكون النون وفتح الكاف ودال مهملة قرية قريبة من سمرقند ",
+                "title": "فرنكد",
+                "uri": "JK_000129_009737"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

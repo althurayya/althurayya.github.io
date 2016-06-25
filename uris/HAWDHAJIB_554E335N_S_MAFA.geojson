@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.43921,
+                    33.57348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.57348",
+                    "coord_lon": "55.43921",
+                    "cornu_URI": "HAWDHAJIB_554E335N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حوض ﭐلحاجب",
+                    "toponym_arabic_other": "حوض ﭐلحاجب",
+                    "toponym_buckwalter": "Hawd al-Hajib",
+                    "toponym_search": "Hawd al-Hajib",
+                    "toponym_translit": "Ḥawḍ al-Ḥāǧib",
+                    "toponym_translit_other": "Ḥawḍ al-Ḥāǧib"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

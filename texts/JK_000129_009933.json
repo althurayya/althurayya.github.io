@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009933",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.285",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فيف</h1> غير مضاف من منازل مزينة قال معن بن أوس المزني أعاذل من يحتل فيفا وفيحة وثورا ومن يحمي الأكاحل بعدنا ",
+                "title": "فيف",
+                "uri": "JK_000129_009933"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

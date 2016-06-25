@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001083",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.271",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أنفة</h1> بالتحريك بليدة على ساحل بحر الشام شرقي جبل صهيون بينهما ثمانية فراسخ ",
+                "title": "أنفة",
+                "uri": "JK_000129_001083"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

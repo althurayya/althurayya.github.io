@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006271",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.139",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زرنيخ</h1> بلفظ هذا العقار الأصفر قرية من قرى الصعيد بأعلاه من شرقي النيل ",
+                "title": "زرنيخ",
+                "uri": "JK_000129_006271"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000883",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.237",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأقعس</h1> الأقعس المرتفع ومنه عزة قعساء جبل في ديار ربيعة بن عقيل يقال له ذو الهضبات وقال الحفصي الأقعس نخل وأرض لبني الأحنف باليمامة ",
+                "title": "الأقعس",
+                "uri": "JK_000129_000883"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002783",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.65",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تيركان والنسبة التيركاني</h1> بالكسر من قرى مرو منها أبو عبد الله محمد بن عبد ربه بن سليمان المروزي التيركاني مات سنة 502 ",
+                "title": "تيركان والنسبة التيركاني",
+                "uri": "JK_000129_002783"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

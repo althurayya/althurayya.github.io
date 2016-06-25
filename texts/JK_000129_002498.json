@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002498",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.16",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تثنيث</h1> بوزن الذي قبله إلا أن عوض اللام نون وأما آخره فيروى بالتاء والثاء موضع بالسراة من مساكن أزد شنوءة قريب من الذي قبله ",
+                "title": "تثنيث",
+                "uri": "JK_000129_002498"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007014",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.264",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنج</h1> بكسر أوله وسكون ثانيه وآخره جيم قريتان بمرو إحداهما يقال لها سنج عباد ينسب إليها أبو منصور المظفر بن أردشير الواعظ العبادي مات في سنة 745 ",
+                "title": "سنج",
+                "uri": "JK_000129_007014"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

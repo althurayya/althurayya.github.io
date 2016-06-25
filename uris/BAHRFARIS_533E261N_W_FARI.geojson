@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.38985,
+                    26.11223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.11223",
+                    "coord_lon": "53.38985",
+                    "cornu_URI": "BAHRFARIS_533E261N_W_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "mer",
+                    "toponym_arabic": "بحر فارس",
+                    "toponym_arabic_other": "بحر فارس",
+                    "toponym_buckwalter": "Bahr Faris",
+                    "toponym_search": "Bahr Faris",
+                    "toponym_translit": "Baḥr Fāris",
+                    "toponym_translit_other": "Baḥr Fāris"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

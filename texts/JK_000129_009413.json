@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009413",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.202",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غزوان</h1> محلة بهراة ",
+                "title": "غزوان",
+                "uri": "JK_000129_009413"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

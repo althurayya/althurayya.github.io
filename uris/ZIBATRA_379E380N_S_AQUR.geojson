@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.90461,
+                    38.09311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.09311",
+                    "coord_lon": "37.90461",
+                    "cornu_URI": "ZIBATRA_379E380N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "placefrontiere",
+                    "toponym_arabic": "زبطرة",
+                    "toponym_arabic_other": "زبطرة",
+                    "toponym_buckwalter": "Zibatra",
+                    "toponym_search": "Zibatra",
+                    "toponym_translit": "Zibaṭraŧ",
+                    "toponym_translit_other": "Zibaṭraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

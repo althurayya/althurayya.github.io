@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001423",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.330",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بالة</h1> موضع بالحجاز ويعده بعضهم في الحرم وروي عن بعضهم بالنون أي ما ناله وقرب منه ومن تخومه ",
+                "title": "بالة",
+                "uri": "JK_000129_001423"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

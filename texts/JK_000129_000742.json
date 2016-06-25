@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000742",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.206",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أصبهانات</h1> جمع أصبهانة وهي مدينة بأرض فارس ",
+                "title": "أصبهانات",
+                "uri": "JK_000129_000742"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

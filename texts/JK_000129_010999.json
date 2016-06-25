@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010999",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.475",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كلان روذ</h1> معناه النهر الكبير وهو بأذربيجان قريب من البذ مدينة بابك نزله الأفشين لما حارب بابكا ",
+                "title": "كلان روذ",
+                "uri": "JK_000129_010999"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003228",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.137",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جزيرة شكر</h1> بضم الشين المعجمة وسكون الكاف جزيرة في شرقي الأندلس ويقال جزيرة شقر وقد ذكرت في شقر بشاهدها ",
+                "title": "جزيرة شكر",
+                "uri": "JK_000129_003228"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

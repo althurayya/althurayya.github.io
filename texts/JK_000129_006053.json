@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006053",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.97",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرومقان</h1> بضم أوله وسكون ثانيه وبعد الميم المفتوحة قاف وآخره نون طسوج من طساسيج السواد في سمت الكوفة ",
+                "title": "الرومقان",
+                "uri": "JK_000129_006053"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

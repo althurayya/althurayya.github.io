@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011675",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.73",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مخمسة</h1> ماءة بالبياض من أرض اليمامة ",
+                "title": "مخمسة",
+                "uri": "JK_000129_011675"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

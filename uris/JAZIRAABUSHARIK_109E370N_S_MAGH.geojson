@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.99773,
+                    37.03058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.03058",
+                    "coord_lon": "10.99773",
+                    "cornu_URI": "JAZIRAABUSHARIK_109E370N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جزيرة أبو شريك",
+                    "toponym_arabic_other": "جزيرة أبو شريك",
+                    "toponym_buckwalter": "Jazira Abu Sharik",
+                    "toponym_search": "Jazira Abu Sharik",
+                    "toponym_translit": "Ǧazīraŧ Abū Šarīk",
+                    "toponym_translit_other": "Ǧazīraŧ Abū Šarīk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

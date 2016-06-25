@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.73902,
+                    25.54178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.54178",
+                    "coord_lon": "28.73902",
+                    "cornu_URI": "DAKHILA_287E255N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلداخلة",
+                    "toponym_arabic_other": "ﭐلداخلة",
+                    "toponym_buckwalter": "al-Dakhila",
+                    "toponym_search": "al-Dakhila",
+                    "toponym_translit": "al-Dāḫilaŧ",
+                    "toponym_translit_other": "al-Dāḫilaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

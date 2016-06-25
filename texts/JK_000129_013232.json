@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013232",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.364",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وحيف</h1> بالفتح ثم الكسر قال أبو عمرو الوحاف من الأرضين ما وصل بعضه ببعض والوحيف مثل الوصيف وهو الصوت وهو موضع كانت تلقى فيه الجيف بمكة ",
+                "title": "وحيف",
+                "uri": "JK_000129_013232"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

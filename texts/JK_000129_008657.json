@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008657",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.78",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عبرين</h1> وهو تثنية العبر بفتح أوله يقال عبرت الرؤيا عبرا وعبرت الكتاب عبرا إذا تدبرته وهو اسم موضع قال وبالعبرين حولا ما نريم ",
+                "title": "عبرين",
+                "uri": "JK_000129_008657"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

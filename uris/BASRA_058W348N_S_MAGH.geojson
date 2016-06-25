@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.88806,
+                    34.82887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.82887",
+                    "coord_lon": "-5.88806",
+                    "cornu_URI": "BASRA_058W348N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بصرة",
+                    "toponym_arabic_other": "بصرة",
+                    "toponym_buckwalter": "Basra",
+                    "toponym_search": "Basra",
+                    "toponym_translit": "Baṣraŧ",
+                    "toponym_translit_other": "Baṣraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

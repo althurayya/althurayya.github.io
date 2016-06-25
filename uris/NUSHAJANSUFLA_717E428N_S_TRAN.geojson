@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.70197,
+                    42.89978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.89978",
+                    "coord_lon": "71.70197",
+                    "cornu_URI": "NUSHAJANSUFLA_717E428N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "نوشجان ﭐلسفلى",
+                    "toponym_arabic_other": "نوشجان ﭐلسفلى",
+                    "toponym_buckwalter": "Nushajan al-Sufla",
+                    "toponym_search": "Nushajan al-Sufla",
+                    "toponym_translit": "Nūšaǧān al-Suflá",
+                    "toponym_translit_other": "Nūšaǧān al-Suflá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

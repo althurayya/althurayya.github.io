@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.83555,
+                    30.49692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.49692",
+                    "coord_lon": "47.83555",
+                    "cornu_URI": "UBULLA_478E304N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلأبلة",
+                    "toponym_arabic_other": "ﭐلأبلة",
+                    "toponym_buckwalter": "al-Ubulla",
+                    "toponym_search": "al-Ubulla",
+                    "toponym_translit": "al-Ubullaŧ",
+                    "toponym_translit_other": "al-Ubullaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

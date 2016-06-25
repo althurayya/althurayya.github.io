@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.70675,
+                    30.25118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.25118",
+                    "coord_lon": "49.70675",
+                    "cornu_URI": "HINDUWAN_497E302N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هندوان",
+                    "toponym_arabic_other": "هندوان، هنديجان",
+                    "toponym_buckwalter": "Hinduwan, Hindijan",
+                    "toponym_search": "Hinduwan, Hindijan",
+                    "toponym_translit": "Hinduwān",
+                    "toponym_translit_other": "Hinduwān, Hindīǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.04321,
+                    32.98099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.98099",
+                    "coord_lon": "36.04321",
+                    "cornu_URI": "JASIM_360E329N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جاسم",
+                    "toponym_arabic_other": "جاسم",
+                    "toponym_buckwalter": "Jasim",
+                    "toponym_search": "Jasim",
+                    "toponym_translit": "Ǧāsim",
+                    "toponym_translit_other": "Ǧāsim"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006130",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.115",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ريونج</h1> ويقال راونج من قرى نيسابور ",
+                "title": "ريونج",
+                "uri": "JK_000129_006130"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

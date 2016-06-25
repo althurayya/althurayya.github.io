@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.76268,
+                    19.83698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.83698",
+                    "coord_lon": "40.76268",
+                    "cornu_URI": "SIRRAYN_407E198N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "port",
+                    "toponym_arabic": "ﭐلسرين",
+                    "toponym_arabic_other": "ﭐلسرين",
+                    "toponym_buckwalter": "al-Sirrayn",
+                    "toponym_search": "al-Sirrayn",
+                    "toponym_translit": "al-Sirrayn",
+                    "toponym_translit_other": "al-Sirrayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

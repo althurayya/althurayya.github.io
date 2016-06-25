@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    12.48146,
+                    32.78822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.78822",
+                    "coord_lon": "12.48146",
+                    "cornu_URI": "SABRA_124E327N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صبرة",
+                    "toponym_arabic_other": "صبرة",
+                    "toponym_buckwalter": "Sabra",
+                    "toponym_search": "Sabra",
+                    "toponym_translit": "Ṣabraŧ",
+                    "toponym_translit_other": "Ṣabraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

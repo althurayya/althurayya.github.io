@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.43774,
+                    31.86043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.86043",
+                    "coord_lon": "35.43774",
+                    "cornu_URI": "RIHA_354E318N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رحا",
+                    "toponym_arabic_other": "رحا، أريحا",
+                    "toponym_buckwalter": "Riha, Ariha",
+                    "toponym_search": "Riha, Ariha",
+                    "toponym_translit": "Riḥā",
+                    "toponym_translit_other": "Riḥā, Arīḥā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

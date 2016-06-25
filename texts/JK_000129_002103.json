@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002103",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.475",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بكر</h1> بضمتين من مشهور قلاع صنعاء وبالقرب منها قلعة يقال لها ظفر وهما أبعد قلاع صنعاء عنها ",
+                "title": "بكر",
+                "uri": "JK_000129_002103"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

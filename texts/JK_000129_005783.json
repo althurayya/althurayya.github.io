@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005783",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.50",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرصيعية</h1> بلفظ التصغير منسوب بئر بين الحاجر ومعدن النقرة في طريق الحاج ",
+                "title": "الرصيعية",
+                "uri": "JK_000129_005783"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

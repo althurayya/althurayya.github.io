@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003906",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.252",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حزر</h1> بالفتح ثم السكون وراء والحزر في اللغة اللبن الحامض والقول الحدس وهو جبل أو واد بنجد ",
+                "title": "حزر",
+                "uri": "JK_000129_003906"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

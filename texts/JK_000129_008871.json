@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008871",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.115",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عريق</h1> وحمض موضعان بين البصرة والبحرين قال يا رب بيضاء لها زوج حرض حلالة بين عريق وحمض ترميك بالطرف كما يرمى الغرض ",
+                "title": "عريق",
+                "uri": "JK_000129_008871"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012616",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ناعتون</h1> بلفظ جمع ناعت الذي قبله موضع قال عوف بن الجزع بحمران أو بقفا ناعتي ن أو المستوى إذا علون الستارا ",
+                "title": "ناعتون",
+                "uri": "JK_000129_012616"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

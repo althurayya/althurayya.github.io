@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012060",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.147",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المطاحل</h1> موضع قرب حنين في بلاد عطفان قال عبد مناف بن ربع الهذلي هم منعوكم من حنين ومائه وهم أسلكوكم أنف عاذ المطاحل ",
+                "title": "المطاحل",
+                "uri": "JK_000129_012060"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

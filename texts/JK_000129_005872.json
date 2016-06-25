@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005872",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.65",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرماحة</h1> ماءة في الرمل لقريط عند أجإ عن نصر ",
+                "title": "الرماحة",
+                "uri": "JK_000129_005872"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

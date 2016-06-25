@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002787",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.66",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تيرة</h1> بالهاء قلعة جليلة حصينة من نواحي قزوين من جهة زنجان ",
+                "title": "تيرة",
+                "uri": "JK_000129_002787"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

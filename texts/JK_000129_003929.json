@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003929",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.254",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حزن</h1> هكذا غير مضاف طريق بين المدينة وخيبر ذكره في مغازي الواقدي في غزوة خيبر وخبره في مرحب ",
+                "title": "حزن",
+                "uri": "JK_000129_003929"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

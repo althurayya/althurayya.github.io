@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007742",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.370",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شواص</h1> قال أبو عمرو الشيباني اسم واد ذكره في نوادره ",
+                "title": "شواص",
+                "uri": "JK_000129_007742"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

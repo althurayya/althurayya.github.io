@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006057",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.98",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روناش</h1> بضم أوله وسكون ثانيه ونون وآخره شين معجمة وقيل بالسين المهملة قصر روناش من كور الأهواز والله أعلم ",
+                "title": "روناش",
+                "uri": "JK_000129_006057"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

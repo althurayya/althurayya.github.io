@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009393",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.198",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الغريراء</h1> تصغير الغراء تأنيث الأغر موضع بحوف مصر كانت فيه وقعة موسى بن مصعب والي مصر من قبل المهدي قتل فيها موسى بن مصعب في شوال سنة 168 ",
+                "title": "الغريراء",
+                "uri": "JK_000129_009393"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

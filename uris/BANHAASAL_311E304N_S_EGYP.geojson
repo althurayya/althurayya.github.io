@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.16142,
+                    30.43641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.43641",
+                    "coord_lon": "31.16142",
+                    "cornu_URI": "BANHAASAL_311E304N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بنها ﭐلعسل",
+                    "toponym_arabic_other": "بنها ﭐلعسل",
+                    "toponym_buckwalter": "Banha al-Asal",
+                    "toponym_search": "Banha al-Asal",
+                    "toponym_translit": "Banhā al-ʿAsal",
+                    "toponym_translit_other": "Banhā al-ʿAsal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

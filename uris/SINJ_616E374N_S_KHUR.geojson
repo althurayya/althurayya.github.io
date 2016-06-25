@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.68119,
+                    37.4648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.46480",
+                    "coord_lon": "61.68119",
+                    "cornu_URI": "SINJ_616E374N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سنج",
+                    "toponym_arabic_other": "سنج، سنك",
+                    "toponym_buckwalter": "Sinj, Sink",
+                    "toponym_search": "Sinj, Sink",
+                    "toponym_translit": "Sinǧ",
+                    "toponym_translit_other": "Sinǧ, Sink"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

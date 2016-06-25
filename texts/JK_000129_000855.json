@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000855",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.232",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأفقوسية</h1> اسم مدينة جزيرة قبرس وهو تعريب أفقديون بالرومية معناه خير موضع خبرني بذلك رجل عربي من أهل قبرس ",
+                "title": "الأفقوسية",
+                "uri": "JK_000129_000855"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

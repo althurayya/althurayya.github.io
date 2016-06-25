@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003666",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.213-214",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بركة الحبش</h1> مزرعة نزهة في ظهر القرافة بمصر ذكرت في بركة |جـ 2 صـ 214| ",
+                "title": "بركة الحبش",
+                "uri": "JK_000129_003666"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

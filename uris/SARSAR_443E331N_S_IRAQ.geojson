@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.37025,
+                    33.10972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.10972",
+                    "coord_lon": "44.37025",
+                    "cornu_URI": "SARSAR_443E331N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "صرصر",
+                    "toponym_arabic_other": "صرصر، جسر صرصر",
+                    "toponym_buckwalter": "Sarsar, Jisr Sarsar",
+                    "toponym_search": "Sarsar, Jisr Sarsar",
+                    "toponym_translit": "Ṣarṣar",
+                    "toponym_translit_other": "Ṣarṣar, Ǧisr Ṣarṣar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

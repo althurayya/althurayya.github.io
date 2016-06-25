@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.75292,
+                    30.46232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.46232",
+                    "coord_lon": "57.75292",
+                    "cornu_URI": "KHABIS_577E304N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خبيص",
+                    "toponym_arabic_other": "خبيص",
+                    "toponym_buckwalter": "Khabis",
+                    "toponym_search": "Khabis",
+                    "toponym_translit": "Ḫabīṣ",
+                    "toponym_translit_other": "Ḫabīṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001528",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.351",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بحيرة الإسكندرية</h1> هذه ليست بحيرة ماء إنما هي كورة معروفة من نواحي الإسكندرية بمصر تشتمل على قرى كثيرة ودخل واسع ",
+                "title": "بحيرة الإسكندرية",
+                "uri": "JK_000129_001528"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

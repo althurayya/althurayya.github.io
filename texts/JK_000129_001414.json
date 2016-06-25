@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001414",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.328",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البالدية</h1> نخل لبني غبر باليمامة عن الحفصي ",
+                "title": "البالدية",
+                "uri": "JK_000129_001414"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

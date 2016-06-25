@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008813",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.105",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عرفان</h1> من أبنية كتاب سيبويه قال فركان وعرفان على وزن فعلان قالوا عرفان دويبة وقيل موضع بعينه ",
+                "title": "عرفان",
+                "uri": "JK_000129_008813"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.33817,
+                    29.54292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.54292",
+                    "coord_lon": "53.33817",
+                    "cornu_URI": "KHURRAMA_533E295N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خرامة",
+                    "toponym_arabic_other": "خرامة",
+                    "toponym_buckwalter": "Khurrama",
+                    "toponym_search": "Khurrama",
+                    "toponym_translit": "Ḫurrāmaŧ",
+                    "toponym_translit_other": "Ḫurrāmaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

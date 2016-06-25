@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013092",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.329",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نيار</h1> بالكسر والتخفيف أطم نيار بالمدينة وهو في بيوت بني مجدعة من الأنصار عن الزهري ",
+                "title": "نيار",
+                "uri": "JK_000129_013092"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

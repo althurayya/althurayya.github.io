@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.22312,
+                    25.5589
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.55890",
+                    "coord_lon": "50.22312",
+                    "cornu_URI": "UQAYR_502E255N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلعقير",
+                    "toponym_arabic_other": "ﭐلعقير",
+                    "toponym_buckwalter": "al-Uqayr",
+                    "toponym_search": "al-Uqayr",
+                    "toponym_translit": "al-ʿUqayr",
+                    "toponym_translit_other": "al-ʿUqayr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

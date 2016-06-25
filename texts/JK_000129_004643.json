@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004643",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.373",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخشرب</h1> بوزن الطحلب وآخره باء موحدة موضع عن العمراني ",
+                "title": "الخشرب",
+                "uri": "JK_000129_004643"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

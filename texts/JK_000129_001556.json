@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001556",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.359",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بدن</h1> بالتحريك لهيم البدن يكذر في اللام ",
+                "title": "بدن",
+                "uri": "JK_000129_001556"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

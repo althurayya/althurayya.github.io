@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004383",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.334",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خابران</h1> بعد الألف باء ثم راء وآخره نون ناحية ومدينة فيها عدة قرى بين سرخس وأبيورد من خراسان ومن قراها ميهنة وكانت مدينة كبيرة خرب أكثرها ",
+                "title": "خابران",
+                "uri": "JK_000129_004383"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

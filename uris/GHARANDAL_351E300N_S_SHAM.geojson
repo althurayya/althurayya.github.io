@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.17023,
+                    30.03245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.03245",
+                    "coord_lon": "35.17023",
+                    "cornu_URI": "GHARANDAL_351E300N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "غرندل",
+                    "toponym_arabic_other": "غرندل، عرندل",
+                    "toponym_buckwalter": "Gharandal, Arandal",
+                    "toponym_search": "Gharandal, Arandal",
+                    "toponym_translit": "Ġarandal",
+                    "toponym_translit_other": "Ġarandal, ʿArandal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

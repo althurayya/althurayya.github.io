@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006919",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.245",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سمان</h1> بتشديد الميم وآخره نون يجوز أن يكون جمعا من سمنت الشيء أسمنه سمنا إذا سلأته أو جمع غيره من هذا النوع وهو قرية بجبل السراة ",
+                "title": "سمان",
+                "uri": "JK_000129_006919"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010671",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.423",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قيطون</h1> بفتح أوله وسكون ثانيه بلدة بإفريقية بينها وبين قفصة ثلاث مراحل وبينها وبين نفطة مرحلة ",
+                "title": "قيطون",
+                "uri": "JK_000129_010671"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.21122,
+                    30.04436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.04436",
+                    "coord_lon": "31.21122",
+                    "cornu_URI": "JAZIRA_312E300N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "quarters",
+                    "top_type_orig": "quartier",
+                    "toponym_arabic": "ﭐلجزيرة",
+                    "toponym_arabic_other": "ﭐلجزيرة",
+                    "toponym_buckwalter": "al-Jazira",
+                    "toponym_search": "al-Jazira",
+                    "toponym_translit": "al-Ǧazīraŧ",
+                    "toponym_translit_other": "al-Ǧazīraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

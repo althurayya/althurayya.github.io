@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012480",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.228",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مولس</h1> بالضم ثم السكون وضم اللام والسين مهملة حصن من إقليم القاسم من أعمال طليطلة ",
+                "title": "مولس",
+                "uri": "JK_000129_012480"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

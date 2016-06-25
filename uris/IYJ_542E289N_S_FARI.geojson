@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.24655,
+                    28.98623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.98623",
+                    "coord_lon": "54.24655",
+                    "cornu_URI": "IYJ_542E289N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إيج",
+                    "toponym_arabic_other": "إيج، إيك",
+                    "toponym_buckwalter": "Iyj, Iyk",
+                    "toponym_search": "Iyj, Iyk",
+                    "toponym_translit": "Iyǧ",
+                    "toponym_translit_other": "Iyǧ, Iyk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

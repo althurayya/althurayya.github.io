@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.70232,
+                    28.85409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.85409",
+                    "coord_lon": "66.70232",
+                    "cornu_URI": "AYUL_667E288N_R_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "أيل",
+                    "toponym_arabic_other": "أيل",
+                    "toponym_buckwalter": "Ayul",
+                    "toponym_search": "Ayul",
+                    "toponym_translit": "Ayul",
+                    "toponym_translit_other": "Ayul"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

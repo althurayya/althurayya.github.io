@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010155",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.327",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قرقسان</h1> بالفتح ثم السكون وقاف أخرى مفتوحة وسين مهملة وآخره نون موضع ",
+                "title": "قرقسان",
+                "uri": "JK_000129_010155"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

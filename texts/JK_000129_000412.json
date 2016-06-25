@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000412",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.134",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إراش</h1> بالكسر والشين معجمة موضع في قول عدي ابن الرقاع فلا هن بالبهمى وإياه إذ شتى جنوب إراش فاللهاله فالعجب ",
+                "title": "إراش",
+                "uri": "JK_000129_000412"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

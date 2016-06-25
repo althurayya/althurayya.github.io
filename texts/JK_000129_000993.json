@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000993",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.254",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أمعط</h1> موضع في قول الراعي ورواه ثعلب بكسر الهمزة يخرجن بالليل من نقع له عرف بقاع أمعط بين السهل والبصر ",
+                "title": "أمعط",
+                "uri": "JK_000129_000993"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

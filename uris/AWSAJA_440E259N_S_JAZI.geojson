@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.07861,
+                    25.98495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.98495",
+                    "coord_lon": "44.07861",
+                    "cornu_URI": "AWSAJA_440E259N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلعوسجة",
+                    "toponym_arabic_other": "ﭐلعوسجة",
+                    "toponym_buckwalter": "al-Awsaja",
+                    "toponym_search": "al-Awsaja",
+                    "toponym_translit": "al-ʿAwsaǧaŧ",
+                    "toponym_translit_other": "al-ʿAwsaǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

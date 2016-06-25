@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009636",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.238",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فخراباذ</h1> من قرى نيسابور ",
+                "title": "فخراباذ",
+                "uri": "JK_000129_009636"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

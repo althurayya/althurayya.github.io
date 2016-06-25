@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008463",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.46",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الطوب</h1> بالضم وآخره باء وهو الآجر قصر الطوب موضع بإفريقية ",
+                "title": "الطوب",
+                "uri": "JK_000129_008463"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

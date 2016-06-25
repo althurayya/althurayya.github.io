@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000281",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.108",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أحباب</h1> جمع حبيب وهو بلد في جنب السوارقية من نواحي المدينة ثم من ديار بني سليم له ذكر في الشعر ",
+                "title": "أحباب",
+                "uri": "JK_000129_000281"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.61583,
+                    31.02501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.02501",
+                    "coord_lon": "30.61583",
+                    "cornu_URI": "MAHALLAABUKHURASHA_306E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "محلة أبو خراشة",
+                    "toponym_arabic_other": "محلة أبو خراشة",
+                    "toponym_buckwalter": "Mahalla Abu Khurasha",
+                    "toponym_search": "Mahalla Abu Khurasha",
+                    "toponym_translit": "Maḥallaŧ Abū Ḫurāšaŧ",
+                    "toponym_translit_other": "Maḥallaŧ Abū Ḫurāšaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

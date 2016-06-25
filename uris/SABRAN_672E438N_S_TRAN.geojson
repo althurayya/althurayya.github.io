@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.26184,
+                    43.82577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "43.82577",
+                    "coord_lon": "67.26184",
+                    "cornu_URI": "SABRAN_672E438N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صبران",
+                    "toponym_arabic_other": "صبران، صوران",
+                    "toponym_buckwalter": "Sabran, Sawran",
+                    "toponym_search": "Sabran, Sawran",
+                    "toponym_translit": "Ṣabrān",
+                    "toponym_translit_other": "Ṣabrān, Ṣawrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

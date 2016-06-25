@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.27297,
+                    15.09101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.09101",
+                    "coord_lon": "44.27297",
+                    "cornu_URI": "URF_442E150N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلعرف",
+                    "toponym_arabic_other": "ﭐلعرف",
+                    "toponym_buckwalter": "al-Urf",
+                    "toponym_search": "al-Urf",
+                    "toponym_translit": "al-ʿUrf",
+                    "toponym_translit_other": "al-ʿUrf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

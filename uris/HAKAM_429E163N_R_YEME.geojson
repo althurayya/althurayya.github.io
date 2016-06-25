@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.94727,
+                    16.37831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.37831",
+                    "coord_lon": "42.94727",
+                    "cornu_URI": "HAKAM_429E163N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "حكم",
+                    "toponym_arabic_other": "حكم",
+                    "toponym_buckwalter": "Hakam",
+                    "toponym_search": "Hakam",
+                    "toponym_translit": "Ḥakam",
+                    "toponym_translit_other": "Ḥakam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

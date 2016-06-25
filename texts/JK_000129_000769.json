@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000769",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.215",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أضوح</h1> بالحاء المهملة حصن من حصون ناحية زبيد باليمن وزبيد بفتح الزاي اسم البلد والله أعلم بالصواب ",
+                "title": "أضوح",
+                "uri": "JK_000129_000769"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

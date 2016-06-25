@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013216",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.362",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وجر</h1> قرية بهجر ",
+                "title": "وجر",
+                "uri": "JK_000129_013216"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

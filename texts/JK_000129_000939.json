@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000939",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.245",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ألطا</h1> موضع في شعر البحتري إن شعري سار في كل بلد واشتهى رقته كل أحد أهل فرغانة قد غنوا به وقرى السوس وألطا وسدد ",
+                "title": "ألطا",
+                "uri": "JK_000129_000939"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

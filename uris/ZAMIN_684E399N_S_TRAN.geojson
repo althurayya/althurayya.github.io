@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.43288,
+                    39.95781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.95781",
+                    "coord_lon": "68.43288",
+                    "cornu_URI": "ZAMIN_684E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زامن",
+                    "toponym_arabic_other": "زامن",
+                    "toponym_buckwalter": "Zamin",
+                    "toponym_search": "Zamin",
+                    "toponym_translit": "Zāmin",
+                    "toponym_translit_other": "Zāmin"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005007",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.429",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دارة الغزيل</h1> تصغير الغزال لبني الحارث بن ربيعة بن أبي بكر بن كلاب ",
+                "title": "دارة الغزيل",
+                "uri": "JK_000129_005007"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001247",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.302",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بئر الملك</h1> بالمدينة منسوبة إلى تبع وقد ذكرت في بئر رومة ",
+                "title": "بئر الملك",
+                "uri": "JK_000129_001247"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

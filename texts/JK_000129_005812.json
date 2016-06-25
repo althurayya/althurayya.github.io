@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005812",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.54",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رغبان</h1> بفتح أوله وبعد ثانيه الساكن باء موحدة وآخره نون مسجد ابن رغبان كان ببغداد وكان مشهورا باجتماع أهل العلم والفضل فيه ",
+                "title": "رغبان",
+                "uri": "JK_000129_005812"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

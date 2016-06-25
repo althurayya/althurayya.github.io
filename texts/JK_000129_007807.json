@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007807",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.379",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شيبة</h1> بفتح الشين وتشديد الياء مخلاف باليمن بين زبيد وصنعاء وهو في مخلاف جعفر ملك لسبإ بن سليمان الحميري ",
+                "title": "شيبة",
+                "uri": "JK_000129_007807"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

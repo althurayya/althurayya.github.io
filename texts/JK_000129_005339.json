@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005339",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.489",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دومين</h1> بصيغة الجمع وقد روي بصيغة التثنية وقع في قصر الصلاة من حديث مسلم وهي قرية على ستة فراسخ من حمص عن القاضي عياض ",
+                "title": "دومين",
+                "uri": "JK_000129_005339"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

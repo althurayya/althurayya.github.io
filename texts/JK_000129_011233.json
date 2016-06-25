@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011233",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.10",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>لبب</h1> موضع أنشد ابن الأعرابي قد علمت أني إذا الورد عصب من السقاة صالح يوم لبب إذا نعى زوج الفتاة بالعرب ",
+                "title": "لبب",
+                "uri": "JK_000129_011233"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

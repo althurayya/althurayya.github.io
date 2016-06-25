@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009883",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.280",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فورفاره</h1> بالضم ثم السكون وفاء أخرى وراء ثم هاء من قرى الصغد ",
+                "title": "فورفاره",
+                "uri": "JK_000129_009883"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

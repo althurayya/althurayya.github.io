@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007599",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.353",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشفيقة</h1> بفتح أوله وكسر ثانيه ثم ياء مثناة من تحت وقاف بلفظ قولهم امرأة شفيقة اسم بئر عند أبلى عن أبي الأشعث الكندي ",
+                "title": "الشفيقة",
+                "uri": "JK_000129_007599"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003723",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.225",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحجلاوان</h1> مثنى في قول حميد بن ثور في ظل حجلاوين سيل معتلج وقال أبو عمرو هما قلتان ",
+                "title": "الحجلاوان",
+                "uri": "JK_000129_003723"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002717",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.53",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تنيضبة</h1> تصغير تنضبة بالضاد المعجمة والباء الموحدة شجر يتخذ منه السهام وهو ماء لبني سعيد بن قرط من أبي بكر بن كلاب قرب النير ",
+                "title": "تنيضبة",
+                "uri": "JK_000129_002717"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

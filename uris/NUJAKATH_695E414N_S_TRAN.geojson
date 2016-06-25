@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.50903,
+                    41.40191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.40191",
+                    "coord_lon": "69.50903",
+                    "cornu_URI": "NUJAKATH_695E414N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نوجاكث",
+                    "toponym_arabic_other": "نوجاكث",
+                    "toponym_buckwalter": "Nujakath",
+                    "toponym_search": "Nujakath",
+                    "toponym_translit": "Nūǧākaṯ",
+                    "toponym_translit_other": "Nūǧākaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

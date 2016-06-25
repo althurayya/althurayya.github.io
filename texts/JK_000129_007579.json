@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007579",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.351",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشعيبية</h1> قال أبو زياد ومن مياه بني نمير الشعيبية والزيدية وهما ببطن واد يقال له الحريم ",
+                "title": "الشعيبية",
+                "uri": "JK_000129_007579"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

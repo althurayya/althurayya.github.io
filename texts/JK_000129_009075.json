@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009075",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.147",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العلندى</h1> نبت ويضاف إليه ذات فيصير اسم موضع في قول الراعي تحملن حتى قلت لسن بوارحا بذات العلندى حيث نام المفاخر ",
+                "title": "العلندى",
+                "uri": "JK_000129_009075"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.73153,
+                    32.65059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.65059",
+                    "coord_lon": "36.73153",
+                    "cornu_URI": "HAWRAN_367E326N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "ﭐلحوران",
+                    "toponym_arabic_other": "ﭐلحوران",
+                    "toponym_buckwalter": "al-Hawran",
+                    "toponym_search": "al-Hawran",
+                    "toponym_translit": "al-Ḥawrān",
+                    "toponym_translit_other": "al-Ḥawrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

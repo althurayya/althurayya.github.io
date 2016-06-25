@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_1195",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.2, p.247",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>الحلفي</h1> بفتح الحاء المهملة وسكون اللام وفي آخرها الفاء هذه النسبة إلى حلف وهو بطن من خثعم هو حلف بن أفتل وهو خثعم بن أنمار قال ذلك ابن حبيب ",
+                "title": "الحلفي",
+                "uri": "JK_000952_1195"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

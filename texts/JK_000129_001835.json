@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001835",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.398",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة ملحوب</h1> قال ابن مقبل ولما ولجنا أمكنت من عنانها وأمسكت عن بعض الخلاط عناني عشية قالت لي وقالت لصاحبي ببرقة ملحوب ألا تلجان ",
+                "title": "برقة ملحوب",
+                "uri": "JK_000129_001835"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

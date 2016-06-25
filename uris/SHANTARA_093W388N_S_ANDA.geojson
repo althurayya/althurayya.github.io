@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.37353,
+                    38.80838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.80838",
+                    "coord_lon": "-9.37353",
+                    "cornu_URI": "SHANTARA_093W388N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "شنترة",
+                    "toponym_arabic_other": "شنترة",
+                    "toponym_buckwalter": "Shantara",
+                    "toponym_search": "Shantara",
+                    "toponym_translit": "Šantaraŧ",
+                    "toponym_translit_other": "Šantaraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

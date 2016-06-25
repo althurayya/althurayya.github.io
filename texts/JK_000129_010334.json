@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010334",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.364",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر الملح</h1> مدينة كانت بكرمان في الأقليم الثالث طولها إحدى وثمانون درجة وعرضها اثنتان وثلاثون درجة ونصف ",
+                "title": "قصر الملح",
+                "uri": "JK_000129_010334"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

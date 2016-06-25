@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.55892,
+                    47.42616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "47.42616",
+                    "coord_lon": "47.55892",
+                    "cornu_URI": "KHAZAR_475E474N_R_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلخزر",
+                    "toponym_arabic_other": "ﭐلخزر",
+                    "toponym_buckwalter": "al-Khazar",
+                    "toponym_search": "al-Khazar",
+                    "toponym_translit": "al-Ḫazar",
+                    "toponym_translit_other": "al-Ḫazar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

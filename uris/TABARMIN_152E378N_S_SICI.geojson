@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.27552,
+                    37.86261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.86261",
+                    "coord_lon": "15.27552",
+                    "cornu_URI": "TABARMIN_152E378N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طبرمين",
+                    "toponym_arabic_other": "طبرمين",
+                    "toponym_buckwalter": "Tabarmin",
+                    "toponym_search": "Tabarmin",
+                    "toponym_translit": "Ṭabarmīn",
+                    "toponym_translit_other": "Ṭabarmīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

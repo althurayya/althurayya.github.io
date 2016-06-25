@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.39305,
+                    18.62751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "18.62751",
+                    "coord_lon": "41.39305",
+                    "cornu_URI": "HALI_413E186N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حلي",
+                    "toponym_arabic_other": "حلي",
+                    "toponym_buckwalter": "Hali",
+                    "toponym_search": "Hali",
+                    "toponym_translit": "Ḥalī",
+                    "toponym_translit_other": "Ḥalī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

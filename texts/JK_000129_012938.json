@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012938",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.306",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نواز</h1> بالفتح ثم التخفيف وآخره زاي قرية كبيرة فيها تفاح كبير مليح اللون أحمر في جبل السماق من أعمال حلب ",
+                "title": "نواز",
+                "uri": "JK_000129_012938"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

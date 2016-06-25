@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003972",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.260",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحسني والنسبة الحسني</h1> بئر على ستة أميال من قرورى قرب معدن النقرة وهي لأم جعفر زبيدة بنت جعفر بن المنصور ",
+                "title": "الحسني والنسبة الحسني",
+                "uri": "JK_000129_003972"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

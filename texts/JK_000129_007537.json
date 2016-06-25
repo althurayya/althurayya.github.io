@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007537",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.345",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شظا</h1> بالفتح عظم لاصق بالركبة فإذا شخص قيل شظي الفرس وهو جبل بمكة أو قرب مكة نقله عن الحازمي ",
+                "title": "شظا",
+                "uri": "JK_000129_007537"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

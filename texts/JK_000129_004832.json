@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004832",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.400",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خور فكان</h1> بليد على ساحل عمان يحول بينه وبين البحر الأعظم جبل وبه نخل وعيون عذبة ",
+                "title": "خور فكان",
+                "uri": "JK_000129_004832"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013666",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.431",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>يثربة</h1> اشتقاقه كالذي قبله وهو مثله اسم موضع في قول الراعي أو رعلة من قطا فيحان حلأها عن ماء يثربة الشباك والرصد ",
+                "title": "يثربة",
+                "uri": "JK_000129_013666"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

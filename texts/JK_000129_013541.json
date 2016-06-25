@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013541",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.407-408",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>هضب</h1> مداخل من جبال الحمى قال الأصمعي هضب مداخل هضب سفوح وهو منطق بأرض بيضاء |جـ 5 صـ 408| وهو مشرف على الريان من شرقيه ومداخل ثماد ",
+                "title": "هضب",
+                "uri": "JK_000129_013541"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

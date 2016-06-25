@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010911",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.460",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الكسر</h1> قرى كثيرة بحضرموت يقال لها كسر قشاقش سكنها كندة قاله ابن الحائك ",
+                "title": "الكسر",
+                "uri": "JK_000129_010911"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

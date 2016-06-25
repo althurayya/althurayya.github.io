@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003547",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.194",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جهجوه</h1> يجوز أن يكون من قولهم جهجهت بالسبع أي صحت به ليكف عني ويقال تجهجه عني أي انته ويوم جهجوه لبني تميم موضع كانت لهم فيه وقعة ",
+                "title": "جهجوه",
+                "uri": "JK_000129_003547"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.88943,
+                    33.99489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.99489",
+                    "coord_lon": "-6.88943",
+                    "cornu_URI": "RIBAT_068W339N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "رباط",
+                    "toponym_arabic_other": "رباط",
+                    "toponym_buckwalter": "Ribat",
+                    "toponym_search": "Ribat",
+                    "toponym_translit": "Ribāṭ",
+                    "toponym_translit_other": "Ribāṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

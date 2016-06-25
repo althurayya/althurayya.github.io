@@ -1,0 +1,55 @@
+.topnav ul {
+	z-index: -1000;
+	display: none;
+	list-style: none;
+	padding-left: 0;
+	position: absolute;
+	float: left;
+}
+
+.subnav {
+	width: 11em;
+}
+
+li.subnav a {
+	padding-bottom: 0 !important;
+	padding-top: 0 !important;
+}
+
+.topnav:hover > ul{
+	z-index: 1000;
+	display: block;
+	background-color: rgba(0,0,0,0.6)
+}
+
+nav.is-fixed .topnav:hover > ul {
+	z-index: 1000;
+	display: block;
+	background-color: rgba(255,255,255,0.9);
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+}
+
+nav.is-fixed:not(.is-visible) .topnav:hover > ul {
+	z-index: -1000;
+	display:none;
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+}
+
+.bibliography, .foot_desc {
+	font-size: 14px;
+}
+
+.backdrop {
+	background-color: rgba(0,0,0,0.35);
+	 border-radius: 7px;
+}
+
+@media only screen and (min-width: 768px) {
+  .navbar-custom {
+  	background-color: rgba(0,0,0,0.6);
+  }
+}

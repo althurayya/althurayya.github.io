@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008694",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.84",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عثاعث</h1> جبال صغار سود مما يلي يسار العرائس وهي أجبل في وضح الحمى بضرية مشرفات على وادي مهزول اندفنت بالرمل ",
+                "title": "عثاعث",
+                "uri": "JK_000129_008694"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

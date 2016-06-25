@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008388",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.33",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الطريبيل</h1> مصغر من قرى هجر ",
+                "title": "الطريبيل",
+                "uri": "JK_000129_008388"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

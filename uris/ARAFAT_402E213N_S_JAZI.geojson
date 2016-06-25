@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.20316,
+                    21.32282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.32282",
+                    "coord_lon": "40.20316",
+                    "cornu_URI": "ARAFAT_402E213N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "عرفات",
+                    "toponym_arabic_other": "عرفات",
+                    "toponym_buckwalter": "Arafat",
+                    "toponym_search": "Arafat",
+                    "toponym_translit": "ʿArafāt",
+                    "toponym_translit_other": "ʿArafāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

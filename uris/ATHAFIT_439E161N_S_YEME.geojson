@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.97249,
+                    16.11174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.11174",
+                    "coord_lon": "43.97249",
+                    "cornu_URI": "ATHAFIT_439E161N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أثافت",
+                    "toponym_arabic_other": "أثافت",
+                    "toponym_buckwalter": "Athafit",
+                    "toponym_search": "Athafit",
+                    "toponym_translit": "Aṯāfit",
+                    "toponym_translit_other": "Aṯāfit"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

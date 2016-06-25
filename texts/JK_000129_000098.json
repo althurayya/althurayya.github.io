@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000098",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.66",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبرقا زياد</h1> تثنية أبرق وزياد اسم رجل جاء في رجز العجاج عرفت بين ابرقي زياد مغانيا كالوشيء في الأبراد ",
+                "title": "أبرقا زياد",
+                "uri": "JK_000129_000098"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

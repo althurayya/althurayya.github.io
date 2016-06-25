@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009307",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.184",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غباء</h1> بالفتح والمد موضع بالشام قال عدي بن الرقاع لمن المنازل أقفرت بغباء لو شئت هيجت الغداة بكائي ",
+                "title": "غباء",
+                "uri": "JK_000129_009307"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

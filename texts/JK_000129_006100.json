@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006100",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.111",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ريث</h1> بفتح أوله وسكون ثانيه وآخره ثاء مثلثة وهو خلاف العجلة موضع في ديار طيء حيث يلتقي طيء وأسد ",
+                "title": "ريث",
+                "uri": "JK_000129_006100"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

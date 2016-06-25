@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.69038,
+                    31.17824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.17824",
+                    "coord_lon": "35.69038",
+                    "cornu_URI": "KARAK_356E311N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village?",
+                    "toponym_arabic": "كرك",
+                    "toponym_arabic_other": "كرك",
+                    "toponym_buckwalter": "Karak",
+                    "toponym_search": "Karak",
+                    "toponym_translit": "Karak",
+                    "toponym_translit_other": "Karak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

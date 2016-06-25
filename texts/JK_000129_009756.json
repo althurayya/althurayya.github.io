@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009756",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.259",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فريانان</h1> بكسر أوله وسكون ثانيه وياء مثناة من تحت وبعد الألف نونان من قرى مرو ",
+                "title": "فريانان",
+                "uri": "JK_000129_009756"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

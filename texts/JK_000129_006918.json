@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006918",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.245",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سمال</h1> بفتح أوله وآخره لام يقال سمل عينه إذا فقأها وهو اسم موضع في شعر ذي الرمة ",
+                "title": "سمال",
+                "uri": "JK_000129_006918"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

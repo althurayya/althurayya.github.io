@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009350",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.190",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الغرابي والنسبة الغرابي</h1> من حصون بلاد اليمن و الغرابي أيضا رمل معروف بطريق مصر بين قطية والصالحة صعب المسلك ",
+                "title": "الغرابي والنسبة الغرابي",
+                "uri": "JK_000129_009350"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

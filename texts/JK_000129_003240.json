@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003240",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.140",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجزيز</h1> بالضم وزايين معجمتين وكذا قرأته بخط اليزيدي في قول الفضل بن العباس يا دار أقوت بالجزع ذي الأخياف بين حزم الجزيز فالأجراف ",
+                "title": "الجزيز",
+                "uri": "JK_000129_003240"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

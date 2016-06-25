@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006614",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.198",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سدر</h1> ذو سدر موضع بعينه قال أبو ذؤيب صوح من أم عمرو بطن مر فأك ناف الرجيع فذور سدر فأملاح ",
+                "title": "سدر",
+                "uri": "JK_000129_006614"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

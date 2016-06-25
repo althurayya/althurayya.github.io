@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004331",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حوض رزام</h1> بمرو يذكر في رزام إن شاء الله ",
+                "title": "حوض رزام",
+                "uri": "JK_000129_004331"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

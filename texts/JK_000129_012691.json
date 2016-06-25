@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012691",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.261",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>النجد</h1> بالفتح والتحريك وهو البأس والشهرة يقال رجل نجد بين النجد وهو صقع واسع من وراء عمان عن ابن موسى ",
+                "title": "النجد",
+                "uri": "JK_000129_012691"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

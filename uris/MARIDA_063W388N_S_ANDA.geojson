@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.32886,
+                    38.89521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.89521",
+                    "coord_lon": "-6.32886",
+                    "cornu_URI": "MARIDA_063W388N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ماردة",
+                    "toponym_arabic_other": "ماردة",
+                    "toponym_buckwalter": "Marida",
+                    "toponym_search": "Marida",
+                    "toponym_translit": "Māridaŧ",
+                    "toponym_translit_other": "Māridaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

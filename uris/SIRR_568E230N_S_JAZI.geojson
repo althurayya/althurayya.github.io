@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.82897,
+                    23.0552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.05520",
+                    "coord_lon": "56.82897",
+                    "cornu_URI": "SIRR_568E230N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلسر",
+                    "toponym_arabic_other": "ﭐلسر",
+                    "toponym_buckwalter": "al-Sirr",
+                    "toponym_search": "al-Sirr",
+                    "toponym_translit": "al-Sirr",
+                    "toponym_translit_other": "al-Sirr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

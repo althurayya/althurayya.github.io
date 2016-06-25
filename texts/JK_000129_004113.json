@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004113",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.280",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحككات</h1> بالضم وفتح الكافين وآخره تاء فوقها نقطتان موضع ذو حجارة بيض رقيقة عن نصر ",
+                "title": "الحككات",
+                "uri": "JK_000129_004113"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

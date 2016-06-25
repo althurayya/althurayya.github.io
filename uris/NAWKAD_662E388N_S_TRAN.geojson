@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.29094,
+                    38.84309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.84309",
+                    "coord_lon": "66.29094",
+                    "cornu_URI": "NAWKAD_662E388N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نوكاد",
+                    "toponym_arabic_other": "نوكاد، نوقاد قريش",
+                    "toponym_buckwalter": "Nawkad, Nuqad Quraysh",
+                    "toponym_search": "Nawkad, Nuqad Quraysh",
+                    "toponym_translit": "Nawkād",
+                    "toponym_translit_other": "Nawkād, Nūqād Qurayš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

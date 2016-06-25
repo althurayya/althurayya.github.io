@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.80763,
+                    35.51961
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.51961",
+                    "coord_lon": "35.80763",
+                    "cornu_URI": "LADHIQIYYA_358E355N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐللاذقية",
+                    "toponym_arabic_other": "ﭐللاذقية",
+                    "toponym_buckwalter": "al-Ladhiqiyya",
+                    "toponym_search": "al-Ladhiqiyya",
+                    "toponym_translit": "al-Lāḏiqiyyaŧ",
+                    "toponym_translit_other": "al-Lāḏiqiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004455",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.344",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خبق</h1> قال الرهني وذكر خبيصا من نواحي كرمان ثم قال وفي ناحيتها خبق وببق ",
+                "title": "خبق",
+                "uri": "JK_000129_004455"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

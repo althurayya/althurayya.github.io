@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007556",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.348",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شعب</h1> بضم أوله وسكون ثانيه هو جمع أشعب من قولهم تيس أشعب إذا كان ما بين قرنيه بعيدا جدا وهو واد بين مكة والمدينة يصب في وادي الصفراء ",
+                "title": "شعب",
+                "uri": "JK_000129_007556"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

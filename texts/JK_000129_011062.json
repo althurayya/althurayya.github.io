@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011062",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.481",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كنبوت</h1> بفتح أوله وثانيه وضم الباء الموحدة وآخره تاء وأصله كالذي قبله هي قرية بالبحرين لبني عامر بن عبد القيس ",
+                "title": "كنبوت",
+                "uri": "JK_000129_011062"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

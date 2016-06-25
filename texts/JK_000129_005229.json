@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005229",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.459",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الدكان</h1> قرية قرب همذان ذكرت في قرية أخرى يقال لها با أيوب فيما تقدم ",
+                "title": "الدكان",
+                "uri": "JK_000129_005229"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

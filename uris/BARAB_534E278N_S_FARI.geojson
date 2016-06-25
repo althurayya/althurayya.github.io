@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.43209,
+                    27.88081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.88081",
+                    "coord_lon": "53.43209",
+                    "cornu_URI": "BARAB_534E278N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "باراب",
+                    "toponym_arabic_other": "باراب",
+                    "toponym_buckwalter": "Barab",
+                    "toponym_search": "Barab",
+                    "toponym_translit": "Bārāb",
+                    "toponym_translit_other": "Bārāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010599",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.411",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القوبع</h1> بالفتح ثم السكون وباء موحدة والقوبع قبيعة السيف وهو موضع في عقيق المدينة ",
+                "title": "القوبع",
+                "uri": "JK_000129_010599"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

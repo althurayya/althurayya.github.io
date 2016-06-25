@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008845",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.111",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العرناس</h1> موضع بحمص ذكره ابن أبي حصينة فقال من لي برد شبيبة قضيتها فيها وفي حمص وفي عرناسها ",
+                "title": "العرناس",
+                "uri": "JK_000129_008845"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

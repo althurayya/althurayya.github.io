@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003456",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.178",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جوجر</h1> بجيمين مفتوحتين وراء بليدة بمصر من جهة دمياط في كورة السمنودية ",
+                "title": "جوجر",
+                "uri": "JK_000129_003456"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

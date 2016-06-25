@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    74.79378,
+                    42.84796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.84796",
+                    "coord_lon": "74.79378",
+                    "cornu_URI": "JUL_747E428N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جول",
+                    "toponym_arabic_other": "جول",
+                    "toponym_buckwalter": "Jul",
+                    "toponym_search": "Jul",
+                    "toponym_translit": "Ǧūl",
+                    "toponym_translit_other": "Ǧūl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

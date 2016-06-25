@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004412",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.339",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذات الخال</h1> موضع آخر قال عمرو بن معدي كرب وهم قتلوا بذات الخال قيسا وأشعث سلسلوا في غير عهد فكتب ما في أخبار أبي الطيب من أسماء الخال ",
+                "title": "ذات الخال",
+                "uri": "JK_000129_004412"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005554",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.14",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رأس الكلب</h1> جبل باليمامة ويقال إنما هي قارات تسمى رأس الكلب وقلعة بقومس أيضا تسمى رأس الكلب على يسار القاصد إلى نيسابور ",
+                "title": "رأس الكلب",
+                "uri": "JK_000129_005554"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

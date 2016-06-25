@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007504",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.341",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شريفة</h1> موضع قرب البصرة خرج إليها الأحنف ابن قيس أيام الجمل وأقام بها معتزلا للفريقين ",
+                "title": "شريفة",
+                "uri": "JK_000129_007504"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

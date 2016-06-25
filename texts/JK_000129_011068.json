@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011068",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.482",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كنجة</h1> بالفتح ثم السكون وجيم مدينة عظيمة وهي قصبة بلاد أران وأهل الأدب يسمونها جنزة بالجيم والنون والزاي ",
+                "title": "كنجة",
+                "uri": "JK_000129_011068"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

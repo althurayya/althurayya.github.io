@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012962",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.310",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نوزاباذ</h1> بالضم ثم السكون وزاي والباء موحدة والذال معجمة من قرى بخارى ",
+                "title": "نوزاباذ",
+                "uri": "JK_000129_012962"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

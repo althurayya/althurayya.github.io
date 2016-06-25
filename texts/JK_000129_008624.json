@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008624",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.72-73",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عانة</h1> بلد بالأردن عن نصر |جـ 4 صـ 73| ",
+                "title": "عانة",
+                "uri": "JK_000129_008624"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

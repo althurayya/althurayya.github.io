@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003576",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.199",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جيرم</h1> بالفتح قيل هو اسم الكهف الذي كان فيه أصحاب الكهف ",
+                "title": "جيرم",
+                "uri": "JK_000129_003576"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

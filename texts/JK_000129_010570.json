@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010570",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.408",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قنفذ الدراج</h1> بالضم ثم السكون ثم فاء مضمومة وذال معجمة بلفظ القنفذ من الحشرات من قنافذ الدهناء قال الأصمعي كل موضع كثير الشجر قنفذ ",
+                "title": "قنفذ الدراج",
+                "uri": "JK_000129_010570"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

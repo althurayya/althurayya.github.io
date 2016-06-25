@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007052",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.268",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنكديزه</h1> بفتح أوله وسكون ثانيه وفتح الكاف وكسر الدال وبعد الياء المثناة من تحت زاي ويقال لها سنجديزه وقد مرت محلة بسمرقند ",
+                "title": "سنكديزه",
+                "uri": "JK_000129_007052"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

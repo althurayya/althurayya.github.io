@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009352",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.190",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غراز</h1> بالفتح وآخره زاي يجوز أن يكون مبنيا مثل نزال وغراز من الغرز بالإبرة وغيرها وهو موضع عن الزمخشري ",
+                "title": "غراز",
+                "uri": "JK_000129_009352"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

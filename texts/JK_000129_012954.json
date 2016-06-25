@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012954",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.309",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نوبة</h1> هضبة حمراء بحزيز الحوأب من أرض بني عبد الله بن أبي بكر بن كلاب وفي حديث عبد الله بن جحش خرجنا من مليحة نوبة ذكره الواقدي ",
+                "title": "نوبة",
+                "uri": "JK_000129_012954"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

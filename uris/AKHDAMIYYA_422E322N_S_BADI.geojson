@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.23928,
+                    32.28927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.28927",
+                    "coord_lon": "42.23928",
+                    "cornu_URI": "AKHDAMIYYA_422E322N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأخدمية",
+                    "toponym_arabic_other": "ﭐلأخدمية",
+                    "toponym_buckwalter": "al-Akhdamiyya",
+                    "toponym_search": "al-Akhdamiyya",
+                    "toponym_translit": "al-Aḫdamiyyaŧ",
+                    "toponym_translit_other": "al-Aḫdamiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

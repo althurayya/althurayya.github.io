@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.95411,
+                    29.32947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.32947",
+                    "coord_lon": "57.95411",
+                    "cornu_URI": "AWARIK_579E293N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أوارك",
+                    "toponym_arabic_other": "أوارك",
+                    "toponym_buckwalter": "Awarik",
+                    "toponym_search": "Awarik",
+                    "toponym_translit": "Awārik",
+                    "toponym_translit_other": "Awārik"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

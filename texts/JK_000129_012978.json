@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012978",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.312",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نوكند</h1> الكاف مفتوحة ثم نون ساكنة ودال مهملة من قرى سمرقند ",
+                "title": "نوكند",
+                "uri": "JK_000129_012978"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

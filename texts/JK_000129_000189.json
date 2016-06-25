@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000189",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.87",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبيوهة</h1> بالفتح ثم السكون وياء مضمومة وواو ساكنة وهاءين قرية من قرى مصر بالاشمونين بالصعيد يقال لها أتنوهة بالتاء تذكر ",
+                "title": "أبيوهة",
+                "uri": "JK_000129_000189"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

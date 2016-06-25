@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001610",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.366",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>براقة</h1> قرية عن يمين بلاد من أرض اليمامة ",
+                "title": "براقة",
+                "uri": "JK_000129_001610"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

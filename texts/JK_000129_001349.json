@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001349",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البارة</h1> إقليم من أعمال الجزيرة الخضراء بالأندلس فيه جبال شاخمة وثارت من أهله فتن قديما وحديثا وهو بلد ثمر لا بلد زرع ",
+                "title": "البارة",
+                "uri": "JK_000129_001349"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

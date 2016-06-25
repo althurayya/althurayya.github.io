@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007465",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.336",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شرف الأرطى</h1> من منازل تميم ",
+                "title": "شرف الأرطى",
+                "uri": "JK_000129_007465"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

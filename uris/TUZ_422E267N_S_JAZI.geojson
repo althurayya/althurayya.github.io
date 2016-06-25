@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.29198,
+                    26.71435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.71435",
+                    "coord_lon": "42.29198",
+                    "cornu_URI": "TUZ_422E267N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "توز",
+                    "toponym_arabic_other": "توز",
+                    "toponym_buckwalter": "Tuz",
+                    "toponym_search": "Tuz",
+                    "toponym_translit": "Tūz",
+                    "toponym_translit_other": "Tūz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

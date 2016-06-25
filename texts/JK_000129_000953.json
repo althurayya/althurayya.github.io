@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000953",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.248",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أليش</h1> بالفتح ثم الكسر وياء ساكنة وشين معجمة قال الخارزنجي بلد وأنا أخاف أن يكون الذي قبله لكنه صحفه ",
+                "title": "أليش",
+                "uri": "JK_000129_000953"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

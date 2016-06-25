@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001125",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.278",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>اوراس</h1> بالسين المهملة جبل بأرض أفريقية فيه عدة بلاد وقبائل من البربر ",
+                "title": "اوراس",
+                "uri": "JK_000129_001125"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

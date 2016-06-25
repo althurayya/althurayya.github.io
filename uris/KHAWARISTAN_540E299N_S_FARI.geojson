@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.09036,
+                    29.95166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.95166",
+                    "coord_lon": "54.09036",
+                    "cornu_URI": "KHAWARISTAN_540E299N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خورستان",
+                    "toponym_arabic_other": "خورستان",
+                    "toponym_buckwalter": "Khawaristan",
+                    "toponym_search": "Khawaristan",
+                    "toponym_translit": "Ḫawaristān",
+                    "toponym_translit_other": "Ḫawaristān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

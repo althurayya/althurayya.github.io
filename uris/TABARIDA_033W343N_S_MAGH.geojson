@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.30734,
+                    34.32074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.32074",
+                    "coord_lon": "-3.30734",
+                    "cornu_URI": "TABARIDA_033W343N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تابريدا",
+                    "toponym_arabic_other": "تابريدا",
+                    "toponym_buckwalter": "Tabarida",
+                    "toponym_search": "Tabarida",
+                    "toponym_translit": "Tābarīdā",
+                    "toponym_translit_other": "Tābarīdā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

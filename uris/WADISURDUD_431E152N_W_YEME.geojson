@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.17773,
+                    15.28451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.28451",
+                    "coord_lon": "43.17773",
+                    "cornu_URI": "WADISURDUD_431E152N_W_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي سردد",
+                    "toponym_arabic_other": "وادي سردد",
+                    "toponym_buckwalter": "Wadi Surdud",
+                    "toponym_search": "Wadi Surdud",
+                    "toponym_translit": "Wādī Surdud",
+                    "toponym_translit_other": "Wādī Surdud"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

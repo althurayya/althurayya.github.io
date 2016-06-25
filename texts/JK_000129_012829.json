@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012829",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.293",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نعف مياسر</h1> قال ابن السكيت عن بعضهم النعف ههنا ما بين الدوداء وبين المدينة وهو حد خلائق الأحمديين والخلائق آبار ",
+                "title": "نعف مياسر",
+                "uri": "JK_000129_012829"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

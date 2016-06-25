@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.24758,
+                    37.34276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.34276",
+                    "coord_lon": "46.24758",
+                    "cornu_URI": "MARAGHA_462E373N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مراغة",
+                    "toponym_arabic_other": "مراغة",
+                    "toponym_buckwalter": "Maragha",
+                    "toponym_search": "Maragha",
+                    "toponym_translit": "Marāġaŧ",
+                    "toponym_translit_other": "Marāġaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

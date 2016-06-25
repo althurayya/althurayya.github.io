@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000894",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.238",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إقنا</h1> بكسر الهمزة وتسكين القاف ونون بلد بالصعيد بينها وبين قفط يوم واحد يضاف إليها كورة وأهلها يسمونها قنا بغير ألف ",
+                "title": "إقنا",
+                "uri": "JK_000129_000894"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.70747,
+                    29.01767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.01767",
+                    "coord_lon": "38.70747",
+                    "cornu_URI": "MUKHRI_387E290N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "pointdeau",
+                    "toponym_arabic": "مخري",
+                    "toponym_arabic_other": "مخري",
+                    "toponym_buckwalter": "Mukhri",
+                    "toponym_search": "Mukhri",
+                    "toponym_translit": "Muḫrī",
+                    "toponym_translit_other": "Muḫrī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.69125,
+                    28.27313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.27313",
+                    "coord_lon": "30.69125",
+                    "cornu_URI": "TAHA_306E282N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طحا",
+                    "toponym_arabic_other": "طحا",
+                    "toponym_buckwalter": "Taha",
+                    "toponym_search": "Taha",
+                    "toponym_translit": "Ṭaḥā",
+                    "toponym_translit_other": "Ṭaḥā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

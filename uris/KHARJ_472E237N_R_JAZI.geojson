@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.26694,
+                    23.77518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.77518",
+                    "coord_lon": "47.26694",
+                    "cornu_URI": "KHARJ_472E237N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلخرج",
+                    "toponym_arabic_other": "ﭐلخرج",
+                    "toponym_buckwalter": "al-Kharj",
+                    "toponym_search": "al-Kharj",
+                    "toponym_translit": "al-Ḫarǧ",
+                    "toponym_translit_other": "al-Ḫarǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

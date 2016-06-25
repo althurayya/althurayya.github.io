@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013028",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر الدجاج</h1> محلة ببغداد على نهر كان يأخذ من كرخايا قرب الكرخ من الجانب الغربي ",
+                "title": "نهر الدجاج",
+                "uri": "JK_000129_013028"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

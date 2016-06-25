@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006997",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.261",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنبل وسنبلان</h1> من بلاد الروم وقد ذكر آنفا ",
+                "title": "سنبل وسنبلان",
+                "uri": "JK_000129_006997"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

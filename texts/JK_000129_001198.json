@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001198",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.290",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأيسر</h1> بالفتح وفتح السين أيضا موضع في قول ذي الرمة وبحيث ناصى الأجرعين بالأيسر ",
+                "title": "الأيسر",
+                "uri": "JK_000129_001198"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

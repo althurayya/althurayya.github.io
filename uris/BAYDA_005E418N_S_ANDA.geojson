@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    0.57785,
+                    41.83632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.83632",
+                    "coord_lon": "0.57785",
+                    "cornu_URI": "BAYDA_005E418N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلبيضاء",
+                    "toponym_arabic_other": "ﭐلبيضاء",
+                    "toponym_buckwalter": "al-Bayda",
+                    "toponym_search": "al-Bayda",
+                    "toponym_translit": "al-Bayḍāʾ",
+                    "toponym_translit_other": "al-Bayḍāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

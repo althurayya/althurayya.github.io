@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005713",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.39",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرخم</h1> أرض بين الشام ونجد و الرخم طائر أبقع يشبه النسر في الخلقة وهو اسم جنس وواحدته رخمة ",
+                "title": "الرخم",
+                "uri": "JK_000129_005713"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

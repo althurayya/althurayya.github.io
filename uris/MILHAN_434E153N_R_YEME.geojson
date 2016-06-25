@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.40292,
+                    15.3749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.37490",
+                    "coord_lon": "43.40292",
+                    "cornu_URI": "MILHAN_434E153N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ملحان",
+                    "toponym_arabic_other": "ملحان",
+                    "toponym_buckwalter": "Milhan",
+                    "toponym_search": "Milhan",
+                    "toponym_translit": "Milḥān",
+                    "toponym_translit_other": "Milḥān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

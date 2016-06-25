@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.0447,
+                    15.45244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.45244",
+                    "coord_lon": "44.04470",
+                    "cornu_URI": "WADIMALAL_440E154N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "واضع ﭐلمعلل",
+                    "toponym_arabic_other": "واضع ﭐلمعلل",
+                    "toponym_buckwalter": "Wadi al-Malal",
+                    "toponym_search": "Wadi al-Malal",
+                    "toponym_translit": "Wāḍiʿ al-Maʿlal",
+                    "toponym_translit_other": "Wāḍiʿ al-Maʿlal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

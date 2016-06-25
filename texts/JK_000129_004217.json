@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004217",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.305",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حمض</h1> بالفتح ثم السكون والضاد معجمة وهو في اللغة كل نبت فيه ملوحة ترعاه الإبل وادي حمص قريب من اليمامة له ذكر في شعرهم ",
+                "title": "حمض",
+                "uri": "JK_000129_004217"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

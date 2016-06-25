@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000762",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.214",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أضاءة لبن</h1> بكسر اللام وسكون الباء الموحدة ونون حد من حدود الحرم على طريق اليمن ",
+                "title": "أضاءة لبن",
+                "uri": "JK_000129_000762"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

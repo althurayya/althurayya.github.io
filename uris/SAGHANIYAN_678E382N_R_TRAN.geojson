@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.89454,
+                    38.26337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.26337",
+                    "coord_lon": "67.89454",
+                    "cornu_URI": "SAGHANIYAN_678E382N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "ﭐلصغانيان",
+                    "toponym_arabic_other": "ﭐلصغانيان",
+                    "toponym_buckwalter": "al-Saghaniyan",
+                    "toponym_search": "al-Saghaniyan",
+                    "toponym_translit": "al-Ṣaġāniyān",
+                    "toponym_translit_other": "al-Ṣaġāniyān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007805",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.378-379",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شيبة</h1> بلفظ واحد الشيب الذي هو ضد الشباب جبل شيبة بمكة كان ينزله النباش بن زرارة يتصل بجبل ديلمى وهو المشرف على المروة |جـ 3 صـ 379| ",
+                "title": "شيبة",
+                "uri": "JK_000129_007805"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001218",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.295-298",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أية</h1> بالفتح والتشديد من أعمال الري |جـ 1 صـ 298| ",
+                "title": "أية",
+                "uri": "JK_000129_001218"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

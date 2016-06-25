@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.3077,
+                    30.12919
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.12919",
+                    "coord_lon": "31.30770",
+                    "cornu_URI": "AYNSHAMS_313E301N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عين شمس",
+                    "toponym_arabic_other": "عين شمس",
+                    "toponym_buckwalter": "Ayn Shams",
+                    "toponym_search": "Ayn Shams",
+                    "toponym_translit": "ʿAyn Šams",
+                    "toponym_translit_other": "ʿAyn Šams"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

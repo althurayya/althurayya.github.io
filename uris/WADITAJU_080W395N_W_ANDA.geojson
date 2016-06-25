@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.03553,
+                    39.5299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.52990",
+                    "coord_lon": "-8.03553",
+                    "cornu_URI": "WADITAJU_080W395N_W_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "fleuve",
+                    "toponym_arabic": "وادي تاجو",
+                    "toponym_arabic_other": "وادي تاجو",
+                    "toponym_buckwalter": "Wadi Taju",
+                    "toponym_search": "Wadi Taju",
+                    "toponym_translit": "Wādī Tāǧū",
+                    "toponym_translit_other": "Wādī Tāǧū"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

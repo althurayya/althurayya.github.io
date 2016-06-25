@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012504",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.233",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مهرجمين</h1> قد ذكرنا معنى مهر ثم جيم مفتوحة وميم مكسورة وياء ساكنة ونون من قرى جرجان ",
+                "title": "مهرجمين",
+                "uri": "JK_000129_012504"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

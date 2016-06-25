@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003591",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.201",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جيلاباذ</h1> موضع بالري من جهة المشرق فيه أبنية عجيبة وإيوانات وعقود شاهقة وبرك ومتنزهات طيبة بناها مرداوا بن لاشك ",
+                "title": "جيلاباذ",
+                "uri": "JK_000129_003591"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

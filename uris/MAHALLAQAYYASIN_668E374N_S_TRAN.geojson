@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.8817,
+                    37.44577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.44577",
+                    "coord_lon": "66.88170",
+                    "cornu_URI": "MAHALLAQAYYASIN_668E374N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "محلة ﭐلقياسين",
+                    "toponym_arabic_other": "محلة ﭐلقياسين",
+                    "toponym_buckwalter": "Mahalla al-Qayyasin",
+                    "toponym_search": "Mahalla al-Qayyasin",
+                    "toponym_translit": "Maḥallaŧ al-Qayyāsīn",
+                    "toponym_translit_other": "Maḥallaŧ al-Qayyāsīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

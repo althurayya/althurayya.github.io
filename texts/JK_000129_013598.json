@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013598",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.420",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>هوزن</h1> بالفتح ثم السكون وفتح الزاي ونون وهو اسم طائر وجمعه هوازن وهوزن حي من اليمن يضاف إليه مخلاف باليمن ",
+                "title": "هوزن",
+                "uri": "JK_000129_013598"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

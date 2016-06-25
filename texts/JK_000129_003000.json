@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003000",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.100",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجب</h1> أحد محاضر طيء بسلمى أحد جبليهم وبه نخل ومياه ",
+                "title": "الجب",
+                "uri": "JK_000129_003000"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

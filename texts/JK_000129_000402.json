@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000402",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.132",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أذلق</h1> بالفتح ثم السكون وفتح اللام وقاف لسان ذلق وهذا أذلق من هذا أي أحد منه قال الخارزنجي الأذلق حفر وأخاديد ",
+                "title": "أذلق",
+                "uri": "JK_000129_000402"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

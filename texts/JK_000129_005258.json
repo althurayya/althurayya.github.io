@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005258",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.470",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الدمعانة</h1> بكسر أوله وسكون ثانيه والعين مهملة وبعد الألف نون ماء لبني بحر من بني زهير بن جناب الكلبيين بالشام ",
+                "title": "الدمعانة",
+                "uri": "JK_000129_005258"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

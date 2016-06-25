@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.80644,
+                    29.37477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.37477",
+                    "coord_lon": "52.80644",
+                    "cornu_URI": "QARYARUMMAN_528E293N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلرمان",
+                    "toponym_arabic_other": "قرية ﭐلرمان",
+                    "toponym_buckwalter": "Qarya al-Rumman",
+                    "toponym_search": "Qarya al-Rumman",
+                    "toponym_translit": "Qaryaŧ al-Rummān",
+                    "toponym_translit_other": "Qaryaŧ al-Rummān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

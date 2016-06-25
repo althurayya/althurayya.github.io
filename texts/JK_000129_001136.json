@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001136",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.280",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أورين</h1> قرية في كورة البحيرة ",
+                "title": "أورين",
+                "uri": "JK_000129_001136"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

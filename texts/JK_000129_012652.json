@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012652",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.257",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نبالة</h1> بالكسر واللام قال الحازمي موضع يمان أو تهام وقيل بضم النون والكاف ",
+                "title": "نبالة",
+                "uri": "JK_000129_012652"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

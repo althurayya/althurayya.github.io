@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000211",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.90",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأثبرة</h1> بفتح أوله بصيغة جمع القلة أيضا جمع ثبير مثل جريب وأجربة لأن بمكة عدة جبال يقال لكل واحد منها ثبير كذا وقد ذكرت في مواضعها ",
+                "title": "الأثبرة",
+                "uri": "JK_000129_000211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

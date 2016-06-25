@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011181",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.497",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كيركابان</h1> مدينة بولاية قصدار كان بها مقام المتغلب على تلك النواحي ",
+                "title": "كيركابان",
+                "uri": "JK_000129_011181"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

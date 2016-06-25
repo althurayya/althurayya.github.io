@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006243",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.136",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زربة</h1> بفتح أوله وسكون ثانيه وباء موحدة عين زربة من الثغور قرب المصيصة تذكر في العين والله أعلم ",
+                "title": "زربة",
+                "uri": "JK_000129_006243"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

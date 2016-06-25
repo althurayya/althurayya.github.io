@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.64374,
+                    52.68645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "52.68645",
+                    "coord_lon": "46.64374",
+                    "cornu_URI": "BURTAS_466E526N_R_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "برطاس",
+                    "toponym_arabic_other": "برطاس",
+                    "toponym_buckwalter": "Burtas",
+                    "toponym_search": "Burtas",
+                    "toponym_translit": "Burṭās",
+                    "toponym_translit_other": "Burṭās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

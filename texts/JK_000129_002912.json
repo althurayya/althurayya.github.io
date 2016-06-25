@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002912",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.85",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثنية مدران</h1> بكسر الميم موضع في طريق تبوك من المدينة بنى النبي صلى الله عليه وسلم فيه مسجدا في مسيره إلى تبوك ",
+                "title": "ثنية مدران",
+                "uri": "JK_000129_002912"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

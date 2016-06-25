@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.50831,
+                    35.62754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.62754",
+                    "coord_lon": "51.50831",
+                    "cornu_URI": "RAYY_515E356N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلري",
+                    "toponym_arabic_other": "ﭐلري",
+                    "toponym_buckwalter": "al-Rayy",
+                    "toponym_search": "al-Rayy",
+                    "toponym_translit": "al-Rayy",
+                    "toponym_translit_other": "al-Rayy"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

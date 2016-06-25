@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.17294,
+                    29.42208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.42208",
+                    "coord_lon": "51.17294",
+                    "cornu_URI": "TAWWAZ_511E294N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "توز",
+                    "toponym_arabic_other": "توز، توج !",
+                    "toponym_buckwalter": "Tawwaz, Tawwaj !",
+                    "toponym_search": "Tawwaz, Tawwaj !",
+                    "toponym_translit": "Tawwaz",
+                    "toponym_translit_other": "Tawwaz, Tawwaǧ !"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000947",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.247",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ألوة</h1> بفتح أوله بوزن خلوة بلدة في شعر ابن مقبل حيث قال يكادان بين الدونكين وألوة وذات القتاد السمر ينسلخان والألوة في اللغة الحلفة ",
+                "title": "ألوة",
+                "uri": "JK_000129_000947"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

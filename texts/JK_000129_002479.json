@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002479",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.13",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تبر</h1> بضمتين ماء بنجد من ديار عمرو بن كلاب عند القارة التي تسمى ذات النطاق وبالقرب منه موضع يسمى نبرا بالنون ",
+                "title": "تبر",
+                "uri": "JK_000129_002479"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

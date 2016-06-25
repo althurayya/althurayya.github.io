@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003530",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.191",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجوة</h1> بزيادة الهاء من مياه عمرو بن كلاب بنجد كذا في كتاب أبي زياد وأخاف أن يكون الخوة بالخاء والظاهر الجيم لأن تلك لبني أسد والله أعلم ",
+                "title": "الجوة",
+                "uri": "JK_000129_003530"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

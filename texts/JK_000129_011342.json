@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011342",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.24",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>اللواسي</h1> مدينة خراب بالفيوم وهي مصر بلا شك فيها مسجد لموسى بن عمران عليه السلام والآلة التي قاس بها يوسف الصديق عليه السلام عين الفيوم ",
+                "title": "اللواسي",
+                "uri": "JK_000129_011342"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

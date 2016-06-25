@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.76477,
+                    44.26024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "44.26024",
+                    "coord_lon": "59.76477",
+                    "cornu_URI": "BUHAYRAKHUWARIZM_597E442N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة خوارزم",
+                    "toponym_arabic_other": "بحيرة خوارزم",
+                    "toponym_buckwalter": "Buhayra Khuwarizm",
+                    "toponym_search": "Buhayra Khuwarizm",
+                    "toponym_translit": "Buḥayraŧ Ḫuwārizm",
+                    "toponym_translit_other": "Buḥayraŧ Ḫuwārizm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

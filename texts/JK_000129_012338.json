@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012338",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.206",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المنتهبة</h1> بكسر الهاء صحراء فوق متالع فيما بينه وبين المغرب ",
+                "title": "المنتهبة",
+                "uri": "JK_000129_012338"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

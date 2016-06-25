@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.22768,
+                    36.41518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.41518",
+                    "coord_lon": "36.22768",
+                    "cornu_URI": "BAGHRAS_362E364N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "بغراس",
+                    "toponym_arabic_other": "بغراس",
+                    "toponym_buckwalter": "Baghras",
+                    "toponym_search": "Baghras",
+                    "toponym_translit": "Baġrās",
+                    "toponym_translit_other": "Baġrās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

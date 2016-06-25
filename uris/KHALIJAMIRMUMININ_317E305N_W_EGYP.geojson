@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.79922,
+                    30.57863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.57863",
+                    "coord_lon": "31.79922",
+                    "cornu_URI": "KHALIJAMIRMUMININ_317E305N_W_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "خليج أمير ﭐلمؤمنين",
+                    "toponym_arabic_other": "خليج أمير ﭐلمؤمنين",
+                    "toponym_buckwalter": "Khalij Amir al-Muminin",
+                    "toponym_search": "Khalij Amir al-Muminin",
+                    "toponym_translit": "Ḫalīǧ Amīr al-Muʾminīn",
+                    "toponym_translit_other": "Ḫalīǧ Amīr al-Muʾminīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

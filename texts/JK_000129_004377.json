@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004377",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.332",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حيلان</h1> بالفتح من قرى حلب تخرج منها عين فوارة كثيرة الماء تسيح إلى حلب وتدخل إليها في قناة وتتفرق إلى الجامع وإلى جميع مدينة حلب ",
+                "title": "حيلان",
+                "uri": "JK_000129_004377"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.40177,
+                    38.15878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.15878",
+                    "coord_lon": "15.40177",
+                    "cornu_URI": "DAMANNASH_154E381N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دمنش",
+                    "toponym_arabic_other": "دمنش",
+                    "toponym_buckwalter": "Damannash",
+                    "toponym_search": "Damannash",
+                    "toponym_translit": "Damannaš",
+                    "toponym_translit_other": "Damannaš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

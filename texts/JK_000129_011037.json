@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011037",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.479",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كمخ</h1> بالفتح ثم السكون مدينة بالروم وسألت واحدا من تلك النواحي فقال هي كماخ بالألف لا شك فيها وبين كماخ وأرزنجان يوم واحد ",
+                "title": "كمخ",
+                "uri": "JK_000129_011037"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

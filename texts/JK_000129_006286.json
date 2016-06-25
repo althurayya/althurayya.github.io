@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006286",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.141",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زعر</h1> بفتح أوله وسكون ثانيه وآخره راء كذا ضبطه نصر وقال موضع بالحجاز والزعر بالتحريك قلة الشعر ورجل أزعر ولعله مخفف منه ",
+                "title": "زعر",
+                "uri": "JK_000129_006286"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

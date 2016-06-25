@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013197",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.357",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوبار</h1> بكسر أوله موضع في قول بشر بن أبي خازم وأدنى عامر حيا إلينا عقيل بالمرانة والوبار وقيل هو اسم قبيلة ",
+                "title": "الوبار",
+                "uri": "JK_000129_013197"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

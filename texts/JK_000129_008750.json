@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008750",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.90-91",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عدية</h1> تصغير عدوة وعدوة وهي شفير الوادي هضبة تحالف عليها بنو ضبيعة وبنو عامر بن ذهل وحكى الخارزنجي أن عدية قبيلة |جـ 4 صـ 91| ",
+                "title": "عدية",
+                "uri": "JK_000129_008750"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

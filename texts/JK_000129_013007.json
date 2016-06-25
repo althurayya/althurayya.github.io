@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013007",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.318",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر الأمير</h1> بالبصرة حفره المنصور ثم وهبه لابنه جعفر فكان يقال نهر أمير المؤمنين ثم نهر الأمير ",
+                "title": "نهر الأمير",
+                "uri": "JK_000129_013007"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003798",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.236",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حران</h1> قرية بغوطة دمشق ",
+                "title": "حران",
+                "uri": "JK_000129_003798"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

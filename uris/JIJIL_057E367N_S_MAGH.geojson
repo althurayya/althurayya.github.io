@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.71881,
+                    36.77325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.77325",
+                    "coord_lon": "5.71881",
+                    "cornu_URI": "JIJIL_057E367N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جيجل",
+                    "toponym_arabic_other": "جيجل",
+                    "toponym_buckwalter": "Jijil",
+                    "toponym_search": "Jijil",
+                    "toponym_translit": "Ǧīǧil",
+                    "toponym_translit_other": "Ǧīǧil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

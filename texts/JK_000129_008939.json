@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008939",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.127",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عشهار</h1> بلد بنجد من أرض مهرة قرب حضرموت بأقصى اليمن له ذكر في الردة ",
+                "title": "عشهار",
+                "uri": "JK_000129_008939"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

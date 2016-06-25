@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004801",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.394",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خنفس</h1> قال نصر ناحية من أعمال اليمامة قريبة من خزالا ومريفق بين جراد وذي طلوح بينها وبين حجر سبعة أيام أو ثمانية كذا قيل ",
+                "title": "خنفس",
+                "uri": "JK_000129_004801"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

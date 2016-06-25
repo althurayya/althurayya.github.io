@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003775",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.231-233",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حذارق</h1> بالضم وراء مكسورة وقاف مرتجل فيما أحسب ماء بتهامة لبني كنانة |جـ 2 صـ 233| ",
+                "title": "حذارق",
+                "uri": "JK_000129_003775"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

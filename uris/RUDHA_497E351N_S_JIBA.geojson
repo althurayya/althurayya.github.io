@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.791,
+                    35.10371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.10371",
+                    "coord_lon": "49.79100",
+                    "cornu_URI": "RUDHA_497E351N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "روذة",
+                    "toponym_arabic_other": "روذة",
+                    "toponym_buckwalter": "Rudha",
+                    "toponym_search": "Rudha",
+                    "toponym_translit": "Rūḏaŧ",
+                    "toponym_translit_other": "Rūḏaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

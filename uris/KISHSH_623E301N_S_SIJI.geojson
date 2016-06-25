@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.37889,
+                    30.15265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.15265",
+                    "coord_lon": "62.37889",
+                    "cornu_URI": "KISHSH_623E301N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كش",
+                    "toponym_arabic_other": "كش، كس",
+                    "toponym_buckwalter": "Kishsh, Kiss",
+                    "toponym_search": "Kishsh, Kiss",
+                    "toponym_translit": "Kišš",
+                    "toponym_translit_other": "Kišš, Kiss"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

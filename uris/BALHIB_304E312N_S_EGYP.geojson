@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.46299,
+                    31.28513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.28513",
+                    "coord_lon": "30.46299",
+                    "cornu_URI": "BALHIB_304E312N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بلهيب",
+                    "toponym_arabic_other": "بلهيب",
+                    "toponym_buckwalter": "Balhib",
+                    "toponym_search": "Balhib",
+                    "toponym_translit": "Balhīb",
+                    "toponym_translit_other": "Balhīb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

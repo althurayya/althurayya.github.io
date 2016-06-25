@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.50461,
+                    24.59152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.59152",
+                    "coord_lon": "30.50461",
+                    "cornu_URI": "BAYRIS_305E245N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيريس",
+                    "toponym_arabic_other": "بيريس",
+                    "toponym_buckwalter": "Bayris",
+                    "toponym_search": "Bayris",
+                    "toponym_translit": "Bayrīs",
+                    "toponym_translit_other": "Bayrīs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

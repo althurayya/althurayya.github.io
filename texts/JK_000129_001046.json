@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001046",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.260",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أندجن</h1> بكسر الدال وجيم ونون قلعة كبيرة مشهورة من ناحية جبال قزوين من أعمال الطرم ",
+                "title": "أندجن",
+                "uri": "JK_000129_001046"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.72918,
+                    24.881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.88100",
+                    "coord_lon": "46.72918",
+                    "cornu_URI": "IRD_467E248N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلعرض",
+                    "toponym_arabic_other": "ﭐلعرض",
+                    "toponym_buckwalter": "al-Ird",
+                    "toponym_search": "al-Ird",
+                    "toponym_translit": "al-ʿIrḍ",
+                    "toponym_translit_other": "al-ʿIrḍ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

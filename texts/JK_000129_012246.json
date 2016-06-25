@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012246",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.190",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ملتوى</h1> موضع قال ثعلب في تفسير قول الحطيئة كأن لم تقم أظعان هند بملتوى ولم ترع في الحي الحلال ثرور ",
+                "title": "ملتوى",
+                "uri": "JK_000129_012246"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

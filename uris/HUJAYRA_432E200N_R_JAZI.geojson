@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.29934,
+                    20.06543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "20.06543",
+                    "coord_lon": "43.29934",
+                    "cornu_URI": "HUJAYRA_432E200N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "هجيرة",
+                    "toponym_arabic_other": "هجيرة",
+                    "toponym_buckwalter": "Hujayra",
+                    "toponym_search": "Hujayra",
+                    "toponym_translit": "Huǧayraŧ",
+                    "toponym_translit_other": "Huǧayraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

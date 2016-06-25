@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.70606,
+                    30.11166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.11166",
+                    "coord_lon": "57.70606",
+                    "cornu_URI": "KATHRUWA_577E301N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كثروا",
+                    "toponym_arabic_other": "كثروا",
+                    "toponym_buckwalter": "Kathruwa",
+                    "toponym_search": "Kathruwa",
+                    "toponym_translit": "Kaṯruwā",
+                    "toponym_translit_other": "Kaṯruwā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

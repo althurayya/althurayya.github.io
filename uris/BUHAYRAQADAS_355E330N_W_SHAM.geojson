@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.59845,
+                    33.06755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.06755",
+                    "coord_lon": "35.59845",
+                    "cornu_URI": "BUHAYRAQADAS_355E330N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة قدس",
+                    "toponym_arabic_other": "بحيرة قدس",
+                    "toponym_buckwalter": "Buhayra Qadas",
+                    "toponym_search": "Buhayra Qadas",
+                    "toponym_translit": "Buḥayraŧ Qadas",
+                    "toponym_translit_other": "Buḥayraŧ Qadas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

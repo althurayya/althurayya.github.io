@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003093",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.116",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جذاء</h1> بالفتح والتشديد والمد والجذ القطع ورحم جذاء مقطوعة وجذاء موضع في قول الشاعر بغيتهم ما بين جذاء والحشا وأوردتهم ماء الأثيل فعاصما ",
+                "title": "جذاء",
+                "uri": "JK_000129_003093"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

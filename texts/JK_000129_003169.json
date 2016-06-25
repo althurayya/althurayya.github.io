@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003169",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.129",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جرماز</h1> بالكسر ثم السكون وآخره زاي اسم بناء كان عند أبيض المدائن ثم عفا أثره وكان عظيما ",
+                "title": "جرماز",
+                "uri": "JK_000129_003169"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

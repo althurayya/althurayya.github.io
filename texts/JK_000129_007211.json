@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007211",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.293",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سيج</h1> بالكسر والجيم صقع في بلاد الهند عن نصر ",
+                "title": "سيج",
+                "uri": "JK_000129_007211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

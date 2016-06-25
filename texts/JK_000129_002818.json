@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002818",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.70",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثات</h1> آخره تاء مثناة مخلاف باليمن ينسب إليه ذو ثات مقول من مقاول حمير عن نصر ",
+                "title": "ثات",
+                "uri": "JK_000129_002818"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

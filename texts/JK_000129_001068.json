@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001068",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.265",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أنشاق</h1> بالشين المعجمة محلة أنشاق من قرى مصر بالدقهلية وبمصر أيضا في كورة البهنسا أبشاق بالباء الموحدة ",
+                "title": "أنشاق",
+                "uri": "JK_000129_001068"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

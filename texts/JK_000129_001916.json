@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001916",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.409",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بزدان</h1> بسكون الزاي من قرى الصغد ",
+                "title": "بزدان",
+                "uri": "JK_000129_001916"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

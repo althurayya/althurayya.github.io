@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.75285,
+                    37.94076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.94076",
+                    "coord_lon": "69.75285",
+                    "cornu_URI": "KHUTTAL_697E379N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلختل",
+                    "toponym_arabic_other": "ﭐلختل",
+                    "toponym_buckwalter": "al-Khuttal",
+                    "toponym_search": "al-Khuttal",
+                    "toponym_translit": "al-Ḫuttal",
+                    "toponym_translit_other": "al-Ḫuttal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

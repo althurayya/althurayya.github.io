@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.42886,
+                    37.08687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.08687",
+                    "coord_lon": "-4.42886",
+                    "cornu_URI": "ARJIDUNA_044W370N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أرجدونة",
+                    "toponym_arabic_other": "أرجدونة",
+                    "toponym_buckwalter": "Arjiduna",
+                    "toponym_search": "Arjiduna",
+                    "toponym_translit": "Arǧidūnaŧ",
+                    "toponym_translit_other": "Arǧidūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

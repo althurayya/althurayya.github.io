@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000208",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.90",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أثامد</h1> بالضم هو واد بين قديد وعسفان ",
+                "title": "أثامد",
+                "uri": "JK_000129_000208"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

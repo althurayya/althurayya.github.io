@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002867",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.79",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثعل</h1> بوزن جرذ قال الزمخشري موضع بنجد معروف وقال ابن دريد هو ثعل بضمتين قال وأما ثعل بوزن زفر فإنه من أسماء الثعلب قال وكذلك ثعالة ",
+                "title": "ثعل",
+                "uri": "JK_000129_002867"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

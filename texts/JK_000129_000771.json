@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000771",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.215",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أطايف</h1> بالضم وبعد الألف ياء وفاء موضع في قول المرقش بودك ما قومي إذا ما هجوتهم إذا هب في المشتاة ريح أطايف ",
+                "title": "أطايف",
+                "uri": "JK_000129_000771"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

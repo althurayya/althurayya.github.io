@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    3.28946,
+                    36.73508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.73508",
+                    "coord_lon": "3.28946",
+                    "cornu_URI": "TAMADFUS_032E367N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "تامدفوس",
+                    "toponym_arabic_other": "تامدفوس",
+                    "toponym_buckwalter": "Tamadfus",
+                    "toponym_search": "Tamadfus",
+                    "toponym_translit": "Tāmadfūs",
+                    "toponym_translit_other": "Tāmadfūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001158",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.283",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أومة</h1> بفتح أوله وثانيه اسم مدينة في آخر بلاد زويلة السودان من جهة الفزان بينها وبين زويلة ثمانية أيام ",
+                "title": "أومة",
+                "uri": "JK_000129_001158"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

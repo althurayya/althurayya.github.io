@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005217",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.458",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الدفين</h1> موضع في قول عبيد بن الأبرص تغيرت الديار بذي الدفين فأودية اللوى فرمال لين وقال أيضا ليس رسم من الدفين ببالي فلوى ذروة فجنبي ذيال ",
+                "title": "الدفين",
+                "uri": "JK_000129_005217"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

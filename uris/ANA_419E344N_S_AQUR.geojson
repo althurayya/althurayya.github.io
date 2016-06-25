@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.95904,
+                    34.43481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.43481",
+                    "coord_lon": "41.95904",
+                    "cornu_URI": "ANA_419E344N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عانة",
+                    "toponym_arabic_other": "عانة",
+                    "toponym_buckwalter": "Ana",
+                    "toponym_search": "Ana",
+                    "toponym_translit": "ʿĀnaŧ",
+                    "toponym_translit_other": "ʿĀnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011454",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.43",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ماغرة</h1> بالغين المعجمة والراء هو من المغرة وهو الطين الأحمر وتأنيثها للأرض اسم موضع عن الزمخشري عن الشريف علي بن عيسى بن حمزة الحسني ",
+                "title": "ماغرة",
+                "uri": "JK_000129_011454"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

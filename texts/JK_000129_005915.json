@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005915",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.73",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رميلة</h1> تصغير رملة قال السكوني هو منزل في طريق البصرة إلى مكة بعد ضرية نحو مكة ومنها إلى الأبرقين ",
+                "title": "رميلة",
+                "uri": "JK_000129_005915"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

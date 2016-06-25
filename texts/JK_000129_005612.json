@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005612",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.22",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رائع</h1> يقال فرس رائع أي جواد وشيء رائع أي حسن كأنه يروع لحسنه أي يبهت ويشغل عن غيره وهو فناء من أفنية المدينة ",
+                "title": "رائع",
+                "uri": "JK_000129_005612"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

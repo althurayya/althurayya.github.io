@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.73173,
+                    15.22479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.22479",
+                    "coord_lon": "42.73173",
+                    "cornu_URI": "HIRDA_427E152N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلحردة",
+                    "toponym_arabic_other": "ﭐلحردة",
+                    "toponym_buckwalter": "al-Hirda",
+                    "toponym_search": "al-Hirda",
+                    "toponym_translit": "al-Ḥirdaŧ",
+                    "toponym_translit_other": "al-Ḥirdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

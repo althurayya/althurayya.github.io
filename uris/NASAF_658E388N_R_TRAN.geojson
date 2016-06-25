@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.8104,
+                    38.86245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.86245",
+                    "coord_lon": "65.81040",
+                    "cornu_URI": "NASAF_658E388N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "نسف",
+                    "toponym_arabic_other": "نسف",
+                    "toponym_buckwalter": "Nasaf",
+                    "toponym_search": "Nasaf",
+                    "toponym_translit": "Nasaf",
+                    "toponym_translit_other": "Nasaf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

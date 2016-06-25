@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.22435,
+                    33.94771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.94771",
+                    "coord_lon": "56.22435",
+                    "cornu_URI": "HULWAN_562E339N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حلوان",
+                    "toponym_arabic_other": "حلوان",
+                    "toponym_buckwalter": "Hulwan",
+                    "toponym_search": "Hulwan",
+                    "toponym_translit": "Ḥulwān",
+                    "toponym_translit_other": "Ḥulwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

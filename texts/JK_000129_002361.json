@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002361",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.525",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البير</h1> ماء في ديار طيء وبير بغير تعريف بلد حصين من نواحي شهرزور ",
+                "title": "البير",
+                "uri": "JK_000129_002361"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

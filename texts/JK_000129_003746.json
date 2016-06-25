@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003746",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.227",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحدباء</h1> تأنيث الأحدب اسم لمدينة الموصل سميت بذلك لاحتداب في دجلتها واعوجاج في جريانها وذكر ذلك في الشعر كثير ",
+                "title": "الحدباء",
+                "uri": "JK_000129_003746"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

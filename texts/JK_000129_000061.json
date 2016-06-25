@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000061",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.59",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبار</h1> بالضم والتخفيف وآخره راء موضع باليمن وقيل أرض من وراء بلاد بني سعد وهو لغة في وبار وقد ذكر هناك مبسوطا وله ذكر في الحديث ",
+                "title": "أبار",
+                "uri": "JK_000129_000061"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

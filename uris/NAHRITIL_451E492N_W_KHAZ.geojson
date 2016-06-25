@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.13019,
+                    49.20301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "49.20301",
+                    "coord_lon": "45.13019",
+                    "cornu_URI": "NAHRITIL_451E492N_W_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر إتل",
+                    "toponym_arabic_other": "نهر إتل",
+                    "toponym_buckwalter": "Nahr Itil",
+                    "toponym_search": "Nahr Itil",
+                    "toponym_translit": "Nahr Itil",
+                    "toponym_translit_other": "Nahr Itil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_2649",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.4, p.109",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>العادايي</h1> بالعين المفتوحة والدال المهملتين بين الألفين هذه النسبة إلى بني عاداة منهم الفزع بن المجشر هو العادايي هكذا ذكره الدارقطني ",
+                "title": "العادايي",
+                "uri": "JK_000952_2649"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.26931,
+                    39.34189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.34189",
+                    "coord_lon": "64.26931",
+                    "cornu_URI": "MIYANKAL_642E393N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ميان كال",
+                    "toponym_arabic_other": "ميان كال",
+                    "toponym_buckwalter": "Miyan Kal",
+                    "toponym_search": "Miyan Kal",
+                    "toponym_translit": "Miyān Kāl",
+                    "toponym_translit_other": "Miyān Kāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

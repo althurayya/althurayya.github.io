@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.83857,
+                    35.9347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.93470",
+                    "coord_lon": "64.83857",
+                    "cornu_URI": "YAHUDIYYA_648E359N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐليهودية",
+                    "toponym_arabic_other": "ﭐليهودية، جكوذان",
+                    "toponym_buckwalter": "al-Yahudiyya, Jakudhan",
+                    "toponym_search": "al-Yahudiyya, Jakudhan",
+                    "toponym_translit": "al-Yahūdiyyaŧ",
+                    "toponym_translit_other": "al-Yahūdiyyaŧ, Ǧakūḏān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

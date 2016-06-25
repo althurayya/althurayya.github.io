@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010751",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.434-435",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الكبوان</h1> كأنه فعلان من كبا يكبو وهو موضع كان فيه يوم من أيام العرب وقال أبو محمد الأسود يوم الكبوانة بالتحريك وآخره هاء |جـ 4 صـ 435| ",
+                "title": "الكبوان",
+                "uri": "JK_000129_010751"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

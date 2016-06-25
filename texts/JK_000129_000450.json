@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000450",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.144-145",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأرحضية</h1> بالضاد المعجمة وياء مشددة موضع قرب أبلى وبئر معونة بين مكة والمدينة |جـ 1 صـ 145| ",
+                "title": "الأرحضية",
+                "uri": "JK_000129_000450"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

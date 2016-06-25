@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011017",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.477",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كلك</h1> كافان بينهما لام ساكنة موضع بين ميافارقين وأرمينية وهو موضع كان فيه ابن بقراط البطريق يخرج منه نهر يصب في دجلة ",
+                "title": "كلك",
+                "uri": "JK_000129_011017"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

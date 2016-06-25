@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008216",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.455",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ضراح</h1> بالكسر وآخره حاء مهملة وهو فعال من الضرح وهو البعد والتنحية أو من الضرح وهو الشق في الأرض وهو موضع جاء في الأخبار ",
+                "title": "ضراح",
+                "uri": "JK_000129_008216"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

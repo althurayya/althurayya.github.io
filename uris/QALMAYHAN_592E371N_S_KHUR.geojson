@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.28793,
+                    37.12708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.12708",
+                    "coord_lon": "59.28793",
+                    "cornu_URI": "QALMAYHAN_592E371N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قلميهن",
+                    "toponym_arabic_other": "قلميهن",
+                    "toponym_buckwalter": "Qalmayhan",
+                    "toponym_search": "Qalmayhan",
+                    "toponym_translit": "Qalmayhan",
+                    "toponym_translit_other": "Qalmayhan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.98932,
+                    32.27744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.27744",
+                    "coord_lon": "53.98932",
+                    "cornu_URI": "MAYBUDH_539E322N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ميبذ",
+                    "toponym_arabic_other": "ميبذ",
+                    "toponym_buckwalter": "Maybudh",
+                    "toponym_search": "Maybudh",
+                    "toponym_translit": "Maybuḏ",
+                    "toponym_translit_other": "Maybuḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003188",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.131",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جرهد</h1> هو اسم لقلعة أستوناوند بطبرستان وقد مر ذكرها ",
+                "title": "جرهد",
+                "uri": "JK_000129_003188"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

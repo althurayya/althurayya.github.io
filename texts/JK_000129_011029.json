@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011029",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.478",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كليجرد</h1> قلعة حصينة عظيمة بين خوزستان واللر بينها وبين أصبهان مرحلتان ",
+                "title": "كليجرد",
+                "uri": "JK_000129_011029"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

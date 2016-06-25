@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006894",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.242",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السليت</h1> بالتصغير قرية لبني عطارد وهي بهدلة عن الحفصي وأظنها أنا بالبحرين ",
+                "title": "السليت",
+                "uri": "JK_000129_006894"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

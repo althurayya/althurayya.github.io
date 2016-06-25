@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006960",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.255",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سمورة</h1> بفتح أوله وتشديد ثانيه وضمه وبعد الواو راء مدينة الجلالقة وقيل سمرة ",
+                "title": "سمورة",
+                "uri": "JK_000129_006960"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

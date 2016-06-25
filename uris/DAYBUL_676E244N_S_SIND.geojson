@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.69101,
+                    24.43756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.43756",
+                    "coord_lon": "67.69101",
+                    "cornu_URI": "DAYBUL_676E244N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلديبل",
+                    "toponym_arabic_other": "ﭐلديبل",
+                    "toponym_buckwalter": "al-Daybul",
+                    "toponym_search": "al-Daybul",
+                    "toponym_translit": "al-Daybul",
+                    "toponym_translit_other": "al-Daybul"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

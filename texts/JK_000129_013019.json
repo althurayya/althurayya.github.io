@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013019",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.319",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر جطى</h1> بفتح الجيم وتشديد الطاء والقصر نهر بالبصرة عليه قرى ونخل كثير وهو من نواحي شرقي دجلة ",
+                "title": "نهر جطى",
+                "uri": "JK_000129_013019"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

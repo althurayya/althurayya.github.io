@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004803",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.394",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخنق</h1> بالتحريك أرض من جبال بين الفلج ونجران يسكنها أخلاط من همدان ونهد بن زيد وغيرهم من اليمانية ",
+                "title": "الخنق",
+                "uri": "JK_000129_004803"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

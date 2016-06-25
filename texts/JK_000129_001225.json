@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001225",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.299",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بئر بضاعة</h1> بالضم ويروى بالكسر في دار بني ساعدة وقد ذكرت في بضاعة ",
+                "title": "بئر بضاعة",
+                "uri": "JK_000129_001225"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002093",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.474",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بقيع الزبير</h1> بالمدينة فيه دور ومنازل وبقيع الخيل بالمدينة ايضا عند دار زيد بن ثابت ",
+                "title": "بقيع الزبير",
+                "uri": "JK_000129_002093"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

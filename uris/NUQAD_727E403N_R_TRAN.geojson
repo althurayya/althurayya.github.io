@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.7626,
+                    40.34137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.34137",
+                    "coord_lon": "72.76260",
+                    "cornu_URI": "NUQAD_727E403N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نقاد",
+                    "toponym_arabic_other": "نقاد، نقاد",
+                    "toponym_buckwalter": "Nuqad, Naqad",
+                    "toponym_search": "Nuqad, Naqad",
+                    "toponym_translit": "Nuqād",
+                    "toponym_translit_other": "Nuqād, Naqād"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

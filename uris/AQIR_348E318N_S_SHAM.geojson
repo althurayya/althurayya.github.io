@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.80861,
+                    31.86252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.86252",
+                    "coord_lon": "34.80861",
+                    "cornu_URI": "AQIR_348E318N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "عاقر",
+                    "toponym_arabic_other": "عاقر",
+                    "toponym_buckwalter": "Aqir",
+                    "toponym_search": "Aqir",
+                    "toponym_translit": "ʿĀqir",
+                    "toponym_translit_other": "ʿĀqir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

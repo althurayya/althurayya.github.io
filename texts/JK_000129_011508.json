@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011508",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.53",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>متريس</h1> بليد من أران بينه وبين برذعة عشرون فرسخا ",
+                "title": "متريس",
+                "uri": "JK_000129_011508"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.63175,
+                    37.84131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.84131",
+                    "coord_lon": "67.63175",
+                    "cornu_URI": "DARZANKA_676E378N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دارزنكا",
+                    "toponym_arabic_other": "دارزنكا، دارزنجي",
+                    "toponym_buckwalter": "Darzanka, Darzanji",
+                    "toponym_search": "Darzanka, Darzanji",
+                    "toponym_translit": "Dārzankā",
+                    "toponym_translit_other": "Dārzankā, Dārzanǧī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

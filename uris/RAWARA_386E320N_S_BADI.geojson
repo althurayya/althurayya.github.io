@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.64087,
+                    32.03911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.03911",
+                    "coord_lon": "38.64087",
+                    "cornu_URI": "RAWARA_386E320N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلروارى",
+                    "toponym_arabic_other": "ﭐلروارى، ﭐلدوارى",
+                    "toponym_buckwalter": "al-Rawara, al-Dawara",
+                    "toponym_search": "al-Rawara, al-Dawara",
+                    "toponym_translit": "al-Rawārá",
+                    "toponym_translit_other": "al-Rawārá, al-Dawārá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

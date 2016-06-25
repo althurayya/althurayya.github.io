@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011022",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.477",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كلندى</h1> بفتح أوله وثانيه ثم نون ساكنة ودال مهملة وياء موضع وهو الشديد الضخم من كل شيء وقال بعضهم ويوم بالمجازة والكلندى ويوم بين ضنك وصومحان ",
+                "title": "كلندى",
+                "uri": "JK_000129_011022"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

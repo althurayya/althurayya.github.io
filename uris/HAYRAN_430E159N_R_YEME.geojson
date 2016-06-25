@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.03594,
+                    15.96703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.96703",
+                    "coord_lon": "43.03594",
+                    "cornu_URI": "HAYRAN_430E159N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "حيران",
+                    "toponym_arabic_other": "حيران",
+                    "toponym_buckwalter": "Hayran",
+                    "toponym_search": "Hayran",
+                    "toponym_translit": "Ḥayrān",
+                    "toponym_translit_other": "Ḥayrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

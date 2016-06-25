@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009389",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.196",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غريان</h1> قلعة باليمن في جبل شطب ",
+                "title": "غريان",
+                "uri": "JK_000129_009389"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002395",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.530",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البيضاء</h1> قرية من ضواحي الإسكندرية ",
+                "title": "البيضاء",
+                "uri": "JK_000129_002395"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

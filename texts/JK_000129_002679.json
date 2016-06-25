@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002679",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.46",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تمرة</h1> بلفظ واحدة التمر من نواحي اليمامة لبني عقيل وقيل بفتح الميم وعقيق تمرة عن يمين الفرط ",
+                "title": "تمرة",
+                "uri": "JK_000129_002679"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

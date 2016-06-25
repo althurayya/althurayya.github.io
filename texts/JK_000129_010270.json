@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010270",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.353",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصاص</h1> بالضم وقصاص الشعر نهاية منبته يقال ضربه على قصاص شعره وقصاص شعره وقصاص شعره وهو جبل لبني أسد ",
+                "title": "قصاص",
+                "uri": "JK_000129_010270"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0298,
+                    36.21928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.21928",
+                    "coord_lon": "2.02980",
+                    "cornu_URI": "BANUWARIFAN_020E362N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "بنو واريفن",
+                    "toponym_arabic_other": "بنو واريفن",
+                    "toponym_buckwalter": "Banu Warifan",
+                    "toponym_search": "Banu Warifan",
+                    "toponym_translit": "Banū Wārīfan",
+                    "toponym_translit_other": "Banū Wārīfan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

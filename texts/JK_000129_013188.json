@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013188",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.355",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>والغين</h1> اسم واد قال الأغلب العجلي ونحن هبطنا بطن والغينا ",
+                "title": "والغين",
+                "uri": "JK_000129_013188"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

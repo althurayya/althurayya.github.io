@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004445",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.343",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خبتع</h1> بضم أوله وتسكين ثانيه ثم تاء منقطة باثنتين من فوقها وآخره عين مهملة هكذا ضبطه العمراني وقال هو بوزن طحلب اسم موضع ولا أدري ما أصله ",
+                "title": "خبتع",
+                "uri": "JK_000129_004445"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

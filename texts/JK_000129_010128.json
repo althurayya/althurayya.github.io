@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010128",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.322",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قردوس</h1> بالضم وهو واحد القراديس التي قدمنا ذكرها ويقال لتلك الخطط بالبصرة القردوس ",
+                "title": "قردوس",
+                "uri": "JK_000129_010128"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

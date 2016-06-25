@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.31987,
+                    32.74104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.74104",
+                    "coord_lon": "45.31987",
+                    "cornu_URI": "JARJARAYA_453E327N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرجرايا",
+                    "toponym_arabic_other": "جرجرايا",
+                    "toponym_buckwalter": "Jarjaraya",
+                    "toponym_search": "Jarjaraya",
+                    "toponym_translit": "Ǧarǧarāyā",
+                    "toponym_translit_other": "Ǧarǧarāyā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

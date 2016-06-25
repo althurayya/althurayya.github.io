@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000927",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.242",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ألاق</h1> بالضم وآخره قاف جبل بالتيه من أرض مصر من ناحية الهامة ",
+                "title": "ألاق",
+                "uri": "JK_000129_000927"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.37745,
+                    23.64065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.64065",
+                    "coord_lon": "45.37745",
+                    "cornu_URI": "SUDD_453E236N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلسد",
+                    "toponym_arabic_other": "ﭐلسد",
+                    "toponym_buckwalter": "al-Sudd",
+                    "toponym_search": "al-Sudd",
+                    "toponym_translit": "al-Sudd",
+                    "toponym_translit_other": "al-Sudd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

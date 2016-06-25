@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011772",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.96-97",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المرايض</h1> بالفتح وهو من استراض الوادي إذا استنقع فيه الماء ومنه سميت الروضة وهي مواضع |جـ 5 صـ 97| في ديار بني تميم بين كاظمة والنقيرة ",
+                "title": "المرايض",
+                "uri": "JK_000129_011772"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

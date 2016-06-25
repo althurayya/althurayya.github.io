@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.90257,
+                    33.87018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.87018",
+                    "coord_lon": "7.90257",
+                    "cornu_URI": "NAFTA_079E338N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نفطة",
+                    "toponym_arabic_other": "نفطة",
+                    "toponym_buckwalter": "Nafta",
+                    "toponym_search": "Nafta",
+                    "toponym_translit": "Nafṭaŧ",
+                    "toponym_translit_other": "Nafṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012624",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نافخش</h1> بالفاء المفتوحة والخاء ساكنة وشين معجمة من قرى سمرقند ",
+                "title": "نافخش",
+                "uri": "JK_000129_012624"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

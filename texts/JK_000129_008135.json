@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008135",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.436",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صهر</h1> بالفتح ثم السكون والراء يقال صهرته الشمس وصهدته إذا اشتد وقوعها عليه والصهر مدينة باليمن في مخلاف ماجن ",
+                "title": "صهر",
+                "uri": "JK_000129_008135"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.87652,
+                    40.88768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.88768",
+                    "coord_lon": "68.87652",
+                    "cornu_URI": "SUTURKATH_688E408N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ستوركث",
+                    "toponym_arabic_other": "ستوركث، أشتوركث",
+                    "toponym_buckwalter": "Suturkath, Ushturkath",
+                    "toponym_search": "Suturkath, Ushturkath",
+                    "toponym_translit": "Sutūrkaṯ",
+                    "toponym_translit_other": "Sutūrkaṯ, Uštūrkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

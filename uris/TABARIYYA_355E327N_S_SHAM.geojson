@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.51241,
+                    32.77755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.77755",
+                    "coord_lon": "35.51241",
+                    "cornu_URI": "TABARIYYA_355E327N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "طبرية",
+                    "toponym_arabic_other": "طبرية",
+                    "toponym_buckwalter": "Tabariyya",
+                    "toponym_search": "Tabariyya",
+                    "toponym_translit": "Ṭabariyyaŧ",
+                    "toponym_translit_other": "Ṭabariyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

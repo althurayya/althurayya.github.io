@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.3972,
+                    14.56364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.56364",
+                    "coord_lon": "44.39720",
+                    "cornu_URI": "DHIMAR_443E145N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "mikhlaf",
+                    "toponym_arabic": "ذمار",
+                    "toponym_arabic_other": "ذمار",
+                    "toponym_buckwalter": "Dhimar",
+                    "toponym_search": "Dhimar",
+                    "toponym_translit": "Ḏimār",
+                    "toponym_translit_other": "Ḏimār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

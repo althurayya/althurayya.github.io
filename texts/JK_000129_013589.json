@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013589",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.419",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>هني والنسبة الهني</h1> كأنه تصغير هنىء موضع دون معدن النفط قال ابن مقبل يسوفان من قاع الهني كرامة أدام بها شهر الخريف وسيلا ",
+                "title": "هني والنسبة الهني",
+                "uri": "JK_000129_013589"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

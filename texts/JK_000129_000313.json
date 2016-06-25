@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000313",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.118",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأحياء</h1> جمع حي من أحياء العرب أو حي ضد الميت قال ابن إسحاق غزا عبيدة بن الحارث بن المطلب الأحياء وهو ماء أسفل من ثنية المرة ",
+                "title": "الأحياء",
+                "uri": "JK_000129_000313"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

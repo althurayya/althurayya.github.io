@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008589",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.66-67",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عازب</h1> جبل من وراء اليمامة بالقرب في قول أبي جندب الهذلي إلى ملحة |جـ 4 صـ 67| القعفا فقبة عازب أجمع منهم حاملا وأعاني ",
+                "title": "عازب",
+                "uri": "JK_000129_008589"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

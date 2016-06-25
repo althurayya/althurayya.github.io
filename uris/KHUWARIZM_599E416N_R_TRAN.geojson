@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.97545,
+                    41.65733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.65733",
+                    "coord_lon": "59.97545",
+                    "cornu_URI": "KHUWARIZM_599E416N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "خوارزم",
+                    "toponym_arabic_other": "خوارزم",
+                    "toponym_buckwalter": "Khuwarizm",
+                    "toponym_search": "Khuwarizm",
+                    "toponym_translit": "Ḫuwārizm",
+                    "toponym_translit_other": "Ḫuwārizm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

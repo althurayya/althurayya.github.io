@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.26821,
+                    25.78667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.78667",
+                    "coord_lon": "39.26821",
+                    "cornu_URI": "KHAYBAR_392E257N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خيبر",
+                    "toponym_arabic_other": "خيبر",
+                    "toponym_buckwalter": "Khaybar",
+                    "toponym_search": "Khaybar",
+                    "toponym_translit": "Ḫaybar",
+                    "toponym_translit_other": "Ḫaybar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

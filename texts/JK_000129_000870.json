@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000870",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.234",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أقتد</h1> بضم التاء فوقها نقطتان موضع في بلاد فهم قال قيس بن العيزارة الهذلي لعمرك أنسى لوعتي يوم أقتد وهل تتركن نفس الأسير الروائع ",
+                "title": "أقتد",
+                "uri": "JK_000129_000870"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

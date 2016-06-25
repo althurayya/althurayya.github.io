@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.95309,
+                    35.36567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.36567",
+                    "coord_lon": "35.95309",
+                    "cornu_URI": "JABALA_359E353N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جبلة",
+                    "toponym_arabic_other": "جبلة",
+                    "toponym_buckwalter": "Jabala",
+                    "toponym_search": "Jabala",
+                    "toponym_translit": "Ǧabalaŧ",
+                    "toponym_translit_other": "Ǧabalaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

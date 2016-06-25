@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000378",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.126",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أدم</h1> أيضا بقرب العمق قال نصر وأظنه جبلا ",
+                "title": "أدم",
+                "uri": "JK_000129_000378"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

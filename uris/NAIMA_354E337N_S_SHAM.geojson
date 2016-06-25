@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.46741,
+                    33.77683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.77683",
+                    "coord_lon": "35.46741",
+                    "cornu_URI": "NAIMA_354E337N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلناعمة",
+                    "toponym_arabic_other": "ﭐلناعمة",
+                    "toponym_buckwalter": "al-Naima",
+                    "toponym_search": "al-Naima",
+                    "toponym_translit": "al-Nāʿimaŧ",
+                    "toponym_translit_other": "al-Nāʿimaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

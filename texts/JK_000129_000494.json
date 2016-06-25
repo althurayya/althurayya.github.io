@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000494",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.154",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أركون</h1> بالفتح ثم السكون وضم الكاف وواو ساكنة ونون حصن منيع بالأندلس من أعمال شنتمرية بيد المسلمين إلى الآن فيما بلغني ",
+                "title": "أركون",
+                "uri": "JK_000129_000494"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009182",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.166",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العواقر</h1> جبال في أسفل الفرش وعن يسارها وهي إلى جانب جبل يقال له صفر من أرض الحجاز ",
+                "title": "العواقر",
+                "uri": "JK_000129_009182"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

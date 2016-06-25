@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.53106,
+                    38.25651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.25651",
+                    "coord_lon": "69.53106",
+                    "cornu_URI": "TAMLIYAT_695E382N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تمليات",
+                    "toponym_arabic_other": "تمليات",
+                    "toponym_buckwalter": "Tamliyat",
+                    "toponym_search": "Tamliyat",
+                    "toponym_translit": "Tamliyāt",
+                    "toponym_translit_other": "Tamliyāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

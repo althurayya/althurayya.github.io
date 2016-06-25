@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002793",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.66",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>التيس</h1> بلفظ واحد من التيوس فحل الشاة رجلة التيس موضع بين الكوفة والشام و تيس أيضا جبل بالشام فيه عدة حصون ",
+                "title": "التيس",
+                "uri": "JK_000129_002793"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

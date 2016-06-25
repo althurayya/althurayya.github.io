@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005247",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.462",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دمخ</h1> جبل فنسب إليه بما حوله وقال أبو عبيدة الدماخ وأظلم جبلان قال أبو منصور قال ثعلب عن ابن الأعرابي الدمخ الشدخ قال ولم أسمعه لغيره ",
+                "title": "دمخ",
+                "uri": "JK_000129_005247"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

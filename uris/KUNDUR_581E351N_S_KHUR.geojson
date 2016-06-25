@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.12875,
+                    35.12055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.12055",
+                    "coord_lon": "58.12875",
+                    "cornu_URI": "KUNDUR_581E351N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كندر",
+                    "toponym_arabic_other": "كندر",
+                    "toponym_buckwalter": "Kundur",
+                    "toponym_search": "Kundur",
+                    "toponym_translit": "Kundur",
+                    "toponym_translit_other": "Kundur"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
