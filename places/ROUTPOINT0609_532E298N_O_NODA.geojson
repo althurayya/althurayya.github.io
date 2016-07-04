@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.26823,
+                    29.81491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.81491",
+                    "coord_lon": "53.26823",
+                    "cornu_URI": "ROUTPOINT0609_532E298N_O_NODA",
+                    "region_code": 22,
+                    "region_spelled": "noData",
+                    "top_type_hom": "xroads",
+                    "top_type_orig": "rPoint",
+                    "toponym_arabic": "RoutPoint0609",
+                    "toponym_arabic_other": "RoutPoint0609",
+                    "toponym_buckwalter": "RoutPoint0609",
+                    "toponym_search": "RoutPoint0609",
+                    "toponym_translit": "RoutPoint0609",
+                    "toponym_translit_other": "RoutPoint0609"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

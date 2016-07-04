@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005521",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.9",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذهيوط</h1> بوزن عذيوط موضع قال النابغة فداء ما تقل النعل مني لما أعلى الذؤابة للهمام ومغزاه قبائل غائظات على الذهيوط في لجب لهام ",
+                "title": "ذهيوط",
+                "uri": "JK_000129_005521"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

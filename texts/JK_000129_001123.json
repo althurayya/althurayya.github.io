@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001123",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.277",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أوذ</h1> بالضم ثم السكون وذال معجمة مدينة بناحية أران من فتوح سلمان بن ربيعة وقيل أوذ من قلاع قزوين مشهورة قال نصر والصواب أنها بواو بعد الذال ",
+                "title": "أوذ",
+                "uri": "JK_000129_001123"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

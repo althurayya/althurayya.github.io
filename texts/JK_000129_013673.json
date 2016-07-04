@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013673",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.431-432",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>يحطوط</h1> بتكرير الطاء اسم واد |جـ 5 صـ 432| ",
+                "title": "يحطوط",
+                "uri": "JK_000129_013673"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

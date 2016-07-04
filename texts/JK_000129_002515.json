@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002515",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.20",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تذكر</h1> بفتحتين وتشديد الكاف وضمها موضع قال فيه بعضهم تذكر قد عفا منها فمطلوب فالسقي من حرتي ميطان فاللوب ",
+                "title": "تذكر",
+                "uri": "JK_000129_002515"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

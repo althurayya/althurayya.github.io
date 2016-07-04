@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.65152,
+                    37.27393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.27393",
+                    "coord_lon": "61.65152",
+                    "cornu_URI": "DANDANAQAN_616E372N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دندانقان",
+                    "toponym_arabic_other": "دندانقان",
+                    "toponym_buckwalter": "Dandanaqan",
+                    "toponym_search": "Dandanaqan",
+                    "toponym_translit": "Dandānaqān",
+                    "toponym_translit_other": "Dandānaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

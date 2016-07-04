@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007955",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.400",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الصرح</h1> بالفتح ثم السكون وحاء مهملة وهو في اللغة كل بناء مشرف قال الحازمي الصرح بناء عظيم قرب بابل يقال إنه قصر بخت نصر ",
+                "title": "الصرح",
+                "uri": "JK_000129_007955"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

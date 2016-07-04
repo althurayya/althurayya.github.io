@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009505",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.216",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الغوارة</h1> بالفتح ثم التخفيف وبعد الألف راء مهملة قرية بها نخل وعيون إلى جنب الظهران ",
+                "title": "الغوارة",
+                "uri": "JK_000129_009505"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

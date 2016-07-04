@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    18.63423,
+                    29.78891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.78891",
+                    "coord_lon": "18.63423",
+                    "cornu_URI": "SABKHAMANHUSHA_186E297N_R_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "سبخة منهوشا",
+                    "toponym_arabic_other": "سبخة منهوشا",
+                    "toponym_buckwalter": "Sabkha Manhusha",
+                    "toponym_search": "Sabkha Manhusha",
+                    "toponym_translit": "Sabḫaŧ Manhūšā",
+                    "toponym_translit_other": "Sabḫaŧ Manhūšā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.03243,
+                    14.44273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.44273",
+                    "coord_lon": "43.03243",
+                    "cornu_URI": "GHALAFIQA_430E144N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غلافقة",
+                    "toponym_arabic_other": "غلافقة",
+                    "toponym_buckwalter": "Ghalafiqa",
+                    "toponym_search": "Ghalafiqa",
+                    "toponym_translit": "Ġalāfiqaŧ",
+                    "toponym_translit_other": "Ġalāfiqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

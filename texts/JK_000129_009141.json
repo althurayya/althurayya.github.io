@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009141",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.160",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العناج</h1> قال الأزدي العناج بضم العين موضع والعناج حبل يشد في الدلو قال ابن مقبل أفي رسم دار بالعناج عرفتها إذا رامها سيل الحوالب عردا ",
+                "title": "العناج",
+                "uri": "JK_000129_009141"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

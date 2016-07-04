@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001271",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.308",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باب شورستان</h1> بضم الشين المعجمة وسكون الواو وكسر الراء محلة بمرو ",
+                "title": "باب شورستان",
+                "uri": "JK_000129_001271"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.3954,
+                    39.46953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.46953",
+                    "coord_lon": "-6.39540",
+                    "cornu_URI": "QASARASH_063W394N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قصراش",
+                    "toponym_arabic_other": "قصراش",
+                    "toponym_buckwalter": "Qasarash",
+                    "toponym_search": "Qasarash",
+                    "toponym_translit": "Qaṣarāš",
+                    "toponym_translit_other": "Qaṣarāš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

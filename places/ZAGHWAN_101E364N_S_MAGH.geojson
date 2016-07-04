@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.13608,
+                    36.40097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.40097",
+                    "coord_lon": "10.13608",
+                    "cornu_URI": "ZAGHWAN_101E364N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زغوان",
+                    "toponym_arabic_other": "زغوان",
+                    "toponym_buckwalter": "Zaghwan",
+                    "toponym_search": "Zaghwan",
+                    "toponym_translit": "Zaġwān",
+                    "toponym_translit_other": "Zaġwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

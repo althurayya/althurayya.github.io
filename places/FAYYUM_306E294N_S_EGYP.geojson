@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.69978,
+                    29.43447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.43447",
+                    "coord_lon": "30.69978",
+                    "cornu_URI": "FAYYUM_306E294N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلفيوم",
+                    "toponym_arabic_other": "ﭐلفيوم",
+                    "toponym_buckwalter": "al-Fayyum",
+                    "toponym_search": "al-Fayyum",
+                    "toponym_translit": "al-Fayyūm",
+                    "toponym_translit_other": "al-Fayyūm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

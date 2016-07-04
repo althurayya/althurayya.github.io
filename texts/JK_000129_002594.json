@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002594",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.35",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تغن</h1> بالتحريك وآخره نون موضع ذكره في رجز الأغلب العجلي ",
+                "title": "تغن",
+                "uri": "JK_000129_002594"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

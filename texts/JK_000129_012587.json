@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012587",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.249",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نابع</h1> بكسر الباء الموحدة وعين مهملة اسم الفاعل من نبع ينبع موضع بقرب مدينة الرسول صلى الله عليه وسلم ",
+                "title": "نابع",
+                "uri": "JK_000129_012587"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

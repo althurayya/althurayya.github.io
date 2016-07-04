@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004474",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.347",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخثماء</h1> موضع من نواحي اليمامة عن ابن أبي حفصة قال عمارة بن عقيل ولا تخل ذات السر ما دام منهم شريد ولا الخثماء ذات المخارم ",
+                "title": "الخثماء",
+                "uri": "JK_000129_004474"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

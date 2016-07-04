@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.43096,
+                    37.04735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.04735",
+                    "coord_lon": "42.43096",
+                    "cornu_URI": "FAYSHABUR_424E370N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فيشابور",
+                    "toponym_arabic_other": "فيشابور",
+                    "toponym_buckwalter": "Fayshabur",
+                    "toponym_search": "Fayshabur",
+                    "toponym_translit": "Fayšābūr",
+                    "toponym_translit_other": "Fayšābūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002851",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.76",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثرمد</h1> اسم شعب بأجإ لبني ثعلبة من بني سلامان من طيء وقيل ماء ",
+                "title": "ثرمد",
+                "uri": "JK_000129_002851"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

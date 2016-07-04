@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007181",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.290",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سهل</h1> ضد الصعب بنو سهل قرية من نواحي مشرق جهران باليمن من نواحي صنعاء ",
+                "title": "سهل",
+                "uri": "JK_000129_007181"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

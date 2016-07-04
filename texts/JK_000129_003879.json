@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003879",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.247",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حرة لفلف</h1> قال ابن الأعرابي لفلف الرجل إذا استقصى في الأكل والعلف وقد ذكر لفلف ",
+                "title": "حرة لفلف",
+                "uri": "JK_000129_003879"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

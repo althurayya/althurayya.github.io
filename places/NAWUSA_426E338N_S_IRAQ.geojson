@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.61179,
+                    33.82317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.82317",
+                    "coord_lon": "42.61179",
+                    "cornu_URI": "NAWUSA_426E338N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلناوسة",
+                    "toponym_arabic_other": "ﭐلناوسة",
+                    "toponym_buckwalter": "al-Nawusa",
+                    "toponym_search": "al-Nawusa",
+                    "toponym_translit": "al-Nāwusaŧ",
+                    "toponym_translit_other": "al-Nāwusaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

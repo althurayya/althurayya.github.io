@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005518",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.9",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الذهبانية</h1> موضع قرب الرقة فيه مشهد يزار وينذر له وعليه وقوف وعنده عين نهر البليخ الذي يجري في بساتين الرافقة ",
+                "title": "الذهبانية",
+                "uri": "JK_000129_005518"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

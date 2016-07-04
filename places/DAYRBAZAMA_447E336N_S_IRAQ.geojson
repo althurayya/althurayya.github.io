@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.70196,
+                    33.60709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.60709",
+                    "coord_lon": "44.70196",
+                    "cornu_URI": "DAYRBAZAMA_447E336N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دير بازمة ",
+                    "toponym_arabic_other": "دير بازمة ،  دير تيرمة",
+                    "toponym_buckwalter": "Dayr Bazama ,  Dayr Tirma",
+                    "toponym_search": "Dayr Bazama ,  Dayr Tirma",
+                    "toponym_translit": "Dayr Bāzamaŧ ",
+                    "toponym_translit_other": "Dayr Bāzamaŧ ,  Dayr Tīrmaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

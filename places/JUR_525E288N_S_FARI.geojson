@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.58324,
+                    28.84797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.84797",
+                    "coord_lon": "52.58324",
+                    "cornu_URI": "JUR_525E288N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جور",
+                    "toponym_arabic_other": "جور، بيروزاباذ",
+                    "toponym_buckwalter": "Jur, Bayruzabadh",
+                    "toponym_search": "Jur, Bayruzabadh",
+                    "toponym_translit": "Ǧūr",
+                    "toponym_translit_other": "Ǧūr, Bayrūzābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

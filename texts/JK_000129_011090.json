@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011090",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.484",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كنك</h1> بالكسر ثم السكون وآخره كاف أيضا اسم واد في بلاد الهند ",
+                "title": "كنك",
+                "uri": "JK_000129_011090"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

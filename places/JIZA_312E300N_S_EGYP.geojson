@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.20183,
+                    30.00653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.00653",
+                    "coord_lon": "31.20183",
+                    "cornu_URI": "JIZA_312E300N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلجيزة",
+                    "toponym_arabic_other": "ﭐلجيزة",
+                    "toponym_buckwalter": "al-Jiza",
+                    "toponym_search": "al-Jiza",
+                    "toponym_translit": "al-Ǧīzaŧ",
+                    "toponym_translit_other": "al-Ǧīzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

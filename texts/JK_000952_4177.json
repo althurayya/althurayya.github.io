@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_4177",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.5, p.529",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>النواسي</h1> بضم النون وفتح الواو المخففة وفي اخرها السين المهملة هذه نسبة أبي نواس الحسن بن هانىء الشاعر المشهور ولنفسه يقوله هو في أبيات ",
+                "title": "النواسي",
+                "uri": "JK_000952_4177"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013377",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.381",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وقف</h1> موضع في بلاد عامر قال لبيد لهند بأعلى ذي الأغر رسوم إلى أحد كأنهن وشوم فوقف فسلي فأكناف ضلفع تربع فيه تارة وتقيم ",
+                "title": "وقف",
+                "uri": "JK_000129_013377"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

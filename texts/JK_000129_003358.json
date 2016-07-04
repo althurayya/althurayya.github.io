@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003358",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.163",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جمل</h1> بالتحريك بلفظ الجمل وهو البعير بئر جمل في حديث أبي جهم بالمدينة ",
+                "title": "جمل",
+                "uri": "JK_000129_003358"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

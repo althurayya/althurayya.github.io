@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007100",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.277",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السود</h1> بلفظ جمع أسود بضم أوله قرية بالشام قال ابن مقبل تمنيت أن يلقى فوارس عامر بصحراء بين السود والحدثان ",
+                "title": "السود",
+                "uri": "JK_000129_007100"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

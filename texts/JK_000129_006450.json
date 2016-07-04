@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006450",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.170",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السادة</h1> محرثة باليمامة عن ابن أبي حفصة ",
+                "title": "السادة",
+                "uri": "JK_000129_006450"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

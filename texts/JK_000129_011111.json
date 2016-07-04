@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011111",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.486",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كوبان</h1> بالضم والباء موحدة وآخره نون يقال له جوبان بالجيم من قرى مرو ",
+                "title": "كوبان",
+                "uri": "JK_000129_011111"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

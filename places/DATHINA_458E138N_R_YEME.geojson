@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.89739,
+                    13.81354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.81354",
+                    "coord_lon": "45.89739",
+                    "cornu_URI": "DATHINA_458E138N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "دثينة",
+                    "toponym_arabic_other": "دثينة",
+                    "toponym_buckwalter": "Dathina",
+                    "toponym_search": "Dathina",
+                    "toponym_translit": "Daṯīnaŧ",
+                    "toponym_translit_other": "Daṯīnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

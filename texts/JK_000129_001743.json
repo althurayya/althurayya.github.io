@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001743",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.388",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقولش</h1> بضم أوله والقاف والواو ساكنة واللام مكسورة والشين معجمة حصن من أعمال سرقسطة بالأندلس ",
+                "title": "برقولش",
+                "uri": "JK_000129_001743"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

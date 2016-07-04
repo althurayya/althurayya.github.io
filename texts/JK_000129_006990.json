@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006990",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.260",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنان</h1> بلفظ سنان الرمح حصن سنان في بلاد الروم فتحه عبد الله بن عبد الملك بن مروان وله ذكر ",
+                "title": "سنان",
+                "uri": "JK_000129_006990"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

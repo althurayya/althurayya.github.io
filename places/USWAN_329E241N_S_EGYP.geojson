@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.98286,
+                    24.10701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.10701",
+                    "coord_lon": "32.98286",
+                    "cornu_URI": "USWAN_329E241N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "أسوان",
+                    "toponym_arabic_other": "أسوان",
+                    "toponym_buckwalter": "Uswan",
+                    "toponym_search": "Uswan",
+                    "toponym_translit": "Uswān",
+                    "toponym_translit_other": "Uswān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

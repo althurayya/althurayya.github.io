@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001882",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.405",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بروقان والنسبة البروقاني</h1> بالقاف والنون قرية من نواحي بلخ ينسب إليها محمد بن خاقان البروقاني ",
+                "title": "بروقان والنسبة البروقاني",
+                "uri": "JK_000129_001882"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

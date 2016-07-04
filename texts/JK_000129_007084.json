@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007084",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.276",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السواس</h1> بفتح أوله وتكرير السين وهو في الأصل اسم شجر وهو أفضل ما اتخذ منه زند وواحدته سواسة وقال ابن دريد سواس جبل أو موضع ",
+                "title": "السواس",
+                "uri": "JK_000129_007084"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

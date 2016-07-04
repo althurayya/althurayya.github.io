@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011266",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.14",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>اللجون</h1> مرج طوله ستة أميال كثير الوحل صيفا وشتاء ",
+                "title": "اللجون",
+                "uri": "JK_000129_011266"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000305",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.117",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أحمداباذ</h1> قرية من قرى قزوين على ثلاثة فراسخ منها بناها أبو عبد الله أحمد بن هبة الله الكموني القزويني ",
+                "title": "أحمداباذ",
+                "uri": "JK_000129_000305"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

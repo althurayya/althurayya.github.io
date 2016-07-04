@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002577",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.33",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تضروع</h1> بزيادة واو ساكنة موضع عقر به عامر ابن الطفيل فرسه قال ونعم أخو الصعلوك أمس تركته بتضروع يمري باليدين ويعسف ",
+                "title": "تضروع",
+                "uri": "JK_000129_002577"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

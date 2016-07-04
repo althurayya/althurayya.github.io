@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.62594,
+                    19.93935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.93935",
+                    "coord_lon": "42.62594",
+                    "cornu_URI": "BISHA_426E199N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بيشة",
+                    "toponym_arabic_other": "بيشة",
+                    "toponym_buckwalter": "Bisha",
+                    "toponym_search": "Bisha",
+                    "toponym_translit": "Bīšaŧ",
+                    "toponym_translit_other": "Bīšaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

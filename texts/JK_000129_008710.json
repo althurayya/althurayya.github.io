@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008710",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.86",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العثير</h1> بلفظ تصغير العثر وقد قدم كذا ضبطه الأديبي وقال اسم موضع ",
+                "title": "العثير",
+                "uri": "JK_000129_008710"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

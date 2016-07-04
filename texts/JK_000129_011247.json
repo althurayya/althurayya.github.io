@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011247",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.12",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>لبن</h1> بالكسر بلفظ اللبن الذي يبنى به وفيه لغتان لبن بسكون الباء وهو لفظ هذا الموضع ولبن بكسر الباء أضاة لبن من حدود الحرم على طريق اليمن ",
+                "title": "لبن",
+                "uri": "JK_000129_011247"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

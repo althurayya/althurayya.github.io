@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011618",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.67",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مخاشن</h1> بضم أوله وبعد الألف شين معجمة ونون وهو جبل على البشر بالجزيرة قال جرير لو أن جمعهم غداة مخاشن يرمى به حضن لكاد يزول ",
+                "title": "مخاشن",
+                "uri": "JK_000129_011618"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

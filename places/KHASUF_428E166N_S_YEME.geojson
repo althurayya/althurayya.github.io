@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.88142,
+                    16.67647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.67647",
+                    "coord_lon": "42.88142",
+                    "cornu_URI": "KHASUF_428E166N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلخصوف",
+                    "toponym_arabic_other": "ﭐلخصوف",
+                    "toponym_buckwalter": "al-Khasuf",
+                    "toponym_search": "al-Khasuf",
+                    "toponym_translit": "al-Ḫaṣūf",
+                    "toponym_translit_other": "al-Ḫaṣūf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

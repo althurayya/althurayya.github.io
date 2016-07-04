@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008564",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.62",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ظليم</h1> بوزن تصغير الظلم أو الظلم وهو الثلج موضع باليمن ينسب إليه ذو ظليم أحد ملوك حمير من ولده حوشب الذي شهد مع معاوية صفين قتله سليمان عن نصر ",
+                "title": "ظليم",
+                "uri": "JK_000129_008564"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

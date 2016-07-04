@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007180",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.290",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سهل</h1> جبل في بلاد الشام قال الشاعر دعوت ودون كبشة ظهر سهل وداعي الله يطمع أن يجابا ليجعل دارها منا قريبا ويمنعها المناقب والعقابا ",
+                "title": "سهل",
+                "uri": "JK_000129_007180"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

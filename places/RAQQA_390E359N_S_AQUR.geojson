@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.05128,
+                    35.9493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.94930",
+                    "coord_lon": "39.05128",
+                    "cornu_URI": "RAQQA_390E359N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلرقة",
+                    "toponym_arabic_other": "ﭐلرقة",
+                    "toponym_buckwalter": "al-Raqqa",
+                    "toponym_search": "al-Raqqa",
+                    "toponym_translit": "al-Raqqaŧ",
+                    "toponym_translit_other": "al-Raqqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

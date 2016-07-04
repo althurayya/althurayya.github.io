@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010903",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.459",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كزنا</h1> بالفتح ثم السكون ونون هي بليدة بينها وبين مراغة نحو ستة فراسخ فيها معبد للمجوس وبيت نار قديم وإيوان عظيم عال جدا بناه كيخسرو الملك ",
+                "title": "كزنا",
+                "uri": "JK_000129_010903"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

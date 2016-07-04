@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.18717,
+                    31.65292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.65292",
+                    "coord_lon": "44.18717",
+                    "cornu_URI": "QADISIYYA_441E316N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلقادسية",
+                    "toponym_arabic_other": "ﭐلقادسية",
+                    "toponym_buckwalter": "al-Qadisiyya",
+                    "toponym_search": "al-Qadisiyya",
+                    "toponym_translit": "al-Qādisiyyaŧ",
+                    "toponym_translit_other": "al-Qādisiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

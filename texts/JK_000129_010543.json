@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010543",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.401",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القناية</h1> بكسر أوله وتشديد ثانيه وبعد الألف ياء مثناة من تحت هو نهر في سواد العراق من نواحي الراذانين عليه عدة قرى عن أبي بكر بن موسى ",
+                "title": "القناية",
+                "uri": "JK_000129_010543"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.12651,
+                    30.68777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.68777",
+                    "coord_lon": "62.12651",
+                    "cornu_URI": "TAQ_621E306N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلطاق",
+                    "toponym_arabic_other": "ﭐلطاق",
+                    "toponym_buckwalter": "al-Taq",
+                    "toponym_search": "al-Taq",
+                    "toponym_translit": "al-Ṭāq",
+                    "toponym_translit_other": "al-Ṭāq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.28396,
+                    33.61536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.61536",
+                    "coord_lon": "9.28396",
+                    "cornu_URI": "NAFZAWA_092E336N_R_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نفزاوة",
+                    "toponym_arabic_other": "نفزاوة",
+                    "toponym_buckwalter": "Nafzawa",
+                    "toponym_search": "Nafzawa",
+                    "toponym_translit": "Nafzāwaŧ",
+                    "toponym_translit_other": "Nafzāwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

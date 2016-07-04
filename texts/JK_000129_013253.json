@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013253",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.369",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوديك</h1> بالضم ثم الفتح وياء وكاف بلفظ التصغير موضع قال عبيد بن الأبرص وهل رام عن عهدي وديك مكانه إلى حيث يفضي سيل ذات المساجد ",
+                "title": "الوديك",
+                "uri": "JK_000129_013253"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009895",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.281",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فهرمد</h1> من قرى الري كانت بها وقعة بين أصحاب الحسين بن زيد العلوي وبين ابن ميكال وكان ابن ميكال من قبل الطاهر في أيام المستعين ",
+                "title": "فهرمد",
+                "uri": "JK_000129_009895"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

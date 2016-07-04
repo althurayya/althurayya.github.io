@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000045",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.56",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>آليش</h1> بكسر اللام وياء ساكنة وشين معجمة مدينة بالأندلس بينها وبين بطليوس يوم واحد ",
+                "title": "آليش",
+                "uri": "JK_000129_000045"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002849",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.76",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الثرماء</h1> بالمد ماء لكندة معروف وعين ثرماء قرية بدمشق ذكرت في العين والثرم سقوط الثنية ",
+                "title": "الثرماء",
+                "uri": "JK_000129_002849"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

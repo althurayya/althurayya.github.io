@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011989",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.131",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المشاش</h1> بالضم قال عرام ويتصل بجبال عرفات جبال الطائف وفيها مياه كثيرة أوشال وعظائم قني منها المشاش وهو الذي يجري بعرفات ويتصل إلى مكة ",
+                "title": "المشاش",
+                "uri": "JK_000129_011989"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006722",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.219",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سريش</h1> بفتح أوله وكسر ثانيه وسكون ثالثه وآخره شين معجمة مهمل في كلامهم وهو اسم موضع والله أعلم ",
+                "title": "سريش",
+                "uri": "JK_000129_006722"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

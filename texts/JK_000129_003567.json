@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003567",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.197",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجيدور</h1> بالفتح ثم السكون وضم الدال وسكون الواو وراء كورة من نواحي دمشق فيها قرى وهي في شمالي حوران ويقال إنها والجولان كورة واحدة ",
+                "title": "الجيدور",
+                "uri": "JK_000129_003567"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

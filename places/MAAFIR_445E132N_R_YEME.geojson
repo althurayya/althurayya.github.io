@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.52977,
+                    13.22221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.22221",
+                    "coord_lon": "44.52977",
+                    "cornu_URI": "MAAFIR_445E132N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region/mikhlaf",
+                    "toponym_arabic": "ﭐلمعافر",
+                    "toponym_arabic_other": "ﭐلمعافر",
+                    "toponym_buckwalter": "al-Maafir",
+                    "toponym_search": "al-Maafir",
+                    "toponym_translit": "al-Maʿāfir",
+                    "toponym_translit_other": "al-Maʿāfir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

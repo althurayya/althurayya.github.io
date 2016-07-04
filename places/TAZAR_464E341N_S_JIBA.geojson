@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.4404,
+                    34.16749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.16749",
+                    "coord_lon": "46.44040",
+                    "cornu_URI": "TAZAR_464E341N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلطزر",
+                    "toponym_arabic_other": "ﭐلطزر",
+                    "toponym_buckwalter": "al-Tazar",
+                    "toponym_search": "al-Tazar",
+                    "toponym_translit": "al-Ṭazar",
+                    "toponym_translit_other": "al-Ṭazar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

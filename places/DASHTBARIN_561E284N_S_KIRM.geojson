@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.1416,
+                    28.40625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.40625",
+                    "coord_lon": "56.14160",
+                    "cornu_URI": "DASHTBARIN_561E284N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دشت برين",
+                    "toponym_arabic_other": "دشت برين",
+                    "toponym_buckwalter": "Dasht Barin",
+                    "toponym_search": "Dasht Barin",
+                    "toponym_translit": "Dašt Barīn",
+                    "toponym_translit_other": "Dašt Barīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

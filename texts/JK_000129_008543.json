@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008543",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.59",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ظبى</h1> بضم أوله وتشديد ثانيه وإمالة الألف إلى الياء لفظة نبطية ناحية من سواد العراق قريبة من المدائن والله أعلم بالصواب ",
+                "title": "ظبى",
+                "uri": "JK_000129_008543"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

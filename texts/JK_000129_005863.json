@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005863",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.64",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رك</h1> هو الذي قبله فك تضعيفه فأظهر وقال ركك وقد ذكرته قبل هذا ",
+                "title": "رك",
+                "uri": "JK_000129_005863"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

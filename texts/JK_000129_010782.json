@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010782",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.438",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كجه</h1> بالفتح ثم التشديد مدينة يقال لها كلار بطبرستان وقيل ولاية رويان وقد مر ذكرها في رويان ",
+                "title": "كجه",
+                "uri": "JK_000129_010782"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003839",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.243",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحرف</h1> آرام سود مرتفعات قال نصر أحسبها في منازل بني سليم ",
+                "title": "الحرف",
+                "uri": "JK_000129_003839"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

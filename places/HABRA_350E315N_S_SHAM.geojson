@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.08912,
+                    31.53018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.53018",
+                    "coord_lon": "35.08912",
+                    "cornu_URI": "HABRA_350E315N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حبرة",
+                    "toponym_arabic_other": "حبرة، ﭐلخليل، حبرون، مسجد إبراهيم",
+                    "toponym_buckwalter": "Habra, al-Khalil, Habrun, Masjid Ibrahim",
+                    "toponym_search": "Habra, al-Khalil, Habrun, Masjid Ibrahim",
+                    "toponym_translit": "Ḥabraŧ",
+                    "toponym_translit_other": "Ḥabraŧ, al-Ḫalīl, Ḥabrūn, Masǧid Ibrāhīm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

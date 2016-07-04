@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002546",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.27",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ترمس</h1> موضع قرب القنان من أرض نجد وقال نصر الترمس ماء لبني أسد ",
+                "title": "ترمس",
+                "uri": "JK_000129_002546"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

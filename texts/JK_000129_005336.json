@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005336",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.489",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دومة خبت</h1> موضع آخر قال الأخطل ألا يا اسلما على التقادم والبلى بدومة خبت أيها الطللان فلو كنت محصوبا بدومة مدنفا أداوى بريق من سعاد شفاني ",
+                "title": "دومة خبت",
+                "uri": "JK_000129_005336"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

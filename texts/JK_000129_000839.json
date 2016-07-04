@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000839",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.227",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأفداغ</h1> بالغين المعجمة ماء عليه نخل في جبل قطن شرقي الحاجر ",
+                "title": "الأفداغ",
+                "uri": "JK_000129_000839"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

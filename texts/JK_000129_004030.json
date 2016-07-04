@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004030",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.267",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حضارم</h1> جمع حضرمة وهو اللحن في الكلام وهو اسم بلد بحضرموت ",
+                "title": "حضارم",
+                "uri": "JK_000129_004030"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

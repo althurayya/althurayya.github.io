@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000104",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.67",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبرق الحزن</h1> بفتح الحاء المهملة وسكون الزاي والنون قال هل تونسان بأبرق الحزن فالأنعمين بواكر الظعن ",
+                "title": "أبرق الحزن",
+                "uri": "JK_000129_000104"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

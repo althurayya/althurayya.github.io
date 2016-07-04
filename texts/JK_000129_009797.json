@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009797",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.268",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فعن</h1> من حصون بني زبيد باليمن ",
+                "title": "فعن",
+                "uri": "JK_000129_009797"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

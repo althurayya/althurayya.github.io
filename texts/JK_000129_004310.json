@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004310",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.318",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حور</h1> بالتحريك وقد مر تفسيره وهو ماء بالبادية قال عدي بن الرقاع بشبيكة الحور التي غربيها فقدت رسوم حياضها ورادها ",
+                "title": "حور",
+                "uri": "JK_000129_004310"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

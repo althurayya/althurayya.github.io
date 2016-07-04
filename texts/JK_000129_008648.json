@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008648",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.77",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عبدان</h1> بفتح أوله وسكون ثانيه ثم دال مهملة وآخره نون فعلان من العبودية نهر عبدان بالبصرة في جانب الفرات ينسب إلى رجل من أهل البحرين ",
+                "title": "عبدان",
+                "uri": "JK_000129_008648"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

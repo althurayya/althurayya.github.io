@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.49123,
+                    33.12189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.12189",
+                    "coord_lon": "35.49123",
+                    "cornu_URI": "QADAS_354E331N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قدس",
+                    "toponym_arabic_other": "قدس",
+                    "toponym_buckwalter": "Qadas",
+                    "toponym_search": "Qadas",
+                    "toponym_translit": "Qadas",
+                    "toponym_translit_other": "Qadas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

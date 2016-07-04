@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009940",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.286",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فيوازجان</h1> بالفتح ثم السكون وبعد الألف زاي ثم جيم وآخره نون موضع أو قرية بفارس ",
+                "title": "فيوازجان",
+                "uri": "JK_000129_009940"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

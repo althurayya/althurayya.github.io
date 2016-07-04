@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003988",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.262",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حشان</h1> بكسر أوله وتشديد ثانيه وآخره نون جمع حش وهو البستان مثل ضيف وضيفان وهو أطم وآطام اليهود بالمدينة على يمين الطريق إلى قبور الشهداء ",
+                "title": "حشان",
+                "uri": "JK_000129_003988"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

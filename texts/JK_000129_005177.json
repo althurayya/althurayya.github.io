@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005177",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.454",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دزاه</h1> من مشاهير قرى الري كالمدينة كبرا وهما دزاه قصران ودزاه ورامين ",
+                "title": "دزاه",
+                "uri": "JK_000129_005177"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

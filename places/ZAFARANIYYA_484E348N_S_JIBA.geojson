@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.42279,
+                    34.83858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.83858",
+                    "coord_lon": "48.42279",
+                    "cornu_URI": "ZAFARANIYYA_484E348N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "زعفرنية",
+                    "toponym_arabic_other": "زعفرنية",
+                    "toponym_buckwalter": "Zafaraniyya",
+                    "toponym_search": "Zafaraniyya",
+                    "toponym_translit": "Zaʿfaraniyyaŧ",
+                    "toponym_translit_other": "Zaʿfaraniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

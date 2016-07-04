@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.93385,
+                    33.24359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.24359",
+                    "coord_lon": "55.93385",
+                    "cornu_URI": "RIBATABSHUTURAN_559E332N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "رباط آب شتران",
+                    "toponym_arabic_other": "رباط آب شتران، خان أشتران",
+                    "toponym_buckwalter": "Ribat Ab Shuturan, Khan Ushturan",
+                    "toponym_search": "Ribat Ab Shuturan, Khan Ushturan",
+                    "toponym_translit": "Ribāṭ Āb Šuturān",
+                    "toponym_translit_other": "Ribāṭ Āb Šuturān, Ḫān Ušturān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

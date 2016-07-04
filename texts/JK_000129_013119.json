@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013119",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.340",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وابكنة</h1> بفتح الباء الموحدة وسكون الكاف وفتح النون قرية بينها وبين بخارى ثلاثة فراسخ ",
+                "title": "وابكنة",
+                "uri": "JK_000129_013119"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

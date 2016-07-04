@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006845",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.234",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السلامية</h1> بفتح أوله منسوبة ماء إلى جنب الثلماء لبني حزن بن وهب بن أعيا بن طريف من أسد قال أبو عبيد السكوني السلامية ماء لجديلة بأجإ ",
+                "title": "السلامية",
+                "uri": "JK_000129_006845"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

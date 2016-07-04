@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008576",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.64",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عابدين</h1> موضع بثور وقيل هو واد وأنشد شبت بأعلى عابدين من إضم كذا رواه ابن القطاع ورويناه عن غيره بالنون والنون أصح وأكثر ",
+                "title": "عابدين",
+                "uri": "JK_000129_008576"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

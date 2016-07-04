@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005179",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.454",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دزبز</h1> اسم قلعة مدينة سابور خواست دزبز ومنها أخذ فخر الملك أبو غالب أموال بدر بن حسنويه المشهورة ",
+                "title": "دزبز",
+                "uri": "JK_000129_005179"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

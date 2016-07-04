@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.9091,
+                    28.4383
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.43830",
+                    "coord_lon": "57.90910",
+                    "cornu_URI": "NAHRHARIRUDH_579E284N_W_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر هريروذ",
+                    "toponym_arabic_other": "نهر هريروذ",
+                    "toponym_buckwalter": "Nahr Harirudh",
+                    "toponym_search": "Nahr Harirudh",
+                    "toponym_translit": "Nahr Harīrūḏ",
+                    "toponym_translit_other": "Nahr Harīrūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

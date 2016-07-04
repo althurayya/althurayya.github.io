@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009019",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.138",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عقوقس</h1> بفتح أوله وثانيه وسكون الواو وقاف أخرى وسين مهملة ويروى عقرقس بدل الواو راء ولا أدري ما هما اسم موضع ذكره العمراني في كتابه ",
+                "title": "عقوقس",
+                "uri": "JK_000129_009019"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

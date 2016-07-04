@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006961",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.255",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سمويل</h1> بفتح أوله وسكون ثانيه وكسر الواو ثم ياء مثناة من تحت وآخره لام موضع كثير الطير وقال أبو منصور سمويل اسم طائر ",
+                "title": "سمويل",
+                "uri": "JK_000129_006961"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

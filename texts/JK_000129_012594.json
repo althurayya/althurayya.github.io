@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012594",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.250-251",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زقاق النار</h1> بمكة ذكرت في الزقاق والحرار وذو النار قرية بالبحرين لبني محارب بن |جـ 5 صـ 251| عبد القيس ",
+                "title": "زقاق النار",
+                "uri": "JK_000129_012594"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

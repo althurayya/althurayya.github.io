@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010463",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.389",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قلشانة</h1> بالفتح ثم السكون وشين معجمة وبعد الألف نون مدينة بإفريقية أو ما يقاربها ",
+                "title": "قلشانة",
+                "uri": "JK_000129_010463"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010804",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.442",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الكديدة</h1> من مياه أبي بكر بن كلاب عن أبي زياد ماءة قديمة عادية جاهلية ",
+                "title": "الكديدة",
+                "uri": "JK_000129_010804"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

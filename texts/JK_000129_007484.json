@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007484",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.338",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شرملة</h1> بفتح الشين وسكون الراء وفتح الميم واللام قرية من أعمال شرقي الموصل من نواحي قلعة الشوش ومنها يكون حب الرمان الشوشي ",
+                "title": "شرملة",
+                "uri": "JK_000129_007484"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

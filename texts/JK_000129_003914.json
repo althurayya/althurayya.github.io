@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003914",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حزم الأنعمين</h1> قد ذكر الأنعمان في موضعه قال المرار بن سعيد أنشده أبو منصور بحزم الأنعمين لهن حاد معر ساقه غرد بسول ",
+                "title": "حزم الأنعمين",
+                "uri": "JK_000129_003914"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

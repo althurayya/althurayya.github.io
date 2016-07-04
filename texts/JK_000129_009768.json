@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009768",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.260",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فرين</h1> بكسر أوله وثانيه وسكون ثالثه وآخره نون موضع في شعر ابن مناذر ",
+                "title": "فرين",
+                "uri": "JK_000129_009768"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

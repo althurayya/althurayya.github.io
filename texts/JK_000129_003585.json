@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003585",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.200",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جيشان</h1> خطة بمصر بالفسطاط وقال القضاعي هم جيشان بن خيران بن وائل بن رعين من حمير وهذه الخطة اليوم خراب ",
+                "title": "جيشان",
+                "uri": "JK_000129_003585"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

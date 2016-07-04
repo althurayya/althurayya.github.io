@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.81984,
+                    29.17945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.17945",
+                    "coord_lon": "56.81984",
+                    "cornu_URI": "JIBALMADINFIDDA_568E291N_O_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبال معدن ﭐلفضة",
+                    "toponym_arabic_other": "جبال معدن ﭐلفضة",
+                    "toponym_buckwalter": "Jibal Madin al-Fidda",
+                    "toponym_search": "Jibal Madin al-Fidda",
+                    "toponym_translit": "Ǧibāl Maʿdin al-Fiḍḍaŧ",
+                    "toponym_translit_other": "Ǧibāl Maʿdin al-Fiḍḍaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

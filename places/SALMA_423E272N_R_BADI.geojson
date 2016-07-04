@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.35028,
+                    27.2436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.24360",
+                    "coord_lon": "42.35028",
+                    "cornu_URI": "SALMA_423E272N_R_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "سلما",
+                    "toponym_arabic_other": "سلما",
+                    "toponym_buckwalter": "Salma",
+                    "toponym_search": "Salma",
+                    "toponym_translit": "Salmā",
+                    "toponym_translit_other": "Salmā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

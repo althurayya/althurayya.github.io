@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.7309,
+                    34.30394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.30394",
+                    "coord_lon": "56.73090",
+                    "cornu_URI": "DARZINAK_567E343N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "درزينك",
+                    "toponym_arabic_other": "درزينك",
+                    "toponym_buckwalter": "Darzinak",
+                    "toponym_search": "Darzinak",
+                    "toponym_translit": "Darzīnak",
+                    "toponym_translit_other": "Darzīnak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

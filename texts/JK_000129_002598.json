@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002598",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.35",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تفرنو</h1> بفتحتين وسكون الراء وضم النون بلد بالمغرب بين برقة والمحمدية ",
+                "title": "تفرنو",
+                "uri": "JK_000129_002598"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008401",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.35",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الطفاف</h1> ماء قال الأفوه الأودي جلبنا الخيل من غيدان حتى وقفناهن أيمن من صناف وبالغرفي والعرجاء يوما وأياما على ماء الطفاف ",
+                "title": "الطفاف",
+                "uri": "JK_000129_008401"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

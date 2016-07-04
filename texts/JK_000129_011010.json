@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011010",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.476",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كلبة</h1> بالفتح ثم السكون وباء موحدة بلفظ اسم أنثى الكلب إرم الكلبة ذكر في إرم و كلبة موضع من نواحي عمان على ساحل البحر ",
+                "title": "كلبة",
+                "uri": "JK_000129_011010"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

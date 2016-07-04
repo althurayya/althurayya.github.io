@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000964",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.249",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأمالح</h1> جمع أملح وهو كل شيء فيه سواد وبياض كالأبلق من الخيل والغنم وغير ذلك ومنه ضحى النبي صلى الله عليه وسلم بكبشين أملحين موضع ",
+                "title": "الأمالح",
+                "uri": "JK_000129_000964"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

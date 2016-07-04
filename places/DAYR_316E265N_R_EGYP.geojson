@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.60625,
+                    26.5449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.54490",
+                    "coord_lon": "31.60625",
+                    "cornu_URI": "DAYR_316E265N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "ﭐلدير",
+                    "toponym_arabic_other": "ﭐلدير، دير بو شنودة",
+                    "toponym_buckwalter": "al-Dayr, Dayr Bu Shanuda",
+                    "toponym_search": "al-Dayr, Dayr Bu Shanuda",
+                    "toponym_translit": "al-Dayr",
+                    "toponym_translit_other": "al-Dayr, Dayr Bū Šanūdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

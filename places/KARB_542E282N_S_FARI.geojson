@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.21531,
+                    28.26649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.26649",
+                    "coord_lon": "54.21531",
+                    "cornu_URI": "KARB_542E282N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كرب",
+                    "toponym_arabic_other": "كرب",
+                    "toponym_buckwalter": "Karb",
+                    "toponym_search": "Karb",
+                    "toponym_translit": "Karb",
+                    "toponym_translit_other": "Karb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

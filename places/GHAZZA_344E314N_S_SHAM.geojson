@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.45664,
+                    31.49664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.49664",
+                    "coord_lon": "34.45664",
+                    "cornu_URI": "GHAZZA_344E314N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غزة",
+                    "toponym_arabic_other": "غزة",
+                    "toponym_buckwalter": "Ghazza",
+                    "toponym_search": "Ghazza",
+                    "toponym_translit": "Ġazzaŧ",
+                    "toponym_translit_other": "Ġazzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

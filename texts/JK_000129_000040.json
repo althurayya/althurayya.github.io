@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000040",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.55",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>آلات</h1> كأنه جمع آلة موضع وقيل بلد وقيل بلدان هذا كله عن نصر ",
+                "title": "آلات",
+                "uri": "JK_000129_000040"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

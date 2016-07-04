@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.80444,
+                    38.00689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.00689",
+                    "coord_lon": "-7.80444",
+                    "cornu_URI": "BAJA_078W380N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "باجة",
+                    "toponym_arabic_other": "باجة",
+                    "toponym_buckwalter": "Baja",
+                    "toponym_search": "Baja",
+                    "toponym_translit": "Bāǧaŧ",
+                    "toponym_translit_other": "Bāǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

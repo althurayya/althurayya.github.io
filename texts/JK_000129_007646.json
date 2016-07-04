@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007646",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.358",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شلجيكث</h1> بفتح أوله وسكون ثانيه ثم جيم مكسورة وياء مثناة من تحت وكاف مفتوحة وثاء مثلثة بلد من نواحي طراز من حدود تركستان على سيحون ",
+                "title": "شلجيكث",
+                "uri": "JK_000129_007646"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

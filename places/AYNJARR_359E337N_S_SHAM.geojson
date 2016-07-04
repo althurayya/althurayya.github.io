@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.90422,
+                    33.7273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.72730",
+                    "coord_lon": "35.90422",
+                    "cornu_URI": "AYNJARR_359E337N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "عين ﭐلجر",
+                    "toponym_arabic_other": "عين ﭐلجر",
+                    "toponym_buckwalter": "Ayn al-Jarr",
+                    "toponym_search": "Ayn al-Jarr",
+                    "toponym_translit": "ʿAyn al-Ǧarr",
+                    "toponym_translit_other": "ʿAyn al-Ǧarr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

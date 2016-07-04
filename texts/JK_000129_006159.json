@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006159",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.126",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زاغرسوسن</h1> بعد الألف غين معجمة وراء ساكنة وسين مفتوحة وبعد الواو سين أخرى وآخره نون من قرى نسف أو سمرقند ",
+                "title": "زاغرسوسن",
+                "uri": "JK_000129_006159"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

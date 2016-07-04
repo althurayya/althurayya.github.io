@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010319",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.361",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر عسل</h1> بكسر العين والسكون وآخره لام يقال رجل عسل مال كما يقال إزاء مال معناه أنه يسوسه وهو قصر بالبصرة وقد ذكر في عسل ",
+                "title": "قصر عسل",
+                "uri": "JK_000129_010319"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

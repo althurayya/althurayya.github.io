@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006710",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.217",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سروستان</h1> بكسر الواو بلد من بلاد فارس يشتمل على قرى وبساتين ومزارع بين شيراز وفسا ",
+                "title": "سروستان",
+                "uri": "JK_000129_006710"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013767",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.451-452",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ينكوب</h1> موضع |جـ 5 صـ 452| ",
+                "title": "ينكوب",
+                "uri": "JK_000129_013767"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

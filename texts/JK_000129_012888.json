@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012888",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.300",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نقمى</h1> بالضم ثم السكون والقصر أيضا واد ذكره والذي قبله معا أبو الحسن الخوارزمي ",
+                "title": "نقمى",
+                "uri": "JK_000129_012888"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

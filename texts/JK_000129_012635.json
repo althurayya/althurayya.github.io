@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012635",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.254-255",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ناينج</h1> بعد الألف ياء مفتوحة ونونه ساكنة وجيم بليدة بنواحي أصبهان على طرف البرية |جـ 5 صـ 255| بينها وبين أصبهان ثلاثون فرسخا ",
+                "title": "ناينج",
+                "uri": "JK_000129_012635"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

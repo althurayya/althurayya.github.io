@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012003",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.133",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المشرق</h1> بالفتح ثم السكون وكسر الراء وآخره قاف بلفظ ضد المغرب جبل من جبال الأعراف بين الصريف والقصيم من أرض ضبة وجبل آخر هناك ",
+                "title": "المشرق",
+                "uri": "JK_000129_012003"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

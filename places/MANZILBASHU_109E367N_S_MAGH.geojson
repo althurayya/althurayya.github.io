@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.94269,
+                    36.72745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.72745",
+                    "coord_lon": "10.94269",
+                    "cornu_URI": "MANZILBASHU_109E367N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "منزل باشو",
+                    "toponym_arabic_other": "منزل باشو",
+                    "toponym_buckwalter": "Manzil Bashu",
+                    "toponym_search": "Manzil Bashu",
+                    "toponym_translit": "Manzil Bāšū",
+                    "toponym_translit_other": "Manzil Bāšū"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

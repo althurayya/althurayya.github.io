@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.84071,
+                    39.03102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.03102",
+                    "coord_lon": "66.84071",
+                    "cornu_URI": "KISHSH_668E390N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "كش",
+                    "toponym_arabic_other": "كش، كش",
+                    "toponym_buckwalter": "Kishsh, Kashsh",
+                    "toponym_search": "Kishsh, Kashsh",
+                    "toponym_translit": "Kišš",
+                    "toponym_translit_other": "Kišš, Kašš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

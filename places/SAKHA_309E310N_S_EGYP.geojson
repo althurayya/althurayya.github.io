@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.92519,
+                    31.08645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.08645",
+                    "coord_lon": "30.92519",
+                    "cornu_URI": "SAKHA_309E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صخا",
+                    "toponym_arabic_other": "صخا",
+                    "toponym_buckwalter": "Sakha",
+                    "toponym_search": "Sakha",
+                    "toponym_translit": "Ṣaḫā",
+                    "toponym_translit_other": "Ṣaḫā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

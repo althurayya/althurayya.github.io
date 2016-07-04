@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009223",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.170-171",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عوي</h1> بلفظ تصغير عاء موضع عن ابن دريد والله الموفق للصواب |جـ 4 صـ 171| ",
+                "title": "عوي",
+                "uri": "JK_000129_009223"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

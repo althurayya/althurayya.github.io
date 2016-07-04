@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.65738,
+                    29.64265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.64265",
+                    "coord_lon": "67.65738",
+                    "cornu_URI": "BALISH_676E296N_R_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بالش",
+                    "toponym_arabic_other": "بالش، بالس، والش، والشتان",
+                    "toponym_buckwalter": "Balish, Balis, Walish, Walishtan",
+                    "toponym_search": "Balish, Balis, Walish, Walishtan",
+                    "toponym_translit": "Bāliš",
+                    "toponym_translit_other": "Bāliš, Bālis, Wāliš, Wālištān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

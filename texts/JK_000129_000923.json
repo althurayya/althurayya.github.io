@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000923",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.242",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أكيم</h1> بفتح أوله وكسر ثانيه اسم جبل في شعر طرفة وتطلبته فيه فلم أجده ",
+                "title": "أكيم",
+                "uri": "JK_000129_000923"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.97656,
+                    31.84394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.84394",
+                    "coord_lon": "34.97656",
+                    "cornu_URI": "AMAWAS_349E318N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "عمواس",
+                    "toponym_arabic_other": "عمواس",
+                    "toponym_buckwalter": "Amawas",
+                    "toponym_search": "Amawas",
+                    "toponym_translit": "ʿAmawās",
+                    "toponym_translit_other": "ʿAmawās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

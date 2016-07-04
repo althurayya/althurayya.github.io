@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009175",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.164",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عوار</h1> هو ابن عوار جبل عن نصر ",
+                "title": "عوار",
+                "uri": "JK_000129_009175"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

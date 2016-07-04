@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003868",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.246-247",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حرة شرج</h1> بفتح الشين وسكون الراء وجيم ذكر في موضعه قال ابن مقبل زارتك من دونها شرج وحرته وما تجشمت من دان ولا أون |جـ 2 صـ 247| ",
+                "title": "حرة شرج",
+                "uri": "JK_000129_003868"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

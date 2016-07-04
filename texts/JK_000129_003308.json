@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003308",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.153",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جلصورى</h1> بالفتح وتشديد اللام وفتحها وفتح الصاد المهملة وسكون الواو وفتح الراء والقصر اسم قلعة في جبال الهكارية بأرض الموصل ",
+                "title": "جلصورى",
+                "uri": "JK_000129_003308"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

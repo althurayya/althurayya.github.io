@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001206",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.292",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إيلان</h1> آخره نون موضع قرب مراكش بالمغرب من بلاد البربر ذكر في حروب عبد المومن ابن علي ",
+                "title": "إيلان",
+                "uri": "JK_000129_001206"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

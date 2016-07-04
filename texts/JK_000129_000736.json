@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000736",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.203",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأشيم</h1> واحد الذي قبله وياؤه مفتوحة وهو في الأصل الشيء الذي به شامة وهو موضع غير الذي قبله والله أعلم ",
+                "title": "الأشيم",
+                "uri": "JK_000129_000736"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

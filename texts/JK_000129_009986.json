@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009986",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.301",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قان</h1> موضع بثغور أرمينية ",
+                "title": "قان",
+                "uri": "JK_000129_009986"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

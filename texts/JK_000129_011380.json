@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011380",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.28",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>اللهيماء</h1> موضع بنعمان الأراك بين الطائف ومكة وقيل هي الهيماء سميت برجل قتل بها يقال له الهيما ",
+                "title": "اللهيماء",
+                "uri": "JK_000129_011380"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

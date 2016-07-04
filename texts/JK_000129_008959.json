@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008959",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.129",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عضدان</h1> قلعة من قلاع صنعاء عن يسار من قصد صنعاء من تهامة ",
+                "title": "عضدان",
+                "uri": "JK_000129_008959"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

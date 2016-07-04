@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008131",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.435",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الصوير</h1> بالضم ثم الفتح والياء ساكنة بلفظ تصغير الصور ذو الصرير من عقيق المدينة وفيه يقول العقيلي ظرابي منتفة لحاها تسافد في أثائب ذي صوير ",
+                "title": "الصوير",
+                "uri": "JK_000129_008131"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

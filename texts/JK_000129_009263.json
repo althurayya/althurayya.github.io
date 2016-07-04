@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009263",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.177",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عين الجر</h1> موضع معروف بالبقاع بين بعلبك ودمشق يقولون إن نوحا عليه السلام منه ركب في السفنية ",
+                "title": "عين الجر",
+                "uri": "JK_000129_009263"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

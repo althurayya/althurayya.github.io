@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007357",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شبراذق</h1> بفتح أوله وسكون ثانيه ثم راء وبعد الألف ذال معجمة ثم قاف قال الأديبي موضع ",
+                "title": "شبراذق",
+                "uri": "JK_000129_007357"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

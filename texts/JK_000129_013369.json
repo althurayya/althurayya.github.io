@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013369",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.380",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوقباء</h1> بالفتح ثم السكون وباء موحدة والمد كذا جاء به العمراني ولعله غير الذي يأتي بعده والوقب كل قلت أو حفرة في فهر كوقب الدهن والثريد ",
+                "title": "الوقباء",
+                "uri": "JK_000129_013369"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

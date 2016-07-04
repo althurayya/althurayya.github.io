@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011804",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.101",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مرج راهط</h1> بنواحي دمشق وهو أشهر المروج في الشعر فإذا قالوه مفردا فإياه يعنون وقد ذكر في راهط ",
+                "title": "مرج راهط",
+                "uri": "JK_000129_011804"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

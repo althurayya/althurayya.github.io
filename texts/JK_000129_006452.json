@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006452",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.170",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ساروان</h1> بعد الألف راء ثم واو وآخره نون موضع ",
+                "title": "ساروان",
+                "uri": "JK_000129_006452"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

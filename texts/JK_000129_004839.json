@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004839",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.400-401",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خورم</h1> هكذا هو في كتاب نصر فقال ينبغي أن يكون موضعا ذكره في كتاب محارب بن خصفة |جـ 2 صـ 401| ",
+                "title": "خورم",
+                "uri": "JK_000129_004839"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

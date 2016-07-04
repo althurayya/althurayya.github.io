@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007324",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.313",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشام</h1> موضع في بلاد مراد قال قيس بن مكشوح وأعمامي فوارس يوم لحج ومرجح إن شكوت ويوم شام ",
+                "title": "الشام",
+                "uri": "JK_000129_007324"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

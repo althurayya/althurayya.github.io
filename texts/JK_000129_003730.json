@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003730",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.225-226",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حجة</h1> بالفتح ثم التشديد جبل باليمن فيه مدينة مسماة به |جـ 2 صـ 226| ",
+                "title": "حجة",
+                "uri": "JK_000129_003730"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

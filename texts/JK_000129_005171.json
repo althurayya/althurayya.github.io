@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005171",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.453",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دره</h1> بلد بين هراة وسجستان وهي آخر عمل هراة ومن هراة إلى أسفزار ثلاث مراحل ومن أسفزار إلى دره مرحلتان ومن دره إلى سجستان سبعة أيام ",
+                "title": "دره",
+                "uri": "JK_000129_005171"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

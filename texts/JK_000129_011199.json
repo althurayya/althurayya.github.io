@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011199",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.4",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>لابة</h1> موضع بعينه قال عامر بن الطفيل ونحن جلبنا الخيل من بطن لابة فجئن يبارين الأعنة سهما ",
+                "title": "لابة",
+                "uri": "JK_000129_011199"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010661",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.420",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قيذوق</h1> بالفتح ثم السكون وذال معجمة وواو ساكنة وقاف موضع ذكره أبو تمام ",
+                "title": "قيذوق",
+                "uri": "JK_000129_010661"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

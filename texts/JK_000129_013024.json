@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013024",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر حبيب</h1> نسب إلى حبيب بن شهاب الشامي قطيعة من عثمان وقيل من زياد ",
+                "title": "نهر حبيب",
+                "uri": "JK_000129_013024"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

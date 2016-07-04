@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.65206,
+                    34.12764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.12764",
+                    "coord_lon": "35.65206",
+                    "cornu_URI": "JUBAYL_356E341N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جبيل",
+                    "toponym_arabic_other": "جبيل",
+                    "toponym_buckwalter": "Jubayl",
+                    "toponym_search": "Jubayl",
+                    "toponym_translit": "Ǧubayl",
+                    "toponym_translit_other": "Ǧubayl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

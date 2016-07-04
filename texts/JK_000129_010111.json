@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010111",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قربيط</h1> بضم القاف وسكون الراء وفتح الباء الموحدة وياء ساكنة وطاء مهملة من كور أسفل الأرض بمصر ",
+                "title": "قربيط",
+                "uri": "JK_000129_010111"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

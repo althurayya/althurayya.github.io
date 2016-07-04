@@ -1,0 +1,2777 @@
+Lon	Lat	Region	TypeCatOld	KW_Simple	KW_Working	Name	Map
+-5.43793	36.16359	Andalus	regions	district	district	Ǧazīraŧ al-Ḫaḍrāʾ	cornu14
+-5.33071	36.16752	Andalus	towns	cite	cite	Ǧazīraŧ Ǧabal Ṭāriq	cornu14
+-5.91433	36.46640	Andalus	regions	district	district	Šaḏūnaŧ/Šadūnaŧ	cornu14
+-5.91433	36.46640	Andalus	towns	cite	cite	Šaḏūnaŧ/Šadūnaŧ	cornu14
+-6.18409	36.57191	Andalus	regions	ile	ile	Qādis	cornu14
+-6.10856	36.69169	Andalus	towns	cite	cite	Šarīš	cornu14
+-4.43066	36.74791	Andalus	regions	district	district	Māliqaŧ	cornu14
+-4.43066	36.74791	Andalus	towns	cite	cite	Māliqaŧ	cornu14
+-2.50099	36.86202	Andalus	towns	cite	cite	al-Mariyyaŧ	cornu14
+-2.41826	36.95657	Andalus	regions	district	district	Baǧǧānaŧ	cornu14
+-2.41826	36.95657	Andalus	towns	cite	cite	Baǧǧānaŧ	cornu14
+-4.40368	36.98351	Andalus	regions	district	district	Rayyaŧ/Rayyuh	cornu14
+-7.90515	37.06463	Andalus	towns	cite	cite?	Ḫušunubaŧ/Uḫšunubaŧ	cornu14
+-7.90515	37.06463	Andalus	regions	district	district	Ḫušunubaŧ/Uḫšunubaŧ	cornu14
+-4.42886	37.08687	Andalus	towns	cite	cite	Arǧidūnaŧ	cornu14
+-5.48272	37.14029	Andalus	towns	cite	cite	Mawrūr	cornu14
+-3.59980	37.20621	Andalus	towns	cite	cite	Ġarnāṭaŧ	cornu14
+-8.42308	37.22519	Andalus	towns	cite	cite	Madīnaŧ Šalab/Šilb	cornu14
+-3.66814	37.22734	Andalus	regions	district	district	Libīraŧ/Ilbīraŧ	cornu14
+-3.66814	37.22734	Andalus	towns	cite	cite	Libīraŧ/Ilbīraŧ	cornu14
+-7.21996	37.23807	Andalus	towns	cite	cite	Lab	cornu14
+1.71713	37.28888	Andalus	waters	mer	mer	Baḥr al-Rūm	cornu14
+-3.16459	37.33966	Andalus	towns	cite	cite	Wādiyāš	cornu14
+-6.66965	37.38969	Andalus	towns	cite	cite	Lablaŧ	cornu14
+-5.96199	37.40790	Andalus	regions	district	district	Išbīliyyaŧ	cornu14
+-5.96199	37.40790	Andalus	towns	cite	cite	Išbīliyyaŧ	cornu14
+-6.99696	37.41112	Andalus	towns	cite	cite	Ǧabal al-ʿUyūn	cornu14
+-5.64097	37.42933	Andalus	towns	cite	cite	Qarmūnaŧ	cornu14
+-4.20406	37.45788	Andalus	towns	cite	cite	Bayġū	cornu14
+-5.10865	37.53493	Andalus	towns	cite	cite	Istiǧaŧ	cornu14
+-0.98315	37.60050	Andalus	villages	localite	localite	Qarṭāǧannaŧ	cornu14
+-1.73128	37.65320	Andalus	towns	cite	cite	Lurqaŧ	cornu14
+-3.98826	37.74285	Andalus	towns	cite	cite	Mārtūš	cornu14
+-5.11225	37.75423	Andalus	waters	riviere	riviere	Nahr Qurṭūbaŧ	cornu14
+-3.80302	37.78977	Andalus	towns	cite	cite	Ǧayyān	cornu14
+-4.22025	37.87073	Andalus	towns	cite	cite	Ḥiṣn Bulkūnaŧ	cornu14
+-3.34803	37.87641	Andalus	towns	cite	cite	Šawḏar	cornu14
+-4.78135	37.91898	Andalus	metropoles	metropole	metropole	Qurṭūbaŧ	cornu14
+-4.05300	37.92040	Andalus	towns	cite	cite	Arǧūnaŧ	cornu14
+-5.58702	37.95728	Andalus	villages	region	region	Firrīš/Qarsīs	cornu14
+-1.34462	37.95834	Andalus	regions	region	region	Tudmīr	cornu14
+-4.85328	37.96011	Andalus	towns	cite	cite	al-Zahrāʾ	cornu14
+-3.87676	37.98847	Andalus	towns	cite	cite	Qasṭallaŧ	cornu14
+-1.11443	37.99945	Andalus	towns	cite	cite	Mursiyaŧ	cornu14
+-3.45773	37.99980	Andalus	towns	cite	cite	Bayyāsaŧ	cornu14
+-7.80444	38.00689	Andalus	regions	district	district	Bāǧaŧ	cornu14
+-7.80444	38.00689	Andalus	towns	cite	cite	Bāǧaŧ	cornu14
+-0.47061	38.34618	Andalus	towns	cite	cite	Qānt	cornu14
+-8.48333	38.36698	Andalus	towns	cite	cite	Qaṣr Banū Wardās	cornu14
+-4.89554	38.63018	Andalus	regions	district	district	Faḥṣ al-Ballūṭ	cornu14
+-9.19189	38.64984	Andalus	towns	cite	cite	al-Maʿdan	cornu14
+-5.01064	38.68214	Andalus	towns	cite	cite	Ġāfiq	cornu14
+-9.14514	38.76878	Andalus	towns	cite	cite	Lišbūnaŧ	cornu14
+-7.22985	38.77894	Andalus	towns	cite	cite	Ǧalmāniyaŧ	cornu14
+-3.78324	38.80312	Andalus	towns	cite	cite	Qalʿaŧ Rabāh/Qalʿaŧ Ribāṭ	cornu14
+-9.37353	38.80838	Andalus	villages	localite	localite	Šantaraŧ	cornu14
+-4.06918	38.81784	Andalus	towns	cite	cite	Karkūyaŧ	cornu14
+-6.99606	38.83500	Andalus	regions	region	region	Baṭalyūs/Baṭalyūṯ	cornu14
+-6.99606	38.83500	Andalus	towns	cite	cite	Baṭalyūs/Baṭalyūṯ	cornu14
+-7.17410	38.87561	Andalus	towns	cite	cite	al-Baš/Albas	cornu14
+-6.32886	38.89521	Andalus	towns	cite	cite	Māridaŧ	cornu14
+-5.94131	38.93229	Andalus	towns	cite	cite	Madallīn	cornu14
+1.41141	38.94978	Andalus	regions	ile	ile	Yābisaŧ	cornu14
+-0.52276	38.96551	Andalus	towns	cite	cite	Šātibaŧ	cornu14
+-7.87188	39.02806	Andalus	towns	cite	cite	Bīzaŧ	cornu14
+-0.43734	39.16483	Andalus	villages	localite	localite	al-Šaqr	cornu14
+-3.91362	39.17390	Andalus	towns	cite	cite	Malaqūn	cornu14
+-8.71712	39.22337	Andalus	towns	cite	cite	Šantarīn	cornu14
+-0.41486	39.43516	Andalus	regions	district	district	Balansiyyaŧ	cornu14
+-0.41486	39.43516	Andalus	towns	cite	cite	Balansiyyaŧ	cornu14
+-6.39540	39.46953	Andalus	towns	cite	cite	Qaṣarāš	cornu14
+-5.93861	39.48654	Andalus	towns	cite	cite	Taraǧīlaŧ	cornu14
+-8.03553	39.52990	Andalus	waters	fleuve	fleuve	Wādī Tāǧū	cornu14
+-3.91003	39.63212	Andalus	towns	cite	cite	Abnaš	cornu14
+-6.84140	39.69061	Andalus	towns	cite	cite	Qanṭaraŧ al-Sīf	cornu14
+-6.06629	39.80641	Andalus	towns	cite	cite	Maḫāḍaŧ al-Balāṭ ?	cornu14
+-3.62588	39.81332	Andalus	towns	cite	cite	Mantīšaŧ	cornu14
+-4.05210	39.88926	Andalus	regions	district	district	Ṭulayṭilaŧ	cornu14
+-4.05210	39.88926	Andalus	towns	cite	cite	Ṭulayṭilaŧ	cornu14
+-6.55006	39.96270	Andalus	towns	cite	cite	Quriyaŧ	cornu14
+-3.94240	39.97062	Andalus	villages	village	village	Muġān	cornu14
+-4.82541	39.97062	Andalus	towns	cite	cite	Ṭalābiraŧ ?	cornu14
+-6.87557	40.62317	Andalus	towns	cite	cite	al-Maʾidaŧ	cornu14
+-3.15111	40.64910	Andalus	towns	cite	cite?	Wādī al-Ḥijāraŧ	cornu14
+-3.15111	40.64910	Andalus	regions	district	district	Wādī al-Ḥijāraŧ	cornu14
+0.60933	40.79221	Andalus	towns	cite	cite	Ṭurṭūšaŧ	cornu14
+-2.41736	41.13714	Andalus	towns	cite	cite	Madīnaŧ Sālim	cornu14
+-5.76776	41.44051	Andalus	towns	cite	cite	Sammūraŧ	cornu14
+0.64889	41.60948	Andalus	sites	placefrontiere	placefrontiere	Lāridaŧ	cornu14
+-0.92920	41.63368	Andalus	regions	district	district	Saraqūsaŧ/Saraqūsṭaŧ	cornu14
+-0.92920	41.63368	Andalus	towns	cite	cite	Saraqūsaŧ/Saraqūsṭaŧ	cornu14
+-0.99933	41.78270	Andalus	waters	riviere	riviere	Nahr Abruh	cornu14
+0.57785	41.83632	Andalus	towns	cite	cite	al-Bayḍāʾ	cornu14
+2.84472	41.93607	Andalus	towns	cite	cite	Ǧirundaŧ	cornu14
+-1.62697	42.04634	Andalus	regions	district	district	Tuṭīlaŧ	cornu14
+-1.62697	42.04634	Andalus	towns	cite	cite	Tuṭīlaŧ	cornu14
+-0.35371	42.16109	Andalus	towns	cite	cite?	Wašqaŧ	cornu14
+-0.35371	42.16109	Andalus	regions	district	district	Wašqaŧ	cornu14
+-5.56634	42.61850	Andalus	towns	cite	cite	Liyūn	cornu14
+3.00118	43.18643	Andalus	towns	cite	cite	Arbūnaŧ	cornu14
+42.50069	33.98430	Aqur	waystations	etape	etape?	al-Ḫizānaŧ	cornu2
+42.41353	33.98559	Aqur	towns	cite	cite	Ālūs/Ālūsā	cornu2
+42.38707	34.10682	Aqur	towns	cite	cite	al-Ḥadīṯaŧ	cornu2
+42.18317	34.23688	Aqur	villages	localite	localite	al-Fuḥaymaŧ	cornu2
+41.15980	34.33397	Aqur	waystations	etape	etape	Dāziqī	cornu2
+41.55670	34.39307	Aqur	towns	cite	cite	al-Nihiyyaŧ	cornu2
+40.92477	34.42004	Aqur	waystations	etape	etape	Wādī al-Sibāʿ	cornu2
+41.95904	34.43481	Aqur	towns	cite	cite	ʿĀnaŧ	cornu2
+40.85162	34.54577	Aqur	waystations	etape	etape	Ḫalīǧ Banū Ǧumayʿ	cornu2
+40.78158	34.67900	Aqur	villages	localite	localite	al-Furḍaŧ	cornu2
+43.60422	34.69499	Aqur	waters	riviere	riviere	Nahr Diǧlaŧ	cornu2
+40.74111	34.71355	Aqur	towns	cite	cite	al-Dāliyaŧ	cornu2
+40.45161	34.81073	Aqur	waystations	etape	etape	al-Qamarṭī/al-Qamraṭī ?	cornu2
+40.56368	34.92311	Aqur	waystations	etape	etape	al-Fāš	cornu2
+40.09518	34.93204	Aqur	waystations	etape	etape	al-ʿAwāmil	cornu2
+40.45784	34.98817	Aqur	towns	cite	cite	Raḥbaŧ Malik Ibn Ṭawq	cornu2
+43.04545	35.00028	Aqur	waters	riviere	riviere	Nahr Ṯarṯār	cornu2
+39.76511	35.05726	Aqur	waystations	etape	etape	al-Qaṣabaŧ ?	cornu2
+40.43747	35.14620	Aqur	towns	cite	cite	Qarqīsiyyaŧ	cornu2
+40.58767	35.24207	Aqur	towns	cite	cite	Sukayr al-ʿAbbās	cornu2
+39.46613	35.32264	Aqur	waystations	etape	etape	al-Ġurayz ?/al-ʿUrayr	cornu2
+40.13133	35.32381	Aqur	waystations	etape	etape	Fam Nahr Saʿīd	cornu2
+41.13557	35.33548	Aqur	towns	cite	cite?	al-Munḫariq ?	cornu2
+40.59626	35.41480	Aqur	towns	cite	cite	al-Fudayn	cornu2
+40.65491	35.49287	Aqur	towns	cite	cite	al-Ṣuwwār	cornu2
+40.73502	35.50335	Aqur	waters	riviere	riviere	Nahr al-Ḫābūr	cornu2
+39.83950	35.58832	Aqur	villages	localite	localite	al-Mubārak	cornu2
+40.71642	35.62321	Aqur	towns	cite	cite	al-Ḥuṣayn	cornu2
+43.32428	35.62554	Aqur	waystations	etape	etape	al-Baqīʿaŧ ?	cornu2
+44.10965	35.64182	Aqur	waters	riviere	riviere	Zāb al-Ṣaġīr/Zāb al-Asfal	cornu2
+39.87384	35.65809	Aqur	villages	localite	localite	Bīrā	cornu2
+40.75934	35.74173	Aqur	towns	cite	cite	Mīkisīn/Maykisīn/Mākisīn	cornu2
+39.81661	35.75218	Aqur	towns	cite	cite	al-Ḫānūqaŧ	cornu2
+42.69628	35.79513	Aqur	towns	cite	cite	al-Ḥaḍr	cornu2
+38.41040	35.85660	Aqur	sites	lieu	lieu	Ṣiffīn ?	cornu2
+40.90954	35.86703	Aqur	towns	cite	cite	al-Šamsīniyyaŧ/al-Šamsāniyyaŧ	cornu2
+39.07703	35.94235	Aqur	quarter	faubourg	faubourg	al-Rāfiqaŧ	cornu2
+39.05128	35.94930	Aqur	capitals	capitale	capitale	al-Raqqaŧ	cornu2
+43.39249	36.02054	Aqur	towns	cite	cite	al-Ḥadīṯaŧ	cornu2
+40.69403	36.05814	Aqur	capitals	capitale	capitale	ʿArabān	cornu2
+39.09656	36.11754	Aqur	waters	riviere	riviere	Nahr al-Balīḫ	cornu2
+38.98556	36.13571	Aqur	towns	cite	cite	Bāǧarwān	cornu2
+43.26652	36.14235	Aqur	towns	cite	cite	Marǧ Ǧuhaynaŧ/Mar Ǧuhaynaŧ	cornu2
+40.76153	36.16114	Aqur	towns	cite	cite	Ṭābān/Ṭalabān	cornu2
+40.75853	36.19626	Aqur	villages	localite	localite	al-Maṭariyyaŧ	cornu2
+41.62102	36.23740	Aqur	towns	cite	cite	al-Ǧibāl/ʿAyn al-Ǧibāl	cornu2
+42.76550	36.25676	Aqur	villages	localite	localite	al-Maḥlabiyyaŧ	cornu2
+42.96650	36.27006	Aqur	waystations	etape	etape	al-Šaḥḥāǧiyyaŧ	cornu2
+41.89101	36.32446	Aqur	towns	cite	cite	Sinǧār	cornu2
+43.12700	36.32809	Aqur	capitals	capitale	capitale	al-Mawṣil	cornu2
+38.91206	36.34984	Aqur	waystations	etape	etape	ʿAyn al-Rūmiyyaŧ ?	cornu2
+43.17500	36.35104	Aqur	towns	cite	cite	Nīnawá/Nūnawā	cornu2
+42.49401	36.36312	Aqur	towns	cite	cite	Tall Aʿfar	cornu2
+43.87398	36.37520	Aqur	waters	riviere	riviere	Zāb al-Kabīr/Zāb al-Aʿlá	cornu2
+41.25352	36.38728	Aqur	waters	lac	lac	Buḥayraŧ Ḫātūniyyaŧ	cornu2
+39.07106	36.38728	Aqur	towns	cite	cite	Ḥiṣn Maslamaŧ	cornu2
+40.87703	36.38969	Aqur	towns	cite	cite	Tunānīr/Tunaynīr	cornu2
+43.36699	36.41022	Aqur	villages	bourgade	bourgade	Bāʿašīqā	cornu2
+42.75800	36.47417	Aqur	towns	cite	cite	Balad	cornu2
+40.55153	36.53446	Aqur	towns	cite	cite	al-Maǧdal	cornu2
+37.98957	36.54651	Aqur	towns	cite	cite	Manbiǧ	cornu2
+38.98256	36.56338	Aqur	regions	circonscription	circonscription	Diyār Muḍar	cornu2
+39.13855	36.61998	Aqur	towns	cite	cite	Tall Maḥrá/Tall Baḥrá ?	cornu2
+43.05500	36.63683	Aqur	villages	localite	localite	Mazāriʿī ?	cornu2
+41.99451	36.65368	Aqur	regions	circonscription	circonscription	Diyār Rabīʿaŧ	cornu2
+40.41354	36.65489	Aqur	towns	cite	cite	al-Ǧaḥšiyyaŧ	cornu2
+42.43701	36.66090	Aqur	towns	cite	cite	Bāʿaynāṯā ?	cornu2
+38.22057	36.67173	Aqur	towns	ville	ville	Ǧisr Manbiǧ	cornu2
+38.72906	36.69218	Aqur	waystations	etape	etape	Tall ʿAbdā ?	cornu2
+42.96350	36.81597	Aqur	towns	cite	cite	Maʿlaṯāyaŧ	cornu2
+40.06404	36.83758	Aqur	towns	cite	cite	Raʾs al-ʿAyn	cornu2
+39.08906	36.88438	Aqur	towns	cite	cite	Ḥarrān	cornu2
+42.07551	36.95274	Aqur	towns	cite	cite	Barqaʿīd	cornu2
+38.43806	36.97910	Aqur	regions	territoire	territoire	Sarūǧ	cornu2
+41.34352	36.98150	Aqur	villages	localite	localite	Tall Farāšaŧ	cornu2
+40.42704	36.98749	Aqur	towns	cite	cite	Kafartūṯā	cornu2
+41.72002	36.99109	Aqur	towns	cite	cite	Aḏramaŧ	cornu2
+42.43096	37.04735	Aqur	towns	cite	cite	Fayšābūr	cornu2
+41.22167	37.05514	Aqur	towns	cite	cite	Naṣībīn	cornu2
+42.80477	37.06628	Aqur	waters	riviere	riviere	Ḫābūr al-Ḥasaniyyaŧ	cornu2
+42.72248	37.11078	Aqur	towns	cite	cite	al-Ḥasaniyyaŧ	cornu2
+41.24817	37.13080	Aqur	waters	riviere	riviere	Nahr al-Hirmās	cornu2
+38.82122	37.14970	Aqur	towns	cite	cite	al-Ruhā	cornu2
+40.58146	37.16749	Aqur	villages	localite	localite	Dunaysīr	cornu2
+37.17675	37.17638	Aqur	towns	cite	cite	Dulūk	cornu2
+40.94689	37.18527	Aqur	towns	cite	cite	Dārā	cornu2
+39.76550	37.22748	Aqur	towns	cite	cite	Tall Mawzan	cornu2
+42.19943	37.28521	Aqur	regions	territoire	territoire	Ǧazīraŧ Ibn ʿUmar	cornu2
+38.52691	37.28854	Aqur	waystations	etape	etape	al-Muzāniyyaŧ ?	cornu2
+40.71117	37.30186	Aqur	towns	cite	cite	Mārdīn	cornu2
+42.64158	37.31295	Aqur	towns	cite	cite	Ṯamānīn	cornu2
+42.51884	37.36064	Aqur	sites	montagne	montagne	Ǧabal al-Ǧūdī	cornu2
+40.86321	37.40165	Aqur	regions	canton	canton	Ṯūr ʿAbdīn	cornu2
+40.32760	37.40829	Aqur	waystations	etape	etape	Qaṣr Ibn Nāziʿ/Qaṣr Banū Nāziʿ ?	cornu2
+38.91048	37.41051	Aqur	waystations	etape	etape	Ǧullāb	cornu2
+37.68027	37.43156	Aqur	towns	cite	cite	Raʿbān	cornu2
+38.19495	37.49466	Aqur	towns	ville	ville	Qaṣr Sanǧaŧ/Sanǧaŧ ?	cornu2
+38.54365	37.54334	Aqur	towns	cite	cite	Sumaysāṭ	cornu2
+36.92987	37.58314	Aqur	sites	placefrontiere	placefrontiere	Marʿaš	cornu2
+41.42113	37.70021	Aqur	towns	cite	cite	Ḥiṣn Kayfā	cornu2
+41.78238	37.72559	Aqur	towns	cite	cite	Tall Fāfān/ʿAyn Tall Fāfān	cornu2
+37.52545	37.73001	Aqur	towns	cite	cite	al-Ḥadaṯ	cornu2
+39.33450	37.75537	Aqur	waystations	etape	etape	Bāmaqarā/Bāmaqdaŧ ?	cornu2
+41.91628	37.78735	Aqur	villages	localite	localite	Ṭanzaŧ	cornu2
+38.05966	37.82371	Aqur	sites	placefrontiere	placefrontiere	Ḥiṣn Manṣūr	cornu2
+40.67909	37.84795	Aqur	regions	circonscription	circonscription	Diyār Bakr	cornu2
+41.97905	37.88869	Aqur	waters	riviere	riviere	Nahr al-Razb/al-Razm/al-Zarm	cornu2
+40.21323	37.91510	Aqur	capitals	capitale	capitale	Āmid	cornu2
+39.61765	37.92941	Aqur	waystations	etape	etape	Ǧarnān ?	cornu2
+41.65964	37.97890	Aqur	villages	localite	localite	Arzan	cornu2
+41.17006	37.98330	Aqur	waters	riviere	riviere	Wādī Masūliyāt/Nahr Sātīdamā/Wādī Sātīdamā	cornu2
+41.49366	38.01078	Aqur	waters	riviere	riviere	Wādī Ṣarbaṭ/Nahr Ṣarbaṭ/Ṣarbaṭ	cornu2
+40.08449	38.07602	Aqur	waters	riviere	riviere	Nahr al-Ḏīb/Nahr al-Kilāb	cornu2
+37.90461	38.09311	Aqur	sites	placefrontiere	placefrontiere	Zibaṭraŧ	cornu2
+41.00798	38.14322	Aqur	towns	cite	cite	Mayyāfāriqīn	cornu2
+40.42465	38.18191	Aqur	waters	riviere	riviere	Wādī al-Rams/al-Rass/Wādī Ṣalb	cornu2
+39.75447	38.19784	Aqur	towns	cite	cite?	Tall Ḥūm	cornu2
+38.35767	38.35806	Aqur	towns	cite	cite	Malaṭīn/Malaṭiyaŧ 	cornu2
+37.96251	38.36373	Aqur	waystations	etape	etape	ʿArqaŧ	cornu2
+42.13266	38.39550	Aqur	towns	cite	cite	Badlīs/Bidlīs	cornu2
+40.56071	38.57565	Aqur	sites	forteresse	forteresse	Ribāṭ Ḏū al-Qarnayn	cornu2
+39.83119	38.61412	Aqur	sites	placefrontiere	placefrontiere	Šimšāṭ	cornu2
+39.22470	38.75874	Aqur	sites	forteresse	forteresse	Ḥiṣn Ziyād	cornu2
+40.22779	38.77905	Aqur	waters	riviere	riviere	Nahr Arsanās	cornu2
+38.53819	39.05271	Aqur	sites	placefrontiere	placefrontiere	Qalʿaŧ Ibrīq	cornu2
+42.55713	39.14370	Aqur	towns	cite	cite	Malāzkird/Malāzǧird/Manāzǧird	cornu2
+39.02492	39.58627	Aqur	sites	placefrontiere	placefrontiere	Kamaḫ/Kamāḫ	cornu2
+41.21428	34.45727	Aqur/Iraq	waters	riviere	riviere	Nahr al-Furāt	cornu2
+43.92995	26.08634	Badiyat al-Arab	waystations	etape	etape	al-Qaryatayn	cornu9
+44.45181	26.35812	Badiyat al-Arab	waystations	etape	etape	al-Nibāǧ	cornu7
+41.94575	27.05571	Badiyat al-Arab	regions	vallee	vallee	Wādī Ṭayy #?	cornu9
+42.50815	27.06977	Badiyat al-Arab	towns	cite	cite	Fayd	cornu9
+37.83126	27.15186	Badiyat al-Arab	waystations	etape	etape	al-Aqrāʿ	cornu7
+42.35028	27.24360	Badiyat al-Arab	regions	region	region	Salmā #?	cornu9
+42.21215	27.27430	Badiyat al-Arab	regions	region	region	al-Manhab	cornu9
+42.97781	27.44255	Badiyat al-Arab	waystations	etape	etape	al-Aǧfur	cornu9
+38.52000	27.58081	Badiyat al-Arab	towns	cite	cite	Taymāʾ	cornu9
+37.46327	27.73026	Badiyat al-Arab	waystations	etape	etape	al-Muḥdaṯaŧ	cornu9
+43.13666	27.91046	Badiyat al-Arab	waystations	etape	etape	al-Ḫuzaymiyyaŧ	cornu9
+37.19786	27.92136	Badiyat al-Arab	waystations	etape	etape	al-Ǧunaynaŧ	cornu9
+43.16528	28.29472	Badiyat al-Arab	sites	forteresse	forteresse	al-Ṯaʿlabiyyaŧ	cornu9
+36.50620	28.37114	Badiyat al-Arab	towns	cite	cite	Tabūk	cornu9
+45.92797	28.41584	Badiyat al-Arab	waystations	etape	etape	Ḥafar Abū Mūsá	cornu9
+43.99014	28.46139	Badiyat al-Arab	regions	region	region	al-Habīr	cornu9
+43.27579	28.74899	Badiyat al-Arab	waystations	etape	etape	Biṭān/Qabr al-ʿIdādī	cornu9
+37.89149	28.87521	Badiyat al-Arab	sites	pointdeau	pointdeau	Ṯaǧr	cornu9
+38.70747	29.01767	Badiyat al-Arab	sites	pointdeau	pointdeau	Muḫrī	cornu9
+43.41491	29.08495	Badiyat al-Arab	waystations	etape	etape	al-Šuqūq	cornu9
+43.56390	29.40521	Badiyat al-Arab	sites	forteresse	forteresse	Zubālaŧ	cornu9
+39.87767	29.75959	Badiyat al-Arab	villages	localite	localite	Dawmaŧ al-Ǧandal	cornu9
+43.61126	29.78571	Badiyat al-Arab	waystations	etape	etape	al-Qāʾ	cornu9
+37.43170	29.87858	Badiyat al-Arab	waystations	etape	etape	al-Aǧwalī	cornu9
+38.67294	29.99999	Badiyat al-Arab	sites	mares	mares	ʿArfaǧāʾ	cornu9
+43.61471	30.09074	Badiyat al-Arab	waystations	etape	etape	al-ʿAqabaŧ	cornu9
+38.12681	30.48436	Badiyat al-Arab	sites	mares	mares	al-Ǧarbā/al-Ǧarbá	cornu9
+43.77652	30.55363	Badiyat al-Arab	sites	forteresse	forteresse	Wāqisaŧ #	cornu9
+36.70106	30.73317	Badiyat al-Arab	waystations	etape	etape	Ubayr/Wubayr	cornu9
+37.96500	30.86285	Badiyat al-Arab	regions	region	region	Baṭn al-Sirr	cornu9
+43.81303	30.87576	Badiyat al-Arab	sites	puits	puits	Qarʿāʾ	cornu9
+44.00938	31.10097	Badiyat al-Arab	sites	puits	puits	al-Muġīṯaŧ	cornu9
+37.46475	31.21242	Badiyat al-Arab	sites	pointdeau	pointdeau	al-Nabk	cornu9
+37.75187	31.32585	Badiyat al-Arab	waystations	etape	etape	Qurākir/Qurāqir	cornu9
+37.34142	31.36925	Badiyat al-Arab	towns	cite	cite	al-Ġurrabaŧ	cornu9
+39.82192	31.43199	Badiyat al-Arab	waystations	etape	etape	al-Ḥašiyyaŧ	cornu9
+40.76716	31.48039	Badiyat al-Arab	waystations	etape	etape	al-Ḫanfas/al-Ḥanfas/al-Ǧanfas	cornu9
+44.13666	31.49049	Badiyat al-Arab	villages	localite	localite	al-Uḏayb	cornu9
+42.85300	31.49890	Badiyat al-Arab	waystations	etape	etape	al-Naḥīt	cornu9
+41.79330	31.51068	Badiyat al-Arab	waystations	etape	etape	al-Qurāy	cornu9
+37.15494	31.51278	Badiyat al-Arab	waystations	etape	etape	al-Muḥdaṯaŧ	cornu9
+36.92899	31.64055	Badiyat al-Arab	waystations	etape	etape	al-ʿAwnīd	cornu9
+40.70599	31.64853	Badiyat al-Arab	waystations	etape	etape	al-Ḫaṭṭá	cornu9
+38.71981	31.65819	Badiyat al-Arab	waystations	etape	etape	al-Uǧayfir	cornu9
+41.46573	31.67372	Badiyat al-Arab	waystations	etape	etape	al-Ǧamʿ	cornu9
+42.07352	31.70731	Badiyat al-Arab	waystations	etape	etape	al-Ḥusá/al-Ǧusá	cornu9
+36.87768	31.84612	Badiyat al-Arab	waystations	etape	etape	al-Azraq	cornu9
+40.18305	31.84948	Badiyat al-Arab	waystations	etape	etape	al-Ǧubbaŧ/al-Maḥnaŧ	cornu9
+43.95117	31.85995	Badiyat al-Arab	waystations	etape	etape	al-Ruhaymaŧ	cornu9
+42.45438	31.86163	Badiyat al-Arab	waystations	etape	etape	al-Abyaḍ	cornu9
+43.82290	31.93660	Badiyat al-Arab	waystations	etape	etape	al-Quṭquṭānaŧ	cornu9
+39.67590	31.99770	Badiyat al-Arab	waystations	etape	etape	al-Ḫafiyyaŧ	cornu9
+38.64087	32.03911	Badiyat al-Arab	waystations	etape	etape	al-Rawārá/al-Dawārá	cornu9
+41.37298	32.07507	Badiyat al-Arab	waystations	etape	etape	al-Ḫalāṭ	cornu9
+37.98572	32.13274	Badiyat al-Arab	waystations	etape	etape	al-Sāʿidaŧ	cornu9
+39.59203	32.14778	Badiyat al-Arab	waystations	etape	etape	al-Qulūfī/al-ʿAlawī	cornu9
+37.32662	32.21167	Badiyat al-Arab	waystations	etape	etape	al-Baqīʿaŧ	cornu9
+42.23928	32.28927	Badiyat al-Arab	waystations	etape	etape	al-Aḫdamiyyaŧ	cornu9
+36.79381	32.31179	Badiyat al-Arab	waystations	etape	etape	al-Aʿnak	cornu9
+37.85153	33.72767	Badiyat al-Arab	waystations	etape	etape	Suwá	cornu9
+14.78841	25.78099	Barqa	villages	localite	localite	Zawīlaŧ/Zawīlaŧ b. al-Ḫaṭṭ_ab	cornu13
+21.21413	28.95651	Barqa	villages	bourgade	bourgade?	Awǧilaŧ	cornu13
+21.21413	28.95651	Barqa	regions	oasis	oasis	Awǧilaŧ	cornu13
+16.28326	28.96493	Barqa	villages	bourgade	bourgade?	Waddān	cornu13
+16.28326	28.96493	Barqa	regions	oasis	oasis	Waddān	cornu13
+18.63423	29.78891	Barqa	regions	region	region	Sabḫaŧ Manhūšā	cornu13
+9.47597	30.12935	Barqa	towns	cite	cite	Ġadāmis	cornu13
+20.20218	30.46697	Barqa	towns	cite	cite	Aǧdābiyyaŧ	cornu13
+18.19751	30.54115	Barqa	waystations	etape	etape	Qaṣr al-ʿAṭiš	cornu13
+17.72231	30.77615	Barqa	waystations	etape	etape	al-Yahūdiyyatayn	cornu13
+28.85190	30.80549	Barqa	waystations	etape	etape	Ḥaniyyaŧ al-Rūm/Quṣūr al-Rūm	cornu13
+28.30167	30.84844	Barqa	waystations	etape	etape	al-Ṭaḥūnaŧ	cornu13
+29.30208	30.86496	Barqa	towns	cite	cite	Ḏāt al-Ḥumām/Ḏāt al-Ḥammām	cornu11
+27.94768	30.91449	Barqa	waystations	etape	etape	Kanāʾis al-Ḥadīd/Kanāʾis al-Ḥarīr ?	cornu13
+17.29329	30.94914	Barqa	waystations	etape	etape	Qaṣr al-ʿIbādī/Qabr al-ʿIbādī	cornu13
+27.61485	31.02336	Barqa	towns	cite	cite	Ramādaŧ ?	cornu13
+27.30318	31.04479	Barqa	waystations	etape	etape	Ǧubb al-ʿAwsaǧ ?	cornu13
+16.60839	31.09917	Barqa	towns	cite	cite	Surt	cornu13
+16.44486	31.18315	Barqa	sites	site	site	al-Qaryatayn ?	cornu13
+16.22169	31.19302	Barqa	waystations	etape	etape	Maġmadāš ?	cornu13
+26.77604	31.19426	Barqa	waystations	etape	etape	Sikkaŧ al-Ḥammām ?	cornu13
+15.87924	31.25883	Barqa	waystations	etape	etape	Quṣūr Ḥassān ?	cornu13
+26.37011	31.32418	Barqa	waystations	etape	etape	Qaṣr al-Šammās	cornu13
+26.11423	31.35376	Barqa	waystations	etape	etape	Ḫirbaŧ al-Qawm ?	cornu13
+20.24835	31.40180	Barqa	waystations	etape	etape	Sulūq	cornu13
+25.51014	31.41576	Barqa	waystations	etape	etape	Ḫarāʾib Abū Ḥalīmaŧ ?	cornu13
+25.18308	31.42889	Barqa	waystations	etape	etape	al-ʿAqabaŧ	cornu13
+24.83486	31.67644	Barqa	waystations	etape	etape	Marǧ al-Šayḫ ?	cornu13
+24.49433	31.87271	Barqa	waystations	etape	etape	Ḥayy ʿAbd Allãh ?	cornu13
+14.86251	31.98024	Barqa	villages	localite	localite	Tawarġaŧ	cornu13
+23.96719	31.99027	Barqa	waystations	etape	etape	Ǧiyād al-Ṣaġīr ?	cornu13
+20.08482	32.11419	Barqa	towns	cite	cite	Barnīq	cornu13
+23.31692	32.18179	Barqa	waystations	etape	etape	Ǧubb al-Maydān/Ǧubb al-Maydaʿān ?	cornu13
+22.62048	32.26480	Barqa	waters	wadi	wadi	Wādī Maḫīl	cornu13
+20.84475	32.37576	Barqa	capitals	capitale	capitale	Barqaŧ	cornu13
+20.84475	32.37576	Barqa	regions	circon	circon	Barqaŧ	cornu13
+13.57504	32.73756	Barqa	waystations	etape	etape	Wādī al-Raml	cornu13
+22.20300	32.77902	Barqa	waystations	etape	etape	Ḥalīmān/Ǧubb Ḥalīmān ?	cornu13
+12.48146	32.78822	Barqa	towns	cite	cite	Ṣabraŧ	cornu13
+13.19209	32.87801	Barqa	towns	cite	cite	Aṭrābulus/Ṭarābulus	cornu13
+11.63847	33.05675	Barqa	waystations	etape	etape	Bārǧamt/Abār Daḫt ?	cornu13
+10.50881	33.55129	Barqa	waystations	etape	etape	al-Fawwāraŧ ?	cornu13
+10.08563	33.86603	Barqa	towns	cite	cite	Qābis	cornu13
+52.40859	35.26209	Daylam	regions	canton	canton	al-Ḫuwār	cornu16
+52.63600	35.26209	Daylam	villages	localite	localite	Qaryaŧ al-Milḥ	cornu16
+52.04412	35.31676	Daylam	waystations	etape	etape	Kahdaŧ/Kahandaŧ/Kasb ?	cornu16
+53.07601	35.37647	Daylam	villages	localite	localite	Raʾs al-Kalb	cornu16
+51.77466	35.42345	Daylam	villages	village	village	Afrīḏīn ?	cornu16
+53.40856	35.49513	Daylam	towns	cite	cite	Simnān	cornu16
+52.96387	35.61266	Daylam	regions	region	region	Fādūsbān/Qādūstān/Qādūsiyān 	cornu16
+52.04723	35.68449	Daylam	towns	cite	cite	Šalanbaŧ	cornu16
+51.92730	35.72749	Daylam	waystations	etape	etape	Nāmahand ?	cornu16
+53.73487	35.74424	Daylam	sites	ribat	ribat	Rībāṭ ʿAliyyābāḏ	cornu16
+52.06670	35.81911	Daylam	waystations	etape	etape	Balūr/Bulūr	cornu16
+52.21623	35.87340	Daylam	waystations	etape	etape	Asak/Ašk	cornu16
+54.04249	35.97336	Daylam	waystations	etape	etape	Ǧarmǧuwī	cornu16
+52.55968	36.01794	Daylam	sites	mont	mont	Ǧabal Qārīn	cornu16
+51.63759	36.03180	Daylam	sites	mont	mont	Ǧabal Rūbanǧ/Ruyanǧ	cornu16
+55.86992	36.05824	Daylam	towns	cite	cite	Biyār	cornu16
+54.13205	36.11206	Daylam	regions	region	region	Qūmis	cornu16
+54.37503	36.13093	Daylam	capitals	capitale	capitale	al-Damġān	cornu16
+52.86652	36.16111	Daylam	towns	cite	cite	Šihmār/Sihmār ?	cornu16
+50.84322	36.18658	Daylam	regions	region	region	Ṭalaqān ?	cornu16
+50.84322	36.18658	Daylam	towns	cite	cite	Ṭalaqān ?	cornu16
+54.80181	36.28520	Daylam	villages	localite	localite	al-Ḥaddādaŧ	cornu16
+55.17875	36.33289	Daylam	waystations	etape	etape	Baḏaš	cornu16
+52.60329	36.34732	Daylam	regions	circon	circon	Ṭabaristān	cornu16
+51.71080	36.36237	Daylam	regions	region	region	al-Rūyān	cornu16
+51.71080	36.36237	Daylam	towns	cite	cite	al-Rūyān	cornu16
+56.13276	36.36629	Daylam	waystations	etape	etape	Hafdar ?	cornu16
+55.67094	36.39341	Daylam	waystations	etape	etape	al-Murǧān ?	cornu16
+51.35722	36.39749	Daylam	towns	cite	cite	Saʿīdābāḏ	cornu16
+52.40859	36.42256	Daylam	capitals	capitale	capitale	Āmul	cornu16
+55.07205	36.45952	Daylam	towns	cite	cite	Bisṭām	cornu16
+52.55267	36.47080	Daylam	towns	cite	cite	Mīlaŧ #?	cornu16
+51.91951	36.47768	Daylam	towns	cite	cite	Nātil	cornu16
+51.07686	36.49897	Daylam	towns	cite	cite	Kalār	cornu16
+52.74659	36.51713	Daylam	towns	cite	cite	Māmaṭīr	cornu16
+50.19216	36.52902	Daylam	waters	riviere	riviere	Nahr Ṭālaqānrūḏ	cornu16
+52.23414	36.56405	Daylam	towns	cite	cite	Alham	cornu16
+51.45535	36.60408	Daylam	towns	cite	cite	Šālūs/Sālūs	cornu16
+55.30802	36.65798	Daylam	waystations	etape	etape	Ziradābāḏ/Zirdābāḏ	cornu16
+53.69593	36.68468	Daylam	villages	localite	localite	Mihrawān ?	cornu16
+50.52548	36.69592	Daylam	regions	region	region	Daylamān/al-Daylam	cornu16
+54.05573	36.73120	Daylam	towns	cite	cite	Ṭamīšaŧ/Ṭamīsaŧ	cornu16
+54.32519	36.77488	Daylam	towns	cite	cite	Nāmiyaŧ ?	cornu16
+54.47005	36.78860	Daylam	towns	cite	cite	Astārabāḏ	cornu16
+54.88904	36.81760	Daylam	sites	ribat	ribat	Ribāṭ Ḥafṣ ?	cornu16
+49.67893	36.93549	Daylam	waters	riviere	riviere	Nahr Isbīḏrūḏ/Nahr Sabīḏrūḏ	cornu16
+48.83940	36.97532	Daylam	waters	riviere	riviere	Nahr Isbīḏrūḏ/Nahr Sabīḏrūḏ	cornu16
+54.04327	37.02772	Daylam	towns	cite	cite/port	Ābaskūn	cornu16
+55.38357	37.06455	Daylam	waters	riviere	riviere	Nahr Ḫurmārūḏ	cornu16
+49.65635	37.13924	Daylam	regions	region	region	Ǧīl/Ǧīlān	cornu16
+55.20600	37.19091	Daylam	regions	region	region	Ǧurǧān	cornu16
+55.20600	37.19091	Daylam	metropoles	metropole	metropole	Šahrastān/Ǧurǧān	cornu16
+54.51366	37.22611	Daylam	sites	ribat	ribat	Ribāṭ ʿAlī ?	cornu16
+54.99028	37.33269	Daylam	regions	region	region	Ǧurǧān	cornu16
+49.18674	37.48626	Daylam	towns	cite	cite	Ḫašm ?	cornu16
+56.95205	37.51437	Daylam	villages	localite	localite	Aǧġ	cornu16
+48.55981	37.57057	Daylam	towns	cite	cite	Barwān ?	cornu16
+55.99881	37.57458	Daylam	waystations	etape	etape	Dīnāzārī #?	cornu16
+54.76443	37.58399	Daylam	sites	ribat	ribat	Ribāṭ al-Amīr ?	cornu16
+49.00372	37.79153	Daylam	waystations	etape	port/etape	Kuhanrūḏ	cornu16
+54.72705	37.88855	Daylam	waystations	etape	etape	Baylamak/Salmak ?	cornu16
+54.61471	38.26671	Daylam	sites	ribat	ribat	Ribāṭ Dihistān	cornu16
+55.63466	39.09457	Daylam	regions	region	region	Dihistān	cornu16
+55.71277	39.19825	Daylam	capitals	cheflieu	cheflieu	Āḫur	cornu16
+57.45149	40.18649	Daylam	sites	ribat	ribat	Ribāṭ Abū Sahl	cornu16
+34.14753	14.94825	Egypt	regions	region	region	Bilād al-Ḥabašaŧ	cornu11
+32.35560	15.06046	Egypt	waters	riviere	riviere	al-Nīl al-Abyaḍ	cornu11
+32.55275	15.48074	Egypt	villages	localite	localite	Sūbaŧ	cornu11
+39.48117	15.63308	Egypt	towns	cite	ile/port/cite?	Bāḍiʿ	cornu7
+34.09472	17.49927	Egypt	villages	localite	localite	al-Abwāb	cornu11
+30.73756	18.04347	Egypt	towns	cite	cite	Dunqalaŧ/Dunqulaŧ/Dumqulaŧ	cornu11
+32.46943	18.06095	Egypt	regions	region	region	Maqurraŧ/Muqurraŧ	cornu11
+37.33032	19.11304	Egypt	villages	localite	localite	Suwākin	cornu11
+37.06730	19.28058	Egypt	regions	region	region	Bilād al-Buǧǧaŧ	cornu11
+33.43051	19.40078	Egypt	villages	localite	localite	al-Sanṭaŧ ?	cornu11
+30.25325	19.63029	Egypt	sites	cataracte	cataracte	al-Ǧanādil	cornu11
+31.60503	19.72554	Egypt	regions	region	region	Balad al-Nūbaŧ	cornu11
+30.93987	20.35618	Egypt	regions	region	region	Marīs	cornu11
+30.94294	21.75496	Egypt	waters	riviere	riviere	Nahr al-Nīl	cornu11
+34.10934	22.13452	Egypt	waters	wadi	wadi	Wādī ʿAllaqī	cornu11
+36.24428	22.48899	Egypt	sites	port	port	ʿAyḏab	cornu11
+33.35835	22.61001	Egypt	sites	mines	mines	Maʿādin al-Tibr	cornu11
+32.97579	22.98246	Egypt	waters	wadi	wadi	Wādī ʿAllāqī	cornu10
+32.87404	23.01969	Egypt	towns	cite	cite	ʿAllaqī	cornu11
+32.88630	23.12192	Egypt	waystations	etape	etape	Kubān/Qubbān	cornu11
+32.93994	23.86056	Egypt	villages	localite	localite	al-Qaṣr	cornu11
+32.94356	23.99294	Egypt	regions	ile	ile	Bilāq/Ablāq	cornu11
+32.92462	24.01605	Egypt	sites	cataracte	cataracte	al-Ǧanādil	cornu11
+32.98286	24.10701	Egypt	capitals	capitale	capitale	Uswān	cornu11
+32.98745	24.46534	Egypt	towns	cite	cite	Unbuwā/Unbuw	cornu11
+30.50461	24.59152	Egypt	towns	cite	cite	Bayrīs	cornu11
+30.51687	24.98738	Egypt	regions	region	region	al-Ḫāriǧaŧ	cornu11
+32.87999	25.01203	Egypt	regions	district	district	Atfū	cornu10
+33.89324	25.07556	Egypt	sites	mines	mines	Maʿādin al-Zumurruḏ	cornu11
+32.74002	25.22987	Egypt	waters	riviere	riviere	Nahr al-Nīl	cornu10
+32.55162	25.32189	Egypt	towns	cite	cite	Asnā	cornu10
+28.92294	25.44771	Egypt	villages	localite	localite	Qalamūn	cornu11
+28.73902	25.54178	Egypt	regions	region	region	al-Dāḫilaŧ	cornu11
+32.51795	25.64017	Egypt	towns	cite	cite	Armant	cornu10
+28.83405	25.67032	Egypt	villages	localite	localite	al-Qaṣr	cornu11
+32.61253	25.72063	Egypt	towns	cite	cite	al-Aqṣūr	cornu10
+32.74342	25.91848	Egypt	towns	cite	cite	Qūṣ	cornu10
+32.80433	25.99671	Egypt	regions	district	district	Qifṭ/Qufṭ	cornu10
+32.29854	26.02153	Egypt	towns	cite	cite	Hū	cornu10
+34.27748	26.10673	Egypt	villages	localite	localite	Quṣayr	cornu11
+32.64544	26.15778	Egypt	regions	district	district	Dandaraŧ	cornu10
+32.73283	26.17068	Egypt	regions	district	district	Qinā	cornu10
+31.99590	26.21922	Egypt	towns	cite	cite	Bulyanā	cornu10
+31.79880	26.47449	Egypt	villages	localite	localite	Abšāyaŧ ?	cornu10
+29.46855	26.52400	Egypt	regions	region	region	al-Wāḥāt	cornu11
+31.60625	26.54490	Egypt	regions	district	district	al-Dayr/Dayr Bū Šanūdaŧ	cornu10
+31.72957	26.56301	Egypt	towns	cite	cite	Aḫmīm	cornu10
+31.64900	26.69354	Egypt	villages	localite	localite	Fāw	cornu10
+31.47498	26.94253	Egypt	villages	localite	localite	Qaw/Qahqāwaŧ/Qahqaŧ ?	cornu10
+28.20107	26.96368	Egypt	regions	region	region	Farfārūn	cornu11
+31.22681	27.10901	Egypt	towns	cite	cite	Būtīǧ	cornu10
+31.18485	27.17922	Egypt	towns	cite	cite	Asyūṭ	cornu10
+30.70110	27.76484	Egypt	towns	cite	cite	Tandaŧ	cornu10
+30.75576	27.85616	Egypt	towns	cite	cite	al-Ušmūnayn	cornu10
+30.84685	27.90125	Egypt	towns	cite	cite	Anṣinā	cornu10
+30.69125	28.27313	Egypt	towns	cite	cite	Ṭaḥā	cornu10
+28.83711	28.28725	Egypt	regions	oasis	oasis	Banhasá ?	cornu11
+33.95454	28.35876	Egypt	sites	mont	mont	Ṭūr Sīnāʾ	cornu11
+30.78687	28.52624	Egypt	towns	cite	cite	al-Qays	cornu10
+30.66449	28.60073	Egypt	regions	region	region	Bahnasá	cornu10
+33.67254	28.67926	Egypt	towns	cite	district/oasis/cite?	Fārān	cornu11
+31.00602	28.89131	Egypt	waters	riviere	riviere	Nahr al-Nīl	cornu10
+30.88762	28.96006	Egypt	towns	cite	cite	Sumusṭā	cornu10
+30.95992	29.13124	Egypt	towns	cite	cite	Ahnās	cornu10
+33.80128	29.16755	Egypt	regions	desert	desert	Tīh Banū Isrāʾil #	cornu11
+31.16142	29.21524	Egypt	towns	cite	cite	Dalāṣ/Dilāṣ	cornu10
+30.99122	29.24901	Egypt	towns	cite	cite	al-Lāhūn	cornu10
+31.10677	29.27633	Egypt	towns	cite	cite	Būṣīr/Būṣīr al-Fayyūm/Abūṣīr/Būṣīr Qūrīdus/Būṣīr al-Ašmūnayn	cornu10
+30.84266	29.35921	Egypt	regions	territoire	territoire	al-Fayyūm	cornu10
+31.29974	29.43347	Egypt	towns	cite	cite	Aṭfīḥ	cornu10
+30.69978	29.43447	Egypt	capitals	capitale	capitale	al-Fayyūm	cornu10
+31.25648	29.85447	Egypt	towns	ville	ville	Manf/al-ʿAzīziyyaŧ	cornu10
+31.29831	29.86015	Egypt	towns	cite	cite	Ḥulwān	cornu10
+32.54404	29.97325	Egypt	villages	localite	localite	Suways	cornu10
+31.20183	30.00653	Egypt	towns	cite	cite	al-Ǧīzaŧ	cornu10
+31.31852	30.01368	Egypt	sites	mont	mont	Ǧabal Muqaṭṭam	cornu10
+31.24253	30.01540	Egypt	villages	localite	localite	al-Qaṣr/Bāb Alyūn	cornu10
+32.55684	30.02822	Egypt	towns	cite	cite	al-Qulzum	cornu10
+31.24964	30.04325	Egypt	metropoles	metropole	metropole	Fusṭāṭ	cornu10
+31.21122	30.04436	Egypt	quarter	quartier	quartier	al-Ǧazīraŧ	cornu10
+31.24168	30.05778	Egypt	quarter	quartier	quartier	al-Qāhiraŧ	cornu10
+32.38039	30.05828	Egypt	waystations	etape	etape	ʿAǧarūd	cornu10
+31.93498	30.09522	Egypt	waystations	etape	etape	Bunduqaŧ/Manzil Ibn Bunduqaŧ/Manzil Ibn Ṣadaqaŧ	cornu10
+31.24225	30.11048	Egypt	towns	cite	cite	Šabruwā/Šubrū	cornu10
+31.10905	30.12144	Egypt	sites	port	port	Wasīm	cornu10
+31.30770	30.12919	Egypt	towns	cite	cite	ʿAyn Šams	cornu10
+31.38569	30.16070	Egypt	sites	lieu	lieu	Ǧubb ʿAmīraŧ	cornu10
+31.18645	30.16277	Egypt	towns	cite	cite	Sardūs ?	cornu10
+31.57979	30.16955	Egypt	waystations	etape	etape	Buwayb	cornu10
+32.05366	30.18702	Egypt	villages	localite	localite	al-Manṣaf	cornu10
+31.01228	30.22134	Egypt	waystations	etape	etape	Ḏāt al-Sāḥil	cornu10
+31.06351	30.23314	Egypt	towns	cite	cite	Šaṭnūf	cornu10
+31.10165	30.27628	Egypt	villages	localite	localite	Tantītā/Ṭant	cornu10
+30.89161	30.34164	Egypt	villages	village	village	al-Ǧurasiyyāt	cornu10
+31.37174	30.36522	Egypt	towns	cite	cite	Maštūl	cornu10
+31.10620	30.37013	Egypt	towns	cite	cite	Diǧwaŧ	cornu10
+31.51348	30.38241	Egypt	towns	cite	cite	Ġayfā	cornu10
+30.81078	30.40094	Egypt	villages	localite	localite	Tarnūṭ	cornu10
+31.57097	30.41776	Egypt	capitals	capitale	capitale	Bilbays	cornu10
+31.05262	30.43271	Egypt	villages	localite	localite	Subk al-ʿAbīd	cornu10
+31.16142	30.43641	Egypt	towns	cite	cite	Banhā al-ʿAsal	cornu10
+30.91950	30.45505	Egypt	towns	cite	cite	Manūf	cornu10
+31.17223	30.45947	Egypt	regions	district	district	Atrīb	cornu10
+31.17223	30.45947	Egypt	towns	cite	cite	Atrīb	cornu10
+31.70644	30.53647	Egypt	towns	cite	cite	al-ʿAbbāsiyyaŧ	cornu10
+31.49925	30.56736	Egypt	regions	district	district	Basṭaŧ	cornu10
+31.79922	30.57863	Egypt	waters	canal	canal	Ḫalīǧ Amīr al-Muʾminīn	cornu10
+31.01342	30.58083	Egypt	towns	cite	cite	Malīǧ	cornu10
+31.57495	30.59137	Egypt	regions	circon	circon	al-Ḥawf al-Šarqī	cornu10
+30.78887	30.62076	Egypt	towns	cite	cite	Bistāmaŧ	cornu10
+30.75642	30.63742	Egypt	waystations	etape	etape	Kūm Šarīk	cornu10
+31.26672	30.65235	Egypt	villages	localite	localite	Ṣahraǧāt	cornu10
+30.78944	30.67267	Egypt	villages	localite	localite	Ṭanūb/Ṭunūb	cornu10
+30.93316	30.68075	Egypt	regions	district	district	Ṭuwwaŧ	cornu10
+31.08970	30.68760	Egypt	towns	cite	cite	Ṭaṭāʾ	cornu10
+30.73593	30.69470	Egypt	villages	localite	localite	al-Rāfiqaŧ	cornu10
+31.37316	30.69837	Egypt	regions	region	region	Naṭwayaŧ/Naṭw al-Rummān	cornu10
+31.21094	30.70718	Egypt	towns	cite	cite	Ziftā Ǧawād	cornu10
+31.74628	30.70963	Egypt	regions	region	region	Aṭrabiyyaŧ	cornu10
+31.79581	30.71061	Egypt	towns	cite	cite	Fāqūs	cornu10
+30.92804	30.72039	Egypt	towns	cite	cite	al-Bundāriyyaŧ	cornu10
+31.62447	30.73556	Egypt	regions	district	district	Qurbayt	cornu10
+30.43738	30.75268	Egypt	regions	region	region	al-Ḥawf al-Ġarbī	cornu10
+30.66535	30.75281	Egypt	regions	district	district	Ḫaribtā	cornu10
+33.23727	30.75519	Egypt	regions	region	region	al-Ǧifār	cornu11
+30.92633	30.76345	Egypt	villages	village	village	Fīšaŧ Ibn Sulaym	cornu10
+30.70804	30.78411	Egypt	villages	village	village	Maḥallaŧ Nuqaydaŧ	cornu10
+30.92349	30.79572	Egypt	towns	cite	cite	Maḥallaŧ al-Maḥrūm	cornu10
+30.73365	30.80318	Egypt	villages	localite	localite	Šābūr	cornu10
+31.22403	30.82041	Egypt	regions	district	district	Damsīs	cornu10
+31.22403	30.82041	Egypt	towns	cite	cite	Damsīs	cornu10
+31.02025	30.85291	Egypt	regions	region	region	Baṭn al-Rīf	cornu10
+32.32461	30.85902	Egypt	villages	localite	localite	al-Qanṭaraŧ	cornu10
+30.82245	30.86818	Egypt	villages	localite	localite	Qulayb al-`Ummāl	cornu10
+30.95223	30.87050	Egypt	regions	district	district	Manūf al-ʿUliyā	cornu10
+30.75642	30.87466	Egypt	towns	cite	cite	Babīǧ	cornu10
+30.52845	30.89835	Egypt	regions	region	region	al-Badaqūn	cornu10
+32.19454	30.91373	Egypt	towns	cite	cite	Ǧurǧīr	cornu10
+29.71572	30.93264	Egypt	waystations	etape	etape	Būmīnaŧ/Būmīná ?	cornu13
+31.65521	30.93839	Egypt	waters	riviere	riviere	Ḫalīǧ Daqādūs	cornu10
+31.51063	30.94376	Egypt	regions	district	district	Ṭumayy	cornu10
+31.24509	30.94986	Egypt	regions	district	district	Samannūd	cornu10
+30.73849	30.95914	Egypt	villages	localite	localite	Ṣāʾ	cornu10
+30.51137	30.95938	Egypt	villages	localite	localite	Danšāl	cornu10
+31.16426	30.96890	Egypt	towns	cite	cite	Ṣandafā	cornu10
+30.85120	30.96963	Egypt	villages	localite	localite	Maḥallaŧ Ṣurad	cornu10
+31.14662	30.97329	Egypt	towns	cite	cite	Maḥallaŧ al-Kabīraŧ	cornu10
+31.28494	30.97866	Egypt	regions	district	district	Nawasā	cornu10
+31.87265	30.97890	Egypt	regions	district	district	Ṣān	cornu10
+30.66905	30.98720	Egypt	villages	localite	localite	Farnwaŧ	cornu10
+30.57342	30.99062	Egypt	regions	region	region	al-Širāk	cornu10
+31.30514	31.00708	Egypt	towns	cite	cite	Awīš	cornu10
+31.83110	31.01550	Egypt	regions	region	region	Iblīl	cornu10
+30.70519	31.01916	Egypt	towns	cite	cite	Dayyāy	cornu10
+32.59811	31.02282	Egypt	capitals	capitale	capitale	al-Faramā	cornu10
+33.12566	31.02385	Egypt	towns	cite	cite	al-Baqqāraŧ	cornu11
+30.61583	31.02501	Egypt	villages	village	village	Maḥallaŧ Abū Ḫurāšaŧ #?	cornu10
+30.45872	31.03855	Egypt	towns	cite	cite	Damanhūr	cornu10
+31.54194	31.04233	Egypt	towns	cite	cite	Tanā	cornu10
+30.69950	31.04306	Egypt	villages	localite	localite	al-Ṣāfiyyaŧ	cornu10
+30.97785	31.05159	Egypt	villages	localite	localite	Misīr	cornu10
+30.44108	31.05659	Egypt	villages	localite	localite	Qarṭasā	cornu10
+33.54242	31.06734	Egypt	towns	cite	cite	al-Warrādaŧ	cornu11
+30.29934	31.08146	Egypt	towns	cite	cite	Barsīq	cornu10
+30.92519	31.08645	Egypt	towns	cite	cite	Ṣaḫā	cornu10
+30.72312	31.08986	Egypt	regions	district	district	Šabās	cornu10
+30.15818	31.10144	Egypt	waters	canal	canal	Ḫalīǧ al-Iskandariyyaŧ	cornu10
+30.47836	31.11959	Egypt	regions	region	region	Maṣīl	cornu10
+31.55816	31.11972	Egypt	waters	riviere	riviere	Ḫalīǧ Sardūs	cornu10
+29.91455	31.12142	Egypt	waters	lac	lac	Buḥayraŧ Maryūṭ	cornu10
+33.80807	31.12453	Egypt	towns	cite	cite	al-ʿArīš	cornu1
+30.49999	31.13129	Egypt	villages	village	village	Fīšaŧ	cornu10
+31.35040	31.14140	Egypt	towns	cite	cite	Damīraŧ/Dumayraŧ	cornu10
+30.13142	31.14286	Egypt	towns	cite	cite	al-Karyūn/Kiryawn	cornu10
+33.05753	31.14397	Egypt	waystations	etape	etape	Dayr al-Naṣārá/Ḥiṣn al-Naṣārá/al-Qaṣr	cornu11
+30.70832	31.16283	Egypt	towns	cite	cite	Sanhūr	cornu10
+32.08240	31.16442	Egypt	towns	cite	cite	Tūnaŧ	cornu10
+30.47267	31.19071	Egypt	towns	cite	cite	Sanbāḏaŧ	cornu10
+30.91239	31.19144	Egypt	regions	region	region	al-Afrāḥūn	cornu10
+31.25278	31.19181	Egypt	regions	district	district	al-Awsiyaŧ	cornu10
+29.90981	31.19490	Egypt	capitals	capitale	capitale	al-Iskandariyyaŧ	cornu10
+32.22755	31.21262	Egypt	towns	cite	cite	Tinnīs	cornu10
+30.50654	31.22370	Egypt	towns	cite	cite	Fuwaŧ	cornu10
+30.82700	31.23866	Egypt	regions	district	district	Tīdaŧ	cornu10
+30.37989	31.24231	Egypt	regions	region	region	al-Malīdās/al-Malaydis	cornu10
+30.44535	31.25059	Egypt	towns	cite	cite	Dayrūṭ	cornu10
+30.47608	31.25387	Egypt	villages	localite	localite	Sandiyūn	cornu10
+31.99133	31.25935	Egypt	waters	lac	lac	Buḥayraŧ Tinnīs	cornu10
+31.66289	31.28355	Egypt	towns	cite	cite	Daqahlaŧ	cornu10
+30.46299	31.28513	Egypt	towns	cite	cite	Balhīb	cornu10
+31.23342	31.28817	Egypt	regions	region	region	al-Bašarūd	cornu10
+31.87094	31.40557	Egypt	towns	cite	cite	Šaṭā	cornu10
+30.37989	31.41298	Egypt	towns	cite	cite	Rašīd	cornu10
+31.79125	31.43739	Egypt	towns	cite	cite	Dimyāṭ	cornu10
+30.80708	31.45960	Egypt	waters	lac	lac	Buḥayraŧ al-Burullus	cornu10
+30.65681	31.46786	Egypt	regions	region	region	Iḫnā	cornu10
+30.70804	31.48776	Egypt	towns	cite	cite	Nastarāwaŧ/Nastarāw	cornu10
+30.79000	31.51979	Egypt	towns	cite	cite?	Iḫnā/Aǧnā ?	cornu10
+30.99606	31.58612	Egypt	towns	cite	cite	Burullus/Barullus	cornu10
+30.28697	32.20303	Egypt	waters	mer	mer	Baḥr al-Rūm	cornu11
+53.38985	26.11223	Faris	waters	mer	mer	Baḥr Fāris	cornu6
+54.90122	26.57451	Faris	sites	citadelle	citadelle	Ḥiṣn Ibn ʿUmāraŧ/Qalʿaŧ Ibn ʿUmāraŧ	cornu6
+55.80019	26.74974	Faris	regions	ile	ile	Ǧazīraŧ Laft/Ǧazīraŧ Barkāwān/Ǧazīraŧ Banū Kāwān	cornu6
+54.75943	26.77937	Faris	regions	region	region	Sīf ʿUmāraŧ	cornu6
+56.28286	26.96505	Faris	towns	cite	cite	Raʾs Kišm	cornu6
+56.21348	27.19067	Faris	towns	cite	cite	Sūrū	cornu6
+52.64171	27.34352	Faris	villages	localite	localite	Nāband	cornu6
+52.34306	27.69666	Faris	capitals	capitale	capitale	Sīrāf	cornu6
+52.86193	27.76342	Faris	towns	cite	cite	Kurān ?	cornu6
+52.39133	27.81680	Faris	villages	localite	localite	Ǧamm	cornu6
+53.43209	27.88081	Faris	waystations	etape	etape	Bārāb	cornu6
+52.28050	28.05331	Faris	waystations	etape	etape	Mah/Má ?	cornu6
+53.70323	28.05935	Faris	waystations	etape	etape	Kāryān	cornu6
+53.94661	28.14336	Faris	villages	village	village	Ǧuwaym Abū Aḥmad #	cornu6
+55.80841	28.18163	Faris	towns	cite	cite	Tārim/Tārum	cornu6
+54.21531	28.26649	Faris	waystations	etape	etape	Karb ?	cornu6
+52.94703	28.28084	Faris	villages	localite	localite	Abzar ?	cornu6
+55.16805	28.31921	Faris	towns	cite	cite	Furǧ	cornu6
+54.43137	28.33754	Faris	towns	cite	cite	Yazdaḫawāst	cornu6
+53.11293	28.40599	Faris	villages	localite	localite	Kārzin	cornu6
+52.36569	28.41977	Faris	waystations	etape	etape	Kīrand ?	cornu6
+53.03724	28.44621	Faris	regions	canton	canton	Qīr/Kīr	cornu6
+55.10037	28.47950	Faris	towns	cite	cite	Rustāq	cornu6
+51.12283	28.49687	Faris	regions	region	region	Naǧīram	cornu6
+54.40794	28.51610	Faris	capitals	cheflieu	cheflieu	Ḫasū	cornu6
+54.40794	28.51610	Faris	regions	territoire	territoire	Rūbanǧ	cornu6
+53.51012	28.51826	Faris	towns	cite	cite	Ǧahram	cornu6
+52.67152	28.52097	Faris	waystations	etape	etape	Rāykān/Ḫān Azādmard ?	cornu6
+53.13563	28.52387	Faris	waters	riviere	riviere	Nahr Sakkān	cornu6
+54.79060	28.60070	Faris	waystations	etape	etape	Ǧarmwaŧ	cornu6
+51.39095	28.66191	Faris	regions	region	region	Ḫurmuq	cornu6
+52.68133	28.69894	Faris	waystations	etape	etape	Biyābšūrāb/Dašt Šūrāb?	cornu6
+53.13182	28.69941	Faris	towns	cite	cite	al-Ṣīmakān	cornu6
+54.29861	28.72175	Faris	towns	cite	cite	al-Māḏawan	cornu6
+54.54591	28.75143	Faris	capitals	capitale	capitale	Darābaǧird	cornu6
+53.27732	28.76436	Faris	towns	cite	cite	Ḫabr	cornu6
+54.39753	28.80847	Faris	villages	localite	localite	al-Murayziǧān	cornu6
+54.27779	28.83127	Faris	waystations	etape	etape	Dārakān	cornu6
+52.58324	28.84797	Faris	towns	cite	cite	Ǧūr/Bayrūzābāḏ	cornu6
+54.18928	28.85635	Faris	towns	cite	cite	Ǧāh Zandāyaŧ ?	cornu6
+54.07735	28.88371	Faris	regions	cite	canton/cite	al-Fustuǧān/al-Fustukān/al-Bustaǧān	cornu6
+52.85141	28.88488	Faris	towns	cite	cite	Mīmand	cornu6
+53.63181	28.92193	Faris	towns	cite	cite	Fasā	cornu6
+53.81699	28.94971	Faris	towns	cite	cite	Ṭabistān/Ṭamistān/Ṭimāristān ?	cornu6
+54.24655	28.98623	Faris	towns	cite	cite	Iyǧ/Iyk	cornu6
+53.60800	29.07233	Faris	towns	cite	cite	Kurm	cornu6
+54.04351	29.10684	Faris	towns	ville	ville	al-Iṣbahānāt/Iṣṭahbānān	cornu6
+53.44663	29.12318	Faris	waystations	etape	etape	al-Ribāṭ	cornu6
+54.67346	29.16368	Faris	towns	cite	cite	Kadruwā	cornu6
+54.27518	29.21368	Faris	capitals	cheflieu	cheflieu	Nayrīz	cornu6
+54.27518	29.21368	Faris	regions	territoire	territoire	Nayrīz	cornu6
+52.69768	29.21962	Faris	waystations	etape	etape	Kuwār	cornu6
+51.26065	29.22327	Faris	towns	cite	cite	al-Ġundiǧān	cornu6
+51.97730	29.22327	Faris	towns	cite	cite	Ḫurraŧ	cornu6
+50.33529	29.23531	Faris	regions	ile	ile	Ǧazīraŧ Ḫarak	cornu6
+53.20589	29.25713	Faris	towns	cite	cite	Ḫawaristān/Sarwistān	cornu6
+53.93868	29.25944	Faris	villages	localite	localite	Ḫayār/Ḫayr/Ḫayraŧ	cornu6
+51.26816	29.28011	Faris	regions	canton	canton	Dašt Bārīn	cornu6
+52.88580	29.31712	Faris	villages	village	village	Ḫān Mīm	cornu6
+51.76932	29.32600	Faris	waters	riviere	riviere	Nahr Ǧarsīq/Nahr Ǧaršīq	cornu6
+53.97836	29.33096	Faris	waters	lac	lac	Buḥayraŧ al-Baḫtikān	cornu6
+53.70323	29.36324	Faris	waystations	etape	etape	Kaṯ	cornu6
+52.80644	29.37477	Faris	waystations	etape	etape	Qaryaŧ al-Rummān	cornu6
+51.30074	29.39151	Faris	villages	localite	localite	Hindūǧān/Hindīǧān	cornu6
+54.85047	29.41342	Faris	waystations	etape	etape	Zarūdūwaŧ	cornu6
+51.17294	29.42208	Faris	towns	cite	cite	Tawwaz/Tawwaǧ !?	cornu6
+51.03513	29.44172	Faris	towns	cite	cite	Tawwaz/Tawwaǧ ?!	cornu6
+51.83196	29.50280	Faris	waters	lac	lac	Buḥayraŧ Kāzarūn	cornu6
+52.49957	29.50609	Faris	waystations	etape	etape	Kafrah/Kafr	cornu6
+52.92548	29.54062	Faris	waystations	etape	etape	Dāriyān	cornu6
+53.33817	29.54292	Faris	towns	cite	cite	Ḫurrāmaŧ	cornu6
+51.30575	29.54859	Faris	towns	cite	cite	Ḫašt	cornu6
+52.22036	29.56820	Faris	waystations	etape	etape	Ḫān al-Asad	cornu6
+51.51373	29.57692	Faris	towns	ville	ville	Kumāriǧ	cornu6
+50.53898	29.60089	Faris	towns	cite	cite	Ǧannābaŧ	cornu6
+51.68412	29.60743	Faris	towns	cite	cite	Kāzarūn	cornu6
+51.94222	29.60960	Faris	villages	localite	localite	Dašt Arzan	cornu6
+52.52867	29.61884	Faris	metropoles	metropole	metropole	Šīrāz	cornu6
+51.42853	29.64228	Faris	waters	riviere	riviere	Nahr Sābūr	cornu6
+51.54129	29.66188	Faris	towns	cite	cite	Darīz	cornu6
+53.92036	29.69008	Faris	sites	citadelle	citadelle	Qaryaŧ al-Ās	cornu6
+53.47044	29.69700	Faris	waters	lac	lac	Buḥayraŧ al-Bāšfūyaŧ/ Buḥayraŧ al-Bāšfūriyyaŧ#	cornu6
+50.38864	29.74023	Faris	waystations	etape	etape	Sanǧāhān ?	cornu6
+54.30902	29.77106	Faris	towns	cite	cite?	Ṣahīh/Ṣāhik	cornu6
+52.74824	29.77510	Faris	villages	localite	localite	Rakān	cornu6
+52.87257	29.77510	Faris	sites	barrage	barrage	Raʾs al-Sikr	cornu6
+53.73617	29.78210	Faris	towns	cite	cite	Ābāḏaŧ	cornu6
+53.44398	29.79117	Faris	waystations	etape	etape	Ǧūbānan	cornu6
+51.51624	29.83157	Faris	regions	circonscription	circonscription	Sābūr/Šahrastān	cornu6
+51.51624	29.83157	Faris	capitals	capitale	capitale	Šahrastān/Sābūr	cornu6
+53.22441	29.83708	Faris	waystations	etape	etape	ZiyādābāḏZiyādāwāḏ ?	cornu6
+51.92718	29.86635	Faris	regions	region	region	Tīr Mardān	cornu6
+52.29587	29.87379	Faris	villages	village	village	Ǧuwaym	cornu6
+53.16886	29.88067	Faris	waystations	etape	etape	Kalwaḏār/Qalwaḏar/Qaryaŧ al-Ḥammām ?	cornu6
+50.27838	29.92283	Faris	towns	cite	cite	Sīnīz/Šīnīz	cornu6
+51.11281	29.92934	Faris	regions	region	region	Bazranǧ	cornu6
+52.49428	29.94029	Faris	towns	cite	cite	Hazār/Azār Sābūr ?	cornu6
+54.09036	29.95166	Faris	waystations	etape	etape	Ḫawaristān	cornu6
+50.46130	29.96408	Faris	waystations	etape	etape?	Ṣāḥik	cornu6
+52.92548	29.97008	Faris	capitals	capitale	capitale	Iṣṭaḫr	cornu6
+53.06569	29.97467	Faris	towns	cite	cite	Fārūq	cornu6
+52.19005	29.98842	Faris	waystations	etape	etape	Ḫullār/Ḫullān	cornu6
+53.78841	30.00577	Faris	waystations	etape	etape	Raʾs al-Dunyā ?	cornu6
+51.44858	30.01617	Faris	regions	region	region	Ḫumayǧān	cornu6
+52.36712	30.03958	Faris	towns	cite	cite	al-Bayḍāʾ/Nasā	cornu6
+51.94541	30.04859	Faris	waystations	etape	etape	al-Ḫarrāraŧ	cornu6
+50.21436	30.06436	Faris	towns	cite	cite	Mahrūbān	cornu6
+51.78402	30.09815	Faris	villages	localite	localite	Ǧarkān/Ḫarkān/Karkān/al-Karǧān ?	cornu6
+52.67428	30.09815	Faris	sites	citadelle	citadelle	Qalʿaŧ Saʿīdābāḏ	cornu6
+54.41315	30.11392	Faris	towns	cite	cite	Harāŧ	cornu6
+54.70209	30.12067	Faris	waystations	etape	etape	Rāḏān/Dāḏān ?	cornu6
+51.55235	30.12743	Faris	towns	cite	cite	Nūbandaǧān/Nūbanǧān	cornu6
+53.03090	30.13418	Faris	waystations	etape	etape	Qaryaŧ Ibn Bundār	cornu6
+55.05872	30.13418	Faris	towns	cite	cite	Šābābak/Šābāwak/Šahrbābāk	cornu6
+51.64606	30.15444	Faris	sites	citadelle	citadelle	Qalʿaŧ al-Ǧiṣṣ ?	cornu6
+53.16106	30.17019	Faris	regions	district	district	Kamīn	cornu6
+53.16106	30.17019	Faris	villages	bourgade	bourgade	Kamīn	cornu6
+52.63784	30.18595	Faris	towns	cite	cite	Maʾīn/Maʿīn #?	cornu6
+51.50809	30.24443	Faris	villages	localite	localite	Ḫawāḏān/Ḫawrāwāḏān/Ḫawrābāḏān/Ḫūbaḏān	cornu6
+55.98281	30.24893	Faris	towns	cite	cite	Ūnas ?	cornu6
+49.70675	30.25118	Faris	towns	cite	cite	Hinduwān/Hindīǧān	cornu6
+53.19750	30.28490	Faris	waystations	etape	etape	Kahamandaŧ/Kihmand/Kamahank	cornu6
+50.84951	30.29389	Faris	towns	cite	cite	Ǧunbaḏ Mallaġān/Ǧunbaḏ Mallaǧān	cornu6
+51.25820	30.30738	Faris	villages	bourgade	pont/bourgade/etape	Daḫwīd/Darḫīḏ	cornu6
+55.70689	30.31412	Faris	towns	cite	cite	Dih Ušturān/Qaryaŧ al-Ǧimāl ?	cornu6
+50.22217	30.34108	Faris	villages	localite	localite	Rīšahr	cornu6
+52.21353	30.39049	Faris	waystations	etape	etape	Mihrǧānāwāz	cornu6
+56.02186	30.39947	Faris	regions	territoire	territoire	al-Rūḏān	cornu6
+56.02186	30.39947	Faris	towns	cite	cite	al-Rūḏān	cornu6
+51.17750	30.39947	Faris	regions	region	region	Balā Sābūr	cornu6
+50.51371	30.44661	Faris	xroads	rPoint	rPoint	RoutePoints0699	cornu6
+53.61920	30.46456	Faris	towns	cite	cite	Bawwān	cornu6
+52.48426	30.50270	Faris	waystations	etape	etape	Ḫūsikān	cornu6
+51.90116	30.50943	Faris	regions	region	region	Kām Fayrūz	cornu6
+50.39397	30.51616	Faris	towns	cite	cite	Zaytūn/Zaytān/Firzuk #?	cornu6
+52.86431	30.60582	Faris	towns	cite	cite	Muškān	cornu6
+50.29766	30.61030	Faris	capitals	capitale	capitale	Arrāǧān	cornu6
+53.18449	30.63942	Faris	villages	bourgade	bourgade	Qaryaŧ Bīḏ/Bīḏ/Qaryaŧ al-Ḫillāf	cornu6
+51.93240	30.69092	Faris	waystations	etape	etape	Kūrd/Kūrad ?	cornu6
+51.92199	30.72449	Faris	villages	localite	localite	Kallār	cornu6
+53.12982	30.73791	Faris	towns	cite	cite	Karaŧ	cornu6
+50.80266	30.74015	Faris	villages	village	village?	Ṣāhik	cornu6
+52.44000	30.74910	Faris	regions	region	region	al-Rūn	cornu6
+51.99227	30.77818	Faris	regions	canton	canton/cite	Ūrd #?	cornu6
+52.44521	30.82066	Faris	towns	cite	cite/etape	Qaṣr Aʿīn/Qaṣr Āyīn/al-Rūn	cornu6
+55.25395	30.88547	Faris	towns	cite	cite	Abān	cornu6
+52.67168	30.91897	Faris	villages	localite	localite	Iqlīd	cornu6
+50.42781	30.99710	Faris	regions	region	region	Sardān	cornu6
+52.79142	31.05956	Faris	towns	cite	cite	Sarmaq/al-Surmaq	cornu6
+53.25737	31.15094	Faris	towns	cite	cite	Abarqūh	cornu6
+52.66127	31.16430	Faris	capitals	cite	cite	Ābāḏaŧ/Arǧumān	cornu6
+52.62743	31.17990	Faris	regions	region	region	Arǧumān	cornu6
+52.62743	31.17990	Faris	regions	region	region	Barm	cornu6
+51.81266	31.19326	Faris	waystations	etape	etape	Ǧaʿfarābāḏ ?	cornu6
+52.02871	31.25559	Faris	waystations	etape	etape	Ḫān Rūšan/Ḫān Awīs/Ḫuwāriš 	cornu6
+51.81266	31.35567	Faris	waystations	etape	etape	Sumayram	cornu6
+52.43219	31.42233	Faris	towns	cite	cite	Sarwīstān/Sarūrīr	cornu6
+51.91938	31.44454	Faris	sites	site	site	Mās ?	cornu6
+52.17709	31.51558	Faris	waystations	etape	etape	Azkās	cornu6
+50.73914	31.53831	Faris	towns	cite	cite	Lūrdaǧān/al-Lūriǧān	cornu4
+53.84828	31.55774	Faris	waystations	etape	etape	Qaryaŧ al-Asad #	cornu6
+54.62400	31.76601	Faris	towns	cite	cite	al-Fahraǧ	cornu6
+51.69552	31.79256	Faris	waystations	etape	etape	Karū	cornu6
+51.96103	31.80584	Faris	waystations	etape	etape	Rūzkān ?	cornu6
+54.34286	31.90975	Faris	regions	territoire	territoire	Yazd/Kaṯaŧ	cornu6
+54.34286	31.90975	Faris	towns	cite	cite	Yazd/Kaṯaŧ	cornu6
+51.86732	32.00251	Faris	waystations	etape	etape	Qūmisaŧ	cornu6
+53.98932	32.27744	Faris	towns	cite	cite	Maybuḏ #	cornu6
+53.66217	32.40568	Faris	towns	ville	ville	ʿUqdaŧ	cornu6
+48.27394	30.33563	Iraq	towns	cite	cite	ʿAbbādān	cornu3
+47.71735	30.40147	Iraq	capitals	capitale	capitale	al-Baṣraŧ	cornu3
+47.81460	30.41050	Iraq	waters	canal	canal	Nahr al-Ubullaŧ	cornu3
+47.99265	30.43759	Iraq	towns	cite	cite	Abū al-Ḫaṣīb	cornu3
+48.03005	30.46468	Iraq	towns	cite	cite	Bayān ?	cornu3
+47.69640	30.49305	Iraq	waters	canal	canal	Nahr al-Maʿqil	cornu3
+47.83555	30.49692	Iraq	towns	cite	cite	al-Ubullaŧ	cornu3
+47.55725	30.86237	Iraq	waters	cours	cours	Nahr al-ʿAwrā	cornu3
+47.04854	30.98302	Iraq	waters	canal	canal	Nahr Abī al-Asad	cornu3
+47.47945	31.41304	Iraq	regions	canton	canton	Maysān	cornu3
+47.33731	31.46283	Iraq	towns	cite	cite	ʿAbdās	cornu3
+47.37621	31.48197	Iraq	towns	cite	cite	al-Maḏār	cornu3
+44.18717	31.65292	Iraq	towns	cite	cite	al-Qādisiyyaŧ	cornu9
+46.62959	31.71519	Iraq	sites	site	site	al-Qaṭr	cornu3
+46.36450	31.78987	Iraq	sites	etape	etape	al-Ruṣāfaŧ	cornu3
+46.58171	31.83729	Iraq	waystations	etape	etape	al-Fārūṯ	cornu3
+44.36286	31.97375	Iraq	towns	ville	ville	al-Ḫawarnaq	cornu3
+44.33826	31.98379	Iraq	villages	localite	localite	Naǧāf	cornu3
+45.29796	31.98716	Iraq	regions	region	region	al-Baṭāʾiḥ/al-Baṭīḥaŧ	cornu3
+44.37232	32.01734	Iraq	towns	ville	ville	al-Ḥīraŧ	cornu3
+44.39355	32.03808	Iraq	capitals	capitale	capitale	al-Kūfaŧ	cornu3
+46.59233	32.17087	Iraq	towns	cite	cite	Bāḏibīn ?	cornu3
+47.70188	32.17254	Iraq	towns	cite	cite	Qurqūb ?	cornu3
+46.32308	32.19497	Iraq	capitals	capitale	capitale	Wāsiṭ	cornu3
+46.77226	32.19607	Iraq	towns	cite	cite	al-Sikr ?	cornu3
+47.30428	32.22674	Iraq	towns	cite	cite	al-Ṭīb	cornu3
+44.36844	32.24535	Iraq	waystations	etape	etape	Šāhī/Sāhī ?	cornu3
+44.54578	32.25849	Iraq	regions	canton	canton	Badāŧ/Budāŧ	cornu3
+46.41887	32.32633	Iraq	regions	circonscription	circonscription	Kaskar	cornu3
+44.34773	32.39084	Iraq	towns	cite	cite	Ḥammām Ibn ʿUmar ?	cornu3
+46.13150	32.46405	Iraq	towns	cite	cite	Fam al-Ṣilḥ	cornu3
+44.29724	32.48043	Iraq	villages	localite	localite	Sūq Asad ?	cornu3
+44.43704	32.48152	Iraq	towns	cite	cite	al-Ǧāmiʿān/al-Ǧāmiʿayn	cornu3
+45.96969	32.49681	Iraq	towns	cite	cite	Nahr Sābus	cornu3
+44.89011	32.51100	Iraq	towns	cite	cite	al-Nīl	cornu3
+45.10369	32.53829	Iraq	waters	canal	canal	Nahr al-Nīl	cornu3
+46.46676	32.54047	Iraq	waters	riviere	riviere	Nahr Diǧlaŧ	cornu3
+44.44611	32.54156	Iraq	waters	canal	canal	Nahr Sūrā	cornu3
+45.72633	32.55466	Iraq	towns	cite	cite	Ǧabbūl	cornu3
+44.30760	32.55902	Iraq	regions	canton	canton	Fallūǧaŧ	cornu3
+44.42281	32.57211	Iraq	towns	cite	cite	Bābil	cornu3
+45.42650	32.59694	Iraq	towns	cite	cite	al-Nuʿmāniyyaŧ/Tall Nuʿmān	cornu3
+44.03706	32.61792	Iraq	towns	cite	cite	Karbalāʾ	cornu3
+43.52574	32.62337	Iraq	towns	cite	cite	ʿAyn al-Tamr	cornu3
+44.36585	32.64626	Iraq	towns	cite	cite	Ǧisr Sūrā/Ǧisr Sūrān ?	cornu3
+44.34902	32.70401	Iraq	towns	cite	cite	Qaṣr Ibn Hubayraŧ ?	cornu3
+45.31987	32.74104	Iraq	towns	cite	cite	Ǧarǧarāyā	cornu3
+44.20922	32.74321	Iraq	waters	canal	canal	Nahr al-ʿAlqamī	cornu3
+44.72053	32.74430	Iraq	waters	canal	canal	Nahr Kūṯá	cornu3
+44.62604	32.75737	Iraq	towns	cite	cite	Kūṯá Rabbaŧ	cornu3
+44.36973	32.87594	Iraq	waystations	etape	etape	Ǧisr Kūṯá	cornu3
+44.98460	32.91181	Iraq	towns	cite	cite	Dayr al-ʿĀqūl	cornu3
+46.46935	32.94441	Iraq	regions	canton	canton	Bākusāyā	cornu3
+44.50953	32.94875	Iraq	waters	canal	canal	Nahr al-Malik ?	cornu3
+44.84610	32.97916	Iraq	towns	cite	cite	al-Sīb	cornu3
+44.36455	33.05406	Iraq	villages	village	village	Nahr al-Malik	cornu3
+44.59672	33.09075	Iraq	towns	cite	cite	al-Madāʾīn	cornu3
+44.97772	33.09856	Iraq	waters	canal	canal	Nahr al-Nahrawān	cornu3
+45.93688	33.09968	Iraq	regions	canton	canton	Bādarāyā ?	cornu3
+44.37025	33.10972	Iraq	villages	village	village	Ṣarṣar/Ǧisr Ṣarṣar	cornu3
+44.14778	33.13984	Iraq	waters	canal	canal	Nahr Ṣarṣar	cornu3
+44.93375	33.20675	Iraq	towns	cite	cite	ʿAbartā	cornu3
+44.13579	33.26692	Iraq	waters	canal	canal	Nahr ʿIsá	cornu3
+44.43153	33.30144	Iraq	regions	canton	canton	Kalwāḏá	cornu3
+44.35293	33.31703	Iraq	quarter	quartier	quartier	al-Karḫ	cornu3
+43.78276	33.33483	Iraq	towns	cite	cite	Dimimmā	cornu3
+44.18108	33.34374	Iraq	sites	tall	tall	ʿAqarqūf	cornu3
+44.35693	33.35932	Iraq	metropoles	metropole	metropole	Baġdād	cornu3
+44.21572	33.37712	Iraq	regions	canton	canton	Bādūrayā	cornu3
+43.70150	33.39492	Iraq	towns	cite	cite	al-Anbār	cornu3
+44.24636	33.39714	Iraq	regions	canton	canton	Qaṭrabbul	cornu3
+44.06385	33.41382	Iraq	waystations	etape	etape	al-Saylaḥīn ?	cornu3
+44.59405	33.43161	Iraq	towns	cite	cite	al-Nahrawān	cornu3
+43.26055	33.46273	Iraq	villages	localite	localite	al-Rabb	cornu3
+44.36092	33.50829	Iraq	towns	cite	cite	Baradān	cornu3
+44.70196	33.60709	Iraq	waystations	etape	etape	Dayr Bāzamaŧ / Dayr Tīrmaŧ ?	cornu3
+42.80628	33.64370	Iraq	towns	cite	cite	Hīt	cornu3
+44.64201	33.70578	Iraq	towns	cite	cite	Buwahriz	cornu3
+45.48927	33.71797	Iraq	towns	cite	cite	Bandanīǧān/Bandanīǧīn	cornu3
+44.63801	33.73126	Iraq	towns	cite	cite	Bāǧisrá	cornu3
+44.65666	33.76006	Iraq	towns	cite	cite	Baʿqūbā/Bāqūbaŧ	cornu3
+44.26367	33.81321	Iraq	towns	cite	cite	Aywānaŧ/Awānaŧ/Uwānaŧ	cornu3
+42.61179	33.82317	Iraq	waystations	etape	etape	al-Nāwusaŧ	cornu3
+44.22504	33.85526	Iraq	towns	cite	cite	ʿUkbarā	cornu3
+44.92310	33.94151	Iraq	towns	cite	cite	Daskaraŧ/Daskaraŧ al-Malik	cornu3
+44.18508	33.95808	Iraq	towns	cite	cite	Ḥarbá	cornu3
+45.01502	33.97686	Iraq	towns	cite	cite	al-Hārūniyya/Ṭarastān	cornu3
+44.44618	33.97797	Iraq	waters	canal	canal	Nahr al-Qāṭūl	cornu3
+44.08916	34.02656	Iraq	towns	cite	cite	ʿAlṯ / al-ʿAlṯ	cornu3
+43.98259	34.09388	Iraq	waystations	etape	etape	al-Qādisiyyaŧ	cornu3
+45.11759	34.17989	Iraq	towns	cite	cite	Ǧalūlā	cornu3
+43.88134	34.20964	Iraq	capitals	capitale	capitale	Sāmarrāʾ	cornu3
+43.87468	34.29663	Iraq	villages	localite	localite	al-Karḫ	cornu3
+45.44708	34.34844	Iraq	towns	cite	cite	Ḫāniqīn	cornu3
+43.80541	34.46814	Iraq	towns	cite	cite	al-Dūr	cornu3
+45.93468	34.47862	Iraq	capitals	capitale	capitale	Ḥulwān	cornu3
+45.62659	34.49996	Iraq	villages	localite	localite	Qaṣr Šīrīn	cornu3
+43.69617	34.59215	Iraq	towns	cite	cite	Takrīt	cornu3
+43.72814	34.62614	Iraq	waystations	etape	etape	Ǧabiltā/Ǧabultā	cornu3
+43.89840	34.80370	Iraq	sites	mont	mont	Ǧabal Bārimmā	cornu2
+43.60292	34.81448	Iraq	waystations	etape	etape	al-Sūdaqāniyyaŧ	cornu3
+43.88401	34.93688	Iraq	sites	montagne	montagne	Ǧabal Bārimmā	cornu3
+43.57361	35.07982	Iraq	waystations	etape	etape	Bārimmā	cornu3
+44.46217	35.13976	Iraq	villages	localite	localite	Daqūqāʾ	cornu3
+43.46591	35.26076	Iraq	towns	cite	cite	al-Sinn	cornu2
+46.61972	13.56967	Jazirat al-Arab	towns	cite	cite	Aḥwar	cornu7
+46.54442	13.67538	Jazirat al-Arab	regions	region	region	Aḥwar	cornu7
+49.59980	14.76671	Jazirat al-Arab	towns	cite	cite/port	al-Šiḥr	cornu7
+46.92186	15.24886	Jazirat al-Arab	waters	wadi	wadi	Šanuwaŧ/Sanūʾaŧ #	cornu7
+48.80405	15.64792	Jazirat al-Arab	regions	region	region	Ḥaḍramawt	cornu7
+40.07137	15.69528	Jazirat al-Arab	regions	ile	ile	Dahlak	cornu7
+42.51067	17.58374	Jazirat al-Arab	regions	region	region	Tihāmaŧ	cornu7
+44.29950	17.58603	Jazirat al-Arab	towns	cite	cite	Naǧrān	cornu7
+43.54039	17.60657	Jazirat al-Arab	villages	localite	localite	al-Mahǧaraŧ ?	cornu7
+43.43742	17.85975	Jazirat al-Arab	waystations	etape	etape?	Šarūraŧ ?	cornu7
+43.19302	18.17110	Jazirat al-Arab	waystations	etape	etape	al-Ṯuǧǧaŧ ?	cornu7
+42.98036	18.48351	Jazirat al-Arab	regions	mikhlaf	mikhlaf	Kuṯbaŧ/Kuṯnaŧ	cornu7
+41.39305	18.62751	Jazirat al-Arab	towns	cite	cite	Ḥalī	cornu7
+42.69682	18.63711	Jazirat al-Arab	towns	cite	cite	Ǧuraš	cornu7
+42.44873	18.77618	Jazirat al-Arab	regions	region	region	Ǧuraš	cornu7
+42.82847	18.87682	Jazirat al-Arab	waystations	etape	etape	Yabambam/Yabanbam	cornu7
+39.48379	19.02737	Jazirat al-Arab	waters	mer	mer	Baḥr al-Qulzum	cornu7
+41.48925	19.08509	Jazirat al-Arab	waters	wadi	wadi	Wādī Yabaŧ	cornu7
+41.15761	19.12337	Jazirat al-Arab	waystations	etape	etape	Qanawnaŧ	cornu7
+42.78290	19.20706	Jazirat al-Arab	sites	site	site	Banāt Ǧarm/Banāt Ḥarm/Banāt Ḥarb ?	cornu7
+50.85870	19.38865	Jazirat al-Arab	regions	region	region	al-Aḥqāf	cornu7
+42.71961	19.51994	Jazirat al-Arab	waystations	etape	etape	Ǧusadāʾ ?	cornu7
+40.96521	19.56050	Jazirat al-Arab	villages	localite	localite	Dawqaŧ	cornu7
+41.23862	19.80364	Jazirat al-Arab	regions	region	region	ʿAšam	cornu7
+40.76268	19.83698	Jazirat al-Arab	sites	port	port	al-Sirrayn	cornu7
+42.62594	19.93935	Jazirat al-Arab	waystations	etape	etape	Bīšaŧ	cornu7
+42.69682	20.04402	Jazirat al-Arab	regions	region	region	Bīšaŧ	cornu7
+42.41439	20.04558	Jazirat al-Arab	waystations	etape	etape	Tabālaŧ	cornu7
+43.29934	20.06543	Jazirat al-Arab	regions	region	region	Huǧayraŧ	cornu7
+40.33707	20.18053	Jazirat al-Arab	waystations	etape	etape	al-Līṯ	cornu7
+42.10410	20.30924	Jazirat al-Arab	villages	village	village	Ranyaŧ	cornu7
+41.87220	20.55409	Jazirat al-Arab	waystations	etape	etape?	Kudayy ?	cornu7
+40.08231	20.84741	Jazirat al-Arab	waystations	etape	etape	Yalamlam	cornu7
+41.68929	20.85351	Jazirat al-Arab	waystations	etape	etape?	Ṣafr ?	cornu7
+41.57497	21.09750	Jazirat al-Arab	regions	mikhlaf	mikhlaf	Turabaŧ	cornu7
+40.43179	21.10664	Jazirat al-Arab	sites	mont	mont	Ǧabal Ǧazwān/Ǧabal Ġazwān #?	cornu7
+40.40566	21.21629	Jazirat al-Arab	towns	cite	cite	al-Ṭāʾif	cornu7
+41.64030	21.25283	Jazirat al-Arab	villages	localite	localite	Turabaŧ	cornu7
+40.20316	21.32282	Jazirat al-Arab	villages	village	village	ʿArafāt	cornu7
+39.93206	21.35325	Jazirat al-Arab	towns	cite	cite	Miná	cornu7
+39.83612	21.39132	Jazirat al-Arab	metropoles	metropole	metropole	Makkaŧ	cornu7
+39.57789	21.41489	Jazirat al-Arab	villages	localite	localite	Qurayn	cornu7
+41.28101	21.44752	Jazirat al-Arab	waystations	etape	etape	al-Futuq ?	cornu7
+39.17790	21.46201	Jazirat al-Arab	towns	cite	cite	Ǧuddaŧ	cornu7
+40.21296	21.46576	Jazirat al-Arab	towns	cite	cite	Qarn/Qarn al-Manāzil	cornu7
+39.79161	21.53869	Jazirat al-Arab	sites	miqat	miqat	al-Tanʿīm	cornu7
+40.42853	21.62677	Jazirat al-Arab	villages	localite	localite	Ḏāt ʿIrq	cornu7
+39.73935	21.64499	Jazirat al-Arab	villages	localite	localite	Baṭn Marr	cornu7
+41.07197	21.73300	Jazirat al-Arab	waystations	etape	etape	al-Ǧudad ?	cornu7
+40.68003	21.73300	Jazirat al-Arab	waystations	etape	etape	Awṭās ?	cornu7
+39.46144	21.88079	Jazirat al-Arab	sites	aiguade	aiguade	ʿUsfān	cornu7
+40.84007	21.89675	Jazirat al-Arab	sites	aiguade	aiguade	al-Ġamraŧ ?	cornu7
+40.98726	22.03204	Jazirat al-Arab	waystations	etape	etape	al-Waǧraŧ	cornu7
+39.41808	22.10557	Jazirat al-Arab	towns	cite	cite	Ḫulayṣ	cornu7
+46.55875	22.14096	Jazirat al-Arab	regions	region	region	al-Falaǧ	cornu7
+39.56795	22.38571	Jazirat al-Arab	villages	localite	localite	al-Ḫaym/Ḫaym Umm Maʿbad/Qudayd	cornu7
+40.79626	22.44276	Jazirat al-Arab	waystations	etape	etape	al-Mislaḥ	cornu7
+41.51032	22.44819	Jazirat al-Arab	waystations	etape	etape	al-Šubaykaŧ	cornu7
+39.12422	22.60833	Jazirat al-Arab	towns	cite	cite	al-Ǧuḥfaŧ	cornu7
+58.11018	22.61105	Jazirat al-Arab	towns	cite	cite	Milaḥ	cornu7
+57.66352	22.68969	Jazirat al-Arab	towns	cite	cite	al-Qalʿaŧ	cornu7
+57.96619	22.71138	Jazirat al-Arab	towns	cite	cite	Samad	cornu7
+41.65725	22.78726	Jazirat al-Arab	villages	village	village	Qubāʾ ?	cornu7
+57.52541	22.86309	Jazirat al-Arab	towns	cite	cite	Nazwaŧ	cornu7
+40.75512	23.02816	Jazirat al-Arab	waystations	etape	etape	al-Ufayʿiyyaŧ	cornu7
+56.82897	23.05520	Jazirat al-Arab	towns	cite	cite	al-Sirr	cornu7
+39.09190	23.06872	Jazirat al-Arab	waters	wadi	wadi	Wādī Furʿ	cornu7
+41.92466	23.22544	Jazirat al-Arab	waystations	etape	etape	al-Daṯīnaŧ/Dafīnaŧ	cornu7
+39.09484	23.22814	Jazirat al-Arab	waystations	etape	etape	al-Abwāʾ	cornu7
+40.35548	23.28483	Jazirat al-Arab	towns	cite	cite	al-Suwāriqiyyaŧ	cornu7
+48.95073	23.29563	Jazirat al-Arab	regions	region	region	Yabrīn #?	cornu7
+39.02138	23.51137	Jazirat al-Arab	regions	region	region	al-Ḥiǧāz	cornu7
+56.30591	23.53023	Jazirat al-Arab	towns	cite	cite	Ḍank	cornu7
+42.45066	23.54101	Jazirat al-Arab	waystations	etape	etape	al-Falǧaŧ ?	cornu7
+58.63618	23.54370	Jazirat al-Arab	towns	cite	cite	Masqaṭ	cornu7
+39.23295	23.58141	Jazirat al-Arab	waystations	etape	etape	Suqyāʾ Banū Ġifār #?	cornu7
+51.97155	23.61911	Jazirat al-Arab	regions	region	region	al-Sabḫaŧ #?	cornu7
+45.37745	23.64065	Jazirat al-Arab	regions	region	region	al-Sudd #?	cornu7
+53.39087	23.69448	Jazirat al-Arab	regions	region	region	al-Baynūnaŧ	cornu7
+38.80098	23.72676	Jazirat al-Arab	towns	cite	cite	Badr	cornu7
+47.26694	23.77518	Jazirat al-Arab	regions	region	region	al-Ḫarǧ	cornu7
+38.50713	23.81820	Jazirat al-Arab	towns	cite	cite	al-Ǧār	cornu7
+56.45284	23.82088	Jazirat al-Arab	regions	circon	circon	ʿUmān	cornu7
+39.20944	23.85851	Jazirat al-Arab	sites	montee	montee	al-ʿArǧ	cornu7
+55.85631	23.89613	Jazirat al-Arab	towns	cite	cite	Ḥafīt	cornu7
+40.99902	24.01161	Jazirat al-Arab	waystations	etape	etape	al-ʿUmaq	cornu7
+39.23589	24.01966	Jazirat al-Arab	waystations	etape	etape	Ruwayṯaŧ	cornu7
+46.32366	24.02771	Jazirat al-Arab	regions	region	region	al-Ṯaniyyaŧ	cornu7
+38.95085	24.03308	Jazirat al-Arab	villages	village	village	al-Ṣafrāʾ	cornu7
+46.73506	24.08674	Jazirat al-Arab	regions	region	region	al-Yamāmaŧ	cornu7
+42.99135	24.09211	Jazirat al-Arab	waystations	etape	etape	Ǧadīlaŧ ?	cornu7
+38.12512	24.10820	Jazirat al-Arab	towns	cite	cite/port	Yanbuʿ	cornu7
+40.29083	24.11089	Jazirat al-Arab	waters	wadi	wadi	Wādī al-ʿAqīq	cornu7
+39.29760	24.11893	Jazirat al-Arab	waystations	etape	etape	Rawḥāʾ	cornu7
+47.35509	24.15648	Jazirat al-Arab	waystations	etape	etape	Sulaymaŧ ?	cornu7
+55.77403	24.19401	Jazirat al-Arab	towns	cite	cite	Tuʾām	cornu7
+39.35343	24.19669	Jazirat al-Arab	waystations	etape	etape	Sayyālaŧ	cornu7
+39.45628	24.29047	Jazirat al-Arab	waystations	etape	etape	Malal	cornu7
+41.22235	24.34402	Jazirat al-Arab	waystations	etape	etape	al-Salīlaŧ	cornu7
+56.69086	24.35205	Jazirat al-Arab	capitals	capitale	capitale	Ṣuḥār	cornu7
+39.56501	24.40558	Jazirat al-Arab	villages	village	village	Ḏū al-Ḥulayfaŧ	cornu7
+39.58264	24.44572	Jazirat al-Arab	villages	village	village	Qubā	cornu7
+39.60908	24.47782	Jazirat al-Arab	towns	cite	cite	al-Madīnaŧ/Madīntaŧ al-Nabī/Yaṯrib	cornu7
+40.02342	24.59544	Jazirat al-Arab	waystations	etape	etape	al-Ṭarafaŧ/al-Ṭaraf	cornu7
+46.73212	24.64352	Jazirat al-Arab	capitals	capitale	capitale	al-Ḥaǧr	cornu7
+42.86206	24.64886	Jazirat al-Arab	waystations	etape	etape	Ḍariyyaŧ	cornu7
+39.59145	24.64886	Jazirat al-Arab	sites	mont	mont	Ǧabal Uḥud	cornu7
+41.30169	24.66756	Jazirat al-Arab	waystations	etape	etape	Rabaḏaŧ	cornu7
+49.94102	24.72896	Jazirat al-Arab	regions	region	region	al-Haǧar	cornu7
+39.29172	24.72896	Jazirat al-Arab	waystations	etape	etape	Ḏū Ḫušub ?	cornu7
+50.65214	24.74231	Jazirat al-Arab	waystations	etape	etape	Ḥamaḍ ?	cornu7
+40.00579	24.85968	Jazirat al-Arab	regions	region	region	Baṭn al-Naḫl #?	cornu7
+46.72918	24.88100	Jazirat al-Arab	regions	region	region	al-ʿIrḍ ?	cornu7
+43.01192	24.95296	Jazirat al-Arab	waystations	etape	etape	Ṭiḫfaŧ ?	cornu7
+51.21928	24.95829	Jazirat al-Arab	regions	region	region	Qaṭar	cornu7
+41.40160	25.00091	Jazirat al-Arab	waystations	etape	etape	Muġīṯaŧ al-Māwān/al-Muġīṯaŧ	cornu7
+37.33759	25.03020	Jazirat al-Arab	towns	cite	cite	al-Ḥawrāʾ	cornu7
+40.79626	25.04085	Jazirat al-Arab	villages	localite	localite	al-ʿUsaylaŧ	cornu7
+39.03019	25.04884	Jazirat al-Arab	villages	localite	localite	al-Suwaydāʾ/al-Suwaydiyyaŧ	cornu7
+38.05459	25.06481	Jazirat al-Arab	waystations	etape	etape	Raʾs al-ʿAyn ?	cornu7
+39.37400	25.24834	Jazirat al-Arab	villages	localite	localite	Fadak	cornu7
+49.54137	25.34929	Jazirat al-Arab	capitals	capitale	capitale	al-Aḥsāʾ	cornu7
+43.14710	25.37319	Jazirat al-Arab	waystations	etape	etape	Immaraŧ ?	cornu7
+38.85976	25.46077	Jazirat al-Arab	towns	cite	cite	Ḥaḏaŧ	cornu7
+41.52796	25.55360	Jazirat al-Arab	waystations	etape	etape	Maʿdin al-Naqiraŧ	cornu7
+50.22312	25.55890	Jazirat al-Arab	towns	cite	cite	al-ʿUqayr	cornu7
+56.22657	25.59071	Jazirat al-Arab	towns	cite	cite	Dabā	cornu7
+38.29849	25.67549	Jazirat al-Arab	waters	wadi	wadi	Wādī al-Qurá	cornu7
+38.58647	25.71785	Jazirat al-Arab	towns	cite	cite	al-Marwaŧ/Ḏū al-Marwaŧ	cornu7
+55.98855	25.75227	Jazirat al-Arab	towns	cite	cite	Ǧullafār	cornu7
+43.42920	25.77608	Jazirat al-Arab	waystations	etape	etape	Rāmaŧ ?	cornu7
+39.26821	25.78667	Jazirat al-Arab	towns	cite	cite	Ḫaybar	cornu7
+41.75129	25.96910	Jazirat al-Arab	waystations	etape	etape	al-Ḥāǧir	cornu7
+44.07861	25.98495	Jazirat al-Arab	waystations	etape	etape	al-ʿAwsaǧaŧ	cornu7
+50.56693	26.11827	Jazirat al-Arab	regions	ile	ile	Uwāl	cornu7
+38.35433	26.15916	Jazirat al-Arab	towns	cite	cite	Suqyāʾ Yazīd/al-Suqyāʾ	cornu7
+49.98216	26.18157	Jazirat al-Arab	waystations	etape	etape	Musayliḥaŧ ?	cornu7
+50.19373	26.28437	Jazirat al-Arab	waystations	etape	etape	Dārīn	cornu7
+36.50010	26.29359	Jazirat al-Arab	waystations	etape	etape	al-Waǧh	cornu7
+42.03339	26.41998	Jazirat al-Arab	waystations	etape	etape	Samīrāʾ	cornu7
+49.96159	26.53966	Jazirat al-Arab	towns	cite	cite	al-Qaṭīf	cornu7
+37.99288	26.55412	Jazirat al-Arab	capitals	cheflieu	cheflieu	Qurḥ	cornu7
+36.24739	26.71435	Jazirat al-Arab	waystations	etape	etape	al-Nabk	cornu7
+42.29198	26.71435	Jazirat al-Arab	waystations	etape	etape	Tūz	cornu7
+47.21404	26.78388	Jazirat al-Arab	regions	region	region	al-Ṣammān	cornu7
+37.01435	26.79044	Jazirat al-Arab	waystations	etape	etape	al-Bayḍāʾ	cornu7
+37.93999	26.86125	Jazirat al-Arab	towns	cite	cite	Ḥiǧr Ṣāliḥ/al-Ḥiǧr	cornu7
+49.50023	26.90449	Jazirat al-Arab	waystations	etape	etape	al-Qurá	cornu7
+35.99173	27.00533	Jazirat al-Arab	towns	cite	cite	al-ʿAwnīd	cornu7
+36.74694	27.03413	Jazirat al-Arab	waystations	etape	etape	Badāʾ Yaʿqūb	cornu7
+36.47366	27.19891	Jazirat al-Arab	waystations	etape	etape	Saġb	cornu7
+35.78604	27.32690	Jazirat al-Arab	waystations	etape	etape	Ḍabbā/Ẓabbā	cornu7
+46.88787	27.45084	Jazirat al-Arab	waystations	etape	etape	al-Qarʿaŧ	cornu7
+36.07695	27.50168	Jazirat al-Arab	regions	oasis	oasis	Kilābaŧ/Kilāyaŧ	cornu7
+36.48835	27.67097	Jazirat al-Arab	regions	region	region	Ruḥbaŧ/Raḥabaŧ	cornu7
+48.72446	27.68528	Jazirat al-Arab	waystations	etape	etape	ʿArfaǧaŧ ?	cornu7
+35.41578	27.85039	Jazirat al-Arab	waystations	etape	etape	al-Ṣalā	cornu7
+35.57504	28.06253	Jazirat al-Arab	towns	ville	ville	al-Aʿrāʾ	cornu7
+35.19783	28.17030	Jazirat al-Arab	waystations	etape	etape	ʿAynūnaŧ	cornu7
+35.07298	28.47663	Jazirat al-Arab	waystations	etape	etape	Madyan Šuʿayb	cornu7
+48.37368	28.54666	Jazirat al-Arab	waystations	etape	etape	al-Ḥadūṯaŧ ?	cornu7
+35.19783	28.94260	Jazirat al-Arab	waystations	etape	etape	Šaraf Ḏū al-Naml/Šaraf al-Baʿl	cornu7
+35.03845	29.27449	Jazirat al-Arab	waystations	etape	etape	al-Ḥaql	cornu7
+47.92209	29.29998	Jazirat al-Arab	waystations	etape	etape	Kāẓimaŧ	cornu7
+51.18532	32.13467	Jibal	waystations	etape	etape	Asbīḏ Dašt	cornu4
+51.79877	32.23981	Jibal	waystations	etape	etape	Ḫān Ruš	cornu6
+51.72677	32.40272	Jibal	regions	region	region	Karwān	cornu5
+51.56268	32.40331	Jibal	towns	cite	cite	Ḫān Lanǧān/Ḫalanǧān/Ḫūlanǧān	cornu4
+52.71660	32.43743	Jibal	regions	canton	canton	Ruwaydašt	cornu5
+51.91596	32.45826	Jibal	waters	riviere	riviere	Nahr Zandarūḏ/al-Zarīnrūḏ/Zaranrūḏ	cornu5
+51.65000	32.66855	Jibal	regions	circon	circon	Iṣbahān/Iṣfahān	cornu5
+51.65000	32.66855	Jibal	capitals	capitale	capitale	Iṣbahān/Iṣfahān/al-Yahūdiyyaŧ	cornu5
+51.67468	32.78618	Jibal	regions	region	region	Burḫuwār	cornu5
+51.77613	33.08075	Jibal	waystations	etape	etape	Ribāṭ Wazz	cornu5
+50.95356	33.08994	Jibal	waystations	etape	etape	Marǧ wa-Zahr	cornu5
+47.40829	33.14964	Jibal	capitals	cheflieu	cheflieu	al-Ṣaymaraŧ	cornu5
+50.28728	33.18407	Jibal	waystations	etape	etape	Ḫunaǧān	cornu5
+47.52071	33.20013	Jibal	regions	region	region	Mihrǧānqaḏaq	cornu5
+50.65469	33.23683	Jibal	waystations	etape	etape	Qanūwān	cornu5
+51.81177	33.32165	Jibal	waystations	etape	etape	Ṭarq	cornu5
+52.36669	33.37701	Jibal	towns	cite	cite	Ardistān	cornu6
+50.29276	33.38120	Jibal	waystations	etape	etape	Ǧarbāḏaqān/Ǧulbayǧān	cornu5
+49.64019	33.39951	Jibal	towns	cite	cite	al-Burǧ	cornu5
+48.75730	33.44757	Jibal	waystations	etape	etape	Dāraqān	cornu5
+48.36521	33.49102	Jibal	villages	localite	localite	Sābūrḫāšt/Sābūrḫuwāšt	cornu5
+46.86539	33.52303	Jibal	towns	cite	cite	al-Sīrawān/al-Šīrāwān	cornu5
+52.01467	33.55960	Jibal	waystations	etape	etape	Bāḏ	cornu5
+46.92023	33.58473	Jibal	regions	region	region	Māsabaḏān	cornu5
+50.05422	33.62812	Jibal	waystations	etape	etape	Abtiʿaŧ	cornu5
+48.25553	33.86750	Jibal	villages	localite	localite	Lāštar	cornu5
+49.54697	33.88116	Jibal	capitals	cheflieu	cheflieu	al-Karaǧ/Karaǧ Abū Dulaf	cornu5
+49.54697	33.88116	Jibal	regions	territoire	territoire	al-Karaǧ/Karaǧ Abū Dulaf	cornu5
+48.80940	33.90164	Jibal	capitals	cheflieu	cheflieu	Burūǧird	cornu5
+51.50468	33.96762	Jibal	capitals	cheflieu	cheflieu	Qāšān	cornu5
+51.50468	33.96762	Jibal	regions	territoire	territoire	Qāšān	cornu5
+46.44040	34.16749	Jibal	towns	cite	cite	al-Ṭazar	cornu5
+48.90536	34.21059	Jibal	waystations	etape	etape	Ǧūrāb	cornu5
+48.39263	34.21512	Jibal	capitals	cheflieu	cheflieu	Nihāwand/Māh al-Baṣraŧ	cornu5
+46.85168	34.23099	Jibal	waystations	etape	etape?	al-Zubaydiyyaŧ ?	cornu5
+49.75261	34.25592	Jibal	regions	region	region	Farāhān	cornu5
+48.65585	34.25819	Jibal	towns	cite	cite	Rāman ?	cornu5
+46.22379	34.30577	Jibal	waystations	etape	etape	al-Marǧ/Marǧ al-Qalʿaŧ ?	cornu5
+47.09845	34.32388	Jibal	towns	cite	cite	Qarmāsīn/Qarmīsīn	cornu5
+49.55519	34.36011	Jibal	capitals	cheflieu	cheflieu	Sārūq	cornu5
+47.47958	34.37821	Jibal	waystations	etape	etape	Bīsutūn/Bihsutūn	cornu5
+49.27004	34.41215	Jibal	waystations	etape	etape	Ḫundāb	cornu5
+48.54618	34.42798	Jibal	waystations	etape	etape	Rākāh	cornu5
+46.93427	34.43457	Jibal	waystations	etape	etape?	al-Zubaydiyyaŧ ?	cornu5
+46.04283	34.43477	Jibal	waystations	etape	etape	Māḏarwistān ?	cornu5
+51.11259	34.44607	Jibal	waystations	etape	etape	Qaryaŧ al-Maǧūs	cornu5
+47.65232	34.46868	Jibal	waystations	etape	etape	Qanṭaraŧ al-Nuʿmān ?	cornu5
+47.90457	34.49580	Jibal	towns	cite	cite	Qaṣr al-Luṣūṣ	cornu5
+47.49055	34.60195	Jibal	capitals	cheflieu	cheflieu	Dīnawar/Māh al-Kūfaŧ 	cornu5
+48.39263	34.62225	Jibal	towns	cite	cite	Ruḏrāwar	cornu5
+50.90695	34.63354	Jibal	capitals	cheflieu	cheflieu	Qumm	cornu5
+50.90695	34.63354	Jibal	regions	territoire	territoire	Qumm	cornu5
+50.54227	34.68541	Jibal	towns	cite	cite	Āwaŧ	cornu5
+50.09809	34.71922	Jibal	regions	region	region	Ṭabrīš	cornu5
+48.57908	34.77554	Jibal	metropoles	metropole	metropole	Hamaḏān	cornu5
+48.57908	34.77554	Jibal	regions	region	region	Hamaḏān	cornu5
+48.15134	34.80031	Jibal	towns	cite	cite	Asadābāḏ	cornu5
+48.42279	34.83858	Jibal	waystations	etape	etape	Zaʿfaraniyyaŧ ?	cornu5
+48.73262	34.84758	Jibal	villages	localite	localite	Darnawá ?	cornu5
+48.98488	34.95777	Jibal	waystations	etape	etape	Būzanǧird	cornu5
+50.42711	34.97799	Jibal	towns	cite	cite	Sāwaŧ	cornu5
+50.19954	35.00944	Jibal	waystations	etape	etape	Darwāḏ ?	cornu5
+50.02954	35.02740	Jibal	waystations	etape	etape	Sūsanqīn/Sūsnaqīn/Sūnaqīn	cornu5
+49.85406	35.06107	Jibal	waystations	etape	etape	Maṣdaqān	cornu5
+49.23165	35.06556	Jibal	waystations	etape	etape	Zarraŧ	cornu5
+49.79100	35.10371	Jibal	villages	localite	localite	Rūḏaŧ #?	cornu5
+49.39342	35.12165	Jibal	waystations	etape	etape	Ṭazraŧ	cornu5
+49.74164	35.13286	Jibal	towns	cite	cite	Būstaŧ	cornu5
+46.01676	35.25767	Jibal	regions	territoire	territoire	Šahrazūr	cornu5
+48.71891	35.29415	Jibal	waystations	etape	etape	Bārisiyān ?	cornu5
+51.65000	35.30310	Jibal	sites	site	site	Dizā/Dizah/Waramīn	cornu5
+50.77259	35.30758	Jibal	waystations	etape	etape	Maškūyaŧ	cornu5
+46.98439	35.31623	Jibal	towns	cite	cite	Sīsar	cornu16
+51.03856	35.41491	Jibal	waystations	etape	etape	Qusṭānaŧ	cornu5
+49.25084	35.59348	Jibal	waystations	etape	etape	Ūḏ	cornu5
+51.50831	35.62754	Jibal	capitals	capitale	capitale	al-Rayy	cornu16
+52.07774	35.75607	Jibal	regions	territoire	territoire	Dummāwand	cornu5
+49.23473	36.15722	Jibal	towns	cite	cite	Abhar	cornu16
+50.00110	36.27854	Jibal	towns	cite	cite	Qazwīn	cornu5
+48.63061	36.45828	Jibal	towns	cite	cite	Suhraward	cornu5
+44.66088	42.21330	Khazar	regions	region	region	al-Sarīr	cornu18
+50.10497	42.55994	Khazar	waters	lac	lac	Baḥr al-Ḫazar	cornu18
+47.51198	42.90467	Khazar	towns	cite	cite	Samandar	cornu18
+46.42082	43.28166	Khazar	towns	cite	cite	Balanǧar	cornu18
+50.92627	44.33997	Khazar	regions	region	region	Ǧazīraŧ Siyāh Kūh	cornu18
+48.08690	46.27880	Khazar	capitals	capitale	capitale	Itil/Atil	cornu18
+47.55892	47.42616	Khazar	regions	region	region	al-Ḫazar	cornu18
+40.89460	48.61696	Khazar	regions	region	region	al-Baǧānāk/al-Baǧānākiyyaŧ	cornu18
+45.13019	49.20301	Khazar	waters	riviere	riviere	Nahr Itil	cornu18
+49.92897	49.24133	Khazar	regions	region	region	al-Baǧānāk/al-Baǧānākiyyaŧ	cornu18
+54.16457	50.04287	Khazar	regions	region	region	Bašǧirt/Basǧird	cornu18
+46.64374	52.68645	Khazar	regions	region	region	Burṭās	cornu18
+48.40369	54.15460	Khazar	regions	region	region	Bulġār	cornu18
+49.96347	54.45304	Khazar	towns	cite	cite	Suwār	cornu18
+49.25044	54.86714	Khazar	towns	cite	cite	Bulġār	cornu18
+42.25518	55.73456	Khazar	regions	region	region	al-Arṯā/al-Arṯāniyyaŧ	cornu18
+62.12974	33.24402	Khurasan	capitals	capitale	capitale	al-Asfuzār	cornu17
+62.12974	33.24402	Khurasan	regions	territoire	territoire	al-Asfuzār	cornu17
+62.24983	33.59424	Khurasan	towns	cite	cite	Adraskar	cornu17
+59.09428	33.64706	Khurasan	capitals	capitale	capitale	Qāyīn	cornu17
+59.44592	33.77051	Khurasan	regions	region	region	Qūhistān	cornu17
+62.22016	33.85099	Khurasan	towns	cite	cite	Kuwāšān ?	cornu17
+58.11679	33.92591	Khurasan	towns	cite	cite	Tūn	cornu17
+68.74862	34.08270	Khurasan	towns	cite	cite	Sakāwand	cornu17
+62.19614	34.18473	Khurasan	towns	cite	cite	Mālin/al-Safalqāt/Malīn/Mālān	cornu17
+58.63618	34.24652	Khurasan	towns	cite	cite	Yunābīḏ/Ǧunābiḏ	cornu17
+62.80223	34.24840	Khurasan	towns	cite	cite	Astarabyān ?	cornu17
+62.58466	34.27292	Khurasan	towns	cite	cite	Ḫaysār ?	cornu17
+61.08287	34.27729	Khurasan	towns	cite	cite	Farkird ?	cornu17
+62.37698	34.28751	Khurasan	towns	cite	cite	Bāšān ?	cornu17
+59.86207	34.31050	Khurasan	regions	canton	canton	Zūzan	cornu17
+60.16386	34.31639	Khurasan	towns	cite	cite	Ḫarkird/Ḫarǧird	cornu17
+62.15235	34.33419	Khurasan	capitals	capitale	capitale	Harāŧ	cornu17
+62.15235	34.33419	Khurasan	regions	circon	circon	Harāŧ	cornu17
+63.00426	34.33710	Khurasan	towns	cite	cite	Mārābāḏ ?	cornu17
+63.94658	34.34906	Khurasan	towns	cite	cite	Ḫašt/Ḫast/Ḫāst/Ḫwašt	cornu17
+61.47787	34.35023	Khurasan	capitals	cheflieu	cheflieu	Būsanǧ/Fušanǧ/Būšank	cornu17
+61.47787	34.35023	Khurasan	regions	territoire	territoire	Būsanǧ/Fušanǧ/Būšank	cornu17
+65.09941	34.38521	Khurasan	sites	mont	mont	Ǧibal al-Ġūr	cornu17
+63.16814	34.40940	Khurasan	towns	cite	cite	Awbaŧ/Awfaŧ	cornu17
+61.32587	34.42834	Khurasan	towns	cite	cite	Karah ?	cornu17
+62.54651	34.47814	Khurasan	towns	cite	cite	Karūḫ	cornu17
+69.16963	34.52442	Khurasan	towns	cite	cite	Kābul	cornu17
+62.76550	34.53751	Khurasan	sites	ribat	ribat	Ribāṭ Mayānah	cornu17
+60.07273	34.56282	Khurasan	regions	region	region	Ḫawāf	cornu17
+62.07465	34.61545	Khurasan	regions	region	region	Bāḏġīs/Bāḏaġīs	cornu17
+61.17470	34.61574	Khurasan	towns	cite	cite	Kūsuwī/Kūsarī	cornu17
+59.98232	34.64655	Khurasan	towns	cite	cite	Salūmak	cornu17
+62.95057	34.69680	Khurasan	capitals	capitale	capitale	Dihistān	cornu17
+63.51568	34.72729	Khurasan	towns	cite	cite	Šūrmīn ?	cornu17
+67.80206	34.84737	Khurasan	capitals	capitale	capitale	al-Bāmiyān	cornu17
+67.80206	34.84737	Khurasan	regions	territoire	territoire	al-Bāmiyān	cornu17
+64.44388	34.88273	Khurasan	regions	territoire	territoire	Ġarǧ al-Šār/Ǧarǧistān	cornu17
+60.26487	34.93776	Khurasan	towns	cite	cite	Mālin/Kuwāḫarz	cornu17
+62.47870	34.94152	Khurasan	towns	cite	cite	Babnaŧ	cornu17
+60.33692	35.01995	Khurasan	regions	region	region	Bāḫarz	cornu17
+59.84669	35.04974	Khurasan	regions	canton	canton	Ǧāyimand ?	cornu17
+59.41155	35.05003	Khurasan	regions	canton	canton	Sankān/Sanǧān	cornu17
+62.46952	35.07720	Khurasan	regions	region	region	Kanǧ Rustāq	cornu17
+63.52263	35.08069	Khurasan	waystations	etape	etape	Ribāṭ Šūr ?	cornu17
+58.12875	35.12055	Khurasan	towns	cite	cite	Kundur	cornu17
+58.41130	35.13557	Khurasan	capitals	cheflieu	cheflieu	Ṭurṯīṯ/Turšīz/Ṭurayṯīṯ	cornu17
+69.25887	35.17084	Khurasan	regions	canton	canton	Barwān/Farwān	cornu17
+60.61524	35.17917	Khurasan	towns	cite	cite	al-Būzǧān/Būzkān	cornu17
+62.42996	35.20428	Khurasan	towns	cite	cite	Kayf/Kīf  ?	cornu17
+67.72517	35.24443	Khurasan	towns	cite	cite	Kāh/Ǧāh	cornu17
+63.52800	35.24882	Khurasan	towns	cite	cite	Abšīn ?	cornu17
+58.27285	35.26140	Khurasan	regions	region	region	Bušt	cornu17
+61.44101	35.31157	Khurasan	villages	village	village	Ǧabal al-Fiḍḍaŧ/Kūh-I Sīm	cornu17
+60.57003	35.33837	Khurasan	regions	region	region	Ǧām	cornu17
+64.60334	35.33988	Khurasan	towns	cite	cite	Kandaram ?	cornu17
+67.85287	35.38044	Khurasan	towns	cite	cite	Maḏar	cornu17
+69.62448	35.39907	Khurasan	towns	cite	cite	Ǧārbāyaŧ ?	cornu17
+60.29878	35.41670	Khurasan	waystations	etape	etape	Mālāyakird ?	cornu17
+63.44735	35.42618	Khurasan	towns	cite	cite	Dizah ?	cornu17
+69.81804	35.51814	Khurasan	regions	canton	canton	Banǧahīr/Banǧar ?	cornu17
+59.36352	35.53664	Khurasan	waystations	etape	etape	al-Mallāḥaŧ ?	cornu17
+63.36670	35.59250	Khurasan	capitals	capitale	capitale	Marw al-Rūḏ	cornu17
+63.36670	35.59250	Khurasan	regions	territoire	territoire	Marw al-Rūḏ	cornu17
+62.54722	35.60846	Khurasan	towns	cite	cite	Baġšūr	cornu17
+63.81969	35.61955	Khurasan	villages	localite	localite	Ribāṭ Karzwān	cornu17
+60.00916	35.63286	Khurasan	waystations	etape	etape	Nūkdah ?	cornu17
+69.36909	35.68835	Khurasan	towns	cite	cite	Andarāb	cornu17
+65.10068	35.72110	Khurasan	regions	region	region	Ǧūzǧān	cornu17
+64.24579	35.72328	Khurasan	towns	cite	cite	Ṭalaqān	cornu17
+63.44735	35.74074	Khurasan	waystations	etape	etape	Araskan ?	cornu17
+63.21212	35.76147	Khurasan	towns	cite	cite	Qaṣr Aḥnaf	cornu17
+59.56978	35.78200	Khurasan	waystations	etape	etape	Farhākird	cornu17
+63.98233	35.78873	Khurasan	waystations	etape	etape	Kanǧābāḏ ?	cornu17
+63.76323	35.81599	Khurasan	waystations	etape	etape	al-Asrāb ?	cornu17
+64.54957	35.88354	Khurasan	waystations	etape	etape	Kasḥān ?	cornu17
+65.87895	35.88517	Khurasan	regions	region	region	al-Ǧurzuwān	cornu17
+65.87895	35.88517	Khurasan	towns	cite	cite	al-Ǧurzuwān	cornu17
+64.83857	35.93470	Khurasan	waystations	etape	etape	al-Yahūdiyyaŧ/Ǧakūḏān	cornu17
+62.96749	35.96191	Khurasan	waystations	etape	etape	Ḥawzān ?	cornu17
+59.12900	36.03203	Khurasan	villages	localite	localite	Qaṣr al-Rīḥ	cornu17
+68.67012	36.03586	Khurasan	regions	region	region	Ṭuḫāristān	cornu17
+59.66585	36.08000	Khurasan	waystations	etape	etape	Ḫakisār/Ḫākisārān/al-Ram_adaŧ	cornu17
+58.39294	36.08371	Khurasan	villages	localite	localite	Bīskand/Bīšakand ?	cornu17
+57.64840	36.08485	Khurasan	regions	region	region	Bayhaq	cornu17
+60.18929	36.10597	Khurasan	villages	localite	localite	Ṣāhih	cornu17
+57.92813	36.10768	Khurasan	waystations	etape	etape	Ḥusaynābāḏ ?	cornu17
+58.79841	36.12138	Khurasan	metropoles	metropole	metropole	Naysābūr	cornu17
+58.79841	36.12138	Khurasan	regions	circon	circon	Naysābūr	cornu17
+57.66932	36.15624	Khurasan	towns	cite	cite	Sābzawār	cornu16
+60.54672	36.17215	Khurasan	villages	localite	localite	Mazdūrān/al-ʿAqabaŧ	cornu17
+59.24061	36.17813	Khurasan	regions	contree	contree	Buštafrūš/Bustanfarūš	cornu17
+59.24061	36.17813	Khurasan	villages	bourgade	bourgade	Buštafrūš/Bustanfarūš	cornu17
+58.36115	36.18583	Khurasan	towns	cite	cite	Rīwand ?	cornu17
+57.47851	36.18956	Khurasan	towns	cite	cite	Ḫusrawǧird	cornu16
+65.94751	36.20578	Khurasan	towns	cite	cite	al-Anbār	cornu17
+59.59168	36.20578	Khurasan	towns	cite	cite	al-Nūqān/al-Mašhad	cornu17
+68.09011	36.22585	Khurasan	towns	cite	cite	Siminǧān	cornu17
+59.61287	36.23200	Khurasan	villages	village	village	Sanābāḏ ?	cornu17
+68.77093	36.23560	Khurasan	regions	territoire	territoire	Baġlān	cornu17
+68.77093	36.23560	Khurasan	towns	cite	cite	Baġlān	cornu17
+56.95205	36.27876	Khurasan	villages	localite	localite	Mazīnān	cornu16
+62.67861	36.29294	Khurasan	waystations	etape	etape	Asadābāḏ ?	cornu17
+56.45362	36.32897	Khurasan	towns	cite	cite	Asadābāḏ	cornu16
+56.83212	36.32897	Khurasan	villages	localite	localite	Bahmanābāḏ	cornu16
+60.79678	36.34872	Khurasan	waystations	etape	etape	Ūkīnaŧ/Awkīnaŧ	cornu17
+65.32516	36.35640	Khurasan	waystations	etape	etape	al-Qāʾ ?	cornu17
+59.49915	36.42208	Khurasan	capitals	capitale	capitale	Ṭūs/Ṭābarān	cornu17
+59.49915	36.42208	Khurasan	regions	region	region	Ṭūs/Ṭābarān	cornu17
+64.93938	36.46025	Khurasan	towns	cite	cite	Fāriyāb	cornu17
+61.18671	36.51694	Khurasan	towns	cite	cite	Saraḫs	cornu17
+62.44974	36.57540	Khurasan	villages	localite	localite	al-Qarīnayn	cornu17
+57.84690	36.58050	Khurasan	towns	canton	canton	Mihraǧān/Mihriǧān ?	cornu17
+65.78352	36.65136	Khurasan	towns	cite	cite	Šabūrqān/Ušbūrqān	cornu17
+70.91488	36.65244	Khurasan	towns	cite	cite	Sakalkand/Iskalkand ?	cornu17
+56.59926	36.68546	Khurasan	capitals	cheflieu	cheflieu	Azāḏwār	cornu16
+62.52603	36.73407	Khurasan	waters	riviere	riviere	Nahr Murġab	cornu17
+67.70299	36.74621	Khurasan	towns	cite	cite	Ḫulm	cornu17
+69.62314	36.76021	Khurasan	towns	cite	cite	Ṭālaqān	cornu17
+68.89729	36.78174	Khurasan	towns	cite	cite	Warwālīǧ/Walwālīz	cornu17
+66.88305	36.78497	Khurasan	capitals	capitale	capitale	Balḫ	cornu17
+66.88305	36.78497	Khurasan	regions	circon	circon	Balḫ	cornu17
+70.92564	36.80704	Khurasan	regions	canton	canton	Ǧirm	cornu17
+65.07649	36.81403	Khurasan	towns	cite	cite	Mālin	cornu17
+58.96653	36.81951	Khurasan	towns	cite	cite	Rāḏakān/Rāyakān	cornu17
+66.64110	36.83340	Khurasan	villages	localite	localite	Dastaǧirdaŧ ?	cornu17
+66.21231	36.83770	Khurasan	waystations	etape	etape	al-Sidraŧ ?	cornu17
+60.44076	36.85569	Khurasan	towns	cite	cite	Mayhanaŧ/Mahanaŧ	cornu17
+56.69972	36.86045	Khurasan	regions	region	region	Ǧuwayn/Kūyān	cornu16
+62.46952	36.88847	Khurasan	waystations	etape	etape	Baḥīrābāḏ ?	cornu17
+58.45439	36.91219	Khurasan	capitals	cheflieu	cheflieu	Ḫūǧān/Ḫūšān/Ḫabūšān	cornu17
+65.16655	36.95541	Khurasan	towns	cite	cite	Andaḫūḏ	cornu17
+57.43023	36.98777	Khurasan	regions	canton	canton	Asfarāyin	cornu16
+67.09946	37.02037	Khurasan	villages	localite	localite	Šawkard/Siyāhǧird	cornu17
+61.47492	37.03409	Khurasan	waystations	etape	etape	Talastānaŧ ?	cornu17
+72.31013	37.03915	Khurasan	regions	region	region	Waḫḫān	cornu17
+62.41583	37.12201	Khurasan	waystations	etape	etape	Mahdīābāḏ ?	cornu17
+59.28793	37.12708	Khurasan	villages	localite	localite	Qalmayhan ?	cornu17
+68.86234	37.23952	Khurasan	towns	cite	cite	Ārhan	cornu17
+59.38400	37.24076	Khurasan	sites	ribat	ribat	Ribāṭ Kūfan	cornu17
+59.59733	37.27000	Khurasan	towns	cite	cite	Abīward	cornu17
+61.65152	37.27393	Khurasan	towns	cite	cite	Dandānaqān ?	cornu17
+62.29575	37.39749	Khurasan	villages	localite	localite	Fāz/Zarq ?	cornu17
+61.68119	37.46480	Khurasan	towns	cite	cite	Sinǧ/Sink ?	cornu17
+62.22511	37.49732	Khurasan	towns	cite	cite	Ǧīranǧ/Kīrank ?	cornu17
+61.87474	37.50068	Khurasan	villages	localite	localite	Ǧarūǧird/Kanūǧird/Yanūǧird/Yanūkird ?	cornu17
+65.31239	37.59463	Khurasan	waystations	etape	etape	Qabr Ġiyāṯ/Qaná Ġiyāṯ	cornu17
+70.79525	37.59609	Khurasan	regions	region	region	Baḏaḫšān	cornu17
+61.61458	37.60594	Khurasan	towns	cite	cite	Hurmuz Farrah ?	cornu17
+61.61458	37.60594	Khurasan	waters	coursdeau	coursdeau	Hurmuz Farrah ?	cornu17
+61.89282	37.61978	Khurasan	towns	cite	cite	Ḫaraq ?	cornu17
+62.10386	37.67193	Khurasan	capitals	capitale	capitale	Marw/Marw al-Šāhiǧān	cornu17
+62.10386	37.67193	Khurasan	regions	circon	circon	Marw/Marw al-Šāhiǧān	cornu17
+61.73152	37.68151	Khurasan	towns	cite	cite	al-Sūsaqān/al-Sawsaqān ?	cornu17
+62.59986	37.78994	Khurasan	towns	cite	cite	Kušmayhan/Kušmāhan ?	cornu17
+58.21787	37.85763	Khurasan	towns	cite	cite	Nasāʾ	cornu17
+65.19679	37.86572	Khurasan	towns	cite	cite	Zamm/Karkuh	cornu17
+62.80686	38.04920	Khurasan	sites	ribat	ribat	Ribāṭ al-Ḥadīd ?	cornu17
+62.99639	38.31229	Khurasan	sites	ribat	ribat	Ribāṭ Naṣrak ?	cornu17
+63.20339	38.58258	Khurasan	sites	ribat	ribat	Ǧubb Ḥammād ?	cornu17
+63.35393	38.84034	Khurasan	sites	ribat	ribat	Ribāṭ Bāris ?	cornu17
+56.26856	38.92182	Khurasan	sites	ribat	ribat	Ribāṭ Afrāwaŧ	cornu16
+63.51255	39.06795	Khurasan	towns	cite	cite	Āmul	cornu17
+70.54447	41.19160	Khurasan	sites	mont	mont	Kūh-i Sīm/Ǧabal al-Fiḍḍaŧ	cornu17
+49.34418	29.93795	Khuzistan	waters	mer	mer	Baḥr Fāris	cornu4
+48.14211	30.41602	Khuzistan	waters	riviere	riviere	Fam al-ʿAḍudī ?	cornu4
+48.33301	30.52571	Khuzistan	towns	cite	cite	Ḥiṣn Mahdī	cornu4
+48.77033	30.65916	Khuzistan	towns	cite	cite	Bāsiyān	cornu4
+50.14499	30.72440	Khuzistan	towns	cite	cite	Sanbīl/Sūq Sanbīl ?	cornu4
+48.83628	30.73079	Khuzistan	waystations	etape	etape	Ḫan Mazdawayhī/Ḫān Mardawayhi ?	cornu4
+49.69307	30.73130	Khuzistan	villages	bourgade	bourgade	Āsak ?	cornu4
+49.97179	30.77763	Khuzistan	waystations	etape	etape	Dahlīzān	cornu4
+49.32901	30.78178	Khuzistan	waystations	etape	etape	Dayraŧ ?	cornu4
+48.92625	30.81069	Khuzistan	capitals	capitale	capitale	al-Dawraq/al-Surrāq	cornu4
+48.92625	30.81069	Khuzistan	regions	region	region	al-Dawraq/al-Surrāq	cornu4
+49.83759	30.88498	Khuzistan	regions	kura	kura	al-Ǧāyzan	cornu4
+49.83759	30.88498	Khuzistan	towns	cite	cite	al-Ǧāyzan	cornu4
+48.52390	30.94139	Khuzistan	towns	cite	cite	Sūq al-Arbaʿāʾ ?	cornu4
+49.80777	30.96763	Khuzistan	waystations	etape	etape	al-Ḫābarān ?	cornu4
+48.88100	31.02269	Khuzistan	waystations	etape	etape	Mandam/Bandam ?	cornu4
+49.71372	31.05807	Khuzistan	capitals	cheflieu	cheflieu	Ḥawmaŧ al-Zuṭṭ/al-Zuṭṭ ?	cornu4
+49.71372	31.05807	Khuzistan	regions	district	district	Ḥawmaŧ al-Zuṭṭ/al-Zuṭṭ ?	cornu4
+48.79726	31.20731	Khuzistan	towns	cite	cite	Šūrāb ?	cornu4
+49.31456	31.22889	Khuzistan	waystations	etape	etape	ʿAbdīn	cornu4
+49.04158	31.24752	Khuzistan	towns	cite	cite	Azam/Aǧam ?	cornu4
+49.60131	31.28576	Khuzistan	capitals	capitale	capitale	Rām Hurmuz/Rāmahurmuz	cornu4
+49.60131	31.28576	Khuzistan	regions	region	region	Rām Hurmuz/Rāmahurmuz	cornu4
+49.96262	31.29164	Khuzistan	waystations	etape	etape	Badah	cornu4
+48.69059	31.32986	Khuzistan	metropoles	metropole	metropole	al-Ahwāz/Sūq al-Ahwāz	cornu4
+48.69059	31.32986	Khuzistan	regions	region	region	al-Ahwāz/Sūq al-Ahwāz	cornu4
+48.53345	31.39058	Khuzistan	regions	district	district	Manāḏir	cornu4
+49.82612	31.39156	Khuzistan	waystations	etape	etape	Tīram ?	cornu4
+48.38090	31.46790	Khuzistan	towns	cite	cite	Nahr Tīrā/Nahr Tīrīn	cornu4
+50.23675	31.47670	Khuzistan	waystations	etape	etape	Ǧisr Ǧahannam	cornu4
+49.89724	31.54027	Khuzistan	towns	cite	cite	Ġarwaŧ/ʿArwaŧ	cornu4
+49.89265	31.64090	Khuzistan	towns	cite	cite	Bāzīr/Bāzank	cornu4
+48.89820	31.66531	Khuzistan	capitals	capitale	capitale	ʿAskar Mukram	cornu4
+48.89820	31.66531	Khuzistan	regions	region	region	ʿAskar Mukram	cornu4
+50.29984	31.71801	Khuzistan	waystations	etape	etape	Rustaǧird/al-Diz	cornu4
+49.01519	31.76776	Khuzistan	waters	riviere	riviere	Nahr Mašruqān/Masrūqān	cornu4
+49.87086	31.85548	Khuzistan	towns	cite	cite	Īḏaǧ	cornu4
+48.84200	31.88178	Khuzistan	waters	riviere	riviere	Nahr Tustar	cornu4
+50.60379	31.93047	Khuzistan	waystations	etape	etape	Buwayn	cornu4
+48.30405	31.99567	Khuzistan	towns	cite	cite	Baṣinnā	cornu4
+51.21056	32.01123	Khuzistan	waystations	etape	etape	Ribāṭ Bārakān	cornu4
+48.85461	32.05110	Khuzistan	capitals	capitale	capitale	Tustar/Šuštar	cornu4
+48.85461	32.05110	Khuzistan	regions	region	region	Tustar/Šuštar	cornu4
+47.90375	32.06082	Khuzistan	towns	cite	cite	Bayrūt ?	cornu4
+50.84351	32.09289	Khuzistan	waystations	etape	etape	Sawǧar	cornu4
+48.20426	32.16186	Khuzistan	waters	riviere	riviere	Nahr Sūs	cornu4
+48.26047	32.20166	Khuzistan	capitals	capitale	capitale	Sūs	cornu4
+48.26047	32.20166	Khuzistan	regions	region	region	Sūs	cornu4
+48.53919	32.29866	Khuzistan	capitals	capitale	capitale	Ǧundaysābūr	cornu4
+48.53919	32.29866	Khuzistan	regions	region	region	Ǧundaysābūr	cornu4
+48.42219	32.38975	Khuzistan	towns	cite	cite	al-Diz/Dizfūl	cornu4
+48.14577	32.46817	Khuzistan	towns	cite	cite	Karǧaŧ/Karḫaŧ	cornu4
+48.30291	32.53782	Khuzistan	regions	district	district	al-Lūr	cornu4
+48.45021	32.98650	Khuzistan	villages	localite	localite	al-Diz/Qanṭaraŧ Andāmiš ?	cornu5
+57.81535	27.01075	Kirman	towns	cite	cite	Bās ?	cornu6
+56.94955	27.09940	Kirman	towns	cite	cite	Hurmūz	cornu6
+57.46843	27.22823	Kirman	towns	cite	cite	Ǧakīn	cornu6
+57.56194	27.45601	Kirman	towns	cite	cite	Manūqān/Manūǧān	cornu6
+57.75501	27.67797	Kirman	towns	cite	cite	Kūh Barǧān	cornu6
+56.13806	27.77410	Kirman	villages	localite	localite	Dih Bārist/Dih Ruwīst ?	cornu6
+57.22106	27.79812	Kirman	waystations	etape	etape	Kūmīz/Kūmīn/Kūmīr	cornu6
+57.73088	27.82747	Kirman	regions	region	region	Ruḏbār/Ruḏbāl	cornu6
+57.01290	27.93413	Kirman	towns	ville	ville	Ardakān/Sūrakān	cornu6
+56.75347	27.96611	Kirman	villages	localite	localite	Marzaqān	cornu6
+57.78820	27.97676	Kirman	towns	cite	cite	Maġūn	cornu6
+57.27536	28.00340	Kirman	towns	cite	cite	Walāšǧird	cornu6
+56.46959	28.02089	Kirman	villages	localite	localite	Ǧīrūqān ?	cornu6
+56.29939	28.11572	Kirman	waystations	etape	etape	Kašistān ?	cornu6
+58.18338	28.12851	Kirman	towns	cite	cite	Ǧuwī Sulaymān	cornu6
+56.14160	28.40625	Kirman	towns	cite	cite	Dašt Barīn	cornu6
+57.90910	28.43830	Kirman	waters	riviere	riviere	Nahr Harīrūḏ	cornu6
+57.76854	28.45204	Kirman	villages	localite	localite	al-Mīǧan/al-Mīzan	cornu6
+58.73846	28.65133	Kirman	towns	cite	cite	Rīqān/Rīkān	cornu6
+58.29802	28.67780	Kirman	sites	mont	mont	Ǧibāl al-Bāriz	cornu6
+57.80498	28.69436	Kirman	capitals	capitale	capitale	Ǧīruft	cornu6
+55.24354	28.71262	Kirman	waystations	etape	etape	Ḫušnābāḏ/Ḥasanābāḏ ?	cornu6
+56.31341	28.85863	Kirman	towns	cite	cite	Ḫabr	cornu6
+55.33985	28.87915	Kirman	towns	ville	ville	Kāhūn ?	cornu6
+58.49109	28.88667	Kirman	towns	cite	cite	Kurk/Ǧurǧ	cornu6
+58.88326	28.97908	Kirman	towns	cite	cite	al-Fahraǧ	cornu6
+58.64795	28.98436	Kirman	capitals	capitale	capitale	Narmāsīr	cornu6
+57.92696	29.01602	Kirman	towns	cite	cite	Hurmuz al-Malik/Qaryaŧ al-Ǧawz	cornu6
+57.48653	29.06085	Kirman	towns	cite	cite	al-Darbāná/al-Darfāná/Šiʿb Darfārid?	cornu6
+58.34327	29.10304	Kirman	capitals	capitale	capitale	Bamm	cornu6
+56.16823	29.12939	Kirman	towns	ville	ville	Bāḫtaŧ/Nāǧt	cornu6
+56.81984	29.17945	Kirman	sites	mont	mont	Ǧibāl Maʿdin al-Fiḍḍaŧ	cornu6
+58.17433	29.20052	Kirman	towns	cite	cite	Darǧīn	cornu6
+57.89378	29.27422	Kirman	towns	cite	cite	Sarwīstān	cornu6
+57.95411	29.32947	Kirman	towns	cite	cite	Awārik	cornu6
+57.80931	29.42410	Kirman	towns	cite	cite	Tūštān	cornu6
+55.74854	29.46102	Kirman	metropoles	metropole	metropole	al-Sīrǧān	cornu6
+55.74854	29.46102	Kirman	regions	circonscription	circonscription	al-Sīrǧān	cornu6
+55.28258	29.56070	Kirman	waystations	etape	etape?	Ribāṭ Bušt Ḫamm ?	cornu6
+57.49859	29.61311	Kirman	towns	cite	cite	Rāʾin/Rāyin	cornu6
+57.06721	29.61836	Kirman	towns	cite	cite	Kūġūn	cornu6
+54.80361	29.63539	Kirman	waystations	etape	etape	Sarmaqān/Ǧarmaqān/Ribāṭ Sarmaqān ?	cornu6
+55.59756	29.66254	Kirman	towns	cite	cite	Bīmand	cornu6
+58.03255	29.70224	Kirman	towns	cite	cite	Našk	cornu6
+56.61470	29.71010	Kirman	towns	cite	cite	Karistān ?	cornu6
+58.26785	29.71534	Kirman	towns	cite	cite	Kašīd	cornu6
+56.97972	29.72844	Kirman	towns	cite	cite	Ġubayrāʾ	cornu6
+56.01438	29.76249	Kirman	towns	cite	cite	al-Šāmāt	cornu6
+55.67825	29.79365	Kirman	villages	localite	localite	Kurdakān ?	cornu6
+56.71727	29.85672	Kirman	towns	cite	cite	Ḫannāb	cornu6
+57.76105	29.86457	Kirman	towns	cite	cite	Kūk	cornu6
+56.35225	29.88550	Kirman	towns	cite	cite	Bahār ?	cornu6
+56.77211	29.95407	Kirman	villages	localite	localite	Firzīn/Firdīn ?	cornu6
+57.70606	30.11166	Kirman	towns	cite	cite	Kaṯruwā	cornu6
+57.31039	30.11166	Kirman	towns	cite	cite	Māhān	cornu6
+57.10475	30.30962	Kirman	regions	circon	circon	Bardasīr/Bardašīr/Kuwašīr	cornu6
+57.75292	30.46232	Kirman	towns	cite	cite	Ḫabīṣ	cornu6
+56.92513	30.67077	Kirman	towns	cite	cite	Ǧanzarūḏ/Ǧātrūd ?	cornu6
+56.59714	30.82737	Kirman	towns	cite	cite	Zarand	cornu6
+56.87568	31.24891	Kirman	towns	cite	cite	Zāwar/Rawār	cornu6
+56.29779	31.38012	Kirman	towns	cite	cite	Kūh Bayān	cornu6
+55.96459	31.83238	Kirman	towns	cite	cite	Bahāwaḏ ?	cornu6
+58.76561	29.22421	Mafaza	villages	village	village	Dāristān	cornu6
+59.96927	29.91949	Mafaza	towns	cite	cite	Isbīḏ/Isfīd/Sabīḏ/Safīd/Sabīǧ/Sanīǧ	cornu6
+57.77635	30.76476	Mafaza	waystations	relais	relais	Darkūǧuwī ?	cornu6
+59.28094	31.25781	Mafaza	waystations	etape	etape	Qaryaŧ Salm	cornu6
+57.78936	31.27116	Mafaza	waystations	etape	etape	Šūrirūḏ/Šūr Duwāzdaŧ #	cornu6
+58.27354	31.41567	Mafaza	waystations	etape	etape	Bārisk	cornu6
+58.52604	31.68852	Mafaza	waystations	relais	relais	Nīmaŧ ?	cornu6
+54.19969	31.74166	Mafaza	waystations	etape	etape	Qaryaŧ al-Maǧūs	cornu6
+57.21668	31.88986	Mafaza	waystations	relais	relais	Ġamr Surḫ ?	cornu6
+58.78635	31.90091	Mafaza	waystations	relais	relais	al-Ḥawḍ	cornu6
+57.50413	32.13350	Mafaza	waystations	etape	etape	Biʾr Bar/Ǧāh Bar	cornu6
+54.41329	32.14014	Mafaza	villages	village	village	Anǧīraŧ	cornu6
+54.65669	32.32168	Mafaza	villages	village	village	Ḫazānaŧ/Ḫarānaŧ	cornu6
+57.58788	32.33053	Mafaza	villages	localite	localite	Nāband	cornu6
+58.87027	32.43440	Mafaza	waystations	etape	etape	Raʾs al-Māʾ ?	cornu6
+55.21675	32.52933	Mafaza	waystations	relais	relais	Sāġand	cornu6
+58.85980	32.62196	Mafaza	villages	village	village	Kūkūr ?	cornu6
+57.40729	32.65943	Mafaza	waystations	etape	etape	Āb Šūr ?	cornu6
+52.72262	32.66383	Mafaza	waystations	etape	etape	Rakūnīn # ?	cornu6
+52.12330	32.69688	Mafaza	waystations	etape	etape	Sakš	cornu6
+53.32456	32.70128	Mafaza	waystations	etape	etape	Kuškān ?	cornu6
+58.87551	32.77833	Mafaza	villages	localite	localite	Ḫawst	cornu6
+60.20763	32.81573	Mafaza	towns	ville	ville?	Ṭabas Masīnān/Ṭabas al-ʿUnnāb	cornu6
+53.11258	32.84212	Mafaza	waystations	etape	etape?	Nāʾīn	cornu6
+52.24892	32.89927	Mafaza	sites	mont	mont	Karkas Kūh	cornu6
+51.67468	32.90827	Mafaza	waystations	relais	relais	Dānǧī	cornu5
+58.45153	32.93881	Mafaza	towns	ville	ville	Ḫūr	cornu6
+55.41827	33.02224	Mafaza	waystations	relais	relais	Bušt Bāḏām	cornu6
+51.48549	33.07845	Mafaza	waystations	etape	etape	Ribāṭ Ibn Rustam	cornu5
+55.93385	33.24359	Mafaza	waystations	relais	relais	Ribāṭ Āb Šuturān/Ḫān Ušturān	cornu6
+57.18746	33.37701	Mafaza	villages	localite	localite	Kurī/Kurīn	cornu6
+51.46355	33.39951	Mafaza	sites	forteresse	forteresse	Ḥiṣn Badraŧ	cornu5
+56.18509	33.40323	Mafaza	waystations	etape	etape	al-Muhallabī ?	cornu6
+54.93672	33.55385	Mafaza	waystations	relais	relais	Ǧarmaq	cornu6
+55.43921	33.57348	Mafaza	waystations	etape	etape	Ḥawḍ al-Ḥāǧib ?	cornu6
+56.94144	33.58656	Mafaza	towns	cite	cite	Ṭabas Ǧīlakī/Ṭabas al-Tamr	cornu6
+56.78965	33.67155	Mafaza	villages	village	village	Ataškahān	cornu6
+56.45466	33.73469	Mafaza	waystations	etape	etape	Ribāṭ Ḫūrān/Ribāṭ Kūrān	cornu6
+56.79227	33.89125	Mafaza	waystations	etape	etape	Sarīš	cornu6
+56.22435	33.94771	Mafaza	waystations	etape	etape	Ḥulwān	cornu6
+56.48900	34.11501	Mafaza	waystations	etape	etape	Nuǧāy/Nūḫānī ?	cornu6
+56.87872	34.16617	Mafaza	waystations	etape	etape	Bustadārān	cornu6
+56.60995	34.25952	Mafaza	sites	relais	relais	Daskardān/Daskarwān #?	cornu6
+56.73090	34.30394	Mafaza	waystations	etape	etape	Darzīnak ?	cornu6
+56.97011	34.42374	Mafaza	waystations	etape	etape	Bannaŧ/Bunn ?	cornu6
+52.27735	34.57768	Mafaza	sites	mont	mont	Siyāh Kūh	cornu6
+57.43239	34.84612	Mafaza	waystations	etape	etape	Ribāṭ Zanǧī ?	cornu6
+51.31000	34.92405	Mafaza	waystations	etape	etape	Kāǧ	cornu5
+51.61984	35.08576	Mafaza	waystations	etape	etape?	Dayr al-Ǧiṣṣ	cornu5
+-8.07804	29.19903	Maghrib	waters	wadi	wadi	Wādī Darʿaŧ	cornu12
+-9.64810	30.06450	Maghrib	towns	cite	cite	Māssaŧ	cornu12
+-8.84130	30.50052	Maghrib	capitals	capitale	capitale	Tarqālaŧ	cornu12
+-7.42487	30.93544	Maghrib	waters	wadi	wadi	Wādī Darʿaŧ	cornu12
+-5.84677	31.13962	Maghrib	villages	localite	localite	al-Naḥḥāsīn	cornu12
+-4.23723	31.27819	Maghrib	capitals	capitale	capitale	Siǧilmāsaŧ	cornu12
+-4.23723	31.27819	Maghrib	regions	circon	circon	Siǧilmāsaŧ	cornu12
+-7.63570	31.44535	Maghrib	towns	cite	cite	Warīkaŧ/Aġmāt Warīkaŧ	cornu12
+-7.69710	31.49952	Maghrib	towns	cite	cite	Aylān/Aġmāt Aylā/Aġmāt Waylā	cornu12
+-7.17841	31.78429	Maghrib	towns	cite	cite	Tandalī	cornu12
+11.37139	31.81241	Maghrib	sites	mont	mont	Ǧabal Nafūsaŧ	cornu12
+-4.48761	31.87198	Maghrib	waters	wadi	wadi	Wādī Zīz	cornu12
+-4.52149	32.30201	Maghrib	regions	canton	canton	ʿArīš	cornu12
+-3.64184	33.37702	Maghrib	waters	wadi	wadi	Wādī Malwiyyaŧ	cornu12
+9.28396	33.61536	Maghrib	regions	region	region	Nafzāwaŧ	cornu12
+10.27879	33.69175	Maghrib	waystations	etape	etape	Katānaŧ	cornu12
+8.81609	33.80380	Maghrib	towns	ville	ville	Biššará/Bišrī	cornu12
+7.90257	33.87018	Maghrib	towns	cite	cite	Nafṭaŧ	cornu12
+8.27517	33.88951	Maghrib	regions	region	region	Qasṭīliyaŧ	cornu12
+-5.56626	33.91455	Maghrib	towns	cite	cite	Miknāsaŧ	cornu12
+8.15027	33.93695	Maghrib	towns	cite	cite	Tawzir	cornu12
+-6.88943	33.99489	Maghrib	villages	localite	localite	Ribāṭ	cornu12
+8.26247	34.00718	Maghrib	towns	cite	cite	Taqyūs	cornu12
+-6.79416	34.04753	Maghrib	towns	cite	cite	Salā	cornu12
+8.19472	34.05630	Maghrib	towns	cite	cite	al-Ḥammaŧ	cornu12
+-5.02852	34.06727	Maghrib	capitals	capitale	capitale	Fās	cornu12
+-5.60437	34.09883	Maghrib	towns	cite	cite	Walīlaŧ	cornu12
+-4.53948	34.11636	Maghrib	towns	cite	cite	Maṭmāṭaŧ	cornu12
+-4.62840	34.13739	Maghrib	towns	cite	cite	Namālataŧ	cornu12
+-4.31719	34.19475	Maghrib	villages	localite	localite	Qalʿaŧ Karmāṭaŧ/Kurmāṭaŧ	cornu12
+-4.02927	34.22102	Maghrib	towns	cite	cite	Tīzā/Tāzaŧ	cornu12
+-4.39975	34.24946	Maghrib	waters	wadi	wadi	Wādī Īnāwan	cornu12
+-3.30734	34.32074	Maghrib	towns	cite	cite	Tābarīdā	cornu12
+10.10538	34.35352	Maghrib	waystations	etape	etape	al-Zaytūnaŧ/ʿAyn Zaytūnaŧ/Biʾr Zaytūnaŧ	cornu12
+8.82032	34.40681	Maghrib	towns	cite	cite	Qafṣaŧ	cornu12
+-2.89875	34.41816	Maghrib	towns	cite	cite	Ṣāʿ	cornu12
+-3.67995	34.42515	Maghrib	waters	wadi	wadi	Wādī Masūn	cornu12
+-5.98544	34.45352	Maghrib	waters	wadi	wadi	Wādī Sabū	cornu12
+-5.30163	34.49584	Maghrib	waters	wadi	wadi	Wādī Warġaŧ	cornu12
+-6.48719	34.55645	Maghrib	waters	lac	lac	Buḥayraŧ Aryāġ/Buḥayraŧ al-Riġaŧ	cornu12
+-5.83301	34.59132	Maghrib	towns	cite	cite	Kurt	cornu12
+-3.92129	34.66535	Maghrib	towns	cite	cite	Kazannāyaŧ #?	cornu12
+5.60554	34.67928	Maghrib	towns	cite	cite	Banṭiyūs	cornu12
+5.38113	34.69495	Maghrib	towns	cite	cite	Ṭawlaqā	cornu12
+-1.65814	34.73932	Maghrib	towns	cite	cite	Madīnaŧ ʿAlawiyyīn	cornu12
+6.65773	34.76281	Maghrib	towns	cite	cite	Bādis	cornu12
+10.80190	34.77411	Maghrib	towns	cite	cite	Asfāqus	cornu12
+5.82783	34.79932	Maghrib	towns	cite	cite	Tahūḏā	cornu12
+-5.88806	34.82887	Maghrib	towns	cite	cite	Baṣraŧ	cornu12
+10.68123	34.83148	Maghrib	regions	region	region	Qabīšaŧ	cornu12
+5.72622	34.84755	Maghrib	towns	cite	cite	Biskaraŧ	cornu12
+-1.32364	34.88186	Maghrib	towns	cite	cite	Tilimsān	cornu12
+-5.76527	34.99380	Maghrib	waters	wadi	wadi	Wādī Safdad	cornu12
+-1.75553	35.03281	Maghrib	towns	cite	cite	Fālūsan/Qaṣr al-Fulūs	cornu12
+-1.92701	35.06747	Maghrib	towns	cite	cite	Ġuzzaŧ	cornu12
+-5.95157	35.07007	Maghrib	towns	ville	ville	Tušummus	cornu12
+-5.95157	35.07007	Maghrib	waters	wadi	wadi	Tušummus	cornu12
+-2.28691	35.09519	Maghrib	towns	ville	ville	Ǧarāwaŧ Abū al-ʿAyš	cornu12
+9.13153	35.15407	Maghrib	regions	region	region	Qamūdaŧ	cornu12
+-4.70461	35.19603	Maghrib	regions	canton	canton	Balad Ġumār	cornu12
+0.05881	35.21592	Maghrib	towns	cite	cite	Fakkān/Afkān	cornu12
+-3.90859	35.22154	Maghrib	towns	ville	ville	Haǧar al-Naṣr/Qalʿaŧ al-Nusūr/Nākūr/Nukūr	cornu12
+6.58045	35.22457	Maghrib	sites	mont	mont	Ǧabal Awrās	cornu12
+9.22256	35.23365	Maghrib	capitals	cheflieu	cheflieu	Subayṭilaŧ	cornu12
+-1.45702	35.28205	Maghrib	towns	cite	cite	Arǧikūk/al-Šaqūr 	cornu12
+-5.52392	35.29674	Maghrib	towns	cite	cite	Ṣanhāǧaŧ	cornu12
+-2.96861	35.29761	Maghrib	towns	cite	cite	Amlīl	cornu12
+5.35573	35.32395	Maghrib	towns	cite	cite	Ṭubnaŧ	cornu12
+1.36504	35.36971	Maghrib	capitals	capitale	capitale	Tāhirt	cornu12
+1.36504	35.36971	Maghrib	regions	circon	circon	Tāhirt	cornu12
+8.13227	35.37489	Maghrib	regions	canton	canton	Tabassā	cornu12
+9.16117	35.41674	Maghrib	towns	cite	cite	Sabībaŧ	cornu12
+-1.16486	35.45814	Maghrib	towns	cite	cite	Āslān/Wāslān	cornu12
+8.40114	35.48917	Maghrib	villages	localite	localite	Marmāǧannaŧ/Māǧannaŧ	cornu12
+11.05807	35.49133	Maghrib	towns	cite	cite	Mahdiyyaŧ	cornu12
+6.62915	35.49564	Maghrib	towns	cite	cite	Dūfānaŧ	cornu12
+7.12454	35.50598	Maghrib	towns	cite	cite	Bāġāy	cornu12
+5.02970	35.54259	Maghrib	towns	cite	cite	Maqqaraŧ	cornu12
+0.44200	35.55078	Maghrib	towns	cite	cite	Huwāraŧ	cornu12
+5.70399	35.58177	Maghrib	towns	cite	cite	Niqāwus	cornu12
+-5.97486	35.58306	Maghrib	towns	cite	cite	Azīlaŧ	cornu12
+7.73214	35.61620	Maghrib	towns	cite	cite	al-Miskyānaŧ	cornu12
+6.14010	35.63685	Maghrib	towns	cite	cite	Bilizmaŧ	cornu12
+4.53218	35.66309	Maghrib	towns	cite	cite	al-Masīlaŧ	cornu12
+0.82730	35.67814	Maghrib	towns	cite	cite	Mindās	cornu12
+10.14137	35.70049	Maghrib	capitals	capitale	capitale	al-Qayrawān	cornu12
+3.16032	35.70178	Maghrib	towns	cite	cite	ʿAšīr	cornu12
+-0.61866	35.70565	Maghrib	towns	cite	cite	Wahrān	cornu12
+10.80402	35.75548	Maghrib	towns	cite	cite	Munastīr	cornu12
+9.86192	35.77610	Maghrib	towns	cite	cite	Ǧalūlāʾ	cornu12
+-5.84572	35.77868	Maghrib	regions	territoire	territoire	Tanǧaŧ	cornu12
+0.60289	35.78297	Maghrib	towns	cite	cite	al-Baṭḥaŧ	cornu12
+8.72082	35.80744	Maghrib	villages	localite	localite	Ubbaŧ	cornu12
+10.61560	35.81044	Maghrib	towns	cite	cite	Sūsaŧ	cornu12
+-5.33338	35.86107	Maghrib	towns	cite	cite	Sabtaŧ	cornu12
+1.90701	35.95410	Maghrib	regions	region	region	Maṭmāṭaŧ	cornu12
+7.20287	36.05429	Maghrib	towns	cite	cite	Arkū/Rakwaŧ	cornu12
+6.83450	36.08680	Maghrib	towns	cite	cite	Tīǧis	cornu12
+2.69033	36.10305	Maghrib	towns	cite	cite	Sūq Karā	cornu12
+8.83937	36.10562	Maghrib	towns	cite	cite	Lurbus/al-Urbus	cornu12
+3.18573	36.10990	Maghrib	waters	wadi	wadi	Wādī al-Māliḥ	cornu12
+1.09406	36.11161	Maghrib	towns	cite	cite	al-Ġuzzaŧ ?	cornu12
+5.40760	36.15863	Maghrib	towns	cite	cite	Saṭīf	cornu12
+8.71976	36.18255	Maghrib	villages	village	village	Ḫawr al-Kāf	cornu12
+1.45396	36.21758	Maghrib	waters	wadi	wadi	Wādī Šalif	cornu12
+2.02980	36.21928	Maghrib	villages	village	village	Banū Wārīfan	cornu12
+5.60237	36.24063	Maghrib	towns	cite	cite	Ǧamīlā	cornu12
+2.22246	36.27861	Maghrib	towns	cite	cite	Miliyānaŧ	cornu12
+6.62703	36.33790	Maghrib	towns	cite	cite	al-Qusṭanṭiniyyaŧ/Qusṭanṭiniyyaŧ	cornu12
+1.35022	36.34557	Maghrib	towns	cite	cite	Taǧannaŧ	cornu12
+3.91612	36.36220	Maghrib	towns	cite	cite	Sūq Ḥamzaŧ	cornu12
+10.13608	36.40097	Maghrib	towns	cite	cite	Zaġwān	cornu12
+6.28830	36.42482	Maghrib	towns	cite	cite	Mīlā	cornu12
+1.37563	36.49038	Maghrib	towns	cite	cite	Tanas	cornu12
+2.25421	36.54100	Maghrib	towns	cite	cite/port	Ašrašāl	cornu12
+2.84276	36.59413	Maghrib	towns	cite	cite	Mattīǧaŧ	cornu12
+10.28004	36.59668	Maghrib	towns	cite	cite	Awḏanaŧ	cornu12
+9.20563	36.67738	Maghrib	towns	cite	cite	Bāǧaŧ	cornu12
+5.04769	36.70199	Maghrib	sites	port	port	Baǧāyaŧ	cornu12
+3.09046	36.70793	Maghrib	towns	cite	cite	Ǧazīraŧ Banū Zaġannāyaŧ	cornu12
+10.94269	36.72745	Maghrib	towns	ville	ville	Manzil Bāšū	cornu12
+3.58797	36.73169	Maghrib	towns	cite	cite	Marsá al-Daǧǧāǧ	cornu12
+3.28946	36.73508	Maghrib	towns	cite	cite/port	Tāmadfūs	cornu12
+10.17736	36.77071	Maghrib	towns	cite	cite	Tūnis	cornu12
+5.71881	36.77325	Maghrib	towns	cite	cite	Ǧīǧil	cornu12
+9.11248	36.81309	Maghrib	regions	region	region	Maknaŧ Abū Manṣūr #?	cornu12
+8.42231	36.85460	Maghrib	towns	cite	cite/port	Marsá al-Ḫaraz	cornu12
+10.26628	36.87916	Maghrib	towns	cite	cite	Qarṭāǧannaŧ	cornu12
+7.74061	36.88509	Maghrib	towns	cite	cite	Būnaŧ	cornu12
+8.81185	36.91556	Maghrib	towns	cite	cite	Ṭabarqaŧ	cornu12
+10.99773	37.03058	Maghrib	towns	cite	cite	Ǧazīraŧ Abū Šarīk	cornu12
+9.82170	37.24070	Maghrib	towns	cite	cite	Banzart	cornu12
+43.51007	12.72778	noData	noData	noData	noData	noData	cornu7
+44.99099	12.81210	noData	noData	noData	noData	noData	cornu7
+44.86827	13.05673	noData	noData	noData	noData	noData	cornu7
+43.27301	13.31198	noData	noData	noData	noData	noData	cornu7
+44.17683	13.97911	noData	noData	noData	noData	noData	cornu8
+44.12940	14.05288	noData	noData	noData	noData	noData	cornu7
+44.74355	14.16433	noData	noData	noData	noData	noData	cornu8
+43.23381	14.19526	noData	noData	noData	noData	noData	cornu7
+44.37876	14.31533	noData	xroads	rPoint	rPoint	RoutPoint0801	cornu8
+43.02533	14.47122	noData	noData	noData	noData	noData	cornu7
+44.39660	14.54229	noData	noData	noData	noData	noData	cornu7
+44.17560	14.88167	noData	xroads	rPoint	rPoint	RoutPoint0701	cornu7
+44.26913	14.88867	noData	xroads	rPoint	rPoint	RoutPoint0802	cornu8
+43.05763	15.23753	noData	noData	noData	noData	noData	cornu7
+44.17050	15.41877	noData	noData	noData	noData	noData	cornu7
+45.78041	15.42653	noData	noData	noData	noData	noData	cornu8
+45.32826	15.44240	noData	noData	noData	noData	noData	cornu8
+42.54671	15.46971	noData	noData	noData	noData	noData	cornu7
+42.82566	15.72708	noData	noData	noData	noData	noData	cornu7
+44.09710	15.87118	noData	noData	noData	noData	noData	cornu7
+43.12845	16.10818	noData	xroads	rPoint	rPoint	RoutPoint0803	cornu8
+44.02411	16.39057	noData	noData	noData	noData	noData	cornu7
+42.81942	16.45034	noData	xroads	rPoint	rPoint	RoutPoint0804	cornu8
+42.74775	16.46407	noData	noData	noData	noData	noData	cornu7
+42.71626	16.77760	noData	xroads	rPoint	rPoint	RoutPoint0805	cornu8
+42.55098	17.00988	noData	xroads	rPoint	rPoint	RoutPoint0806	cornu8
+43.68167	17.02818	noData	noData	noData	noData	noData	cornu7
+42.52744	17.05108	noData	noData	noData	noData	noData	cornu7
+43.59547	17.31417	noData	noData	noData	noData	noData	cornu7
+42.36220	17.33475	noData	noData	noData	noData	noData	cornu7
+42.50109	17.34161	noData	noData	noData	noData	noData	cornu7
+44.13162	17.49039	noData	noData	noData	noData	noData	cornu8
+43.52035	17.64001	noData	noData	noData	noData	noData	cornu8
+42.18021	17.91444	noData	noData	noData	noData	noData	cornu7
+39.24636	22.41979	noData	xroads	rPoint	rPoint	RoutPoint0702	cornu7
+57.71540	22.79185	noData	xroads	rPoint	rPoint	RoutPoint0708	cornu7
+39.11532	22.82697	noData	xroads	rPoint	rPoint	RoutPoint0703	cornu7
+57.72912	22.84241	noData	xroads	rPoint	rPoint	RoutPoint0707	cornu7
+35.66637	22.87825	noData	noData	noData	noData	noData	cornu7
+39.17322	22.99819	noData	xroads	rPoint	rPoint	RoutPoint0704	cornu7
+32.70635	23.00335	noData	noData	noData	noData	noData	cornu10
+32.63674	23.13126	noData	noData	noData	noData	noData	cornu10
+32.65149	23.16952	noData	noData	noData	noData	noData	cornu10
+58.36603	23.53921	noData	xroads	rPoint	rPoint	RoutPoint0706	cornu7
+42.87282	23.80557	noData	xroads	rPoint	rPoint	RoutPoint0709	cornu7
+32.81303	23.86016	noData	noData	noData	noData	noData	cornu10
+32.81795	24.01161	noData	noData	noData	noData	noData	cornu10
+32.78693	24.02232	noData	noData	noData	noData	noData	cornu10
+32.85199	24.07483	noData	noData	noData	noData	noData	cornu10
+38.04189	24.08274	noData	noData	noData	noData	noData	cornu9
+67.33938	24.13910	noData	noData	noData	noData	noData	cornu20
+67.60873	24.44466	noData	xroads	rPoint	rPoint	RoutPoint2001	cornu20
+39.53597	24.44955	noData	noData	noData	noData	noData	cornu9
+32.93106	24.45420	noData	noData	noData	noData	noData	cornu10
+67.71342	24.53335	noData	xroads	rPoint	rPoint	RoutPoint1905	cornu19
+46.69314	24.58959	noData	noData	noData	noData	noData	cornu9
+32.86025	24.95820	noData	noData	noData	noData	noData	cornu11
+32.54759	25.25900	noData	noData	noData	noData	noData	cornu11
+49.54316	25.27985	noData	noData	noData	noData	noData	cornu9
+66.70122	25.32585	noData	noData	noData	noData	noData	cornu20
+68.38891	25.34015	noData	noData	noData	noData	noData	cornu20
+69.62830	25.36875	noData	noData	noData	noData	noData	cornu20
+55.98750	25.37617	noData	xroads	rPoint	rPoint	RoutPoint0705	cornu7
+68.28628	25.39828	noData	xroads	rPoint	rPoint	RoutPoint1906	cornu19
+41.42429	25.55300	noData	noData	noData	noData	noData	cornu9
+32.53840	25.63094	noData	noData	noData	noData	noData	cornu11
+39.21945	25.78047	noData	noData	noData	noData	noData	cornu9
+32.83266	25.89182	noData	noData	noData	noData	noData	cornu11
+68.94268	25.90129	noData	noData	noData	noData	noData	cornu20
+33.13064	25.90701	noData	xroads	rPoint	rPoint	RoutPoint1101	cornu11
+32.86638	25.99449	noData	noData	noData	noData	noData	cornu11
+43.91699	26.07604	noData	noData	noData	noData	noData	cornu7
+43.91699	26.07604	noData	xroads	rPoint	rPoint	RoutPoint0710	cornu7
+61.73465	26.12472	noData	xroads	rPoint	rPoint	RoutPoint1908	cornu19
+66.30567	26.15128	noData	noData	noData	noData	noData	cornu20
+31.98818	26.19613	noData	noData	noData	noData	noData	cornu11
+61.37513	26.22872	noData	xroads	rPoint	rPoint	RoutPoint1909	cornu19
+65.22578	26.22931	noData	xroads	rPoint	rPoint	RoutPoint1907	cornu19
+44.39764	26.36250	noData	noData	noData	noData	noData	cornu9
+68.84247	26.46332	noData	noData	noData	noData	noData	cornu20
+31.79967	26.57610	noData	noData	noData	noData	noData	cornu11
+37.97634	26.60624	noData	noData	noData	noData	noData	cornu9
+42.26444	26.74510	noData	noData	noData	noData	noData	cornu9
+37.97240	26.79664	noData	noData	noData	noData	noData	cornu9
+31.58664	26.83350	noData	noData	noData	noData	noData	cornu11
+42.58583	27.08908	noData	noData	noData	noData	noData	cornu7
+37.84314	27.09700	noData	noData	noData	noData	noData	cornu9
+31.18662	27.13192	noData	noData	noData	noData	noData	cornu11
+40.29365	27.17653	noData	xroads	rPoint	rPoint	RoutPoint0908	cornu9
+61.55950	27.19216	noData	xroads	rPoint	rPoint	RoutPoint1910	cornu19
+56.36540	27.24617	noData	xroads	rPoint	rPoint	RoutPoint0604	cornu6
+31.05809	27.25506	noData	noData	noData	noData	noData	cornu10
+43.02661	27.45736	noData	noData	noData	noData	noData	cornu7
+38.50125	27.60589	noData	noData	noData	noData	noData	cornu7
+65.31533	27.67109	noData	xroads	rPoint	rPoint	RoutPoint1911	cornu19
+69.04816	27.70178	noData	noData	noData	noData	noData	cornu20
+66.78500	27.77717	noData	xroads	rPoint	rPoint	RoutPoint1912	cornu19
+37.46101	27.78542	noData	noData	noData	noData	noData	cornu7
+66.60102	27.78580	noData	noData	noData	noData	noData	cornu20
+30.80193	27.82334	noData	noData	noData	noData	noData	cornu11
+58.81423	27.94899	noData	noData	noData	noData	noData	cornu19
+37.09882	28.06301	noData	xroads	rPoint	rPoint	RoutPoint0909	cornu9
+30.74369	28.11031	noData	noData	noData	noData	noData	cornu11
+43.20428	28.30370	noData	noData	noData	noData	noData	cornu7
+45.97228	28.39721	noData	noData	noData	noData	noData	cornu7
+43.31851	28.75879	noData	noData	noData	noData	noData	cornu7
+70.78331	28.82474	noData	noData	noData	noData	noData	cornu20
+66.44280	28.97711	noData	noData	noData	noData	noData	cornu20
+56.21906	29.09437	noData	xroads	rPoint	rPoint	RoutPoint0610	cornu6
+43.45664	29.10056	noData	noData	noData	noData	noData	cornu7
+47.95066	29.28136	noData	noData	noData	noData	noData	cornu9
+58.95044	29.28565	noData	noData	noData	noData	noData	cornu19
+30.78508	29.31064	noData	noData	noData	noData	noData	cornu11
+66.55652	29.35067	noData	xroads	rPoint	rPoint	RoutPoint1914	cornu19
+43.62134	29.45738	noData	noData	noData	noData	noData	cornu7
+35.00898	29.52825	noData	noData	noData	noData	noData	cornu11
+34.93982	29.54282	noData	noData	noData	noData	noData	cornu1
+67.80363	29.54677	noData	xroads	rPoint	rPoint	RoutPoint1913	cornu19
+67.81931	29.55107	noData	noData	noData	noData	noData	cornu20
+34.99063	29.65149	noData	noData	noData	noData	noData	cornu7
+53.26823	29.81491	noData	xroads	rPoint	rPoint	RoutPoint0609	cornu6
+56.59167	29.88928	noData	xroads	rPoint	rPoint	RoutPoint0605	cornu6
+43.70020	29.94647	noData	noData	noData	noData	noData	cornu7
+32.59357	30.02974	noData	noData	noData	noData	noData	cornu11
+32.52584	30.03235	noData	xroads	rPoint	rPoint	RoutPoint1001	cornu10
+31.33835	30.04301	noData	noData	noData	noData	noData	cornu11
+70.63104	30.07040	noData	xroads	rPoint	rPoint	RoutPoint1901	cornu19
+35.51952	30.07515	noData	noData	noData	noData	noData	cornu9
+35.19579	30.08115	noData	noData	noData	noData	noData	cornu1
+69.87052	30.08179	noData	xroads	rPoint	rPoint	RoutPoint1903	cornu19
+69.80863	30.08179	noData	xroads	rPoint	rPoint	RoutPoint1904	cornu19
+71.36192	30.19113	noData	xroads	rPoint	rPoint	RoutPoint1902	cornu19
+62.39350	30.19274	noData	xroads	rPoint	rPoint	RoutPoint1919	cornu19
+70.81672	30.21787	noData	xroads	rPoint	rPoint	RoutPoint2002	cornu20
+71.46893	30.22096	noData	noData	noData	noData	noData	cornu20
+30.91381	30.32150	noData	xroads	rPoint	rPoint	RoutPoint1004	cornu10
+48.27053	30.35814	noData	noData	noData	noData	noData	cornu4
+47.74987	30.35843	noData	noData	noData	noData	noData	cornu9
+35.36474	30.37325	noData	xroads	rPoint	rPoint	RoutPoint0902	cornu9
+30.85404	30.40818	noData	noData	noData	noData	noData	cornu11
+47.69669	30.41104	noData	noData	noData	noData	noData	cornu4
+48.14520	30.44293	noData	xroads	rPoint	rPoint	RoutPoint0303	cornu3
+47.98824	30.46191	noData	noData	noData	noData	noData	cornu4
+48.01832	30.49382	noData	noData	noData	noData	noData	cornu4
+48.33079	30.49821	noData	noData	noData	noData	noData	cornu3
+47.82974	30.52970	noData	noData	noData	noData	noData	cornu4
+29.64958	30.56858	noData	noData	noData	noData	noData	cornu10
+43.76433	30.59292	noData	noData	noData	noData	noData	cornu3
+50.23446	30.66423	noData	noData	noData	noData	noData	cornu4
+61.68880	30.70435	noData	noData	noData	noData	noData	cornu6
+35.42136	30.70785	noData	xroads	rPoint	rPoint	RoutPoint0901	cornu9
+31.97132	30.77793	noData	xroads	rPoint	rPoint	RoutPoint1003	cornu10
+35.44569	30.82286	noData	xroads	rPoint	rPoint	RoutPoint0101	cornu1
+61.70041	30.83356	noData	xroads	rPoint	rPoint	RoutPoint1916	cornu19
+29.30208	30.86496	noData	noData	noData	noData	noData	cornu13
+29.68312	30.87398	noData	noData	noData	noData	noData	cornu11
+47.45392	30.90107	noData	xroads	rPoint	rPoint	RoutPoint0302	cornu3
+61.73531	30.90872	noData	xroads	rPoint	rPoint	RoutPoint1917	cornu19
+35.48844	30.98790	noData	noData	noData	noData	noData	cornu9
+30.87188	31.00529	noData	xroads	rPoint	rPoint	RoutPoint1002	cornu10
+29.90688	31.17081	noData	noData	noData	noData	noData	cornu11
+44.07704	31.22515	noData	noData	noData	noData	noData	cornu3
+49.60608	31.22746	noData	noData	noData	noData	noData	cornu5
+57.81614	31.25797	noData	xroads	rPoint	rPoint	RoutPoint0611	cornu6
+49.65209	31.26226	noData	noData	noData	noData	noData	cornu6
+15.30735	31.26948	noData	xroads	rPoint	rPoint	RoutPoint1301	cornu13
+48.68540	31.28015	noData	noData	noData	noData	noData	cornu3
+49.70340	31.28389	noData	xroads	rPoint	rPoint	RoutPoint0402	cornu4
+48.72048	31.29161	noData	noData	noData	noData	noData	cornu5
+48.78526	31.31565	noData	noData	noData	noData	noData	cornu6
+30.44330	31.33164	noData	noData	noData	noData	noData	cornu11
+35.35270	31.33329	noData	xroads	rPoint	rPoint	RoutPoint0102	cornu1
+50.93021	31.47341	noData	noData	noData	noData	noData	cornu6
+65.57805	31.48828	noData	xroads	rPoint	rPoint	RoutPoint1915	cornu19
+34.75731	31.51257	noData	noData	noData	noData	noData	cornu9
+60.02489	31.53768	noData	noData	noData	noData	noData	cornu19
+34.58964	31.54965	noData	xroads	rPoint	rPoint	RoutPoint0109	cornu1
+35.07899	31.57487	noData	xroads	rPoint	rPoint	RoutPoint0103	cornu1
+34.56856	31.62179	noData	xroads	rPoint	rPoint	RoutPoint0110	cornu1
+65.68334	31.62346	noData	noData	noData	noData	noData	cornu20
+51.76804	31.65660	noData	xroads	rPoint	rPoint	RoutPoint0603	cornu6
+35.00657	31.65743	noData	xroads	rPoint	rPoint	RoutPoint0104	cornu1
+44.12492	31.68336	noData	noData	noData	noData	noData	cornu3
+35.12345	31.68776	noData	xroads	rPoint	rPoint	RoutPoint0105	cornu1
+35.84456	31.75556	noData	xroads	rPoint	rPoint	RoutPoint0904	cornu9
+44.16909	31.77996	noData	noData	noData	noData	noData	cornu3
+35.91693	31.79393	noData	xroads	rPoint	rPoint	RoutPoint0903	cornu9
+35.52160	31.79889	noData	xroads	rPoint	rPoint	RoutPoint0108	cornu1
+35.43461	31.80247	noData	xroads	rPoint	rPoint	RoutPoint0107	cornu1
+11.95765	31.81735	noData	noData	noData	noData	noData	cornu13
+35.37253	31.82820	noData	xroads	rPoint	rPoint	RoutPoint0106	cornu1
+34.67797	31.83292	noData	xroads	rPoint	rPoint	RoutPoint0111	cornu1
+35.39121	31.83503	noData	xroads	rPoint	rPoint	RoutPoint0114	cornu1
+35.96204	31.87776	noData	noData	noData	noData	noData	cornu9
+34.69828	31.88174	noData	xroads	rPoint	rPoint	RoutPoint0112	cornu1
+54.35766	31.89254	noData	noData	noData	noData	noData	cornu5
+34.82440	31.89870	noData	noData	noData	noData	noData	cornu9
+35.18907	31.90712	noData	xroads	rPoint	rPoint	RoutPoint0113	cornu1
+44.39517	31.95000	noData	noData	noData	noData	noData	cornu9
+35.88713	31.97035	noData	xroads	rPoint	rPoint	RoutPoint0905	cornu9
+39.82533	32.01350	noData	xroads	rPoint	rPoint	RoutPoint0907	cornu9
+44.43464	32.02531	noData	noData	noData	noData	noData	cornu9
+48.87520	32.05015	noData	noData	noData	noData	noData	cornu5
+39.20032	32.14625	noData	xroads	rPoint	rPoint	RoutPoint0906	cornu9
+48.27473	32.17092	noData	noData	noData	noData	noData	cornu5
+47.70188	32.17254	noData	noData	noData	noData	noData	cornu4
+51.09476	32.18002	noData	noData	noData	noData	noData	cornu6
+48.26607	32.18402	noData	noData	noData	noData	noData	cornu3
+48.22336	32.19102	noData	xroads	rPoint	rPoint	RoutPoint0401	cornu4
+51.06598	32.21037	noData	noData	noData	noData	noData	cornu5
+48.83732	32.26043	noData	noData	noData	noData	noData	cornu6
+51.76790	32.26139	noData	noData	noData	noData	noData	cornu5
+47.32451	32.26279	noData	noData	noData	noData	noData	cornu4
+46.29782	32.28689	noData	noData	noData	noData	noData	cornu5
+48.55166	32.28689	noData	noData	noData	noData	noData	cornu5
+51.51612	32.33053	noData	noData	noData	noData	noData	cornu6
+51.48274	32.34482	noData	noData	noData	noData	noData	cornu5
+48.44628	32.36554	noData	noData	noData	noData	noData	cornu4
+48.42553	32.39577	noData	xroads	rPoint	rPoint	RoutPoint0511	cornu5
+36.47474	32.50000	noData	noData	noData	noData	noData	cornu1
+43.42329	32.51337	noData	noData	noData	noData	noData	cornu9
+45.74661	32.54476	noData	xroads	rPoint	rPoint	RoutPoint0301	cornu3
+36.15839	32.57658	noData	noData	noData	noData	noData	cornu9
+51.70116	32.60105	noData	xroads	rPoint	rPoint	RoutPoint0602	cornu6
+51.66347	32.61096	noData	xroads	rPoint	rPoint	RoutPoint0508	cornu5
+57.91210	32.63282	noData	xroads	rPoint	rPoint	RoutPoint0606	cornu6
+51.66477	32.66634	noData	noData	noData	noData	noData	cornu4
+51.69932	32.68807	noData	noData	noData	noData	noData	cornu6
+35.54536	32.69767	noData	xroads	rPoint	rPoint	RoutPoint0115	cornu1
+52.92404	32.69885	noData	xroads	rPoint	rPoint	RoutPoint0608	cornu6
+-0.59001	32.74875	noData	xroads	rPoint	rPoint	RoutPoint1202	cornu12
+51.71485	32.79657	noData	xroads	rPoint	rPoint	RoutPoint0506	cornu5
+53.07304	32.85070	noData	noData	noData	noData	noData	cornu5
+51.77508	32.86235	noData	xroads	rPoint	rPoint	RoutPoint0601	cornu6
+51.73858	32.90366	noData	noData	noData	noData	noData	cornu6
+48.25473	32.99018	noData	noData	noData	noData	noData	cornu4
+67.99886	33.05542	noData	xroads	rPoint	rPoint	RoutPoint1918	cornu19
+51.52136	33.08147	noData	noData	noData	noData	noData	cornu6
+51.80662	33.08585	noData	noData	noData	noData	noData	cornu6
+35.43519	33.12041	noData	xroads	rPoint	rPoint	RoutPoint0116	cornu1
+55.38086	33.12436	noData	xroads	rPoint	rPoint	RoutPoint0607	cornu6
+35.55753	33.22177	noData	xroads	rPoint	rPoint	RoutPoint0117	cornu1
+44.36952	33.27226	noData	noData	noData	noData	noData	cornu9
+62.07283	33.28523	noData	noData	noData	noData	noData	cornu19
+51.81709	33.31798	noData	noData	noData	noData	noData	cornu6
+36.21852	33.33301	noData	xroads	rPoint	rPoint	RoutPoint0121	cornu1
+44.36753	33.34455	noData	noData	noData	noData	noData	cornu5
+36.29258	33.35142	noData	noData	noData	noData	noData	cornu9
+52.36838	33.35830	noData	noData	noData	noData	noData	cornu5
+51.49257	33.38575	noData	noData	noData	noData	noData	cornu6
+35.81024	33.45826	noData	noData	noData	noData	noData	cornu1
+36.32613	33.49430	noData	noData	noData	noData	noData	cornu9
+36.23688	33.54074	noData	xroads	rPoint	rPoint	RoutPoint0120	cornu1
+68.40249	33.54097	noData	noData	noData	noData	noData	cornu17
+68.43637	33.55626	noData	noData	noData	noData	noData	cornu20
+46.82277	33.56159	noData	noData	noData	noData	noData	cornu3
+52.08142	33.56257	noData	noData	noData	noData	noData	cornu6
+42.80761	33.57325	noData	noData	noData	noData	noData	cornu9
+62.22666	33.60547	noData	noData	noData	noData	noData	cornu19
+-5.18383	33.62795	noData	xroads	rPoint	rPoint	RoutPoint1201	cornu12
+69.15364	33.65729	noData	noData	noData	noData	noData	cornu20
+59.10058	33.72816	noData	noData	noData	noData	noData	cornu6
+35.55350	33.90176	noData	xroads	rPoint	rPoint	RoutPoint0118	cornu1
+51.57108	33.96725	noData	noData	noData	noData	noData	cornu6
+72.26004	33.98591	noData	noData	noData	noData	noData	cornu20
+49.17180	34.04348	noData	xroads	rPoint	rPoint	RoutPoint0510	cornu5
+-5.32758	34.16618	noData	xroads	rPoint	rPoint	RoutPoint1211	cornu12
+42.13480	34.26758	noData	xroads	rPoint	rPoint	RoutPoint0201	cornu2
+-3.85483	34.27893	noData	xroads	rPoint	rPoint	RoutPoint1210	cornu12
+62.16897	34.28542	noData	noData	noData	noData	noData	cornu19
+47.07328	34.32492	noData	noData	noData	noData	noData	cornu3
+58.67412	34.34833	noData	noData	noData	noData	noData	cornu6
+45.44783	34.34879	noData	noData	noData	noData	noData	cornu5
+62.13052	34.35720	noData	noData	noData	noData	noData	cornu6
+62.15348	34.37470	noData	xroads	rPoint	rPoint	RoutPoint1703	cornu17
+41.61558	34.39315	noData	xroads	rPoint	rPoint	RoutPoint0202	cornu2
+38.96647	34.39629	noData	noData	noData	noData	noData	cornu9
+51.13776	34.45367	noData	noData	noData	noData	noData	cornu6
+45.93589	34.47772	noData	noData	noData	noData	noData	cornu5
+69.19413	34.47785	noData	noData	noData	noData	noData	cornu19
+48.61600	34.48350	noData	xroads	rPoint	rPoint	RoutPoint0509	cornu5
+45.62606	34.50032	noData	noData	noData	noData	noData	cornu5
+69.15891	34.51774	noData	noData	noData	noData	noData	cornu20
+-2.71334	34.56086	noData	xroads	rPoint	rPoint	RoutPoint1208	cornu12
+47.46172	34.60864	noData	noData	noData	noData	noData	cornu16
+50.98456	34.63299	noData	noData	noData	noData	noData	cornu6
+48.53333	34.77385	noData	noData	noData	noData	noData	cornu16
+48.63117	34.78374	noData	noData	noData	noData	noData	cornu6
+60.86446	34.83238	noData	xroads	rPoint	rPoint	RoutPoint1718	cornu17
+50.71791	34.85236	noData	xroads	rPoint	rPoint	RoutPoint0505	cornu5
+35.90939	34.87034	noData	xroads	rPoint	rPoint	RoutPoint0122	cornu1
+51.33934	34.92219	noData	noData	noData	noData	noData	cornu6
+60.34540	35.01387	noData	noData	noData	noData	noData	cornu17
+51.64843	35.07410	noData	noData	noData	noData	noData	cornu6
+58.50574	35.07843	noData	noData	noData	noData	noData	cornu16
+-2.38493	35.08397	noData	xroads	rPoint	rPoint	RoutPoint1207	cornu12
+58.14671	35.14086	noData	noData	noData	noData	noData	cornu16
+58.46290	35.14341	noData	noData	noData	noData	noData	cornu16
+58.45104	35.15435	noData	noData	noData	noData	noData	cornu6
+-3.84972	35.18225	noData	xroads	rPoint	rPoint	RoutPoint1209	cornu12
+46.05227	35.19457	noData	noData	noData	noData	noData	cornu16
+36.20321	35.20588	noData	noData	noData	noData	noData	cornu1
+51.65000	35.24938	noData	xroads	rPoint	rPoint	RoutPoint0512	cornu5
+43.49635	35.27799	noData	noData	noData	noData	noData	cornu3
+51.68337	35.27841	noData	noData	noData	noData	noData	cornu6
+51.10802	35.28295	noData	xroads	rPoint	rPoint	RoutPoint0504	cornu5
+47.04910	35.29863	noData	noData	noData	noData	noData	cornu5
+1.16626	35.31427	noData	xroads	rPoint	rPoint	RoutPoint1203	cornu12
+45.96582	35.32503	noData	xroads	rPoint	rPoint	RoutPoint0501	cornu5
+1.05376	35.36942	noData	xroads	rPoint	rPoint	RoutPoint1204	cornu12
+9.97946	35.46735	noData	xroads	rPoint	rPoint	RoutPoint1215	cornu12
+53.38562	35.47522	noData	noData	noData	noData	noData	cornu5
+49.11483	35.49041	noData	xroads	rPoint	rPoint	RoutPoint0503	cornu5
+53.44113	35.50081	noData	noData	noData	noData	noData	cornu6
+51.52048	35.60216	noData	noData	noData	noData	noData	cornu6
+38.78091	35.60228	noData	noData	noData	noData	noData	cornu2
+10.08173	35.62546	noData	xroads	rPoint	rPoint	RoutPoint1216	cornu12
+51.43887	35.62914	noData	noData	noData	noData	noData	cornu5
+49.24766	35.67123	noData	xroads	rPoint	rPoint	RoutPoint0502	cornu5
+7.59215	35.68292	noData	xroads	rPoint	rPoint	RoutPoint1220	cornu12
+51.83058	35.69230	noData	xroads	rPoint	rPoint	RoutPoint1604	cornu16
+-0.02807	35.75813	noData	xroads	rPoint	rPoint	RoutPoint1206	cornu12
+-5.77175	35.76719	noData	noData	noData	noData	noData	cornu14
+10.15332	35.77312	noData	xroads	rPoint	rPoint	RoutPoint1217	cornu12
+46.37005	35.79772	noData	xroads	rPoint	rPoint	RoutPoint1601	cornu16
+9.42149	35.80814	noData	xroads	rPoint	rPoint	RoutPoint1214	cornu12
+67.90946	35.83560	noData	xroads	rPoint	rPoint	RoutPoint1719	cornu17
+-5.33559	35.85216	noData	noData	noData	noData	noData	cornu14
+39.02803	35.94116	noData	noData	noData	noData	noData	cornu1
+59.25769	35.96126	noData	xroads	rPoint	rPoint	RoutPoint1702	cornu17
+64.92682	35.96204	noData	xroads	rPoint	rPoint	RoutPoint1704	cornu17
+49.57716	35.98341	noData	xroads	rPoint	rPoint	RoutPoint1619	cornu16
+1.11796	35.99891	noData	xroads	rPoint	rPoint	RoutPoint1205	cornu12
+68.72106	36.02592	noData	xroads	rPoint	rPoint	RoutPoint1707	cornu17
+53.77497	36.03151	noData	noData	noData	noData	noData	cornu5
+55.88938	36.03626	noData	noData	noData	noData	noData	cornu6
+49.41561	36.05049	noData	xroads	rPoint	rPoint	RoutPoint1603	cornu16
+49.32797	36.05502	noData	noData	noData	noData	noData	cornu5
+49.35928	36.06817	noData	xroads	rPoint	rPoint	RoutPoint1602	cornu16
+6.09115	36.06846	noData	xroads	rPoint	rPoint	RoutPoint1219	cornu12
+38.05257	36.07390	noData	noData	noData	noData	noData	cornu2
+58.51119	36.09963	noData	noData	noData	noData	noData	cornu16
+39.00238	36.11144	noData	xroads	rPoint	rPoint	RoutPoint0204	cornu2
+57.57918	36.11567	noData	noData	noData	noData	noData	cornu17
+68.42587	36.12385	noData	xroads	rPoint	rPoint	RoutPoint1706	cornu17
+58.85385	36.14366	noData	noData	noData	noData	noData	cornu16
+54.35362	36.15702	noData	noData	noData	noData	noData	cornu6
+57.90996	36.16630	noData	noData	noData	noData	noData	cornu16
+57.70280	36.20464	noData	noData	noData	noData	noData	cornu16
+57.49630	36.20872	noData	noData	noData	noData	noData	cornu6
+37.17358	36.21078	noData	noData	noData	noData	noData	cornu2
+58.81270	36.21692	noData	noData	noData	noData	noData	cornu6
+50.00135	36.26165	noData	noData	noData	noData	noData	cornu16
+-5.35593	36.26656	noData	xroads	rPoint	rPoint	RoutPoint1401	cornu14
+62.61914	36.30715	noData	xroads	rPoint	rPoint	RoutPoint1705	cornu17
+36.23744	36.36729	noData	xroads	rPoint	rPoint	RoutPoint0119	cornu1
+39.28285	36.42290	noData	xroads	rPoint	rPoint	RoutPoint0203	cornu2
+52.31039	36.42534	noData	xroads	rPoint	rPoint	RoutPoint1617	cornu16
+52.35814	36.45524	noData	noData	noData	noData	noData	cornu6
+52.36140	36.45828	noData	noData	noData	noData	noData	cornu5
+42.69942	36.47095	noData	noData	noData	noData	noData	cornu16
+37.96771	36.52013	noData	noData	noData	noData	noData	cornu1
+38.25590	36.56491	noData	noData	noData	noData	noData	cornu1
+5.26284	36.58463	noData	xroads	rPoint	rPoint	RoutPoint1218	cornu12
+57.93021	36.61767	noData	noData	noData	noData	noData	cornu16
+48.50775	36.67093	noData	noData	noData	noData	noData	cornu5
+59.64504	36.75977	noData	xroads	rPoint	rPoint	RoutPoint1701	cornu17
+-3.02432	36.78321	noData	xroads	rPoint	rPoint	RoutPoint1411	cornu14
+-5.79474	36.78537	noData	xroads	rPoint	rPoint	RoutPoint1402	cornu14
+8.49250	36.78991	noData	xroads	rPoint	rPoint	RoutPoint1212	cornu12
+57.54651	36.81177	noData	noData	noData	noData	noData	cornu17
+9.86752	36.87814	noData	xroads	rPoint	rPoint	RoutPoint1213	cornu12
+39.05795	36.88700	noData	xroads	rPoint	rPoint	RoutPoint0205	cornu2
+36.72114	36.96023	noData	noData	noData	noData	noData	cornu1
+40.70137	37.14172	noData	xroads	rPoint	rPoint	RoutPoint0208	cornu2
+46.14572	37.20353	noData	xroads	rPoint	rPoint	RoutPoint1609	cornu16
+69.23151	37.28694	noData	xroads	rPoint	rPoint	RoutPoint1711	cornu17
+-3.72030	37.36682	noData	xroads	rPoint	rPoint	RoutPoint1408	cornu14
+-4.07548	37.47858	noData	xroads	rPoint	rPoint	RoutPoint1407	cornu14
+38.56052	37.50303	noData	xroads	rPoint	rPoint	RoutPoint0206	cornu2
+-5.18598	37.50854	noData	xroads	rPoint	rPoint	RoutPoint1405	cornu14
+45.06928	37.51993	noData	noData	noData	noData	noData	cornu16
+-4.96388	37.55276	noData	xroads	rPoint	rPoint	RoutPoint1404	cornu14
+45.04559	37.55636	noData	xroads	rPoint	rPoint	RoutPoint1607	cornu16
+69.58921	37.56589	noData	xroads	rPoint	rPoint	RoutPoint1709	cornu17
+45.87267	37.58893	noData	xroads	rPoint	rPoint	RoutPoint1608	cornu16
+-5.72640	37.60122	noData	xroads	rPoint	rPoint	RoutPoint1403	cornu14
+69.88956	37.63329	noData	xroads	rPoint	rPoint	RoutPoint1708	cornu17
+54.76182	37.63592	noData	xroads	rPoint	rPoint	RoutPoint1618	cornu16
+-4.45404	37.70800	noData	xroads	rPoint	rPoint	RoutPoint1406	cornu14
+-4.71391	37.83949	noData	xroads	rPoint	rPoint	RoutPoint1409	cornu14
+-4.78494	37.85724	noData	xroads	rPoint	rPoint	RoutPoint1410	cornu14
+48.33669	37.87282	noData	xroads	rPoint	rPoint	RoutPoint1616	cornu16
+38.06612	37.90914	noData	xroads	rPoint	rPoint	RoutPoint0207	cornu2
+41.61534	37.91206	noData	noData	noData	noData	noData	cornu16
+40.11608	37.93697	noData	xroads	rPoint	rPoint	RoutPoint0210	cornu2
+39.63395	38.00670	noData	xroads	rPoint	rPoint	RoutPoint0209	cornu2
+69.25665	38.13029	noData	xroads	rPoint	rPoint	RoutPoint1710	cornu17
+44.90509	38.13725	noData	xroads	rPoint	rPoint	RoutPoint1606	cornu16
+67.88513	38.16197	noData	xroads	rPoint	rPoint	RoutPoint1712	cornu17
+45.88063	38.29658	noData	xroads	rPoint	rPoint	RoutPoint1605	cornu16
+-5.31816	38.30589	noData	xroads	rPoint	rPoint	RoutPoint1415	cornu14
+69.33481	38.31427	noData	xroads	rPoint	rPoint	RoutPoint1729	cornu17
+48.28798	38.37865	noData	xroads	rPoint	rPoint	RoutPoint1614	cornu16
+-5.26376	38.48401	noData	xroads	rPoint	rPoint	RoutPoint1416	cornu14
+69.14618	38.49824	noData	xroads	rPoint	rPoint	RoutPoint1727	cornu17
+42.08843	38.54422	noData	noData	noData	noData	noData	cornu16
+68.96102	38.56018	noData	xroads	rPoint	rPoint	RoutPoint1728	cornu17
+66.31703	38.62997	noData	xroads	rPoint	rPoint	RoutPoint1713	cornu17
+65.70845	38.91478	noData	xroads	rPoint	rPoint	RoutPoint1721	cornu17
+42.47598	38.92386	noData	noData	noData	noData	noData	cornu16
+-5.98896	38.94278	noData	xroads	rPoint	rPoint	RoutPoint1412	cornu14
+41.54917	38.95424	noData	noData	noData	noData	noData	cornu16
+43.09565	38.97385	noData	xroads	rPoint	rPoint	RoutPoint0211	cornu2
+65.40939	38.97694	noData	xroads	rPoint	rPoint	RoutPoint1720	cornu17
+43.01599	39.10290	noData	xroads	rPoint	rPoint	RoutPoint1610	cornu16
+42.54358	39.35726	noData	noData	noData	noData	noData	cornu16
+42.48018	39.36367	noData	xroads	rPoint	rPoint	RoutPoint1611	cornu16
+-6.62559	39.53718	noData	xroads	rPoint	rPoint	RoutPoint1414	cornu14
+41.82256	39.63372	noData	noData	noData	noData	noData	cornu16
+-6.56085	39.74353	noData	xroads	rPoint	rPoint	RoutPoint1413	cornu14
+67.98617	39.93544	noData	xroads	rPoint	rPoint	RoutPoint1725	cornu17
+63.96440	39.96155	noData	xroads	rPoint	rPoint	RoutPoint1722	cornu17
+69.22893	40.07418	noData	xroads	rPoint	rPoint	RoutPoint1714	cornu17
+41.46956	40.23295	noData	noData	noData	noData	noData	cornu16
+62.43972	40.23741	noData	xroads	rPoint	rPoint	RoutPoint1717	cornu17
+69.66363	40.26668	noData	xroads	rPoint	rPoint	RoutPoint1726	cornu17
+70.58950	40.43031	noData	xroads	rPoint	rPoint	RoutPoint1715	cornu17
+47.19945	40.52049	noData	xroads	rPoint	rPoint	RoutPoint1612	cornu16
+48.72306	40.66162	noData	xroads	rPoint	rPoint	RoutPoint1615	cornu16
+47.61548	40.73903	noData	xroads	rPoint	rPoint	RoutPoint1613	cornu16
+0.54908	40.78294	noData	xroads	rPoint	rPoint	RoutPoint1417	cornu14
+71.11979	40.79361	noData	xroads	rPoint	rPoint	RoutPoint1723	cornu17
+71.44240	40.99948	noData	xroads	rPoint	rPoint	RoutPoint1724	cornu17
+57.91424	41.02904	noData	noData	noData	noData	noData	cornu17
+69.42422	41.18377	noData	xroads	rPoint	rPoint	RoutPoint1716	cornu17
+76.40556	41.27173	noData	noData	noData	noData	noData	cornu17
+58.37229	41.38633	noData	noData	noData	noData	noData	cornu16
+48.25116	42.03054	noData	noData	noData	noData	noData	cornu18
+47.11116	43.32408	noData	xroads	rPoint	rPoint	RoutPoint1801	cornu18
+46.64954	43.73871	noData	xroads	rPoint	rPoint	RoutPoint1802	cornu18
+35.30971	49.39239	noData	noData	noData	noData	noData	cornu18
+49.98817	53.02226	noData	xroads	rPoint	rPoint	RoutPoint1803	cornu18
+46.35428	36.09869	Rihab	waystations	etape	etape	Manzil al-Baylaqān ?	cornu16
+46.21410	36.50570	Rihab	villages	localite	localite	Barzaŧ ?	cornu16
+53.11807	36.53215	Rihab	towns	cite	cite	Sāriyaŧ	cornu16
+48.50530	36.66235	Rihab	towns	cite	cite	Zanǧān	cornu16
+46.10896	36.92367	Rihab	towns	cite	cite	Sāburḫast ?	cornu16
+45.60275	36.96475	Rihab	towns	cite	cite	Ǧabrawān ?	cornu16
+45.12379	37.02695	Rihab	towns	cite	cite	Ušnuh	cornu16
+46.24758	37.34276	Rihab	towns	cite	cite	Marāġaŧ	cornu16
+47.01236	37.37990	Rihab	villages	localite	localite	Kulsāraŧ ?	cornu16
+47.25690	37.38856	Rihab	towns	cite	cite	Ḫūnaǧ ?	cornu16
+47.74052	37.40341	Rihab	towns	cite	cite	al-Mayāniǧ/al-Miyāniǧ	cornu16
+45.07411	37.52011	Rihab	towns	cite	cite	Urmīyaŧ	cornu2
+45.35353	37.70285	Rihab	waters	lac	lac	Buḥayraŧ Urmiyyaŧ	cornu16
+45.98591	37.72041	Rihab	towns	cite	cite	Dāḫarraqān/Ḫarraqān	cornu16
+47.57698	37.91236	Rihab	villages	localite	localite	al-Sarāt	cornu16
+47.99130	38.02656	Rihab	waystations	etape	etape	al-Nīr	cornu16
+46.33121	38.06387	Rihab	towns	cite	cite	Tabrīz	cornu16
+47.75372	38.21805	Rihab	sites	montagne	montagne	Ǧabal Sabalān	cornu16
+44.82832	38.22277	Rihab	towns	cite	cite	Salamās	cornu16
+48.30651	38.23604	Rihab	metropoles	metropole	metropole	Ardabīl	cornu16
+47.95801	38.24076	Rihab	regions	region	region	Aḏarbayǧān	cornu16
+43.13392	38.34421	Rihab	towns	cite	cite	Wasṭān	cornu16
+47.14386	38.45223	Rihab	towns	cite	cite	Ahar	cornu16
+45.80321	38.46017	Rihab	towns	cite	cite	Marand	cornu16
+47.02219	38.54980	Rihab	regions	region	region	Maymaḏ/Mīmaḏ	cornu16
+46.66017	38.56125	Rihab	towns	cite	cite	Warzaqān	cornu16
+43.34872	38.57711	Rihab	villages	localite	localite	Wān	cornu16
+44.99055	38.58650	Rihab	towns	cite	cite	Ḫuwī/Ḫuwayy/Ḫuwīt	cornu16
+41.48709	38.75648	Rihab	villages	localite	localite	Mūš	cornu2
+42.51044	38.76551	Rihab	towns	cite	cite	Aḫlāṭ/Ḫilāṭ	cornu2
+42.91010	38.77880	Rihab	waters	lac	lac	Buḥayraŧ Aḫlāṭ/Buḥayraŧ Ḫilāṭ/Buḥayraŧ Arǧīš 	cornu16
+47.85286	38.96621	Rihab	towns	cite	cite	Barzand	cornu16
+43.75682	38.98412	Rihab	towns	cite	cite	Barkarī/Barkawī	cornu16
+43.35895	39.02230	Rihab	towns	cite	cite	Arǧīš	cornu16
+48.12475	39.22560	Rihab	regions	district	district	Bāǧarwān/Mūqān/Mūġkān	cornu16
+48.50179	39.33548	Rihab	capitals	cheflieu	cheflieu	Mūġān/Mūġkān/Mūqān	cornu16
+48.50179	39.33548	Rihab	regions	region	region	Mūġān/Mūġkān/Mūqān	cornu16
+47.82733	39.34245	Rihab	villages	localite	localite	Balḫāb/Talḫāb ?	cornu16
+45.37660	39.34739	Rihab	towns	cite	cite	al-Našawá	cornu16
+41.69403	39.39009	Rihab	waystations	etape	etape	Sinn Nuḥās/Bāǧunays	cornu2
+44.11256	39.47331	Rihab	regions	region	region	Arminiyyaŧ	cornu16
+45.61619	39.54632	Rihab	regions	region	region	Busfurǧān	cornu16
+47.64257	39.56659	Rihab	towns	cite	cite	Warṯān	cornu16
+44.81405	39.73371	Rihab	waters	riviere	riviere	Nahr al-Rass	cornu16
+47.46081	39.86701	Rihab	towns	cite	cite	al-Baylaqān	cornu16
+44.27779	39.90562	Rihab	sites	mont	mont	Ǧabal al-Ḥarīṯ/Ǧabal al-Ḥuwayrīṯ	cornu16
+41.27233	39.91956	Rihab	towns	cite	cite	Qālīqalā	cornu2
+43.16621	40.00234	Rihab	regions	region	region	Baġrawand	cornu16
+47.33087	40.10841	Rihab	towns	cite	cite	al-Andarāb ?	cornu16
+44.68562	40.16468	Rihab	capitals	capitale	capitale	Dabīl	cornu16
+48.18559	40.16468	Rihab	waters	riviere	riviere	Nahr al-Kurr	cornu16
+46.64590	40.20714	Rihab	villages	localite	localite	Qalqāṭūs ?	cornu16
+47.56971	40.23581	Rihab	towns	cite	cite	Bardāǧ/Bardīǧ/Barzanǧ	cornu16
+38.49484	40.32189	Rihab	sites	placefrontiere	placefrontiere?	Qalūniyaŧ al-ʿAwfī	cornu2
+49.86422	40.37900	Rihab	towns	cite	cite	Bākūh	cornu16
+47.23624	40.45334	Rihab	capitals	capitale	capitale	Barḏaʿaŧ	cornu16
+47.14761	40.60291	Rihab	regions	region	region	Arrān	cornu16
+48.68505	40.67871	Rihab	villages	localite	localite	al-Šamāḫiyyaŧ ?	cornu16
+47.65158	40.79878	Rihab	towns	cite	cite	Qabalaŧ	cornu16
+46.38603	40.81356	Rihab	towns	cite	cite	Ǧanzaŧ/Ǧanǧaŧ	cornu16
+48.38086	40.88004	Rihab	regions	contree	contree	al-Abḫān/Lāyiǧān/Layzān/Līzān/Līrān	cornu16
+48.38086	40.88004	Rihab	towns	cite	cite	al-Abḫān/Lāyiǧān/Layzān/Līzān/Līrān	cornu16
+46.06157	40.99521	Rihab	towns	cite	cite	Šamkūr	cornu16
+48.75339	41.11585	Rihab	regions	region	region	Širwān/Šarwān	cornu16
+48.75339	41.11585	Rihab	towns	cite	cite	Širwān/Šarwān	cornu16
+48.76916	41.27070	Rihab	towns	cite	cite	Šābarān	cornu16
+45.96093	41.29497	Rihab	waters	riviere	riviere	Nahr al-Kurr	cornu16
+47.20469	41.34856	Rihab	regions	region	region	Šakkī	cornu16
+47.20469	41.34856	Rihab	towns	cite	cite	Šakkī	cornu16
+45.50578	41.39027	Rihab	towns	cite	cite	Ḫunān ?	cornu16
+45.16780	41.56808	Rihab	towns	cite	cite	Qalʿaŧ Ibn Kandamān ?	cornu16
+48.48301	41.84983	Rihab	villages	localite	localite	Ǧisr Samūr	cornu16
+48.30854	42.04308	Rihab	towns	cite	cite	Bāb al-Abwāb	cornu16
+44.83734	42.08410	Rihab	towns	cite	cite	Tiflīs	cornu16
+45.26094	42.27111	Rihab	regions	district	district	Suġdabīl	cornu16
+43.20001	42.55502	Rihab	regions	district	district	Ǧurzān	cornu16
+51.54135	39.08291	Rihab/Daylam	waters	lac	lac	Baḥr al-Ḫazar	cornu16
+34.94527	29.57226	Sham	towns	cite	cite/port	Aylaŧ/Waylaŧ	cornu9
+35.17023	30.03245	Sham	towns	ville	ville	Ġarandal/ʿArandal	cornu9
+35.72442	30.19664	Sham	towns	cite	cite	Maʿān/Muʿān	cornu1
+35.32238	30.26155	Sham	regions	territoire	territoire	al-Ǧibāl	cornu1
+35.47226	30.33334	Sham	villages	village	village	Wādī Mūsá	cornu1
+35.75502	30.33962	Sham	capitals	capitale	capitale	Aḏrūḥ	cornu1
+35.77450	30.59382	Sham	regions	circon	circon	al-Šarāt	cornu1
+35.46845	31.03706	Sham	towns	cite	cite	Ṣuġar/Zuġar	cornu1
+35.68544	31.06466	Sham	villages	village	village	Muʾtaŧ	cornu1
+35.69038	31.17824	Sham	villages	village	village?	Karak	cornu1
+35.04078	31.20812	Sham	waystations	etape	etape	al-Kusayfaŧ	cornu1
+35.73272	31.25790	Sham	towns	cite	cite	Maʾāb/Muʾāb	cornu1
+34.25897	31.30870	Sham	waystations	etape	etape	Rafḥ	cornu1
+35.46173	31.38450	Sham	waters	lac	lac	Buḥayraŧ al-Muntinaŧ/Buḥayraŧ al-Maqlūbaŧ/Buḥayraŧ al-Miyyataŧ/Buḥayraŧ al-Ṣuġar	cornu1
+34.45664	31.49664	Sham	towns	cite	cite	Ġazzaŧ	cornu1
+34.42276	31.50145	Sham	towns	cite	cite	Mīmās	cornu1
+35.08912	31.53018	Sham	towns	cite	cite	Ḥabraŧ/al-Ḫalīl/Ḥabrūn/Masǧid Ibrāhīm	cornu1
+34.65335	31.56416	Sham	villages	bourgade	bourgade	al-Sukkariyyaŧ ?	cornu1
+34.88059	31.60564	Sham	towns	cite	cite	Bayt Ǧibrīl/Bayt Ǧibrīn	cornu1
+34.55455	31.66572	Sham	towns	cite	cite/port	ʿAsqalān	cornu1
+35.18792	31.70926	Sham	villages	localite	localite	Bayt Laḥm	cornu1
+35.20345	31.77768	Sham	towns	cite	cite	Bayt al-Maqdis/al-Quds/Īliyā	cornu1
+34.66817	31.79837	Sham	sites	ribat	ribat	Azdūd/Yazdūd	cornu1
+35.60287	31.80167	Sham	villages	localite	localite	Bayt al-Rām/Bayt Rāmaŧ/Bayt al-Rās	cornu1
+34.63712	31.81276	Sham	sites	port	port	Māḥūz Azdūd	cornu1
+34.97656	31.84394	Sham	villages	bourgade	bourgade	ʿAmawās	cornu1
+35.43774	31.86043	Sham	towns	cite	cite	Riḥā/Arīḥā	cornu1
+34.80861	31.86252	Sham	villages	village	village	ʿĀqir	cornu1
+35.48149	31.86882	Sham	sites	fosse	fosse	al-Ġawr	cornu1
+34.73521	31.87092	Sham	villages	village	village	Yubnā	cornu1
+34.66888	31.87811	Sham	sites	port	port	Māḥūz Yubnā	cornu1
+35.96419	31.89279	Sham	villages	village	village	al-Raqīm/al-Raqam	cornu1
+34.86436	31.92484	Sham	capitals	capitale	capitale	al-Ramlaŧ	cornu1
+35.91903	31.93113	Sham	towns	cite	cite	ʿAmmān	cornu1
+34.88482	31.95598	Sham	villages	bourgade	bourgade	Ludd	cornu1
+34.75362	32.06237	Sham	towns	cite	cite	Yāfā/Yāfaŧ	cornu1
+36.08689	32.07029	Sham	waystations	etape	etape	al-Zarqāʾ ?	cornu1
+35.96379	32.08487	Sham	regions	region	region	al-Balqāʾ	cornu1
+35.56271	32.15774	Sham	waters	riviere	riviere	al-Urdunn	cornu1
+34.88134	32.17778	Sham	villages	bourgade	bourgade	Kafarsābā	cornu1
+34.80739	32.19588	Sham	towns	cite	cite	Arsūf	cornu1
+35.24238	32.22047	Sham	towns	cite	cite	Nābulus	cornu1
+35.15237	32.27085	Sham	villages	localite	localite	Sabasṭiyaŧ	cornu1
+35.88040	32.27309	Sham	towns	cite	cite	Ǧuraš	cornu1
+34.98155	32.29512	Sham	villages	localite	localite	Qalansuwaŧ	cornu1
+35.38269	32.33910	Sham	waystations	etape	etape	Taʿāsir	cornu1
+35.61434	32.43634	Sham	regions	circon	circon	Fahl	cornu1
+34.89906	32.49326	Sham	towns	cite	cite	Qaysariyyaŧ	cornu1
+35.49256	32.50000	Sham	towns	cite	cite	Baysān	cornu1
+36.43071	32.51503	Sham	towns	cite	cite	Buṣrá	cornu9
+35.27017	32.60823	Sham	towns	cite	cite	al-Laǧǧūn	cornu1
+36.09087	32.61046	Sham	capitals	cheflieu	cheflieu	Aḏriʿāt	cornu1
+36.73153	32.65059	Sham	regions	canton	canton	al-Ḥawrān	cornu1
+36.55945	32.69627	Sham	villages	localite	localite	Suwaydāʾ	cornu1
+36.15837	32.72189	Sham	regions	canton	canton	al-Baṯaniyyaŧ	cornu1
+34.95381	32.74750	Sham	villages	localite	localite	al-Kanīsaŧ	cornu1
+35.67655	32.77421	Sham	villages	bourgade	bourgade/passe	ʿAqabaŧ al-Fīq/Afīq/Fīq	cornu1
+35.51241	32.77755	Sham	capitals	capitale	capitale	Ṭabariyyaŧ	cornu1
+35.57727	32.80982	Sham	waters	lac	lac	Buḥayraŧ Ṭabariyyaŧ	cornu1
+35.21458	32.86543	Sham	villages	bourgade	bourgade	Kābul	cornu1
+36.02865	32.88099	Sham	towns	cite	cite	Nawá	cornu1
+36.04321	32.92323	Sham	villages	localite	localite	al-Ǧābiyaŧ	cornu1
+35.52565	32.92434	Sham	villages	bourgade	bourgade	Ǧubb Yūsuf	cornu1
+35.07559	32.92878	Sham	towns	cite	cite	ʿAkkaŧ	cornu1
+35.63816	32.97543	Sham	regions	canton	canton	al-Ḥulaŧ	cornu1
+36.04321	32.98099	Sham	waystations	etape	etape	Ǧāsim	cornu1
+35.45020	33.03094	Sham	villages	bourgade	bourgade	al-Ǧašš	cornu1
+35.59845	33.06755	Sham	waters	lac	lac	Buḥayraŧ Qadas	cornu1
+35.79833	33.09084	Sham	regions	canton	canton	al-Ǧawlān	cornu1
+35.49123	33.12189	Sham	towns	cite	cite	Qadas	cornu1
+35.43299	33.22604	Sham	villages	localite	localite	Maǧdal Salīm	cornu1
+36.14580	33.22659	Sham	sites	lieu	lieu	Marǧ al-Ṣuffar	cornu1
+35.67787	33.25150	Sham	towns	cite	cite	Bāniyās	cornu1
+35.20796	33.26921	Sham	towns	cite	cite	Ṣūr	cornu1
+36.23184	33.35826	Sham	waystations	etape	etape	al-Kuswaŧ	cornu1
+35.56778	33.36423	Sham	waystations	etape	etape	Qaryaŧ al-ʿUyūn	cornu1
+35.26620	33.39418	Sham	sites	port	site	ʿAḏnūn ?	cornu1
+35.28606	33.45495	Sham	towns	cite	cite	Ṣarafandaŧ	cornu1
+35.81024	33.45826	Sham	regions	region	region	Ǧabal Sanīr	cornu1
+35.81024	33.45826	Sham	sites	montagne	montagne	Ǧabal Sanīr	cornu1
+36.23184	33.46544	Sham	villages	bourgade	bourgade	Dārayyā	cornu1
+36.47275	33.48862	Sham	waters	riviere	riviere	Baradá	cornu1
+36.44363	33.50849	Sham	regions	riviere	canton	al-Ġūṭaŧ	cornu1
+36.30199	33.51843	Sham	metropoles	metropole	metropole	Dimašq	cornu1
+35.37475	33.56642	Sham	towns	cite	cite	Ṣaydāʾ	cornu1
+35.71229	33.57083	Sham	waystations	etape	etape	al-Qarʿūn	cornu1
+36.50981	33.60226	Sham	sites	lieu	lieu	Marǧ Rāhiṭ	cornu1
+36.02468	33.64139	Sham	waters	source	source	al-Fīǧaŧ	cornu1
+35.90422	33.72730	Sham	waystations	etape	etape	ʿAyn al-Ǧarr	cornu1
+36.08756	33.73115	Sham	villages	localite	localite	Zabadānī	cornu1
+36.60247	33.74546	Sham	waystations	etape	etape	al-Quṭayyifaŧ	cornu1
+35.46741	33.77683	Sham	towns	cite	cite	al-Nāʿimaŧ	cornu1
+36.74014	33.81588	Sham	waystations	etape	etape	Ǧarūd	cornu1
+35.92143	33.83512	Sham	regions	canton	canton	al-Biqāʿ	cornu1
+35.89165	33.86315	Sham	towns	cite	cite	ʿArǧamūš	cornu1
+36.18816	33.88074	Sham	waystations	etape	etape	ʿAqabaŧ al-Rummān ?	cornu1
+35.50910	33.90162	Sham	towns	cite	cite	Bayrūt	cornu1
+36.59718	33.91260	Sham	sites	montagne	montagne	Ǧabal Qalamūn/Qalamūn	cornu1
+35.61897	33.98398	Sham	towns	cite	cite	Ǧuniyyaŧ	cornu1
+36.19213	34.01251	Sham	towns	cite	cite	Baʿlabakk	cornu1
+36.73220	34.02567	Sham	waystations	etape	etape	al-Nabk	cornu1
+35.65206	34.12764	Sham	towns	cite	cite	Ǧubayl	cornu1
+35.99225	34.15941	Sham	sites	mont	mont	Ǧabal Lubnān	cornu1
+36.84868	34.16598	Sham	waystations	etape	etape	Qāraŧ	cornu1
+36.33244	34.19007	Sham	villages	village	village?	Labwaŧ	cornu1
+37.24976	34.22510	Sham	waystations	etape	etape	al-Qaryatān	cornu1
+35.67059	34.25903	Sham	sites	port	port	Baṯrūn	cornu1
+37.10415	34.26231	Sham	sites	lieu	lieu	Ḥuwārīn #?	cornu1
+36.93340	34.31043	Sham	waystations	etape	etape	Ṣadad	cornu1
+35.73678	34.35634	Sham	towns	cite	cite	Anafaŧ	cornu1
+36.42642	34.42297	Sham	waters	riviere	riviere	Nahr l-Maqlūb	cornu1
+35.85194	34.44044	Sham	towns	cite	cite/port	Aṭrābulus/Ṭarābulus	cornu1
+36.56409	34.44699	Sham	towns	cite	cite	Ǧūsiyaŧ	cornu1
+37.38213	34.45245	Sham	waystations	etape	etape	Nihyā ?	cornu1
+36.07300	34.52991	Sham	towns	cite	cite	ʿArqaŧ	cornu1
+36.74279	34.53863	Sham	waystations	etape	etape	Šamsīn	cornu1
+38.28754	34.54735	Sham	towns	cite	cite	Tadmur	cornu1
+36.32185	34.71618	Sham	regions	circon	circon	Būqā	cornu1
+36.72425	34.73793	Sham	capitals	capitale	capitale	Ḥimṣ	cornu1
+36.35891	34.85533	Sham	sites	montagne	montagne	Ǧabal Ǧalīl	cornu1
+36.93472	34.87271	Sham	waystations	etape	etape	Farʿāyā ?	cornu1
+35.90356	34.89985	Sham	towns	cite	cite	Anṭarṭūs/Anṭarsūs/Ṭarṭūs	cornu1
+36.41054	34.93133	Sham	towns	cite	cite	Rafaniyyaŧ	cornu1
+36.75337	34.93350	Sham	towns	cite	cite	Rastān	cornu1
+37.07106	35.00401	Sham	towns	cite	cite	Salamiyyaŧ	cornu1
+35.91774	35.04801	Sham	villages	localite	localite	Marāqiyyaŧ	cornu1
+37.57892	35.06025	Sham	waystations	etape	etape	al-Qasṭal	cornu1
+36.76872	35.12587	Sham	towns	cite	cite	Ḥamāŧ	cornu1
+35.97212	35.18256	Sham	towns	cite	cite	Bulunyās ?	cornu1
+36.20321	35.20588	Sham	regions	region	region	Ǧabal Bahraŧ	cornu1
+36.20321	35.20588	Sham	sites	montagne	montagne	Ǧabal Bahraŧ	cornu1
+36.55938	35.25585	Sham	towns	cite	cite	Šayzar	cornu1
+36.76600	35.28804	Sham	regions	district	district	Ṣawwarān	cornu1
+36.62191	35.31245	Sham	villages	localite	localite	al-Aṭmīn/al-Laṭmīn	cornu1
+35.95309	35.36567	Sham	towns	cite	cite	Ǧabalaŧ	cornu1
+36.40440	35.41665	Sham	towns	cite	cite	Fāmiyyaŧ	cornu1
+36.61239	35.50744	Sham	villages	bourgade	bourgade	Kafarṭāb	cornu1
+35.80763	35.51961	Sham	towns	cite	cite	al-Lāḏiqiyyaŧ	cornu1
+38.31435	35.52404	Sham	waystations	etape	etape	al-Buṭlāmiyyaŧ/al-Ḫirbaŧ ?	cornu1
+38.77933	35.60242	Sham	waystations	etape	etape	al-Ruṣāfaŧ	cornu1
+36.74697	35.63129	Sham	regions	district	district	Tall Mannas	cornu1
+36.69124	35.64344	Sham	towns	cite	cite	Maʿarraŧ al-Nuʿmān	cornu1
+35.80083	35.66663	Sham	villages	localite	localite	Fāsiraŧ/Kāsiraŧ/Qāsiraŧ ?	cornu1
+36.58384	35.66884	Sham	sites	mont	mont	Ǧabal al-Sumāq	cornu1
+36.27118	35.67547	Sham	sites	forteresse	forteresse	Ḥiṣn Barzūyaŧ	cornu1
+36.54442	35.68430	Sham	villages	localite	localite	al-Bāraŧ ?	cornu1
+37.50551	35.78031	Sham	towns	cite	cite	al-Ḫunāṣiraŧ	cornu1
+38.38504	35.81449	Sham	waters	riviere	riviere	al-Furāt	cornu1
+36.72250	35.89492	Sham	villages	localite	localite	Sarmīn	cornu1
+38.49243	35.92575	Sham	waystations	etape	etape	Dawsar	cornu1
+36.42208	35.99287	Sham	waters	riviere	riviere	al-Urunṭ/al-Urund	cornu1
+37.02701	35.99617	Sham	capitals	capitale	capitale	Qinnasrīn	cornu1
+36.69667	36.01376	Sham	towns	cite	cite	Maʿarraŧ Qinnasrīn	cornu1
+38.09005	36.02806	Sham	towns	cite	cite	Bālis	cornu1
+37.69991	36.08630	Sham	towns	cite	cite	Ḫušāf	cornu1
+35.99387	36.08960	Sham	towns	cite	cite	al-Suwaydiyyaŧ	cornu1
+36.83533	36.13792	Sham	waystations	etape	etape	al-Aṯārib	cornu1
+36.18418	36.19718	Sham	towns	cite	cite	Anṭākiyyaŧ	cornu1
+37.17518	36.19828	Sham	capitals	capitale	capitale	Ḥalab	cornu1
+36.70483	36.23776	Sham	towns	cite	cite	Tīzīn/Tūzīn	cornu1
+37.22956	36.29913	Sham	waters	riviere	riviere	Nahr Quwayq	cornu1
+36.05096	36.33966	Sham	sites	montagne	montagne	Ǧabal al-Lukkām	cornu1
+36.47102	36.38345	Sham	waystations	etape	etape	ʿAmq	cornu1
+36.22768	36.41518	Sham	villages	localite	localite	Baġrās	cornu1
+36.19234	36.57473	Sham	towns	cite	cite	Iskandarūnaŧ/Iskandarīyaŧ	cornu1
+36.94952	36.72960	Sham	towns	cite	cite	Qūrus	cornu1
+36.23856	36.75139	Sham	towns	cite	cite	Bayyās	cornu1
+35.58877	36.79276	Sham	waters	fleuve	fleuve	al-Ǧayḥān	cornu1
+35.28698	36.80583	Sham	waters	fleuve	fleuve	Nahr Sayḥān	cornu1
+38.00577	36.81562	Sham	towns	cite	cite	Ǧarabuluṣ	cornu1
+36.16107	36.86458	Sham	sites	placeforte	placeforte	Tīnāt/Ḥiṣn al-Tīnāt	cornu1
+34.95529	36.90807	Sham	towns	cite	cite	Ṭarsūs/Anṭarsūs/Anṭarṭūs	cornu1
+35.66897	36.94067	Sham	sites	placeforte	placeforte	al-Miṣṣīṣaŧ	cornu1
+35.34272	36.96023	Sham	sites	placeforte	placeforte	Aḏanaŧ	cornu1
+15.29356	37.09110	Sicile	towns	cite	cite	Saraqūsaŧ	cornu15
+14.21096	37.18500	Sicile	towns	cite	cite	Buṯīraŧ ?	cornu15
+15.02478	37.29252	Sicile	towns	cite	cite	Lantīnī	cornu15
+13.59290	37.30538	Sicile	towns	cite	cite	Ǧirǧant	cornu15
+13.86212	37.35487	Sicile	towns	cite	cite	ʿAyn al-Muġaṭṭāʾ	cornu15
+15.10968	37.52663	Sicile	towns	cite	cite	Qaṭāniyaŧ	cornu15
+13.21986	37.57066	Sicile	towns	cite	cite	Qalʿaŧ al-Ballūṭ	cornu15
+14.91436	37.57624	Sicile	towns	cite	cite	Baṭarnwaŧ/Baṭarnw	cornu15
+15.16730	37.62947	Sicile	towns	cite	cite	al-Yāǧ	cornu15
+12.58978	37.64431	Sicile	towns	cite	cite	Māzar	cornu15
+13.02806	37.67797	Sicile	towns	cite	cite	Balǧaŧ	cornu15
+12.88988	37.70830	Sicile	towns	cite	cite	Barṭannaŧ	cornu15
+13.31224	37.81007	Sicile	towns	cite	cite	Qurliyūn	cornu15
+14.13046	37.81415	Sicile	towns	cite	cite/citadelle	Baṭarliyyaŧ	cornu15
+13.91402	37.83361	Sicile	towns	cite	cite	Qalʿaŧ Abū Ṯawr	cornu15
+14.18940	37.85376	Sicile	towns	cite	cite	Ǧārās	cornu15
+15.27552	37.86261	Sicile	towns	cite	cite	Ṭabarmīn	cornu15
+13.95010	37.93291	Sicile	towns	cite	cite	Qalʿaŧ al-Ṣirāṭ	cornu15
+13.70463	37.97037	Sicile	towns	cite	cite	Ṯirmaŧ	cornu15
+13.87795	37.97731	Sicile	towns	cite	cite	Būrqād	cornu15
+12.50893	37.98824	Sicile	towns	cite	cite	Aṭrābinuš	cornu15
+14.36712	38.00365	Sicile	towns	cite	cite	Qalʿaŧ al-Qawārib	cornu15
+13.11223	38.03112	Sicile	towns	cite	cite	Barṭinīq	cornu15
+13.34479	38.10757	Sicile	capitals	capitale	capitale	Balarm	cornu15
+13.09201	38.13882	Sicile	towns	cite	cite	Aḫyās	cornu15
+15.48403	38.14806	Sicile	towns	cite	cite	Mīquš	cornu15
+13.18997	38.15105	Sicile	towns	cite	cite	Qarīnaš	cornu15
+15.40177	38.15878	Sicile	towns	cite	cite	Damannaš	cornu15
+15.52846	38.17331	Sicile	towns	cite	cite	Massīnaŧ	cornu15
+15.44048	38.18022	Sicile	towns	cite	cite	Ramṭaŧ/Rimṭaŧ	cornu15
+67.85288	29.53796	Sijistan	capitals	cheflieu	cheflieu	Sīwī/Sīwaŧ	cornu19
+67.65738	29.64265	Sijistan	regions	region	region	Bāliš/Bālis/Wāliš/Wālištān	cornu19
+66.84894	29.79695	Sijistan	towns	cite	cite	Mastanǧ/Mastank	cornu19
+62.37889	30.15265	Sijistan	towns	cite	cite	Kišš/Kiss	cornu19
+61.20990	30.32501	Sijistan	towns	ville	ville	Rāmašahristān	cornu19
+63.17371	30.47359	Sijistan	waters	riviere	riviere	Nahr Hilmand/Nahr Hindmand/Nahr Hīrmīd/Nahr Hīrmand	cornu19
+67.02922	30.58971	Sijistan	towns	cite	cite	Asfabǧāy/Safanǧāwī ?	cornu19
+62.12651	30.68777	Sijistan	towns	cite	cite	al-Ṭāq	cornu19
+61.61613	30.75940	Sijistan	capitals	capitale	capitale	Zaranǧ	cornu19
+62.18420	30.83786	Sijistan	regions	region	region	Nīšak	cornu19
+61.91899	30.99252	Sijistan	towns	cite	cite	Zānbūq/Zānbūk	cornu19
+66.37622	31.02943	Sijistan	sites	ribat	ribat	Ribāṭ Kankī ?	cornu19
+62.17057	31.14385	Sijistan	villages	localite	localite	Sarūzan/Šarūzan ?	cornu19
+61.74272	31.26104	Sijistan	towns	cite	cite	Karkūyah	cornu19
+62.39332	31.28570	Sijistan	villages	localite	localite	Ḥarūrī	cornu19
+63.54388	31.36919	Sijistan	sites	ribat	ribat	Ribāṭ Qahastān/Ribāṭ Hafšiyān ?	cornu19
+63.92927	31.37330	Sijistan	sites	ribat	ribat	Ribāṭ ʿAbd Allãh ?	cornu19
+63.14407	31.38151	Sijistan	sites	ribat	ribat	Ribāṭ Karūdīn ?	cornu19
+65.88026	31.39074	Sijistan	sites	ribat	ribat	Ribāṭ al-Ḥaǧariyyaŧ ?	cornu19
+64.39078	31.39108	Sijistan	capitals	cheflieu	qasaba/cheflieu	Bust	cornu19
+64.39078	31.39108	Sijistan	regions	circonscription	circonscription	Bust	cornu19
+65.33622	31.46253	Sijistan	villages	localite	localite	Kuhak	cornu19
+61.23634	31.47449	Sijistan	waters	lac	lac	Buḥayraŧ Zarah/Buḥayraŧ al-Ṣanṭ	cornu19
+62.76028	31.49499	Sijistan	towns	cite	cite	Ḫawāš/Ḫuwāš/Aḫwāš 	cornu19
+65.52932	31.49823	Sijistan	regions	region	region	al-Ruḫḫāǧ/al-Raḫwaḏ	cornu19
+65.43237	31.51036	Sijistan	towns	cite	cite	Banǧawāy	cornu19
+62.23227	31.51377	Sijistan	towns	cite	cite	Qarnīn ?	cornu19
+64.64236	31.54280	Sijistan	villages	localite	localite	Fīrūzqand	cornu19
+60.05406	31.57770	Sijistan	towns	cite	cite	Nih/Nīh	cornu6
+65.86183	31.59434	Sijistan	towns	cite	cite	Bakrābāḏ/Bakrāwāḏ ?	cornu19
+65.69197	31.64414	Sijistan	regions	contree	contree	Qandahār	cornu19
+65.69197	31.64414	Sijistan	towns	cite	cite	Qandahār	cornu19
+61.60731	31.72221	Sijistan	towns	cite	cite	Ǧuwayn/Kuwayn	cornu19
+66.38343	31.85842	Sijistan	sites	ribat	ribat	Ribāṭ Sarāb ?	cornu19
+62.38610	31.96860	Sijistan	towns	cite	cite	Ǧizah/Kizah ?	cornu19
+64.84747	31.97709	Sijistan	towns	cite	cite	Sarwān/Šarwān	cornu19
+61.72109	32.01209	Sijistan	waters	riviere	riviere	Nahr Farah	cornu19
+65.03496	32.18280	Sijistan	capitals	cheflieu	cheflieu	Dartal	cornu19
+65.17678	32.23313	Sijistan	regions	region	region	Balad Dāwar/Balā Dāwar/Zamīn Dāwar	cornu19
+62.06561	32.35928	Sijistan	towns	cite	cite	Farah	cornu19
+67.33448	32.48440	Sijistan	villages	localite	localite	Ḫāysār/Ḫābišān/Ḫābisār ?	cornu19
+64.79780	32.54487	Sijistan	waters	riviere	riviere	Nahr Bišlank	cornu19
+65.38750	32.61829	Sijistan	towns	cite	cite	Darġaš	cornu19
+64.81783	32.68170	Sijistan	regions	territoire	territoire	Bišlank	cornu19
+64.81783	32.68170	Sijistan	towns	cite	cite	Bišlank	cornu19
+65.00452	32.71541	Sijistan	regions	territoire	territoire	Baġnīn	cornu19
+65.00452	32.71541	Sijistan	towns	cite	cite	Baġnīn	cornu19
+68.40733	33.56409	Sijistan	capitals	capitale	capitale	Ġaznaŧ/Ġaznīn	cornu19
+68.40733	33.56409	Sijistan	regions	circon	circon	Ġaznaŧ/Ġaznīn	cornu19
+69.86876	33.95277	Sijistan	villages	localite	localite	Ūġ/Awaġ	cornu19
+80.81976	7.60759	Sind	regions	ile	ile	Sarandīb	cornu20
+73.04586	18.58187	Sind	towns	cite	cite	Ṣaymūr	cornu20
+72.95093	19.52404	Sind	towns	cite	cite	Sūbāraŧ	cornu20
+73.01422	19.90633	Sind	towns	cite	cite	Sandān	cornu20
+72.56065	22.35228	Sind	towns	cite	cite	Kanbāyaŧ	cornu20
+75.78308	23.20809	Sind	towns	cite	cite	Wuǧayn	cornu20
+71.72209	23.61826	Sind	towns	cite	cite	Qāmuhul ?	cornu20
+67.69101	24.43756	Sind	towns	cite	cite	al-Daybul	cornu19
+83.42513	25.14934	Sind	waters	riviere	riviere	Nahr Ǧanǧas	cornu20
+69.67968	25.32721	Sind	towns	cite	cite	Bānyaŧ ?	cornu19
+60.63196	25.38207	Sind	towns	cite	cite	al-Tīz	cornu19
+68.34181	25.42764	Sind	towns	cite	cite	al-Nīrūn/al-Bīrūn	cornu19
+66.57989	25.49111	Sind	towns	cite	cite	Qanbalī/Qanbalá ?	cornu19
+61.15124	25.58676	Sind	towns	cite	cite	Dašt ʿAlī ?	cornu19
+68.25338	25.84265	Sind	towns	cite	cite	Manǧābārá ?	cornu19
+68.87697	25.86510	Sind	capitals	capitale	capitale	al-Manṣūraŧ	cornu19
+63.09359	26.02584	Sind	towns	cite	cite	Kīǧ/Kīz	cornu19
+62.05375	26.09290	Sind	towns	cite	cite	Band/Bīḏ ?	cornu19
+64.66560	26.16004	Sind	regions	region	region	Kalwān/Kulwān ?	cornu19
+61.33378	26.22927	Sind	towns	cite	cite	Bih ?	cornu19
+66.38343	26.23769	Sind	villages	localite	localite	Armābīl/Armāʾīl	cornu19
+62.20454	26.24757	Sind	towns	cite	cite	Aṣfaqaŧ ?	cornu19
+60.71473	26.29231	Sind	towns	cite	cite	Qaṣrqand	cornu19
+67.85929	26.41721	Sind	towns	cite	cite	Sadūsān/Sadūstān	cornu19
+68.85922	26.44591	Sind	towns	cite	cite	Qāllarī ?	cornu19
+79.59619	26.46686	Sind	towns	cite	cite	Awrahaŧ ?	cornu20
+62.51067	26.52688	Sind	regions	region	region	Mukrān	cornu19
+66.40105	26.57497	Sind	towns	cite	cite	Rustākuhan ?	cornu19
+61.22272	26.70943	Sind	towns	cite	cite	Rāsk ?	cornu19
+64.11916	26.92662	Sind	capitals	capitale	capitale	Bannaǧbūr/Fannaǧbūr/Bannazbūr/Qannazbūr	cornu19
+80.03921	27.11654	Sind	capitals	capitale	capitale	Qannawǧ	cornu20
+80.03921	27.11654	Sind	regions	circonscription	circonscription	Qannawǧ	cornu20
+68.25990	27.18279	Sind	waters	riviere	riviere	Nahr Mihrān	cornu19
+60.41989	27.25778	Sind	towns	cite	cite	Barbūr	cornu19
+60.66186	27.28057	Sind	towns	cite	cite	al-Bahraǧ/al-Fahraǧ/Fahlfahraǧ	cornu19
+62.26752	27.36457	Sind	towns	cite	cite	Dizak	cornu19
+63.94609	27.46467	Sind	towns	cite	cite	Mašká/Maškī ?	cornu19
+62.64811	27.64173	Sind	towns	cite	cite	Ǧālq/Ǧālk	cornu19
+68.90569	27.65788	Sind	towns	cite	cite	al-Rūr	cornu19
+66.59495	27.77650	Sind	towns	cite	cite	Quṣdār	cornu19
+66.22799	27.79334	Sind	regions	region	region	Tūrān	cornu19
+61.88374	27.79777	Sind	towns	cite	cite	Ḫawāš/Ḫawāṣ	cornu19
+59.73164	28.17735	Sind	towns	cite	cite	Sarāy Šahr ?	cornu19
+78.21440	28.46951	Sind	towns	cite	cite	Abār ?	cornu20
+66.29529	28.48590	Sind	towns	cite	cite	Sūraŧ	cornu19
+70.02385	28.57493	Sind	waters	riviere	riviere	Nahr Mihrān	cornu20
+67.48191	28.62665	Sind	towns	cite	cite	Qandābīl	cornu19
+67.56764	28.71365	Sind	regions	region	region	al-Budhaŧ	cornu19
+66.70232	28.85409	Sind	regions	region	region	Ayul	cornu19
+66.57332	29.02220	Sind	towns	cite	cite	Kīzkānān	cornu19
+70.87350	29.12094	Sind	towns	cite	cite	Basmad ?	cornu19
+67.33448	29.88035	Sind	towns	cite	cite	al-Maǧāk/al-Maǧālī ?	cornu19
+73.67875	30.12521	Sind	waters	riviere	riviere	Nahr Sindarūḏ	cornu20
+71.40071	30.17568	Sind	towns	cite	cite	al-Mūltān	cornu19
+73.13025	31.80740	Sind	waters	riviere	riviere	Nahr Ǧandarūr	cornu20
+71.29976	32.14532	Sind	waters	riviere	riviere	Nahr Mihrān	cornu19
+68.03075	33.08810	Sind	villages	localite	localite	Saġān	cornu19
+69.15407	33.62249	Sind	waystations	etape	etape	Kardīz	cornu19
+72.24681	33.90757	Sind	capitals	capitale	capitale	Wayhind	cornu19
+72.24681	33.90757	Sind	regions	circon	circon	Wayhind	cornu19
+64.97971	36.67509	Transoxiana	sites	ribat	ribat	Ribāṭ al-Āstānaŧ ?	cornu17
+61.32517	36.80480	Transoxiana	villages	localite	localite	Ušturmaġāk ?	cornu17
+68.40465	37.02412	Transoxiana	waters	riviere	riviere	Nahr Ǧayḥūn	cornu17
+69.91617	37.11046	Transoxiana	regions	canton	canton/cheflieu	Rustāq Bīk	cornu17
+65.27273	37.26306	Transoxiana	sites	ribat	ribat	Ribāṭ Afrīġūn ?	cornu17
+69.17687	37.26841	Transoxiana	towns	cite	cite	Andāǧārāġ	cornu17
+67.32394	37.27697	Transoxiana	towns	cite	cite	al-Tirmīḏ	cornu17
+68.12506	37.28980	Transoxiana	capitals	capitale	capitale	Qubāḏiyān/Quwāḏiyān	cornu17
+68.12506	37.28980	Transoxiana	regions	circon	circon	Qubāḏiyān/Quwāḏiyān	cornu17
+68.92955	37.32188	Transoxiana	towns	cite	cite	Kārbank ?	cornu17
+66.31581	37.37958	Transoxiana	towns	cite	cite	Kālif	cornu17
+69.57609	37.41482	Transoxiana	waters	riviere	riviere	Nahr Fārġar	cornu17
+68.55990	37.44150	Transoxiana	regions	region	region	Nahr Waḫšāb	cornu17
+66.88170	37.44577	Transoxiana	waystations	etape	etape	Maḥallaŧ al-Qayyāsīn ?	cornu17
+69.44705	37.48738	Transoxiana	towns	cite	cite	Fārġar/Farġar	cornu17
+66.00329	37.51897	Transoxiana	waystations	etape	etape	Balḫān ?	cornu17
+72.79201	37.57252	Transoxiana	regions	region	region	Fāmir	cornu17
+69.09689	37.59010	Transoxiana	waters	riviere	riviere	Nahr Andīǧārāġ	cornu17
+69.90205	37.59170	Transoxiana	sites	gue	gue	Maʿbar Baḏaḫšān	cornu17
+67.44155	37.60634	Transoxiana	villages	localite	localite	Ṣarmanǧī/Ǧarmanqān	cornu17
+67.07594	37.69255	Transoxiana	towns	cite	cite	Hāšimǧird ?	cornu17
+65.56778	37.69255	Transoxiana	waystations	etape	etape	Qaryaŧ al-Ḫuwārizmiyyīn ?	cornu17
+68.72725	37.70584	Transoxiana	regions	region	region	Waḫš	cornu17
+68.78102	37.83441	Transoxiana	towns	cite	cite	Halāward	cornu17
+67.63175	37.84131	Transoxiana	towns	cite	cite	Dārzankā/Dārzanǧī ?	cornu17
+69.56601	37.84635	Transoxiana	waters	riviere	riviere	Nahr Barbān	cornu17
+69.85097	37.87023	Transoxiana	capitals	capitale	capitale	Hulbuk	cornu17
+65.26937	37.88800	Transoxiana	capitals	capitale	capitale	Aḫsīsak	cornu17
+69.75285	37.94076	Transoxiana	regions	region	region	al-Ḫuttal	cornu17
+69.04582	37.95639	Transoxiana	towns	cite	cite	Lāwakand	cornu17
+65.15512	38.07235	Transoxiana	waystations	etape	etape	Qaryaŧ al-Buḫāriyyīn ?	cornu17
+67.24396	38.21375	Transoxiana	towns	cite	cite	Bāsand	cornu17
+67.03158	38.22114	Transoxiana	sites	defile	defile	Bāb al-Ḥadīd	cornu17
+69.53106	38.25651	Transoxiana	towns	cite	cite	Tamliyāt	cornu17
+67.89454	38.26337	Transoxiana	capitals	capitale	capitale	al-Ṣaġāniyān	cornu17
+67.89454	38.26337	Transoxiana	regions	territoire	territoire	al-Ṣaġāniyān	cornu17
+70.17895	38.30610	Transoxiana	waters	riviere	riviere	Nahr Hulbuk	cornu17
+69.69102	38.32824	Transoxiana	towns	cite	cite	Munk	cornu17
+66.78829	38.37384	Transoxiana	villages	localite	localite	Kandak	cornu17
+70.91287	38.37779	Transoxiana	waters	riviere	riviere	Nahr Ǧariyab	cornu17
+69.21115	38.46704	Transoxiana	capitals	capitale	capitale	Wašǧird/Dastǧird/Dastkird	cornu17
+67.57933	38.50044	Transoxiana	towns	cite	cite	Sankardah	cornu17
+66.30707	38.53462	Transoxiana	towns	cite	cite	Iskīfaġan	cornu17
+65.33793	38.54277	Transoxiana	sites	ribat	ribat	Ribāṭ Ḫuwārān ?	cornu17
+68.82268	38.58166	Transoxiana	towns	cite	cite	Šūmān	cornu17
+66.26540	38.58192	Transoxiana	regions	canton	canton	Sūnaǧ	cornu17
+66.29094	38.84309	Transoxiana	towns	cite	cite	Nawkād/Nūqād Qurayš 	cornu17
+65.81040	38.86245	Transoxiana	capitals	capitale	capitale	Nasaf	cornu17
+65.81040	38.86245	Transoxiana	regions	territoire	territoire	Nasaf	cornu17
+65.54090	38.93150	Transoxiana	towns	cite	cite	Kasbaŧ	cornu17
+68.49336	38.95345	Transoxiana	regions	canton	montagnes/canton	al-Buttam	cornu17
+66.84071	39.03102	Transoxiana	capitals	capitale	capitale	Kišš/Kašš	cornu17
+66.84071	39.03102	Transoxiana	regions	territoire	territoire	Kišš/Kašš	cornu17
+65.44949	39.03468	Transoxiana	towns	cite	cite	Bazdaŧ ?	cornu17
+65.22233	39.04225	Transoxiana	waystations	etape	etape	Māyamurġ ?	cornu17
+63.61874	39.17015	Transoxiana	regions	canton	canton	Firabr	cornu17
+70.38730	39.19555	Transoxiana	regions	district	district	al-Rašt	cornu17
+64.76666	39.21625	Transoxiana	sites	ribat	ribat	Ribāṭ al-Āstānaŧ ?	cornu17
+65.29357	39.29210	Transoxiana	waystations	etape	etape	Biʾr al-Saʿīd ?	cornu17
+69.38051	39.30172	Transoxiana	regions	region	region	Mīnk	cornu17
+67.06451	39.31836	Transoxiana	villages	localite	localite	Dirizdah ?	cornu17
+67.21506	39.33812	Transoxiana	regions	region	region	al-Šāwḏār	cornu17
+64.26931	39.34189	Transoxiana	waystations	etape	etape	Miyān Kāl ?	cornu17
+63.09182	39.39670	Transoxiana	waters	riviere	riviere	Nahr Ǧayḥūn	cornu17
+68.07129	39.40150	Transoxiana	waters	riviere	riviere	Nahr al-Ṣuġd/Nahr Buḫāraŧ	cornu17
+65.93205	39.41449	Transoxiana	regions	region	region	al-Ṣuġd	cornu17
+67.29033	39.42539	Transoxiana	villages	village	village	Wazkard/Wizkardaŧ	cornu17
+65.02339	39.44667	Transoxiana	sites	ribat	ribat	Ribāṭ ʿAtīq ?	cornu17
+67.65863	39.46899	Transoxiana	regions	canton	canton/cheflieu	Būnǧikaṯ	cornu17
+69.45848	39.51566	Transoxiana	regions	region	region	Masḥā	cornu17
+67.41937	39.52707	Transoxiana	regions	canton	canton/cheflieu	Waraġšar	cornu17
+66.69218	39.53329	Transoxiana	regions	region	region	Māymurġ/Māyamurġ	cornu17
+66.03353	39.54210	Transoxiana	regions	region	region	Sanǧarfaġan	cornu17
+64.07172	39.55752	Transoxiana	regions	canton	canton	Baykand	cornu17
+68.72187	39.56749	Transoxiana	regions	circon	circon	Ušrūsanaŧ	cornu17
+64.42927	39.56944	Transoxiana	villages	localite	localite	Qārāǧūn ?	cornu17
+64.73843	39.58498	Transoxiana	waystations	etape	etape	Ǧikam ?	cornu17
+67.03225	39.67905	Transoxiana	metropoles	metropole	metropole	Samarqand	cornu17
+67.17070	39.70827	Transoxiana	regions	canton	canton/cheflieu	Kabūzanǧakaṯ/Kabūḏanǧakaṯ	cornu17
+67.32394	39.74445	Transoxiana	regions	canton	canton	Būzmāǧan	cornu17
+68.83442	39.74616	Transoxiana	capitals	capitale	capitale	Būmǧikaṯ/Bunǧikaṯ/Bamǧikaṯ	cornu17
+66.63169	39.77390	Transoxiana	villages	localite	localite	Zarmān	cornu17
+67.38308	39.79611	Transoxiana	capitals	cheflieu	cheflieu	Abārkaṯ/Barkāṯ	cornu17
+62.52055	39.80992	Transoxiana	villages	localite	localite	al-Ṭāhiriyyaŧ ?	cornu17
+64.20076	39.81909	Transoxiana	regions	canton	canton	Ḫuǧādah	cornu17
+66.52550	39.82347	Transoxiana	regions	region	region	Awfar	cornu17
+69.01759	39.83509	Transoxiana	towns	cite	cite	Faġkaṯ/Waġkaṯ	cornu17
+64.46489	39.85224	Transoxiana	capitals	capitale	capitale	Buḫāraŧ	cornu17
+64.46489	39.85224	Transoxiana	regions	circon	circon	Buḫāraŧ	cornu17
+67.71106	39.85470	Transoxiana	sites	ribat	ribat	Ribāṭ Saʿd ?	cornu17
+66.37226	39.86785	Transoxiana	towns	cite	cite	Rabinǧan/Arbinǧan	cornu17
+64.10801	39.89235	Transoxiana	regions	canton	canton	Maġkān/Muġkān ?	cornu17
+64.25722	39.90472	Transoxiana	waystations	etape	etape	Amzah ?	cornu17
+69.60096	39.93024	Transoxiana	towns	cite	cite	Arsubānīkaṯ/Subānīkaṯ	cornu17
+66.01740	39.93282	Transoxiana	regions	canton	canton	Dabūsiyaŧ	cornu17
+67.73525	39.94338	Transoxiana	towns	cite	cite	Nūǧakaṯ	cornu17
+66.87902	39.94544	Transoxiana	towns	cite	cite	Ištīḫān ?	cornu17
+68.12909	39.95059	Transoxiana	regions	canton	canton/cheflieu	Būrnamaḏ/Fūrnamaḏ	cornu17
+68.43288	39.95781	Transoxiana	towns	cite	cite	Zāmin	cornu17
+67.58739	39.97120	Transoxiana	towns	cite	cite	Ḫaraqānaŧ ?	cornu17
+71.21396	39.97506	Transoxiana	towns	cite	cite	Sūḫ/Sūǧ	cornu17
+64.38760	39.98407	Transoxiana	regions	canton	canton	Zandanaŧ	cornu17
+63.82036	39.99849	Transoxiana	sites	ribat	ribat	Ribāṭ Tāš	cornu17
+68.76220	39.99901	Transoxiana	towns	cite	cite	Ṣābāṭ	cornu17
+66.49906	40.00888	Transoxiana	regions	canton	canton/cheflieu	Kušānī/Kušānīya	cornu17
+64.78279	40.01136	Transoxiana	regions	canton	canton	al-Ṭawāwīs	cornu17
+71.55377	40.02761	Transoxiana	towns	cite	cite	Rištān	cornu17
+63.39950	40.05505	Transoxiana	waystations	etape	etape	Šurūḫ ?	cornu17
+67.79942	40.09748	Transoxiana	towns	cite	cite	Dīzak	cornu17
+65.58856	40.12063	Transoxiana	regions	canton	canton	Ḫudīmankān	cornu17
+63.16025	40.13581	Transoxiana	waystations	etape	etape	al-Raml ?	cornu17
+70.70139	40.13989	Transoxiana	villages	localite	localite	Asbaraŧ	cornu17
+65.40937	40.14581	Transoxiana	regions	canton	canton	Karmiīniyyaŧ	cornu17
+64.30515	40.15432	Transoxiana	towns	cite	cite	Warḏānaŧ/Awraḏānaŧ	cornu17
+62.82511	40.18541	Transoxiana	sites	ribat	ribat	Ribāṭ Ṭuġān ?	cornu17
+65.61472	40.19170	Transoxiana	regions	canton	canton	Ḫarġānkaṯ	cornu17
+68.82906	40.22314	Transoxiana	villages	bourgade	bourgade	Ḫāwaṣ/Ḥāwas	cornu17
+62.36792	40.23331	Transoxiana	towns	cite	cite	Ǧikarband	cornu17
+67.99605	40.23516	Transoxiana	waystations	etape	etape	Biʾr al-Ḥusayn ?	cornu17
+72.08263	40.24237	Transoxiana	towns	cite	cite	Zandarāmaš ?	cornu17
+65.43455	40.24274	Transoxiana	regions	canton	canton	Madiyamǧakaṯ	cornu17
+69.63107	40.24606	Transoxiana	towns	cite	cite	Ḫuǧandaŧ	cornu17
+70.51735	40.29225	Transoxiana	towns	cite	cite	Kand	cornu17
+72.02839	40.33989	Transoxiana	regions	region	region	Farġānaŧ	cornu17
+72.76260	40.34137	Transoxiana	regions	region	region	Nuqād/Naqād	cornu17
+73.45613	40.37680	Transoxiana	waters	riviere	riviere	Nahr Ḫuršāb/Nahr Ḫaršāb/Nahr Ḫaršān	cornu17
+68.19849	40.38860	Transoxiana	waystations	etape	etape	Biʾr Ḥumayd ?	cornu17
+71.10821	40.41184	Transoxiana	regions	region	region	Nasāʾ/Nasiyā	cornu17
+71.74749	40.43580	Transoxiana	towns	cite	cite	Awāl	cornu17
+62.17614	40.44741	Transoxiana	towns	ville	ville	Darġān	cornu17
+70.22677	40.46049	Transoxiana	villages	localite	localite	Ṣāmġār	cornu17
+62.28269	40.50009	Transoxiana	sites	ribat	ribat	Ribāṭ Ḥasan ?	cornu17
+71.76105	40.50359	Transoxiana	towns	cite	cite	Marġīnan	cornu17
+72.85752	40.53599	Transoxiana	towns	cite	cite	Ūš	cornu17
+70.43986	40.55623	Transoxiana	waystations	etape	etape	Ǧāǧīstān ?	cornu17
+71.05784	40.55623	Transoxiana	towns	cite	cite	Ḫuwākand	cornu17
+72.18143	40.55660	Transoxiana	towns	cite	cite	Qubā	cornu17
+68.43871	40.57316	Transoxiana	villages	bourgade	bourgade	Wīnkard ?	cornu17
+72.05745	40.67718	Transoxiana	towns	cite	cite	Uštīqān ?	cornu17
+68.80969	40.71867	Transoxiana	towns	cite	cite	Banākaṯ	cornu17
+70.89318	40.78105	Transoxiana	villages	localite	localite	Turmuġān/Ṭurmuqān ?	cornu17
+70.20740	40.78508	Transoxiana	regions	region	region	Īlāq	cornu17
+62.06959	40.79993	Transoxiana	villages	localite	localite	Nābādġīn ?	cornu17
+68.90655	40.80598	Transoxiana	towns	cite	cite	Ḫaraškaṯ	cornu17
+73.39026	40.81074	Transoxiana	towns	cite	cite	Ūzǧand	cornu17
+72.45652	40.81221	Transoxiana	towns	cite	cite	Andikān	cornu17
+69.83739	40.87010	Transoxiana	towns	cite	cite	Arbilaḫ	cornu17
+71.16439	40.88072	Transoxiana	towns	cite	cite	Bāb	cornu17
+68.87652	40.88768	Transoxiana	towns	cite	cite	Sutūrkaṯ/Uštūrkaṯ	cornu17
+69.42766	40.89646	Transoxiana	towns	cite	cite	Biskaṯ	cornu17
+70.01367	40.91403	Transoxiana	waters	riviere	riviere	Nahr Īlāq	cornu17
+69.98462	40.91696	Transoxiana	waters	riviere	riviere	Nahr Īlāq	cornu17
+71.36392	40.91733	Transoxiana	capitals	capitale	capitale	Aḫšīkaṯ	cornu17
+70.89511	40.92611	Transoxiana	towns	cite	cite	Wānkaṯ ?	cornu17
+71.95478	40.94221	Transoxiana	waters	riviere	riviere	Nahr Šāš/Ṣayḥūn	cornu17
+70.00883	40.99377	Transoxiana	towns	cite	cite	Banḫāš/Banǧḫāš ?	cornu17
+69.11286	40.99560	Transoxiana	towns	cite	cite	Ǧīnānǧakaṯ ?	cornu17
+70.22483	41.01789	Transoxiana	capitals	capitale	capitale	Tūnkaṯ	cornu17
+70.53285	41.02958	Transoxiana	towns	cite	cite	Ḫāš/Ḫās/Ḫašt	cornu17
+61.95529	41.04840	Transoxiana	sites	defile	defile	Abūqšaŧ	cornu17
+69.45575	41.11173	Transoxiana	towns	cite	cite	Bālāyān ?	cornu17
+70.99972	41.13472	Transoxiana	capitals	cheflieu	cheflieu	Ḫaylām/Ḫayralam	cornu17
+75.81567	41.16025	Transoxiana	villages	localite	localite	Aṭbāš/Ṭabāš	cornu17
+69.41991	41.22621	Transoxiana	capitals	capitale	capitale	Binkaṯ	cornu17
+61.76738	41.23222	Transoxiana	sites	ribat	ribat	Ribāṭ Sandah ?	cornu17
+71.64288	41.24406	Transoxiana	villages	canton	canton/cite	Kāsān	cornu17
+69.18357	41.27136	Transoxiana	regions	region	region	al-Šāš/Bilād al-Šāš	cornu17
+61.09517	41.28610	Transoxiana	towns	cite	cite	Hazārāsb	cornu17
+72.25505	41.28774	Transoxiana	towns	cite	cite	Ardalānkaṯ ?	cornu17
+71.97221	41.30084	Transoxiana	regions	region	region	Ǧidġil	cornu17
+69.52452	41.31976	Transoxiana	towns	cite	cite	Ǧabġūkaṯ	cornu17
+61.49617	41.35412	Transoxiana	sites	ribat	ribat	Ribāṭ Māš ?	cornu17
+60.33577	41.38465	Transoxiana	towns	cite	cite	Ḫīwah	cornu17
+60.68254	41.38937	Transoxiana	towns	cite	cite	Kardarānḫās/Kardarānḫuwāš ?	cornu17
+69.50903	41.40191	Transoxiana	towns	cite	cite	Nūǧākaṯ	cornu17
+69.39376	41.43060	Transoxiana	towns	cite	cite	Ḫātūnkaṯ ?	cornu17
+61.27533	41.43986	Transoxiana	villages	localite	localite	Baġirqān ?	cornu17
+71.83079	41.48396	Transoxiana	capitals	cheflieu	cheflieu	Karwān	cornu17
+71.83079	41.48396	Transoxiana	regions	district	district	Karwān	cornu17
+60.94019	41.50228	Transoxiana	waystations	etape	etape	Šurāḫān	cornu17
+69.53615	41.51080	Transoxiana	towns	cite	cite	Barkūš ?	cornu17
+69.69791	41.59198	Transoxiana	towns	cite	cite	Ḫarġānkaṯ	cornu17
+60.20210	41.64105	Transoxiana	towns	cite	cite	Arḏaḫušmīṯan/Raḫušmīṯan ?	cornu17
+59.97545	41.65733	Transoxiana	regions	region	region	Ḫuwārizm	cornu17
+60.70385	41.72062	Transoxiana	capitals	capitale	capitale	Kaṯ	cornu17
+59.93725	41.84474	Transoxiana	villages	localite	localite	Daskāḫān Ḫās ?	cornu17
+59.74298	41.86361	Transoxiana	towns	cite	cite	Wazārmand/Ūzārmand	cornu17
+60.53918	41.87659	Transoxiana	villages	localite	localite	Darḫāš ?	cornu17
+60.37258	41.88381	Transoxiana	towns	cite	cite	Ġardamān	cornu17
+68.10841	41.90165	Transoxiana	waters	riviere	riviere	Nahr Šāš/Ṣayḥūn	cornu17
+60.42876	41.99476	Transoxiana	villages	localite	localite	Nūzkaṯ ?	cornu17
+59.39815	42.00196	Transoxiana	towns	cite	cite	Nūzwār ?	cornu17
+69.82576	42.02949	Transoxiana	towns	cite	cite	Ǧarkard/Ġarkard	cornu17
+60.19436	42.05520	Transoxiana	towns	cite	cite	Wāyḫān	cornu17
+59.02814	42.09511	Transoxiana	towns	cite	cite	Kīt/Ǧīt ?	cornu17
+60.25053	42.19314	Transoxiana	towns	cite	cite	Ardaḫīwah	cornu17
+59.71005	42.21861	Transoxiana	towns	cite	cite	Zamaḫšar ?	cornu17
+69.75409	42.23062	Transoxiana	capitals	capitale	capitale	Isbīǧāb	cornu17
+69.75409	42.23062	Transoxiana	regions	circon	circon	Isbīǧāb	cornu17
+59.81853	42.26880	Transoxiana	villages	localite	localite	Nūbāġ ?	cornu17
+69.62235	42.26934	Transoxiana	towns	cite	cite	Ǧamūkat	cornu17
+59.31292	42.28887	Transoxiana	towns	cite	cite	Ǧurǧāniyyaŧ al-Ṣuġrá	cornu17
+68.89105	42.36818	Transoxiana	towns	cite	cite	Subānīkaṯ	cornu17
+74.76957	42.38249	Transoxiana	regions	region	region	al-Ḫarluḫiyyaŧ	cornu17
+59.50470	42.39769	Transoxiana	regions	canton	canton/cite	Mazdāḫkān/Mazdāḫqān	cornu17
+59.21993	42.45632	Transoxiana	capitals	capitale	capitale	al-Ǧurǧāniyyaŧ	cornu17
+70.19287	42.45971	Transoxiana	towns	cite	cite	Baḏaḫkaṯ ?	cornu17
+70.50767	42.56503	Transoxiana	towns	cite	cite	Tamtāǧ ?	cornu17
+71.66129	42.59356	Transoxiana	towns	cite	cite	Šalǧī	cornu17
+70.80406	42.62635	Transoxiana	waystations	etape	etape	Bārǧāḥ/Bārǧāḫ/Bārǧāǧ ?	cornu17
+68.12972	42.63098	Transoxiana	towns	cite	cite	Wasīǧ	cornu17
+68.31763	42.66945	Transoxiana	towns	cite	cite	Kadar	cornu17
+59.30953	42.67871	Transoxiana	towns	cite	cite	Maḏmīniyyaŧ/Madkamīniyyaŧ !?	cornu17
+68.29439	42.74490	Transoxiana	regions	region	region	Fārāb/Bārāb	cornu17
+59.43545	42.74561	Transoxiana	towns	cite	cite	Maḏmīniyyaŧ/Madkamīniyyaŧ !?	cornu17
+73.56945	42.77192	Transoxiana	villages	localite	localite	Asbaraŧ	cornu17
+74.26008	42.77832	Transoxiana	towns	cite	cite	Nūškaṯ/Nūzkaṯ	cornu17
+75.26356	42.80107	Transoxiana	waystations	etape	etape	Sāriġ ?	cornu17
+59.79383	42.80533	Transoxiana	towns	cite	cite	Kardar/Kurdar/Kurdur ?	cornu17
+73.19654	42.81670	Transoxiana	towns	cite	cite	Mīrkī ?	cornu17
+74.54582	42.83233	Transoxiana	regions	canton	canton	Ḫaranǧawān ?	cornu17
+71.44044	42.83695	Transoxiana	towns	cite	cite	Ṭarāz	cornu17
+74.79378	42.84796	Transoxiana	waystations	etape	etape	Ǧūl ?	cornu17
+72.94179	42.87068	Transoxiana	waystations	etape	etape	Kūlān ?	cornu17
+72.10394	42.88984	Transoxiana	waystations	etape	etape	Kūl Šūb ?	cornu17
+72.49720	42.89268	Transoxiana	waystations	etape	etape	Ǧūl Šūb ?	cornu17
+71.70197	42.89978	Transoxiana	villages	localite	localite	Nūšaǧān al-Suflá ?	cornu17
+59.88682	42.94872	Transoxiana	waystations	etape	etape	Ǧuwīqān	cornu17
+75.87766	43.06700	Transoxiana	towns	cite	cite	Nawīkaṯ ?	cornu17
+59.95269	43.19354	Transoxiana	towns	cite	cite	Qaryaŧ Barātikīn/Qaryaŧ Farātikīn/Qaryaŧ Qarātiǧīn ?	cornu17
+76.21861	43.21825	Transoxiana	villages	localite	localite	Kubāl ?	cornu17
+68.31570	43.25000	Transoxiana	towns	cite	cite	Šāwaġar	cornu17
+67.26184	43.82577	Transoxiana	towns	cite	cite	Ṣabrān/Ṣawrān	cornu17
+59.76477	44.26024	Transoxiana	waters	lac	lac	Buḥayraŧ Ḫuwārizm	cornu17
+43.91477	12.66455	Yemen	villages	localite	localite	ʿĀraŧ	cornu8
+43.49950	12.69260	Yemen	regions	mikhlaf	mikhlaf	al-Mandab	cornu8
+43.49950	12.69260	Yemen	sites	port	port	al-Mandab	cornu8
+45.03942	12.79365	Yemen	towns	cite	cite/port	ʿAdan	cornu8
+44.60835	12.83410	Yemen	villages	localite	localite	al-Maḫnaq	cornu8
+44.86953	13.06747	Yemen	towns	cite	cite	Laḥǧ/Lahǧ	cornu8
+44.96348	13.14229	Yemen	capitals	cheflieu	cheflieu	Abyāyn	cornu8
+44.96348	13.14229	Yemen	regions	region	region	Abyāyn	cornu8
+45.17945	13.20320	Yemen	regions	region	region	Aḫillaŧ	cornu8
+44.52977	13.22221	Yemen	regions	region	region/mikhlaf	al-Maʿāfir	cornu8
+44.10309	13.23247	Yemen	regions	region	region	Ḏubḥān	cornu8
+43.26069	13.32902	Yemen	towns	cite	cite	Muḫā	cornu8
+45.26900	13.36042	Yemen	regions	region	region	Yāfiʿ	cornu8
+43.83575	13.38540	Yemen	regions	region	region	Rakb	cornu8
+43.95691	13.61931	Yemen	regions	region	region	Šarʿab	cornu8
+44.17420	13.66709	Yemen	regions	region	region	al-Sakāsik	cornu8
+44.17508	13.69225	Yemen	regions	mikhlaf	mikhlaf	al-Ǧanad	cornu8
+44.17508	13.69225	Yemen	towns	cite	cite	al-Ǧanad	cornu8
+43.97403	13.78649	Yemen	towns	cite	cite	al-Muḏayḫiraŧ	cornu8
+43.58641	13.78649	Yemen	regions	region	region	Qufāʿaŧ	cornu8
+45.89739	13.81354	Yemen	regions	region	region	Daṯīnaŧ	cornu7
+44.72906	13.87387	Yemen	regions	region	region	Badr	cornu8
+43.94813	13.88026	Yemen	sites	mont	mont	Ǧabal Ḥimyar	cornu8
+44.38842	13.89347	Yemen	regions	region	region	Maytam	cornu8
+44.56313	13.90626	Yemen	regions	region	region	Huǧr wa-Badr	cornu8
+43.48282	13.93140	Yemen	towns	cite	cite	Ḥays	cornu8
+44.85637	13.96335	Yemen	regions	region	region	Kaḥlān	cornu8
+44.17683	13.97911	Yemen	capitals	cheflieu	cheflieu	al-Ṯuǧǧaŧ	cornu8
+44.17683	13.97911	Yemen	regions	mikhlaf	mikhlaf	al-Ṯuǧǧaŧ	cornu8
+45.58857	13.98039	Yemen	regions	region	region	al-Sarw	cornu8
+43.88228	14.00041	Yemen	regions	region	region	ʿUnnaŧ	cornu8
+44.84320	14.02916	Yemen	regions	region	region	Nasafān	cornu8
+43.40380	14.15093	Yemen	waters	wadi	wadi	Wādī Zabīd	cornu8
+44.74355	14.16433	Yemen	regions	region	region	Damṯ	cornu8
+44.74355	14.16433	Yemen	towns	cite	cite	Damṯ	cornu8
+44.03504	14.19370	Yemen	regions	region	region	al-Suḥūl	cornu8
+43.32654	14.20796	Yemen	capitals	capitale	capitale	Zabīd	cornu8
+44.41651	14.21583	Yemen	regions	region	region	Yaḥṣib	cornu8
+44.38227	14.23881	Yemen	towns	ville	ville	Ẓafār	cornu8
+44.23214	14.25242	Yemen	regions	region	region	al-Ḥaql	cornu8
+44.08509	14.25370	Yemen	waters	wadi	wadi	Wādī Suḥūl	cornu8
+43.25543	14.26412	Yemen	waters	wadi	wadi	Wādī Rimāʿ	cornu8
+43.67157	14.27880	Yemen	regions	mikhlaf	mikhlaf	Ǧublān	cornu8
+43.67157	14.27880	Yemen	towns	cite	cite	Ǧublān	cornu8
+43.25806	14.35515	Yemen	regions	region	region	Rimāʿ	cornu8
+44.99684	14.38257	Yemen	regions	region	region	Radāʿ	cornu8
+44.59298	14.42424	Yemen	regions	region	region	Ruʿayn	cornu8
+44.84407	14.42679	Yemen	towns	cite	cite	Radāʿ	cornu8
+44.37788	14.43955	Yemen	regions	region	region	ʿAns	cornu8
+43.03243	14.44273	Yemen	towns	cite	cite	Ġalāfiqaŧ	cornu8
+44.76857	14.48460	Yemen	regions	region	region	Ṯāt wa-Radāʿ	cornu8
+44.39720	14.56364	Yemen	regions	mikhlaf	mikhlaf	Ḏimār	cornu8
+44.39720	14.56364	Yemen	towns	cite	cite	Ḏimār	cornu8
+44.07982	14.80399	Yemen	regions	region	region	Alhān	cornu8
+42.94507	14.82308	Yemen	towns	cite	cite	ʿIṭnaŧ	cornu8
+43.71898	15.06484	Yemen	regions	region	region	Ḥarāz	cornu8
+43.50125	15.08010	Yemen	regions	region	region	Hawzān	cornu8
+44.27297	15.09101	Yemen	towns	cite	cite	al-ʿUrf ?	cornu8
+45.44152	15.10298	Yemen	regions	region	region	Ǧawf Murād	cornu8
+50.21937	15.14685	Yemen	regions	region	region	Mahraŧ	cornu7
+43.03638	15.18964	Yemen	regions	region	region	Surdud/Surdad	cornu8
+43.07237	15.22352	Yemen	towns	cite	cite	al-Mahǧam	cornu8
+42.73173	15.22479	Yemen	regions	mikhlaf	mikhlaf	al-Ḥirdaŧ	cornu8
+42.73173	15.22479	Yemen	towns	cite	cite	al-Ḥirdaŧ	cornu8
+44.69438	15.28324	Yemen	regions	region	region	al-Ḫawlān	cornu8
+43.17773	15.28451	Yemen	waters	wadi	wadi	Wādī Surdud	cornu8
+48.67779	15.30551	Yemen	regions	mikhlaf	mikhlaf	Kindaŧ wa Sakūn	cornu7
+43.73654	15.34103	Yemen	regions	region	region	al-Uḫrūǧ	cornu8
+42.56843	15.36876	Yemen	regions	ile	ile	Ǧazīraŧ Kamarān	cornu8
+44.20186	15.37373	Yemen	capitals	capitale	capitale	Ṣanʿāʾ	cornu8
+43.40292	15.37490	Yemen	regions	region	region	Milḥān	cornu8
+44.64961	15.40346	Yemen	regions	region	region	Ḏū Ǧurraŧ	cornu8
+45.33616	15.40854	Yemen	regions	region	region	Sabāʾ	cornu8
+44.04470	15.45244	Yemen	regions	region	region	Wāḍiʿ al-Maʿlal	cornu8
+44.25892	15.45562	Yemen	regions	region	region	Ruḥābaŧ	cornu8
+43.90335	15.51632	Yemen	villages	localite	localite	Šibām	cornu8
+43.78395	15.52891	Yemen	regions	region	region	Ḥaḍūr	cornu8
+45.43900	15.55742	Yemen	capitals	capitale	capitale	Maʾrib	cornu7
+45.43900	15.55742	Yemen	regions	mikhlaf	mikhlaf	Maʾrib	cornu7
+44.36603	15.56063	Yemen	regions	region	region	Marmal	cornu8
+44.12811	15.57151	Yemen	regions	region	region	Hamdān	cornu8
+43.96174	15.58050	Yemen	regions	region	region	al-Maṣāniʿ	cornu8
+44.81642	15.59445	Yemen	regions	region	region	Ǧawf Hamdān	cornu8
+44.34672	15.62405	Yemen	regions	region	region	Ḫašab	cornu8
+43.01443	15.67118	Yemen	waters	wadi	wadi	Wādī Mawr	cornu8
+44.11406	15.70742	Yemen	regions	region	region	Bawšān	cornu8
+42.89942	15.73119	Yemen	towns	cite	cite	Mawr	cornu8
+43.94901	15.78083	Yemen	regions	region	region	Bawn	cornu8
+43.68913	15.81462	Yemen	regions	region	region	Qudam/Qudum	cornu8
+44.39237	15.82412	Yemen	regions	region	region	Arḥab	cornu8
+44.04470	15.83194	Yemen	villages	localite	localite	al-Raydaŧ	cornu8
+44.14391	15.83563	Yemen	sites	chateau	chateau	Nāʿiṭ	cornu8
+44.26507	15.88071	Yemen	regions	region	region	al-Ġudar	cornu8
+48.57208	15.92483	Yemen	towns	cite	cite	Šibām	cornu7
+44.67244	15.92968	Yemen	regions	region	region	Yām	cornu8
+44.43363	15.95585	Yemen	waters	wadi	wadi	Wādī al-Ḫārid	cornu8
+43.03594	15.96703	Yemen	regions	region	region	Ḥayrān	cornu8
+43.51706	16.00544	Yemen	regions	region	region	Ḥaǧūr	cornu8
+43.80678	16.03244	Yemen	regions	region	region	Wādiʿaŧ	cornu8
+43.06403	16.05227	Yemen	waters	wadi	wadi	Wādī Ḥayrān	cornu8
+43.97249	16.11174	Yemen	waystations	etape	etape	Aṯāfit	cornu8
+44.06424	16.29079	Yemen	regions	region	region	Ḫaywān	cornu8
+44.06424	16.29079	Yemen	towns	cite	cite	Ḫaywān	cornu8
+42.80636	16.32481	Yemen	towns	cite	cite/port	al-Šarǧaŧ	cornu8
+42.94727	16.37831	Yemen	regions	region	region	Ḥakam	cornu8
+43.95032	16.56721	Yemen	waystations	etape	etape	al-Aʿmašiyyaŧ	cornu8
+42.88142	16.67647	Yemen	towns	cite	cite	al-Ḫaṣūf	cornu8
+43.00170	16.70128	Yemen	waters	wadi	wadi	Wādī Ḫulab	cornu8
+42.55043	16.89564	Yemen	towns	cite	cite	Ǧāzān	cornu8
+43.76442	16.94530	Yemen	towns	cite	cite	Ṣaʿdaŧ	cornu8
+42.82787	16.96745	Yemen	waystations	etape	etape	al-ʿUrš	cornu8
+42.72032	16.99054	Yemen	regions	region	region	Ǧāzān	cornu8
+42.39306	17.18513	Yemen	capitals	cheflieu	cheflieu	ʿAṭṭār	cornu8
+42.39306	17.18513	Yemen	regions	territoire	territoire	ʿAṭṭār	cornu8
+43.71306	17.31174	Yemen	waystations	etape	etape	ʿAriqaŧ	cornu8
+42.53617	17.37689	Yemen	towns	cite	cite	Bayš	cornu8
+42.35312	17.52221	Yemen	regions	region	region	Ḍankān	cornu8
+40.82270	23.53832	Yemen	sites	site	site	Maʿdin Banū Sulaym	cornu7

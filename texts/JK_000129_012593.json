@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012593",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.250",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>النار</h1> بلفظ النار المحرقة حرة النار لبني عبس ذكرت ",
+                "title": "النار",
+                "uri": "JK_000129_012593"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

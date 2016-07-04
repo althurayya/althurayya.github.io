@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003250",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.141",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جش</h1> جبل صغير بالحجاز في ديار جشم بن بكر ",
+                "title": "جش",
+                "uri": "JK_000129_003250"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

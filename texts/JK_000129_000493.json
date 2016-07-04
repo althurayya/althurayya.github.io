@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000493",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.153-154",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أركو</h1> بالفتح ثم السكون وكاف وواو بلفظ مضارع ركوت الشيء أركوه إذا أصلحته قرية بإفريقية بينها وبين قصر الإفريقي مرحلة |جـ 1 صـ 154| ",
+                "title": "أركو",
+                "uri": "JK_000129_000493"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

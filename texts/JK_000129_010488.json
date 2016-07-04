@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010488",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.392",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قلوذية</h1> هو حصن كان قرب ملطية ذكر في ملطية أنه هدم ثم أعاد بناءه الحسن بن قحطبة في سنة 141 في أيام المنصور وإليه ينسب بطيلموس صاحب المجسطي ",
+                "title": "قلوذية",
+                "uri": "JK_000129_010488"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

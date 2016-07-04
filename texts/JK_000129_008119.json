@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008119",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.434",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صور</h1> بفتح أوله وتشديد ثانيه وفتحه والراء موضع أظنه من أعمال المدينة قال ابن هرمة حوائم في عين النعيم كأنما رأينا بهن العين من وحش صورا ",
+                "title": "صور",
+                "uri": "JK_000129_008119"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

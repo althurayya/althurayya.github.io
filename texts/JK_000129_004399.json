@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004399",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.338",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خاشتي والنسبة خاشتي</h1> قال العمراني هو اسم موضع ولعله الذي قبله ",
+                "title": "خاشتي والنسبة خاشتي",
+                "uri": "JK_000129_004399"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

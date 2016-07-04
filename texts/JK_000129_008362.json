@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008362",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.29",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طرش</h1> بضم أوله وتشديد ثانيه وضمه أيضا وآخره شين معجمة ناحية بالأندلس تشتمل على ولاية وقرى ",
+                "title": "طرش",
+                "uri": "JK_000129_008362"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

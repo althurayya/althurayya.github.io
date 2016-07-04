@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.52846,
+                    38.17331
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.17331",
+                    "coord_lon": "15.52846",
+                    "cornu_URI": "MASSINA_155E381N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مسينة",
+                    "toponym_arabic_other": "مسينة",
+                    "toponym_buckwalter": "Massina",
+                    "toponym_search": "Massina",
+                    "toponym_translit": "Massīnaŧ",
+                    "toponym_translit_other": "Massīnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006109",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.112",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ريذمون</h1> بكسر أوله وسكون ثانيه وذال معجمة وميم مضمومة وآخره نون موضع قصعة رذوم إذا امتلأت دسما وقد رذم يرذم إذا سال ",
+                "title": "ريذمون",
+                "uri": "JK_000129_006109"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

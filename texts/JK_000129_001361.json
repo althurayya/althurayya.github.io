@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001361",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.322",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باسلامة</h1> من قرى بغداد كانت بها وقعة بين الحسن ابن سهل وابن أبي خالد وأبي الشوك أيام المأمون ",
+                "title": "باسلامة",
+                "uri": "JK_000129_001361"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

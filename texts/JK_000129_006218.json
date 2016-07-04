@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006218",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.133",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الزج</h1> ماء يذكر مع لواثة أقطعه رسول الله صلى الله عليه وسلم العداء بن خالد من بني ربيعة بن عامر ",
+                "title": "الزج",
+                "uri": "JK_000129_006218"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

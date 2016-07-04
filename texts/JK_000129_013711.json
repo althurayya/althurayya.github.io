@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013711",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.437-438",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>يسيركث</h1> بالفتح ثم الكسر وياء ساكنة وراء وكاف مفتوحة وثاء مثلثة من قرى سمرقند |جـ 5 صـ 438| ",
+                "title": "يسيركث",
+                "uri": "JK_000129_013711"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

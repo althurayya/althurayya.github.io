@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006249",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.136-137",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زرزم</h1> بفتح أوله وسكون ثانيه وزاي أخرى مفتوحة من قرى مرو على ستة فراسخ قرب كمسان وقد خربت لم يبق منها إلا مزرعتها |جـ 3 صـ 137| ",
+                "title": "زرزم",
+                "uri": "JK_000129_006249"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011505",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.52",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مبين</h1> بالضم ثم الكسر وآخره نون من أبان الشيء يبين فهو مبين أي ظاهر اسم موضع قال يا ريها اليوم على مبين ",
+                "title": "مبين",
+                "uri": "JK_000129_011505"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

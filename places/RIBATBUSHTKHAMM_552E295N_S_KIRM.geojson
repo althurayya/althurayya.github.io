@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.28258,
+                    29.5607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.56070",
+                    "coord_lon": "55.28258",
+                    "cornu_URI": "RIBATBUSHTKHAMM_552E295N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape?",
+                    "toponym_arabic": "رباط بشت خم",
+                    "toponym_arabic_other": "رباط بشت خم",
+                    "toponym_buckwalter": "Ribat Busht Khamm",
+                    "toponym_search": "Ribat Busht Khamm",
+                    "toponym_translit": "Ribāṭ Bušt Ḫamm",
+                    "toponym_translit_other": "Ribāṭ Bušt Ḫamm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

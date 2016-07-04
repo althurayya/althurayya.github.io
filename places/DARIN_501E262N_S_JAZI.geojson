@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.19373,
+                    26.28437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.28437",
+                    "coord_lon": "50.19373",
+                    "cornu_URI": "DARIN_501E262N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دارين",
+                    "toponym_arabic_other": "دارين",
+                    "toponym_buckwalter": "Darin",
+                    "toponym_search": "Darin",
+                    "toponym_translit": "Dārīn",
+                    "toponym_translit_other": "Dārīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

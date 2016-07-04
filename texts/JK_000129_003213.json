@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003213",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.133",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جزرة</h1> بالضم وزيادة الهاء واد بين الكوفة وفيد ",
+                "title": "جزرة",
+                "uri": "JK_000129_003213"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

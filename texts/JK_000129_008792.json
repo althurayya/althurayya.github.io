@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008792",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.99",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عرجموس</h1> بالجيم والسين قرية في بقاع بعلبك يزعمون أن فيها قبر حبلة بنت نوح عليه السلام ",
+                "title": "عرجموس",
+                "uri": "JK_000129_008792"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

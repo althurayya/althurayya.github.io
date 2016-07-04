@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013282",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.371",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوردية</h1> مقبرة ببغداد بعد باب أبرز من الجانب الشرقي قريبة من باب الظفرية ",
+                "title": "الوردية",
+                "uri": "JK_000129_013282"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

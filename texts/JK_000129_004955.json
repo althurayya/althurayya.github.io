@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004955",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.421",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دار سوق التمر</h1> وهي الدار التي قرب باب الغربة من مشرعة الإبريين ذات الباب العالي جدا وهو الآن مسدود وتعرف بالدار القطنية ",
+                "title": "دار سوق التمر",
+                "uri": "JK_000129_004955"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

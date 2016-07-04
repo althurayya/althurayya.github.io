@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.52,
+                    27.58081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.58081",
+                    "coord_lon": "38.52000",
+                    "cornu_URI": "TAYMA_385E275N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تيماء",
+                    "toponym_arabic_other": "تيماء",
+                    "toponym_buckwalter": "Tayma",
+                    "toponym_search": "Tayma",
+                    "toponym_translit": "Taymāʾ",
+                    "toponym_translit_other": "Taymāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

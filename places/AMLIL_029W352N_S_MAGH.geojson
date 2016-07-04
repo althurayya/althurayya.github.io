@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.96861,
+                    35.29761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.29761",
+                    "coord_lon": "-2.96861",
+                    "cornu_URI": "AMLIL_029W352N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أمليل",
+                    "toponym_arabic_other": "أمليل",
+                    "toponym_buckwalter": "Amlil",
+                    "toponym_search": "Amlil",
+                    "toponym_translit": "Amlīl",
+                    "toponym_translit_other": "Amlīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

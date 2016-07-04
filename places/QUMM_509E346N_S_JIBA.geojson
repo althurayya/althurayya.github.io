@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.90695,
+                    34.63354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.63354",
+                    "coord_lon": "50.90695",
+                    "cornu_URI": "QUMM_509E346N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "قم",
+                    "toponym_arabic_other": "قم",
+                    "toponym_buckwalter": "Qumm",
+                    "toponym_search": "Qumm",
+                    "toponym_translit": "Qumm",
+                    "toponym_translit_other": "Qumm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

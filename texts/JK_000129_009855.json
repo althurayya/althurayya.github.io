@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009855",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.277",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الفندق</h1> بالضم ثم السكون ثم دال مضمومة أيضا وقاف موضع بالثغر قرب المصيصة وهو في الأصل اسم الخان بلغة أهل الشام ",
+                "title": "الفندق",
+                "uri": "JK_000129_009855"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

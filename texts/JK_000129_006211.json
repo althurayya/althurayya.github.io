@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006211",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.132",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زبيلاذان</h1> بضم أوله وكسر ثانيه ثم ياء مثناة من تحت ساكنة وبعد اللام ألف وذال معجمة وآخره نون من قرى بلخ ",
+                "title": "زبيلاذان",
+                "uri": "JK_000129_006211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

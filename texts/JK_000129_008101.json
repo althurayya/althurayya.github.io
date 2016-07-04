@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008101",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.430",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صنم</h1> قال الأزهري الصنمة بسكون النون الداهية والصنم بالضم ثم السكون موضع في شعر عامر بن الطفيل ",
+                "title": "صنم",
+                "uri": "JK_000129_008101"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

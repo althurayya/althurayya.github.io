@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004741",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.386",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخليج</h1> بفتح أوله وكسر ثانيه وآخره جيم بحر دون قسطنطينية و جبل خليج أحد جبال مكة ",
+                "title": "الخليج",
+                "uri": "JK_000129_004741"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007076",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.274",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سوادمة</h1> بضم أوله وبعد الألف دال مهملة ثم ميم علم مرتجل لاسم ماء لغني ",
+                "title": "سوادمة",
+                "uri": "JK_000129_007076"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

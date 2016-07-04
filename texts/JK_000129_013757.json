@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013757",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.450",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ينجلوس</h1> بفتح أوله وسكون ثانيه وجيم مفتوحة ولام وآخره سين مهملة اسم الجبل الذي كان فيه أصحاب الكهف وهم فيه ",
+                "title": "ينجلوس",
+                "uri": "JK_000129_013757"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.43734,
+                    39.16483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.16483",
+                    "coord_lon": "-0.43734",
+                    "cornu_URI": "SHAQR_004W391N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلشقر",
+                    "toponym_arabic_other": "ﭐلشقر",
+                    "toponym_buckwalter": "al-Shaqr",
+                    "toponym_search": "al-Shaqr",
+                    "toponym_translit": "al-Šaqr",
+                    "toponym_translit_other": "al-Šaqr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

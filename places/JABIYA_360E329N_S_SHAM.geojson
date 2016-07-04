@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.04321,
+                    32.92323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.92323",
+                    "coord_lon": "36.04321",
+                    "cornu_URI": "JABIYA_360E329N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلجابية",
+                    "toponym_arabic_other": "ﭐلجابية",
+                    "toponym_buckwalter": "al-Jabiya",
+                    "toponym_search": "al-Jabiya",
+                    "toponym_translit": "al-Ǧābiyaŧ",
+                    "toponym_translit_other": "al-Ǧābiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

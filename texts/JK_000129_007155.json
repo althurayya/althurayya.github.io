@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007155",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.287",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سويقة حجاج</h1> منسوبة إلى حجاج الوصيف مولى المهدي كانت بشرقي بغداد وقد خربت ",
+                "title": "سويقة حجاج",
+                "uri": "JK_000129_007155"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

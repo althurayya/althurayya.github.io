@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002084",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.471",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بقطر</h1> بسكون القاف قرية بالصعيد من كورة الأسيوطية بقطر بضم أوله والقاف موضع بالصعيد وهو على شاطىء مدينة قفط على شرقي النيل ",
+                "title": "بقطر",
+                "uri": "JK_000129_002084"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002428",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.535",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر بين</h1> من نواحي بغداد ذكر في نهر ",
+                "title": "نهر بين",
+                "uri": "JK_000129_002428"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

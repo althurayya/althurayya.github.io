@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009607",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.234-235",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الفتات</h1> من نواحي مراد قال كعب بن الحارث المرادي ألم تربع على طلل |جـ 4 صـ 235| عداني أن أزورك حرب قوم وأنباء طرقن مشمرات ",
+                "title": "الفتات",
+                "uri": "JK_000129_009607"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

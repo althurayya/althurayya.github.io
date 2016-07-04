@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009659",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.244",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فراغ</h1> بكسر أوله وآخره غين معجمة يجوز أن يكون جمع فرغ الدلاء وهو ما بين العراقي وكل إناء عند العرب فراغ وفراغ اسم موضع ",
+                "title": "فراغ",
+                "uri": "JK_000129_009659"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

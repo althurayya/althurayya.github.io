@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011147",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.491",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كوك</h1> بكافين الأول مفتوح والواو ساكنة قرية رأيتها كبيرة عامرة بينها وبين شهرستان خراسان مرحلة وهي من أعمال نسا وآخر حدودها ",
+                "title": "كوك",
+                "uri": "JK_000129_011147"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

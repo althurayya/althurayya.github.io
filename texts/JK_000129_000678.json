@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000678",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.194",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أشابة</h1> موضع بنجد قريب من الرمل ",
+                "title": "أشابة",
+                "uri": "JK_000129_000678"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

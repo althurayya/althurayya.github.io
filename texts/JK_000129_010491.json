@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010491",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.392-393",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قلوسنا</h1> مثل الذي قبله وزيادة نون وألف هي قرية على غربي النيل بالصعيد |جـ 4 صـ 393| ",
+                "title": "قلوسنا",
+                "uri": "JK_000129_010491"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

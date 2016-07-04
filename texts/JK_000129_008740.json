@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008740",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.89",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عدم</h1> بالتحريك وهو ضد الوجود واد باليمن ",
+                "title": "عدم",
+                "uri": "JK_000129_008740"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

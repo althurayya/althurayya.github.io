@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003016",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.102",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جبل الخمر</h1> الذي ذكره في الحديث يراد به جبل بيت المقدس سمي بذلك لكثرة كرومه ",
+                "title": "جبل الخمر",
+                "uri": "JK_000129_003016"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

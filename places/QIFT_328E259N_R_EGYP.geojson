@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.80433,
+                    25.99671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.99671",
+                    "coord_lon": "32.80433",
+                    "cornu_URI": "QIFT_328E259N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "قفط",
+                    "toponym_arabic_other": "قفط، قفط",
+                    "toponym_buckwalter": "Qift, Quft",
+                    "toponym_search": "Qift, Quft",
+                    "toponym_translit": "Qifṭ",
+                    "toponym_translit_other": "Qifṭ, Qufṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

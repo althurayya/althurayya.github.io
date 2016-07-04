@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008689",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.83",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عتيق الساجة</h1> قرية بين أذربيجان وبغداد استولت عليها دجلة فخربتها واسم الموضع معروف إلى الآن ",
+                "title": "عتيق الساجة",
+                "uri": "JK_000129_008689"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

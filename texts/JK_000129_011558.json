@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011558",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.59",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>محا</h1> أرض لكندة باليمن ",
+                "title": "محا",
+                "uri": "JK_000129_011558"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

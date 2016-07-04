@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011448",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.42",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ماسوراباذ</h1> قرية من قرى جرجان رأيتها بعيني يوم دخولي ",
+                "title": "ماسوراباذ",
+                "uri": "JK_000129_011448"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

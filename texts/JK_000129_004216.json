@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004216",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.305",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حمص</h1> بالفتح ثم الكسر والتخفيف والصاد مهملة قرية قرب خلخال من أعمال الشار في طرف أذربيجان من جهة قزوين ",
+                "title": "حمص",
+                "uri": "JK_000129_004216"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009063",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.146",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العلدة</h1> بفتح أوله وسكون ثانيه ثم دال مهملة والعلد الصلب الشديد كأن فيه يبسا من صلابته وأنث كأنه صفة للأرض وهو اسم موضع في شعر هذيل ",
+                "title": "العلدة",
+                "uri": "JK_000129_009063"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

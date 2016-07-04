@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.87766,
+                    43.067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "43.06700",
+                    "coord_lon": "75.87766",
+                    "cornu_URI": "NAWIKATH_758E430N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نويكث",
+                    "toponym_arabic_other": "نويكث",
+                    "toponym_buckwalter": "Nawikath",
+                    "toponym_search": "Nawikath",
+                    "toponym_translit": "Nawīkaṯ",
+                    "toponym_translit_other": "Nawīkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

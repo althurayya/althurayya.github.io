@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010138",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.323",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قرص</h1> بفتح القاف وسكون الراء والصاد مهملة مدينة أرمينية من نواحي تفليس يجلب منها الإبريسم خبرني بذلك رجل من أهلها بينها وبين تفليس يومان ",
+                "title": "قرص",
+                "uri": "JK_000129_010138"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

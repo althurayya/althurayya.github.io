@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001037",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.259",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أنج</h1> بالضم والسكون وجيم ناحية من أعمال زوزان بين الموصل وأرمينية ",
+                "title": "أنج",
+                "uri": "JK_000129_001037"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

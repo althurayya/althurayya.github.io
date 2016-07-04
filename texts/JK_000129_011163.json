@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011163",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.496",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كوهيار</h1> بالضم وكسر الهاء وياء مثناة من تحت وآخره راء من قرى طبرستان ",
+                "title": "كوهيار",
+                "uri": "JK_000129_011163"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

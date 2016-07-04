@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011245",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.11",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>اللبنتان</h1> تثنية لبنة موضع في قول الأخطل غول النجاء كأنها متوجس باللبنتين مولع موشوم ",
+                "title": "اللبنتان",
+                "uri": "JK_000129_011245"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

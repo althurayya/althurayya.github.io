@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000615",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.176-177",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أسر</h1> بضمتين بلد بالحزن أرض بني يربوع بن حنظلة ويقال فيه يسر أيضا عن نصر |جـ 1 صـ 177| ",
+                "title": "أسر",
+                "uri": "JK_000129_000615"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

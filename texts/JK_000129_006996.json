@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006996",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.261",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنبان</h1> بالتحريك بلد من نواحي دمار باليمن ",
+                "title": "سنبان",
+                "uri": "JK_000129_006996"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

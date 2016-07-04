@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000153",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.78",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>إبليل</h1> بالكسر ثم السكون ولام مكسورة وياء ساكنة ولام أخرى قرية من قرى مصر بأسفل الأرض يضاف إليها كورة فيقال كورة صان وإبليل ",
+                "title": "إبليل",
+                "uri": "JK_000129_000153"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

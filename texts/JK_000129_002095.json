@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002095",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.474",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بقيع</h1> بلفظ التصغير موضع من ديار بني عقيل وراء اليمامة متاخم لبلاد اليمن له ذكر في أشعارهم وبقيه أيضا ماء لبني عجل ",
+                "title": "بقيع",
+                "uri": "JK_000129_002095"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

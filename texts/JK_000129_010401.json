@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010401",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.377",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قطيعة زهير</h1> قرب حريم بني طاهر خربت بالجانب الغربي وهو زهير بن محمد الأبيوردي أحد القواد الخراسانية وقد ذكر في الزهيرية ",
+                "title": "قطيعة زهير",
+                "uri": "JK_000129_010401"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

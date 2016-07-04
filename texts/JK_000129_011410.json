@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011410",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.32-33",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ماجرم</h1> بسكون الجيم وفتح الراء والميم من قرى سمرقند |جـ 5 صـ 33| ",
+                "title": "ماجرم",
+                "uri": "JK_000129_011410"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.4502,
+                    33.03094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.03094",
+                    "coord_lon": "35.45020",
+                    "cornu_URI": "JASHSH_354E330N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "ﭐلجش",
+                    "toponym_arabic_other": "ﭐلجش",
+                    "toponym_buckwalter": "al-Jashsh",
+                    "toponym_search": "al-Jashsh",
+                    "toponym_translit": "al-Ǧašš",
+                    "toponym_translit_other": "al-Ǧašš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

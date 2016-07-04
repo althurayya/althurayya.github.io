@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000960",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.249",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ألية</h1> قال نصر بفتح الهمزة وكسر اللام وتشديد الياء جاء في الشعر لا أعلم اسم موضع أم كسرت اللام وشددت الياء للضرورة ",
+                "title": "ألية",
+                "uri": "JK_000129_000960"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

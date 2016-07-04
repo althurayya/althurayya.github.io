@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007438",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.332",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شربث</h1> مثل الذي قبله إلا أن آخره ثاء مثلثة قال العمراني واد بين اليمامة والبصرة على طريق مكة ",
+                "title": "شربث",
+                "uri": "JK_000129_007438"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

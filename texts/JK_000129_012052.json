@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012052",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.146",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مضنونة</h1> كأنه يضن بها أي يبخل من أسماء زمزم ويروى أن عبد المطلب رأى في النوم أن احفر المضنونة ضنا بها إلا عنك ",
+                "title": "مضنونة",
+                "uri": "JK_000129_012052"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

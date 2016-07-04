@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.45021,
+                    32.9865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.98650",
+                    "coord_lon": "48.45021",
+                    "cornu_URI": "DIZ_484E329N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلدز",
+                    "toponym_arabic_other": "ﭐلدز، قنطرة أندامش",
+                    "toponym_buckwalter": "al-Diz, Qantara Andamish",
+                    "toponym_search": "al-Diz, Qantara Andamish",
+                    "toponym_translit": "al-Diz",
+                    "toponym_translit_other": "al-Diz, Qanṭaraŧ Andāmiš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

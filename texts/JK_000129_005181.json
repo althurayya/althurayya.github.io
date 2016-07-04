@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005181",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.454",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دزمار</h1> بكسر أوله وتشديد ثانيه قلعة حصينة من نواحي أذربيجان قرب تبريز ",
+                "title": "دزمار",
+                "uri": "JK_000129_005181"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

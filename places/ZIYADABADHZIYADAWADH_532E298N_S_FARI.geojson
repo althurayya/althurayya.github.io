@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.22441,
+                    29.83708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.83708",
+                    "coord_lon": "53.22441",
+                    "cornu_URI": "ZIYADABADHZIYADAWADH_532E298N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "زياداباذزياداواذ",
+                    "toponym_arabic_other": "زياداباذزياداواذ",
+                    "toponym_buckwalter": "ZiyadabadhZiyadawadh",
+                    "toponym_search": "ZiyadabadhZiyadawadh",
+                    "toponym_translit": "ZiyādābāḏZiyādāwāḏ",
+                    "toponym_translit_other": "ZiyādābāḏZiyādāwāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

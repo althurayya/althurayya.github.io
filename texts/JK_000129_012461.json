@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012461",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.223",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>موشة</h1> قرية من قرى الفيوم بمصر أتت إمارة مصر من عثمان بن عفان إلى عبد الله بن سعد بن أبي سرح وعزل عمرو بن العاص وهو بها وكان واليا على الصعيد ",
+                "title": "موشة",
+                "uri": "JK_000129_012461"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

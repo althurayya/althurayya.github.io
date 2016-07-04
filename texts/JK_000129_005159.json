@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005159",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.452",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>درك</h1> مدينة بمكران بينها وبين قنزبور ثلاث مراحل وبينها وبين راسك ثلاث مراحل ",
+                "title": "درك",
+                "uri": "JK_000129_005159"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

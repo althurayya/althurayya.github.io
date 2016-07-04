@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.0869,
+                    46.2788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "46.27880",
+                    "coord_lon": "48.08690",
+                    "cornu_URI": "ITIL_480E462N_S_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "إتل",
+                    "toponym_arabic_other": "إتل، أتل",
+                    "toponym_buckwalter": "Itil, Atil",
+                    "toponym_search": "Itil, Atil",
+                    "toponym_translit": "Itil",
+                    "toponym_translit_other": "Itil, Atil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

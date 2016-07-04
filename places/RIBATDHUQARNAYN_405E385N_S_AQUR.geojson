@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.56071,
+                    38.57565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.57565",
+                    "coord_lon": "40.56071",
+                    "cornu_URI": "RIBATDHUQARNAYN_405E385N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "forteresse",
+                    "toponym_arabic": "رباط ذو ﭐلقرنين",
+                    "toponym_arabic_other": "رباط ذو ﭐلقرنين",
+                    "toponym_buckwalter": "Ribat Dhu al-Qarnayn",
+                    "toponym_search": "Ribat Dhu al-Qarnayn",
+                    "toponym_translit": "Ribāṭ Ḏū al-Qarnayn",
+                    "toponym_translit_other": "Ribāṭ Ḏū al-Qarnayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

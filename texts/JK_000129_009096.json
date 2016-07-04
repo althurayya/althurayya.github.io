@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009096",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.150",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العماكر</h1> من قرى سنحان باليمن ",
+                "title": "العماكر",
+                "uri": "JK_000129_009096"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

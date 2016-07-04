@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013462",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.392",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الهتي</h1> بضم أوله وفتح ثانيه وياء مشددة تصغير الهتيء وهي ساعات الليل ذهب هيء من الليل أي ساعة منه قف والهتي بلد أو ماء ",
+                "title": "الهتي",
+                "uri": "JK_000129_013462"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000029",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.52",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الآزاج</h1> من قرى بغداد على طريق خراسان عليها مسلك الحاج ",
+                "title": "الآزاج",
+                "uri": "JK_000129_000029"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001952",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.419",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بسترة</h1> بالفتح وهي مدينة ويقال بستيرة ",
+                "title": "بسترة",
+                "uri": "JK_000129_001952"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

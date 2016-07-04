@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001806",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.396",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة الصراة</h1> قال الحجاج العذري أحبك ما طاب الشراب لشارب وما دام برق الصراة وعور ",
+                "title": "برقة الصراة",
+                "uri": "JK_000129_001806"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

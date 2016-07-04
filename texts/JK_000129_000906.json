@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000906",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.239",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أكبرة</h1> بالفتح وكسر الباء من أودية سلمى الجبل المعروف لطيء به نخل وآبار مطوية يسكنها بنو حداد وهم حداد بن نصر بن سعد ابن نبهان ",
+                "title": "أكبرة",
+                "uri": "JK_000129_000906"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

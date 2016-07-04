@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008509",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.54",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طيخ</h1> بالفتح موضع بأسفل ذي المروة وذو المروة بين خشب ووادي القرى قال كثير فوالله ما أدري أطيخا تواعدوا لتم ظم أم ماء حيدة أوردوا ",
+                "title": "طيخ",
+                "uri": "JK_000129_008509"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

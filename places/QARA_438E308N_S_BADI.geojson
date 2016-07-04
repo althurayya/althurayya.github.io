@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.81303,
+                    30.87576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.87576",
+                    "coord_lon": "43.81303",
+                    "cornu_URI": "QARA_438E308N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "puits",
+                    "toponym_arabic": "قرعاء",
+                    "toponym_arabic_other": "قرعاء",
+                    "toponym_buckwalter": "Qara",
+                    "toponym_search": "Qara",
+                    "toponym_translit": "Qarʿāʾ",
+                    "toponym_translit_other": "Qarʿāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

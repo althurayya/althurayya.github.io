@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002687",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.46",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تناتضة</h1> بالضم وبعد الألف تاء أخرى مكسورة والضاد معجمة كذا هو في كتاب العمراني وقال موضع ",
+                "title": "تناتضة",
+                "uri": "JK_000129_002687"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008814",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.105",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عرفان</h1> بضمتين وفاء مشددة وآخره نون اسم جبل ",
+                "title": "عرفان",
+                "uri": "JK_000129_008814"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

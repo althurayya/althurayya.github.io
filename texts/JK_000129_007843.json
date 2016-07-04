@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007843",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.386",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشيق</h1> بالكسر ثم السكون وقاف واشتقاقه ذكر في الذي قبله ذات الشيق موضع ",
+                "title": "الشيق",
+                "uri": "JK_000129_007843"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.59203,
+                    32.14778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.14778",
+                    "coord_lon": "39.59203",
+                    "cornu_URI": "QULUFI_395E321N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلقلوفي",
+                    "toponym_arabic_other": "ﭐلقلوفي، ﭐلعلوي",
+                    "toponym_buckwalter": "al-Qulufi, al-Alawi",
+                    "toponym_search": "al-Qulufi, al-Alawi",
+                    "toponym_translit": "al-Qulūfī",
+                    "toponym_translit_other": "al-Qulūfī, al-ʿAlawī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

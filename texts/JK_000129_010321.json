@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010321",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.362",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر الفرس</h1> بكسر الفاء وسكون الراء وسين مهملة والفرس ضرب من النبات وقد ذكر في الفرس وهو أحد قصور الحيرة الأربعة ",
+                "title": "قصر الفرس",
+                "uri": "JK_000129_010321"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

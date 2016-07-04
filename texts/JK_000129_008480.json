@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008480",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.48-49",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طورين</h1> بعد الراء المكسورة ياء مثناة من تحت ونون قرية من قرى الري |جـ 4 صـ 49| ",
+                "title": "طورين",
+                "uri": "JK_000129_008480"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

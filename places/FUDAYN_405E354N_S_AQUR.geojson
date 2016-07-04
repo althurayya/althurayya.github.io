@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.59626,
+                    35.4148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.41480",
+                    "coord_lon": "40.59626",
+                    "cornu_URI": "FUDAYN_405E354N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلفدين",
+                    "toponym_arabic_other": "ﭐلفدين",
+                    "toponym_buckwalter": "al-Fudayn",
+                    "toponym_search": "al-Fudayn",
+                    "toponym_translit": "al-Fudayn",
+                    "toponym_translit_other": "al-Fudayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

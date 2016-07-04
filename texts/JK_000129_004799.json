@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004799",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.394",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خنفر</h1> قال ابن الحائك أبين بها مدينة خنفر والرواع وبها بنو عامر بن كندة قبيلة عرنين ",
+                "title": "خنفر",
+                "uri": "JK_000129_004799"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

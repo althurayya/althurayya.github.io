@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000959",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.249",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ألية</h1> بالضم ثم السكون وياء مفتوحة اسم إقليم من نواحي اشبيلية وإقليم من نواحي إستجة كلاهما بالأندلس والإقليم هاهنا القرية الكبيرة الجامعة ",
+                "title": "ألية",
+                "uri": "JK_000129_000959"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

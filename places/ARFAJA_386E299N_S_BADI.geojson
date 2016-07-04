@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.67294,
+                    29.99999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.99999",
+                    "coord_lon": "38.67294",
+                    "cornu_URI": "ARFAJA_386E299N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "mares",
+                    "toponym_arabic": "عرفجاء",
+                    "toponym_arabic_other": "عرفجاء",
+                    "toponym_buckwalter": "Arfaja",
+                    "toponym_search": "Arfaja",
+                    "toponym_translit": "ʿArfaǧāʾ",
+                    "toponym_translit_other": "ʿArfaǧāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

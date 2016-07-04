@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.2141,
+                    36.5057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.50570",
+                    "coord_lon": "46.21410",
+                    "cornu_URI": "BARZA_462E365N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "برزة",
+                    "toponym_arabic_other": "برزة",
+                    "toponym_buckwalter": "Barza",
+                    "toponym_search": "Barza",
+                    "toponym_translit": "Barzaŧ",
+                    "toponym_translit_other": "Barzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

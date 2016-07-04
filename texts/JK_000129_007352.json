@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007352",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.317",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشباك</h1> جمع شبكة الصائد قال ابن الأعرابي شباك الأودية مقاديمها وأوائلها موضع في بلاد غني ابن أعصر بين أبرق العزاف والمدينة ",
+                "title": "الشباك",
+                "uri": "JK_000129_007352"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

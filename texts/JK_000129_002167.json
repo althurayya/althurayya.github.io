@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002167",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.493",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بليل</h1> آخره لام أخرى اسم لشريعة صفين في الشعر عن الحازمي ",
+                "title": "بليل",
+                "uri": "JK_000129_002167"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

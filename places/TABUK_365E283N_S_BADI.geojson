@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.5062,
+                    28.37114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.37114",
+                    "coord_lon": "36.50620",
+                    "cornu_URI": "TABUK_365E283N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تبوك",
+                    "toponym_arabic_other": "تبوك",
+                    "toponym_buckwalter": "Tabuk",
+                    "toponym_search": "Tabuk",
+                    "toponym_translit": "Tabūk",
+                    "toponym_translit_other": "Tabūk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013130",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.343",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وادي الحجارة</h1> بلد بالأندلس ينسب إليه عبد الباقي بن محمد بن سعيد بن بريال الحجاري أبو بكر مات ببلنسية في مستهل رمضان سنة 205 ",
+                "title": "وادي الحجارة",
+                "uri": "JK_000129_013130"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

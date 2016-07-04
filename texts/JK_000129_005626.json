@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005626",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.24",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الربايض</h1> جمع ربيضة كأنه واحدة مرابض الإبل والغنم وهو وادي ربايض في شعر عبدة بن الطبيب ",
+                "title": "الربايض",
+                "uri": "JK_000129_005626"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

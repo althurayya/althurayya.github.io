@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007317",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.310-311",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شاكر</h1> مخلاف باليمن عن يمين صنعاء |جـ 3 صـ 311| ",
+                "title": "شاكر",
+                "uri": "JK_000129_007317"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

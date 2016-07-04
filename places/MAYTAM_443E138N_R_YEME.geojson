@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.38842,
+                    13.89347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.89347",
+                    "coord_lon": "44.38842",
+                    "cornu_URI": "MAYTAM_443E138N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ميتم",
+                    "toponym_arabic_other": "ميتم",
+                    "toponym_buckwalter": "Maytam",
+                    "toponym_search": "Maytam",
+                    "toponym_translit": "Maytam",
+                    "toponym_translit_other": "Maytam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

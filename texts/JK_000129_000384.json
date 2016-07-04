@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000384",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.127",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأدواء</h1> كأنه جمع داء موضع وقال نصر الأدواء بضم الهمزة وفتح الدال موضع في ديار تميم بنجد ",
+                "title": "الأدواء",
+                "uri": "JK_000129_000384"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

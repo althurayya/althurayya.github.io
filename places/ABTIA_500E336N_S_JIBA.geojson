@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.05422,
+                    33.62812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.62812",
+                    "coord_lon": "50.05422",
+                    "cornu_URI": "ABTIA_500E336N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أبتعة",
+                    "toponym_arabic_other": "أبتعة",
+                    "toponym_buckwalter": "Abtia",
+                    "toponym_search": "Abtia",
+                    "toponym_translit": "Abtiʿaŧ",
+                    "toponym_translit_other": "Abtiʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

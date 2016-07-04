@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000753",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.212",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أصم</h1> بفتحتين وتشديد الميم ضد السميع أصم الجلحاء وأصم السمرة في ديار بني عامر بن صعصعة ثم لبني كلاب منهم خاصة ويقال لهما الأصمان عن نصر ",
+                "title": "أصم",
+                "uri": "JK_000129_000753"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

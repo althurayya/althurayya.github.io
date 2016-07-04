@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006392",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.160",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زهام</h1> بضم أوله وهو فعال من الزهمة وهي الريح المنتنة وهو موضع في حساب ابن دريد ",
+                "title": "زهام",
+                "uri": "JK_000129_006392"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

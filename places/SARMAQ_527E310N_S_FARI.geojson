@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.79142,
+                    31.05956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.05956",
+                    "coord_lon": "52.79142",
+                    "cornu_URI": "SARMAQ_527E310N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سرمق",
+                    "toponym_arabic_other": "سرمق، ﭐلسرمق",
+                    "toponym_buckwalter": "Sarmaq, al-Surmaq",
+                    "toponym_search": "Sarmaq, al-Surmaq",
+                    "toponym_translit": "Sarmaq",
+                    "toponym_translit_other": "Sarmaq, al-Surmaq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

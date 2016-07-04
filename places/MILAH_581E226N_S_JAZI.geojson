@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.11018,
+                    22.61105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.61105",
+                    "coord_lon": "58.11018",
+                    "cornu_URI": "MILAH_581E226N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ملح",
+                    "toponym_arabic_other": "ملح",
+                    "toponym_buckwalter": "Milah",
+                    "toponym_search": "Milah",
+                    "toponym_translit": "Milaḥ",
+                    "toponym_translit_other": "Milaḥ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

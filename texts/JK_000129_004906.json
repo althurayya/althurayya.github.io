@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004906",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.413",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خيفق</h1> بفتح أوله وبعد الياء المثناة من تحت فاء ثم قاف يوم العصا وخيفق لا أدري أهو موضع أم غير موضع ",
+                "title": "خيفق",
+                "uri": "JK_000129_004906"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

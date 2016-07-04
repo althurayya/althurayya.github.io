@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005321",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.484",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دوغان</h1> قرية كبيرة بين رأس عين ونصيبين كانت سوقا لأهل الجزيرة يجتمع إليها أهلها في كل شهر مرة وقد رأيتها أنا غير مرة ولم أر بها سوقا ",
+                "title": "دوغان",
+                "uri": "JK_000129_005321"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

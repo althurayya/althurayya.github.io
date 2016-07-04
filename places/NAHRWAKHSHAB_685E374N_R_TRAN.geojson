@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.5599,
+                    37.4415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.44150",
+                    "coord_lon": "68.55990",
+                    "cornu_URI": "NAHRWAKHSHAB_685E374N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نهر وخشاب",
+                    "toponym_arabic_other": "نهر وخشاب",
+                    "toponym_buckwalter": "Nahr Wakhshab",
+                    "toponym_search": "Nahr Wakhshab",
+                    "toponym_translit": "Nahr Waḫšāb",
+                    "toponym_translit_other": "Nahr Waḫšāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

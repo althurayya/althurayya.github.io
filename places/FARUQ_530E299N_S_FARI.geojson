@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.06569,
+                    29.97467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.97467",
+                    "coord_lon": "53.06569",
+                    "cornu_URI": "FARUQ_530E299N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فاروق",
+                    "toponym_arabic_other": "فاروق",
+                    "toponym_buckwalter": "Faruq",
+                    "toponym_search": "Faruq",
+                    "toponym_translit": "Fārūq",
+                    "toponym_translit_other": "Fārūq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

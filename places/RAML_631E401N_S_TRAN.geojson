@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.16025,
+                    40.13581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.13581",
+                    "coord_lon": "63.16025",
+                    "cornu_URI": "RAML_631E401N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلرمل",
+                    "toponym_arabic_other": "ﭐلرمل",
+                    "toponym_buckwalter": "al-Raml",
+                    "toponym_search": "al-Raml",
+                    "toponym_translit": "al-Raml",
+                    "toponym_translit_other": "al-Raml"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

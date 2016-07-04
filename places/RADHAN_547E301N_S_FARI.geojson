@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.70209,
+                    30.12067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.12067",
+                    "coord_lon": "54.70209",
+                    "cornu_URI": "RADHAN_547E301N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "راذان",
+                    "toponym_arabic_other": "راذان، داذان",
+                    "toponym_buckwalter": "Radhan, Dadhan",
+                    "toponym_search": "Radhan, Dadhan",
+                    "toponym_translit": "Rāḏān",
+                    "toponym_translit_other": "Rāḏān, Dāḏān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

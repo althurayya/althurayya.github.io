@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010316",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.360",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر عبد الكريم</h1> مدينة على ساحل بحر المغرب قرب سبتة مقابل الجزيرة الخضراء من الأندلس قد نسب إليه بعضهم ",
+                "title": "قصر عبد الكريم",
+                "uri": "JK_000129_010316"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

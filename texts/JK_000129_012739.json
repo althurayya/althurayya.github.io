@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012739",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.278",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نخيرجان</h1> هو في الأصل اسم خازن كان لكسرى وهو اسم ناحية من نواحي قهستان ولعلها سميت باسم ذلك الخازن أو غيره ",
+                "title": "نخيرجان",
+                "uri": "JK_000129_012739"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

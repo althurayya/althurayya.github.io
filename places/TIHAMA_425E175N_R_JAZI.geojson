@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.51067,
+                    17.58374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.58374",
+                    "coord_lon": "42.51067",
+                    "cornu_URI": "TIHAMA_425E175N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "تهامة",
+                    "toponym_arabic_other": "تهامة",
+                    "toponym_buckwalter": "Tihama",
+                    "toponym_search": "Tihama",
+                    "toponym_translit": "Tihāmaŧ",
+                    "toponym_translit_other": "Tihāmaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.7015,
+                    33.39492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.39492",
+                    "coord_lon": "43.70150",
+                    "cornu_URI": "ANBAR_437E333N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلأنبار",
+                    "toponym_arabic_other": "ﭐلأنبار",
+                    "toponym_buckwalter": "al-Anbar",
+                    "toponym_search": "al-Anbar",
+                    "toponym_translit": "al-Anbār",
+                    "toponym_translit_other": "al-Anbār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.59405,
+                    33.43161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.43161",
+                    "coord_lon": "44.59405",
+                    "cornu_URI": "NAHRAWAN_445E334N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلنهروان",
+                    "toponym_arabic_other": "ﭐلنهروان",
+                    "toponym_buckwalter": "al-Nahrawan",
+                    "toponym_search": "al-Nahrawan",
+                    "toponym_translit": "al-Nahrawān",
+                    "toponym_translit_other": "al-Nahrawān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005789",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.51",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذات الرضم</h1> من نواحي وادي القرى وتيماء وقال عمرو بن الأهتم قفا نبك من ذكرى حبيب وأطلال بذي الرضم فالرمانتين فأوعال ",
+                "title": "ذات الرضم",
+                "uri": "JK_000129_005789"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

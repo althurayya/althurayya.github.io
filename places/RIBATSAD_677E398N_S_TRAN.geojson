@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.71106,
+                    39.8547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.85470",
+                    "coord_lon": "67.71106",
+                    "cornu_URI": "RIBATSAD_677E398N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط سعد",
+                    "toponym_arabic_other": "رباط سعد",
+                    "toponym_buckwalter": "Ribat Sad",
+                    "toponym_search": "Ribat Sad",
+                    "toponym_translit": "Ribāṭ Saʿd",
+                    "toponym_translit_other": "Ribāṭ Saʿd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

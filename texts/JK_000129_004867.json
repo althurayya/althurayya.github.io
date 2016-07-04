@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004867",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.408",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخوة</h1> بلفظ واحدة التي قبله أو تأنيثه ماء لبني أسد في شرقي سميراء والنبهانية من شرقي سميراء بينها وبين الخوة يومان وبين المرة والخوة يوم ",
+                "title": "الخوة",
+                "uri": "JK_000129_004867"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

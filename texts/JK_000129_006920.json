@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006920",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.245",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سمانة</h1> بفتح أوله وتشديد ثانيه ويجوز أن يكون فعلان من السم القاتل أو من سممت الشيء أسمه إذا أصلحته ويجوز أن يكون فعالا من السمان وهو موضع ",
+                "title": "سمانة",
+                "uri": "JK_000129_006920"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

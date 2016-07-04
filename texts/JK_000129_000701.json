@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000701",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.198-199",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أشقاب</h1> بالفتح ثم السكون وقاف وألف وباء موحدة موع في قول اللهبي فالهاوتان فكبكب فجتاوب فالبوص فالأفراع من أشقاب |جـ 1 صـ 199| ",
+                "title": "أشقاب",
+                "uri": "JK_000129_000701"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

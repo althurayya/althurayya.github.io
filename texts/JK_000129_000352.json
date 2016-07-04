@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000352",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.124-125",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أخناث</h1> بالفتح وآخره ثاء مثلثة جمع خنث وهو التثني موضع في شعر بعض الأزد حيث قال شط من حل باللوى الأبراثا عن نوى من تربع الأخناثا |جـ 1 صـ 125| ",
+                "title": "أخناث",
+                "uri": "JK_000129_000352"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

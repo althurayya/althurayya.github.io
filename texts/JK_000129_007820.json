@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007820",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.381-382",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شير</h1> بكسر أوله وسكون ثانيه وراء مهملة وهي لفظة مشتركة في كلام الفرس يسمون الأسد شير ويسمون الحليب شير وهي المذكورة بعدها |جـ 3 صـ 382| ",
+                "title": "شير",
+                "uri": "JK_000129_007820"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

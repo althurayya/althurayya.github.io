@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006642",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.206",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سربخ</h1> بالفتح ثم السكون وباء موحدة وخاء معجمة موضع باليمن قال خلف الأزدي وهل أردن الدهر روضة سربخ وهل أرعين ذودي محصبها الأحوى ",
+                "title": "سربخ",
+                "uri": "JK_000129_006642"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001911",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.409",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البزاز</h1> بزايين الأولى مشددة بليدة بين المذار والبصرة على شاطىء نهر ميسان رأيتها غير مرة ",
+                "title": "البزاز",
+                "uri": "JK_000129_001911"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

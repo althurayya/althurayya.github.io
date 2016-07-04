@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_1695",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.3, p.14",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>ذو الجوشن</h1> هذا اللقب لشرحبيل الضبابي الكلابي يكنى أبا شمر عداده في الصحابة ولقب بذلك لأنه كان ناتىء الصدر روى عنه أبو إسحاق الهمداني مرسل ",
+                "title": "ذو الجوشن",
+                "uri": "JK_000952_1695"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

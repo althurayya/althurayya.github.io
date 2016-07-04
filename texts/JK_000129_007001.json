@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007001",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.261",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنبيل</h1> كورة من أعمال خوزستان متاخمة لفارس وكانت مضمومة إلى فارس أيام محمد بن واصل إلى آخر أيام السجزية ثم حولت إلى خوزستان ",
+                "title": "سنبيل",
+                "uri": "JK_000129_007001"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

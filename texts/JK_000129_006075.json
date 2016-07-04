@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006075",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.107",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رهاوة</h1> بضم أوله وبعد الألف واو موضع جاء في الأخبار ",
+                "title": "رهاوة",
+                "uri": "JK_000129_006075"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

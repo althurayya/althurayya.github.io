@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008651",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.77",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عبدسي</h1> قال حمزة هو تعريب أفداسهي وهو اسم مصنعة كانت برستاق كسكر خربها العرب وبقي اسمها على ما كان حولها من العمارة ",
+                "title": "عبدسي",
+                "uri": "JK_000129_008651"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

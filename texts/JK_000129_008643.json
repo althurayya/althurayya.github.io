@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008643",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.77",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عباقل</h1> موطن لبني فرير من طيء بالرمل ",
+                "title": "عباقل",
+                "uri": "JK_000129_008643"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

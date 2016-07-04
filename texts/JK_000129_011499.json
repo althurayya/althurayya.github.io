@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011499",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.51",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مبرك</h1> بالفتح ثم السكون وفتح الراء وآخره كاف موضع بتهامة برك فيه الفيل لما قصد به مكة بعرنة وهو بقرب مكة عن الأصمعي ",
+                "title": "مبرك",
+                "uri": "JK_000129_011499"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

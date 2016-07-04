@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002892",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.83",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثما</h1> بالفتح والتخفيف والقصر موضع بالحجاز ",
+                "title": "ثما",
+                "uri": "JK_000129_002892"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

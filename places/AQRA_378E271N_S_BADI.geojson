@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.83126,
+                    27.15186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.15186",
+                    "coord_lon": "37.83126",
+                    "cornu_URI": "AQRA_378E271N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأقراع",
+                    "toponym_arabic_other": "ﭐلأقراع",
+                    "toponym_buckwalter": "al-Aqra",
+                    "toponym_search": "al-Aqra",
+                    "toponym_translit": "al-Aqrāʿ",
+                    "toponym_translit_other": "al-Aqrāʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

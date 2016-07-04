@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005803",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.52",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رعن</h1> بالضم موضع على طريق حاج البصرة بين حفر أبي موسى وماوية وتفسيره قبله ",
+                "title": "رعن",
+                "uri": "JK_000129_005803"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

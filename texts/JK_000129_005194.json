@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005194",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.456",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الدشت</h1> بليدة في وسط الجبال بين إربل وتبريز رأيتها عامرة كثيرة الخير أهلها كلهم أكراد ",
+                "title": "الدشت",
+                "uri": "JK_000129_005194"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

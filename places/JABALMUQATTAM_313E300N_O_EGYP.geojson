@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.31852,
+                    30.01368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.01368",
+                    "coord_lon": "31.31852",
+                    "cornu_URI": "JABALMUQATTAM_313E300N_O_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل مقطم",
+                    "toponym_arabic_other": "جبل مقطم",
+                    "toponym_buckwalter": "Jabal Muqattam",
+                    "toponym_search": "Jabal Muqattam",
+                    "toponym_translit": "Ǧabal Muqaṭṭam",
+                    "toponym_translit_other": "Ǧabal Muqaṭṭam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006945",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.252",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سمنت</h1> بفتح أوله وثانيه وتسكين النون وآخره تاء مثناة قرية تناوح قوص بالصعيد ",
+                "title": "سمنت",
+                "uri": "JK_000129_006945"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.91362,
+                    39.1739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.17390",
+                    "coord_lon": "-3.91362",
+                    "cornu_URI": "MALAQUN_039W391N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ملقون",
+                    "toponym_arabic_other": "ملقون",
+                    "toponym_buckwalter": "Malaqun",
+                    "toponym_search": "Malaqun",
+                    "toponym_translit": "Malaqūn",
+                    "toponym_translit_other": "Malaqūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

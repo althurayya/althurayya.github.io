@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.57342,
+                    30.99062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.99062",
+                    "coord_lon": "30.57342",
+                    "cornu_URI": "SHIRAK_305E309N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلشراك",
+                    "toponym_arabic_other": "ﭐلشراك",
+                    "toponym_buckwalter": "al-Shirak",
+                    "toponym_search": "al-Shirak",
+                    "toponym_translit": "al-Širāk",
+                    "toponym_translit_other": "al-Širāk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

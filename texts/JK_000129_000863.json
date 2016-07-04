@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000863",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.233",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأفهار</h1> كأنه جمع فهر من الحجارة موضع في قول طفيل بن علي الحنفي فمنعرج الأفهار فقر بسابس فبطن خوي ما بروضته شفر ",
+                "title": "الأفهار",
+                "uri": "JK_000129_000863"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

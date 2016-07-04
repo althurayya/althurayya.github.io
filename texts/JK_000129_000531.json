@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000531",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.164",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أرون</h1> بالفتح ثم الضم وسكون الواو ونون ناحية بالأندلس من أعمال باجة ولكتانها فضل على سائر كتان الأندلس ",
+                "title": "أرون",
+                "uri": "JK_000129_000531"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

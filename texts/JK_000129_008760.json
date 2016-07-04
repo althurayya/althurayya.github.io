@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008760",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.92",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عذنون</h1> قال في تاريخ دمشق عبد الله بن عبد الرحمن أبو محمد المليباري المعروف بالسندي حدث بعذنون مدينة من أعمال صيداء من ساحل دمشق ",
+                "title": "عذنون",
+                "uri": "JK_000129_008760"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

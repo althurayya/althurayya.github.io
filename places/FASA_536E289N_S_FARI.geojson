@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.63181,
+                    28.92193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.92193",
+                    "coord_lon": "53.63181",
+                    "cornu_URI": "FASA_536E289N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فسا",
+                    "toponym_arabic_other": "فسا",
+                    "toponym_buckwalter": "Fasa",
+                    "toponym_search": "Fasa",
+                    "toponym_translit": "Fasā",
+                    "toponym_translit_other": "Fasā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013727",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.439",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>يفور</h1> من حصون حمير في مخلاف كان يعرف بجعفر ",
+                "title": "يفور",
+                "uri": "JK_000129_013727"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

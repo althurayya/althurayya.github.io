@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003088",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.115",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجديدة</h1> بلفظ ضد العتيقة اسم كل واحدة من قريتين بمصر إحداهما في كورة الشرقية والأخرى في كورة المرتاحية ",
+                "title": "الجديدة",
+                "uri": "JK_000129_003088"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

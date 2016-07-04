@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002816",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.70",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ثاب</h1> آخره باء موحدة موضع في شعر الأغلب قيل أراد به الأثابات فلاة بظاهر اليمامة عن نصر ",
+                "title": "ثاب",
+                "uri": "JK_000129_002816"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.76442,
+                    16.9453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.94530",
+                    "coord_lon": "43.76442",
+                    "cornu_URI": "SADA_437E169N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صعدة",
+                    "toponym_arabic_other": "صعدة",
+                    "toponym_buckwalter": "Sada",
+                    "toponym_search": "Sada",
+                    "toponym_translit": "Ṣaʿdaŧ",
+                    "toponym_translit_other": "Ṣaʿdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

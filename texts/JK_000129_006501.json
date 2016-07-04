@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006501",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.180",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سائر</h1> من نواحي المدينة قال ابن هرمة عفا سائر منها فهضب كتانة فدار بأعلي عاقل أو محسر ومنها بشرقي المذاهب دمنة معطلة آياتها لم تغير ",
+                "title": "سائر",
+                "uri": "JK_000129_006501"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

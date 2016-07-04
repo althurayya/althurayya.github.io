@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003068",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.113",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جد الأثافي</h1> بالضم ثم التشديد والجد في اللغة البئر القدية والأثافي جمع أثفية وهي الحجارة التي توضع عليها القدر وهو موضع بعقيق المدينة ",
+                "title": "جد الأثافي",
+                "uri": "JK_000129_003068"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

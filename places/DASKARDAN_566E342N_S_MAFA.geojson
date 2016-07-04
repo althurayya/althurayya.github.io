@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.60995,
+                    34.25952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.25952",
+                    "coord_lon": "56.60995",
+                    "cornu_URI": "DASKARDAN_566E342N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "دسكردان",
+                    "toponym_arabic_other": "دسكردان، دسكروان",
+                    "toponym_buckwalter": "Daskardan, Daskarwan",
+                    "toponym_search": "Daskardan, Daskarwan",
+                    "toponym_translit": "Daskardān",
+                    "toponym_translit_other": "Daskardān, Daskarwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

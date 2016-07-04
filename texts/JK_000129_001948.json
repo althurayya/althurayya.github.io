@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001948",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.414",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بستان الغمير</h1> بالتصغير كان يقال له في الجاهلية غمر ذي كندة فاتخذ فيه ناس من بني مخزوم أرضا فيقال له بستان الغمير ",
+                "title": "بستان الغمير",
+                "uri": "JK_000129_001948"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

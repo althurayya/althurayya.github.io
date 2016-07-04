@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012202",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.175",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مقرية</h1> حصن من حصون اليمن بيد عبد علي بن عواض ",
+                "title": "مقرية",
+                "uri": "JK_000129_012202"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

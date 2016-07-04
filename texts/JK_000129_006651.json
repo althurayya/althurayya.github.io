@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006651",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.207",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سرجة</h1> موضع قرب سميساط على شاطىء الفرات ",
+                "title": "سرجة",
+                "uri": "JK_000129_006651"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

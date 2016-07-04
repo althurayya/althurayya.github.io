@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.42642,
+                    34.42297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.42297",
+                    "coord_lon": "36.42642",
+                    "cornu_URI": "NAHRL-MAQLUB_364E344N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر لمقلوب",
+                    "toponym_arabic_other": "نهر لمقلوب",
+                    "toponym_buckwalter": "Nahr l-Maqlub",
+                    "toponym_search": "Nahr l-Maqlub",
+                    "toponym_translit": "Nahr l-Maqlūb",
+                    "toponym_translit_other": "Nahr l-Maqlūb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

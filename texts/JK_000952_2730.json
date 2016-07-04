@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_2730",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.4, p.171",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>العذري</h1> بضم العين المهملة وفتح الذال المعجمة وفي آخرها الراء هذه النسبة إلى عذر وهو بطن من همذان وهو عذر بن سعد بن دافع بن مالك بن جشم بن حاشد ",
+                "title": "العذري",
+                "uri": "JK_000952_2730"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

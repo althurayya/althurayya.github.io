@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005363",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.492",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دهستان والنسبة الدهستاني</h1> ناحية بباذغيس من أعمال هراة منها محمد بن أحمد بن أبي الحجاج الدهستاني الهروي ",
+                "title": "دهستان والنسبة الدهستاني",
+                "uri": "JK_000129_005363"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

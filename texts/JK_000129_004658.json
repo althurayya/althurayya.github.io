@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004658",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.374",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خشيبة</h1> بالتصغير أرض قريبة من اليمامة كانت بها وقعة بين تميم وحنيفة ",
+                "title": "خشيبة",
+                "uri": "JK_000129_004658"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

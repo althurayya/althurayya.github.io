@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011645",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.70",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مخلاف وادعة</h1> من ناحية نجد وهو وادعة بن عمرو بن ناشج ومن قراه بقعة وعمران وأعلى وادي نجران ",
+                "title": "مخلاف وادعة",
+                "uri": "JK_000129_011645"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

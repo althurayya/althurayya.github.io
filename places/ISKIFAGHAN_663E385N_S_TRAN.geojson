@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.30707,
+                    38.53462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.53462",
+                    "coord_lon": "66.30707",
+                    "cornu_URI": "ISKIFAGHAN_663E385N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إسكيفغن",
+                    "toponym_arabic_other": "إسكيفغن",
+                    "toponym_buckwalter": "Iskifaghan",
+                    "toponym_search": "Iskifaghan",
+                    "toponym_translit": "Iskīfaġan",
+                    "toponym_translit_other": "Iskīfaġan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

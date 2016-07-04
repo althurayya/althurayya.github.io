@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.10369,
+                    32.53829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.53829",
+                    "coord_lon": "45.10369",
+                    "cornu_URI": "NAHRNIL_451E325N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "نهر ﭐلنيل",
+                    "toponym_arabic_other": "نهر ﭐلنيل",
+                    "toponym_buckwalter": "Nahr al-Nil",
+                    "toponym_search": "Nahr al-Nil",
+                    "toponym_translit": "Nahr al-Nīl",
+                    "toponym_translit_other": "Nahr al-Nīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

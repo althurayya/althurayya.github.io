@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006777",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.225",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السفير</h1> موضع في شعر قيس بن العيزارة أبا عامر إنا بغينا دياركم وأوطانكم بين السفير وتبشع ",
+                "title": "السفير",
+                "uri": "JK_000129_006777"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

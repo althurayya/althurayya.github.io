@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005115",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.447",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>درادر</h1> في أخبار هذيل وفهم فسلكوا في شعب من ظهر الفرع يقال له درادر حتى تذروا ذنب كراث موضع فسلكوا ذا السمرة حتى قدموا الدار من بني قديم بالسرو ",
+                "title": "درادر",
+                "uri": "JK_000129_005115"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

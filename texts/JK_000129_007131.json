@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007131",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.282",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سوق بحر</h1> موضع بالأهواز كان عندها مكوس أزالها الوزير علي بن عيسى بن داود بن الجراح في وزارته الأولى ",
+                "title": "سوق بحر",
+                "uri": "JK_000129_007131"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

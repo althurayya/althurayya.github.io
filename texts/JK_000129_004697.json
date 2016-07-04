@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004697",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.378",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خطرنية</h1> بالضم ثم الفتح وبعد الراء الساكنة نون مكسورة وياء آخر الحروف مخففة ناحية من نواحي بابل العراق ",
+                "title": "خطرنية",
+                "uri": "JK_000129_004697"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

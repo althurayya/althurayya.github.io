@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.66888,
+                    31.87811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.87811",
+                    "coord_lon": "34.66888",
+                    "cornu_URI": "MAHUZYUBNA_346E318N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "port",
+                    "toponym_arabic": "ماحوز يبنا",
+                    "toponym_arabic_other": "ماحوز يبنا",
+                    "toponym_buckwalter": "Mahuz Yubna",
+                    "toponym_search": "Mahuz Yubna",
+                    "toponym_translit": "Māḥūz Yubnā",
+                    "toponym_translit_other": "Māḥūz Yubnā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.98281,
+                    30.24893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.24893",
+                    "coord_lon": "55.98281",
+                    "cornu_URI": "UNAS_559E302N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أونس",
+                    "toponym_arabic_other": "أونس",
+                    "toponym_buckwalter": "Unas",
+                    "toponym_search": "Unas",
+                    "toponym_translit": "Ūnas",
+                    "toponym_translit_other": "Ūnas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001595",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.365",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>براق التين</h1> بلفظ التين من الفواكه جبل قال أبو محمد الخدامي ترعى إلى جد لها مكين أكناف خو فبراق التين ",
+                "title": "براق التين",
+                "uri": "JK_000129_001595"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

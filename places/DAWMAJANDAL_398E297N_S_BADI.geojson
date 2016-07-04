@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.87767,
+                    29.75959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.75959",
+                    "coord_lon": "39.87767",
+                    "cornu_URI": "DAWMAJANDAL_398E297N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "دومة ﭐلجندل",
+                    "toponym_arabic_other": "دومة ﭐلجندل",
+                    "toponym_buckwalter": "Dawma al-Jandal",
+                    "toponym_search": "Dawma al-Jandal",
+                    "toponym_translit": "Dawmaŧ al-Ǧandal",
+                    "toponym_translit_other": "Dawmaŧ al-Ǧandal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

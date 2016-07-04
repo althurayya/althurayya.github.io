@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000826",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.224",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأغران</h1> تثنية الأغر وهما حبلان من حبال رمل البادية قال الراجز وقد قطعنا الرمل غير حبلين حبلي زرود وكذا الأغرين ",
+                "title": "الأغران",
+                "uri": "JK_000129_000826"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

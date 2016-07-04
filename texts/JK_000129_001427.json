@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001427",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.330",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بامنج والنسبة البامنجي</h1> هي بامئين المذكورة بعد هذا ينسب إليها البامنجي فلذلك أفردت ",
+                "title": "بامنج والنسبة البامنجي",
+                "uri": "JK_000129_001427"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

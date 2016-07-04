@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001238",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.301",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بئر عكرمة</h1> بمكة تنسب إلى عكرمة بن خالد ابن العاص بن هشام بن المغيرة بن عبد الله بن عمر بن مخزوم ",
+                "title": "بئر عكرمة",
+                "uri": "JK_000129_001238"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000525",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.162",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أروان</h1> بالفتح ثم السكون وواو وألف ونون اسم بئر بالمدينة وقد جاء فيها ذروان وذو أروان كل ذلك قد جاء في الحديث ",
+                "title": "أروان",
+                "uri": "JK_000129_000525"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

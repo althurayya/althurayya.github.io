@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008339",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.24",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طرا</h1> بضم أوله قرية في شرقي النيل قريبة من الفسطاط من ناحية الصعيد ",
+                "title": "طرا",
+                "uri": "JK_000129_008339"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

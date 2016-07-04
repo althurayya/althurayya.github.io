@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.44949,
+                    39.03468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.03468",
+                    "coord_lon": "65.44949",
+                    "cornu_URI": "BAZDA_654E390N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بزدة",
+                    "toponym_arabic_other": "بزدة",
+                    "toponym_buckwalter": "Bazda",
+                    "toponym_search": "Bazda",
+                    "toponym_translit": "Bazdaŧ",
+                    "toponym_translit_other": "Bazdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

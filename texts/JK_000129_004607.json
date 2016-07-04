@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004607",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.369-370",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خزمان</h1> أم خزمان موضع والخزمان في لغتهم الكذب قال العمراني وسمعته عن الزمخشري بالراء |جـ 2 صـ 370| ",
+                "title": "خزمان",
+                "uri": "JK_000129_004607"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005687",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.33",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رحبة خالد</h1> بدمشق تنسب إلى خالد بن أسيد بن أبي العيص بن أمية بن عبد شمس بن عبد مناف الأموي ذكر ذلك الحافظ ابن عساكر في تاريخ دمشق ",
+                "title": "رحبة خالد",
+                "uri": "JK_000129_005687"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

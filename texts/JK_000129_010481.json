@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010481",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.391",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قلفاو</h1> بكسر أوله وسكون ثانيه وفاء وآخره واو معربة صحيحة قرية بالصعيد على غربي النيل ",
+                "title": "قلفاو",
+                "uri": "JK_000129_010481"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

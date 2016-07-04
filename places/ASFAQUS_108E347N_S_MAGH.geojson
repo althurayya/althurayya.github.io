@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.8019,
+                    34.77411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.77411",
+                    "coord_lon": "10.80190",
+                    "cornu_URI": "ASFAQUS_108E347N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أسفاقس",
+                    "toponym_arabic_other": "أسفاقس",
+                    "toponym_buckwalter": "Asfaqus",
+                    "toponym_search": "Asfaqus",
+                    "toponym_translit": "Asfāqus",
+                    "toponym_translit_other": "Asfāqus"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

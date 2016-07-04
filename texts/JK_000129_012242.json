@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012242",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.189",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الملبط</h1> بالكسر ثم السكون وفتح الباء الموحدة وطاء مهملة من لبط فلان بفلان الأرض إذا صرعه صرعا عنيفا ويوم الملبط من أيام العرب ",
+                "title": "الملبط",
+                "uri": "JK_000129_012242"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001250",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.302",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بئر يقظان</h1> بالظاء المعجمة أوله ياء ماء لبني نمير وأكثرها ما يقال لها البئر غير مضافة قال أبو زياد وكان يقظان قد أهتر أي ذهب عقله ",
+                "title": "بئر يقظان",
+                "uri": "JK_000129_001250"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

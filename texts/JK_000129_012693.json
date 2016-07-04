@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012693",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.262",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نجد ألوذ</h1> في بلاد هذيل في خبر أبي جندب نجد أجأ علم لجبل أسود بأجأ أحد جبلي طيء ",
+                "title": "نجد ألوذ",
+                "uri": "JK_000129_012693"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

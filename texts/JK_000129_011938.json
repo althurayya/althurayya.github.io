@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011938",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.123",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المستريون</h1> من قرى مصر في كورة الشرقية ويقال لها الحباسة أيضا ",
+                "title": "المستريون",
+                "uri": "JK_000129_011938"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

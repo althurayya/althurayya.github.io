@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004756",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.388",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خماصة</h1> بضم أوله وبعد الألف صاد مهملة موضع في قول ابن مقبل فقلت وقد جاوزن بطن خماصة جرت دون بطحاء الظباء البوارح ",
+                "title": "خماصة",
+                "uri": "JK_000129_004756"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

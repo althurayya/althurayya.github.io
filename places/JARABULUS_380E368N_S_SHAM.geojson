@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.00577,
+                    36.81562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.81562",
+                    "coord_lon": "38.00577",
+                    "cornu_URI": "JARABULUS_380E368N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جربلص",
+                    "toponym_arabic_other": "جربلص",
+                    "toponym_buckwalter": "Jarabulus",
+                    "toponym_search": "Jarabulus",
+                    "toponym_translit": "Ǧarabuluṣ",
+                    "toponym_translit_other": "Ǧarabuluṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

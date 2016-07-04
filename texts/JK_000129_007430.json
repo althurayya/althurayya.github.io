@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007430",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.331",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شراعة</h1> بضم أوله يشبه أن يكون من شراع السفينة لما سمي به البقعة أنث وهو موضع في شعر ساعدة الهذلي ",
+                "title": "شراعة",
+                "uri": "JK_000129_007430"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000171",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.82",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أبو منجوج</h1> بفتح الميم وسكون النون وجيمين بينهما واو ساكنة قرية في كورة البحيرة قرب الإسكندرية ",
+                "title": "أبو منجوج",
+                "uri": "JK_000129_000171"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36092,
+                    33.50829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.50829",
+                    "coord_lon": "44.36092",
+                    "cornu_URI": "BARADAN_443E335N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بردان",
+                    "toponym_arabic_other": "بردان",
+                    "toponym_buckwalter": "Baradan",
+                    "toponym_search": "Baradan",
+                    "toponym_translit": "Baradān",
+                    "toponym_translit_other": "Baradān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

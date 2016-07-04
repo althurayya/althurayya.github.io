@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004446",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.343",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خبجبة</h1> بفتح أوله وسكون ثانيه ثم جيم مفتوحة ثم باء أخرى بقيع الخبجبة موضع جاء ذكره في سنن أبي داود والخبجبة شجر يعرف بها ",
+                "title": "خبجبة",
+                "uri": "JK_000129_004446"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

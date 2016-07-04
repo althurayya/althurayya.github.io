@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006128",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.115",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ريورثون</h1> بكسر أوله وسكون ثانيه وفتح ثالثه وسكون الراء وثاء مثلثة وآخره نون من قرى بخارى والله أعلم ",
+                "title": "ريورثون",
+                "uri": "JK_000129_006128"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

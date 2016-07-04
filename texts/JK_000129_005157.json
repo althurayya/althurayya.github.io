@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005157",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.452",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الدرك</h1> بالتحريك وآخره كاف ويوم الدرك بين الأوس والخزرج وقال أبو أحمد العسكري الدرك بسكون الراء يوم كان بين الأوس والخزرج في الجاهلية ",
+                "title": "الدرك",
+                "uri": "JK_000129_005157"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

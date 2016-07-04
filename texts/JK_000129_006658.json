@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006658",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.208",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السرحة</h1> باليمامة موضع بعينه عن الحفصي وأنشد أيا سرحة الركبان ظلك بارد وماؤك عذب لا يحل لشاربه ليس في البيت دليل على أنه موضع ولكن كذا قال ",
+                "title": "السرحة",
+                "uri": "JK_000129_006658"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

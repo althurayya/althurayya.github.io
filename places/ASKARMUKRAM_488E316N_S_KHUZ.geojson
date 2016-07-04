@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.8982,
+                    31.66531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.66531",
+                    "coord_lon": "48.89820",
+                    "cornu_URI": "ASKARMUKRAM_488E316N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "عسكر مكرم",
+                    "toponym_arabic_other": "عسكر مكرم",
+                    "toponym_buckwalter": "Askar Mukram",
+                    "toponym_search": "Askar Mukram",
+                    "toponym_translit": "ʿAskar Mukram",
+                    "toponym_translit_other": "ʿAskar Mukram"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

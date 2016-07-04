@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011414",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.33",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ماخ</h1> بالخاء المعجمة مسجد ماخ ببخارى ومحلة ماخ بها وهو اسم رجل مجوسي أسلم وبنى داره مسجدا ",
+                "title": "ماخ",
+                "uri": "JK_000129_011414"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

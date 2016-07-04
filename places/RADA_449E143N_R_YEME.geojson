@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.99684,
+                    14.38257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.38257",
+                    "coord_lon": "44.99684",
+                    "cornu_URI": "RADA_449E143N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "رداع",
+                    "toponym_arabic_other": "رداع",
+                    "toponym_buckwalter": "Rada",
+                    "toponym_search": "Rada",
+                    "toponym_translit": "Radāʿ",
+                    "toponym_translit_other": "Radāʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

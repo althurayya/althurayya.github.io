@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009968",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.297",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قاشره</h1> بعد الشين راء مضمومة وهاء ساكنة التقى ساكنان الألف والشين فيه من أقاليم لبلة ووجدت في نسخة أخرى من كتاب خطط الأندلس قاتيده فتحقق ",
+                "title": "قاشره",
+                "uri": "JK_000129_009968"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

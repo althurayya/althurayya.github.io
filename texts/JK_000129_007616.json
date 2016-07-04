@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007616",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.355",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شقص</h1> بكسر أوله وسكون ثانيه وآخره صاد مهملة وهي القطعة من الأرض والطائفة من الشيء وهي قرية من سراة بجيلة ",
+                "title": "شقص",
+                "uri": "JK_000129_007616"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

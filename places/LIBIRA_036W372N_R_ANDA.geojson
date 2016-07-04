@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.66814,
+                    37.22734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.22734",
+                    "coord_lon": "-3.66814",
+                    "cornu_URI": "LIBIRA_036W372N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "لبيرة",
+                    "toponym_arabic_other": "لبيرة، إلبيرة",
+                    "toponym_buckwalter": "Libira, Ilbira",
+                    "toponym_search": "Libira, Ilbira",
+                    "toponym_translit": "Libīraŧ",
+                    "toponym_translit_other": "Libīraŧ, Ilbīraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

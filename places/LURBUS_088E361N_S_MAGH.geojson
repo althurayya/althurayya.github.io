@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.83937,
+                    36.10562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.10562",
+                    "coord_lon": "8.83937",
+                    "cornu_URI": "LURBUS_088E361N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "لربس",
+                    "toponym_arabic_other": "لربس، ﭐلأربس",
+                    "toponym_buckwalter": "Lurbus, al-Urbus",
+                    "toponym_search": "Lurbus, al-Urbus",
+                    "toponym_translit": "Lurbus",
+                    "toponym_translit_other": "Lurbus, al-Urbus"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

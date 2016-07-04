@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008403",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.35",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طفرجيل</h1> يمكننا أن نقول إنها كلمة مركبة من طفر بمعنى قفز وجيل بمعنى أمة ولكنه اسم أعجمي لبلد بالمغرب ",
+                "title": "طفرجيل",
+                "uri": "JK_000129_008403"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

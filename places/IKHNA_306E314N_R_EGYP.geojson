@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.65681,
+                    31.46786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.46786",
+                    "coord_lon": "30.65681",
+                    "cornu_URI": "IKHNA_306E314N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "إخنا",
+                    "toponym_arabic_other": "إخنا",
+                    "toponym_buckwalter": "Ikhna",
+                    "toponym_search": "Ikhna",
+                    "toponym_translit": "Iḫnā",
+                    "toponym_translit_other": "Iḫnā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

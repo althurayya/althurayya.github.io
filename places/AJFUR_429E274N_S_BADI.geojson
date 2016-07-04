@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.97781,
+                    27.44255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.44255",
+                    "coord_lon": "42.97781",
+                    "cornu_URI": "AJFUR_429E274N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأجفر",
+                    "toponym_arabic_other": "ﭐلأجفر",
+                    "toponym_buckwalter": "al-Ajfur",
+                    "toponym_search": "al-Ajfur",
+                    "toponym_translit": "al-Aǧfur",
+                    "toponym_translit_other": "al-Aǧfur"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36286,
+                    31.97375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.97375",
+                    "coord_lon": "44.36286",
+                    "cornu_URI": "KHAWARNAQ_443E319N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "ﭐلخورنق",
+                    "toponym_arabic_other": "ﭐلخورنق",
+                    "toponym_buckwalter": "al-Khawarnaq",
+                    "toponym_search": "al-Khawarnaq",
+                    "toponym_translit": "al-Ḫawarnaq",
+                    "toponym_translit_other": "al-Ḫawarnaq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

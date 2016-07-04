@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007018",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.264",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنجفين</h1> بفتح أوله وسكون ثانيه وفتح الجيم وكسر الفاء ثم ياء مثناة من تحت وآخره نون من قرى أشروسنة بقرب سمرقند وقد نسب إليها بعض الرواة ",
+                "title": "سنجفين",
+                "uri": "JK_000129_007018"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

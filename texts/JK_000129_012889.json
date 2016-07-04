@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012889",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.300",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نقنس</h1> بكسر أوله وثانيه ونون مشددة من قرى البلقاء من أرض الشام كانت لأبي سفيان بن حرب أيام كان يتجر إلى الشام ثم كانت لولده بعده ",
+                "title": "نقنس",
+                "uri": "JK_000129_012889"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

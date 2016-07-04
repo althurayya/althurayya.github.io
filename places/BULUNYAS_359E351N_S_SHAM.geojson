@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.97212,
+                    35.18256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.18256",
+                    "coord_lon": "35.97212",
+                    "cornu_URI": "BULUNYAS_359E351N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بلنياس",
+                    "toponym_arabic_other": "بلنياس",
+                    "toponym_buckwalter": "Bulunyas",
+                    "toponym_search": "Bulunyas",
+                    "toponym_translit": "Bulunyās",
+                    "toponym_translit_other": "Bulunyās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

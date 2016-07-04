@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006454",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.170",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سارونية</h1> بعد الألف راء ثم واو ثم نون مكسورة وياء مثناة من تحت عقبة قرب طبرية يصعد منها إلى الطور ",
+                "title": "سارونية",
+                "uri": "JK_000129_006454"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

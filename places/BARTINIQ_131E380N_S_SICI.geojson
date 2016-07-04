@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.11223,
+                    38.03112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.03112",
+                    "coord_lon": "13.11223",
+                    "cornu_URI": "BARTINIQ_131E380N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "برطنيق",
+                    "toponym_arabic_other": "برطنيق",
+                    "toponym_buckwalter": "Bartiniq",
+                    "toponym_search": "Bartiniq",
+                    "toponym_translit": "Barṭinīq",
+                    "toponym_translit_other": "Barṭinīq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

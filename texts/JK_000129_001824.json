@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001824",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.397",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة قادم</h1> قال العلاء بن قرظة خال الفرزدق ونحن سقينا يوم برقة قادم مصاد نفيل بالزعاق المسمم ",
+                "title": "برقة قادم",
+                "uri": "JK_000129_001824"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010284",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.355",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قصر ابن عوان</h1> كان بالمدينة وكان ينزل في شقه اليماني بنو الجذماء حي من اليمن من يهود المدينة كانوا بها قبل الأوس والخزرج عن نصر ",
+                "title": "قصر ابن عوان",
+                "uri": "JK_000129_010284"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

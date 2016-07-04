@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013532",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.407",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>هضام</h1> بالضم والهضم المطمئن من الأرض وجمعه أهضام وهضوم و هضام اسم واد ",
+                "title": "هضام",
+                "uri": "JK_000129_013532"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009106",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.153",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عمران</h1> بضم أوله وسكون ثانيه وآخره نون وهو ضد الخراب موضع في بلاد مراد بالجوف كان فيه يوم من أيامهم ",
+                "title": "عمران",
+                "uri": "JK_000129_009106"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

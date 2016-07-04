@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.87086,
+                    31.85548
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.85548",
+                    "coord_lon": "49.87086",
+                    "cornu_URI": "IDHAJ_498E318N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إيذج",
+                    "toponym_arabic_other": "إيذج",
+                    "toponym_buckwalter": "Idhaj",
+                    "toponym_search": "Idhaj",
+                    "toponym_translit": "Īḏaǧ",
+                    "toponym_translit_other": "Īḏaǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

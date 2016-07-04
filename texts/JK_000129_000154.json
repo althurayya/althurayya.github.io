@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000154",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.78",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ابنا طمر</h1> تثنية ابن وطمر بكسر الطاء والميم وتشديد الراء هما جبلان ببطن نخلة وابنا طمار ثنيتان ",
+                "title": "ابنا طمر",
+                "uri": "JK_000129_000154"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

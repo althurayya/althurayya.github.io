@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.76527,
+                    34.9938
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.99380",
+                    "coord_lon": "-5.76527",
+                    "cornu_URI": "WADISAFDAD_057W349N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي سفدد",
+                    "toponym_arabic_other": "وادي سفدد",
+                    "toponym_buckwalter": "Wadi Safdad",
+                    "toponym_search": "Wadi Safdad",
+                    "toponym_translit": "Wādī Safdad",
+                    "toponym_translit_other": "Wādī Safdad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

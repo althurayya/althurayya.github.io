@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009829",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.272",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فلجرد</h1> بالفتح ثم السكون والجيم مفتوحة وراء ساكنة ودال مهملة من بلاد الفرس ",
+                "title": "فلجرد",
+                "uri": "JK_000129_009829"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

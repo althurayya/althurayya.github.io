@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005110",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.446",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ددن</h1> موضع في قول ابن مقبل يثنين أعناق أدم يختلين بها حب الأراك وحب الضال من ددن ويروى من دنن والله أعلم بالصواب وإليه المرجع والمآب ",
+                "title": "ددن",
+                "uri": "JK_000129_005110"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

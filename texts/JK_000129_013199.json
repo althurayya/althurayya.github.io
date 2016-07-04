@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013199",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.357",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوباءة</h1> موضع في وادي نخلة اليمانية عنده يكون مجتمع حاج البحرين واليمن وعمان والخط ",
+                "title": "الوباءة",
+                "uri": "JK_000129_013199"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

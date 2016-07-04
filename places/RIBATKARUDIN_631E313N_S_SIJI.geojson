@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.14407,
+                    31.38151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.38151",
+                    "coord_lon": "63.14407",
+                    "cornu_URI": "RIBATKARUDIN_631E313N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط كرودين",
+                    "toponym_arabic_other": "رباط كرودين",
+                    "toponym_buckwalter": "Ribat Karudin",
+                    "toponym_search": "Ribat Karudin",
+                    "toponym_translit": "Ribāṭ Karūdīn",
+                    "toponym_translit_other": "Ribāṭ Karūdīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

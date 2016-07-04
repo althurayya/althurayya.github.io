@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.94813,
+                    13.88026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.88026",
+                    "coord_lon": "43.94813",
+                    "cornu_URI": "JABALHIMYAR_439E138N_O_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل حمير",
+                    "toponym_arabic_other": "جبل حمير",
+                    "toponym_buckwalter": "Jabal Himyar",
+                    "toponym_search": "Jabal Himyar",
+                    "toponym_translit": "Ǧabal Ḥimyar",
+                    "toponym_translit_other": "Ǧabal Ḥimyar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.77226,
+                    32.19607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.19607",
+                    "coord_lon": "46.77226",
+                    "cornu_URI": "SIKR_467E321N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلسكر",
+                    "toponym_arabic_other": "ﭐلسكر",
+                    "toponym_buckwalter": "al-Sikr",
+                    "toponym_search": "al-Sikr",
+                    "toponym_translit": "al-Sikr",
+                    "toponym_translit_other": "al-Sikr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

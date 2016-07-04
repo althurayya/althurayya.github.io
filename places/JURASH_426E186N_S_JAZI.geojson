@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.69682,
+                    18.63711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "18.63711",
+                    "coord_lon": "42.69682",
+                    "cornu_URI": "JURASH_426E186N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرش",
+                    "toponym_arabic_other": "جرش",
+                    "toponym_buckwalter": "Jurash",
+                    "toponym_search": "Jurash",
+                    "toponym_translit": "Ǧuraš",
+                    "toponym_translit_other": "Ǧuraš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

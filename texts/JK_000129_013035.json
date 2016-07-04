@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013035",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر سابا</h1> بسين مهملة وبعد الألف باء موحدة وألف مقصورة وهو نهر بتل موزن بالجزيرة ",
+                "title": "نهر سابا",
+                "uri": "JK_000129_013035"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

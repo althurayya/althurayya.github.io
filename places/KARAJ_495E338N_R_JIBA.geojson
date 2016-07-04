@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.54697,
+                    33.88116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.88116",
+                    "coord_lon": "49.54697",
+                    "cornu_URI": "KARAJ_495E338N_R_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "ﭐلكرج",
+                    "toponym_arabic_other": "ﭐلكرج، كرج أبو دلف",
+                    "toponym_buckwalter": "al-Karaj, Karaj Abu Dulaf",
+                    "toponym_search": "al-Karaj, Karaj Abu Dulaf",
+                    "toponym_translit": "al-Karaǧ",
+                    "toponym_translit_other": "al-Karaǧ, Karaǧ Abū Dulaf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

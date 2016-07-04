@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006691",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.215",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سرماج</h1> قلعة حصينة بين همذان وخوزستان في الجبال كانت لبدر بن حسنويه الكردي صاحب سابور خواست وهي من أحصن قلاعه وأشدها امتناعا ",
+                "title": "سرماج",
+                "uri": "JK_000129_006691"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

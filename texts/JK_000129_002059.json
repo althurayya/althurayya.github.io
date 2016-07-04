@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002059",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.455-456",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بغاث</h1> بالكسر وآخره ثاء مثلثة برق بيض في أقصى بلاد أبي بكر بن كلاب |جـ 1 صـ 456| ",
+                "title": "بغاث",
+                "uri": "JK_000129_002059"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

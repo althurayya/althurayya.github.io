@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010110",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قربة</h1> بالضم ثم الفتح وباء موحدة بوزن همزة لمزة من القرب اسم واد عن الجوهري ",
+                "title": "قربة",
+                "uri": "JK_000129_010110"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

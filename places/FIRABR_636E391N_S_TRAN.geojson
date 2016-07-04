@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.61874,
+                    39.17015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.17015",
+                    "coord_lon": "63.61874",
+                    "cornu_URI": "FIRABR_636E391N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "فربر",
+                    "toponym_arabic_other": "فربر",
+                    "toponym_buckwalter": "Firabr",
+                    "toponym_search": "Firabr",
+                    "toponym_translit": "Firabr",
+                    "toponym_translit_other": "Firabr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.17518,
+                    36.19828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.19828",
+                    "coord_lon": "37.17518",
+                    "cornu_URI": "HALAB_371E361N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "حلب",
+                    "toponym_arabic_other": "حلب",
+                    "toponym_buckwalter": "Halab",
+                    "toponym_search": "Halab",
+                    "toponym_translit": "Ḥalab",
+                    "toponym_translit_other": "Ḥalab"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

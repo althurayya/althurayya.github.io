@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001632",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.372",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برثان</h1> بالفتح ثم السكون والثاء المثلثة وألف ونون واد بين ملل وأولات الجيش كان عليه طريق النبي صلى الله عليه وسلم إلى بدر وبه كان أحد منازله ",
+                "title": "برثان",
+                "uri": "JK_000129_001632"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

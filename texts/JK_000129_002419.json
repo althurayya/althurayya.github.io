@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002419",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.534",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بيما</h1> بالكسر ثم بالفتح والقصر قال نصر هو صقع من بلاد الكفر متاخم لصعيد مصر فتح في دولة بني العباس في أيام المعتضد أو قبيلها ",
+                "title": "بيما",
+                "uri": "JK_000129_002419"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

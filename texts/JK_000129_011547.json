@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011547",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.58",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المجزل</h1> بضم الميم وفتح الجيم وتشديد الزاي ولام جبل أو روضة باليمامة وثم جبل يقال له بلبول والجزل القطع والمجزل المقطع ",
+                "title": "المجزل",
+                "uri": "JK_000129_011547"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

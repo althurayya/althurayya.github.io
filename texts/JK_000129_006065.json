@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006065",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.105",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرويحان</h1> كأنه تصغير مثنى الريح موضع بفارس ",
+                "title": "الرويحان",
+                "uri": "JK_000129_006065"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

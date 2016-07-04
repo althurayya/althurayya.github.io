@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005497",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.7",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذموران</h1> قرية باليمن لها خبر ذكر مع دلان ",
+                "title": "ذموران",
+                "uri": "JK_000129_005497"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

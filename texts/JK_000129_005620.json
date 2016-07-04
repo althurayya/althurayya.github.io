@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005620",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.23",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رباب</h1> جبل بين المدينة وفيد على طريق كان يسلك قديما يذكر مع جبل آخر يقال له خولة مقابل له وهما عن يمين الطريق ويساره ",
+                "title": "رباب",
+                "uri": "JK_000129_005620"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

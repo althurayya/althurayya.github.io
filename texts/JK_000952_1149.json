@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_1149",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.2, pp.216-217",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>الحزي</h1> بضم الحاء المهملة والزاي المشددة هذه النسبة إلى حزة وهي مدينة عند الموصل بالجزيرة بناها أردشير بن بابك منها |جـ 2 صـ 217| ",
+                "title": "الحزي",
+                "uri": "JK_000952_1149"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

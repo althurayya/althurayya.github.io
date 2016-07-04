@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000778",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.218",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أطرابنش</h1> بكسر الباء الموحدة والنون والشين معجمة بلدة على ساحل جزيرة صقلية ومنها يقلع إلى إفريقية ",
+                "title": "أطرابنش",
+                "uri": "JK_000129_000778"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

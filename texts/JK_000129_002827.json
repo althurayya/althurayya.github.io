@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002827",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.72",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الثباج</h1> بالفتح والتشديد موضع ذكر في الشعر والثبج من كل شيء وسطه ",
+                "title": "الثباج",
+                "uri": "JK_000129_002827"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.7988,
+                    26.47449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.47449",
+                    "coord_lon": "31.79880",
+                    "cornu_URI": "ABSHAYA_317E264N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "أبشاية",
+                    "toponym_arabic_other": "أبشاية",
+                    "toponym_buckwalter": "Abshaya",
+                    "toponym_search": "Abshaya",
+                    "toponym_translit": "Abšāyaŧ",
+                    "toponym_translit_other": "Abšāyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

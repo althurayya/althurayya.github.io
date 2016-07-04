@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.88682,
+                    42.94872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.94872",
+                    "coord_lon": "59.88682",
+                    "cornu_URI": "JUWIQAN_598E429N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جويقان",
+                    "toponym_arabic_other": "جويقان",
+                    "toponym_buckwalter": "Juwiqan",
+                    "toponym_search": "Juwiqan",
+                    "toponym_translit": "Ǧuwīqān",
+                    "toponym_translit_other": "Ǧuwīqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

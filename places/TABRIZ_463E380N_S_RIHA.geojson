@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.33121,
+                    38.06387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.06387",
+                    "coord_lon": "46.33121",
+                    "cornu_URI": "TABRIZ_463E380N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تبريز",
+                    "toponym_arabic_other": "تبريز",
+                    "toponym_buckwalter": "Tabriz",
+                    "toponym_search": "Tabriz",
+                    "toponym_translit": "Tabrīz",
+                    "toponym_translit_other": "Tabrīz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011187",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.498",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كيفانة</h1> مدينة بالسند بينها وبين البحر نحو فرسخين وبينها وبين قامهل أربع مراحل وبينها وبين سندان نحو خمس مراحل ",
+                "title": "كيفانة",
+                "uri": "JK_000129_011187"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.19954,
+                    35.00944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.00944",
+                    "coord_lon": "50.19954",
+                    "cornu_URI": "DARWADH_501E350N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "درواذ",
+                    "toponym_arabic_other": "درواذ",
+                    "toponym_buckwalter": "Darwadh",
+                    "toponym_search": "Darwadh",
+                    "toponym_translit": "Darwāḏ",
+                    "toponym_translit_other": "Darwāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.57097,
+                    30.41776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.41776",
+                    "coord_lon": "31.57097",
+                    "cornu_URI": "BILBAYS_315E304N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "بلبيس",
+                    "toponym_arabic_other": "بلبيس",
+                    "toponym_buckwalter": "Bilbays",
+                    "toponym_search": "Bilbays",
+                    "toponym_translit": "Bilbays",
+                    "toponym_translit_other": "Bilbays"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

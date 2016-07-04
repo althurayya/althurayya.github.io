@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001306",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.316",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باحسيثا</h1> بكسر السين المهملة وياء ساكنة وثاء مثقلة وألف محلة كبيرة من محال حلب في شماليها ينسب إليها قوم وأهلها على مذهب السنة ",
+                "title": "باحسيثا",
+                "uri": "JK_000129_001306"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

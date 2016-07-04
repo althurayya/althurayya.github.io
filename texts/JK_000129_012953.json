@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012953",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.309",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نوبة</h1> موضع على ثلاثة أيام من المدينة له ذكر في المغازي ونوبة أيضا ناحية من بحر تهامة تسمى بالنوبة لأنهم سكنوها ",
+                "title": "نوبة",
+                "uri": "JK_000129_012953"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

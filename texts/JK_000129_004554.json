@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004554",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.360",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خرقان</h1> بفتح أوله وتشديد ثانيه وفتحه وقاف وآخره نون قرية من قرى همذان ثم أضيفت إلى قزوين ",
+                "title": "خرقان",
+                "uri": "JK_000129_004554"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

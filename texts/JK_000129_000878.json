@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000878",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.236",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أقرن</h1> بضم الراء موضع في قول امرىء القيس لما سما من بين أقرن فال أحيال قتل له فدى أهلي ",
+                "title": "أقرن",
+                "uri": "JK_000129_000878"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

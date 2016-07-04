@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006671",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.211",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سرر</h1> بالتحريك يقال قناة سراء أي جوفاء بينة السرر قال نصر السرر واد يدفع من اليمامة إلى أرض حضر موت وبعير أسر بين السرر إذا كان بكر كرته دبرة ",
+                "title": "سرر",
+                "uri": "JK_000129_006671"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

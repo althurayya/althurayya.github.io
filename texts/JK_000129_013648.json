@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013648",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.426-427",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ياية</h1> بعد الألف ياء أيضا قرية باليمامة من حجر والله أعلم بالصواب |جـ 5 صـ 427| ",
+                "title": "ياية",
+                "uri": "JK_000129_013648"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

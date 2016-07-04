@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.34306,
+                    27.69666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.69666",
+                    "coord_lon": "52.34306",
+                    "cornu_URI": "SIRAF_523E276N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "سيراف",
+                    "toponym_arabic_other": "سيراف",
+                    "toponym_buckwalter": "Siraf",
+                    "toponym_search": "Siraf",
+                    "toponym_translit": "Sīrāf",
+                    "toponym_translit_other": "Sīrāf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

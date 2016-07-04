@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003568",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.197",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جيدة</h1> موضع بالحجاز قال ابن السكيت وقد رواه بعضهم حيدة وهو تصحيف قال كثير ومر فأروى ينبعا فجنوبه وقد جيد منه جيدة فعباثر ",
+                "title": "جيدة",
+                "uri": "JK_000129_003568"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

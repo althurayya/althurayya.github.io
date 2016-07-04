@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006874",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.238",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سلمنت</h1> بالفتح ثم السكون وضم الميم وسكون النون وتاء مثناة موضع قرب عين شمس من نواحي مصر ",
+                "title": "سلمنت",
+                "uri": "JK_000129_006874"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

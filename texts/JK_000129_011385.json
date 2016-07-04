@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011385",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.28",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ليع</h1> بالكسر هو أيضا منقول من فعل ما لم يسم فاعله من لاع يلاع إذا ضجر وحزن وجزع موضع ",
+                "title": "ليع",
+                "uri": "JK_000129_011385"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

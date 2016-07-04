@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003476",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.182",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>جوزان</h1> بالفتح ثم السكون والزاي والألف والنون قرية من مخلاف بعدان باليمن ",
+                "title": "جوزان",
+                "uri": "JK_000129_003476"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

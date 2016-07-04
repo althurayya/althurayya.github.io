@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002782",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.65",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تيرب</h1> بالفتح قال الزمخشري وتلميذه العمراني تيرب بلد قديم من حجر اليمامة ذكراه في باب التاء وأخاف أن يكون يترب أوله ياء فصحفاه ",
+                "title": "تيرب",
+                "uri": "JK_000129_002782"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

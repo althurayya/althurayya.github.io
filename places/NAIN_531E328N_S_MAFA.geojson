@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.11258,
+                    32.84212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.84212",
+                    "coord_lon": "53.11258",
+                    "cornu_URI": "NAIN_531E328N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape?",
+                    "toponym_arabic": "نائين",
+                    "toponym_arabic_other": "نائين",
+                    "toponym_buckwalter": "Nain",
+                    "toponym_search": "Nain",
+                    "toponym_translit": "Nāʾīn",
+                    "toponym_translit_other": "Nāʾīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

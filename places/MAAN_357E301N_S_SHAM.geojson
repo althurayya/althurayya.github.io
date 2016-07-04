@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.72442,
+                    30.19664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.19664",
+                    "coord_lon": "35.72442",
+                    "cornu_URI": "MAAN_357E301N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "معان",
+                    "toponym_arabic_other": "معان، معان",
+                    "toponym_buckwalter": "Maan, Muan",
+                    "toponym_search": "Maan, Muan",
+                    "toponym_translit": "Maʿān",
+                    "toponym_translit_other": "Maʿān, Muʿān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

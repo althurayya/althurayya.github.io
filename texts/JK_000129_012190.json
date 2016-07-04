@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012190",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.173",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مقذ</h1> بالتحريك وتشديد الذال المعجمة المقذ في اللغة منقطع الشعر من مؤخر القفا وأصل القذ القطع وهو اسم موضع جاء في الشعر ",
+                "title": "مقذ",
+                "uri": "JK_000129_012190"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

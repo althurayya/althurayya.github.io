@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.70323,
+                    29.36324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.36324",
+                    "coord_lon": "53.70323",
+                    "cornu_URI": "KATH_537E293N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كث",
+                    "toponym_arabic_other": "كث",
+                    "toponym_buckwalter": "Kath",
+                    "toponym_search": "Kath",
+                    "toponym_translit": "Kaṯ",
+                    "toponym_translit_other": "Kaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

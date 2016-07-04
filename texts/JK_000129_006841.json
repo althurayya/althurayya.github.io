@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006841",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.234",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سلام</h1> بضم أوله وهو مرتجل موضع عند قصر مقاتل بين عين التمر والشام عن نصر وقال غيره السلام منزل بعد قصر بني مقاتل للمغرب الذي يطلب السماوة ",
+                "title": "سلام",
+                "uri": "JK_000129_006841"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

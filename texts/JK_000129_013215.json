@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013215",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.362",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وجر</h1> بفتح أوله وسكون ثانيه وراء الوجر أن توجر ماء أو دواء في وسط حلق الصبي والوجر الخوف ووجر جبل بين أجإ وسلمى ",
+                "title": "وجر",
+                "uri": "JK_000129_013215"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

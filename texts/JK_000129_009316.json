@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009316",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.185",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غبر</h1> بوزن زفر يجوز أن يكون معدولا عن الغابر وهو الباقي والغابر الماضي ووادي غبر عند حجر ثمود بين المدينة والشام ",
+                "title": "غبر",
+                "uri": "JK_000129_009316"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

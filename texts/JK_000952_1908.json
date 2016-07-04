@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_1908",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.3, p.144",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>زربي</h1> بفتح الزاي وسكون الراء وكسر الباء المنقوطة من تحتها بنقطة هذه اللفظة تشبه النسبة وهو اسم زربي يروي عن أنس بن مالك رضي الله عنه وسعيد بن زربي ",
+                "title": "زربي",
+                "uri": "JK_000952_1908"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

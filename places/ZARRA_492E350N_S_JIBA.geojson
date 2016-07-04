@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.23165,
+                    35.06556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.06556",
+                    "coord_lon": "49.23165",
+                    "cornu_URI": "ZARRA_492E350N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "زرة",
+                    "toponym_arabic_other": "زرة",
+                    "toponym_buckwalter": "Zarra",
+                    "toponym_search": "Zarra",
+                    "toponym_translit": "Zarraŧ",
+                    "toponym_translit_other": "Zarraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

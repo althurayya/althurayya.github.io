@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.46327,
+                    27.73026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.73026",
+                    "coord_lon": "37.46327",
+                    "cornu_URI": "MUHDATHA_374E277N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلمحدثة",
+                    "toponym_arabic_other": "ﭐلمحدثة",
+                    "toponym_buckwalter": "al-Muhdatha",
+                    "toponym_search": "al-Muhdatha",
+                    "toponym_translit": "al-Muḥdaṯaŧ",
+                    "toponym_translit_other": "al-Muḥdaṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000901",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.239",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأكاحل</h1> جمع كحل موضع في بلاد مزينة قال معن بن أوس المزني أعاذل من يحتل فيفا وفيحة وثورا ومن يحمي الأكاحل بعدنا ",
+                "title": "الأكاحل",
+                "uri": "JK_000129_000901"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

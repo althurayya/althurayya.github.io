@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002792",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.66",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>تيزين</h1> بعد الزاي ياء ساكنة ونون قرية كبيرة من نواحي حلب كانت تعد من أعمال قنسرين ثم صارت في أيام الرشيد من العواصم مع منبج وغيرها ",
+                "title": "تيزين",
+                "uri": "JK_000129_002792"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005360",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.492",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دهروط</h1> بفتح أوله وسكون ثانيه وآخره طاء مهملة بليد على شاطىء غربي النيل من ناحية الصعيد قرب البهنسا ",
+                "title": "دهروط",
+                "uri": "JK_000129_005360"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

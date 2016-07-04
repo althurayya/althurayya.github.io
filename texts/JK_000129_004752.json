@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004752",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.388",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الخليل</h1> تصغير الخل موضع قال أبو أحمد ألست بفارس يوم الخليل غداة فقدناك من فارس ",
+                "title": "الخليل",
+                "uri": "JK_000129_004752"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

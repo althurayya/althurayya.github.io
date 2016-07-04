@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011615",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.67",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المحيلية</h1> تصغير محلية من حلاه عن الشيء إذا صده موضع عن جار الله عن علي ",
+                "title": "المحيلية",
+                "uri": "JK_000129_011615"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

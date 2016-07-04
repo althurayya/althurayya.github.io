@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008412",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.36",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طلبان</h1> بالتحريك وآخره نون بلفظ تثنية الطلب مدينة ",
+                "title": "طلبان",
+                "uri": "JK_000129_008412"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

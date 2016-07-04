@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012710",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.272",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نجوة</h1> بمعنى الموضع المرتفع بفتح أوله وسكون ثانية وفتح الواو ونجوة بني فياض بالبحرين قرية لعبد القيس ",
+                "title": "نجوة",
+                "uri": "JK_000129_012710"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

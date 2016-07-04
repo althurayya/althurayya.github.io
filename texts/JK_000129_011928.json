@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011928",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.122-123",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مزيد</h1> بالفتح ثم السكون وفتح الياء بنقطتين من تحت حلة بني مزيد ذكرت في حلة |جـ 5 صـ 123| ",
+                "title": "مزيد",
+                "uri": "JK_000129_011928"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

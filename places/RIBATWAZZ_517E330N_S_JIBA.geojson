@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.77613,
+                    33.08075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.08075",
+                    "coord_lon": "51.77613",
+                    "cornu_URI": "RIBATWAZZ_517E330N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رباط وز",
+                    "toponym_arabic_other": "رباط وز",
+                    "toponym_buckwalter": "Ribat Wazz",
+                    "toponym_search": "Ribat Wazz",
+                    "toponym_translit": "Ribāṭ Wazz",
+                    "toponym_translit_other": "Ribāṭ Wazz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

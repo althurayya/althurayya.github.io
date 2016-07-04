@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001600",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.365",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>براق سلمى</h1> قال المفضل النكري صبحنا عامرا ببراق سلمى طعانا مثل أفواه المزاد ",
+                "title": "براق سلمى",
+                "uri": "JK_000129_001600"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

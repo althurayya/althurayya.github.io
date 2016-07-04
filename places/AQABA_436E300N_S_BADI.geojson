@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.61471,
+                    30.09074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.09074",
+                    "coord_lon": "43.61471",
+                    "cornu_URI": "AQABA_436E300N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلعقبة",
+                    "toponym_arabic_other": "ﭐلعقبة",
+                    "toponym_buckwalter": "al-Aqaba",
+                    "toponym_search": "al-Aqaba",
+                    "toponym_translit": "al-ʿAqabaŧ",
+                    "toponym_translit_other": "al-ʿAqabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

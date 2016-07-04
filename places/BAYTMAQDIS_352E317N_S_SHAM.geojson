@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.20345,
+                    31.77768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.77768",
+                    "coord_lon": "35.20345",
+                    "cornu_URI": "BAYTMAQDIS_352E317N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيت ﭐلمقدس",
+                    "toponym_arabic_other": "بيت ﭐلمقدس، ﭐلقدس، إيليا",
+                    "toponym_buckwalter": "Bayt al-Maqdis, al-Quds, Iliya",
+                    "toponym_search": "Bayt al-Maqdis, al-Quds, Iliya",
+                    "toponym_translit": "Bayt al-Maqdis",
+                    "toponym_translit_other": "Bayt al-Maqdis, al-Quds, Īliyā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000317",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.118",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أخا</h1> بالضم وتشديد الخاء والقصر كلمة نبطية ناحية من نواحي البصرة في شرقي دجلة ذات أنهار وقرى ",
+                "title": "أخا",
+                "uri": "JK_000129_000317"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

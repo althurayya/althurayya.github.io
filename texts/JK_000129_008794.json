@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008794",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.99",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العرجة</h1> بكسر الراء من مياه بني نمير كانت لعمير بن الخصم الذي كان يتغنى بقدور عن المرزباني ",
+                "title": "العرجة",
+                "uri": "JK_000129_008794"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

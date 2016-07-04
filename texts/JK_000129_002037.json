@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002037",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.448",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بطن أعدا</h1> البطن الغامض من الأرض وجمعه بطنان مثل عبدو عبدان وهو موضع له ذكر في حديث الهجرة أنه سلك منه إلى مدلجة تعهن ",
+                "title": "بطن أعدا",
+                "uri": "JK_000129_002037"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

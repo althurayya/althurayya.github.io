@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.80678,
+                    16.03244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.03244",
+                    "coord_lon": "43.80678",
+                    "cornu_URI": "WADIA_438E160N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "وادعة",
+                    "toponym_arabic_other": "وادعة",
+                    "toponym_buckwalter": "Wadia",
+                    "toponym_search": "Wadia",
+                    "toponym_translit": "Wādiʿaŧ",
+                    "toponym_translit_other": "Wādiʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

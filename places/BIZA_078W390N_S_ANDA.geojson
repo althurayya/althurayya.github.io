@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.87188,
+                    39.02806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.02806",
+                    "coord_lon": "-7.87188",
+                    "cornu_URI": "BIZA_078W390N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيزة",
+                    "toponym_arabic_other": "بيزة",
+                    "toponym_buckwalter": "Biza",
+                    "toponym_search": "Biza",
+                    "toponym_translit": "Bīzaŧ",
+                    "toponym_translit_other": "Bīzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

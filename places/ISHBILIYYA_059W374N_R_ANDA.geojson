@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.96199,
+                    37.4079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.40790",
+                    "coord_lon": "-5.96199",
+                    "cornu_URI": "ISHBILIYYA_059W374N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "إشبيلية",
+                    "toponym_arabic_other": "إشبيلية",
+                    "toponym_buckwalter": "Ishbiliyya",
+                    "toponym_search": "Ishbiliyya",
+                    "toponym_translit": "Išbīliyyaŧ",
+                    "toponym_translit_other": "Išbīliyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

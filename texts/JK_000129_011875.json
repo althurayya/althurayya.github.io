@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011875",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.110",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مرمل</h1> مخلاف باليمن منه خرجت النار التي أحرقت الجنة التي ذكرها الله في كتابه ",
+                "title": "مرمل",
+                "uri": "JK_000129_011875"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

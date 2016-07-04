@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.4995,
+                    12.6926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "12.69260",
+                    "coord_lon": "43.49950",
+                    "cornu_URI": "MANDAB_434E126N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "port",
+                    "toponym_arabic": "ﭐلمندب",
+                    "toponym_arabic_other": "ﭐلمندب",
+                    "toponym_buckwalter": "al-Mandab",
+                    "toponym_search": "al-Mandab",
+                    "toponym_translit": "al-Mandab",
+                    "toponym_translit_other": "al-Mandab"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009366",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.193",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غرديان</h1> بالفتح ثم السكون وكسر الدال المهملة وياء مثناة من تحت وآخره نون قرية من قرى كس بما وراء نهر جيحون ",
+                "title": "غرديان",
+                "uri": "JK_000129_009366"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

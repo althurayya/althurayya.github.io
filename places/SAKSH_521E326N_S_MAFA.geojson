@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.1233,
+                    32.69688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.69688",
+                    "coord_lon": "52.12330",
+                    "cornu_URI": "SAKSH_521E326N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سكش",
+                    "toponym_arabic_other": "سكش",
+                    "toponym_buckwalter": "Saksh",
+                    "toponym_search": "Saksh",
+                    "toponym_translit": "Sakš",
+                    "toponym_translit_other": "Sakš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

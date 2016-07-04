@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006596",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.195",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السحيلة</h1> مثل الذي قبله وزيادة هاء في آخره اسم قلعة حصينة في قبلي بيت المقدس وهي من عمله ",
+                "title": "السحيلة",
+                "uri": "JK_000129_006596"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

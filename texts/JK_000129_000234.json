@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000234",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.94",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأثيل</h1> أيضا موضع في ذلك الصقع أكثره لبني ضمرة من كنانة ",
+                "title": "الأثيل",
+                "uri": "JK_000129_000234"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

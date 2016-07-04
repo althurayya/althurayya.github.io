@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012617",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.253",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ناعجة</h1> بالجيم قال أبو خيرة الناعجة من الأرض السهلة المستوية مكرمة للنبات تنبت الرمث ويوم ناعجة من أيام العرب ",
+                "title": "ناعجة",
+                "uri": "JK_000129_012617"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

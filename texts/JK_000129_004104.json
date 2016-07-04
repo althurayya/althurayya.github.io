@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004104",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.279",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حقل</h1> قرية لبني درماء من طيء في أجإ ",
+                "title": "حقل",
+                "uri": "JK_000129_004104"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

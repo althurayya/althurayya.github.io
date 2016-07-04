@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.78604,
+                    27.3269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.32690",
+                    "coord_lon": "35.78604",
+                    "cornu_URI": "DABBA_357E273N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ضبا",
+                    "toponym_arabic_other": "ضبا، ظبا",
+                    "toponym_buckwalter": "Dabba, Zabba",
+                    "toponym_search": "Dabba, Zabba",
+                    "toponym_translit": "Ḍabbā",
+                    "toponym_translit_other": "Ḍabbā, Ẓabbā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

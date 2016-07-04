@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.98591,
+                    37.72041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.72041",
+                    "coord_lon": "45.98591",
+                    "cornu_URI": "DAKHARRAQAN_459E377N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "داخرقان",
+                    "toponym_arabic_other": "داخرقان، خرقان",
+                    "toponym_buckwalter": "Dakharraqan, Kharraqan",
+                    "toponym_search": "Dakharraqan, Kharraqan",
+                    "toponym_translit": "Dāḫarraqān",
+                    "toponym_translit_other": "Dāḫarraqān, Ḫarraqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

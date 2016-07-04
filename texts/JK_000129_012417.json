@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012417",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.218",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>منية الأصبغ</h1> في شرقي مصر منسوبة إلى الأصبغ بن عبد العزيز بن مروان أخي عمر بن عبد العزيز بن مروان ",
+                "title": "منية الأصبغ",
+                "uri": "JK_000129_012417"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

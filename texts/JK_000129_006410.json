@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006410",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.163",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الزيتونة</h1> موضع كان ينزله هشام بن عبد الملك في بادية الشام فلما عمر الرصافة انتقل إليها فكانت منزله إلى أن مات ",
+                "title": "الزيتونة",
+                "uri": "JK_000129_006410"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

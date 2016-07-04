@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012916",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.304",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>النمارة</h1> بالضم وآخره هاء وهو من الذي قبله موضع كان فيه وقعة لهم قال النابغة وما رأيتك إلا نظرة عرضت يوم النمارة والمأمور مأمور ",
+                "title": "النمارة",
+                "uri": "JK_000129_012916"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

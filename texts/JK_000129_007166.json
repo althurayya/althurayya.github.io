@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007166",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.288",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سويقة الهيثم</h1> بغربي بغداد تنسب إلى الهيثم بن سعيد ابن ظهير مولى المنصور وهي قرب مدينة المنصور ",
+                "title": "سويقة الهيثم",
+                "uri": "JK_000129_007166"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

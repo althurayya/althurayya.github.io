@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007325",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.313",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شامكان</h1> من قرى نيسابور ينسب إليها أبو المطهر عبد المنعم بن نصر الحراني ذكر في حران ",
+                "title": "شامكان",
+                "uri": "JK_000129_007325"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

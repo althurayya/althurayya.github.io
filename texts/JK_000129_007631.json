@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007631",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.356",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شقى</h1> موضع بأرمينية وكان الأصمعي يقول شكى بالكاف وبتشديده ويذكر فيه القاف ",
+                "title": "شقى",
+                "uri": "JK_000129_007631"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

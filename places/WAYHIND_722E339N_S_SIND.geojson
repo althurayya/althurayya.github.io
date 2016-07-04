@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.24681,
+                    33.90757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.90757",
+                    "coord_lon": "72.24681",
+                    "cornu_URI": "WAYHIND_722E339N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ويهند",
+                    "toponym_arabic_other": "ويهند",
+                    "toponym_buckwalter": "Wayhind",
+                    "toponym_search": "Wayhind",
+                    "toponym_translit": "Wayhind",
+                    "toponym_translit_other": "Wayhind"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

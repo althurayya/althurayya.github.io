@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.48925,
+                    19.08509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.08509",
+                    "coord_lon": "41.48925",
+                    "cornu_URI": "WADIYABA_414E190N_W_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي يبة",
+                    "toponym_arabic_other": "وادي يبة",
+                    "toponym_buckwalter": "Wadi Yaba",
+                    "toponym_search": "Wadi Yaba",
+                    "toponym_translit": "Wādī Yabaŧ",
+                    "toponym_translit_other": "Wādī Yabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

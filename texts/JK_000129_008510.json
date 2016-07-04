@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008510",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.54",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طيخة</h1> بخاء معجمة موضع من أسافل ذي المروة بين ذي خشب ووادي القرى وقيل هو بحاء مهملة ",
+                "title": "طيخة",
+                "uri": "JK_000129_008510"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

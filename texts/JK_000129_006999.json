@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006999",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.261",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سنبوس</h1> بوزن طرسوس وقربوس موضع في بلاد الروم قرب سمندو له ذكر في أخبار سيف الدولة ",
+                "title": "سنبوس",
+                "uri": "JK_000129_006999"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

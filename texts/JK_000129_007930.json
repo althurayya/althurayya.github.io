@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007930",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.395",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الصخيرة</h1> تصغير الصخرة من الحجارة حصن بالأندلس من أعمال ماردة ",
+                "title": "الصخيرة",
+                "uri": "JK_000129_007930"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

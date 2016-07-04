@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.54135,
+                    39.08291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.08291",
+                    "coord_lon": "51.54135",
+                    "cornu_URI": "BAHRKHAZAR_515E390N_W_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab/Daylam",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحر ﭐلخزر",
+                    "toponym_arabic_other": "بحر ﭐلخزر",
+                    "toponym_buckwalter": "Bahr al-Khazar",
+                    "toponym_search": "Bahr al-Khazar",
+                    "toponym_translit": "Baḥr al-Ḫazar",
+                    "toponym_translit_other": "Baḥr al-Ḫazar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

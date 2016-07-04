@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.32428,
+                    35.62554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.62554",
+                    "coord_lon": "43.32428",
+                    "cornu_URI": "BAQIA_433E356N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلبقيعة",
+                    "toponym_arabic_other": "ﭐلبقيعة",
+                    "toponym_buckwalter": "al-Baqia",
+                    "toponym_search": "al-Baqia",
+                    "toponym_translit": "al-Baqīʿaŧ",
+                    "toponym_translit_other": "al-Baqīʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

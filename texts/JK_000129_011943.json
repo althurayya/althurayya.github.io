@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011943",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.123-124",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المسجدان</h1> إذا أطلق هذا اللفظ أريد به مسجدا مكة والمدينة وأما مساجد المدن الجوامع فتذكر |جـ 5 صـ 124| مع المدن ",
+                "title": "المسجدان",
+                "uri": "JK_000129_011943"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

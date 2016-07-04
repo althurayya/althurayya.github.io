@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001839",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.398-399",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>برقة نعمي</h1> قال الزمخشري واد بتهامة وقال النابغة أهاجك من أسماء ربع المنازل ببرقة نعمي فروض الأجاول |جـ 1 صـ 399| ",
+                "title": "برقة نعمي",
+                "uri": "JK_000129_001839"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

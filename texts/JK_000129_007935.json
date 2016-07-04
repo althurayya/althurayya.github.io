@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007935",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.396",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صداصد</h1> بالضم وبعد الألف صاد أخرى مكسورة ودال اسم جبل لهذيل ",
+                "title": "صداصد",
+                "uri": "JK_000129_007935"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

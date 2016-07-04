@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002067",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.462",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بغروند</h1> بفتح الواو وسكون النون والدال كذا وجدته مضبوطا بخط ابن برد الخيار وهو بلد معدود في أرمينية الثالثة ",
+                "title": "بغروند",
+                "uri": "JK_000129_002067"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

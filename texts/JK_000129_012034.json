@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012034",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.140",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مصقلة</h1> بلد بصقلية في طرف جبل النار ",
+                "title": "مصقلة",
+                "uri": "JK_000129_012034"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

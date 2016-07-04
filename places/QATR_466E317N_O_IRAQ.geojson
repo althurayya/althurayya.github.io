@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.62959,
+                    31.71519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.71519",
+                    "coord_lon": "46.62959",
+                    "cornu_URI": "QATR_466E317N_O_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "site",
+                    "toponym_arabic": "ﭐلقطر",
+                    "toponym_arabic_other": "ﭐلقطر",
+                    "toponym_buckwalter": "al-Qatr",
+                    "toponym_search": "al-Qatr",
+                    "toponym_translit": "al-Qaṭr",
+                    "toponym_translit_other": "al-Qaṭr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

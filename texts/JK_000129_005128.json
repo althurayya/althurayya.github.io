@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005128",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.448",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>درب القلة</h1> بضم القاف وتشديد اللام أظنه في بلاد الروم ذكره المتنبي فقال لقيت بدرب القلة الفجر لقية شفت كمدي والليل فيه قتيل ",
+                "title": "درب القلة",
+                "uri": "JK_000129_005128"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

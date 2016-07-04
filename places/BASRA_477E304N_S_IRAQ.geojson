@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.71735,
+                    30.40147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.40147",
+                    "coord_lon": "47.71735",
+                    "cornu_URI": "BASRA_477E304N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلبصرة",
+                    "toponym_arabic_other": "ﭐلبصرة",
+                    "toponym_buckwalter": "al-Basra",
+                    "toponym_search": "al-Basra",
+                    "toponym_translit": "al-Baṣraŧ",
+                    "toponym_translit_other": "al-Baṣraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

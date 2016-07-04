@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009163",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.162",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العنك</h1> موضع قال عمرو بن الأهتم إلى حيث حال الميث في كل روضة من العنك حواء المذانب محلال ",
+                "title": "العنك",
+                "uri": "JK_000129_009163"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

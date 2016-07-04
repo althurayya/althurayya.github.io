@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.3861,
+                    31.9686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.96860",
+                    "coord_lon": "62.38610",
+                    "cornu_URI": "JIZAH_623E319N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جزه",
+                    "toponym_arabic_other": "جزه، كزه",
+                    "toponym_buckwalter": "Jizah, Kizah",
+                    "toponym_search": "Jizah, Kizah",
+                    "toponym_translit": "Ǧizah",
+                    "toponym_translit_other": "Ǧizah, Kizah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.94102,
+                    24.72896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.72896",
+                    "coord_lon": "49.94102",
+                    "cornu_URI": "HAJAR_499E247N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلهجر",
+                    "toponym_arabic_other": "ﭐلهجر",
+                    "toponym_buckwalter": "al-Hajar",
+                    "toponym_search": "al-Hajar",
+                    "toponym_translit": "al-Haǧar",
+                    "toponym_translit_other": "al-Haǧar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

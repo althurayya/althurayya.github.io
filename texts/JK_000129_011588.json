@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011588",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.63",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>محلة أبي الهيثم</h1> أظنها بالحوف من ديار مصر ",
+                "title": "محلة أبي الهيثم",
+                "uri": "JK_000129_011588"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

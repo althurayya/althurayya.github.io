@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.45848,
+                    39.51566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.51566",
+                    "coord_lon": "69.45848",
+                    "cornu_URI": "MASHA_694E395N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "مسحا",
+                    "toponym_arabic_other": "مسحا",
+                    "toponym_buckwalter": "Masha",
+                    "toponym_search": "Masha",
+                    "toponym_translit": "Masḥā",
+                    "toponym_translit_other": "Masḥā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

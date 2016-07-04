@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005997",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.89",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>روضة الخرج</h1> بضم الخاء وسكون الراء وجيم من نواحي المدينة قال حصن بن مدلج الخثعمي ولم أنس منها نظرة أسرت بها بروضة خرج قلب صب متيم ",
+                "title": "روضة الخرج",
+                "uri": "JK_000129_005997"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

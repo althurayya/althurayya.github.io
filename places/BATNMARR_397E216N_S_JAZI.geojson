@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.73935,
+                    21.64499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.64499",
+                    "coord_lon": "39.73935",
+                    "cornu_URI": "BATNMARR_397E216N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "بطن مر",
+                    "toponym_arabic_other": "بطن مر",
+                    "toponym_buckwalter": "Batn Marr",
+                    "toponym_search": "Batn Marr",
+                    "toponym_translit": "Baṭn Marr",
+                    "toponym_translit_other": "Baṭn Marr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

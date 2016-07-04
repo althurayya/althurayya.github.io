@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000645",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.181",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أسقفة</h1> بالضم وباقيه مثل الذي قبله وزيادة الهاء رستاق نزه بشجر نضر بالأندلس وقصبته غافق ",
+                "title": "أسقفة",
+                "uri": "JK_000129_000645"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

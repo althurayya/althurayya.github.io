@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.13142,
+                    31.14286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.14286",
+                    "coord_lon": "30.13142",
+                    "cornu_URI": "KARYUN_301E311N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلكريون",
+                    "toponym_arabic_other": "ﭐلكريون، كريون",
+                    "toponym_buckwalter": "al-Karyun, Kiryawn",
+                    "toponym_search": "al-Karyun, Kiryawn",
+                    "toponym_translit": "al-Karyūn",
+                    "toponym_translit_other": "al-Karyūn, Kiryawn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

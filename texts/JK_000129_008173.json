@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008173",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.450",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ضارب</h1> السلم وهو شجر مجتمع من السلم باليمامة يسمى الضارب ",
+                "title": "ضارب",
+                "uri": "JK_000129_008173"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009681",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.247",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الفرد</h1> بالكسر ثم السكون ثم دال مهملة علم مرتجل موضع عند بطن إياد من ديار يربوع بن حنظلة كانت به وقعة كذا ضبطه نصر ",
+                "title": "الفرد",
+                "uri": "JK_000129_009681"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

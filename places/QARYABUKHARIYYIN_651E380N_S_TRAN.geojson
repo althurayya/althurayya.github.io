@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.15512,
+                    38.07235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.07235",
+                    "coord_lon": "65.15512",
+                    "cornu_URI": "QARYABUKHARIYYIN_651E380N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلبخاريين",
+                    "toponym_arabic_other": "قرية ﭐلبخاريين",
+                    "toponym_buckwalter": "Qarya al-Bukhariyyin",
+                    "toponym_search": "Qarya al-Bukhariyyin",
+                    "toponym_translit": "Qaryaŧ al-Buḫāriyyīn",
+                    "toponym_translit_other": "Qaryaŧ al-Buḫāriyyīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

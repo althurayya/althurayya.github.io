@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005277",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.473",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الدناح</h1> بكسر أوله وآخره حاء مهملة موضع ذكر شاهده في الثعلبية فقال إذا ما سماء بالدناح تخايلت فإني على ماء الزبير أشيمها ",
+                "title": "الدناح",
+                "uri": "JK_000129_005277"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.25806,
+                    14.35515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.35515",
+                    "coord_lon": "43.25806",
+                    "cornu_URI": "RIMA_432E143N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "رماع",
+                    "toponym_arabic_other": "رماع",
+                    "toponym_buckwalter": "Rima",
+                    "toponym_search": "Rima",
+                    "toponym_translit": "Rimāʿ",
+                    "toponym_translit_other": "Rimāʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

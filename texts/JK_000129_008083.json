@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008083",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.424",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صنار</h1> بالكسر ثم التشديد وراء صنارة المغزل الحديدة المعقفة في رأسه وهو في ديار كلب بنواحي الشام ",
+                "title": "صنار",
+                "uri": "JK_000129_008083"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

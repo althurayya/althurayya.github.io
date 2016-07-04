@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.84322,
+                    36.18658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.18658",
+                    "coord_lon": "50.84322",
+                    "cornu_URI": "TALAQAN_508E361N_R_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "طلقان",
+                    "toponym_arabic_other": "طلقان",
+                    "toponym_buckwalter": "Talaqan",
+                    "toponym_search": "Talaqan",
+                    "toponym_translit": "Ṭalaqān",
+                    "toponym_translit_other": "Ṭalaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

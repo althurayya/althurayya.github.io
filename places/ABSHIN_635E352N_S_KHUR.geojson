@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.528,
+                    35.24882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.24882",
+                    "coord_lon": "63.52800",
+                    "cornu_URI": "ABSHIN_635E352N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أبشين",
+                    "toponym_arabic_other": "أبشين",
+                    "toponym_buckwalter": "Abshin",
+                    "toponym_search": "Abshin",
+                    "toponym_translit": "Abšīn",
+                    "toponym_translit_other": "Abšīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

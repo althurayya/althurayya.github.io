@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008254",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.464",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ضمير</h1> بفتح أوله وكسر ثانيه بلد بالشحر من أعمال عمان قرب دغوث ",
+                "title": "ضمير",
+                "uri": "JK_000129_008254"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

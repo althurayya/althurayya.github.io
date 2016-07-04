@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.1842,
+                    30.83786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.83786",
+                    "coord_lon": "62.18420",
+                    "cornu_URI": "NISHAK_621E308N_R_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نيشك",
+                    "toponym_arabic_other": "نيشك",
+                    "toponym_buckwalter": "Nishak",
+                    "toponym_search": "Nishak",
+                    "toponym_translit": "Nīšak",
+                    "toponym_translit_other": "Nīšak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

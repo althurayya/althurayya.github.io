@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009598",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.234",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فامين</h1> بالميم مكسورة وياء مثناة من تحت ونون من قرى بخارى ",
+                "title": "فامين",
+                "uri": "JK_000129_009598"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

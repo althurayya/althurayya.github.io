@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.21937,
+                    15.14685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.14685",
+                    "coord_lon": "50.21937",
+                    "cornu_URI": "MAHRA_502E151N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "مهرة",
+                    "toponym_arabic_other": "مهرة",
+                    "toponym_buckwalter": "Mahra",
+                    "toponym_search": "Mahra",
+                    "toponym_translit": "Mahraŧ",
+                    "toponym_translit_other": "Mahraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

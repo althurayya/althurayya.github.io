@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.41651,
+                    14.21583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.21583",
+                    "coord_lon": "44.41651",
+                    "cornu_URI": "YAHSIB_444E142N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "يحصب",
+                    "toponym_arabic_other": "يحصب",
+                    "toponym_buckwalter": "Yahsib",
+                    "toponym_search": "Yahsib",
+                    "toponym_translit": "Yaḥṣib",
+                    "toponym_translit_other": "Yaḥṣib"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010955",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.469",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كفرحجر</h1> بتقديم الحاء على الجيم وفتحهما بلد بالجزيرة ",
+                "title": "كفرحجر",
+                "uri": "JK_000129_010955"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

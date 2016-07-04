@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.24168,
+                    30.05778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.05778",
+                    "coord_lon": "31.24168",
+                    "cornu_URI": "QAHIRA_312E300N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "quarters",
+                    "top_type_orig": "quartier",
+                    "toponym_arabic": "ﭐلقاهرة",
+                    "toponym_arabic_other": "ﭐلقاهرة",
+                    "toponym_buckwalter": "al-Qahira",
+                    "toponym_search": "al-Qahira",
+                    "toponym_translit": "al-Qāhiraŧ",
+                    "toponym_translit_other": "al-Qāhiraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

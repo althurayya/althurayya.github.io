@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001038",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.259",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أنجل</h1> بالجيم بوزن أفعل موضع قريب من معدن النقرة قريب من ماوان وأريك ويروى بكسر الهمزة وياء عن نصر كله ",
+                "title": "أنجل",
+                "uri": "JK_000129_001038"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

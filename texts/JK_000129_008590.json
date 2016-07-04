@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008590",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.67",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العازرية</h1> بعد الألف زاي ثم راء وياء النسبة قرية بالبيت المقدس بها قبر العازر ",
+                "title": "العازرية",
+                "uri": "JK_000129_008590"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

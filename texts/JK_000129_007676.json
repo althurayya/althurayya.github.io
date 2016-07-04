@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007676",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.362",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الشمسين</h1> شمس ابن علي وشمس ابن طريق ماء ونخل بأرض اليمامة عن الحفصي ",
+                "title": "الشمسين",
+                "uri": "JK_000129_007676"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

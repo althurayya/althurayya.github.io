@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.51348,
+                    30.38241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.38241",
+                    "coord_lon": "31.51348",
+                    "cornu_URI": "GHAYFA_315E303N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غيفا",
+                    "toponym_arabic_other": "غيفا",
+                    "toponym_buckwalter": "Ghayfa",
+                    "toponym_search": "Ghayfa",
+                    "toponym_translit": "Ġayfā",
+                    "toponym_translit_other": "Ġayfā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

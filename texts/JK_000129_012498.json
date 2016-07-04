@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012498",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.230",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مهربارات</h1> من قرى أصبهان كان ينزلها محمد بن أحمد بن عبد الله بن جره المهربرتي سمع منه بها قتيبة بن سعيد ",
+                "title": "مهربارات",
+                "uri": "JK_000129_012498"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

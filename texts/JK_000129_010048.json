@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010048",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.310",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قتبان</h1> بالكسر ثم السكون وباء موحدة وآخره نون يجوز أن يكون جمع قتب مثل خرب وخربان موضع في نواحي عدن ",
+                "title": "قتبان",
+                "uri": "JK_000129_010048"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

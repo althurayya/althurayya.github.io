@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.82192,
+                    31.43199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.43199",
+                    "coord_lon": "39.82192",
+                    "cornu_URI": "HASHIYYA_398E314N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلحشية",
+                    "toponym_arabic_other": "ﭐلحشية",
+                    "toponym_buckwalter": "al-Hashiyya",
+                    "toponym_search": "al-Hashiyya",
+                    "toponym_translit": "al-Ḥašiyyaŧ",
+                    "toponym_translit_other": "al-Ḥašiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

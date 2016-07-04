@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004629",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.371-372",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خشاخش</h1> قد وصف في ترجمة الدهناء إلى الحفر ثم يقع في معبر والحماطان وجبل السرسر وجرعاء العكن من جبال الدهناء |جـ 2 صـ 372| ",
+                "title": "خشاخش",
+                "uri": "JK_000129_004629"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

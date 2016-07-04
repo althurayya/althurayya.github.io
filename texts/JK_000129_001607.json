@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001607",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.366",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البراق يضاف إليها ذو</h1> قال حميد أربت رياح الأخرجين عليهما ومستجلب من ذي البراق غريب ",
+                "title": "البراق يضاف إليها ذو",
+                "uri": "JK_000129_001607"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

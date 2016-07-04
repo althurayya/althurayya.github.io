@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.86192,
+                    35.7761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.77610",
+                    "coord_lon": "9.86192",
+                    "cornu_URI": "JALULA_098E357N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جلولاء",
+                    "toponym_arabic_other": "جلولاء",
+                    "toponym_buckwalter": "Jalula",
+                    "toponym_search": "Jalula",
+                    "toponym_translit": "Ǧalūlāʾ",
+                    "toponym_translit_other": "Ǧalūlāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

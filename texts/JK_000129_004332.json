@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004332",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حوض عمرو</h1> بالمدينة قال مصعب بن الزبير هو منسوب إلى عمرو بن الزبير بن العوام ",
+                "title": "حوض عمرو",
+                "uri": "JK_000129_004332"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

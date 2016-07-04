@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.26937,
+                    37.888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.88800",
+                    "coord_lon": "65.26937",
+                    "cornu_URI": "AKHSISAK_652E378N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "أخسيسك",
+                    "toponym_arabic_other": "أخسيسك",
+                    "toponym_buckwalter": "Akhsisak",
+                    "toponym_search": "Akhsisak",
+                    "toponym_translit": "Aḫsīsak",
+                    "toponym_translit_other": "Aḫsīsak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

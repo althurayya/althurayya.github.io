@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010104",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.319",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>القرائن</h1> موضع بالمدينة قال أبو قطيفة ألا ليت شعري هل تغير بعدنا جبوب المصلى أم كعهدي القرائن وقد تقدمت هذه الأبيات في البلاط ",
+                "title": "القرائن",
+                "uri": "JK_000129_010104"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

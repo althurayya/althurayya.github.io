@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007901",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.392",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>صبر حاجز</h1> بين جبإ والجند وهو حصن منيع وهو من الجبال المسنمة قال الصليحي يصف خيلا حتى رمتهم ولو يرمى بها كنن والطود من صبر لانهد أو كادا ",
+                "title": "صبر حاجز",
+                "uri": "JK_000129_007901"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013323",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.375-376",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الوسباء</h1> بالفتح ثم السكون وباء موحدة ماء لبني سليم في لحف أبلى وقد ذكرته وهو مرتجل |جـ 5 صـ 376| ",
+                "title": "الوسباء",
+                "uri": "JK_000129_013323"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002746",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.59",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>توضحان</h1> بكسر الضاد المعجمة والحاء مهملة جرعتان متقابلتان بذروة عالج لفزارة والجرعة الرملة المستوية لا تنبت شيئا ",
+                "title": "توضحان",
+                "uri": "JK_000129_002746"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013143",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.345-346",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>وادي القضيب</h1> واحد القضبان موضع كان فيه يوم من أيامهم |جـ 5 صـ 346| ",
+                "title": "وادي القضيب",
+                "uri": "JK_000129_013143"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

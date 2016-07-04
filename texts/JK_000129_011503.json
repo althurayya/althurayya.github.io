@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011503",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.52",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مبلت</h1> البلت بالتاء المثناة القطع وهذا مفعل منه موضع ",
+                "title": "مبلت",
+                "uri": "JK_000129_011503"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

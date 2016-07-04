@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012753",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.279-280",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نرز</h1> بالتحريك وآخره زاي قال ابن دريد |جـ 5 صـ 280| النرز الاستخفاء ونرز موضع عن الأزهري ",
+                "title": "نرز",
+                "uri": "JK_000129_012753"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

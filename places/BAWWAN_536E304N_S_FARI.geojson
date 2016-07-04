@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.6192,
+                    30.46456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.46456",
+                    "coord_lon": "53.61920",
+                    "cornu_URI": "BAWWAN_536E304N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بوان",
+                    "toponym_arabic_other": "بوان",
+                    "toponym_buckwalter": "Bawwan",
+                    "toponym_search": "Bawwan",
+                    "toponym_translit": "Bawwān",
+                    "toponym_translit_other": "Bawwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

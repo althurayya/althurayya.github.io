@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004620",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.371",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خسروشاذ قباذ</h1> منسوب إلى قباذ بن فيروز الملك وهي كورة بسواد العراق ستة طساسيج بالجانب الشرقي ",
+                "title": "خسروشاذ قباذ",
+                "uri": "JK_000129_004620"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011682",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.74",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المدار</h1> بالفتح اسم المكان من دار يدور موضع بالحجاز في ديار عدوان أو غدانة ",
+                "title": "المدار",
+                "uri": "JK_000129_011682"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

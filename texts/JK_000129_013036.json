@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013036",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر سابس</h1> بالسين المهملة وبعد الألف باء موحدة وسين أخرى مهملة فوق واسط بيوم عليه قرى ",
+                "title": "نهر سابس",
+                "uri": "JK_000129_013036"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006192",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.130",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زبد</h1> ذو زبد في آخر حدود اليمامة ",
+                "title": "زبد",
+                "uri": "JK_000129_006192"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006551",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.187",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سبيذغك</h1> بضم أوله وكسر ثانيه ثم ياء وذال معجمة وغين معجمة وآخره كاف من قرى بخارى ",
+                "title": "سبيذغك",
+                "uri": "JK_000129_006551"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

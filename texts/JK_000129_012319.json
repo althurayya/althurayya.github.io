@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012319",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.203",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مناع</h1> بوزن نزال وحكمه من المنع اسم هضبة في جبل طيء ويقال المناعان وهما جبلان ",
+                "title": "مناع",
+                "uri": "JK_000129_012319"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

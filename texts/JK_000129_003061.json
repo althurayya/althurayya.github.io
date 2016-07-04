@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003061",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.112",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجدار</h1> بالكسر بلفظ واحد الجدران من قرى اليمامة وجدار العجوز قد ذكر في حائط العجوز من باب الحاء ",
+                "title": "الجدار",
+                "uri": "JK_000129_003061"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

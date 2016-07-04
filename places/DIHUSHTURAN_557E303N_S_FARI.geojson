@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.70689,
+                    30.31412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.31412",
+                    "coord_lon": "55.70689",
+                    "cornu_URI": "DIHUSHTURAN_557E303N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ده أشتران",
+                    "toponym_arabic_other": "ده أشتران، قرية ﭐلجمال",
+                    "toponym_buckwalter": "Dih Ushturan, Qarya al-Jimal",
+                    "toponym_search": "Dih Ushturan, Qarya al-Jimal",
+                    "toponym_translit": "Dih Ušturān",
+                    "toponym_translit_other": "Dih Ušturān, Qaryaŧ al-Ǧimāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

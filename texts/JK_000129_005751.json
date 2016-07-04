@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005751",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.43",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رستغفر</h1> بفتح أوله وسكون ثانيه ثم تاء منثاة من فوق مفتوحة وغين معجمة ساكنة وفاء مكسورة ثم راء من قرى إشتيخن من صغد سمرقند ",
+                "title": "رستغفر",
+                "uri": "JK_000129_005751"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

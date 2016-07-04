@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    73.45613,
+                    40.3768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.37680",
+                    "coord_lon": "73.45613",
+                    "cornu_URI": "NAHRKHURSHAB_734E403N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر خرشاب",
+                    "toponym_arabic_other": "نهر خرشاب، نهر خرشاب، نهر خرشان",
+                    "toponym_buckwalter": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan",
+                    "toponym_search": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan",
+                    "toponym_translit": "Nahr Ḫuršāb",
+                    "toponym_translit_other": "Nahr Ḫuršāb, Nahr Ḫaršāb, Nahr Ḫaršān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

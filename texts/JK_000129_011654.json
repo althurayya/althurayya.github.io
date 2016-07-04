@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011654",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.70",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مخلاف جعفر</h1> باليمن وجعفر مولى زياد الذي اختط مدينة زبيد وقد ذكرنا قصة زياد في زبيد وقصة جعفر هذا في المذيخرة فأغنى ",
+                "title": "مخلاف جعفر",
+                "uri": "JK_000129_011654"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

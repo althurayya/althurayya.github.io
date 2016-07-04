@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    18.19751,
+                    30.54115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.54115",
+                    "coord_lon": "18.19751",
+                    "cornu_URI": "QASRATISH_181E305N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قصر ﭐلعطش",
+                    "toponym_arabic_other": "قصر ﭐلعطش",
+                    "toponym_buckwalter": "Qasr al-Atish",
+                    "toponym_search": "Qasr al-Atish",
+                    "toponym_translit": "Qaṣr al-ʿAṭiš",
+                    "toponym_translit_other": "Qaṣr al-ʿAṭiš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

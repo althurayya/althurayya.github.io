@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003461",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.179",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الجود</h1> بالضم ثم السكون ودال مهملة قلعة في جبل شطب من أرض اليمن ",
+                "title": "الجود",
+                "uri": "JK_000129_003461"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

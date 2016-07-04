@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006258",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, pp.137-138",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زركران</h1> بفتح أوله وسكون ثانيه وبعد الكاف المفتوحة راء وآخره نون من قرى سمرقند |جـ 3 صـ 138| ",
+                "title": "زركران",
+                "uri": "JK_000129_006258"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

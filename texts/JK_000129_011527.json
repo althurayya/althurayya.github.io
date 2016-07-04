@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011527",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.55",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مثوة</h1> من حصون بني زبيد باليمن ",
+                "title": "مثوة",
+                "uri": "JK_000129_011527"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

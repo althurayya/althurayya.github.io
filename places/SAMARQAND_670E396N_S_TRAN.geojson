@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.03225,
+                    39.67905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.67905",
+                    "coord_lon": "67.03225",
+                    "cornu_URI": "SAMARQAND_670E396N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "سمرقند",
+                    "toponym_arabic_other": "سمرقند",
+                    "toponym_buckwalter": "Samarqand",
+                    "toponym_search": "Samarqand",
+                    "toponym_translit": "Samarqand",
+                    "toponym_translit_other": "Samarqand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000514",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.161",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أرمى</h1> بالضم ثم الفتح والقصر موضع قالوا وليس في كلامهم عى فعلى إلا أرمى وشعبى موضعان وأربى اسم للداهية ",
+                "title": "أرمى",
+                "uri": "JK_000129_000514"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

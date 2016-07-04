@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010694",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.427",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كاج والنسبة الكاجي</h1> بالجيم قرية من قرى أصبهان منها أبو بكر بن علي بن محمد بن عبد الله الكاجي سمع الحافظ إسماعيل املاء في سنة 825 ",
+                "title": "كاج والنسبة الكاجي",
+                "uri": "JK_000129_010694"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

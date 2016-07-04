@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.2662,
+                    33.39418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.39418",
+                    "coord_lon": "35.26620",
+                    "cornu_URI": "ADHNUN_352E333N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "site",
+                    "toponym_arabic": "عذنون",
+                    "toponym_arabic_other": "عذنون",
+                    "toponym_buckwalter": "Adhnun",
+                    "toponym_search": "Adhnun",
+                    "toponym_translit": "ʿAḏnūn",
+                    "toponym_translit_other": "ʿAḏnūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

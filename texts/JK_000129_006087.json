@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006087",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.109",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرياحية</h1> كأنها منسوبة إلى رياح جمع ريح أو إلى بني رياح وهي ناحية بواسط ",
+                "title": "الرياحية",
+                "uri": "JK_000129_006087"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

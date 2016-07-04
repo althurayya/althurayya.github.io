@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005322",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, pp.484-485",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دوقرة</h1> مدينة كانت قرب واسط خربت بعمارة واسط للحجاج |جـ 2 صـ 485| ",
+                "title": "دوقرة",
+                "uri": "JK_000129_005322"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

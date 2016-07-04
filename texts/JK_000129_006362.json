@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006362",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.155",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>زواني والنسبة زواني</h1> بفتح أوله وبعد الألف نون وباء منقوصة بلفظ جمع زانية ثلاث قارات قبل اليمامة والقارة الأكمة عن نصر ",
+                "title": "زواني والنسبة زواني",
+                "uri": "JK_000129_006362"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

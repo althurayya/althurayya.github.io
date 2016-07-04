@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002218",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.503",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بوازيج الأنبار</h1> موضع آخر قال أحمد بن يحيى ابن جابر فتح عبد الله بوازيج الأنبار وبها قوم من مواليه إلى الآن ",
+                "title": "بوازيج الأنبار",
+                "uri": "JK_000129_002218"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

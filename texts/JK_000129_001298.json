@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001298",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.313",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>باجرمق</h1> بالقاف في كتاب الفتوح باجرمق كورة قرب دقوقا ",
+                "title": "باجرمق",
+                "uri": "JK_000129_001298"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

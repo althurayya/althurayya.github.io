@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008297",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.6",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الطاق</h1> مدينة بسجستان على ظهر الجادة من سجستان إلى خراسان وهي مدينة صغيرة ولها رستاق وبها أعناب كثيرة يتسع بها أهل سجستان ",
+                "title": "الطاق",
+                "uri": "JK_000129_008297"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

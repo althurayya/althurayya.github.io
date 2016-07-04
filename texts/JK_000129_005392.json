@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005392",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.496",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دير أبي بخوم</h1> بضم الباء الموحدة وخاء معجمة وواو ساكنة وميم دير بصعيد مصر بقرية يقال لها فاو بالفاء والواو وهو دير أزلي له حرمة عندهم ",
+                "title": "دير أبي بخوم",
+                "uri": "JK_000129_005392"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

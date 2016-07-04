@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013396",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.384",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ولغون</h1> بالفتح ثم السكون والغين معجمة وواو ساكنة ونون بوزن حمدون من ولغ يلغ وهو شرب السباع موضع بالبحرين ويقال هذه ولغون ومررت بولغين ",
+                "title": "ولغون",
+                "uri": "JK_000129_013396"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

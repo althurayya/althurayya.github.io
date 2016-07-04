@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002349",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.523",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بيجن كرد</h1> بالفتح والنون بلد وقلعة بين قرص وأرزن الروم من أرض أرمينية ",
+                "title": "بيجن كرد",
+                "uri": "JK_000129_002349"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

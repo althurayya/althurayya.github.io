@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013443",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.389",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الهاشمية</h1> قرب الري ",
+                "title": "الهاشمية",
+                "uri": "JK_000129_013443"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

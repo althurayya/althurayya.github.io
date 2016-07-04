@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000813",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.222",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أعناز</h1> بالنون والزاي بلد بين حمص والساحل ",
+                "title": "أعناز",
+                "uri": "JK_000129_000813"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

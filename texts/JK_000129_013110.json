@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013110",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, pp.332-334",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نيلاب</h1> بكسر أوله وآخره باء موحدة اسم لمدينة جنديسابور وكان اسمها قديما نيلاط |جـ 5 صـ 334| ",
+                "title": "نيلاب",
+                "uri": "JK_000129_013110"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

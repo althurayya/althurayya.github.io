@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004586",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.364",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خريبة</h1> ماء قرب القادسية نزلها بعض جيوش سعد أيام القوادس ",
+                "title": "خريبة",
+                "uri": "JK_000129_004586"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

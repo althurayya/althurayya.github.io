@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011706",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.77",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المدور</h1> حصن حصين مشهور بالأندلس بالقرب من قرطبة لهم فيه عدة وقائع مشهورة ",
+                "title": "المدور",
+                "uri": "JK_000129_011706"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

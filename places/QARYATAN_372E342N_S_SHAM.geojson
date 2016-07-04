@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.24976,
+                    34.2251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.22510",
+                    "coord_lon": "37.24976",
+                    "cornu_URI": "QARYATAN_372E342N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلقريتان",
+                    "toponym_arabic_other": "ﭐلقريتان",
+                    "toponym_buckwalter": "al-Qaryatan",
+                    "toponym_search": "al-Qaryatan",
+                    "toponym_translit": "al-Qaryatān",
+                    "toponym_translit_other": "al-Qaryatān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

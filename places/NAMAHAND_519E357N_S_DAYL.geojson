@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.9273,
+                    35.72749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.72749",
+                    "coord_lon": "51.92730",
+                    "cornu_URI": "NAMAHAND_519E357N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "نامهند",
+                    "toponym_arabic_other": "نامهند",
+                    "toponym_buckwalter": "Namahand",
+                    "toponym_search": "Namahand",
+                    "toponym_translit": "Nāmahand",
+                    "toponym_translit_other": "Nāmahand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007270",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.303",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شابراباذ</h1> بعد الألف باء موحدة مفتوحة قرية على خمسة فراسخ من مرو وقد نسب إليها بعض الرواة ",
+                "title": "شابراباذ",
+                "uri": "JK_000129_007270"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

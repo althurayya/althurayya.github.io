@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.20287,
+                    36.05429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.05429",
+                    "coord_lon": "7.20287",
+                    "cornu_URI": "ARKU_072E360N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أركو",
+                    "toponym_arabic_other": "أركو، ركوة",
+                    "toponym_buckwalter": "Arku, Rakwa",
+                    "toponym_search": "Arku, Rakwa",
+                    "toponym_translit": "Arkū",
+                    "toponym_translit_other": "Arkū, Rakwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011882",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.112",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>مروذ</h1> بالفتح ثم التشديد والضم وسكون الواو وذال معجمة وهو مدغم من مرو الروذ هكذا يتلفظ به جميع أهل خراسان ",
+                "title": "مروذ",
+                "uri": "JK_000129_011882"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

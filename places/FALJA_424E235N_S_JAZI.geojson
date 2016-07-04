@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.45066,
+                    23.54101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.54101",
+                    "coord_lon": "42.45066",
+                    "cornu_URI": "FALJA_424E235N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلفلجة",
+                    "toponym_arabic_other": "ﭐلفلجة",
+                    "toponym_buckwalter": "al-Falja",
+                    "toponym_search": "al-Falja",
+                    "toponym_translit": "al-Falǧaŧ",
+                    "toponym_translit_other": "al-Falǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

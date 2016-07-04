@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005013",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.429",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دارة الكبشات</h1> بالتحريك للضباب وبني جعفر و كبشات أجبل في ديار بني ذؤيبة بهن هراميت وهي ماء لهم وبها البكرة والله أعلم بالصواب ",
+                "title": "دارة الكبشات",
+                "uri": "JK_000129_005013"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

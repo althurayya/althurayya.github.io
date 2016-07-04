@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005719",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.39",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرخيمة</h1> ماء لبني وعلة الجرميين في طرف اليمامة الغربي وهو إلى جبل طويل يسمى رخيما ",
+                "title": "الرخيمة",
+                "uri": "JK_000129_005719"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

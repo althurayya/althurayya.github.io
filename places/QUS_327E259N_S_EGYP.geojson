@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.74342,
+                    25.91848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.91848",
+                    "coord_lon": "32.74342",
+                    "cornu_URI": "QUS_327E259N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قوص",
+                    "toponym_arabic_other": "قوص",
+                    "toponym_buckwalter": "Qus",
+                    "toponym_search": "Qus",
+                    "toponym_translit": "Qūṣ",
+                    "toponym_translit_other": "Qūṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

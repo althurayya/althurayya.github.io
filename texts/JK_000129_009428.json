@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009428",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.205",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غشيب</h1> موضع في الجمهرة حكاه عنه نصر ",
+                "title": "غشيب",
+                "uri": "JK_000129_009428"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

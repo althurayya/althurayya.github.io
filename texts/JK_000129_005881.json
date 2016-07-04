@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005881",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.66",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الرمادة</h1> موضع في شق بني تميم ولعلها في طريق البصرة وقال الحفصي الرمادة وقدماء من قرى امرىء القيس بن زيد مناة بن تميم باليمامة ذات نخيل ",
+                "title": "الرمادة",
+                "uri": "JK_000129_005881"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

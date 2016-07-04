@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001913",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.409",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>بزاق</h1> بالفتح وتشديد الزاي موضع قرب تل فخار من أعمال واسط وقد ذكر في بساق ",
+                "title": "بزاق",
+                "uri": "JK_000129_001913"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

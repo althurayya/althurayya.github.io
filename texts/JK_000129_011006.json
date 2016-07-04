@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011006",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.475",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رأس الكلب</h1> جبل وقيل موضع ",
+                "title": "رأس الكلب",
+                "uri": "JK_000129_011006"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

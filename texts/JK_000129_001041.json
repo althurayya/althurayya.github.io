@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001041",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, pp.259-260",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أنخل</h1> بضم الخاء المعجمة ذات أنخل واد ينحدر في ذات عرق أعلاه من نجد وأسفله من تهامة |جـ 1 صـ 260| ",
+                "title": "أنخل",
+                "uri": "JK_000129_001041"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

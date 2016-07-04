@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_012867",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.297",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نقان</h1> بضم أوله ويكسر وآخره نون اسم جبل في بلاد أرمينية وربما قيل باللام في أوله وقد ذكر في موضعه والله أعلم ",
+                "title": "نقان",
+                "uri": "JK_000129_012867"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

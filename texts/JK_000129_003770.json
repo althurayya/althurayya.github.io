@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_003770",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.231",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الحديقة</h1> كأنه تصغير حدقة موضع في قلة الحزن من ديار بني يربوع لبني حمير بن رياح منهم وهما حديقتان بهذا المكان ",
+                "title": "الحديقة",
+                "uri": "JK_000129_003770"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

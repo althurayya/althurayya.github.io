@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008491",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.51",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طويع</h1> قال أبو زياد ومن مياه بني العجلان طوعة وطويع اللذان يقول فيهما القائل نظرت ودوننا علما طويع ومنقاد المخارم من ذقان ",
+                "title": "طويع",
+                "uri": "JK_000129_008491"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

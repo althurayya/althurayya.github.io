@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.09689,
+                    37.5901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.59010",
+                    "coord_lon": "69.09689",
+                    "cornu_URI": "NAHRANDIJARAGH_690E375N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر أنديجاراغ",
+                    "toponym_arabic_other": "نهر أنديجاراغ",
+                    "toponym_buckwalter": "Nahr Andijaragh",
+                    "toponym_search": "Nahr Andijaragh",
+                    "toponym_translit": "Nahr Andīǧārāġ",
+                    "toponym_translit_other": "Nahr Andīǧārāġ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

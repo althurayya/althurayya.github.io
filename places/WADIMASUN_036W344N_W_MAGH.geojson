@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.67995,
+                    34.42515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.42515",
+                    "coord_lon": "-3.67995",
+                    "cornu_URI": "WADIMASUN_036W344N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي مسون",
+                    "toponym_arabic_other": "وادي مسون",
+                    "toponym_buckwalter": "Wadi Masun",
+                    "toponym_search": "Wadi Masun",
+                    "toponym_translit": "Wādī Masūn",
+                    "toponym_translit_other": "Wādī Masūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

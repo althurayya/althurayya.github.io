@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.84828,
+                    31.55774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.55774",
+                    "coord_lon": "53.84828",
+                    "cornu_URI": "QARYAASAD_538E315N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلأسد",
+                    "toponym_arabic_other": "قرية ﭐلأسد",
+                    "toponym_buckwalter": "Qarya al-Asad",
+                    "toponym_search": "Qarya al-Asad",
+                    "toponym_translit": "Qaryaŧ al-Asad",
+                    "toponym_translit_other": "Qaryaŧ al-Asad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

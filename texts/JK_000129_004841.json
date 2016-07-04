@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004841",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.402",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>خوزان</h1> بضم أوله وبعد الواو زاي وآخره نون قرية من نواحي هراة ",
+                "title": "خوزان",
+                "uri": "JK_000129_004841"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

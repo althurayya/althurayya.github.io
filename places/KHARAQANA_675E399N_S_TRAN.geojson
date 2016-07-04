@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.58739,
+                    39.9712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.97120",
+                    "coord_lon": "67.58739",
+                    "cornu_URI": "KHARAQANA_675E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خرقانة",
+                    "toponym_arabic_other": "خرقانة",
+                    "toponym_buckwalter": "Kharaqana",
+                    "toponym_search": "Kharaqana",
+                    "toponym_translit": "Ḫaraqānaŧ",
+                    "toponym_translit_other": "Ḫaraqānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

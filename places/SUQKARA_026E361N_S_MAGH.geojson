@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.69033,
+                    36.10305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.10305",
+                    "coord_lon": "2.69033",
+                    "cornu_URI": "SUQKARA_026E361N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سوق كرا",
+                    "toponym_arabic_other": "سوق كرا",
+                    "toponym_buckwalter": "Suq Kara",
+                    "toponym_search": "Suq Kara",
+                    "toponym_translit": "Sūq Karā",
+                    "toponym_translit_other": "Sūq Karā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

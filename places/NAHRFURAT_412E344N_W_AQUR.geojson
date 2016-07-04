@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.21428,
+                    34.45727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.45727",
+                    "coord_lon": "41.21428",
+                    "cornu_URI": "NAHRFURAT_412E344N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur/Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر ﭐلفرات",
+                    "toponym_arabic_other": "نهر ﭐلفرات",
+                    "toponym_buckwalter": "Nahr al-Furat",
+                    "toponym_search": "Nahr al-Furat",
+                    "toponym_translit": "Nahr al-Furāt",
+                    "toponym_translit_other": "Nahr al-Furāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

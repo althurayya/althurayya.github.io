@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.52796,
+                    25.5536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.55360",
+                    "coord_lon": "41.52796",
+                    "cornu_URI": "MADINNAQIRA_415E255N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "معدن ﭐلنقرة",
+                    "toponym_arabic_other": "معدن ﭐلنقرة",
+                    "toponym_buckwalter": "Madin al-Naqira",
+                    "toponym_search": "Madin al-Naqira",
+                    "toponym_translit": "Maʿdin al-Naqiraŧ",
+                    "toponym_translit_other": "Maʿdin al-Naqiraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.08263,
+                    40.24237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.24237",
+                    "coord_lon": "72.08263",
+                    "cornu_URI": "ZANDARAMASH_720E402N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زندرامش",
+                    "toponym_arabic_other": "زندرامش",
+                    "toponym_buckwalter": "Zandaramash",
+                    "toponym_search": "Zandaramash",
+                    "toponym_translit": "Zandarāmaš",
+                    "toponym_translit_other": "Zandarāmaš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

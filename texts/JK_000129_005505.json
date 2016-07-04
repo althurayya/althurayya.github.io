@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005505",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.8",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ذنبان</h1> بفتح أوله وثانيه ثم باء موحدة بلفظ تثنية الذنب إلا أنه أعرب إعراب ما لا ينصرف ماء بالعيص وقد ذكر العيص ",
+                "title": "ذنبان",
+                "uri": "JK_000129_005505"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

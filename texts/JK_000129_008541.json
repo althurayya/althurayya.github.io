@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008541",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.59",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عين ظبي</h1> موضع بين الكوفة والشام قال امرؤ القيس وحلت سليمى بطن ظبي فعرعرا قيل ظبي أرض لكلب ويروى قرن ظبي ",
+                "title": "عين ظبي",
+                "uri": "JK_000129_008541"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

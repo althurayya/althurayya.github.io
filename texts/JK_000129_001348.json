@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001348",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البارة</h1> بليدة وكورة من نواحي حلب وبها حصن وهي ذات بساتين ويسمونها زاوية البارة ",
+                "title": "البارة",
+                "uri": "JK_000129_001348"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

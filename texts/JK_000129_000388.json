@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000388",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.127",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أديم</h1> أيضا عند وادي القرى من ديار عذرة كانت لهم بها وقعة مع بني مرة عن نصر ",
+                "title": "أديم",
+                "uri": "JK_000129_000388"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

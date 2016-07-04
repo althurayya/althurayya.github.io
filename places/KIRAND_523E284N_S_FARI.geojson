@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.36569,
+                    28.41977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.41977",
+                    "coord_lon": "52.36569",
+                    "cornu_URI": "KIRAND_523E284N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كيرند",
+                    "toponym_arabic_other": "كيرند",
+                    "toponym_buckwalter": "Kirand",
+                    "toponym_search": "Kirand",
+                    "toponym_translit": "Kīrand",
+                    "toponym_translit_other": "Kīrand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

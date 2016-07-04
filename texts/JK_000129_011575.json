@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011575",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.61",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>المحروم</h1> بالفتح يجوز أن يكون مفعولا من الذي قبله وأن يكون من حرمه إذا منعه الخير قال العمراني المحروم مدينة بها سلطان ولم يبن ",
+                "title": "المحروم",
+                "uri": "JK_000129_011575"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

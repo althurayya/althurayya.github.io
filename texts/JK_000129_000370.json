@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000370",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.126",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أدقية</h1> بالضم ثم السكون وكسر القاف وياء مشددة جبل لبني قشير ",
+                "title": "أدقية",
+                "uri": "JK_000129_000370"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

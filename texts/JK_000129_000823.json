@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000823",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.223",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أعين</h1> بالنون قرية وقيل حصن باليمن والله الموفق للصواب ",
+                "title": "أعين",
+                "uri": "JK_000129_000823"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

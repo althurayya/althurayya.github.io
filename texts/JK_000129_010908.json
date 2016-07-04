@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010908",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.460",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كسادن</h1> الدال مهملة مضمومة وآخره نون قرية من قرى سمرقند ",
+                "title": "كسادن",
+                "uri": "JK_000129_010908"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

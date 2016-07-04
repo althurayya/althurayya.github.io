@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.758,
+                    36.47417
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.47417",
+                    "coord_lon": "42.75800",
+                    "cornu_URI": "BALAD_427E364N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بلد",
+                    "toponym_arabic_other": "بلد",
+                    "toponym_buckwalter": "Balad",
+                    "toponym_search": "Balad",
+                    "toponym_translit": "Balad",
+                    "toponym_translit_other": "Balad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_004227",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.306",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>حمم</h1> بالضم ثم الفتح يوم ذي حمم من أيام العرب ",
+                "title": "حمم",
+                "uri": "JK_000129_004227"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

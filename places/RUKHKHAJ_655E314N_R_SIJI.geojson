@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.52932,
+                    31.49823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.49823",
+                    "coord_lon": "65.52932",
+                    "cornu_URI": "RUKHKHAJ_655E314N_R_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلرخاج",
+                    "toponym_arabic_other": "ﭐلرخاج، ﭐلرخوذ",
+                    "toponym_buckwalter": "al-Rukhkhaj, al-Rakhwadh",
+                    "toponym_search": "al-Rukhkhaj, al-Rakhwadh",
+                    "toponym_translit": "al-Ruḫḫāǧ",
+                    "toponym_translit_other": "al-Ruḫḫāǧ, al-Raḫwaḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

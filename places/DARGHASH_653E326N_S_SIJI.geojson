@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.3875,
+                    32.61829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.61829",
+                    "coord_lon": "65.38750",
+                    "cornu_URI": "DARGHASH_653E326N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "درغش",
+                    "toponym_arabic_other": "درغش",
+                    "toponym_buckwalter": "Darghash",
+                    "toponym_search": "Darghash",
+                    "toponym_translit": "Darġaš",
+                    "toponym_translit_other": "Darġaš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

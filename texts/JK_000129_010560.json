@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010560",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.406",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قنطرة بني زريق</h1> تصغير أزرق مرخما على نهر الرفيل من محال بغداد الغربية وبنو زريق قوم من التناء المشهورين كانوا ",
+                "title": "قنطرة بني زريق",
+                "uri": "JK_000129_010560"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

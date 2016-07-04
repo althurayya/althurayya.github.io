@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006817",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.231",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>سكندان</h1> بضم أوله وثانيه ثم نون ساكنة ودال مهملة وآخره نون من قرى مرو ",
+                "title": "سكندان",
+                "uri": "JK_000129_006817"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

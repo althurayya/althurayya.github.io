@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008281",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.4",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طاحية</h1> قال أبو زياد ومن مياه بني العجلان طاحية كثيرة النخل بأرض القعاقع ",
+                "title": "طاحية",
+                "uri": "JK_000129_008281"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

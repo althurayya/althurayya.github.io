@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.66905,
+                    30.9872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.98720",
+                    "coord_lon": "30.66905",
+                    "cornu_URI": "FARNWA_306E309N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "فرنوة",
+                    "toponym_arabic_other": "فرنوة",
+                    "toponym_buckwalter": "Farnwa",
+                    "toponym_search": "Farnwa",
+                    "toponym_translit": "Farnwaŧ",
+                    "toponym_translit_other": "Farnwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

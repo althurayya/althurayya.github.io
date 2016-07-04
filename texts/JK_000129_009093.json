@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009093",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.149",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العمارية</h1> كأنها منسوبة إلى عمار قرية باليمامة لبني عبد الله بن الدؤل ",
+                "title": "العمارية",
+                "uri": "JK_000129_009093"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

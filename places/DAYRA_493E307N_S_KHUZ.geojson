@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.32901,
+                    30.78178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.78178",
+                    "coord_lon": "49.32901",
+                    "cornu_URI": "DAYRA_493E307N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ديرة",
+                    "toponym_arabic_other": "ديرة",
+                    "toponym_buckwalter": "Dayra",
+                    "toponym_search": "Dayra",
+                    "toponym_translit": "Dayraŧ",
+                    "toponym_translit_other": "Dayraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

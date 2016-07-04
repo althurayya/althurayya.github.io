@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.08449,
+                    38.07602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.07602",
+                    "coord_lon": "40.08449",
+                    "cornu_URI": "NAHRDHIB_400E380N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر ﭐلذيب",
+                    "toponym_arabic_other": "نهر ﭐلذيب، نهر ﭐلكلاب",
+                    "toponym_buckwalter": "Nahr al-Dhib, Nahr al-Kilab",
+                    "toponym_search": "Nahr al-Dhib, Nahr al-Kilab",
+                    "toponym_translit": "Nahr al-Ḏīb",
+                    "toponym_translit_other": "Nahr al-Ḏīb, Nahr al-Kilāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.23723,
+                    31.27819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.27819",
+                    "coord_lon": "-4.23723",
+                    "cornu_URI": "SIJILMASA_042W312N_R_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circon",
+                    "toponym_arabic": "سجلماسة",
+                    "toponym_arabic_other": "سجلماسة",
+                    "toponym_buckwalter": "Sijilmasa",
+                    "toponym_search": "Sijilmasa",
+                    "toponym_translit": "Siǧilmāsaŧ",
+                    "toponym_translit_other": "Siǧilmāsaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

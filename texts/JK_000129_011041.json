@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011041",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.479",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كمزار</h1> بالضم ثم السكون وزاي ثم بعد الألف راء بليدة من نواحي عمان على ساحل بحره في واد بين جبلين شربهم من أعين عذبة جارية ",
+                "title": "كمزار",
+                "uri": "JK_000129_011041"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

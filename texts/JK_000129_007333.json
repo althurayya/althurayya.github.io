@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007333",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.313",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شاوخران</h1> بعد الواو خاء معجمة ساكنة ثم راء وآخره نون من قرى نسف بما وراء النهر عن أبي سعد ",
+                "title": "شاوخران",
+                "uri": "JK_000129_007333"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

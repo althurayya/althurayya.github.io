@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006079",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.108",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رهنان</h1> بضم أوله وسكون ثانيه وتكرير النون ويجوز أن يكون تثنية رهن جمع رهن كما يقال إبلان وخيلان ثم خفف وأعرب بعد طول الاستعمال وهو موضع ",
+                "title": "رهنان",
+                "uri": "JK_000129_006079"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

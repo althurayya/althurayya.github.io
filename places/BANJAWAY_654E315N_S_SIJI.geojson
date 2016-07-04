@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.43237,
+                    31.51036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.51036",
+                    "coord_lon": "65.43237",
+                    "cornu_URI": "BANJAWAY_654E315N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بنجواي",
+                    "toponym_arabic_other": "بنجواي",
+                    "toponym_buckwalter": "Banjaway",
+                    "toponym_search": "Banjaway",
+                    "toponym_translit": "Banǧawāy",
+                    "toponym_translit_other": "Banǧawāy"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

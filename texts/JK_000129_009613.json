@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009613",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.235",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>فج</h1> موضع أو جبل في ديار سليم بن منصور عن أبي الفتح ",
+                "title": "فج",
+                "uri": "JK_000129_009613"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

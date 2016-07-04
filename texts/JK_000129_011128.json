@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_011128",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.489",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كور شنبه</h1> موضع بنواحي همذان كانت فيه وقعة بين سنجر بركيارق وأخيه محمد ابني جلال الدولة ملك شاه ",
+                "title": "كور شنبه",
+                "uri": "JK_000129_011128"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

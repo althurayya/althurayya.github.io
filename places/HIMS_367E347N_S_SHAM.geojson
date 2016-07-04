@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.72425,
+                    34.73793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.73793",
+                    "coord_lon": "36.72425",
+                    "cornu_URI": "HIMS_367E347N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "حمص",
+                    "toponym_arabic_other": "حمص",
+                    "toponym_buckwalter": "Hims",
+                    "toponym_search": "Hims",
+                    "toponym_translit": "Ḥimṣ",
+                    "toponym_translit_other": "Ḥimṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010875",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.455",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>كرمة</h1> قرية كبيرة ذات جامع ومنبر وخلق كثير وماء جار ونخل من نواحي طبس شاهدها ابن النجار الحافظ ",
+                "title": "كرمة",
+                "uri": "JK_000129_010875"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

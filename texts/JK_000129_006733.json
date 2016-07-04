@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_006733",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.220",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>السعائم</h1> محضر لعبشمس بن سعد وهي نخيل بناحية الأحساء وهجر مما يلي السهلة وهي قرية لبني محارب من العمود ",
+                "title": "السعائم",
+                "uri": "JK_000129_006733"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

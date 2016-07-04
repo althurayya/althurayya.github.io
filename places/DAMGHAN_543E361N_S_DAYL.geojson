@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.37503,
+                    36.13093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.13093",
+                    "coord_lon": "54.37503",
+                    "cornu_URI": "DAMGHAN_543E361N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلدمغان",
+                    "toponym_arabic_other": "ﭐلدمغان",
+                    "toponym_buckwalter": "al-Damghan",
+                    "toponym_search": "al-Damghan",
+                    "toponym_translit": "al-Damġān",
+                    "toponym_translit_other": "al-Damġān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

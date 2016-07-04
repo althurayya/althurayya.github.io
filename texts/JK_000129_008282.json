@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008282",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.4",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>طاذ</h1> بالذال المعجمة من قرى أصبهان منها أبو بكر بن عمر بن أبي بكر بن أحمد يعرف بالززا سمع الحافظ إسماعيل سنة 825 ",
+                "title": "طاذ",
+                "uri": "JK_000129_008282"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

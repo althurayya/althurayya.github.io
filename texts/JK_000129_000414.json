@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000414",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.134",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أراطة</h1> مثل الذي قبله وزيادة الهاء اسم ماء لبني عميلة شرقي سميراء وقال نصر الأراطة من مياه غني بينها وبين أضاخ ليلة ",
+                "title": "أراطة",
+                "uri": "JK_000129_000414"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

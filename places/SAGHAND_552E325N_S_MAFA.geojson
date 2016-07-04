@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.21675,
+                    32.52933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.52933",
+                    "coord_lon": "55.21675",
+                    "cornu_URI": "SAGHAND_552E325N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "ساغند",
+                    "toponym_arabic_other": "ساغند",
+                    "toponym_buckwalter": "Saghand",
+                    "toponym_search": "Saghand",
+                    "toponym_translit": "Sāġand",
+                    "toponym_translit_other": "Sāġand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

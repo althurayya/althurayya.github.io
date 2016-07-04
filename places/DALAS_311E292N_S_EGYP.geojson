@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.16142,
+                    29.21524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.21524",
+                    "coord_lon": "31.16142",
+                    "cornu_URI": "DALAS_311E292N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دلاص",
+                    "toponym_arabic_other": "دلاص، دلاص",
+                    "toponym_buckwalter": "Dalas, Dilas",
+                    "toponym_search": "Dalas, Dilas",
+                    "toponym_translit": "Dalāṣ",
+                    "toponym_translit_other": "Dalāṣ, Dilāṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

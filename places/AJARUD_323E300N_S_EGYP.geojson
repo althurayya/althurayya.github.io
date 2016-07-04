@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.38039,
+                    30.05828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.05828",
+                    "coord_lon": "32.38039",
+                    "cornu_URI": "AJARUD_323E300N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "عجرود",
+                    "toponym_arabic_other": "عجرود",
+                    "toponym_buckwalter": "Ajarud",
+                    "toponym_search": "Ajarud",
+                    "toponym_translit": "ʿAǧarūd",
+                    "toponym_translit_other": "ʿAǧarūd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

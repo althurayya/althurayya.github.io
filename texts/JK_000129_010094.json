@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_010094",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.318",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>قراقر</h1> بالفتح يصح أن يكون جمعا لجميع ما ذكرناه في تفسير الذي قبله قال نصر قراقر موضع من أعراض المدينة لآل حسين بن علي بن أبي طالب ",
+                "title": "قراقر",
+                "uri": "JK_000129_010094"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

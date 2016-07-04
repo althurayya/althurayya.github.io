@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_001131",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.278",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أورل</h1> باللام بوزن أحمر ذو أورل حصن من حصون اليمامة عادي ",
+                "title": "أورل",
+                "uri": "JK_000129_001131"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

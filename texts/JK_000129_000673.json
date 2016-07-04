@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000673",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.193",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>أسيس</h1> بالفتح ثم الكسر وياء ساكنة وسين أخرى حصن باليمن ",
+                "title": "أسيس",
+                "uri": "JK_000129_000673"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

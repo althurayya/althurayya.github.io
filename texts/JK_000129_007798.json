@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007798",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.378",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شهوان</h1> جبل باليمامة قرب المجازة قرية لبني هزان ",
+                "title": "شهوان",
+                "uri": "JK_000129_007798"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

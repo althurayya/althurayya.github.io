@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.11406,
+                    15.70742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.70742",
+                    "coord_lon": "44.11406",
+                    "cornu_URI": "BAWSHAN_441E157N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بوشان",
+                    "toponym_arabic_other": "بوشان",
+                    "toponym_buckwalter": "Bawshan",
+                    "toponym_search": "Bawshan",
+                    "toponym_translit": "Bawšān",
+                    "toponym_translit_other": "Bawšān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

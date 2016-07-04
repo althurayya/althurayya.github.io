@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.21353,
+                    30.39049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.39049",
+                    "coord_lon": "52.21353",
+                    "cornu_URI": "MIHRJANAWAZ_522E303N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "مهرجاناواز",
+                    "toponym_arabic_other": "مهرجاناواز",
+                    "toponym_buckwalter": "Mihrjanawaz",
+                    "toponym_search": "Mihrjanawaz",
+                    "toponym_translit": "Mihrǧānāwāz",
+                    "toponym_translit_other": "Mihrǧānāwāz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_002014",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.442",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>البصل</h1> بلفظ البصل من الخضر الذي يؤكل ويطبخ إقليم البصل من إشبيلية من جزيرة الأندلس و كفر بصل من قرى الشام ",
+                "title": "البصل",
+                "uri": "JK_000129_002014"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005840",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.58",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رقن</h1> موضع في شعر زهير قال كم للمنازل من عام ومن زمن لآل أسماء بالقفين فالرقن ",
+                "title": "رقن",
+                "uri": "JK_000129_005840"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

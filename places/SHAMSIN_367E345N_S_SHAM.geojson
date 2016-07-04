@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.74279,
+                    34.53863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.53863",
+                    "coord_lon": "36.74279",
+                    "cornu_URI": "SHAMSIN_367E345N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "شمسين",
+                    "toponym_arabic_other": "شمسين",
+                    "toponym_buckwalter": "Shamsin",
+                    "toponym_search": "Shamsin",
+                    "toponym_translit": "Šamsīn",
+                    "toponym_translit_other": "Šamsīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

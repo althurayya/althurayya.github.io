@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013268",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.370",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>ورام</h1> بالفتح قال العمراني بلد قريب من الري أهله شيعة ",
+                "title": "ورام",
+                "uri": "JK_000129_013268"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

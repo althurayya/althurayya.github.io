@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.18997,
+                    38.15105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.15105",
+                    "coord_lon": "13.18997",
+                    "cornu_URI": "QARINASH_131E381N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قرينش",
+                    "toponym_arabic_other": "قرينش",
+                    "toponym_buckwalter": "Qarinash",
+                    "toponym_search": "Qarinash",
+                    "toponym_translit": "Qarīnaš",
+                    "toponym_translit_other": "Qarīnaš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

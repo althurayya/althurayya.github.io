@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_000120",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.1, p.69",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>الأبرقة</h1> بفتح الهمزة وسكون الباء وفتح الراء والقاف هكذا هو مكتوب في كتاب الزمخشري وقال هو ماء من مياه نملى قرب المدينة ",
+                "title": "الأبرقة",
+                "uri": "JK_000129_000120"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

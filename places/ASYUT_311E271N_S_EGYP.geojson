@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.18485,
+                    27.17922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.17922",
+                    "coord_lon": "31.18485",
+                    "cornu_URI": "ASYUT_311E271N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أسيوط",
+                    "toponym_arabic_other": "أسيوط",
+                    "toponym_buckwalter": "Asyut",
+                    "toponym_search": "Asyut",
+                    "toponym_translit": "Asyūṭ",
+                    "toponym_translit_other": "Asyūṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

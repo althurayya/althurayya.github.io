@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.0309,
+                    30.13418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.13418",
+                    "coord_lon": "53.03090",
+                    "cornu_URI": "QARYAIBNBUNDAR_530E301N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية إبن بندار",
+                    "toponym_arabic_other": "قرية إبن بندار",
+                    "toponym_buckwalter": "Qarya Ibn Bundar",
+                    "toponym_search": "Qarya Ibn Bundar",
+                    "toponym_translit": "Qaryaŧ Ibn Bundār",
+                    "toponym_translit_other": "Qaryaŧ Ibn Bundār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

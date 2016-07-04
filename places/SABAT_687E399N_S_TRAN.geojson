@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.7622,
+                    39.99901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.99901",
+                    "coord_lon": "68.76220",
+                    "cornu_URI": "SABAT_687E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صاباط",
+                    "toponym_arabic_other": "صاباط",
+                    "toponym_buckwalter": "Sabat",
+                    "toponym_search": "Sabat",
+                    "toponym_translit": "Ṣābāṭ",
+                    "toponym_translit_other": "Ṣābāṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

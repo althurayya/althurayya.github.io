@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008673",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, pp.81-82",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>العبيلاء</h1> تصغير العبلاء وقد تقدم اشتقاقه وهو موضع آخر قال كثير |جـ 4 صـ 82| والعبيلاء منهم بيسار وتركن اليمين ذات النصال ",
+                "title": "العبيلاء",
+                "uri": "JK_000129_008673"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

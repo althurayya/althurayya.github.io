@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.91938,
+                    31.44454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.44454",
+                    "coord_lon": "51.91938",
+                    "cornu_URI": "MAS_519E314N_O_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "site",
+                    "toponym_arabic": "ماس",
+                    "toponym_arabic_other": "ماس",
+                    "toponym_buckwalter": "Mas",
+                    "toponym_search": "Mas",
+                    "toponym_translit": "Mās",
+                    "toponym_translit_other": "Mās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.4038,
+                    14.15093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.15093",
+                    "coord_lon": "43.40380",
+                    "cornu_URI": "WADIZABID_434E141N_W_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي زبيد",
+                    "toponym_arabic_other": "وادي زبيد",
+                    "toponym_buckwalter": "Wadi Zabid",
+                    "toponym_search": "Wadi Zabid",
+                    "toponym_translit": "Wādī Zabīd",
+                    "toponym_translit_other": "Wādī Zabīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

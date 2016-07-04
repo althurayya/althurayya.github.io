@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013122",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.340",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>واثلة</h1> بالثاء المثلثة قالوا من الأسماء مأخوذ من الوثيل وهو ليف النخل وهي قرية معروفة ",
+                "title": "واثلة",
+                "uri": "JK_000129_013122"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.8414,
+                    39.69061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.69061",
+                    "coord_lon": "-6.84140",
+                    "cornu_URI": "QANTARASIF_068W396N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قنطرة ﭐلسيف",
+                    "toponym_arabic_other": "قنطرة ﭐلسيف",
+                    "toponym_buckwalter": "Qantara al-Sif",
+                    "toponym_search": "Qantara al-Sif",
+                    "toponym_translit": "Qanṭaraŧ al-Sīf",
+                    "toponym_translit_other": "Qanṭaraŧ al-Sīf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

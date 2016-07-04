@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.42465,
+                    38.18191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.18191",
+                    "coord_lon": "40.42465",
+                    "cornu_URI": "WADIRAMS_404E381N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "وادي ﭐلرمس",
+                    "toponym_arabic_other": "وادي ﭐلرمس، ﭐلرس، وادي صلب",
+                    "toponym_buckwalter": "Wadi al-Rams, al-Rass, Wadi Salb",
+                    "toponym_search": "Wadi al-Rams, al-Rass, Wadi Salb",
+                    "toponym_translit": "Wādī al-Rams",
+                    "toponym_translit_other": "Wādī al-Rams, al-Rass, Wādī Ṣalb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

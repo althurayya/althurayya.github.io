@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.40368,
+                    36.98351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.98351",
+                    "coord_lon": "-4.40368",
+                    "cornu_URI": "RAYYA_044W369N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "رية",
+                    "toponym_arabic_other": "رية، ريه",
+                    "toponym_buckwalter": "Rayya, Rayyuh",
+                    "toponym_search": "Rayya, Rayyuh",
+                    "toponym_translit": "Rayyaŧ",
+                    "toponym_translit_other": "Rayyaŧ, Rayyuh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

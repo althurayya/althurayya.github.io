@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.80636,
+                    16.32481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.32481",
+                    "coord_lon": "42.80636",
+                    "cornu_URI": "SHARJA_428E163N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "ﭐلشرجة",
+                    "toponym_arabic_other": "ﭐلشرجة",
+                    "toponym_buckwalter": "al-Sharja",
+                    "toponym_search": "al-Sharja",
+                    "toponym_translit": "al-Šarǧaŧ",
+                    "toponym_translit_other": "al-Šarǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000952_2268",
+            "properties": {
+                "reference": "al-Samʿānī. <i>Kitāb al-ansāb</i>. (5 vols.) Bayrūt: Dār al-fikr, 1998, Vol.3, pp.374-375",
+                "source": "الأنساب للسمعاني",
+                "text": "<h1>الشاري</h1> بفتح الشين المعجمة وفي آخرها الراء هذه النسبة إلى الشراة وهم الخوارج والنسبة إليهم الشاري |جـ 3 صـ 375| ",
+                "title": "الشاري",
+                "uri": "JK_000952_2268"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

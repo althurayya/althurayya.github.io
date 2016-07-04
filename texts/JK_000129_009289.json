@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_009289",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.183",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>غار المعرة</h1> في جبل نساح بأرض اليمامة لبني جشم بن الحارث بن لؤي عن الحفصي ",
+                "title": "غار المعرة",
+                "uri": "JK_000129_009289"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

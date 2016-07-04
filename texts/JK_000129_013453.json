@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013453",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.390",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>هبزتان</h1> بفتح أوله وثانيه وزاي مفتوحة وتاء مثناة من فوق وآخره نون من قرى دهستان ",
+                "title": "هبزتان",
+                "uri": "JK_000129_013453"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

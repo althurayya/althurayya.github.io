@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_008982",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.4, p.132",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>عفزة</h1> بفتح أوله وسكون ثانيه ثم زاي وهو واحدة العفز وهو الجوز الذي يؤكل وهي بلدة قديمة قرب الرقة الشامية على شاطىء الفرات وهي الآن خراب ",
+                "title": "عفزة",
+                "uri": "JK_000129_008982"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

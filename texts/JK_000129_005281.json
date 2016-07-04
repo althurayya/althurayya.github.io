@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005281",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.476",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دنجوية</h1> قرية بمصر كبيرة معروفة من جهة دمياط يضاف إليها كورة يقال لها الدنجاوية ",
+                "title": "دنجوية",
+                "uri": "JK_000129_005281"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

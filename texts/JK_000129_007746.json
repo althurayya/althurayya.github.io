@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_007746",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.370",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>شوحطان</h1> الشوحط اسم شجر وهي مدينة باليمن قرب صنعاء يقال لها قصر شوحطان ",
+                "title": "شوحطان",
+                "uri": "JK_000129_007746"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_013030",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.5, p.320",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>نهر ذراع</h1> بالعراق وهو ذراع النمري من ربيعة وهو والد هارون بن ذراع ",
+                "title": "نهر ذراع",
+                "uri": "JK_000129_013030"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

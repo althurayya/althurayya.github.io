@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.21572,
+                    33.37712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.37712",
+                    "coord_lon": "44.21572",
+                    "cornu_URI": "BADURAYA_442E333N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "بادوريا",
+                    "toponym_arabic_other": "بادوريا",
+                    "toponym_buckwalter": "Baduraya",
+                    "toponym_search": "Baduraya",
+                    "toponym_translit": "Bādūrayā",
+                    "toponym_translit_other": "Bādūrayā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

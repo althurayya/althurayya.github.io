@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.58384,
+                    35.66884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.66884",
+                    "coord_lon": "36.58384",
+                    "cornu_URI": "JABALSUMAQ_365E356N_O_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل ﭐلسماق",
+                    "toponym_arabic_other": "جبل ﭐلسماق",
+                    "toponym_buckwalter": "Jabal al-Sumaq",
+                    "toponym_search": "Jabal al-Sumaq",
+                    "toponym_translit": "Ǧabal al-Sumāq",
+                    "toponym_translit_other": "Ǧabal al-Sumāq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

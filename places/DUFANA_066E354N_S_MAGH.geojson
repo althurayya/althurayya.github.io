@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.62915,
+                    35.49564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.49564",
+                    "coord_lon": "6.62915",
+                    "cornu_URI": "DUFANA_066E354N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دوفانة",
+                    "toponym_arabic_other": "دوفانة",
+                    "toponym_buckwalter": "Dufana",
+                    "toponym_search": "Dufana",
+                    "toponym_translit": "Dūfānaŧ",
+                    "toponym_translit_other": "Dūfānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005022",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.2, p.430",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>دارة منزر</h1> في قول الحطيئة إن الرزية لا رزية مثلها فاقني حياءك لا أبا لك واصبري إن الرزية لا أبا لك هالك بين الدماخ وبين دارة منزر ",
+                "title": "دارة منزر",
+                "uri": "JK_000129_005022"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

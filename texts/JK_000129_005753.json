@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005753",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.43",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رستقباذ</h1> في أخبار الإزارقة لما خرج مسلم بن عبيس من حبس أهل البصرة لقتالهم انتقل نافع إلى رستقباذ من أرض دستوا فقتل نافع وابن عبيس هناك ",
+                "title": "رستقباذ",
+                "uri": "JK_000129_005753"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

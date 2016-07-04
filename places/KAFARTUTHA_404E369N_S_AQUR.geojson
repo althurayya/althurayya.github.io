@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.42704,
+                    36.98749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.98749",
+                    "coord_lon": "40.42704",
+                    "cornu_URI": "KAFARTUTHA_404E369N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كفرتوثا",
+                    "toponym_arabic_other": "كفرتوثا",
+                    "toponym_buckwalter": "Kafartutha",
+                    "toponym_search": "Kafartutha",
+                    "toponym_translit": "Kafartūṯā",
+                    "toponym_translit_other": "Kafartūṯā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

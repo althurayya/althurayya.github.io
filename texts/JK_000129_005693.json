@@ -1,0 +1,16 @@
+{
+    "features": [
+        {
+            "item": "JK_000129_005693",
+            "properties": {
+                "reference": "Yāqūt al-Ḥamawī. <i>Muʿjam al-buldān</i>. (5 vols.) Bayrūt: Dār Ṣādir, 1977, Vol.3, p.36",
+                "source": "معجم البلدان لياقوت",
+                "text": "<h1>رحبى</h1> بضم أوله وفتح ثانيه بوزن شعبى موضع ",
+                "title": "رحبى",
+                "uri": "JK_000129_005693"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

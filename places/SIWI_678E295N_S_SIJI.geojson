@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.85288,
+                    29.53796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.53796",
+                    "coord_lon": "67.85288",
+                    "cornu_URI": "SIWI_678E295N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "سيوي",
+                    "toponym_arabic_other": "سيوي، سيوة",
+                    "toponym_buckwalter": "Siwi, Siwa",
+                    "toponym_search": "Siwi, Siwa",
+                    "toponym_translit": "Sīwī",
+                    "toponym_translit_other": "Sīwī, Sīwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
