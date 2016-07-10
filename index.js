@@ -72,6 +72,8 @@ var colorLookup = {
     39: "#B4368A",
     41: "#8F547C"
 };
+var min_zoom = 4,
+    max_zoom = 14;
 
 var regs = {};
 var markers = {};
@@ -84,6 +86,7 @@ var type_size =
     "Waystations" :0.5,
     "towns" : 2
 };
+var prevZoom = min_zoom;
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     var geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
@@ -124,7 +127,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $("#initDesc").remove();
                 $("#location").addClass('active');
                 $("#locTab").addClass('active');
-                $("#locTitle").text(feature.properties.cornuData.toponym_translit + " (" + feature.properties.cornuData.toponym_arabic + ")");
+                $("#locTitle").text(feature.properties.cornuData.toponym_translit
+                    + " (" + feature.properties.cornuData.toponym_arabic + ")");
                 $("#locDescAr").text(feature.properties.arTitle);
                 $("#locDescTranslit").text(feature.properties.translitTitle);
                 $("#region").text(colorLookup[feature.properties.regNum]);
@@ -143,8 +147,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 var currentZoom = map.getZoom();
                 marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
             }
-
-            /**/
             return marker
         }
     });
@@ -155,7 +157,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             + key + "</li>");
     });
 
-    var map = L.map('map').setView([33.513807, 36.276528], 4);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+    var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
     tiles.addTo(map);
     geojson.addTo(map);
     //markers.addTo(map);
@@ -190,26 +192,33 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     }
 
     map.on('click', OnMapClick);
-    map.on('zoomend', function() {
-        var currentZoom = map.getZoom();
-        if(currentZoom == 6) {
-            Object.keys(markers).forEach(function (key) {
-                if (markers[key].options.type == "capitals") {
-                    markerLabels[key].setLabelNoHide(true);
-                    markers[key].bringToFront();
-                }
-            });
-        }
-
-        if(currentZoom == 8) {
-            Object.keys(markers).forEach(function (key) {
-                if (markers[key].options.type == "towns") {
-                    markerLabels[key].setLabelNoHide(true);
-                    markers[key].bringToFront();
-                }
-            });
-        }
+    map.on('zoomend', zoom);
+    var keySorted = Object.keys(type_size).sort(function (a, b) {
+        return type_size[a] - type_size[b] > 0;
     });
+    function zoom(type) {
+        var currentZoom = map.getZoom();
+        var step = max_zoom - min_zoom / type_size.length;
+
+        if(currentZoom - prevZoom < 0) {
+            Object.keys(markers).forEach(function (key) {
+                if (markers[key].options.type ==
+                    keySorted[Math.floor((max_zoom - currentZoom - 2) / 2)]) {
+                    markerLabels[key].setLabelNoHide(false);
+                    markers[key].bringToFront();
+                }
+            });
+        } else {
+            Object.keys(markers).forEach(function (key) {
+                if (markers[key].options.type ==
+                    keySorted[Math.floor((max_zoom - currentZoom - 1) / 2)]) {
+                    markerLabels[key].setLabelNoHide(true);
+                    markers[key].bringToFront();
+                }
+            });
+        }
+        prevZoom = currentZoom;
+    }
 });
 
 function click_region(reg) {
