@@ -1,0 +1,9 @@
+.region_ul:hover {
+    color:red;
+    cursor:pointer;
+}
+
+.leaflet-label {
+    font: 20px 'Amiri', 'Lateef', 'Geeza Pro', serif;
+    border : none;
+}

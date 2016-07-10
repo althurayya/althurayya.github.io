@@ -1,132 +1,83 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
-  <script type="text/javascript" src="https://fungdavis.github.io/fungHGR/js/leaflet-sidebar.js"></script>
-  <title>al-Ṯurayyā Gazetteer, Test Version</title>
-  <meta charset="utf-8" />
+    <script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
+    <script type="text/javascript" src="https://fungdavis.github.io/fungHGR/js/leaflet-sidebar.js"></script>
+    <script src="https://rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.js"></script>
+    <link rel="stylesheet" href="https://rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.css"/>
+    <title>al-Ṯurayyā Gazetteer, Test Version</title>
+    <meta charset="utf-8"/>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!--Leaflet CSS-->
-  <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
-  <link rel="stylesheet" type="text/css" href="css/leaflet_test_style.css">
-  <link rel="stylesheet" type="text/css" href="css/leaflet-sidebar.css">
+    <!--Leaflet CSS-->
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css"/>
+    <link rel="stylesheet" type="text/css" href="css/leaflet_test_style.css">
+    <link rel="stylesheet" type="text/css" href="css/leaflet-sidebar.css">
 
-  <!--Custom Fonts-->
-  <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic&amp;subset=cyrillic,latin' rel='stylesheet' type='text/css'>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <!--Custom Fonts-->
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic&amp;subset=cyrillic,latin'
+          rel='stylesheet' type='text/css'>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
-  <!--GeoJson Data File-->
-  <link rel="points" type="application/json" href="https://cdn.rawgit.com/maximromanov/althurayya/master/master/places.geojson">
-  <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <!--GeoJson Data File-->
+    <link rel="points" type="application/json"
+          href="https://cdn.rawgit.com/maximromanov/althurayya/master/master/places.geojson">
+    <link rel="stylesheet" href="index.css"/>
+    <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
 </head>
 <body>
-  <div id="sidebar" class="sidebar">
+<div id="sidebar" class="sidebar">
     <ul class="sidebar-tabs" role="tablist">
-      <li id="homeTab" class="active"><a href="#home" role="tab"><i class="fa fa-question"></i></a></li>
-      <li id="locTab"><a href="#location" role="tab"><i class="fa fa-map-marker"></i></a></li>
+        <li id="homeTab" class="active"><a href="#home" role="tab"><i class="fa fa-question"></i></a></li>
+        <li id="locTab"><a href="#location" role="tab"><i class="fa fa-map-marker"></i></a></li>
+        <li id="regions"><a href="#regionPane" role="tab"><i class="fa fa-square"></i></a></li>
+
     </ul>
     <div class="sidebar-content">
-      <div class="sidebar-pane active" id="home">
-        <h1 id="homeTitle">Welcome to the Toponimika Map!</h1>
-        <p>A new iteration of al-Ṯurayyā Gazetteer</p>
-      </div>
-      <div class="sidebar-pane" id="location">
-        <h1 id="locTitle">Location</h1>
-        <h2 id="admin1"></h2>
-        <p id="initDesc">If you click on a map marker, information about it will appear here.</p>
-        <h3>Description (Arabic)</h3>
+        <div class="sidebar-pane active" id="home">
+            <h1 id="homeTitle">Welcome to the Toponimika Map!</h1>
 
-        <p id="locDescAr"></p>
-        <p id="regNum"></p>
+            <p>A new iteration of al-Ṯurayyā Gazetteer</p>
+        </div>
+        <div class="sidebar-pane" id="location">
+            <h1 id="locTitle">Location</h1>
 
-        <h3>Description (English, machine-translated)</h3>
-        <p id="locDescTranslit"></p>
-        <p id="region"></p>
-        <h3>Original Text</h3>
-        <p id="txtLink">
-          <a href="#"></a>
-        </p>
-        <h3>GeoNames Place</h3>
-        <p id="geoLink">
-          <a href="#"></a>
-        </p>
-      </div>
+            <h2 id="admin1"></h2>
+
+            <p id="initDesc">If you click on a map marker, information about it will appear here.</p>
+
+            <h3>Description (Arabic)</h3>
+
+            <p id="locDescAr"></p>
+
+            <p id="regNum"></p>
+
+            <h3>Description (English, machine-translated)</h3>
+
+            <p id="locDescTranslit"></p>
+
+            <p id="regionName"></p>
+
+            <h3>Original Text</h3>
+
+            <p id="txtLink">
+                <a href="#"></a>
+            </p>
+
+            <h3>GeoNames Place</h3>
+
+            <p id="geoLink">
+                <a href="#"></a>
+            </p>
+        </div>
+        <div class="sidebar-pane" id="regionPane">
+            <h1 id="regionList">Regions:</h1>
+            <ul id="regionDiv"></ul>
+        </div>
     </div>
-  </div>
-  <div id="map" class="sidebar-map"></div>
-  <script>
-
-    /*mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
-    wholink = '<a href="http://stamen.com">Stamen Design</a>';
-    var tiles = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {
-      attribution: '&copy; '+mapLink+' Contributors & '+wholink,
-      maxZoom: 18,
-    });*/
-    /*var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-    });*/
-    var tiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
-      attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
-      maxZoom: 16
-    });
-
-    var colorLookup = {1:"#D5812E",2:"#A768E6",3:"#58E0C1",4:"#323449",5:"#6CD941",6:"#E23A80",7:"#ABB1DB",8:"#384E21",9:"#BDD977",10:"#B27E86",11:"#8F351D",12:"#D5AB7A",13:"#514285",14:"#539675",15:"#4B281F",16:"#539236",17:"#DB4621",18:"#68DA85",19:"#6C7BD8",20:"#DBB540",21:"#8F3247",22:"#A8DBD5",23:"#C9DB3F",24:"#537195",25:"#7E5C31",26:"#D1785F",27:"#898837",28:"#DC4AD3",29:"#DD454F",30:"#C4D9A5",31:"#DDC1BF",32:"#D498D2",33:"#61B7D6",34:"#A357B1",35:"#522046",36:"#849389",37:"#3B524B",38:"#DD6F91",39:"#B4368A",41:"#8F547C"}
-
-    $.getJSON($('link[rel="points"]').attr("href"), function(data) {
-      var geojson = L.geoJson(data, {
-        pointToLayer: function (feature, latlng) {
-          var marker = L.circleMarker(latlng, {
-            //radius: Math.sqrt(feature.properties.topType.length)/3,
-            radius: 5,
-            fillColor: colorLookup[feature.properties.cornuData.region_code],
-            color: colorLookup[feature.properties.cornuData.region_code],
-            //color: "#fff",
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 0.8
-          })
-          function OnMarkerClick(e) {
-            $("#sidebar").removeClass('collapsed');
-            $(".sidebar-pane").removeClass('active');
-            $(".sidebar-tabs > li").removeClass('active');
-            $("#initDesc").remove();
-            $("#location").addClass('active');
-            $("#locTab").addClass('active');
-            $("#locTitle").text(feature.properties.cornuData.toponym_translit+" ("+feature.properties.cornuData.toponym_arabic+")");
-            $("#locDescAr").text(feature.properties.arTitle);
-            $("#locDescTranslit").text(feature.properties.translitTitle);
-            $("#region").text(colorLookup[feature.properties.regNum]);
-            $("#regNum").text(colorLookup[feature.properties.regNum]);
-            //$("#admin1").text(feature.properties.admin1_std_name);
-            //$("#txtLink > a").text(feature.properties.SOURCE);
-            //$("#txtLink > a").attr("href",feature.properties.SOURCE);
-            //$("#txtLink > a").attr("target","_blank");
-            //$("#geoLink > a").text(feature.properties.geo.geonameId);
-            //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
-            $("#geoLink > a").attr("target","_blank");
-          }
-          marker.on('click',OnMarkerClick);
-          function ResizeMarker(e) {
-            var currentZoom = map.getZoom();
-            marker.setradius(currentZoom*(Math.sqrt(feature.properties.translitTitle.length)/3));
-          }
-          /**/
-          return marker
-      }});
-      var map = L.map('map').fitBounds(geojson.getBounds(),{paddingTopLeft:[500,0]});
-      tiles.addTo(map);
-      geojson.addTo(map);
-      var sidebar = L.control.sidebar('sidebar').addTo(map);
-      function OnMapClick(e) {
-        $("#sidebar-pane").removeClass('active');
-        $(".sidebar-tabs > li").removeClass('active');
-        $("#sidebar").addClass('collapsed');
-      }
-      map.on('click',OnMapClick)
-    });
-  </script>
-
+</div>
+<div id="map" class="sidebar-map"></div>
+<script src="index.js"></script>
 </body>
 </html>
