@@ -87,6 +87,7 @@ var type_size =
     "towns" : 2
 };
 var prevZoom = min_zoom;
+var auto_list = [];
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     var geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
@@ -95,23 +96,26 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             regs[feature.properties.cornuData.region_spelled]
                 .push(feature.properties.cornuData.cornu_URI);
             var cities = new L.LayerGroup();
+
             var marker = L.circleMarker(latlng, {
                 cornu_URI : feature.properties.cornuData.cornu_URI,
                 //radius: Math.sqrt(feature.properties.topType.length)/3,
                 radius: type_size[feature.properties.cornuData.top_type_hom]*1.8,
                 fillColor: colorLookup[feature.properties.cornuData.region_code],
-                color: 'black',//colorLookup[feature.properties.cornuData.region_code],
+                color: '#fff',//colorLookup[feature.properties.cornuData.region_code],
                 //color: "#fff",
                 weight: 1,
                 opacity: 1,
                 fillOpacity: 0.8,
-                type : feature.properties.cornuData.top_type_hom
+                type : feature.properties.cornuData.top_type_hom,
+                region : feature.properties.cornuData.region_code
                 //riseOnHover:true,
                 //riseOffset:1000000,
                 //zIndexOffset:type_size[feature.properties.cornuData.top_type_hom]*10000
             });
 
             var tmp = marker.bindLabel(feature.properties.cornuData.toponym_arabic);
+            auto_list.push(feature.properties.cornuData.toponym_arabic);
             tmp.options.className="myLeafletLabel";
             tmp.options.zoomAnimation = true;
             tmp.options.opacity = 0.0;
@@ -147,13 +151,18 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 var currentZoom = map.getZoom();
                 marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
             }
+            //console.log(markers[feature.properties.cornuData.cornu_URI].options)
             return marker
         }
     });
+    //$( "#searchInput" ).autocomplete({
+    //    source: auto_list
+    //});
 
+    //$('div').not("")
     Object.keys(regs).forEach(function (key) {
-        var func = "click_region(\""+ key+"\");";
-        $("#regionDiv").append("<li class='region_ul' onclick=\'"+func + "\';>"
+        var func = "click_region(\"" + key + "\");";
+        $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
             + key + "</li>");
     });
 
@@ -220,24 +229,40 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         prevZoom = currentZoom;
     }
 });
-
+var prev_select_reg = undefined;
 function click_region(reg) {
-    var tmp = regs[reg];
-    Object.keys(markers).forEach(function(key) {
-       if(tmp.indexOf(key) == -1) {
-           markers[key].setStyle({fillColor : "gray",
-                                    color : "gray"});
-           //markers[key].setZIndexOffset(-1);
-           markers[key].options.zIndexOffset = -1000;
-       } else {
-           markers[key].setStyle({fillColor : "red"
-                                    , color:"black"});
-           //markers[key].setZIndexOffset(100);
-           markers[key].bringToFront();
+    document.getElementById(reg).style.color = 'red';
+    if(prev_select_reg != undefined)
+        document.getElementById(prev_select_reg).style.color ='black';
+    prev_select_reg = reg;
+    if(reg == "All") {
+        Object.keys(markers).forEach(function(key){
+            markers[key].setStyle({
+                fillColor: colorLookup[markers[key].options.region],
+                color: "gray"
+            });
+        });
+    } else {
 
-           markers[key].options.zIndexOffset = 1000;
-       }
-    });
+        var tmp = regs[reg];
+        Object.keys(markers).forEach(function (key) {
+            if (tmp.indexOf(key) == -1) {
+                markers[key].setStyle({
+                    fillColor: "gray",
+                    color: "gray"
+                });
+                //markers[key].setZIndexOffset(-1);
+                markers[key].options.zIndexOffset = -1000;
+            } else {
+                markers[key].setStyle({
+                    fillColor: "red"
+                    , color: "black"
+                });
+                //markers[key].setZIndexOffset(100);
+                markers[key].bringToFront();
+
+                markers[key].options.zIndexOffset = 1000;
+            }
+        });
+    }
 }
-
-

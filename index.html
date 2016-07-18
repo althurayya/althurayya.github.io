@@ -25,6 +25,7 @@
           href="https://cdn.rawgit.com/maximromanov/althurayya/master/master/places.geojson">
     <link rel="stylesheet" href="index.css"/>
     <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
 </head>
 <body>
 <div id="sidebar" class="sidebar">
@@ -32,6 +33,8 @@
         <li id="homeTab" class="active"><a href="#home" role="tab"><i class="fa fa-question"></i></a></li>
         <li id="locTab"><a href="#location" role="tab"><i class="fa fa-map-marker"></i></a></li>
         <li id="regions"><a href="#regionPane" role="tab"><i class="fa fa-square"></i></a></li>
+        <li id="search"><a href="#searchPane" role="tab"><i class="fa fa-search"></i></a></li>
+
 
     </ul>
     <div class="sidebar-content">
@@ -73,7 +76,14 @@
         </div>
         <div class="sidebar-pane" id="regionPane">
             <h1 id="regionList">Regions:</h1>
-            <ul id="regionDiv"></ul>
+            <ul id="regionDiv">
+                <li id="All" class="region_ul" onclick="click_region('All')">All</li>
+            </ul>
+        </div>
+        <div class="sidebar-pane" id="searchPane">
+            <h1>Search Toponym</h1>
+                    <input id="searchInput" type="text" placeholder="Search toponyms..."
+                            style="z-index: 99;"/>
         </div>
     </div>
 </div>
