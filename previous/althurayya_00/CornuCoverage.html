@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+		<title>al-Thurayya Gazetteer - Heatmap</title>
+		<link rel="stylesheet" href="heatmap.css" />
+		<link rel="stylesheet" href="leaflet/leaflet.css" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="leaflet/leaflet.ie.css" />
+		<![endif]-->
+		<style type="text/css">
+			#search-container {
+				z-index: 9999;
+				position: absolute;
+				top: 0;
+				left: 50px;
+				margin: 10px;
+			}
+			#map-title {
+				z-index: 9999;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				padding: 10px;
+				background-color: rgba(0,0,0,0.25);
+				font-size: 20px;
+				font-family: 'Roboto', Arial, sans-serif;
+				font-weight: 300;
+				color: #FFF;
+			}
+			#search-container #search input {
+				padding: 5px;
+				width: 200px;
+			}
+			.arabic {
+				font-size: 18px;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<div id="map"></div>
+		<div id="map-title">Coverage of Cornu’s <i>Atlas du monde arabo-islamique à l'époque classique: IXe-Xe siècles</i></div>
+	</body>
+	
+	<script src="leaflet/leaflet.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script type="text/javascript" src="heatmap-js/heatmap.js"></script>
+	<script type="text/javascript" src="heatmap-js/heatmap-leaflet.js"></script>
+	<script type="text/javascript" src="CornuMaps.json" charset="utf-8"></script>
+	<script type="text/javascript" src="CornuSep.json" charset="utf-8"></script>
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-37473376-2']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+	<!-- Custom -->
+	<script type="text/javascript" charset="utf-8">
+		//------------------------------------------------------------
+		//  Avoid namespace collisions
+		//------------------------------------------------------------
+		$j = jQuery;
+		var markers = [];
+		$j( function() {
+			//------------------------------------------------------------
+			//  Draw markers on a particular layer
+			//------------------------------------------------------------
+			function addMarker( _idx, _markers, _layer ) {
+				_layer.addLayer( _markers[_idx] );
+				return _markers[ _idx ]
+			}
+			//------------------------------------------------------------
+			// AWMC base layer
+			//------------------------------------------------------------
+			var baseLayer = L.tileLayer('http://a.tiles.mapbox.com/v3/isawnyu.map-knmctlkh/{z}/{x}/{y}.png', {
+			attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
+				     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>'
+	        });
+
+			//------------------------------------------------------------
+			// Create map
+			//------------------------------------------------------------
+			var map = new L.Map('map', {
+	            		center: new L.LatLng( 35, 38 ),
+				zoom: 4,
+				layers: [baseLayer],
+				minZoom: 3,
+				maxZoom: 11
+			});
+			//------------------------------------------------------------
+			//  START -- CornuAll
+			//------------------------------------------------------------
+			var cornuAll = L.layerGroup();
+			var cornuMapsStyle = { stroke: true, color: '#FF0000', weight: 1.5, opacity: 1, smoothFactor: 1 };
+			$j.each( cornuMaps.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuMapsStyle );
+				cornuAll.addLayer( route );
+			});
+                        map.addLayer( cornuAll );
+
+                        //------------------------------------------------------------
+ 			// separate maps
+			//------------------------------------------------------------
+			var cornuSep = { stroke: true, color: 'blue', weight: 4, opacity: 1, smoothFactor: 1 };
+			//------------------------------------------------------------
+			var cornuM01 = L.layerGroup();
+			$j.each( cornu01.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM01.addLayer( route );
+			});
+
+			var cornuM02 = L.layerGroup();
+			$j.each( cornu02.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM02.addLayer( route );
+			});
+
+			var cornuM03 = L.layerGroup();
+			$j.each( cornu03.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM03.addLayer( route );
+			});
+
+			var cornuM04 = L.layerGroup();
+			$j.each( cornu04.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM04.addLayer( route );
+			});
+
+			var cornuM05 = L.layerGroup();
+			$j.each( cornu05.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM05.addLayer( route );
+			});
+
+			var cornuM06 = L.layerGroup();
+			$j.each( cornu06.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM06.addLayer( route );
+			});
+
+			var cornuM07 = L.layerGroup();
+			$j.each( cornu07.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM07.addLayer( route );
+			});
+
+			var cornuM08 = L.layerGroup();
+			$j.each( cornu08.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM08.addLayer( route );
+			});
+
+			var cornuM09 = L.layerGroup();
+			$j.each( cornu09.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM09.addLayer( route );
+			});
+
+			var cornuM10 = L.layerGroup();
+			$j.each( cornu10.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM10.addLayer( route );
+			});
+
+			var cornuM10a = L.layerGroup();
+			$j.each( cornu10a.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM10a.addLayer( route );
+			});
+
+			var cornuM11 = L.layerGroup();
+			$j.each( cornu11.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM11.addLayer( route );
+			});
+
+			var cornuM12 = L.layerGroup();
+			$j.each( cornu12.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM12.addLayer( route );
+			});
+
+			var cornuM13 = L.layerGroup();
+			$j.each( cornu13.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM13.addLayer( route );
+			});
+
+			var cornuM14 = L.layerGroup();
+			$j.each( cornu14.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM14.addLayer( route );
+			});
+
+			var cornuM15 = L.layerGroup();
+			$j.each( cornu15.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM15.addLayer( route );
+			});
+
+			var cornuM16 = L.layerGroup();
+			$j.each( cornu16.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM16.addLayer( route );
+			});
+
+			var cornuM18 = L.layerGroup();
+			$j.each( cornu18.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM18.addLayer( route );
+			});
+
+			var cornuM19 = L.layerGroup();
+			$j.each( cornu19.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM19.addLayer( route );
+			});
+
+			var cornuM20 = L.layerGroup();
+			$j.each( cornu20.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, cornuSep );
+				cornuM20.addLayer( route );
+			});
+
+			//------------------------------------------------------------
+			//  Map selector
+			//------------------------------------------------------------
+			var baseMaps = {
+				"AWMC": baseLayer,
+			};
+			var overlayMaps = {
+				"Cornu’s <i>Atlas du monde arabo-islamique à l'époque classique: IXe-Xe siècles</i>": cornuAll,
+				"I. Province du Šām": cornuM01,
+                                "II. Province d’Aqūr ou Ǧazīra" : cornuM03,
+                                "III. Province d’Irāq" : cornuM02,
+                                "IV. Province du Ḫūzistān" : cornuM07,
+                                "V. Province du Ǧibāl" : cornuM06,
+                                "VI. Provinces du Fāris et du Kirmān, Désert non Arabe (al-Mafāza)" : cornuM05,
+                                "VII. Province d’Arabie (Ǧazīrat al-ʿArab)" : cornuM04,
+                                "VIII. Circonscription du Yemen" : cornuM20,
+                                "IX. La steppe Arabe (Bādiyat al-ʿArab)" : cornuM19,
+                                "X. Province d’Egypte" : cornuM18,
+                                "XI. Province d’Egypte et Confins soudanais" : cornuM16,
+                                "XII. Province du Maġrib" : cornuM15,
+                                "XIII. Circonscription de Barqa et itinéraire de Gabés à Alexandrie" : cornuM14,
+                                "XIV. Province d’Andalus" : cornuM13,
+                                "XV. Circonscription de Sicile (Kūra Iskiliyya)" : cornuM12,
+                                "XVI. Province du Riḥāb et du Daylam" : cornuM11,
+                                "XVII. Province du Ḫurāsān et du Transoxiane (Mā warāʾ an-nahr)" : cornuM10a,
+                                "XVIII. al-Ḫazar" : cornuM10,
+                                "XIX. Siǧistān et Province du Sind" : cornuM09,
+                                "XX. Province du Sind" : cornuM08,                          
+			};
+			L.control.layers( baseMaps, overlayMaps ).addTo( map );
+		});
+		//------------------------------------------------------------
+		//  Not the fastest text search... > 10,000 you might get some slowdown
+		//------------------------------------------------------------
+		function filterPlaces( _needle, _obj, _keys ) {
+			var matches = [];
+			var needle = _needle.toUpperCase();
+			for ( var i=0, ii=_obj.length; i<ii; i++ ) {
+				for ( var j=0, jj=_keys.length; j<jj; j++ ) {
+					var stack = _obj[i][_keys[j]].toUpperCase();
+					if ( stack.indexOf( needle ) != -1 ) {
+						matches.push( i );
+					}
+				}
+			}
+			return matches;
+		}
+	</script>
+</html>

@@ -1,0 +1,324 @@
+path,circle,rect,polygon,ellipse,line {
+    vector-effect: non-scaling-stroke;
+}
+
+@font-face {
+    font-family: "Brill";
+    src: url("../../fonts/BrillBold.woff");
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: "Brill";
+    src: url("../../fonts/BrillItalic.woff");
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Brill";
+    src: url("../../fonts/BrillBoldItalic.woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Brill";
+    src: url("../../fonts/BrillRoman.woff");
+}
+
+body {
+  font-family: 'Brill', 'Old Standard TT', 'Sorts Mill Goudy', 'Cambria', 'Gentium', serif;
+  font-size: 24px;
+  color: #404040;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  *background-color: rgba(255, 255, 255, 0.75);*
+}
+
+#map { 
+	position:absolute; 
+  height: 100%;
+	width:100%; 
+}
+
+.text {
+	font-size:7px;
+}
+
+.arabic-link {
+  text-decoration: none;
+}
+
+#search-container #search input {
+  padding: 5px;
+  width: 200px;
+}
+
+#map-title {
+  z-index: 9999;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px 10px 25px 10px;
+  background-color: rgba(0,0,0,0.15);
+  font-size: 30px;
+  font-family: 'Brill', serif;
+  font-weight: 300;
+  color: #fff;
+}
+
+#map-subtitle {
+  z-index: 9999;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px 10px 10px 15px;
+  background-color: rgba(0,0,0,0.0);
+  font-size: 10px;
+  font-family: 'Brill', serif;
+  font-weight: 300;
+  color: #fff;
+}
+
+#search-container {
+  z-index: 8888;
+  position: absolute;
+  top: 0;
+  left: 50px;
+  margin: 10px;
+}
+
+/*path {
+	stroke: red;
+	stroke-width: 2px;
+}*/
+
+.node {
+    fill: blue;
+    stroke: black;
+    stroke-width: 1
+}
+
+.site-icon {
+  background: black;
+  border:5px solid rgba(255,255,255,0.5);
+  color: black;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:30px;
+}
+
+.site-label {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.english{
+  font-size: 20px;
+  font-family: Brill, Gentium, Georgia, Arial, serif;
+  direction: ltr;
+}
+
+.english-popup{
+  font-size: 22px;
+  font-family: Brill, Gentium, Georgia, Arial, serif;
+  font-weight: bold;
+  direction: ltr;
+  line-height: 38px;
+}
+
+.english-credits{
+  font-size: 14px;
+  font-family: Brill, Gentium, Georgia, Arial, serif;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  /*left: 0;*/
+  padding: 10px 10px 10px 0px;
+  color: 'grey';
+  /*text-align: center;*/
+}
+
+
+.englishTech{
+  font-size: 10px;
+  /*font-family: 'Roboto', Arial, serif;*/
+  font-family: Brill, Gentium, Georgia, Arial, serif;
+}
+
+.arabic {
+  font-size: 20px;
+  font-family: 'Amiri', 'Lateef', 'Geeza Pro', serif;
+  padding: 0;
+  direction: rtl;
+}
+
+.arabic-popup {
+  font-size: 26px;
+  font-family: 'Amiri', 'Lateef', 'Geeza Pro', serif;
+  padding: 0;
+  direction: rtl;
+  line-height: 32px;
+}
+
+
+
+/* CUSTOM POPUPU 
+.custom-popup .leaflet-popup-content-wrapper {
+  background:#2c3e50;
+  color:#fff;
+  font-size:16px;
+  line-height:24px;
+}
+
+.custom-popup .leaflet-popup-content-wrapper a {
+  color:rgba(255,255,255,0.5);
+}
+.custom-popup .leaflet-popup-tip-container {
+  width:40px;
+  height:15px;
+
+}
+.custom-popup .leaflet-popup-tip {
+  border-left:0px solid transparent;
+  border-right:0px solid transparent;
+  border-top:15px solid #2c3e50;
+  z-index: -1; 
+  position:relative
+} */ 
+
+.leaflet-label-city {
+  background: rgb(235, 235, 235);
+  background: rgba(235, 235, 235, 0.81);
+  color: #111;
+  display: block;
+  font: 15px/30px 'Brill', 'Gentium', Georgia, serif;
+  font-weight: normal;
+  padding: 3px 6px;
+  position: absolute;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+
+.leaflet-label-waters {
+  font: 15px/30px "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  position: absolute;
+  bottom: 15%;
+  color: #5A5A94; 
+}
+
+.leaflet-label-regions {
+  font : 20px/45px;
+  font-weight: bold;
+  color: red;
+}
+
+.leaflet-label-search {
+  background: rgb(235, 235, 235);
+  background: rgba(235, 235, 235, 0.81);
+  color: #111;
+  display: block;
+  font: 15px/30px 'Brill', 'Gentium', Georgia, serif;
+  font-weight: bold;
+  padding: 3px 6px;
+  position: absolute;
+}
+
+.region-outer {
+  color: #000; 
+}
+
+#index-lookup {
+  font-size: 16px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+}
+
+#index-lookup-content {
+  font-size: 15px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+  color: #000;
+}
+
+#index-lookup-content {
+  display: none;
+  z-index: 9999;
+  position: absolute;
+  font-size: 15px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+  color: #000;
+  width: 30%;
+  top: 10%; 
+  left: 5%;
+  height: 80%;
+  bottom: 10%;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  /*background-color: #FFF;*/
+  overflow: scroll;
+  float: left;
+}
+
+#index-lookup-match {
+  display: none;
+  z-index: 9999;
+  position: absolute;
+  font-size: 15px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+  color: #000;
+  width: 55%;
+  top: 10%;
+  right: 5%;
+  bottom: 10%; 
+  height: 80%;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  /*background-color: #FFF;*/
+  overflow: scroll;
+  float: left;
+}
+
+#context-matches {
+  display: none;
+}
+
+.close {
+  z-index: 9999;
+  float: right;
+  color: #f00;
+  cursor : pointer;
+}
+
+#match {
+  direction: rtl;
+  font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+
+.match-display {
+  display: none;
+  font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+
+.match-display-reference {
+  display: none;
+  font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+
+.match-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+}
