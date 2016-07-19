@@ -10,6 +10,7 @@
 /*var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
  attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
  });*/
+
 var tiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
     attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
     maxZoom: 16
@@ -74,6 +75,7 @@ var colorLookup = {
 };
 var min_zoom = 4,
     max_zoom = 14;
+var prevZoom = min_zoom;
 
 var regs = {};
 var markers = {};
@@ -86,16 +88,17 @@ var type_size =
     "Waystations" :0.5,
     "towns" : 2
 };
-var prevZoom = min_zoom;
+var geojson;
+var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
-    var geojson = L.geoJson(data, {
+    //console.log(data)
+    geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
             if (regs[feature.properties.cornuData.region_spelled] == undefined)
                 regs[feature.properties.cornuData.region_spelled] = [];
             regs[feature.properties.cornuData.region_spelled]
                 .push(feature.properties.cornuData.cornu_URI);
-            var cities = new L.LayerGroup();
 
             var marker = L.circleMarker(latlng, {
                 cornu_URI : feature.properties.cornuData.cornu_URI,
@@ -108,14 +111,14 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 opacity: 1,
                 fillOpacity: 0.8,
                 type : feature.properties.cornuData.top_type_hom,
-                region : feature.properties.cornuData.region_code
-                //riseOnHover:true,
+                region : feature.properties.cornuData.region_code,
+                searchTitle : feature.properties.cornuData.toponym_search
                 //riseOffset:1000000,
                 //zIndexOffset:type_size[feature.properties.cornuData.top_type_hom]*10000
             });
 
             var tmp = marker.bindLabel(feature.properties.cornuData.toponym_arabic);
-            auto_list.push(feature.properties.cornuData.toponym_arabic);
+            auto_list.push(feature.properties.cornuData.toponym_search);
             tmp.options.className="myLeafletLabel";
             tmp.options.zoomAnimation = true;
             tmp.options.opacity = 0.0;
@@ -123,6 +126,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
 
             markers[feature.properties.cornuData.cornu_URI] = marker;
+
+            marker.on('click', OnMarkerClick);
 
             function OnMarkerClick(e) {
                 $("#sidebar").removeClass('collapsed');
@@ -146,18 +151,38 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $("#geoLink > a").attr("target", "_blank");
             }
 
-            marker.on('click', OnMarkerClick);
             function ResizeMarker(e) {
                 var currentZoom = map.getZoom();
                 marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
             }
-            //console.log(markers[feature.properties.cornuData.cornu_URI].options)
             return marker
         }
+
     });
-    //$( "#searchInput" ).autocomplete({
-    //    source: auto_list
-    //});
+    console.log(auto_list)
+
+    $( "#searchInput" ).autocomplete({
+        appendTo: "#searchPane",
+        source: auto_list,
+        select: function (e, ui) {
+            var selected = ui.item.value.toUpperCase();
+            Object.keys(markers).forEach(function(key) {
+                markerLabels[key].setLabelNoHide(false);
+                var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
+                if (merkerSearchTitle.indexOf(selected) != -1) {
+                    markers[key].setStyle({
+                        fillOpacity: 1,
+                        fillColor: "red"
+                    });
+                }
+                else
+                    markers[key].setStyle({
+                        fillOpacity: 0.2,
+                        fillColor: colorLookup[markers[key].options.region]
+                    })
+            })
+        }
+    });
 
     //$('div').not("")
     Object.keys(regs).forEach(function (key) {
@@ -166,10 +191,9 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             + key + "</li>");
     });
 
-    var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
     tiles.addTo(map);
     geojson.addTo(map);
-    //markers.addTo(map);
+
     var cities = new L.LayerGroup();
     Object.keys(markers).forEach(function(key) {
         markers[key].addTo(cities);
@@ -178,7 +202,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             markers[key].bringToFront();
         }
     });
-    //markers.addTo(cities);
     var baseLayers = {
         "Grayscale": grayscale,
         "Streets": streets,
@@ -201,11 +224,18 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     }
 
     map.on('click', OnMapClick);
+
+    /*==============================================
+     * Zoom on Map.
+     *==============================================*/
     map.on('zoomend', zoom);
     var keySorted = Object.keys(type_size).sort(function (a, b) {
         return type_size[a] - type_size[b] > 0;
     });
-    function zoom(type) {
+    /*
+     * Show/Hide the labels based on the zoom level.
+     */
+    function zoom() {
         var currentZoom = map.getZoom();
         var step = max_zoom - min_zoom / type_size.length;
 
@@ -228,7 +258,30 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         }
         prevZoom = currentZoom;
     }
+
+    /*==============================================
+     * Search Toponym
+     *==============================================*/
+    $( '#searchInput' ).on( 'keyup', function() {
+        Object.keys(markers).forEach(function(key) {
+            var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
+            //console.log($( '#searchInput' ).val())
+            var searchTerm = $( '#searchInput' ).val().toUpperCase();
+            if ( merkerSearchTitle.indexOf(searchTerm) != -1 )
+                markers[key].setStyle({fillOpacity: 1,
+                    fillColor: "red"})
+            if (merkerSearchTitle.indexOf(searchTerm) == -1
+                    && searchTerm !== "")
+                markers[key].setStyle({fillOpacity: 0.2,
+                                        fillColor: colorLookup[markers[key].options.region]})
+            else if (searchTerm === "")
+                markers[key].setStyle({fillOpacity: 1,
+                    fillColor: colorLookup[markers[key].options.region]})
+        })
+    });
+
 });
+
 var prev_select_reg = undefined;
 function click_region(reg) {
     document.getElementById(reg).style.color = 'red';

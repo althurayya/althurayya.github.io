@@ -14,7 +14,8 @@
     <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css"/>
     <link rel="stylesheet" type="text/css" href="css/leaflet_test_style.css">
     <link rel="stylesheet" type="text/css" href="css/leaflet-sidebar.css">
-
+    <link rel="stylesheet" type="text/css" href="https://rawgit.com/stefanocudini/leaflet-search/master/src/leaflet-search.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
     <!--Custom Fonts-->
     <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic&amp;subset=cyrillic,latin'
           rel='stylesheet' type='text/css'>
@@ -26,16 +27,15 @@
     <link rel="stylesheet" href="index.css"/>
     <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+    <script src="https://rawgit.com/stefanocudini/leaflet-search/master/src/leaflet-search.js"></script>
 </head>
 <body>
 <div id="sidebar" class="sidebar">
     <ul class="sidebar-tabs" role="tablist">
         <li id="homeTab" class="active"><a href="#home" role="tab"><i class="fa fa-question"></i></a></li>
         <li id="locTab"><a href="#location" role="tab"><i class="fa fa-map-marker"></i></a></li>
-        <li id="regions"><a href="#regionPane" role="tab"><i class="fa fa-square"></i></a></li>
+        <li id="regions"><a href="#regionPane" role="tab"><i class="fa fa-globe"></i></a></li>
         <li id="search"><a href="#searchPane" role="tab"><i class="fa fa-search"></i></a></li>
-
-
     </ul>
     <div class="sidebar-content">
         <div class="sidebar-pane active" id="home">
@@ -83,7 +83,7 @@
         <div class="sidebar-pane" id="searchPane">
             <h1>Search Toponym</h1>
                     <input id="searchInput" type="text" placeholder="Search toponyms..."
-                            style="z-index: 99;"/>
+                            style="z-index: 99;" autocomplete="on"/>
         </div>
     </div>
 </div>
