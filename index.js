@@ -73,7 +73,7 @@ var colorLookup = {
     39: "#B4368A",
     41: "#8F547C"
 };
-var min_zoom = 4,
+var min_zoom = 5,
     max_zoom = 14;
 var prevZoom = min_zoom;
 
@@ -91,6 +91,7 @@ var type_size =
 var geojson;
 var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
+var latlngs = [];
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     //console.log(data)
     geojson = L.geoJson(data, {
@@ -105,7 +106,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //radius: Math.sqrt(feature.properties.topType.length)/3,
                 radius: type_size[feature.properties.cornuData.top_type_hom]*1.8,
                 fillColor: colorLookup[feature.properties.cornuData.region_code],
-                color: '#fff',//colorLookup[feature.properties.cornuData.region_code],
+                color: colorLookup[feature.properties.cornuData.region_code],
                 //color: "#fff",
                 weight: 1,
                 opacity: 1,
@@ -116,7 +117,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //riseOffset:1000000,
                 //zIndexOffset:type_size[feature.properties.cornuData.top_type_hom]*10000
             });
-
+            latlngs.push([latlng['lat'],latlng['lng']])
             var tmp = marker.bindLabel(feature.properties.cornuData.toponym_arabic);
             auto_list.push(feature.properties.cornuData.toponym_search);
             tmp.options.className="myLeafletLabel";
@@ -159,8 +160,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         }
 
     });
-    console.log(auto_list)
-
     $( "#searchInput" ).autocomplete({
         appendTo: "#searchPane",
         source: auto_list,
@@ -274,14 +273,30 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                     && searchTerm !== "")
                 markers[key].setStyle({fillOpacity: 0.2,
                                         fillColor: colorLookup[markers[key].options.region]})
-            else if (searchTerm === "")
+            else if (searchTerm === "") {
+                zoom();
                 markers[key].setStyle({fillOpacity: 1,
                     fillColor: colorLookup[markers[key].options.region]})
+            }
+
         })
     });
 
 });
-
+var routeLayer = L.featureGroup();
+var routeStyle = {
+    "color": "brown",
+    "weight": 1.5,
+    "opacity": 1,
+    "smoothFactor" : 2
+};
+//routeLayer.addLayer(L.geoJson(allRoutes, {
+//    style: routeStyle})).addTo(map);
+$.getJSON($('link[rel="routes"]').attr("href"), function (data) {
+    routeLayer.addLayer(L.geoJson(data, {style: routeStyle})).addTo(map);
+ });
+    //console.log(multiPolyline)
+    //multiPolyline.addTo(map);
 var prev_select_reg = undefined;
 function click_region(reg) {
     document.getElementById(reg).style.color = 'red';
