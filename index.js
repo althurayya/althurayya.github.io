@@ -80,6 +80,7 @@ var prevZoom = min_zoom;
 var regs = {};
 var markers = {};
 var markerLabels = {};
+// Types of the toponyms
 var type_size =
 {
     "metropoles" : 6,
@@ -93,7 +94,6 @@ var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zo
 var auto_list = [];
 var latlngs = [];
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
-    //console.log(data)
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
             if (regs[feature.properties.cornuData.region_spelled] == undefined)
@@ -107,18 +107,16 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 radius: type_size[feature.properties.cornuData.top_type_hom]*1.8,
                 fillColor: colorLookup[feature.properties.cornuData.region_code],
                 color: colorLookup[feature.properties.cornuData.region_code],
-                //color: "#fff",
                 weight: 1,
                 opacity: 1,
                 fillOpacity: 0.8,
                 type : feature.properties.cornuData.top_type_hom,
                 region : feature.properties.cornuData.region_code,
                 searchTitle : feature.properties.cornuData.toponym_search
-                //riseOffset:1000000,
-                //zIndexOffset:type_size[feature.properties.cornuData.top_type_hom]*10000
             });
             latlngs.push([latlng['lat'],latlng['lng']])
             var tmp = marker.bindLabel(feature.properties.cornuData.toponym_arabic);
+            // list of toponyms for autocomplete action of the search input
             auto_list.push(feature.properties.cornuData.toponym_search);
             tmp.options.className="myLeafletLabel";
             tmp.options.zoomAnimation = true;
@@ -127,9 +125,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
 
             markers[feature.properties.cornuData.cornu_URI] = marker;
-
+           /*
+            * click on a marker
+            */
             marker.on('click', OnMarkerClick);
-
             function OnMarkerClick(e) {
                 $("#sidebar").removeClass('collapsed');
                 $(".sidebar-pane").removeClass('active');
@@ -158,49 +157,27 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             }
             return marker
         }
-
     });
-    $( "#searchInput" ).autocomplete({
-        appendTo: "#searchPane",
-        source: auto_list,
-        select: function (e, ui) {
-            var selected = ui.item.value.toUpperCase();
-            Object.keys(markers).forEach(function(key) {
-                markerLabels[key].setLabelNoHide(false);
-                var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
-                if (merkerSearchTitle.indexOf(selected) != -1) {
-                    markers[key].setStyle({
-                        fillOpacity: 1,
-                        fillColor: "red"
-                    });
-                }
-                else
-                    markers[key].setStyle({
-                        fillOpacity: 0.2,
-                        fillColor: colorLookup[markers[key].options.region]
-                    })
-            })
-        }
-    });
-
-    //$('div').not("")
+    // Create html list of regions in regio tab
     Object.keys(regs).forEach(function (key) {
         var func = "click_region(\"" + key + "\");";
         $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
             + key + "</li>");
     });
-
+    // Add tile and markers to the map
     tiles.addTo(map);
     geojson.addTo(map);
 
     var cities = new L.LayerGroup();
     Object.keys(markers).forEach(function(key) {
         markers[key].addTo(cities);
+        // metropoles has the lable on load and brought to front
         if(markers[key].options.type == "metropoles") {
             markerLabels[key].setLabelNoHide(true);
             markers[key].bringToFront();
         }
     });
+    // Different layers of map
     var baseLayers = {
         "Grayscale": grayscale,
         "Streets": streets,
@@ -208,95 +185,158 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         "Google Satellite":googleSat,
         "Google Terrain":googleTerrain
     };
-
     var overlays = {
-        "cities": cities
+        "Places": cities
     };
-
     L.control.layers(baseLayers, overlays).addTo(map);
     var sidebar = L.control.sidebar('sidebar').addTo(map);
-
-    function OnMapClick(e) {
-        $("#sidebar-pane").removeClass('active');
-        $(".sidebar-tabs > li").removeClass('active');
-        $("#sidebar").addClass('collapsed');
-    }
-
-    map.on('click', OnMapClick);
-
-    /*==============================================
-     * Zoom on Map.
-     *==============================================*/
-    map.on('zoomend', zoom);
-    var keySorted = Object.keys(type_size).sort(function (a, b) {
-        return type_size[a] - type_size[b] > 0;
-    });
-    /*
-     * Show/Hide the labels based on the zoom level.
-     */
-    function zoom() {
-        var currentZoom = map.getZoom();
-        var step = max_zoom - min_zoom / type_size.length;
-
-        if(currentZoom - prevZoom < 0) {
-            Object.keys(markers).forEach(function (key) {
-                if (markers[key].options.type ==
-                    keySorted[Math.floor((max_zoom - currentZoom - 2) / 2)]) {
-                    markerLabels[key].setLabelNoHide(false);
-                    markers[key].bringToFront();
+}).done(function () {
+    $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
+        var routes = L.geoJson(data, {onEachFeature: onEachFeature}
+        );
+        function onEachFeature(feature, layer) {
+            var sRegion, eRegion;
+            var sFound = false;
+            var eFound = false;
+            var keys = Object.keys(markers);
+            for(var i = 0; i < keys.length;i++) {
+                if (sFound == false &&
+                    feature.properties.sToponym == markers[keys[i]].options.cornu_URI) {
+                    sFound = true;
+                    sRegion = markers[keys[i]].options.region;
                 }
-            });
-        } else {
-            Object.keys(markers).forEach(function (key) {
-                if (markers[key].options.type ==
-                    keySorted[Math.floor((max_zoom - currentZoom - 1) / 2)]) {
-                    markerLabels[key].setLabelNoHide(true);
-                    markers[key].bringToFront();
+                if (eFound == false &&
+                    feature.properties.eToponym == markers[keys[i]].options.cornu_URI) {
+                    eFound = true;
+                    eRegion = markers[keys[i]].options.region;
                 }
-            });
-        }
-        prevZoom = currentZoom;
-    }
-
-    /*==============================================
-     * Search Toponym
-     *==============================================*/
-    $( '#searchInput' ).on( 'keyup', function() {
-        Object.keys(markers).forEach(function(key) {
-            var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
-            //console.log($( '#searchInput' ).val())
-            var searchTerm = $( '#searchInput' ).val().toUpperCase();
-            if ( merkerSearchTitle.indexOf(searchTerm) != -1 )
-                markers[key].setStyle({fillOpacity: 1,
-                    fillColor: "red"})
-            if (merkerSearchTitle.indexOf(searchTerm) == -1
-                    && searchTerm !== "")
-                markers[key].setStyle({fillOpacity: 0.2,
-                                        fillColor: colorLookup[markers[key].options.region]})
-            else if (searchTerm === "") {
-                zoom();
-                markers[key].setStyle({fillOpacity: 1,
-                    fillColor: colorLookup[markers[key].options.region]})
+                if (sFound == true && eFound == true)
+                    break;
+            }
+            if (sRegion == eRegion) {
+                customLineStyle(layer, colorLookup[eRegion], 2, 1)
+            }
+            else {
+                customLineStyle(layer, "gray", 1, 1)
             }
 
-        })
+        }
+        routeLayer.addLayer(routes).addTo(map);
     });
-
 });
+/*
+ * Click on map
+ */
+function OnMapClick(e) {
+    $("#sidebar-pane").removeClass('active');
+    $(".sidebar-tabs > li").removeClass('active');
+    $("#sidebar").addClass('collapsed');
+}
+
+map.on('click', OnMapClick);
+
+/*
+ * Zoom on Map.
+ */
+map.on('zoomend', zoom);
+var keySorted = Object.keys(type_size).sort(function (a, b) {
+    return type_size[a] - type_size[b] > 0;
+});
+/*
+ * Show/Hide the labels based on the zoom level.
+ */
+function zoom() {
+    var currentZoom = map.getZoom();
+    var step = max_zoom - min_zoom / type_size.length;
+
+    if(currentZoom - prevZoom < 0) {
+        Object.keys(markers).forEach(function (key) {
+            if (markers[key].options.type ==
+                keySorted[Math.floor((max_zoom - currentZoom - 2) / 2)]) {
+                markerLabels[key].setLabelNoHide(false);
+                markers[key].bringToFront();
+            }
+        });
+    } else {
+        Object.keys(markers).forEach(function (key) {
+            if (markers[key].options.type ==
+                keySorted[Math.floor((max_zoom - currentZoom - 1) / 2)]) {
+                markerLabels[key].setLabelNoHide(true);
+                markers[key].bringToFront();
+            }
+        });
+    }
+    prevZoom = currentZoom;
+}
+/*
+ * Search Toponym
+ */
+$( '#searchInput' ).on( 'keyup', function() {
+    Object.keys(markers).forEach(function(key) {
+        //console.log(markers[key])
+        var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
+        //console.log($( '#searchInput' ).val())
+        var searchTerm = $( '#searchInput' ).val().toUpperCase();
+        if ( merkerSearchTitle.indexOf(searchTerm) != -1 )
+            markers[key].setStyle({fillOpacity: 1,
+                fillColor: "red"})
+        if (merkerSearchTitle.indexOf(searchTerm) == -1
+            && searchTerm !== "")
+            markers[key].setStyle({fillOpacity: 0.2,
+                fillColor: colorLookup[markers[key].options.region]})
+        else if (searchTerm === "") {
+            zoom();
+            markers[key].setStyle({fillOpacity: 1,
+                fillColor: colorLookup[markers[key].options.region]})
+        }
+
+    })
+});
+/*
+ * Autocomplete the search input
+ */
+$( "#searchInput" ).autocomplete({
+    appendTo: "#searchPane",
+    source: auto_list,
+    select: function (e, ui) {
+        var selected = ui.item.value.toUpperCase();
+        Object.keys(markers).forEach(function(key) {
+            markerLabels[key].setLabelNoHide(false);
+            var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
+            if (merkerSearchTitle.indexOf(selected) != -1) {
+                markers[key].setStyle({
+                    fillOpacity: 1,
+                    fillColor: "red"
+                });
+            }
+            else
+                markers[key].setStyle({
+                    fillOpacity: 0.2,
+                    fillColor: colorLookup[markers[key].options.region]
+                })
+        })
+    }
+});
+
+/*
+ * Add the rotes to the map
+ */
 var routeLayer = L.featureGroup();
-var routeStyle = {
-    "color": "brown",
-    "weight": 1.5,
-    "opacity": 1,
-    "smoothFactor" : 2
+/*
+ * Set the routes style
+ */
+function customLineStyle(layer, color, width, opacity) {
+    layer.setStyle({
+        color: color,
+        weight: width,
+        opacity: opacity,
+        smoothFactor : 2
+    })
 };
-//routeLayer.addLayer(L.geoJson(allRoutes, {
-//    style: routeStyle})).addTo(map);
-$.getJSON($('link[rel="routes"]').attr("href"), function (data) {
-    routeLayer.addLayer(L.geoJson(data, {style: routeStyle})).addTo(map);
- });
-    //console.log(multiPolyline)
-    //multiPolyline.addTo(map);
+/*
+ * Highlights and change the color of markers of a region by clicking on a
+ * region name.
+ */
 var prev_select_reg = undefined;
 function click_region(reg) {
     document.getElementById(reg).style.color = 'red';
@@ -311,7 +351,6 @@ function click_region(reg) {
             });
         });
     } else {
-
         var tmp = regs[reg];
         Object.keys(markers).forEach(function (key) {
             if (tmp.indexOf(key) == -1) {
