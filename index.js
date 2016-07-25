@@ -15,11 +15,11 @@ var tiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Na
     attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
     maxZoom: 16
 });
-
 var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
         '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
         'Imagery © <a href="http://mapbox.com">Mapbox</a>',
     mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw';
+L.mapbox.accessToken = 'pk.eyJ1IjoiY2phY2tzMDQiLCJhIjoiVFNPTXNrOCJ9.k6TnctaSxIcFQJWZFg0CBA';
 
 var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr}),
@@ -30,7 +30,10 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     googleTerrain = L.tileLayer('http://{s}.google.com/vt/lyrs=p&x={x}&y={y}&z={z}',{
         maxZoom: 20,
         subdomains:['mt0','mt1','mt2','mt3']
-    });
+    }),
+    prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
+    attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
+    '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' });;
 var colorLookup = {
     1: "#D5812E",
     2: "#A768E6",
@@ -183,7 +186,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         "Streets": streets,
         "Open Street Map": tiles,
         "Google Satellite":googleSat,
-        "Google Terrain":googleTerrain
+        "Google Terrain":googleTerrain,
+        "AMWC" : prevTile
     };
     var overlays = {
         "Places": cities
