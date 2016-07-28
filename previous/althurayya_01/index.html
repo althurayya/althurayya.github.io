@@ -1,0 +1,256 @@
+                                <!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+		<title>al-Thurayya Gazetteer 0.1</title>
+		<link rel="stylesheet" href="heatmap.css" />
+		<link rel="stylesheet" href="leaflet/leaflet.css" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lateef:400,300' rel='stylesheet' type='text/css'>
+
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="leaflet/leaflet.ie.css" />
+		<![endif]-->
+		<style type="text/css">
+			#search-container {
+				z-index: 9999;
+				position: absolute;
+				top: 0;
+				left: 50px;
+				margin: 10px;
+			}
+			#map-title {
+				z-index: 9999;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				padding: 10px;
+				background-color: rgba(0,0,0,0.25);
+				font-size: 20px;
+				font-family: 'Roboto', Arial, sans-serif;
+				font-weight: 300;
+				color: #FFF;
+			}
+			#search-container #search input {
+				padding: 5px;
+				width: 200px;
+			}
+			.english{
+				font-size: 14px;
+				font-family: 'Roboto', Arial, sans-serif;
+			}
+			.englishTech{
+				font-size: 10px;
+				font-family: 'Roboto', Arial, sans-serif;
+			}
+			.arabic {
+				font-size: 26px;
+				font-family: 'Lateef', serif;
+			}
+		</style>
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-45427032-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+
+	</head>
+	
+	<body>
+		<div id="map"></div>
+		<div id="search-container">
+			<form id="search">
+				<input type="text" autocomplete="off" placeholder="Place Filter"/>
+			</form>
+		</div>
+		<div id="map-title">al-Thurayyā Gazetteer Ver. 0.1</div>
+	</body>
+	
+	<script src="leaflet/leaflet.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script type="text/javascript" src="heatmap-js/heatmap.js"></script>
+	<script type="text/javascript" src="heatmap-js/heatmap-leaflet.js"></script>
+	<script type="text/javascript" src="Cornu_All.json" charset="utf-8"></script>
+	<script type="text/javascript" src="Cornu_Routes_Edited.json" charset="utf-8"></script>
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-37473376-2']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+	<!-- Custom -->
+	<script type="text/javascript" charset="utf-8">
+		//------------------------------------------------------------
+		//  Avoid namespace collisions
+		//------------------------------------------------------------
+		$j = jQuery;
+		var markers = [];
+		$j( function() {
+			//------------------------------------------------------------
+			//  Draw markers on a particular layer
+			//------------------------------------------------------------
+			function addMarker( _idx, _markers, _layer ) {
+				_layer.addLayer( _markers[_idx] );
+				return _markers[ _idx ]
+			}
+			//------------------------------------------------------------
+			// AWMC base layer
+			//------------------------------------------------------------
+			var baseLayer = L.tileLayer('http://a.tiles.mapbox.com/v3/isawnyu.map-knmctlkh/{z}/{x}/{y}.png', {
+			attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
+				     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>'
+	        });
+                        var OpenStreetMap1 = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+});
+			var OpenStreetMap2 = L.tileLayer( 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright" title="OpenStreetMap" target="_blank">OpenStreetMap</a> contributors | Tiles Courtesy of <a href="http://www.mapquest.com/" title="MapQuest" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png" width="16" height="16">',
+    subdomains: ['otile1','otile2','otile3','otile4']
+})
+
+			//------------------------------------------------------------
+			// Default style for markers
+			// RED: #FF0000; BROWN: #1bcc3f; DarkBue #0000A0; BrickRed #96190E
+			// ORANGE: #FFA500
+			var colPoint1 = '#96190E';
+			var colPoint2 = 'white';
+			var colRoutes = 'red';
+			//------------------------------------------------------------
+			//var style = { color: '#118128', fillColor: '#1bcc3f', radius: 4, opacity: 1, fillOpacity: 1 };
+			var style = { color: colPoint1, fillColor: colPoint2, radius: 2, opacity: 1, fillOpacity: 1 };
+			//------------------------------------------------------------
+			//  Marker overlays
+			//------------------------------------------------------------
+			var placeLayer = L.layerGroup();
+			var markersGroup = null;
+			$j.each( places.data, function( _idx, _place ) {
+				markers[ _idx ] = L.circleMarker( [ _place.lat, _place.lon ], style );
+				markers[ _idx ].on( 'click', function( _e ) {
+					markers[ _idx ].bindPopup('<center><span class="arabic">' + _place.arTitle + '</span><br><span class="english">' + _place.translitTitle + '</span><br><span class="englishTech"><b>Lat&Lon: </b>' + _place.lat + ',' + _place.lon + '<br><b>URI:</b> ' + _place.topURI + '<br><b>TopType:</b> ' + _place.topType+'</span><br><b>Check in:</b> <a href="http://pleiades.stoa.org/search?SearchableText='+_place.translitSimpleTitle+'" target="_blank">Pleiades</a>; <a href="https://en.wikipedia.org/wiki/Special:Search/'+_place.translitSimpleTitle+'" target="_blank">Wikipedia</a></center>').openPopup();
+				});
+				addMarker( _idx, markers, placeLayer );
+			});
+			//------------------------------------------------------------
+			// Create map
+			//------------------------------------------------------------
+                        var southWest = L.latLng(  7,-18),
+                            northEast = L.latLng( 52, 85),
+                            bounds = L.latLngBounds(southWest, northEast);
+
+			var map = new L.Map('map', {
+				center: new L.LatLng( 28, 33 ),
+				zoom: 4,
+				layers: [baseLayer],
+				minZoom: 2,
+				maxZoom: 11,
+				//maxBounds: bounds
+			});
+			//------------------------------------------------------------
+			//  START -- Routes #888888 Grey; #663300 Brown; #FF0000 Red
+			//------------------------------------------------------------
+			//var routeLayer = L.layerGroup();
+			//var routeStyle = { stroke: true, color: '#888888', weight: 1.5, opacity: 1, smoothFactor: 2 };
+			//$j.each( routes.data, function( id, item ) {
+			//	var coords = [];
+			//	for ( var i=0; i<item.coordinates.length; i++ ) {
+			//	    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+			//	}
+			//	var route = L.polyline( coords, routeStyle );
+			//	routeLayer.addLayer( route );
+			//});
+			//------------------------------------------------------
+			// Colors: DarkBlue #0000A0; Red #FF0000
+			var routesEdited = L.layerGroup();
+			var routeStyle = { stroke: true, color: colRoutes, weight: 1.5, opacity: 1, smoothFactor: 2 };
+			$j.each( routesEditedData.data, function( id, item ) {
+				var coords = [];
+				for ( var i=0; i<item.coordinates.length; i++ ) {
+				    coords.push( L.latLng( item.coordinates[i][0], item.coordinates[i][1] ) );
+				}
+				var route = L.polyline( coords, routeStyle );
+				routesEdited.addLayer( route );
+			});
+			//------------------------------------------------------------
+			// Add headmap layer
+			//------------------------------------------------------------
+			var heatmapLayer = L.TileLayer.heatMap({
+				radius: 12,
+				opacity: 0.8,
+				gradient: {
+					0.45: "rgb(0,0,255)",
+					0.55: "rgb(0,255,255)",
+					0.65: "rgb(0,255,0)",
+					0.95: "yellow",
+					1.0: "rgb(255,0,0)"
+				}
+			});
+			heatmapLayer.addData( places.data );
+			// map.addLayer( heatmapLayer );
+			map.addLayer( routesEdited );
+			map.addLayer( placeLayer );
+			//------------------------------------------------------------
+			//  Search
+			//------------------------------------------------------------
+			$j( '#search input' ).on( 'keyup', function() {
+				var matches = filterPlaces( $j( this ).val(), places.data, ['translitTitle','translitSimpleTitle','arTitle','topURI','topType'] );
+				placeLayer.clearLayers();
+				for ( var i=0, ii=matches.length; i<ii; i++ ) {
+					addMarker( matches[i], markers, placeLayer );
+					markers[ matches[i] ].openPopup();
+				}
+			});
+			//------------------------------------------------------------
+			//  Map selector
+			//------------------------------------------------------------
+			var baseMaps = {
+				//"OpenStreetMap1": OpenStreetMap1,
+				//"OpenStreetMap2": OpenStreetMap2,
+				"AWMC": baseLayer
+			};
+			var overlayMaps = {
+				//"AWMC": baseLayer,
+				"Cornu’s <i>Atlas</i>: Heatmap": heatmapLayer,
+				"Cornu’s <i>Atlas</i>: Places": placeLayer,
+				//"Cornu’s <i>Atlas</i>: Routes": routeLayer,
+				"Cornu’s <i>Atlas</i>: Edited Routes": routesEdited
+			};
+			L.control.layers( baseMaps, overlayMaps ).addTo( map );
+		});
+		//------------------------------------------------------------
+		//  Not the fastest text search... > 10,000 you might get some slowdown
+		//------------------------------------------------------------
+		function filterPlaces( _needle, _obj, _keys ) {
+			var matches = [];
+			var needle = _needle.toUpperCase();
+			for ( var i=0, ii=_obj.length; i<ii; i++ ) {
+				for ( var j=0, jj=_keys.length; j<jj; j++ ) {
+					var stack = _obj[i][_keys[j]].toUpperCase();
+					if ( stack.indexOf( needle ) != -1 ) {
+						matches.push( i );
+					}
+				}
+			}
+			return matches;
+		}
+	</script>
+</html>
+
+                            
