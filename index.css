@@ -12,3 +12,20 @@
     font: 20px 'Amiri', 'Lateef', 'Geeza Pro', serif;
     border : none;
 }
+
+.details_text {
+    /*display: inline;*/
+    font-weight: normal;
+    margin: 5px 0;
+    font-size: 100%;
+    text-indent: 25px;
+    font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+.details_li {
+    /*display: inline;*/
+    list-style-position: inside;
+    font-weight: bold;
+    text-indent: 10px;
+    font-size: medium;
+    font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
