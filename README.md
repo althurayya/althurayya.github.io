@@ -4,6 +4,10 @@
 
 ### Technical
 
+1. CSS:
+	1. Change main Latin font to `Brill` (?)
+	2. Change Arabic font to `Amiri` (web-based)
+
 1. Data:
 	1. Split/Rejoin Toponyms (Split: `./places/`)
 	2. Split/Rejoin Routes (Split: `./routes/`)
