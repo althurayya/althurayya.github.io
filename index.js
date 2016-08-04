@@ -88,9 +88,9 @@ var type_size =
 {
     "metropoles" : 6,
     "capitals" : 4,
-    "villages" :0.7,
-    "Waystations" :0.5,
-    "towns" : 2
+    "towns" : 2,
+    "villages" : 1,
+    "waystations" : 0.7
 };
 var geojson;
 var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
@@ -121,10 +121,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 lng : feature.properties.cornuData.coord_lon
             });
             latlngs.push([latlng['lat'],latlng['lng']])
-            var tmp = marker.bindLabel(feature.properties.cornuData.toponym_arabic);
+            var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
             // list of toponyms for autocomplete action of the search input
             auto_list.push.apply(auto_list,[feature.properties.cornuData.toponym_search,
-                feature.properties.cornuData.cornu_URI, feature.properties.cornuData.toponym_arabic]);
+                feature.properties.cornuData.cornu_URI, feature.properties.cornuData.toponym_translit]);
             tmp.options.className="myLeafletLabel";
             tmp.options.zoomAnimation = true;
             tmp.options.opacity = 0.0;
