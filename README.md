@@ -2,17 +2,19 @@
 
 ## Features:
 
+### Technical
+
 1. Flap (Toponimika):
-	1. Information on the project
+	1. ~~Information on the project~~
 	2. Information on a toponym
 	3. Information from primary sources
 	4. Regions:
 		1. List of regions
-		2. Clincking on a region:
+		2. Clicking on a region:
 			1. Places and routes associated with that region become red
-			2. Other places and routes: grey
+			2. Other places and routes: grey and thinner
 2. Map:
-	1. Multiple maping layers
+	1. ~~Multiple maping layers~~
 	2. Search for a toponym
 	3. Visualizations of regions (see Flap)
 	2. Toponyms formatted according to their types
