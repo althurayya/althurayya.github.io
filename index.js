@@ -171,10 +171,11 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             return marker
         }
     });
+    console.log(JSON.stringify(regs));
     // Create html list of regions in regio tab
     Object.keys(regs).forEach(function (key) {
         var func = "click_region(\"" + key + "\");";
-        $("#regionDiv >br").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
+        $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
             + key + "</li>");
     });
     // Add tile and markers to the map
