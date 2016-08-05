@@ -128,7 +128,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
             // list of toponyms for autocomplete action of the search input
             auto_list.push.apply(auto_list,[feature.properties.cornuData.toponym_search,
-                feature.properties.cornuData.cornu_URI, feature.properties.cornuData.toponym_translit]);
+                feature.properties.cornuData.cornu_URI, feature.properties.cornuData.toponym_arabic]);
             tmp.options.className="myLeafletLabel";
             tmp.options.zoomAnimation = true;
             tmp.options.opacity = 0.0;
@@ -166,8 +166,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                   Object.keys(feature.properties.cornuData).forEach(function (cData) {
                       $("#cornuDetails").append("<li class='details_li'>"+cData+"</li><p class = 'details_text'>"+feature.properties.cornuData[cData]+"</p>");
                   })
-            }
 
+            }
             function ResizeMarker(e) {
                 var currentZoom = map.getZoom();
                 marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
@@ -297,30 +297,25 @@ function zoom() {
  */
 $( '#searchInput' ).on( 'keyup', function() {
     Object.keys(markers).forEach(function(key) {
-        //console.log(markers[key])
         var searchTitle = markers[key].options.searchTitle.toUpperCase();
-        var cornuURI = markers[key].options.cornu_URI.toUpperCase();
-        var arabicTitle = markers[key].options.arabicTitle.toUpperCase();
-        var lat = markers[key].options.lat;
-        var lng = markers[key].options.lng;
+        var cornuURI = markers[key].options.cornu_URI;
+        var arabicTitle = markers[key].options.arabicTitle;
         var markerSearchTitle = searchTitle.concat(" ", cornuURI, " ", arabicTitle);
-        //console.log("hi " +markerSearchTitle)
         var searchTerm = $( '#searchInput' ).val().toUpperCase();
-        if ( markerSearchTitle.indexOf(searchTerm) != -1 ) {
-            markers[key].setStyle({fillOpacity: 1,
-                fillColor: "red"})
-        }
+        if ( markerSearchTitle.indexOf(searchTerm) != -1 )
+            customMarkerStyle(markers[key], "red", 1)
         if (markerSearchTitle.indexOf(searchTerm) == -1
             && searchTerm !== "")
-            markers[key].setStyle({fillOpacity: 0.2,
-                fillColor: colorLookup[markers[key].options.region]})
+            customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
+
         else if (searchTerm === "") {
             zoom();
-            markers[key].setStyle({fillOpacity: 1,
-                fillColor: colorLookup[markers[key].options.region]})
+            customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 1)
         }
     })
 });
+
+
  /*
  * Autocomplete the search input
  */
@@ -330,25 +325,37 @@ $( "#searchInput" ).autocomplete({
     minLength: 3,
     select: function (e, ui) {
         var selected = ui.item.value.toUpperCase();
+        var selectedMarker;
         Object.keys(markers).forEach(function(key) {
             markerLabels[key].setLabelNoHide(false);
-            var merkerSearchTitle = markers[key].options.searchTitle.toUpperCase();
-            if (merkerSearchTitle.indexOf(selected) != -1) {
-                markers[key].setStyle({
-                    fillOpacity: 1,
-                    fillColor: "red"
-                });
-                map.panTo(new L.LatLng(lat, lng));
+            var markerSearchTitle = markers[key].options.searchTitle.toUpperCase();
+            var markerTopURI = markers[key].options.cornu_URI;
+            var markerArabicTitle = markers[key].options.arabicTitle;
+            // Change the circle marker color to red if it matches the selected search value
+            if (markerSearchTitle == selected || markerArabicTitle == selected
+                    || markerTopURI == selected) {
+                selectedMarker = markers[key];
+                customMarkerStyle(markers[key], "red", 1)
+
             }
+            // else, make them pale
             else
-                markers[key].setStyle({
-                    fillOpacity: 0.2,
-                    fillColor: colorLookup[markers[key].options.region]
-                })
+                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
+                //markers[key].setStyle({
+                //    fillOpacity: 0.2,
+                //    fillColor: colorLookup[markers[key].options.region]
+                //})
         })
+        // re-center the map if the selected item exist!
+        if (selectedMarker !== undefined) {
+            var lat = selectedMarker.options.lat;
+            var lng = selectedMarker.options.lng;
+            map.panTo(new L.LatLng(lat, lng));
+        }
+
+
     }
 });
-
 /*
  * Add the rotes to the map
  */
@@ -364,6 +371,16 @@ function customLineStyle(layer, color, width, opacity) {
         smoothFactor : 2
     })
 };
+/*
+ * Set the marker style
+ */
+function customMarkerStyle(marker, color, opacity) {
+    marker.setStyle({
+        fillColor: color,
+        fillOpacity: opacity
+    })
+};
+
 /*
  * Highlights and change the color of markers of a region by clicking on a
  * region name.
@@ -401,7 +418,7 @@ function click_region(reg) {
                 markers[key].options.zIndexOffset = -1000;
             } else {
                 markers[key].setStyle({
-                    fillColor: "red"
+                    fillColor: "darkred"
                     , color: "black"
                 });
                 //markers[key].setZIndexOffset(100);
