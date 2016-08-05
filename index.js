@@ -82,6 +82,9 @@ var prevZoom = min_zoom;
 
 var regs = {};
 var markers = {};
+var route_layers = {};
+var all_route_layers = [];
+var map_region_to_code = {};
 var markerLabels = {};
 // Types of the toponyms
 var type_size =
@@ -115,6 +118,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 fillOpacity: 0.8,
                 type : feature.properties.cornuData.top_type_hom,
                 region : feature.properties.cornuData.region_code,
+                region_spelled : feature.properties.cornuData.region_spelled,
                 searchTitle : feature.properties.cornuData.toponym_search,
                 arabicTitle : feature.properties.cornuData.toponym_arabic,
                 lat : feature.properties.cornuData.coord_lat,
@@ -171,7 +175,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             return marker
         }
     });
-    console.log(JSON.stringify(regs));
     // Create html list of regions in regio tab
     Object.keys(regs).forEach(function (key) {
         var func = "click_region(\"" + key + "\");";
@@ -207,9 +210,9 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     var sidebar = L.control.sidebar('sidebar').addTo(map);
 }).done(function () {
     $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
-        var routes = L.geoJson(data, {onEachFeature: onEachFeature}
-        );
+        var routes = L.geoJson(data, {onEachFeature: onEachFeature});
         function onEachFeature(feature, layer) {
+            //console.log(JSON.stringify(layer));
             var sRegion, eRegion;
             var sFound = false;
             var eFound = false;
@@ -228,7 +231,13 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 if (sFound == true && eFound == true)
                     break;
             }
+            all_route_layers.push(layer);
+            map_region_to_code[markers[keys[i]].options.region_spelled]
+                =markers[keys[i]].options.region;
             if (sRegion == eRegion) {
+                if(route_layers[markers[keys[i]].options.region_spelled] == undefined)
+                    route_layers[markers[keys[i]].options.region_spelled] = [];
+                route_layers[markers[keys[i]].options.region_spelled].push(layer);
                 customLineStyle(layer, colorLookup[eRegion], 2, 1)
             }
             else {
@@ -372,6 +381,14 @@ function click_region(reg) {
                 color: "gray"
             });
         });
+
+        Object.keys(route_layers).forEach(function(key) {
+            route_layers[key].forEach(function (lay) {
+                customLineStyle(lay,colorLookup[
+                    map_region_to_code[key]], 2, 1);
+            });
+
+        });
     } else {
         var tmp = regs[reg];
         Object.keys(markers).forEach(function (key) {
@@ -393,6 +410,16 @@ function click_region(reg) {
                 markers[key].options.zIndexOffset = 1000;
             }
         });
+
+        all_route_layers.forEach(function(lay) {
+            customLineStyle(lay, 'gray', 2, 0.8);
+        });
+
+        if(route_layers[reg] != undefined) {
+            route_layers[reg].forEach(function (lay) {
+                customLineStyle(lay, 'red', 3, 1);
+            });
+        }
     }
 }
 
