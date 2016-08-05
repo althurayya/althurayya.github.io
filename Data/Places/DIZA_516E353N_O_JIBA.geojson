@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.65,
+                    35.3031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.30310",
+                    "coord_lon": "51.65000",
+                    "cornu_URI": "DIZA_516E353N_O_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "site",
+                    "toponym_arabic": "دزا",
+                    "toponym_arabic_other": "دزا، دزه، ورمين",
+                    "toponym_buckwalter": "Diza, Dizah, Waramin",
+                    "toponym_search": "Diza, Dizah, Waramin",
+                    "toponym_translit": "Dizā",
+                    "toponym_translit_other": "Dizā, Dizah, Waramīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

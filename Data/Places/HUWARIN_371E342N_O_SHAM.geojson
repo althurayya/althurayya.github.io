@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.10415,
+                    34.26231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.26231",
+                    "coord_lon": "37.10415",
+                    "cornu_URI": "HUWARIN_371E342N_O_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "lieu",
+                    "toponym_arabic": "حوارين",
+                    "toponym_arabic_other": "حوارين",
+                    "toponym_buckwalter": "Huwarin",
+                    "toponym_search": "Huwarin",
+                    "toponym_translit": "Ḥuwārīn",
+                    "toponym_translit_other": "Ḥuwārīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

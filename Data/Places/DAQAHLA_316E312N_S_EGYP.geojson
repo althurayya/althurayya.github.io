@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.66289,
+                    31.28355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.28355",
+                    "coord_lon": "31.66289",
+                    "cornu_URI": "DAQAHLA_316E312N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دقهلة",
+                    "toponym_arabic_other": "دقهلة",
+                    "toponym_buckwalter": "Daqahla",
+                    "toponym_search": "Daqahla",
+                    "toponym_translit": "Daqahlaŧ",
+                    "toponym_translit_other": "Daqahlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

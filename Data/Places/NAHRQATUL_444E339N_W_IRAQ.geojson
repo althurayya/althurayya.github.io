@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.44618,
+                    33.97797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.97797",
+                    "coord_lon": "44.44618",
+                    "cornu_URI": "NAHRQATUL_444E339N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "نهر ﭐلقاطول",
+                    "toponym_arabic_other": "نهر ﭐلقاطول",
+                    "toponym_buckwalter": "Nahr al-Qatul",
+                    "toponym_search": "Nahr al-Qatul",
+                    "toponym_translit": "Nahr al-Qāṭūl",
+                    "toponym_translit_other": "Nahr al-Qāṭūl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

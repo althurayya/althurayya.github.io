@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.61471,
+                    38.26671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.26671",
+                    "coord_lon": "54.61471",
+                    "cornu_URI": "RIBATDIHISTAN_546E382N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط دهستان",
+                    "toponym_arabic_other": "رباط دهستان",
+                    "toponym_buckwalter": "Ribat Dihistan",
+                    "toponym_search": "Ribat Dihistan",
+                    "toponym_translit": "Ribāṭ Dihistān",
+                    "toponym_translit_other": "Ribāṭ Dihistān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

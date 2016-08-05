@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.19783,
+                    28.1703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.17030",
+                    "coord_lon": "35.19783",
+                    "cornu_URI": "AYNUNA_351E281N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "عينونة",
+                    "toponym_arabic_other": "عينونة",
+                    "toponym_buckwalter": "Aynuna",
+                    "toponym_search": "Aynuna",
+                    "toponym_translit": "ʿAynūnaŧ",
+                    "toponym_translit_other": "ʿAynūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

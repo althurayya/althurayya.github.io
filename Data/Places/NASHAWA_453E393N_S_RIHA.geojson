@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.3766,
+                    39.34739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.34739",
+                    "coord_lon": "45.37660",
+                    "cornu_URI": "NASHAWA_453E393N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلنشوى",
+                    "toponym_arabic_other": "ﭐلنشوى",
+                    "toponym_buckwalter": "al-Nashawa",
+                    "toponym_search": "al-Nashawa",
+                    "toponym_translit": "al-Našawá",
+                    "toponym_translit_other": "al-Našawá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.43806,
+                    36.9791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.97910",
+                    "coord_lon": "38.43806",
+                    "cornu_URI": "SARUJ_384E369N_R_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "سروج",
+                    "toponym_arabic_other": "سروج",
+                    "toponym_buckwalter": "Saruj",
+                    "toponym_search": "Saruj",
+                    "toponym_translit": "Sarūǧ",
+                    "toponym_translit_other": "Sarūǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

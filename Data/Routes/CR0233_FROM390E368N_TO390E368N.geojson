@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        39.08969748311312,
+                        36.883974903613094
+                    ],
+                    [
+                        39.07457811681611,
+                        36.88639351807089
+                    ],
+                    [
+                        39.0594587505191,
+                        36.88699815971419
+                    ],
+                    [
+                        39.0564348772597,
+                        36.88639351807089
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "HARRAN_390E368N_S_AQUR",
+                "Meter": 3002,
+                "id": "CR0233_FROM390E368N_TO390E368N",
+                "eToponym": "ROUTPOINT0205_390E368N_O_NODA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

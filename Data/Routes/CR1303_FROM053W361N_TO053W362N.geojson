@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -5.329853541663652,
+                        36.167169241103245
+                    ],
+                    [
+                        -5.34648863676,
+                        36.196926240871655
+                    ],
+                    [
+                        -5.350984608407662,
+                        36.21796704877171
+                    ],
+                    [
+                        -5.353232594231493,
+                        36.237551680897084
+                    ],
+                    [
+                        -5.355930177220089,
+                        36.26691943181724
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "JAZIRAJABALTARIQ_053W361N_S_ANDA",
+                "Meter": 11445,
+                "id": "CR1303_FROM053W361N_TO053W362N",
+                "eToponym": "ROUTPOINT1401_053W362N_O_NODA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

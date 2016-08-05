@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.35722,
+                    36.39749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.39749",
+                    "coord_lon": "51.35722",
+                    "cornu_URI": "SAIDABADH_513E363N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سعيداباذ",
+                    "toponym_arabic_other": "سعيداباذ",
+                    "toponym_buckwalter": "Saidabadh",
+                    "toponym_search": "Saidabadh",
+                    "toponym_translit": "Saʿīdābāḏ",
+                    "toponym_translit_other": "Saʿīdābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

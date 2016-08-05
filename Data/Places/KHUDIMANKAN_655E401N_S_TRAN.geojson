@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.58856,
+                    40.12063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.12063",
+                    "coord_lon": "65.58856",
+                    "cornu_URI": "KHUDIMANKAN_655E401N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "خديمنكان",
+                    "toponym_arabic_other": "خديمنكان",
+                    "toponym_buckwalter": "Khudimankan",
+                    "toponym_search": "Khudimankan",
+                    "toponym_translit": "Ḫudīmankān",
+                    "toponym_translit_other": "Ḫudīmankān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

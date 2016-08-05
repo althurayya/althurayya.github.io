@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.75642,
+                    30.63742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.63742",
+                    "coord_lon": "30.75642",
+                    "cornu_URI": "KUMSHARIK_307E306N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كوم شريك",
+                    "toponym_arabic_other": "كوم شريك",
+                    "toponym_buckwalter": "Kum Sharik",
+                    "toponym_search": "Kum Sharik",
+                    "toponym_translit": "Kūm Šarīk",
+                    "toponym_translit_other": "Kūm Šarīk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

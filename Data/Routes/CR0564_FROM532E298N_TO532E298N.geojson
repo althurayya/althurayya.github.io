@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        53.26789504135727,
+                        29.814909249281328
+                    ],
+                    [
+                        53.25395253319932,
+                        29.823549606925674
+                    ],
+                    [
+                        53.244325563280725,
+                        29.828445429514254
+                    ],
+                    [
+                        53.231046984082695,
+                        29.83449295246299
+                    ],
+                    [
+                        53.22407573000371,
+                        29.837372625600224
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT0609_532E298N_O_NODA",
+                "Meter": 4924,
+                "id": "CR0564_FROM532E298N_TO532E298N",
+                "eToponym": "ZIYADABADHZIYADAWADH_532E298N_S_FARI"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

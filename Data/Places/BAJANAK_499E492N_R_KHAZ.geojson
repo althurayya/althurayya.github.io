@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.92897,
+                    49.24133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "49.24133",
+                    "coord_lon": "49.92897",
+                    "cornu_URI": "BAJANAK_499E492N_R_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلبجاناك",
+                    "toponym_arabic_other": "ﭐلبجاناك، ﭐلبجاناكية",
+                    "toponym_buckwalter": "al-Bajanak, al-Bajanakiyya",
+                    "toponym_search": "al-Bajanak, al-Bajanakiyya",
+                    "toponym_translit": "al-Baǧānāk",
+                    "toponym_translit_other": "al-Baǧānāk, al-Baǧānākiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

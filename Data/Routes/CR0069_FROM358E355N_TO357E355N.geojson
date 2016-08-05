@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        35.80776215919767,
+                        35.519403704873994
+                    ],
+                    [
+                        35.80239723452191,
+                        35.51597272124515
+                    ],
+                    [
+                        35.79588268312992,
+                        35.5144131347551
+                    ],
+                    [
+                        35.79090096735956,
+                        35.51410121382139
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "LADHIQIYYA_358E355N_S_SHAM",
+                "Meter": 1687,
+                "id": "CR0069_FROM358E355N_TO357E355N",
+                "eToponym": "LADHIQIYYA_358E355N_S_SHAM"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

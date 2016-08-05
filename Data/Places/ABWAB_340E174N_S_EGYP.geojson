@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.09472,
+                    17.49927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.49927",
+                    "coord_lon": "34.09472",
+                    "cornu_URI": "ABWAB_340E174N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلأبواب",
+                    "toponym_arabic_other": "ﭐلأبواب",
+                    "toponym_buckwalter": "al-Abwab",
+                    "toponym_search": "al-Abwab",
+                    "toponym_translit": "al-Abwāb",
+                    "toponym_translit_other": "al-Abwāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

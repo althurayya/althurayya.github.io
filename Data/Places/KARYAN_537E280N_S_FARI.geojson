@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.70323,
+                    28.05935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.05935",
+                    "coord_lon": "53.70323",
+                    "cornu_URI": "KARYAN_537E280N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كاريان",
+                    "toponym_arabic_other": "كاريان",
+                    "toponym_buckwalter": "Karyan",
+                    "toponym_search": "Karyan",
+                    "toponym_translit": "Kāryān",
+                    "toponym_translit_other": "Kāryān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

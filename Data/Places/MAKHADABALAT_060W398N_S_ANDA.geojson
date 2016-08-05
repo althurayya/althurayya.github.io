@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.06629,
+                    39.80641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.80641",
+                    "coord_lon": "-6.06629",
+                    "cornu_URI": "MAKHADABALAT_060W398N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مخاضة ﭐلبلاط",
+                    "toponym_arabic_other": "مخاضة ﭐلبلاط",
+                    "toponym_buckwalter": "Makhada al-Balat",
+                    "toponym_search": "Makhada al-Balat",
+                    "toponym_translit": "Maḫāḍaŧ al-Balāṭ",
+                    "toponym_translit_other": "Maḫāḍaŧ al-Balāṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

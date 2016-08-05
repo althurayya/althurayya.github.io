@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.03075,
+                    33.0881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.08810",
+                    "coord_lon": "68.03075",
+                    "cornu_URI": "SAGHAN_680E330N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "سغان",
+                    "toponym_arabic_other": "سغان",
+                    "toponym_buckwalter": "Saghan",
+                    "toponym_search": "Saghan",
+                    "toponym_translit": "Saġān",
+                    "toponym_translit_other": "Saġān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

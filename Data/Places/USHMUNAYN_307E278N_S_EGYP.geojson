@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.75576,
+                    27.85616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.85616",
+                    "coord_lon": "30.75576",
+                    "cornu_URI": "USHMUNAYN_307E278N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلأشمونين",
+                    "toponym_arabic_other": "ﭐلأشمونين",
+                    "toponym_buckwalter": "al-Ushmunayn",
+                    "toponym_search": "al-Ushmunayn",
+                    "toponym_translit": "al-Ušmūnayn",
+                    "toponym_translit_other": "al-Ušmūnayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

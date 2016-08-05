@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    0.05881,
+                    35.21592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.21592",
+                    "coord_lon": "0.05881",
+                    "cornu_URI": "FAKKAN_000E352N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فكان",
+                    "toponym_arabic_other": "فكان، أفكان",
+                    "toponym_buckwalter": "Fakkan, Afkan",
+                    "toponym_search": "Fakkan, Afkan",
+                    "toponym_translit": "Fakkān",
+                    "toponym_translit_other": "Fakkān, Afkān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

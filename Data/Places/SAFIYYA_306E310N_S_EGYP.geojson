@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.6995,
+                    31.04306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.04306",
+                    "coord_lon": "30.69950",
+                    "cornu_URI": "SAFIYYA_306E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلصافية",
+                    "toponym_arabic_other": "ﭐلصافية",
+                    "toponym_buckwalter": "al-Safiyya",
+                    "toponym_search": "al-Safiyya",
+                    "toponym_translit": "al-Ṣāfiyyaŧ",
+                    "toponym_translit_other": "al-Ṣāfiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

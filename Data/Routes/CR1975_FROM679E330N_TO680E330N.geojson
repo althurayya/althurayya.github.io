@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        67.99895976077849,
+                        33.055023495546415
+                    ],
+                    [
+                        68.01181271849377,
+                        33.07092457177419
+                    ],
+                    [
+                        68.02221749378708,
+                        33.0798997170808
+                    ],
+                    [
+                        68.03078613226394,
+                        33.08810476288082
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT1918_679E330N_O_NODA",
+                "Meter": 4736,
+                "id": "CR1975_FROM679E330N_TO680E330N",
+                "eToponym": "SAGHAN_680E330N_S_SIND"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

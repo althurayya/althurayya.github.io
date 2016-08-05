@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    33.80128,
+                    29.16755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.16755",
+                    "coord_lon": "33.80128",
+                    "cornu_URI": "TIHBANUISRAIL_338E291N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "desert",
+                    "toponym_arabic": "تيه بنو إسرائل",
+                    "toponym_arabic_other": "تيه بنو إسرائل",
+                    "toponym_buckwalter": "Tih Banu Israil",
+                    "toponym_search": "Tih Banu Israil",
+                    "toponym_translit": "Tīh Banū Isrāʾil",
+                    "toponym_translit_other": "Tīh Banū Isrāʾil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.10896,
+                    36.92367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.92367",
+                    "coord_lon": "46.10896",
+                    "cornu_URI": "SABURKHAST_461E369N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سابرخست",
+                    "toponym_arabic_other": "سابرخست",
+                    "toponym_buckwalter": "Saburkhast",
+                    "toponym_search": "Saburkhast",
+                    "toponym_translit": "Sāburḫast",
+                    "toponym_translit_other": "Sāburḫast"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

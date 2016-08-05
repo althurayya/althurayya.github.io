@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.21996,
+                    37.23807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.23807",
+                    "coord_lon": "-7.21996",
+                    "cornu_URI": "LAB_072W372N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "لب",
+                    "toponym_arabic_other": "لب",
+                    "toponym_buckwalter": "Lab",
+                    "toponym_search": "Lab",
+                    "toponym_translit": "Lab",
+                    "toponym_translit_other": "Lab"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

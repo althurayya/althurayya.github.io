@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.24892,
+                    32.89927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.89927",
+                    "coord_lon": "52.24892",
+                    "cornu_URI": "KARKASKUH_522E328N_O_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "كركس كوه",
+                    "toponym_arabic_other": "كركس كوه",
+                    "toponym_buckwalter": "Karkas Kuh",
+                    "toponym_search": "Karkas Kuh",
+                    "toponym_translit": "Karkas Kūh",
+                    "toponym_translit_other": "Karkas Kūh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

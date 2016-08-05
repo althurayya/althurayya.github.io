@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.61287,
+                    36.232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.23200",
+                    "coord_lon": "59.61287",
+                    "cornu_URI": "SANABADH_596E362N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "سناباذ",
+                    "toponym_arabic_other": "سناباذ",
+                    "toponym_buckwalter": "Sanabadh",
+                    "toponym_search": "Sanabadh",
+                    "toponym_translit": "Sanābāḏ",
+                    "toponym_translit_other": "Sanābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

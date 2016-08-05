@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.22681,
+                    27.10901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.10901",
+                    "coord_lon": "31.22681",
+                    "cornu_URI": "BUTIJ_312E271N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بوتيج",
+                    "toponym_arabic_other": "بوتيج",
+                    "toponym_buckwalter": "Butij",
+                    "toponym_search": "Butij",
+                    "toponym_translit": "Būtīǧ",
+                    "toponym_translit_other": "Būtīǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

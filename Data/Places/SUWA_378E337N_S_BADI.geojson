@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.85153,
+                    33.72767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.72767",
+                    "coord_lon": "37.85153",
+                    "cornu_URI": "SUWA_378E337N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سوى",
+                    "toponym_arabic_other": "سوى",
+                    "toponym_buckwalter": "Suwa",
+                    "toponym_search": "Suwa",
+                    "toponym_translit": "Suwá",
+                    "toponym_translit_other": "Suwá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

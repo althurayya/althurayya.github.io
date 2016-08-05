@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.18674,
+                    37.48626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.48626",
+                    "coord_lon": "49.18674",
+                    "cornu_URI": "KHASHM_491E374N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خشم",
+                    "toponym_arabic_other": "خشم",
+                    "toponym_buckwalter": "Khashm",
+                    "toponym_search": "Khashm",
+                    "toponym_translit": "Ḫašm",
+                    "toponym_translit_other": "Ḫašm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

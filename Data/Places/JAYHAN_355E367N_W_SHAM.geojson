@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.58877,
+                    36.79276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.79276",
+                    "coord_lon": "35.58877",
+                    "cornu_URI": "JAYHAN_355E367N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "fleuve",
+                    "toponym_arabic": "ﭐلجيحان",
+                    "toponym_arabic_other": "ﭐلجيحان",
+                    "toponym_buckwalter": "al-Jayhan",
+                    "toponym_search": "al-Jayhan",
+                    "toponym_translit": "al-Ǧayḥān",
+                    "toponym_translit_other": "al-Ǧayḥān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

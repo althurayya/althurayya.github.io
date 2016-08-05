@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.87257,
+                    29.7751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.77510",
+                    "coord_lon": "52.87257",
+                    "cornu_URI": "RASSIKR_528E297N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "barrage",
+                    "toponym_arabic": "رأس ﭐلسكر",
+                    "toponym_arabic_other": "رأس ﭐلسكر",
+                    "toponym_buckwalter": "Ras al-Sikr",
+                    "toponym_search": "Ras al-Sikr",
+                    "toponym_translit": "Raʾs al-Sikr",
+                    "toponym_translit_other": "Raʾs al-Sikr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        39.0012491902756,
+                        36.112201369967416
+                    ],
+                    [
+                        38.9952014437568,
+                        36.12319355850373
+                    ],
+                    [
+                        38.98990966555284,
+                        36.131741974560455
+                    ],
+                    [
+                        38.98612982397859,
+                        36.135405296439785
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT0204_390E361N_O_NODA",
+                "Meter": 2927,
+                "id": "CR0239_FROM390E361N_TO389E361N",
+                "eToponym": "BAJARWAN_389E361N_S_AQUR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

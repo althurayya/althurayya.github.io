@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.43239,
+                    34.84612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.84612",
+                    "coord_lon": "57.43239",
+                    "cornu_URI": "RIBATZANJI_574E348N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رباط زنجي",
+                    "toponym_arabic_other": "رباط زنجي",
+                    "toponym_buckwalter": "Ribat Zanji",
+                    "toponym_search": "Ribat Zanji",
+                    "toponym_translit": "Ribāṭ Zanǧī",
+                    "toponym_translit_other": "Ribāṭ Zanǧī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

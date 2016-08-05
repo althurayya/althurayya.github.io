@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.98957,
+                    36.54651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.54651",
+                    "coord_lon": "37.98957",
+                    "cornu_URI": "MANBIJ_379E365N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منبج",
+                    "toponym_arabic_other": "منبج",
+                    "toponym_buckwalter": "Manbij",
+                    "toponym_search": "Manbij",
+                    "toponym_translit": "Manbiǧ",
+                    "toponym_translit_other": "Manbiǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

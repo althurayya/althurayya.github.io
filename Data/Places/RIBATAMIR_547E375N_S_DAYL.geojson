@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.76443,
+                    37.58399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.58399",
+                    "coord_lon": "54.76443",
+                    "cornu_URI": "RIBATAMIR_547E375N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط ﭐلأمير",
+                    "toponym_arabic_other": "رباط ﭐلأمير",
+                    "toponym_buckwalter": "Ribat al-Amir",
+                    "toponym_search": "Ribat al-Amir",
+                    "toponym_translit": "Ribāṭ al-Amīr",
+                    "toponym_translit_other": "Ribāṭ al-Amīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

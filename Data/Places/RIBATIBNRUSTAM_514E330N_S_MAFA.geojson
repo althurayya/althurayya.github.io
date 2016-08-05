@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.48549,
+                    33.07845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.07845",
+                    "coord_lon": "51.48549",
+                    "cornu_URI": "RIBATIBNRUSTAM_514E330N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رباط إبن رستم",
+                    "toponym_arabic_other": "رباط إبن رستم",
+                    "toponym_buckwalter": "Ribat Ibn Rustam",
+                    "toponym_search": "Ribat Ibn Rustam",
+                    "toponym_translit": "Ribāṭ Ibn Rustam",
+                    "toponym_translit_other": "Ribāṭ Ibn Rustam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

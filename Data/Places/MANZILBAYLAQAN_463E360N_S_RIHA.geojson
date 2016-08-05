@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.35428,
+                    36.09869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.09869",
+                    "coord_lon": "46.35428",
+                    "cornu_URI": "MANZILBAYLAQAN_463E360N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "منزل ﭐلبيلقان",
+                    "toponym_arabic_other": "منزل ﭐلبيلقان",
+                    "toponym_buckwalter": "Manzil al-Baylaqan",
+                    "toponym_search": "Manzil al-Baylaqan",
+                    "toponym_translit": "Manzil al-Baylaqān",
+                    "toponym_translit_other": "Manzil al-Baylaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

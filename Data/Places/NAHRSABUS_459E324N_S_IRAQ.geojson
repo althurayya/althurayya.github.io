@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.96969,
+                    32.49681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.49681",
+                    "coord_lon": "45.96969",
+                    "cornu_URI": "NAHRSABUS_459E324N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نهر سابس",
+                    "toponym_arabic_other": "نهر سابس",
+                    "toponym_buckwalter": "Nahr Sabus",
+                    "toponym_search": "Nahr Sabus",
+                    "toponym_translit": "Nahr Sābus",
+                    "toponym_translit_other": "Nahr Sābus"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

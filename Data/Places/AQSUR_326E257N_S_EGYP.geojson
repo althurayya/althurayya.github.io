@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.61253,
+                    25.72063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.72063",
+                    "coord_lon": "32.61253",
+                    "cornu_URI": "AQSUR_326E257N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلأقصور",
+                    "toponym_arabic_other": "ﭐلأقصور",
+                    "toponym_buckwalter": "al-Aqsur",
+                    "toponym_search": "al-Aqsur",
+                    "toponym_translit": "al-Aqṣūr",
+                    "toponym_translit_other": "al-Aqṣūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

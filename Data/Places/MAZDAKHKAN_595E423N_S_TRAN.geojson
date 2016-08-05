@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.5047,
+                    42.39769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.39769",
+                    "coord_lon": "59.50470",
+                    "cornu_URI": "MAZDAKHKAN_595E423N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton/cite",
+                    "toponym_arabic": "مزداخكان",
+                    "toponym_arabic_other": "مزداخكان، مزداخقان",
+                    "toponym_buckwalter": "Mazdakhkan, Mazdakhqan",
+                    "toponym_search": "Mazdakhkan, Mazdakhqan",
+                    "toponym_translit": "Mazdāḫkān",
+                    "toponym_translit_other": "Mazdāḫkān, Mazdāḫqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

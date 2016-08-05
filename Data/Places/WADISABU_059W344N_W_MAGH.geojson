@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.98544,
+                    34.45352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.45352",
+                    "coord_lon": "-5.98544",
+                    "cornu_URI": "WADISABU_059W344N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي سبو",
+                    "toponym_arabic_other": "وادي سبو",
+                    "toponym_buckwalter": "Wadi Sabu",
+                    "toponym_search": "Wadi Sabu",
+                    "toponym_translit": "Wādī Sabū",
+                    "toponym_translit_other": "Wādī Sabū"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

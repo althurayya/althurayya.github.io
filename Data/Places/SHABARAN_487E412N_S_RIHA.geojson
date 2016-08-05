@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.76916,
+                    41.2707
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.27070",
+                    "coord_lon": "48.76916",
+                    "cornu_URI": "SHABARAN_487E412N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شابران",
+                    "toponym_arabic_other": "شابران",
+                    "toponym_buckwalter": "Shabaran",
+                    "toponym_search": "Shabaran",
+                    "toponym_translit": "Šābarān",
+                    "toponym_translit_other": "Šābarān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.45153,
+                    32.93881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.93881",
+                    "coord_lon": "58.45153",
+                    "cornu_URI": "KHUR_584E329N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "خور",
+                    "toponym_arabic_other": "خور",
+                    "toponym_buckwalter": "Khur",
+                    "toponym_search": "Khur",
+                    "toponym_translit": "Ḫūr",
+                    "toponym_translit_other": "Ḫūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

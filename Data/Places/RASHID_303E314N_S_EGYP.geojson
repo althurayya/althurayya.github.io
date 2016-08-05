@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.37989,
+                    31.41298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.41298",
+                    "coord_lon": "30.37989",
+                    "cornu_URI": "RASHID_303E314N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رشيد",
+                    "toponym_arabic_other": "رشيد",
+                    "toponym_buckwalter": "Rashid",
+                    "toponym_search": "Rashid",
+                    "toponym_translit": "Rašīd",
+                    "toponym_translit_other": "Rašīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

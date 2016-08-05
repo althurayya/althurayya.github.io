@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.98488,
+                    34.95777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.95777",
+                    "coord_lon": "48.98488",
+                    "cornu_URI": "BUZANJIRD_489E349N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بوزنجرد",
+                    "toponym_arabic_other": "بوزنجرد",
+                    "toponym_buckwalter": "Buzanjird",
+                    "toponym_search": "Buzanjird",
+                    "toponym_translit": "Būzanǧird",
+                    "toponym_translit_other": "Būzanǧird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

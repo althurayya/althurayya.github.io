@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        10.080773215585165,
+                        35.62496770476981
+                    ],
+                    [
+                        10.099297619660954,
+                        35.65421693637811
+                    ],
+                    [
+                        10.124702516679179,
+                        35.68302555984227
+                    ],
+                    [
+                        10.14005130862769,
+                        35.70064958917938
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT1216_100E356N_O_NODA",
+                "Meter": 9990,
+                "id": "CR1206_FROM100E356N_TO101E357N",
+                "eToponym": "QAYRAWAN_101E357N_S_MAGH"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

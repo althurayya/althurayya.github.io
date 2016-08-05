@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.42927,
+                    39.56944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.56944",
+                    "coord_lon": "64.42927",
+                    "cornu_URI": "QARAJUN_644E395N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قاراجون",
+                    "toponym_arabic_other": "قاراجون",
+                    "toponym_buckwalter": "Qarajun",
+                    "toponym_search": "Qarajun",
+                    "toponym_translit": "Qārāǧūn",
+                    "toponym_translit_other": "Qārāǧūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

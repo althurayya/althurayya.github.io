@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.92718,
+                    29.86635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.86635",
+                    "coord_lon": "51.92718",
+                    "cornu_URI": "TIRMARDAN_519E298N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "تير مردان",
+                    "toponym_arabic_other": "تير مردان",
+                    "toponym_buckwalter": "Tir Mardan",
+                    "toponym_search": "Tir Mardan",
+                    "toponym_translit": "Tīr Mardān",
+                    "toponym_translit_other": "Tīr Mardān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

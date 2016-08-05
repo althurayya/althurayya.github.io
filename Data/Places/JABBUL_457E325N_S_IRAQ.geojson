@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.72633,
+                    32.55466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.55466",
+                    "coord_lon": "45.72633",
+                    "cornu_URI": "JABBUL_457E325N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جبول",
+                    "toponym_arabic_other": "جبول",
+                    "toponym_buckwalter": "Jabbul",
+                    "toponym_search": "Jabbul",
+                    "toponym_translit": "Ǧabbūl",
+                    "toponym_translit_other": "Ǧabbūl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

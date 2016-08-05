@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.04078,
+                    31.20812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.20812",
+                    "coord_lon": "35.04078",
+                    "cornu_URI": "KUSAYFA_350E312N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلكسيفة",
+                    "toponym_arabic_other": "ﭐلكسيفة",
+                    "toponym_buckwalter": "al-Kusayfa",
+                    "toponym_search": "al-Kusayfa",
+                    "toponym_translit": "al-Kusayfaŧ",
+                    "toponym_translit_other": "al-Kusayfaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

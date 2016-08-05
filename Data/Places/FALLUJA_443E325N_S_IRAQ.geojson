@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.3076,
+                    32.55902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.55902",
+                    "coord_lon": "44.30760",
+                    "cornu_URI": "FALLUJA_443E325N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "فلوجة",
+                    "toponym_arabic_other": "فلوجة",
+                    "toponym_buckwalter": "Falluja",
+                    "toponym_search": "Falluja",
+                    "toponym_translit": "Fallūǧaŧ",
+                    "toponym_translit_other": "Fallūǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

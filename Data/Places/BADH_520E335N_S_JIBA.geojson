@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.01467,
+                    33.5596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.55960",
+                    "coord_lon": "52.01467",
+                    "cornu_URI": "BADH_520E335N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "باذ",
+                    "toponym_arabic_other": "باذ",
+                    "toponym_buckwalter": "Badh",
+                    "toponym_search": "Badh",
+                    "toponym_translit": "Bāḏ",
+                    "toponym_translit_other": "Bāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

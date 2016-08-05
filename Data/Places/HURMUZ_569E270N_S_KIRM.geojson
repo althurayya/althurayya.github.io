@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.94955,
+                    27.0994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.09940",
+                    "coord_lon": "56.94955",
+                    "cornu_URI": "HURMUZ_569E270N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هرموز",
+                    "toponym_arabic_other": "هرموز",
+                    "toponym_buckwalter": "Hurmuz",
+                    "toponym_search": "Hurmuz",
+                    "toponym_translit": "Hurmūz",
+                    "toponym_translit_other": "Hurmūz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

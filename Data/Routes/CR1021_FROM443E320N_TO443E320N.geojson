@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        44.37393607940885,
+                        32.017900711093034
+                    ],
+                    [
+                        44.38125857505188,
+                        32.023479087172696
+                    ],
+                    [
+                        44.38758316072459,
+                        32.03085097420118
+                    ],
+                    [
+                        44.393689284857025,
+                        32.03869773333884
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "HIRA_443E320N_S_IRAQ",
+                "Meter": 2984,
+                "id": "CR1021_FROM443E320N_TO443E320N",
+                "eToponym": "KUFA_443E320N_S_IRAQ"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

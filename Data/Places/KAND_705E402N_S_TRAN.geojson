@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.51735,
+                    40.29225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.29225",
+                    "coord_lon": "70.51735",
+                    "cornu_URI": "KAND_705E402N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كند",
+                    "toponym_arabic_other": "كند",
+                    "toponym_buckwalter": "Kand",
+                    "toponym_search": "Kand",
+                    "toponym_translit": "Kand",
+                    "toponym_translit_other": "Kand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

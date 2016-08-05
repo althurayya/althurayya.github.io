@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.92649138277925,
+                        30.763552185831585
+                    ],
+                    [
+                        30.92553000166922,
+                        30.77643849553946
+                    ],
+                    [
+                        30.92476089678119,
+                        30.78750612724593
+                    ],
+                    [
+                        30.92341496322715,
+                        30.795599559014043
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "FISHAIBNSULAYM_309E307N_S_EGYP",
+                "Meter": 3567,
+                "id": "CR1068_FROM309E307N_TO309E307N",
+                "eToponym": "MAHALLAMAHRUM_309E307N_S_EGYP"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

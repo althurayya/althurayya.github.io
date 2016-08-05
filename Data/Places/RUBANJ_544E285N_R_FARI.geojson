@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.40794,
+                    28.5161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.51610",
+                    "coord_lon": "54.40794",
+                    "cornu_URI": "RUBANJ_544E285N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "روبنج",
+                    "toponym_arabic_other": "روبنج",
+                    "toponym_buckwalter": "Rubanj",
+                    "toponym_search": "Rubanj",
+                    "toponym_translit": "Rūbanǧ",
+                    "toponym_translit_other": "Rūbanǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

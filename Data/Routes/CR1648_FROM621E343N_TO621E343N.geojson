@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        62.15227202639333,
+                        34.33466009920511
+                    ],
+                    [
+                        62.151949770421545,
+                        34.353285395117815
+                    ],
+                    [
+                        62.152594282365094,
+                        34.366320640513365
+                    ],
+                    [
+                        62.153561050280445,
+                        34.374832359337844
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "HARA_621E343N_S_KHUR",
+                "Meter": 4462,
+                "id": "CR1648_FROM621E343N_TO621E343N",
+                "eToponym": "ROUTPOINT1703_621E343N_O_NODA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

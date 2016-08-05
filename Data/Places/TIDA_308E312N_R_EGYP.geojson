@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.827,
+                    31.23866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.23866",
+                    "coord_lon": "30.82700",
+                    "cornu_URI": "TIDA_308E312N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "تيدة",
+                    "toponym_arabic_other": "تيدة",
+                    "toponym_buckwalter": "Tida",
+                    "toponym_search": "Tida",
+                    "toponym_translit": "Tīdaŧ",
+                    "toponym_translit_other": "Tīdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

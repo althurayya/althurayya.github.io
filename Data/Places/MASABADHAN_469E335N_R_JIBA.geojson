@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.92023,
+                    33.58473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.58473",
+                    "coord_lon": "46.92023",
+                    "cornu_URI": "MASABADHAN_469E335N_R_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ماسبذان",
+                    "toponym_arabic_other": "ماسبذان",
+                    "toponym_buckwalter": "Masabadhan",
+                    "toponym_search": "Masabadhan",
+                    "toponym_translit": "Māsabaḏān",
+                    "toponym_translit_other": "Māsabaḏān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.80777,
+                    30.96763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.96763",
+                    "coord_lon": "49.80777",
+                    "cornu_URI": "KHABARAN_498E309N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلخابران",
+                    "toponym_arabic_other": "ﭐلخابران",
+                    "toponym_buckwalter": "al-Khabaran",
+                    "toponym_search": "al-Khabaran",
+                    "toponym_translit": "al-Ḫābarān",
+                    "toponym_translit_other": "al-Ḫābarān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

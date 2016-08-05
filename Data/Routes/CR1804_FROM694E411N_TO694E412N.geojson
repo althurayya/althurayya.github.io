@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        69.42451062367937,
+                        41.18396216068226
+                    ],
+                    [
+                        69.42613174049053,
+                        41.201345583842084
+                    ],
+                    [
+                        69.42451062367937,
+                        41.21811468633152
+                    ],
+                    [
+                        69.42086311085427,
+                        41.22573558477435
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT1716_694E411N_O_NODA",
+                "Meter": 4703,
+                "id": "CR1804_FROM694E411N_TO694E412N",
+                "eToponym": "BINKATH_694E412N_S_TRAN"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

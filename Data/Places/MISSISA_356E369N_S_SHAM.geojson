@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.66897,
+                    36.94067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.94067",
+                    "coord_lon": "35.66897",
+                    "cornu_URI": "MISSISA_356E369N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "placeforte",
+                    "toponym_arabic": "ﭐلمصيصة",
+                    "toponym_arabic_other": "ﭐلمصيصة",
+                    "toponym_buckwalter": "al-Missisa",
+                    "toponym_search": "al-Missisa",
+                    "toponym_translit": "al-Miṣṣīṣaŧ",
+                    "toponym_translit_other": "al-Miṣṣīṣaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

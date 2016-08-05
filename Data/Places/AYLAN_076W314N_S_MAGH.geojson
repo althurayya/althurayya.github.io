@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.6971,
+                    31.49952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.49952",
+                    "coord_lon": "-7.69710",
+                    "cornu_URI": "AYLAN_076W314N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أيلان",
+                    "toponym_arabic_other": "أيلان، أغمات أيلا، أغمات ويلا",
+                    "toponym_buckwalter": "Aylan, Aghmat Ayla, Aghmat Wayla",
+                    "toponym_search": "Aylan, Aghmat Ayla, Aghmat Wayla",
+                    "toponym_translit": "Aylān",
+                    "toponym_translit_other": "Aylān, Aġmāt Aylā, Aġmāt Waylā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

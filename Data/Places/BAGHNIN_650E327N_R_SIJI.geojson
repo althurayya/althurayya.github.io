@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.00452,
+                    32.71541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.71541",
+                    "coord_lon": "65.00452",
+                    "cornu_URI": "BAGHNIN_650E327N_R_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "بغنين",
+                    "toponym_arabic_other": "بغنين",
+                    "toponym_buckwalter": "Baghnin",
+                    "toponym_search": "Baghnin",
+                    "toponym_translit": "Baġnīn",
+                    "toponym_translit_other": "Baġnīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

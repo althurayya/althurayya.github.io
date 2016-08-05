@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.62743,
+                    31.1799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.17990",
+                    "coord_lon": "52.62743",
+                    "cornu_URI": "ARJUMAN_526E311N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "أرجمان",
+                    "toponym_arabic_other": "أرجمان",
+                    "toponym_buckwalter": "Arjuman",
+                    "toponym_search": "Arjuman",
+                    "toponym_translit": "Arǧumān",
+                    "toponym_translit_other": "Arǧumān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

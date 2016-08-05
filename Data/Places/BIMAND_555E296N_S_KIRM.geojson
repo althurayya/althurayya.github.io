@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.59756,
+                    29.66254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.66254",
+                    "coord_lon": "55.59756",
+                    "cornu_URI": "BIMAND_555E296N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيمند",
+                    "toponym_arabic_other": "بيمند",
+                    "toponym_buckwalter": "Bimand",
+                    "toponym_search": "Bimand",
+                    "toponym_translit": "Bīmand",
+                    "toponym_translit_other": "Bīmand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

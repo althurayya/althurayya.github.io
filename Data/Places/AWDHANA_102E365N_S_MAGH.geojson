@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.28004,
+                    36.59668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.59668",
+                    "coord_lon": "10.28004",
+                    "cornu_URI": "AWDHANA_102E365N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أوذنة",
+                    "toponym_arabic_other": "أوذنة",
+                    "toponym_buckwalter": "Awdhana",
+                    "toponym_search": "Awdhana",
+                    "toponym_translit": "Awḏanaŧ",
+                    "toponym_translit_other": "Awḏanaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

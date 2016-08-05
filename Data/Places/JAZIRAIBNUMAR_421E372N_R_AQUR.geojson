@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.19943,
+                    37.28521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.28521",
+                    "coord_lon": "42.19943",
+                    "cornu_URI": "JAZIRAIBNUMAR_421E372N_R_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "جزيرة إبن عمر",
+                    "toponym_arabic_other": "جزيرة إبن عمر",
+                    "toponym_buckwalter": "Jazira Ibn Umar",
+                    "toponym_search": "Jazira Ibn Umar",
+                    "toponym_translit": "Ǧazīraŧ Ibn ʿUmar",
+                    "toponym_translit_other": "Ǧazīraŧ Ibn ʿUmar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

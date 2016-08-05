@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.06385,
+                    33.41382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.41382",
+                    "coord_lon": "44.06385",
+                    "cornu_URI": "SAYLAHIN_440E334N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلسيلحين",
+                    "toponym_arabic_other": "ﭐلسيلحين",
+                    "toponym_buckwalter": "al-Saylahin",
+                    "toponym_search": "al-Saylahin",
+                    "toponym_translit": "al-Saylaḥīn",
+                    "toponym_translit_other": "al-Saylaḥīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

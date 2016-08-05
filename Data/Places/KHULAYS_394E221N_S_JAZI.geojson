@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.41808,
+                    22.10557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.10557",
+                    "coord_lon": "39.41808",
+                    "cornu_URI": "KHULAYS_394E221N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خليص",
+                    "toponym_arabic_other": "خليص",
+                    "toponym_buckwalter": "Khulays",
+                    "toponym_search": "Khulays",
+                    "toponym_translit": "Ḫulayṣ",
+                    "toponym_translit_other": "Ḫulayṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

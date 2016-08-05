@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.60131,
+                    31.28576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.28576",
+                    "coord_lon": "49.60131",
+                    "cornu_URI": "RAMHURMUZ_496E312N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "رام هرمز",
+                    "toponym_arabic_other": "رام هرمز، رامهرمز",
+                    "toponym_buckwalter": "Ram Hurmuz, Ramahurmuz",
+                    "toponym_search": "Ram Hurmuz, Ramahurmuz",
+                    "toponym_translit": "Rām Hurmuz",
+                    "toponym_translit_other": "Rām Hurmuz, Rāmahurmuz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

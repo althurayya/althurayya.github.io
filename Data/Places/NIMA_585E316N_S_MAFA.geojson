@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.52604,
+                    31.68852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.68852",
+                    "coord_lon": "58.52604",
+                    "cornu_URI": "NIMA_585E316N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "نيمة",
+                    "toponym_arabic_other": "نيمة",
+                    "toponym_buckwalter": "Nima",
+                    "toponym_search": "Nima",
+                    "toponym_translit": "Nīmaŧ",
+                    "toponym_translit_other": "Nīmaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

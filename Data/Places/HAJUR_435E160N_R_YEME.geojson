@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.51706,
+                    16.00544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.00544",
+                    "coord_lon": "43.51706",
+                    "cornu_URI": "HAJUR_435E160N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "حجور",
+                    "toponym_arabic_other": "حجور",
+                    "toponym_buckwalter": "Hajur",
+                    "toponym_search": "Hajur",
+                    "toponym_translit": "Ḥaǧūr",
+                    "toponym_translit_other": "Ḥaǧūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

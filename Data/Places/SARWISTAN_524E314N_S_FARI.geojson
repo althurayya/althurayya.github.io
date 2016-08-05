@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.43219,
+                    31.42233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.42233",
+                    "coord_lon": "52.43219",
+                    "cornu_URI": "SARWISTAN_524E314N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سرويستان",
+                    "toponym_arabic_other": "سرويستان، سرورير",
+                    "toponym_buckwalter": "Sarwistan, Sarurir",
+                    "toponym_search": "Sarwistan, Sarurir",
+                    "toponym_translit": "Sarwīstān",
+                    "toponym_translit_other": "Sarwīstān, Sarūrīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    33.43051,
+                    19.40078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.40078",
+                    "coord_lon": "33.43051",
+                    "cornu_URI": "SANTA_334E194N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلسنطة",
+                    "toponym_arabic_other": "ﭐلسنطة",
+                    "toponym_buckwalter": "al-Santa",
+                    "toponym_search": "al-Santa",
+                    "toponym_translit": "al-Sanṭaŧ",
+                    "toponym_translit_other": "al-Sanṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

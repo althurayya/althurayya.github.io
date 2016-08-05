@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.72517,
+                    35.24443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.24443",
+                    "coord_lon": "67.72517",
+                    "cornu_URI": "KAH_677E352N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كاه",
+                    "toponym_arabic_other": "كاه، جاه",
+                    "toponym_buckwalter": "Kah, Jah",
+                    "toponym_search": "Kah, Jah",
+                    "toponym_translit": "Kāh",
+                    "toponym_translit_other": "Kāh, Ǧāh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

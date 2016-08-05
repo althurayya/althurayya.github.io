@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.81266,
+                    31.35567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.35567",
+                    "coord_lon": "51.81266",
+                    "cornu_URI": "SUMAYRAM_518E313N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سميرم",
+                    "toponym_arabic_other": "سميرم",
+                    "toponym_buckwalter": "Sumayram",
+                    "toponym_search": "Sumayram",
+                    "toponym_translit": "Sumayram",
+                    "toponym_translit_other": "Sumayram"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

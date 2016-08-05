@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.13563,
+                    28.52387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.52387",
+                    "coord_lon": "53.13563",
+                    "cornu_URI": "NAHRSAKKAN_531E285N_W_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر سكان",
+                    "toponym_arabic_other": "نهر سكان",
+                    "toponym_buckwalter": "Nahr Sakkan",
+                    "toponym_search": "Nahr Sakkan",
+                    "toponym_translit": "Nahr Sakkān",
+                    "toponym_translit_other": "Nahr Sakkān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

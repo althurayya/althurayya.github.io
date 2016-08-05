@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.21404,
+                    26.78388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.78388",
+                    "coord_lon": "47.21404",
+                    "cornu_URI": "SAMMAN_472E267N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلصمان",
+                    "toponym_arabic_other": "ﭐلصمان",
+                    "toponym_buckwalter": "al-Samman",
+                    "toponym_search": "al-Samman",
+                    "toponym_translit": "al-Ṣammān",
+                    "toponym_translit_other": "al-Ṣammān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

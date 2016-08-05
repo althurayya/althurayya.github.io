@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71712,
+                    39.22337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.22337",
+                    "coord_lon": "-8.71712",
+                    "cornu_URI": "SHANTARIN_087W392N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شنترين",
+                    "toponym_arabic_other": "شنترين",
+                    "toponym_buckwalter": "Shantarin",
+                    "toponym_search": "Shantarin",
+                    "toponym_translit": "Šantarīn",
+                    "toponym_translit_other": "Šantarīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

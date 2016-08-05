@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.38086,
+                    40.88004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.88004",
+                    "coord_lon": "48.38086",
+                    "cornu_URI": "ABKHAN_483E408N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "contree",
+                    "toponym_arabic": "ﭐلأبخان",
+                    "toponym_arabic_other": "ﭐلأبخان، لايجان، ليزان، ليزان، ليران",
+                    "toponym_buckwalter": "al-Abkhan, Layijan, Layzan, Lizan, Liran",
+                    "toponym_search": "al-Abkhan, Layijan, Layzan, Lizan, Liran",
+                    "toponym_translit": "al-Abḫān",
+                    "toponym_translit_other": "al-Abḫān, Lāyiǧān, Layzān, Līzān, Līrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

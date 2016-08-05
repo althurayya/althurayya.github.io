@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.38227,
+                    14.23881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.23881",
+                    "coord_lon": "44.38227",
+                    "cornu_URI": "ZAFAR_443E142N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "ظفار",
+                    "toponym_arabic_other": "ظفار",
+                    "toponym_buckwalter": "Zafar",
+                    "toponym_search": "Zafar",
+                    "toponym_translit": "Ẓafār",
+                    "toponym_translit_other": "Ẓafār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

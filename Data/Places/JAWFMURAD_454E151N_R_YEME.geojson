@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.44152,
+                    15.10298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.10298",
+                    "coord_lon": "45.44152",
+                    "cornu_URI": "JAWFMURAD_454E151N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "جوف مراد",
+                    "toponym_arabic_other": "جوف مراد",
+                    "toponym_buckwalter": "Jawf Murad",
+                    "toponym_search": "Jawf Murad",
+                    "toponym_translit": "Ǧawf Murād",
+                    "toponym_translit_other": "Ǧawf Murād"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

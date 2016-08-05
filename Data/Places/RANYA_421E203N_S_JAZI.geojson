@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1041,
+                    20.30924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "20.30924",
+                    "coord_lon": "42.10410",
+                    "cornu_URI": "RANYA_421E203N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "رنية",
+                    "toponym_arabic_other": "رنية",
+                    "toponym_buckwalter": "Ranya",
+                    "toponym_search": "Ranya",
+                    "toponym_translit": "Ranyaŧ",
+                    "toponym_translit_other": "Ranyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.63061,
+                    36.45828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.45828",
+                    "coord_lon": "48.63061",
+                    "cornu_URI": "SUHRAWARD_486E364N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سهرورد",
+                    "toponym_arabic_other": "سهرورد",
+                    "toponym_buckwalter": "Suhraward",
+                    "toponym_search": "Suhraward",
+                    "toponym_translit": "Suhraward",
+                    "toponym_translit_other": "Suhraward"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.16823,
+                    29.12939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.12939",
+                    "coord_lon": "56.16823",
+                    "cornu_URI": "BAKHTA_561E291N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "باختة",
+                    "toponym_arabic_other": "باختة، ناجت",
+                    "toponym_buckwalter": "Bakhta, Najt",
+                    "toponym_search": "Bakhta, Najt",
+                    "toponym_translit": "Bāḫtaŧ",
+                    "toponym_translit_other": "Bāḫtaŧ, Nāǧt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

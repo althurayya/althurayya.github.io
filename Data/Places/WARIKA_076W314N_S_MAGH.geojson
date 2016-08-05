@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.6357,
+                    31.44535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.44535",
+                    "coord_lon": "-7.63570",
+                    "cornu_URI": "WARIKA_076W314N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "وريكة",
+                    "toponym_arabic_other": "وريكة، أغمات وريكة",
+                    "toponym_buckwalter": "Warika, Aghmat Warika",
+                    "toponym_search": "Warika, Aghmat Warika",
+                    "toponym_translit": "Warīkaŧ",
+                    "toponym_translit_other": "Warīkaŧ, Aġmāt Warīkaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

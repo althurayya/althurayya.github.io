@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.83711,
+                    28.28725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.28725",
+                    "coord_lon": "28.83711",
+                    "cornu_URI": "BANHASA_288E282N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "oasis",
+                    "toponym_arabic": "بنهسى",
+                    "toponym_arabic_other": "بنهسى",
+                    "toponym_buckwalter": "Banhasa",
+                    "toponym_search": "Banhasa",
+                    "toponym_translit": "Banhasá",
+                    "toponym_translit_other": "Banhasá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

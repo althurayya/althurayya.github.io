@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.33448,
+                    32.4844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.48440",
+                    "coord_lon": "67.33448",
+                    "cornu_URI": "KHAYSAR_673E324N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "خايسار",
+                    "toponym_arabic_other": "خايسار، خابشان، خابسار",
+                    "toponym_buckwalter": "Khaysar, Khabishan, Khabisar",
+                    "toponym_search": "Khaysar, Khabishan, Khabisar",
+                    "toponym_translit": "Ḫāysār",
+                    "toponym_translit_other": "Ḫāysār, Ḫābišān, Ḫābisār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

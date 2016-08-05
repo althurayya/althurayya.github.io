@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.43137,
+                    28.33754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.33754",
+                    "coord_lon": "54.43137",
+                    "cornu_URI": "YAZDAKHAWAST_544E283N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "يزدخواست",
+                    "toponym_arabic_other": "يزدخواست",
+                    "toponym_buckwalter": "Yazdakhawast",
+                    "toponym_search": "Yazdakhawast",
+                    "toponym_translit": "Yazdaḫawāst",
+                    "toponym_translit_other": "Yazdaḫawāst"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

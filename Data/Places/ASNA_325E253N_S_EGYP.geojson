@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.55162,
+                    25.32189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.32189",
+                    "coord_lon": "32.55162",
+                    "cornu_URI": "ASNA_325E253N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أسنا",
+                    "toponym_arabic_other": "أسنا",
+                    "toponym_buckwalter": "Asna",
+                    "toponym_search": "Asna",
+                    "toponym_translit": "Asnā",
+                    "toponym_translit_other": "Asnā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

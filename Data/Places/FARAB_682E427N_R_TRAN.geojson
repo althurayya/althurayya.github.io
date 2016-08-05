@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.29439,
+                    42.7449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.74490",
+                    "coord_lon": "68.29439",
+                    "cornu_URI": "FARAB_682E427N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "فاراب",
+                    "toponym_arabic_other": "فاراب، باراب",
+                    "toponym_buckwalter": "Farab, Barab",
+                    "toponym_search": "Farab, Barab",
+                    "toponym_translit": "Fārāb",
+                    "toponym_translit_other": "Fārāb, Bārāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.96348,
+                    13.14229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.14229",
+                    "coord_lon": "44.96348",
+                    "cornu_URI": "ABYAYN_449E131N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "أبياين",
+                    "toponym_arabic_other": "أبياين",
+                    "toponym_buckwalter": "Abyayn",
+                    "toponym_search": "Abyayn",
+                    "toponym_translit": "Abyāyn",
+                    "toponym_translit_other": "Abyāyn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

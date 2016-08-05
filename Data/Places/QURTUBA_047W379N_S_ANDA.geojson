@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.78135,
+                    37.91898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.91898",
+                    "coord_lon": "-4.78135",
+                    "cornu_URI": "QURTUBA_047W379N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "قرطوبة",
+                    "toponym_arabic_other": "قرطوبة",
+                    "toponym_buckwalter": "Qurtuba",
+                    "toponym_search": "Qurtuba",
+                    "toponym_translit": "Qurṭūbaŧ",
+                    "toponym_translit_other": "Qurṭūbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

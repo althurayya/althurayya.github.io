@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.77259,
+                    35.30758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.30758",
+                    "coord_lon": "50.77259",
+                    "cornu_URI": "MASHKUYA_507E353N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "مشكوية",
+                    "toponym_arabic_other": "مشكوية",
+                    "toponym_buckwalter": "Mashkuya",
+                    "toponym_search": "Mashkuya",
+                    "toponym_translit": "Maškūyaŧ",
+                    "toponym_translit_other": "Maškūyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

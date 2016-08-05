@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.24579,
+                    35.72328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.72328",
+                    "coord_lon": "64.24579",
+                    "cornu_URI": "TALAQAN_642E357N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طلقان",
+                    "toponym_arabic_other": "طلقان",
+                    "toponym_buckwalter": "Talaqan",
+                    "toponym_search": "Talaqan",
+                    "toponym_translit": "Ṭalaqān",
+                    "toponym_translit_other": "Ṭalaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

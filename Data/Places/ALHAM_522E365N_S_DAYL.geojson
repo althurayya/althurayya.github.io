@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.23414,
+                    36.56405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.56405",
+                    "coord_lon": "52.23414",
+                    "cornu_URI": "ALHAM_522E365N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ألهم",
+                    "toponym_arabic_other": "ألهم",
+                    "toponym_buckwalter": "Alham",
+                    "toponym_search": "Alham",
+                    "toponym_translit": "Alham",
+                    "toponym_translit_other": "Alham"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

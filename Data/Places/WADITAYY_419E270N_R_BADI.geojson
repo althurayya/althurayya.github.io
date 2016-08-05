@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.94575,
+                    27.05571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.05571",
+                    "coord_lon": "41.94575",
+                    "cornu_URI": "WADITAYY_419E270N_R_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "vallee",
+                    "toponym_arabic": "وادي طي",
+                    "toponym_arabic_other": "وادي طي",
+                    "toponym_buckwalter": "Wadi Tayy",
+                    "toponym_search": "Wadi Tayy",
+                    "toponym_translit": "Wādī Ṭayy",
+                    "toponym_translit_other": "Wādī Ṭayy"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

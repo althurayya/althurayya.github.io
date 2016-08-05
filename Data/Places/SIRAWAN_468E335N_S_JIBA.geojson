@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.86539,
+                    33.52303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.52303",
+                    "coord_lon": "46.86539",
+                    "cornu_URI": "SIRAWAN_468E335N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلسيروان",
+                    "toponym_arabic_other": "ﭐلسيروان، ﭐلشيراوان",
+                    "toponym_buckwalter": "al-Sirawan, al-Shirawan",
+                    "toponym_search": "al-Sirawan, al-Shirawan",
+                    "toponym_translit": "al-Sīrawān",
+                    "toponym_translit_other": "al-Sīrawān, al-Šīrāwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

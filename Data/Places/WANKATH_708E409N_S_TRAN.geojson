@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.89511,
+                    40.92611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.92611",
+                    "coord_lon": "70.89511",
+                    "cornu_URI": "WANKATH_708E409N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "وانكث",
+                    "toponym_arabic_other": "وانكث",
+                    "toponym_buckwalter": "Wankath",
+                    "toponym_search": "Wankath",
+                    "toponym_translit": "Wānkaṯ",
+                    "toponym_translit_other": "Wānkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.48149,
+                    31.86882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.86882",
+                    "coord_lon": "35.48149",
+                    "cornu_URI": "GHAWR_354E318N_R_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "fosse",
+                    "toponym_arabic": "ﭐلغور",
+                    "toponym_arabic_other": "ﭐلغور",
+                    "toponym_buckwalter": "al-Ghawr",
+                    "toponym_search": "al-Ghawr",
+                    "toponym_translit": "al-Ġawr",
+                    "toponym_translit_other": "al-Ġawr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

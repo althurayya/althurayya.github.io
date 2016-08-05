@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.35293,
+                    33.31703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.31703",
+                    "coord_lon": "44.35293",
+                    "cornu_URI": "KARKH_443E333N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "quarters",
+                    "top_type_orig": "quartier",
+                    "toponym_arabic": "ﭐلكرخ",
+                    "toponym_arabic_other": "ﭐلكرخ",
+                    "toponym_buckwalter": "al-Karkh",
+                    "toponym_search": "al-Karkh",
+                    "toponym_translit": "al-Karḫ",
+                    "toponym_translit_other": "al-Karḫ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.05096,
+                    36.33966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.33966",
+                    "coord_lon": "36.05096",
+                    "cornu_URI": "JABALLUKKAM_360E363N_O_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "montagne",
+                    "toponym_arabic": "جبل ﭐللكام",
+                    "toponym_arabic_other": "جبل ﭐللكام",
+                    "toponym_buckwalter": "Jabal al-Lukkam",
+                    "toponym_search": "Jabal al-Lukkam",
+                    "toponym_translit": "Ǧabal al-Lukkām",
+                    "toponym_translit_other": "Ǧabal al-Lukkām"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

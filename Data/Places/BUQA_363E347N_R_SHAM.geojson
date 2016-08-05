@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.32185,
+                    34.71618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.71618",
+                    "coord_lon": "36.32185",
+                    "cornu_URI": "BUQA_363E347N_R_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circon",
+                    "toponym_arabic": "بوقا",
+                    "toponym_arabic_other": "بوقا",
+                    "toponym_buckwalter": "Buqa",
+                    "toponym_search": "Buqa",
+                    "toponym_translit": "Būqā",
+                    "toponym_translit_other": "Būqā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

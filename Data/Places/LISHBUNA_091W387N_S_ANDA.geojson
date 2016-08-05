@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.14514,
+                    38.76878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.76878",
+                    "coord_lon": "-9.14514",
+                    "cornu_URI": "LISHBUNA_091W387N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "لشبونة",
+                    "toponym_arabic_other": "لشبونة",
+                    "toponym_buckwalter": "Lishbuna",
+                    "toponym_search": "Lishbuna",
+                    "toponym_translit": "Lišbūnaŧ",
+                    "toponym_translit_other": "Lišbūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

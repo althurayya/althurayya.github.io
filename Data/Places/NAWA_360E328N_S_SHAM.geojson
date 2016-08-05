@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.02865,
+                    32.88099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.88099",
+                    "coord_lon": "36.02865",
+                    "cornu_URI": "NAWA_360E328N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نوى",
+                    "toponym_arabic_other": "نوى",
+                    "toponym_buckwalter": "Nawa",
+                    "toponym_search": "Nawa",
+                    "toponym_translit": "Nawá",
+                    "toponym_translit_other": "Nawá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

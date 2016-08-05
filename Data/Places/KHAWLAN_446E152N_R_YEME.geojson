@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.69438,
+                    15.28324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.28324",
+                    "coord_lon": "44.69438",
+                    "cornu_URI": "KHAWLAN_446E152N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلخولان",
+                    "toponym_arabic_other": "ﭐلخولان",
+                    "toponym_buckwalter": "al-Khawlan",
+                    "toponym_search": "al-Khawlan",
+                    "toponym_translit": "al-Ḫawlān",
+                    "toponym_translit_other": "al-Ḫawlān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

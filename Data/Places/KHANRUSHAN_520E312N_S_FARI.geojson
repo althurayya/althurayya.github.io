@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.02871,
+                    31.25559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.25559",
+                    "coord_lon": "52.02871",
+                    "cornu_URI": "KHANRUSHAN_520E312N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خان روشن",
+                    "toponym_arabic_other": "خان روشن، خان أويس، خوارش",
+                    "toponym_buckwalter": "Khan Rushan, Khan Awis, Khuwarish",
+                    "toponym_search": "Khan Rushan, Khan Awis, Khuwarish",
+                    "toponym_translit": "Ḫān Rūšan",
+                    "toponym_translit_other": "Ḫān Rūšan, Ḫān Awīs, Ḫuwāriš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

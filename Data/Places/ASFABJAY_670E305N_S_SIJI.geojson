@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.02922,
+                    30.58971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.58971",
+                    "coord_lon": "67.02922",
+                    "cornu_URI": "ASFABJAY_670E305N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أسفبجاي",
+                    "toponym_arabic_other": "أسفبجاي، سفنجاوي",
+                    "toponym_buckwalter": "Asfabjay, Safanjawi",
+                    "toponym_search": "Asfabjay, Safanjawi",
+                    "toponym_translit": "Asfabǧāy",
+                    "toponym_translit_other": "Asfabǧāy, Safanǧāwī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

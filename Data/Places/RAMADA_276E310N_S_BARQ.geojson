@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61485,
+                    31.02336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.02336",
+                    "coord_lon": "27.61485",
+                    "cornu_URI": "RAMADA_276E310N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رمادة",
+                    "toponym_arabic_other": "رمادة",
+                    "toponym_buckwalter": "Ramada",
+                    "toponym_search": "Ramada",
+                    "toponym_translit": "Ramādaŧ",
+                    "toponym_translit_other": "Ramādaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

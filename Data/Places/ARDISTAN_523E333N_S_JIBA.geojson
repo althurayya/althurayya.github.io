@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.36669,
+                    33.37701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.37701",
+                    "coord_lon": "52.36669",
+                    "cornu_URI": "ARDISTAN_523E333N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أردستان",
+                    "toponym_arabic_other": "أردستان",
+                    "toponym_buckwalter": "Ardistan",
+                    "toponym_search": "Ardistan",
+                    "toponym_translit": "Ardistān",
+                    "toponym_translit_other": "Ardistān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

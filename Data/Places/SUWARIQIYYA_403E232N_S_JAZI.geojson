@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.35548,
+                    23.28483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.28483",
+                    "coord_lon": "40.35548",
+                    "cornu_URI": "SUWARIQIYYA_403E232N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلسوارقية",
+                    "toponym_arabic_other": "ﭐلسوارقية",
+                    "toponym_buckwalter": "al-Suwariqiyya",
+                    "toponym_search": "al-Suwariqiyya",
+                    "toponym_translit": "al-Suwāriqiyyaŧ",
+                    "toponym_translit_other": "al-Suwāriqiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

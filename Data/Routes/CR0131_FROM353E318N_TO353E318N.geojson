@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        35.372820051555614,
+                        31.828196476130685
+                    ],
+                    [
+                        35.37780176732597,
+                        31.830149977657317
+                    ],
+                    [
+                        35.38584915433961,
+                        31.83308015242622
+                    ],
+                    [
+                        35.39044766120455,
+                        31.835033550589415
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT0106_353E318N_O_NODA",
+                "Meter": 1833,
+                "id": "CR0131_FROM353E318N_TO353E318N",
+                "eToponym": "ROUTPOINT0114_353E318N_O_NODA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

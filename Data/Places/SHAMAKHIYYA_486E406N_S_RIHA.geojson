@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.68505,
+                    40.67871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.67871",
+                    "coord_lon": "48.68505",
+                    "cornu_URI": "SHAMAKHIYYA_486E406N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلشماخية",
+                    "toponym_arabic_other": "ﭐلشماخية",
+                    "toponym_buckwalter": "al-Shamakhiyya",
+                    "toponym_search": "al-Shamakhiyya",
+                    "toponym_translit": "al-Šamāḫiyyaŧ",
+                    "toponym_translit_other": "al-Šamāḫiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

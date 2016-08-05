@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        34.86449343852726,
+                        31.924682523547048
+                    ],
+                    [
+                        34.870624781013845,
+                        31.93704105025485
+                    ],
+                    [
+                        34.87867216802749,
+                        31.947772107150666
+                    ],
+                    [
+                        34.884803510514075,
+                        31.956225996614844
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "RAMLA_348E319N_S_SHAM",
+                "Meter": 4003,
+                "id": "CR0137_FROM348E319N_TO348E319N",
+                "eToponym": "LUDD_348E319N_S_SHAM"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

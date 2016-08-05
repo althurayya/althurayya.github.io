@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.54957,
+                    35.88354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.88354",
+                    "coord_lon": "64.54957",
+                    "cornu_URI": "KASHAN_645E358N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كسحان",
+                    "toponym_arabic_other": "كسحان",
+                    "toponym_buckwalter": "Kashan",
+                    "toponym_search": "Kashan",
+                    "toponym_translit": "Kasḥān",
+                    "toponym_translit_other": "Kasḥān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

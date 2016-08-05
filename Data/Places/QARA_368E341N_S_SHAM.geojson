@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.84868,
+                    34.16598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.16598",
+                    "coord_lon": "36.84868",
+                    "cornu_URI": "QARA_368E341N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قارة",
+                    "toponym_arabic_other": "قارة",
+                    "toponym_buckwalter": "Qara",
+                    "toponym_search": "Qara",
+                    "toponym_translit": "Qāraŧ",
+                    "toponym_translit_other": "Qāraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

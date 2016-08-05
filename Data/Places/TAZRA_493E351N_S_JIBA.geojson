@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.39342,
+                    35.12165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.12165",
+                    "coord_lon": "49.39342",
+                    "cornu_URI": "TAZRA_493E351N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "طزرة",
+                    "toponym_arabic_other": "طزرة",
+                    "toponym_buckwalter": "Tazra",
+                    "toponym_search": "Tazra",
+                    "toponym_translit": "Ṭazraŧ",
+                    "toponym_translit_other": "Ṭazraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

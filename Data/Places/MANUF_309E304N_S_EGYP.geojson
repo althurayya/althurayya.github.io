@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.9195,
+                    30.45505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.45505",
+                    "coord_lon": "30.91950",
+                    "cornu_URI": "MANUF_309E304N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منوف",
+                    "toponym_arabic_other": "منوف",
+                    "toponym_buckwalter": "Manuf",
+                    "toponym_search": "Manuf",
+                    "toponym_translit": "Manūf",
+                    "toponym_translit_other": "Manūf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

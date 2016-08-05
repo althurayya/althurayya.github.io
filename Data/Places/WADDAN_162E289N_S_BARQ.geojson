@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    16.28326,
+                    28.96493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.96493",
+                    "coord_lon": "16.28326",
+                    "cornu_URI": "WADDAN_162E289N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "oasis",
+                    "toponym_arabic": "ودان",
+                    "toponym_arabic_other": "ودان",
+                    "toponym_buckwalter": "Waddan",
+                    "toponym_search": "Waddan",
+                    "toponym_translit": "Waddān",
+                    "toponym_translit_other": "Waddān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

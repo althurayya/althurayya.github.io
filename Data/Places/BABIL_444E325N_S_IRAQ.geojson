@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.42281,
+                    32.57211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.57211",
+                    "coord_lon": "44.42281",
+                    "cornu_URI": "BABIL_444E325N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بابل",
+                    "toponym_arabic_other": "بابل",
+                    "toponym_buckwalter": "Babil",
+                    "toponym_search": "Babil",
+                    "toponym_translit": "Bābil",
+                    "toponym_translit_other": "Bābil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.4613,
+                    29.96408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.96408",
+                    "coord_lon": "50.46130",
+                    "cornu_URI": "SAHIK_504E299N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape?",
+                    "toponym_arabic": "صاحك",
+                    "toponym_arabic_other": "صاحك",
+                    "toponym_buckwalter": "Sahik",
+                    "toponym_search": "Sahik",
+                    "toponym_translit": "Ṣāḥik",
+                    "toponym_translit_other": "Ṣāḥik"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

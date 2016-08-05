@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.45149,
+                    40.18649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.18649",
+                    "coord_lon": "57.45149",
+                    "cornu_URI": "RIBATABUSAHL_574E401N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط أبو سهل",
+                    "toponym_arabic_other": "رباط أبو سهل",
+                    "toponym_buckwalter": "Ribat Abu Sahl",
+                    "toponym_search": "Ribat Abu Sahl",
+                    "toponym_translit": "Ribāṭ Abū Sahl",
+                    "toponym_translit_other": "Ribāṭ Abū Sahl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

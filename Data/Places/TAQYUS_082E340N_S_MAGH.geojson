@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.26247,
+                    34.00718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.00718",
+                    "coord_lon": "8.26247",
+                    "cornu_URI": "TAQYUS_082E340N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تقيوس",
+                    "toponym_arabic_other": "تقيوس",
+                    "toponym_buckwalter": "Taqyus",
+                    "toponym_search": "Taqyus",
+                    "toponym_translit": "Taqyūs",
+                    "toponym_translit_other": "Taqyūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

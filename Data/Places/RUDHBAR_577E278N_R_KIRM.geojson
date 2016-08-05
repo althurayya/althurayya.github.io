@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.73088,
+                    27.82747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.82747",
+                    "coord_lon": "57.73088",
+                    "cornu_URI": "RUDHBAR_577E278N_R_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "رذبار",
+                    "toponym_arabic_other": "رذبار، رذبال",
+                    "toponym_buckwalter": "Rudhbar, Rudhbal",
+                    "toponym_search": "Rudhbar, Rudhbal",
+                    "toponym_translit": "Ruḏbār",
+                    "toponym_translit_other": "Ruḏbār, Ruḏbāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

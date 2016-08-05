@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.13182,
+                    28.69941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.69941",
+                    "coord_lon": "53.13182",
+                    "cornu_URI": "SIMAKAN_531E286N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلصيمكان",
+                    "toponym_arabic_other": "ﭐلصيمكان",
+                    "toponym_buckwalter": "al-Simakan",
+                    "toponym_search": "al-Simakan",
+                    "toponym_translit": "al-Ṣīmakān",
+                    "toponym_translit_other": "al-Ṣīmakān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

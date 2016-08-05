@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.07172,
+                    39.55752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.55752",
+                    "coord_lon": "64.07172",
+                    "cornu_URI": "BAYKAND_640E395N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "بيكند",
+                    "toponym_arabic_other": "بيكند",
+                    "toponym_buckwalter": "Baykand",
+                    "toponym_search": "Baykand",
+                    "toponym_translit": "Baykand",
+                    "toponym_translit_other": "Baykand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        37.34016545701596,
+                        31.36939605778316
+                    ],
+                    [
+                        37.25756983783381,
+                        31.42463457636135
+                    ],
+                    [
+                        37.20562826288421,
+                        31.468220963996494
+                    ],
+                    [
+                        37.15283518670593,
+                        31.51251299733201
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "GHURRABA_373E313N_S_BADI",
+                "Meter": 23890,
+                "id": "CR0988_FROM373E313N_TO371E315N",
+                "eToponym": "MUHDATHA_371E315N_S_BADI"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

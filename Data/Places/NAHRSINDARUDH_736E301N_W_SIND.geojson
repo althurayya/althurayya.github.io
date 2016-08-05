@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    73.67875,
+                    30.12521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.12521",
+                    "coord_lon": "73.67875",
+                    "cornu_URI": "NAHRSINDARUDH_736E301N_W_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر سندروذ",
+                    "toponym_arabic_other": "نهر سندروذ",
+                    "toponym_buckwalter": "Nahr Sindarudh",
+                    "toponym_search": "Nahr Sindarudh",
+                    "toponym_translit": "Nahr Sindarūḏ",
+                    "toponym_translit_other": "Nahr Sindarūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

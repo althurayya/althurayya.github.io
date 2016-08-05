@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.10037,
+                    28.4795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.47950",
+                    "coord_lon": "55.10037",
+                    "cornu_URI": "RUSTAQ_551E284N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رستاق",
+                    "toponym_arabic_other": "رستاق",
+                    "toponym_buckwalter": "Rustaq",
+                    "toponym_search": "Rustaq",
+                    "toponym_translit": "Rustāq",
+                    "toponym_translit_other": "Rustāq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

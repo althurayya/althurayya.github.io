@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.09201,
+                    38.13882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.13882",
+                    "coord_lon": "13.09201",
+                    "cornu_URI": "AKHYAS_130E381N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أخياس",
+                    "toponym_arabic_other": "أخياس",
+                    "toponym_buckwalter": "Akhyas",
+                    "toponym_search": "Akhyas",
+                    "toponym_translit": "Aḫyās",
+                    "toponym_translit_other": "Aḫyās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.45652,
+                    40.81221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.81221",
+                    "coord_lon": "72.45652",
+                    "cornu_URI": "ANDIKAN_724E408N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أندكان",
+                    "toponym_arabic_other": "أندكان",
+                    "toponym_buckwalter": "Andikan",
+                    "toponym_search": "Andikan",
+                    "toponym_translit": "Andikān",
+                    "toponym_translit_other": "Andikān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

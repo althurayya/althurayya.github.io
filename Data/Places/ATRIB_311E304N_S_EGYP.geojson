@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.17223,
+                    30.45947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.45947",
+                    "coord_lon": "31.17223",
+                    "cornu_URI": "ATRIB_311E304N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أتريب",
+                    "toponym_arabic_other": "أتريب",
+                    "toponym_buckwalter": "Atrib",
+                    "toponym_search": "Atrib",
+                    "toponym_translit": "Atrīb",
+                    "toponym_translit_other": "Atrīb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.30651,
+                    38.23604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.23604",
+                    "coord_lon": "48.30651",
+                    "cornu_URI": "ARDABIL_483E382N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "أردبيل",
+                    "toponym_arabic_other": "أردبيل",
+                    "toponym_buckwalter": "Ardabil",
+                    "toponym_search": "Ardabil",
+                    "toponym_translit": "Ardabīl",
+                    "toponym_translit_other": "Ardabīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

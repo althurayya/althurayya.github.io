@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.0824,
+                    31.16442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.16442",
+                    "coord_lon": "32.08240",
+                    "cornu_URI": "TUNA_320E311N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تونة",
+                    "toponym_arabic_other": "تونة",
+                    "toponym_buckwalter": "Tuna",
+                    "toponym_search": "Tuna",
+                    "toponym_translit": "Tūnaŧ",
+                    "toponym_translit_other": "Tūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.25722,
+                    39.90472
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.90472",
+                    "coord_lon": "64.25722",
+                    "cornu_URI": "AMZAH_642E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أمزه",
+                    "toponym_arabic_other": "أمزه",
+                    "toponym_buckwalter": "Amzah",
+                    "toponym_search": "Amzah",
+                    "toponym_translit": "Amzah",
+                    "toponym_translit_other": "Amzah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.22256,
+                    35.23365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.23365",
+                    "coord_lon": "9.22256",
+                    "cornu_URI": "SUBAYTILA_092E352N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "سبيطلة",
+                    "toponym_arabic_other": "سبيطلة",
+                    "toponym_buckwalter": "Subaytila",
+                    "toponym_search": "Subaytila",
+                    "toponym_translit": "Subayṭilaŧ",
+                    "toponym_translit_other": "Subayṭilaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

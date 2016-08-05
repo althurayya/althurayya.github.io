@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.65158,
+                    40.79878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.79878",
+                    "coord_lon": "47.65158",
+                    "cornu_URI": "QABALA_476E407N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قبلة",
+                    "toponym_arabic_other": "قبلة",
+                    "toponym_buckwalter": "Qabala",
+                    "toponym_search": "Qabala",
+                    "toponym_translit": "Qabalaŧ",
+                    "toponym_translit_other": "Qabalaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

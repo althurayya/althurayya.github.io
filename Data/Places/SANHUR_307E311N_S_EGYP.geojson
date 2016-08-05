@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.70832,
+                    31.16283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.16283",
+                    "coord_lon": "30.70832",
+                    "cornu_URI": "SANHUR_307E311N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سنهور",
+                    "toponym_arabic_other": "سنهور",
+                    "toponym_buckwalter": "Sanhur",
+                    "toponym_search": "Sanhur",
+                    "toponym_translit": "Sanhūr",
+                    "toponym_translit_other": "Sanhūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

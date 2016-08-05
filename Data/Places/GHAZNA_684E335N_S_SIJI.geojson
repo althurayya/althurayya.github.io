@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.40733,
+                    33.56409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.56409",
+                    "coord_lon": "68.40733",
+                    "cornu_URI": "GHAZNA_684E335N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "غزنة",
+                    "toponym_arabic_other": "غزنة، غزنين",
+                    "toponym_buckwalter": "Ghazna, Ghaznin",
+                    "toponym_search": "Ghazna, Ghaznin",
+                    "toponym_translit": "Ġaznaŧ",
+                    "toponym_translit_other": "Ġaznaŧ, Ġaznīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.83301,
+                    34.59132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.59132",
+                    "coord_lon": "-5.83301",
+                    "cornu_URI": "KURT_058W345N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كرت",
+                    "toponym_arabic_other": "كرت",
+                    "toponym_buckwalter": "Kurt",
+                    "toponym_search": "Kurt",
+                    "toponym_translit": "Kurt",
+                    "toponym_translit_other": "Kurt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    0.8273,
+                    35.67814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.67814",
+                    "coord_lon": "0.82730",
+                    "cornu_URI": "MINDAS_008E356N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منداس",
+                    "toponym_arabic_other": "منداس",
+                    "toponym_buckwalter": "Mindas",
+                    "toponym_search": "Mindas",
+                    "toponym_translit": "Mindās",
+                    "toponym_translit_other": "Mindās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

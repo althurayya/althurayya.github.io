@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        39.05114309905574,
+                        35.94881698874314
+                    ],
+                    [
+                        39.0594587505191,
+                        35.94636899917927
+                    ],
+                    [
+                        39.06928633861216,
+                        35.944532957234266
+                    ],
+                    [
+                        39.07760199007552,
+                        35.942696872628424
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "RAQQA_390E359N_S_AQUR",
+                "Meter": 2485,
+                "id": "CR0197_FROM390E359N_TO390E359N",
+                "eToponym": "RAFIQA_390E359N_S_AQUR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

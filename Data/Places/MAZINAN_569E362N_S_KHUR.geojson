@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.95205,
+                    36.27876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.27876",
+                    "coord_lon": "56.95205",
+                    "cornu_URI": "MAZINAN_569E362N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "مزينان",
+                    "toponym_arabic_other": "مزينان",
+                    "toponym_buckwalter": "Mazinan",
+                    "toponym_search": "Mazinan",
+                    "toponym_translit": "Mazīnān",
+                    "toponym_translit_other": "Mazīnān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.5239,
+                    30.94139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.94139",
+                    "coord_lon": "48.52390",
+                    "cornu_URI": "SUQARBAA_485E309N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سوق ﭐلأربعاء",
+                    "toponym_arabic_other": "سوق ﭐلأربعاء",
+                    "toponym_buckwalter": "Suq al-Arbaa",
+                    "toponym_search": "Suq al-Arbaa",
+                    "toponym_translit": "Sūq al-Arbaʿāʾ",
+                    "toponym_translit_other": "Sūq al-Arbaʿāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

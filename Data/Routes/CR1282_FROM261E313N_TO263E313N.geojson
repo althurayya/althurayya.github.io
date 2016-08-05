@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        26.113218141330858,
+                        31.354182678665047
+                    ],
+                    [
+                        26.190743707529634,
+                        31.34314798345122
+                    ],
+                    [
+                        26.269263191243784,
+                        31.333809922570236
+                    ],
+                    [
+                        26.33983133483497,
+                        31.327018023521298
+                    ],
+                    [
+                        26.36865494278067,
+                        31.3244709350272
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "KHIRBAQAWM_261E313N_S_BARQ",
+                "Meter": 24538,
+                "id": "CR1282_FROM261E313N_TO263E313N",
+                "eToponym": "QASRSHAMMAS_263E313N_S_BARQ"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

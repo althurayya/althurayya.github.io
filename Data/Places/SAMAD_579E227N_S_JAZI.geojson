@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.96619,
+                    22.71138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.71138",
+                    "coord_lon": "57.96619",
+                    "cornu_URI": "SAMAD_579E227N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سمد",
+                    "toponym_arabic_other": "سمد",
+                    "toponym_buckwalter": "Samad",
+                    "toponym_search": "Samad",
+                    "toponym_translit": "Samad",
+                    "toponym_translit_other": "Samad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

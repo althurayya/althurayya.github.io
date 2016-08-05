@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.93861,
+                    39.48654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.48654",
+                    "coord_lon": "-5.93861",
+                    "cornu_URI": "TARAJILA_059W394N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ترجيلة",
+                    "toponym_arabic_other": "ترجيلة",
+                    "toponym_buckwalter": "Tarajila",
+                    "toponym_search": "Tarajila",
+                    "toponym_translit": "Taraǧīlaŧ",
+                    "toponym_translit_other": "Taraǧīlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

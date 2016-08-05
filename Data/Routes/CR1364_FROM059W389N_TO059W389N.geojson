@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -5.940856088581313,
+                        38.93229241447808
+                    ],
+                    [
+                        -5.957041586512896,
+                        38.93648913111088
+                    ],
+                    [
+                        -5.973676681609248,
+                        38.940335903193535
+                    ],
+                    [
+                        -5.988513388046534,
+                        38.943133424542815
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "MADALLIN_059W389N_S_ANDA",
+                "Meter": 4306,
+                "id": "CR1364_FROM059W389N_TO059W389N",
+                "eToponym": "ROUTPOINT1412_059W389N_O_NODA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

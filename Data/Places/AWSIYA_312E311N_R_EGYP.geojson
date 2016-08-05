@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.25278,
+                    31.19181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.19181",
+                    "coord_lon": "31.25278",
+                    "cornu_URI": "AWSIYA_312E311N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "ﭐلأوسية",
+                    "toponym_arabic_other": "ﭐلأوسية",
+                    "toponym_buckwalter": "al-Awsiya",
+                    "toponym_search": "al-Awsiya",
+                    "toponym_translit": "al-Awsiyaŧ",
+                    "toponym_translit_other": "al-Awsiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

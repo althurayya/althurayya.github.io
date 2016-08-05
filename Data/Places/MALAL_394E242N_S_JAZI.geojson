@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.45628,
+                    24.29047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.29047",
+                    "coord_lon": "39.45628",
+                    "cornu_URI": "MALAL_394E242N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ملل",
+                    "toponym_arabic_other": "ملل",
+                    "toponym_buckwalter": "Malal",
+                    "toponym_search": "Malal",
+                    "toponym_translit": "Malal",
+                    "toponym_translit_other": "Malal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

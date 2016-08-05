@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.99135,
+                    24.09211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.09211",
+                    "coord_lon": "42.99135",
+                    "cornu_URI": "JADILA_429E240N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جديلة",
+                    "toponym_arabic_other": "جديلة",
+                    "toponym_buckwalter": "Jadila",
+                    "toponym_search": "Jadila",
+                    "toponym_translit": "Ǧadīlaŧ",
+                    "toponym_translit_other": "Ǧadīlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

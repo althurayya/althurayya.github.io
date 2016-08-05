@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    29.30208,
+                    30.86496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.86496",
+                    "coord_lon": "29.30208",
+                    "cornu_URI": "DHATHUMAM_293E308N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ذات ﭐلحمام",
+                    "toponym_arabic_other": "ذات ﭐلحمام، ذات ﭐلحمام",
+                    "toponym_buckwalter": "Dhat al-Humam, Dhat al-Hammam",
+                    "toponym_search": "Dhat al-Humam, Dhat al-Hammam",
+                    "toponym_translit": "Ḏāt al-Ḥumām",
+                    "toponym_translit_other": "Ḏāt al-Ḥumām, Ḏāt al-Ḥammām"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

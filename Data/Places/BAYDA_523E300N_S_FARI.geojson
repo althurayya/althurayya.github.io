@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.36712,
+                    30.03958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.03958",
+                    "coord_lon": "52.36712",
+                    "cornu_URI": "BAYDA_523E300N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلبيضاء",
+                    "toponym_arabic_other": "ﭐلبيضاء، نسا",
+                    "toponym_buckwalter": "al-Bayda, Nasa",
+                    "toponym_search": "al-Bayda, Nasa",
+                    "toponym_translit": "al-Bayḍāʾ",
+                    "toponym_translit_other": "al-Bayḍāʾ, Nasā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

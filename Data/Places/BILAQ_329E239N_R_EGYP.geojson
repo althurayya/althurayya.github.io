@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.94356,
+                    23.99294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.99294",
+                    "coord_lon": "32.94356",
+                    "cornu_URI": "BILAQ_329E239N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "ile",
+                    "toponym_arabic": "بلاق",
+                    "toponym_arabic_other": "بلاق، أبلاق",
+                    "toponym_buckwalter": "Bilaq, Ablaq",
+                    "toponym_search": "Bilaq, Ablaq",
+                    "toponym_translit": "Bilāq",
+                    "toponym_translit_other": "Bilāq, Ablāq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.94901,
+                    15.78083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.78083",
+                    "coord_lon": "43.94901",
+                    "cornu_URI": "BAWN_439E157N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بون",
+                    "toponym_arabic_other": "بون",
+                    "toponym_buckwalter": "Bawn",
+                    "toponym_search": "Bawn",
+                    "toponym_translit": "Bawn",
+                    "toponym_translit_other": "Bawn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8345,
+                    36.0868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.08680",
+                    "coord_lon": "6.83450",
+                    "cornu_URI": "TIJIS_068E360N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تيجس",
+                    "toponym_arabic_other": "تيجس",
+                    "toponym_buckwalter": "Tijis",
+                    "toponym_search": "Tijis",
+                    "toponym_translit": "Tīǧis",
+                    "toponym_translit_other": "Tīǧis"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.4317,
+                    29.87858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.87858",
+                    "coord_lon": "37.43170",
+                    "cornu_URI": "AJWALI_374E298N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأجولي",
+                    "toponym_arabic_other": "ﭐلأجولي",
+                    "toponym_buckwalter": "al-Ajwali",
+                    "toponym_search": "al-Ajwali",
+                    "toponym_translit": "al-Aǧwalī",
+                    "toponym_translit_other": "al-Aǧwalī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.16486,
+                    35.45814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.45814",
+                    "coord_lon": "-1.16486",
+                    "cornu_URI": "ASLAN_011W354N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آسلان",
+                    "toponym_arabic_other": "آسلان، واسلان",
+                    "toponym_buckwalter": "Aslan, Waslan",
+                    "toponym_search": "Aslan, Waslan",
+                    "toponym_translit": "Āslān",
+                    "toponym_translit_other": "Āslān, Wāslān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

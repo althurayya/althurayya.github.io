@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.82245,
+                    30.86818
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.86818",
+                    "coord_lon": "30.82245",
+                    "cornu_URI": "QULAYBUMMAL_308E308N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قليب ﭐلعمال",
+                    "toponym_arabic_other": "قليب ﭐلعمال",
+                    "toponym_buckwalter": "Qulayb al-Ummal",
+                    "toponym_search": "Qulayb al-Ummal",
+                    "toponym_translit": "Qulayb al-`Ummāl",
+                    "toponym_translit_other": "Qulayb al-`Ummāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

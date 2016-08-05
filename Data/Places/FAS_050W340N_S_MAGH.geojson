@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.02852,
+                    34.06727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.06727",
+                    "coord_lon": "-5.02852",
+                    "cornu_URI": "FAS_050W340N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "فاس",
+                    "toponym_arabic_other": "فاس",
+                    "toponym_buckwalter": "Fas",
+                    "toponym_search": "Fas",
+                    "toponym_translit": "Fās",
+                    "toponym_translit_other": "Fās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

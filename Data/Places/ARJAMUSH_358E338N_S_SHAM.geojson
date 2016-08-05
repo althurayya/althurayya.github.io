@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.89165,
+                    33.86315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.86315",
+                    "coord_lon": "35.89165",
+                    "cornu_URI": "ARJAMUSH_358E338N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عرجموش",
+                    "toponym_arabic_other": "عرجموش",
+                    "toponym_buckwalter": "Arjamush",
+                    "toponym_search": "Arjamush",
+                    "toponym_translit": "ʿArǧamūš",
+                    "toponym_translit_other": "ʿArǧamūš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

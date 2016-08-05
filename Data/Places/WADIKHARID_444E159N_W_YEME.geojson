@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.43363,
+                    15.95585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.95585",
+                    "coord_lon": "44.43363",
+                    "cornu_URI": "WADIKHARID_444E159N_W_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي ﭐلخارد",
+                    "toponym_arabic_other": "وادي ﭐلخارد",
+                    "toponym_buckwalter": "Wadi al-Kharid",
+                    "toponym_search": "Wadi al-Kharid",
+                    "toponym_translit": "Wādī al-Ḫārid",
+                    "toponym_translit_other": "Wādī al-Ḫārid"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

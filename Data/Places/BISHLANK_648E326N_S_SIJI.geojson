@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.81783,
+                    32.6817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.68170",
+                    "coord_lon": "64.81783",
+                    "cornu_URI": "BISHLANK_648E326N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بشلنك",
+                    "toponym_arabic_other": "بشلنك",
+                    "toponym_buckwalter": "Bishlank",
+                    "toponym_search": "Bishlank",
+                    "toponym_translit": "Bišlank",
+                    "toponym_translit_other": "Bišlank"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

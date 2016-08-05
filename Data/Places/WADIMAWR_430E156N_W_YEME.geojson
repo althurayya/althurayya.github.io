@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.01443,
+                    15.67118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.67118",
+                    "coord_lon": "43.01443",
+                    "cornu_URI": "WADIMAWR_430E156N_W_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي مور",
+                    "toponym_arabic_other": "وادي مور",
+                    "toponym_buckwalter": "Wadi Mawr",
+                    "toponym_search": "Wadi Mawr",
+                    "toponym_translit": "Wādī Mawr",
+                    "toponym_translit_other": "Wādī Mawr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

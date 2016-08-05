@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.27118,
+                    35.67547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.67547",
+                    "coord_lon": "36.27118",
+                    "cornu_URI": "HISNBARZUYA_362E356N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "forteresse",
+                    "toponym_arabic": "حصن برزوية",
+                    "toponym_arabic_other": "حصن برزوية",
+                    "toponym_buckwalter": "Hisn Barzuya",
+                    "toponym_search": "Hisn Barzuya",
+                    "toponym_translit": "Ḥiṣn Barzūyaŧ",
+                    "toponym_translit_other": "Ḥiṣn Barzūyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

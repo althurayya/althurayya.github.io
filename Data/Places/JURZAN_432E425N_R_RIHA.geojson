@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.20001,
+                    42.55502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.55502",
+                    "coord_lon": "43.20001",
+                    "cornu_URI": "JURZAN_432E425N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "جرزان",
+                    "toponym_arabic_other": "جرزان",
+                    "toponym_buckwalter": "Jurzan",
+                    "toponym_search": "Jurzan",
+                    "toponym_translit": "Ǧurzān",
+                    "toponym_translit_other": "Ǧurzān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

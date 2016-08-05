@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.80361,
+                    29.63539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.63539",
+                    "coord_lon": "54.80361",
+                    "cornu_URI": "SARMAQAN_548E296N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سرمقان",
+                    "toponym_arabic_other": "سرمقان، جرمقان، رباط سرمقان",
+                    "toponym_buckwalter": "Sarmaqan, Jarmaqan, Ribat Sarmaqan",
+                    "toponym_search": "Sarmaqan, Jarmaqan, Ribat Sarmaqan",
+                    "toponym_translit": "Sarmaqān",
+                    "toponym_translit_other": "Sarmaqān, Ǧarmaqān, Ribāṭ Sarmaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

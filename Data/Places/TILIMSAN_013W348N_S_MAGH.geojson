@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.32364,
+                    34.88186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.88186",
+                    "coord_lon": "-1.32364",
+                    "cornu_URI": "TILIMSAN_013W348N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تلمسان",
+                    "toponym_arabic_other": "تلمسان",
+                    "toponym_buckwalter": "Tilimsan",
+                    "toponym_search": "Tilimsan",
+                    "toponym_translit": "Tilimsān",
+                    "toponym_translit_other": "Tilimsān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.86251,
+                    31.98024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.98024",
+                    "coord_lon": "14.86251",
+                    "cornu_URI": "TAWARGHA_148E319N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "تورغة",
+                    "toponym_arabic_other": "تورغة",
+                    "toponym_buckwalter": "Tawargha",
+                    "toponym_search": "Tawargha",
+                    "toponym_translit": "Tawarġaŧ",
+                    "toponym_translit_other": "Tawarġaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

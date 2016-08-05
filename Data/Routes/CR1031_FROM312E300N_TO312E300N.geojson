@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        31.249515435750126,
+                        30.04321387497578
+                    ],
+                    [
+                        31.24624673997602,
+                        30.04537761731003
+                    ],
+                    [
+                        31.24374714908993,
+                        30.04970496019043
+                    ],
+                    [
+                        31.24182438686987,
+                        30.05769340416663
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "FUSTAT_312E300N_S_EGYP",
+                "Meter": 1838,
+                "id": "CR1031_FROM312E300N_TO312E300N",
+                "eToponym": "QAHIRA_312E300N_S_EGYP"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

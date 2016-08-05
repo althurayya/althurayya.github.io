@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.12283,
+                    28.49687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.49687",
+                    "coord_lon": "51.12283",
+                    "cornu_URI": "NAJIRAM_511E284N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نجيرم",
+                    "toponym_arabic_other": "نجيرم",
+                    "toponym_buckwalter": "Najiram",
+                    "toponym_search": "Najiram",
+                    "toponym_translit": "Naǧīram",
+                    "toponym_translit_other": "Naǧīram"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.53948,
+                    34.11636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.11636",
+                    "coord_lon": "-4.53948",
+                    "cornu_URI": "MATMATA_045W341N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مطماطة",
+                    "toponym_arabic_other": "مطماطة",
+                    "toponym_buckwalter": "Matmata",
+                    "toponym_search": "Matmata",
+                    "toponym_translit": "Maṭmāṭaŧ",
+                    "toponym_translit_other": "Maṭmāṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

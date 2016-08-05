@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.43299,
+                    33.22604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.22604",
+                    "coord_lon": "35.43299",
+                    "cornu_URI": "MAJDALSALIM_354E332N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "مجدل سليم",
+                    "toponym_arabic_other": "مجدل سليم",
+                    "toponym_buckwalter": "Majdal Salim",
+                    "toponym_search": "Majdal Salim",
+                    "toponym_translit": "Maǧdal Salīm",
+                    "toponym_translit_other": "Maǧdal Salīm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

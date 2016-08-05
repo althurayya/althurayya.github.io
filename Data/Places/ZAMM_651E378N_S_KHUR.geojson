@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.19679,
+                    37.86572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.86572",
+                    "coord_lon": "65.19679",
+                    "cornu_URI": "ZAMM_651E378N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زم",
+                    "toponym_arabic_other": "زم، كركه",
+                    "toponym_buckwalter": "Zamm, Karkuh",
+                    "toponym_search": "Zamm, Karkuh",
+                    "toponym_translit": "Zamm",
+                    "toponym_translit_other": "Zamm, Karkuh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

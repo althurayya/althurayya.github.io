@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.86422,
+                    40.379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.37900",
+                    "coord_lon": "49.86422",
+                    "cornu_URI": "BAKUH_498E403N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باكوه",
+                    "toponym_arabic_other": "باكوه",
+                    "toponym_buckwalter": "Bakuh",
+                    "toponym_search": "Bakuh",
+                    "toponym_translit": "Bākūh",
+                    "toponym_translit_other": "Bākūh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

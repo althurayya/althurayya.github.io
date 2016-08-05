@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    79.59619,
+                    26.46686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.46686",
+                    "coord_lon": "79.59619",
+                    "cornu_URI": "AWRAHA_795E264N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أورهة",
+                    "toponym_arabic_other": "أورهة",
+                    "toponym_buckwalter": "Awraha",
+                    "toponym_search": "Awraha",
+                    "toponym_translit": "Awrahaŧ",
+                    "toponym_translit_other": "Awrahaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

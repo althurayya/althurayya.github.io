@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        65.40810467328201,
+                        38.97719109600397
+                    ],
+                    [
+                        65.4229284479839,
+                        38.99973436396792
+                    ],
+                    [
+                        65.43646319879868,
+                        39.01976679657719
+                    ],
+                    [
+                        65.44870892572631,
+                        39.034787397449634
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "ROUTPOINT1720_654E389N_O_NODA",
+                "Meter": 7303,
+                "id": "CR1764_FROM654E389N_TO654E390N",
+                "eToponym": "BAZDA_654E390N_S_TRAN"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

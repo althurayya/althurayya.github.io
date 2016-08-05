@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.92036,
+                    29.69008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.69008",
+                    "coord_lon": "53.92036",
+                    "cornu_URI": "QARYAAS_539E296N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "citadelle",
+                    "toponym_arabic": "قرية ﭐلآس",
+                    "toponym_arabic_other": "قرية ﭐلآس",
+                    "toponym_buckwalter": "Qarya al-As",
+                    "toponym_search": "Qarya al-As",
+                    "toponym_translit": "Qaryaŧ al-Ās",
+                    "toponym_translit_other": "Qaryaŧ al-Ās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.92186,
+                    15.24886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.24886",
+                    "coord_lon": "46.92186",
+                    "cornu_URI": "SHANUWA_469E152N_W_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "شنوة",
+                    "toponym_arabic_other": "شنوة، سنوءة",
+                    "toponym_buckwalter": "Shanuwa, Sanua",
+                    "toponym_search": "Shanuwa, Sanua",
+                    "toponym_translit": "Šanuwaŧ",
+                    "toponym_translit_other": "Šanuwaŧ, Sanūʾaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

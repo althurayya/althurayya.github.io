@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.48653,
+                    29.06085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.06085",
+                    "coord_lon": "57.48653",
+                    "cornu_URI": "DARBANA_574E290N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلدربانى",
+                    "toponym_arabic_other": "ﭐلدربانى، ﭐلدرفانى، شعب درفارد",
+                    "toponym_buckwalter": "al-Darbana, al-Darfana, Shib Darfarid",
+                    "toponym_search": "al-Darbana, al-Darfana, Shib Darfarid",
+                    "toponym_translit": "al-Darbāná",
+                    "toponym_translit_other": "al-Darbāná, al-Darfāná, Šiʿb Darfārid"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.73214,
+                    35.6162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.61620",
+                    "coord_lon": "7.73214",
+                    "cornu_URI": "MISKYANA_077E356N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمسكيانة",
+                    "toponym_arabic_other": "ﭐلمسكيانة",
+                    "toponym_buckwalter": "al-Miskyana",
+                    "toponym_search": "al-Miskyana",
+                    "toponym_translit": "al-Miskyānaŧ",
+                    "toponym_translit_other": "al-Miskyānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

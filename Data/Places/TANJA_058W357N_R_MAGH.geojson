@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.84572,
+                    35.77868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.77868",
+                    "coord_lon": "-5.84572",
+                    "cornu_URI": "TANJA_058W357N_R_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "تنجة",
+                    "toponym_arabic_other": "تنجة",
+                    "toponym_buckwalter": "Tanja",
+                    "toponym_search": "Tanja",
+                    "toponym_translit": "Tanǧaŧ",
+                    "toponym_translit_other": "Tanǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

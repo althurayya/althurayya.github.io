@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.57208,
+                    15.92483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.92483",
+                    "coord_lon": "48.57208",
+                    "cornu_URI": "SHIBAM_485E159N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شبام",
+                    "toponym_arabic_other": "شبام",
+                    "toponym_buckwalter": "Shibam",
+                    "toponym_search": "Shibam",
+                    "toponym_translit": "Šibām",
+                    "toponym_translit_other": "Šibām"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

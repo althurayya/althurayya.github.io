@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.81078,
+                    30.40094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.40094",
+                    "coord_lon": "30.81078",
+                    "cornu_URI": "TARNUT_308E304N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ترنوط",
+                    "toponym_arabic_other": "ترنوط",
+                    "toponym_buckwalter": "Tarnut",
+                    "toponym_search": "Tarnut",
+                    "toponym_translit": "Tarnūṭ",
+                    "toponym_translit_other": "Tarnūṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

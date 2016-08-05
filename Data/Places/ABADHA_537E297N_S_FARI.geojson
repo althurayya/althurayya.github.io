@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.73617,
+                    29.7821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.78210",
+                    "coord_lon": "53.73617",
+                    "cornu_URI": "ABADHA_537E297N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آباذة",
+                    "toponym_arabic_other": "آباذة",
+                    "toponym_buckwalter": "Abadha",
+                    "toponym_search": "Abadha",
+                    "toponym_translit": "Ābāḏaŧ",
+                    "toponym_translit_other": "Ābāḏaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.06424,
+                    16.29079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.29079",
+                    "coord_lon": "44.06424",
+                    "cornu_URI": "KHAYWAN_440E162N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خيوان",
+                    "toponym_arabic_other": "خيوان",
+                    "toponym_buckwalter": "Khaywan",
+                    "toponym_search": "Khaywan",
+                    "toponym_translit": "Ḫaywān",
+                    "toponym_translit_other": "Ḫaywān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

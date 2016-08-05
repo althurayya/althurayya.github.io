@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.38308,
+                    39.79611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.79611",
+                    "coord_lon": "67.38308",
+                    "cornu_URI": "ABARKATH_673E397N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "أباركث",
+                    "toponym_arabic_other": "أباركث، بركاث",
+                    "toponym_buckwalter": "Abarkath, Barkath",
+                    "toponym_search": "Abarkath, Barkath",
+                    "toponym_translit": "Abārkaṯ",
+                    "toponym_translit_other": "Abārkaṯ, Barkāṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

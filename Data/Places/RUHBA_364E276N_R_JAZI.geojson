@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.48835,
+                    27.67097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.67097",
+                    "coord_lon": "36.48835",
+                    "cornu_URI": "RUHBA_364E276N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "رحبة",
+                    "toponym_arabic_other": "رحبة، رحبة",
+                    "toponym_buckwalter": "Ruhba, Rahaba",
+                    "toponym_search": "Ruhba, Rahaba",
+                    "toponym_translit": "Ruḥbaŧ",
+                    "toponym_translit_other": "Ruḥbaŧ, Raḥabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

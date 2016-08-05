@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.42487,
+                    30.93544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.93544",
+                    "coord_lon": "-7.42487",
+                    "cornu_URI": "WADIDARA_074W309N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي درعة",
+                    "toponym_arabic_other": "وادي درعة",
+                    "toponym_buckwalter": "Wadi Dara",
+                    "toponym_search": "Wadi Dara",
+                    "toponym_translit": "Wādī Darʿaŧ",
+                    "toponym_translit_other": "Wādī Darʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

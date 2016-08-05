@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.206,
+                    37.19091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.19091",
+                    "coord_lon": "55.20600",
+                    "cornu_URI": "JURJAN_552E371N_R_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "جرجان",
+                    "toponym_arabic_other": "جرجان",
+                    "toponym_buckwalter": "Jurjan",
+                    "toponym_search": "Jurjan",
+                    "toponym_translit": "Ǧurǧān",
+                    "toponym_translit_other": "Ǧurǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

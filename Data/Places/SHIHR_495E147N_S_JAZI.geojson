@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.5998,
+                    14.76671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.76671",
+                    "coord_lon": "49.59980",
+                    "cornu_URI": "SHIHR_495E147N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "ﭐلشحر",
+                    "toponym_arabic_other": "ﭐلشحر",
+                    "toponym_buckwalter": "al-Shihr",
+                    "toponym_search": "al-Shihr",
+                    "toponym_translit": "al-Šiḥr",
+                    "toponym_translit_other": "al-Šiḥr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.45181,
+                    26.35812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.35812",
+                    "coord_lon": "44.45181",
+                    "cornu_URI": "NIBAJ_444E263N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلنباج",
+                    "toponym_arabic_other": "ﭐلنباج",
+                    "toponym_buckwalter": "al-Nibaj",
+                    "toponym_search": "al-Nibaj",
+                    "toponym_translit": "al-Nibāǧ",
+                    "toponym_translit_other": "al-Nibāǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

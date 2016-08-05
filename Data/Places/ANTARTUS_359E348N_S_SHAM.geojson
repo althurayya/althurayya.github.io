@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.90356,
+                    34.89985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.89985",
+                    "coord_lon": "35.90356",
+                    "cornu_URI": "ANTARTUS_359E348N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أنطرطوس",
+                    "toponym_arabic_other": "أنطرطوس، أنطرسوس، طرطوس",
+                    "toponym_buckwalter": "Antartus, Antarsus, Tartus",
+                    "toponym_search": "Antartus, Antarsus, Tartus",
+                    "toponym_translit": "Anṭarṭūs",
+                    "toponym_translit_other": "Anṭarṭūs, Anṭarsūs, Ṭarṭūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

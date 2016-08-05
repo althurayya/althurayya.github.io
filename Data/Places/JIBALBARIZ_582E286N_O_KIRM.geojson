@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.29802,
+                    28.6778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.67780",
+                    "coord_lon": "58.29802",
+                    "cornu_URI": "JIBALBARIZ_582E286N_O_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبال ﭐلبارز",
+                    "toponym_arabic_other": "جبال ﭐلبارز",
+                    "toponym_buckwalter": "Jibal al-Bariz",
+                    "toponym_search": "Jibal al-Bariz",
+                    "toponym_translit": "Ǧibāl al-Bāriz",
+                    "toponym_translit_other": "Ǧibāl al-Bāriz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

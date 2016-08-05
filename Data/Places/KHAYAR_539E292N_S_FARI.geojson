@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.93868,
+                    29.25944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.25944",
+                    "coord_lon": "53.93868",
+                    "cornu_URI": "KHAYAR_539E292N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "خيار",
+                    "toponym_arabic_other": "خيار، خير، خيرة",
+                    "toponym_buckwalter": "Khayar, Khayr, Khayra",
+                    "toponym_search": "Khayar, Khayr, Khayra",
+                    "toponym_translit": "Ḫayār",
+                    "toponym_translit_other": "Ḫayār, Ḫayr, Ḫayraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

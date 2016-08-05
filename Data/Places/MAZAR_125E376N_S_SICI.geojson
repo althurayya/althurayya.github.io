@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58978,
+                    37.64431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.64431",
+                    "coord_lon": "12.58978",
+                    "cornu_URI": "MAZAR_125E376N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مازر",
+                    "toponym_arabic_other": "مازر",
+                    "toponym_buckwalter": "Mazar",
+                    "toponym_search": "Mazar",
+                    "toponym_translit": "Māzar",
+                    "toponym_translit_other": "Māzar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

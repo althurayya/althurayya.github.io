@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.81853,
+                    42.2688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.26880",
+                    "coord_lon": "59.81853",
+                    "cornu_URI": "NUBAGH_598E422N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "نوباغ",
+                    "toponym_arabic_other": "نوباغ",
+                    "toponym_buckwalter": "Nubagh",
+                    "toponym_search": "Nubagh",
+                    "toponym_translit": "Nūbāġ",
+                    "toponym_translit_other": "Nūbāġ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

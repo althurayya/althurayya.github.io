@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.79581,
+                    30.71061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.71061",
+                    "coord_lon": "31.79581",
+                    "cornu_URI": "FAQUS_317E307N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فاقوس",
+                    "toponym_arabic_other": "فاقوس",
+                    "toponym_buckwalter": "Faqus",
+                    "toponym_search": "Faqus",
+                    "toponym_translit": "Fāqūs",
+                    "toponym_translit_other": "Fāqūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

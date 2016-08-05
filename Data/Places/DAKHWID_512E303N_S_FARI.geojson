@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.2582,
+                    30.30738
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.30738",
+                    "coord_lon": "51.25820",
+                    "cornu_URI": "DAKHWID_512E303N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "pont/bourgade/etape",
+                    "toponym_arabic": "دخويد",
+                    "toponym_arabic_other": "دخويد، درخيذ",
+                    "toponym_buckwalter": "Dakhwid, Darkhidh",
+                    "toponym_search": "Dakhwid, Darkhidh",
+                    "toponym_translit": "Daḫwīd",
+                    "toponym_translit_other": "Daḫwīd, Darḫīḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

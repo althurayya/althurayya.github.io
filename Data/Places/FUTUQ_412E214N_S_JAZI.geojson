@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.28101,
+                    21.44752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.44752",
+                    "coord_lon": "41.28101",
+                    "cornu_URI": "FUTUQ_412E214N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلفتق",
+                    "toponym_arabic_other": "ﭐلفتق",
+                    "toponym_buckwalter": "al-Futuq",
+                    "toponym_search": "al-Futuq",
+                    "toponym_translit": "al-Futuq",
+                    "toponym_translit_other": "al-Futuq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

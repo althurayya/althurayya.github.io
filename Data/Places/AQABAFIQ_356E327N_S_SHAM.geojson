@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.67655,
+                    32.77421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.77421",
+                    "coord_lon": "35.67655",
+                    "cornu_URI": "AQABAFIQ_356E327N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade/passe",
+                    "toponym_arabic": "عقبة ﭐلفيق",
+                    "toponym_arabic_other": "عقبة ﭐلفيق، أفيق، فيق",
+                    "toponym_buckwalter": "Aqaba al-Fiq, Afiq, Fiq",
+                    "toponym_search": "Aqaba al-Fiq, Afiq, Fiq",
+                    "toponym_translit": "ʿAqabaŧ al-Fīq",
+                    "toponym_translit_other": "ʿAqabaŧ al-Fīq, Afīq, Fīq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.94541,
+                    30.04859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.04859",
+                    "coord_lon": "51.94541",
+                    "cornu_URI": "KHARRARA_519E300N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلخرارة",
+                    "toponym_arabic_other": "ﭐلخرارة",
+                    "toponym_buckwalter": "al-Kharrara",
+                    "toponym_search": "al-Kharrara",
+                    "toponym_translit": "al-Ḫarrāraŧ",
+                    "toponym_translit_other": "al-Ḫarrāraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

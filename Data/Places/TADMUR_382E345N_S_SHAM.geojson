@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.28754,
+                    34.54735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.54735",
+                    "coord_lon": "38.28754",
+                    "cornu_URI": "TADMUR_382E345N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تدمر",
+                    "toponym_arabic_other": "تدمر",
+                    "toponym_buckwalter": "Tadmur",
+                    "toponym_search": "Tadmur",
+                    "toponym_translit": "Tadmur",
+                    "toponym_translit_other": "Tadmur"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

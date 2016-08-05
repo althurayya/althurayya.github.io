@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.50413,
+                    32.1335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.13350",
+                    "coord_lon": "57.50413",
+                    "cornu_URI": "BIRBAR_575E321N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بئر بر",
+                    "toponym_arabic_other": "بئر بر، جاه بر",
+                    "toponym_buckwalter": "Bir Bar, Jah Bar",
+                    "toponym_search": "Bir Bar, Jah Bar",
+                    "toponym_translit": "Biʾr Bar",
+                    "toponym_translit_other": "Biʾr Bar, Ǧāh Bar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

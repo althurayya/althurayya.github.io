@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.9959,
+                    26.21922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.21922",
+                    "coord_lon": "31.99590",
+                    "cornu_URI": "BULYANA_319E262N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بلينا",
+                    "toponym_arabic_other": "بلينا",
+                    "toponym_buckwalter": "Bulyana",
+                    "toponym_search": "Bulyana",
+                    "toponym_translit": "Bulyanā",
+                    "toponym_translit_other": "Bulyanā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

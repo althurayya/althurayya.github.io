@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.09005,
+                    36.02806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.02806",
+                    "coord_lon": "38.09005",
+                    "cornu_URI": "BALIS_380E360N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بالس",
+                    "toponym_arabic_other": "بالس",
+                    "toponym_buckwalter": "Balis",
+                    "toponym_search": "Balis",
+                    "toponym_translit": "Bālis",
+                    "toponym_translit_other": "Bālis"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

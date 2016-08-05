@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.04412,
+                    35.31676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.31676",
+                    "coord_lon": "52.04412",
+                    "cornu_URI": "KAHDA_520E353N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كهدة",
+                    "toponym_arabic_other": "كهدة، كهندة، كسب",
+                    "toponym_buckwalter": "Kahda, Kahanda, Kasb",
+                    "toponym_search": "Kahda, Kahanda, Kasb",
+                    "toponym_translit": "Kahdaŧ",
+                    "toponym_translit_other": "Kahdaŧ, Kahandaŧ, Kasb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

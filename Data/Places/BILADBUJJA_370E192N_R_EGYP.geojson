@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.0673,
+                    19.28058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.28058",
+                    "coord_lon": "37.06730",
+                    "cornu_URI": "BILADBUJJA_370E192N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بلاد ﭐلبجة",
+                    "toponym_arabic_other": "بلاد ﭐلبجة",
+                    "toponym_buckwalter": "Bilad al-Bujja",
+                    "toponym_search": "Bilad al-Bujja",
+                    "toponym_translit": "Bilād al-Buǧǧaŧ",
+                    "toponym_translit_other": "Bilād al-Buǧǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

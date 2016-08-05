@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.34181,
+                    25.42764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.42764",
+                    "coord_lon": "68.34181",
+                    "cornu_URI": "NIRUN_683E254N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلنيرون",
+                    "toponym_arabic_other": "ﭐلنيرون، ﭐلبيرون",
+                    "toponym_buckwalter": "al-Nirun, al-Birun",
+                    "toponym_search": "al-Nirun, al-Birun",
+                    "toponym_translit": "al-Nīrūn",
+                    "toponym_translit_other": "al-Nīrūn, al-Bīrūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

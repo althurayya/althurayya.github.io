@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.84472,
+                    41.93607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.93607",
+                    "coord_lon": "2.84472",
+                    "cornu_URI": "JIRUNDA_028E419N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرندة",
+                    "toponym_arabic_other": "جرندة",
+                    "toponym_buckwalter": "Jirunda",
+                    "toponym_search": "Jirunda",
+                    "toponym_translit": "Ǧirundaŧ",
+                    "toponym_translit_other": "Ǧirundaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

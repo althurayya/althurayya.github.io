@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.60503,
+                    19.72554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.72554",
+                    "coord_lon": "31.60503",
+                    "cornu_URI": "BALADNUBA_316E197N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بلد ﭐلنوبة",
+                    "toponym_arabic_other": "بلد ﭐلنوبة",
+                    "toponym_buckwalter": "Balad al-Nuba",
+                    "toponym_search": "Balad al-Nuba",
+                    "toponym_translit": "Balad al-Nūbaŧ",
+                    "toponym_translit_other": "Balad al-Nūbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

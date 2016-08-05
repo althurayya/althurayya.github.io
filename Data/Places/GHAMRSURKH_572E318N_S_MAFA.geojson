@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.21668,
+                    31.88986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.88986",
+                    "coord_lon": "57.21668",
+                    "cornu_URI": "GHAMRSURKH_572E318N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "غمر سرخ",
+                    "toponym_arabic_other": "غمر سرخ",
+                    "toponym_buckwalter": "Ghamr Surkh",
+                    "toponym_search": "Ghamr Surkh",
+                    "toponym_translit": "Ġamr Surḫ",
+                    "toponym_translit_other": "Ġamr Surḫ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

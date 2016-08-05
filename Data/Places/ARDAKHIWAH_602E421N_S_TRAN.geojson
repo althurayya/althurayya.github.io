@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.25053,
+                    42.19314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.19314",
+                    "coord_lon": "60.25053",
+                    "cornu_URI": "ARDAKHIWAH_602E421N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أردخيوه",
+                    "toponym_arabic_other": "أردخيوه",
+                    "toponym_buckwalter": "Ardakhiwah",
+                    "toponym_search": "Ardakhiwah",
+                    "toponym_translit": "Ardaḫīwah",
+                    "toponym_translit_other": "Ardaḫīwah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

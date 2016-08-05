@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.96262,
+                    31.29164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.29164",
+                    "coord_lon": "49.96262",
+                    "cornu_URI": "BADAH_499E312N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بده",
+                    "toponym_arabic_other": "بده",
+                    "toponym_buckwalter": "Badah",
+                    "toponym_search": "Badah",
+                    "toponym_translit": "Badah",
+                    "toponym_translit_other": "Badah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

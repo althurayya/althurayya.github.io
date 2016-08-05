@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.76857,
+                    14.4846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.48460",
+                    "coord_lon": "44.76857",
+                    "cornu_URI": "THATWA-RADA_447E144N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ثات ورداع",
+                    "toponym_arabic_other": "ثات ورداع",
+                    "toponym_buckwalter": "That wa-Rada",
+                    "toponym_search": "That wa-Rada",
+                    "toponym_translit": "Ṯāt wa-Radāʿ",
+                    "toponym_translit_other": "Ṯāt wa-Radāʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

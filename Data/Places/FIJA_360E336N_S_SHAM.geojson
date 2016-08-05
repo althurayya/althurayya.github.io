@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.02468,
+                    33.64139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.64139",
+                    "coord_lon": "36.02468",
+                    "cornu_URI": "FIJA_360E336N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "source",
+                    "toponym_arabic": "ﭐلفيجة",
+                    "toponym_arabic_other": "ﭐلفيجة",
+                    "toponym_buckwalter": "al-Fija",
+                    "toponym_search": "al-Fija",
+                    "toponym_translit": "al-Fīǧaŧ",
+                    "toponym_translit_other": "al-Fīǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

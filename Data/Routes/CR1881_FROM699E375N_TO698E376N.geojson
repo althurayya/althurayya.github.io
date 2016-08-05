@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        69.90231617836477,
+                        37.59167389825138
+                    ],
+                    [
+                        69.89561659143041,
+                        37.60422045771523
+                    ],
+                    [
+                        69.89074416456906,
+                        37.615800019322066
+                    ],
+                    [
+                        69.88922153117488,
+                        37.62496589359439
+                    ],
+                    [
+                        69.88891700449605,
+                        37.63316598108493
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "MABARBADHAKHSHAN_699E375N_O_TRAN",
+                "Meter": 4805,
+                "id": "CR1881_FROM699E375N_TO698E376N",
+                "eToponym": "ROUTPOINT1708_698E376N_O_NODA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.83759,
+                    30.88498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.88498",
+                    "coord_lon": "49.83759",
+                    "cornu_URI": "JAYZAN_498E308N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلجايزن",
+                    "toponym_arabic_other": "ﭐلجايزن",
+                    "toponym_buckwalter": "al-Jayzan",
+                    "toponym_search": "al-Jayzan",
+                    "toponym_translit": "al-Ǧāyzan",
+                    "toponym_translit_other": "al-Ǧāyzan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

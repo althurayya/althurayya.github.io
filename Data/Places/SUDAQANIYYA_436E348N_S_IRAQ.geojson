@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.60292,
+                    34.81448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.81448",
+                    "coord_lon": "43.60292",
+                    "cornu_URI": "SUDAQANIYYA_436E348N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلسودقانية",
+                    "toponym_arabic_other": "ﭐلسودقانية",
+                    "toponym_buckwalter": "al-Sudaqaniyya",
+                    "toponym_search": "al-Sudaqaniyya",
+                    "toponym_translit": "al-Sūdaqāniyyaŧ",
+                    "toponym_translit_other": "al-Sūdaqāniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

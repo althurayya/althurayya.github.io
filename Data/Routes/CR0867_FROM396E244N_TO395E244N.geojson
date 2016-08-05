@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        39.608624469972604,
+                        24.478026818794312
+                    ],
+                    [
+                        39.60443423204138,
+                        24.468665766203095
+                    ],
+                    [
+                        39.59567282545791,
+                        24.45653003248644
+                    ],
+                    [
+                        39.58272118094321,
+                        24.44578026336719
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "sToponym": "MADINA_396E244N_S_JAZI",
+                "Meter": 4504,
+                "id": "CR0867_FROM396E244N_TO395E244N",
+                "eToponym": "QUBA_395E244N_S_JAZI"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

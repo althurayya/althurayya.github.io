@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.55713,
+                    39.1437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.14370",
+                    "coord_lon": "42.55713",
+                    "cornu_URI": "MALAZKIRD_425E391N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ملازكرد",
+                    "toponym_arabic_other": "ملازكرد، ملازجرد، منازجرد",
+                    "toponym_buckwalter": "Malazkird, Malazjird, Manazjird",
+                    "toponym_search": "Malazkird, Malazjird, Manazjird",
+                    "toponym_translit": "Malāzkird",
+                    "toponym_translit_other": "Malāzkird, Malāzǧird, Manāzǧird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

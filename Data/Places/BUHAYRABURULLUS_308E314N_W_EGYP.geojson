@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.80708,
+                    31.4596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.45960",
+                    "coord_lon": "30.80708",
+                    "cornu_URI": "BUHAYRABURULLUS_308E314N_W_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة ﭐلبرلس",
+                    "toponym_arabic_other": "بحيرة ﭐلبرلس",
+                    "toponym_buckwalter": "Buhayra al-Burullus",
+                    "toponym_search": "Buhayra al-Burullus",
+                    "toponym_translit": "Buḥayraŧ al-Burullus",
+                    "toponym_translit_other": "Buḥayraŧ al-Burullus"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

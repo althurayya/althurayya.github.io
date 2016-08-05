@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.39355,
+                    32.03808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.03808",
+                    "coord_lon": "44.39355",
+                    "cornu_URI": "KUFA_443E320N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلكوفة",
+                    "toponym_arabic_other": "ﭐلكوفة",
+                    "toponym_buckwalter": "al-Kufa",
+                    "toponym_search": "al-Kufa",
+                    "toponym_translit": "al-Kūfaŧ",
+                    "toponym_translit_other": "al-Kūfaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

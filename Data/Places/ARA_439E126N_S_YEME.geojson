@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.91477,
+                    12.66455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "12.66455",
+                    "coord_lon": "43.91477",
+                    "cornu_URI": "ARA_439E126N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "عارة",
+                    "toponym_arabic_other": "عارة",
+                    "toponym_buckwalter": "Ara",
+                    "toponym_search": "Ara",
+                    "toponym_translit": "ʿĀraŧ",
+                    "toponym_translit_other": "ʿĀraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

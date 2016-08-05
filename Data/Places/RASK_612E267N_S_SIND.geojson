@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.22272,
+                    26.70943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.70943",
+                    "coord_lon": "61.22272",
+                    "cornu_URI": "RASK_612E267N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "راسك",
+                    "toponym_arabic_other": "راسك",
+                    "toponym_buckwalter": "Rask",
+                    "toponym_search": "Rask",
+                    "toponym_translit": "Rāsk",
+                    "toponym_translit_other": "Rāsk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

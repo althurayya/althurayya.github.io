@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.34142,
+                    31.36925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.36925",
+                    "coord_lon": "37.34142",
+                    "cornu_URI": "GHURRABA_373E313N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلغربة",
+                    "toponym_arabic_other": "ﭐلغربة",
+                    "toponym_buckwalter": "al-Ghurraba",
+                    "toponym_search": "al-Ghurraba",
+                    "toponym_translit": "al-Ġurrabaŧ",
+                    "toponym_translit_other": "al-Ġurrabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

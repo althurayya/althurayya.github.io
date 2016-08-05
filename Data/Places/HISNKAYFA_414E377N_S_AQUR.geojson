@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.42113,
+                    37.70021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.70021",
+                    "coord_lon": "41.42113",
+                    "cornu_URI": "HISNKAYFA_414E377N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حصن كيفا",
+                    "toponym_arabic_other": "حصن كيفا",
+                    "toponym_buckwalter": "Hisn Kayfa",
+                    "toponym_search": "Hisn Kayfa",
+                    "toponym_translit": "Ḥiṣn Kayfā",
+                    "toponym_translit_other": "Ḥiṣn Kayfā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

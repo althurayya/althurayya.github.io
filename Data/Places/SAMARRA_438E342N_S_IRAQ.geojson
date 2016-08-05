@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.88134,
+                    34.20964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.20964",
+                    "coord_lon": "43.88134",
+                    "cornu_URI": "SAMARRA_438E342N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "سامراء",
+                    "toponym_arabic_other": "سامراء",
+                    "toponym_buckwalter": "Samarra",
+                    "toponym_search": "Samarra",
+                    "toponym_translit": "Sāmarrāʾ",
+                    "toponym_translit_other": "Sāmarrāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

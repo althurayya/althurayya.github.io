@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.06157,
+                    40.99521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.99521",
+                    "coord_lon": "46.06157",
+                    "cornu_URI": "SHAMKUR_460E409N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شمكور",
+                    "toponym_arabic_other": "شمكور",
+                    "toponym_buckwalter": "Shamkur",
+                    "toponym_search": "Shamkur",
+                    "toponym_translit": "Šamkūr",
+                    "toponym_translit_other": "Šamkūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

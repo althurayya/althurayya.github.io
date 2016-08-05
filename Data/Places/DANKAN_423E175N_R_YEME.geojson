@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.35312,
+                    17.52221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.52221",
+                    "coord_lon": "42.35312",
+                    "cornu_URI": "DANKAN_423E175N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ضنكان",
+                    "toponym_arabic_other": "ضنكان",
+                    "toponym_buckwalter": "Dankan",
+                    "toponym_search": "Dankan",
+                    "toponym_translit": "Ḍankān",
+                    "toponym_translit_other": "Ḍankān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

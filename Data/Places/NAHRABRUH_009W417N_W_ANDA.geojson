@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.99933,
+                    41.7827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.78270",
+                    "coord_lon": "-0.99933",
+                    "cornu_URI": "NAHRABRUH_009W417N_W_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر أبره",
+                    "toponym_arabic_other": "نهر أبره",
+                    "toponym_buckwalter": "Nahr Abruh",
+                    "toponym_search": "Nahr Abruh",
+                    "toponym_translit": "Nahr Abruh",
+                    "toponym_translit_other": "Nahr Abruh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
