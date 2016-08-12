@@ -86,6 +86,7 @@ var route_layers = {};
 var all_route_layers = [];
 var map_region_to_code = {};
 var markerLabels = {};
+var route_points = {};
 // Types of the toponyms
 var type_size =
 {
@@ -222,11 +223,40 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                     feature.properties.sToponym == markers[keys[i]].options.cornu_URI) {
                     sFound = true;
                     sRegion = markers[keys[i]].options.region;
+                    if (sRegion == 22) {
+                        if (route_points[feature.properties.sToponym] == undefined)
+                            route_points[feature.properties.sToponym] = [];
+                        var tmp = {};
+                        tmp["route"] = layer;
+                        tmp["end"] = markers[feature.properties.eToponym].options.region;
+                        route_points[feature.properties.sToponym].push(tmp);
+                        //console.log("tmp s :"+JSON.stringify(tmp))
+                        //console.log("rp s :"+JSON.stringify(route_points));
+                        //return;
+
+                        //route_points[feature.properties.sToponym]["end"] = markers[feature.properties.eToponym].options.region;
+                        //console.log("rp s: "+JSON.stringify(route_points[feature.properties.sToponym]))
+
+                    }
                 }
                 if (eFound == false &&
                     feature.properties.eToponym == markers[keys[i]].options.cornu_URI) {
                     eFound = true;
                     eRegion = markers[keys[i]].options.region;
+                    if (eRegion == 22) {
+                        if (route_points[feature.properties.eToponym] == undefined)
+                            route_points[feature.properties.eToponym] = [];
+                        var tmp = {};
+                        tmp["route"] = layer;
+                        tmp["end"] = markers[feature.properties.sToponym].options.region;
+                        route_points[feature.properties.eToponym].push(tmp);
+                        //console.log("tmp e :"+JSON.stringify(tmp));
+                        //console.log("rp e :"+JSON.stringify(route_points[feature.properties.eToponym][0]["end"]))
+                        //return;
+                        //route_points[feature.properties.eToponym]["route"] = layer;
+                        //route_points[feature.properties.eToponym]["end"] = markers[feature.properties.sToponym].options.region;
+                        //console.log("rp e: "+JSON.stringify(route_points[feature.properties.eToponym]))
+                    }
                 }
                 if (sFound == true && eFound == true)
                     break;
@@ -234,6 +264,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             all_route_layers.push(layer);
             map_region_to_code[markers[keys[i]].options.region_spelled]
                 =markers[keys[i]].options.region;
+            // TODO: Chaeck if they are not "noData"
             if (sRegion == eRegion) {
                 if(route_layers[markers[keys[i]].options.region_spelled] == undefined)
                     route_layers[markers[keys[i]].options.region_spelled] = [];
@@ -243,11 +274,26 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             else {
                 customLineStyle(layer, "gray", 1, 1)
             }
-
         }
         routeLayer.addLayer(routes).addTo(map);
+        Object.keys(route_points).forEach(function(rp) {
+            for (var i = 0; i < route_points[rp].length - 1; i++) {
+                var found = false;
+                customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                //for (var j = 1; j < route_points[rp].length; j++) {
+                    //if (route_points[rp][i]["end"] == route_points[rp][j]["end"]) {
+                    //    customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                    //}
+                //}
+            }
+        });
     });
 });
+
+/*
+ Set the style for routes containing ROUTPOINTs at one end.
+ */
+
 /*
  * Click on map
  */
@@ -302,13 +348,13 @@ $( '#searchInput' ).on( 'keyup', function() {
         var arabicTitle = markers[key].options.arabicTitle;
         var markerSearchTitle = searchTitle.concat(" ", cornuURI, " ", arabicTitle);
         var searchTerm = $( '#searchInput' ).val().toUpperCase();
-        if ( markerSearchTitle.indexOf(searchTerm) != -1 )
-            customMarkerStyle(markers[key], "red", 1)
-        if (markerSearchTitle.indexOf(searchTerm) == -1
-            && searchTerm !== "")
-            customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-
-        else if (searchTerm === "") {
+        if (searchTerm !== "") {
+            if ( markerSearchTitle.indexOf(searchTerm) != -1)
+                customMarkerStyle(markers[key], "red", 1)
+            else
+                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
+        }
+        if (searchTerm === "") {
             zoom();
             customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 1)
         }
