@@ -47,7 +47,7 @@ var colorLookup = {
     10: "#B27E86",
     11: "#8F351D",
     12: "#D5AB7A",
-    13: "#514285",
+    13: "#d3d3d3",//"#514285", has changed to light gray to set this region to background
     14: "#539675",
     15: "#4B281F",
     16: "#539236",
@@ -56,8 +56,8 @@ var colorLookup = {
     19: "#6C7BD8",
     20: "#DBB540",
     21: "#8F3247",
-    22: "#A8DBD5",
-    23: "#C9DB3F",
+    22: "#d3d3d3",//"#A8DBD5", has changed to light gray to set this region to background
+    23: "#d3d3d3",//"#C9DB3F", has changed to light gray to set this region to background
     24: "#537195",
     25: "#7E5C31",
     26: "#D1785F",
@@ -87,14 +87,15 @@ var all_route_layers = [];
 var map_region_to_code = {};
 var markerLabels = {};
 var route_points = {};
-// Types of the toponyms
+// Types of the toponyms to be shown on map
 var type_size =
 {
-    "metropoles" : 6,
-    "capitals" : 4,
-    "towns" : 2,
-    "villages" : 1,
-    "waystations" : 0.7
+    "metropoles" : 5.2,
+    "capitals" : 4.3,
+    "towns" : 2.3,
+    "villages" : 1.3,
+    "waystations" : 1,
+    "xroads" : 0.7
 };
 var geojson;
 var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
@@ -111,8 +112,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             var marker = L.circleMarker(latlng, {
                 cornu_URI : feature.properties.cornuData.cornu_URI,
                 //radius: Math.sqrt(feature.properties.topType.length)/3,
-                radius: type_size[feature.properties.cornuData.top_type_hom]*1.8,
-                fillColor: colorLookup[feature.properties.cornuData.region_code],
+                radius: type_size[feature.properties.cornuData.top_type_hom]*2,
+                fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
                 color: colorLookup[feature.properties.cornuData.region_code],
                 weight: 1,
                 opacity: 1,
@@ -135,7 +136,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             tmp.options.opacity = 0.0;
             tmp.options.direction = "auto";
             markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
-
             markers[feature.properties.cornuData.cornu_URI] = marker;
            /*
             * click on a marker
@@ -176,7 +176,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             return marker
         }
     });
-    // Create html list of regions in regio tab
+    // Create html list of regions in region tab
     Object.keys(regs).forEach(function (key) {
         var func = "click_region(\"" + key + "\");";
         $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
@@ -200,7 +200,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         "AMWC" : prevTile,
         "Grayscale": grayscale,
         "Streets": streets,
-        "Open Street Map": tiles,
+        "National Geographic": tiles,
         "Google Satellite":googleSat,
         "Google Terrain":googleTerrain
     };
@@ -213,16 +213,16 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
         var routes = L.geoJson(data, {onEachFeature: onEachFeature});
         function onEachFeature(feature, layer) {
-            //console.log(JSON.stringify(layer));
             var sRegion, eRegion;
             var sFound = false;
             var eFound = false;
             var keys = Object.keys(markers);
-            for(var i = 0; i < keys.length;i++) {
+            for (var i = 0; i < keys.length; i++) {
                 if (sFound == false &&
                     feature.properties.sToponym == markers[keys[i]].options.cornu_URI) {
                     sFound = true;
                     sRegion = markers[keys[i]].options.region;
+                    // populate the route_points dictionary with neighbours of the route points
                     if (sRegion == 22) {
                         if (route_points[feature.properties.sToponym] == undefined)
                             route_points[feature.properties.sToponym] = [];
@@ -230,19 +230,13 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                         tmp["route"] = layer;
                         tmp["end"] = markers[feature.properties.eToponym].options.region;
                         route_points[feature.properties.sToponym].push(tmp);
-                        //console.log("tmp s :"+JSON.stringify(tmp))
-                        //console.log("rp s :"+JSON.stringify(route_points));
-                        //return;
-
-                        //route_points[feature.properties.sToponym]["end"] = markers[feature.properties.eToponym].options.region;
-                        //console.log("rp s: "+JSON.stringify(route_points[feature.properties.sToponym]))
-
                     }
                 }
                 if (eFound == false &&
                     feature.properties.eToponym == markers[keys[i]].options.cornu_URI) {
                     eFound = true;
                     eRegion = markers[keys[i]].options.region;
+                    // populate the route_points dictionary with neighbours of the route points
                     if (eRegion == 22) {
                         if (route_points[feature.properties.eToponym] == undefined)
                             route_points[feature.properties.eToponym] = [];
@@ -250,12 +244,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                         tmp["route"] = layer;
                         tmp["end"] = markers[feature.properties.sToponym].options.region;
                         route_points[feature.properties.eToponym].push(tmp);
-                        //console.log("tmp e :"+JSON.stringify(tmp));
-                        //console.log("rp e :"+JSON.stringify(route_points[feature.properties.eToponym][0]["end"]))
-                        //return;
-                        //route_points[feature.properties.eToponym]["route"] = layer;
-                        //route_points[feature.properties.eToponym]["end"] = markers[feature.properties.sToponym].options.region;
-                        //console.log("rp e: "+JSON.stringify(route_points[feature.properties.eToponym]))
                     }
                 }
                 if (sFound == true && eFound == true)
@@ -263,37 +251,62 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             }
             all_route_layers.push(layer);
             map_region_to_code[markers[keys[i]].options.region_spelled]
-                =markers[keys[i]].options.region;
-            // TODO: Chaeck if they are not "noData"
+                = markers[keys[i]].options.region;
+            /* Regions 13, 22, and 23 will be light gray.
+             * There might be some coloring over routes which are subsections of other routes.
+             * That means, some routes of region 22, might get the light blue color
+             * (original color before setting that to gray)
+             * even though in the code they get gray first (in else)!
+            */
             if (sRegion == eRegion) {
-                if(route_layers[markers[keys[i]].options.region_spelled] == undefined)
+                if (route_layers[markers[keys[i]].options.region_spelled] == undefined)
                     route_layers[markers[keys[i]].options.region_spelled] = [];
                 route_layers[markers[keys[i]].options.region_spelled].push(layer);
-                customLineStyle(layer, colorLookup[eRegion], 2, 1)
+                customLineStyle(layer, colorLookup[sRegion], 2, 1);
             }
-            else {
-                customLineStyle(layer, "gray", 1, 1)
+            else
+                customLineStyle(layer, "lightgray", 1, 1);
+            /*
+             * click on a route section
+             */
+            layer.on('click', OnRouteClick);
+            function OnRouteClick(e) {
+                $("#sidebar").removeClass('collapsed');
+                $(".sidebar-pane").removeClass('active');
+                $(".sidebar-tabs > li").removeClass('active');
+                $("#initRouteDesc").remove();
+                $("#routeSectionPane").addClass('active');
+                $("#routeSection").addClass('active');
+                $("#routeDetails").text("MoreDetails:");
+
+                // Create html content of route details (in routeSection tab) for a route section clicked
+                Object.keys(layer.feature.properties).forEach(function (rData) {
+                    $("#routeDetails").append("<li class='details_li'>"+rData+"</li><p class = 'details_text'>"+layer.feature.properties[rData]+"</p>");
+                })
             }
         }
         routeLayer.addLayer(routes).addTo(map);
         Object.keys(route_points).forEach(function(rp) {
             for (var i = 0; i < route_points[rp].length - 1; i++) {
-                var found = false;
-                customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
-                //for (var j = 1; j < route_points[rp].length; j++) {
-                    //if (route_points[rp][i]["end"] == route_points[rp][j]["end"]) {
-                    //    customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
-                    //}
-                //}
+                //var found = false;
+                for (var j = 1; j < route_points[rp].length; j++) {
+                    if (route_points[rp][i]["end"] == route_points[rp][j]["end"]) {
+                        customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                        customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                    }
+                }
             }
         });
     });
 });
-
 /*
- Set the style for routes containing ROUTPOINTs at one end.
+ Set a color for an object, not in a list
  */
-
+function setColor (code, toExclude) {
+    if (toExclude.indexOf(code) == -1)
+        colorLookup[code];
+    else return "lightgray";
+}
 /*
  * Click on map
  */
@@ -346,13 +359,18 @@ $( '#searchInput' ).on( 'keyup', function() {
         var searchTitle = markers[key].options.searchTitle.toUpperCase();
         var cornuURI = markers[key].options.cornu_URI;
         var arabicTitle = markers[key].options.arabicTitle;
-        var markerSearchTitle = searchTitle.concat(" ", cornuURI, " ", arabicTitle);
+        var markerSearchTitle = [];
+        markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
         var searchTerm = $( '#searchInput' ).val().toUpperCase();
         if (searchTerm !== "") {
-            if ( markerSearchTitle.indexOf(searchTerm) != -1)
+            if ( markerSearchTitle.indexOf(searchTerm) != -1) {
+                console.log("if: "+ markerSearchTitle);
                 customMarkerStyle(markers[key], "red", 1)
-            else
+            }
+            else {
+                console.log("else: "+markerSearchTitle);
                 customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
+            }
         }
         if (searchTerm === "") {
             zoom();
@@ -382,24 +400,23 @@ $( "#searchInput" ).autocomplete({
                     || markerTopURI == selected) {
                 selectedMarker = markers[key];
                 customMarkerStyle(markers[key], "red", 1)
-
+                if (selected.indexOf("ROUTPOINT")!== -1)
+                    console.log("if: "+markers[key].options.searchTitle)
             }
             // else, make them pale
-            else
+            else {
                 customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-                //markers[key].setStyle({
-                //    fillOpacity: 0.2,
-                //    fillColor: colorLookup[markers[key].options.region]
-                //})
+                if (selected.indexOf("ROUTPOINT")!== -1)
+                    console.log("else: "+markers[key].options.searchTitle)
+            }
         })
         // re-center the map if the selected item exist!
         if (selectedMarker !== undefined) {
+            console.log(selectedMarker.options)
             var lat = selectedMarker.options.lat;
             var lng = selectedMarker.options.lng;
             map.panTo(new L.LatLng(lat, lng));
         }
-
-
     }
 });
 /*
@@ -423,6 +440,7 @@ function customLineStyle(layer, color, width, opacity) {
 function customMarkerStyle(marker, color, opacity) {
     marker.setStyle({
         fillColor: color,
+        color: color,
         fillOpacity: opacity
     })
 };
@@ -441,7 +459,7 @@ function click_region(reg) {
         Object.keys(markers).forEach(function(key){
             markers[key].setStyle({
                 fillColor: colorLookup[markers[key].options.region],
-                color: "gray"
+                color: "lightgray"
             });
         });
 
@@ -457,8 +475,8 @@ function click_region(reg) {
         Object.keys(markers).forEach(function (key) {
             if (tmp.indexOf(key) == -1) {
                 markers[key].setStyle({
-                    fillColor: "gray",
-                    color: "gray"
+                    fillColor: "lightgray",
+                    color: "lightgray"
                 });
                 //markers[key].setZIndexOffset(-1);
                 markers[key].options.zIndexOffset = -1000;
@@ -475,7 +493,7 @@ function click_region(reg) {
         });
 
         all_route_layers.forEach(function(lay) {
-            customLineStyle(lay, 'gray', 2, 0.8);
+            customLineStyle(lay, 'lightgray', 2, 0.8);
         });
 
         if(route_layers[reg] != undefined) {

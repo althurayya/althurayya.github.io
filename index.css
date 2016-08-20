@@ -1,8 +1,34 @@
-.region_ul {
+
+@font-face {
+    font-family: "Brill";
+    src: url("./fonts/BrillBold.woff");
     font-weight: bold;
-    font-size: larger;
-    font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
 }
+
+
+@font-face {
+    font-family: "Brill";
+    src: url("./fonts/BrillItalic.woff");
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Brill";
+    src: url("./fonts/BrillBoldItalic.woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Brill";
+    src: url("./fonts/BrillRoman.woff");
+}
+.region_ul {
+     font-weight: bold;
+     font-size: larger;
+     font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+ }
 .region_ul:hover {
     color:red;
     cursor:pointer;

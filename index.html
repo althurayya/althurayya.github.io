@@ -21,7 +21,9 @@
     <!--Custom Fonts-->
     <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic&amp;subset=cyrillic,latin'
           rel='stylesheet' type='text/css'>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <!--https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">-->
+    <link href='http://fonts.googleapis.com/earlyaccess/amiri.css' rel='stylesheet' type='text/css'>
 
     <!--GeoJson Data File-->
     <link rel="points" type="application/json"
@@ -56,6 +58,8 @@
         <li id="locTab"><a href="#location" role="tab"><i class="fa fa-map-marker"></i></a></li>
         <li id="regions"><a href="#regionPane" role="tab"><i class="fa fa-globe"></i></a></li>
         <li id="search"><a href="#searchPane" role="tab"><i class="fa fa-search"></i></a></li>
+        <li id="routeSection"><a href="#routeSectionPane" role="tab"><i class="fa fa-object-ungroup"></i></a></li>
+
     </ul>
     <div class="sidebar-content">
         <div class="sidebar-pane active" id="home">
@@ -117,6 +121,17 @@
             <h1>Search Toponym</h1>
                     <input id="searchInput" type="text" placeholder="Search toponyms..."
                             style="z-index: 99;" autocomplete="on"/>
+        </div>
+        <div class="sidebar-pane" id="routeSectionPane">
+            <h1 id="routeTitle">Route Sections</h1>
+
+            <h2 id="admin2"></h2>
+
+            <p id="initRouteDesc">If you click on a route section, information about it will appear here.</p>
+
+            <h3 id="routeDetails">
+                <br>
+            </h3>
         </div>
     </div>
 </div>
