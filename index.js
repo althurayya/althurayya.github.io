@@ -386,7 +386,7 @@ $( '#searchInput' ).on( 'keyup', function() {
 $( "#searchInput" ).autocomplete({
     appendTo: "#searchPane",
     source: auto_list,
-    minLength: 3,
+    minLength: 4,
     select: function (e, ui) {
         var selected = ui.item.value.toUpperCase();
         var selectedMarker;
