@@ -79310,8 +79310,8 @@
                     "coord_lat": "26.22872",
                     "coord_lon": "61.37513",
                     "cornu_URI": "ROUTPOINT1909_613E262N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1909",
@@ -79342,8 +79342,8 @@
                     "coord_lat": "27.19216",
                     "coord_lon": "61.55950",
                     "cornu_URI": "ROUTPOINT1910_615E271N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1910",
@@ -79406,8 +79406,8 @@
                     "coord_lat": "26.12472",
                     "coord_lon": "61.73465",
                     "cornu_URI": "ROUTPOINT1908_617E261N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1908",
@@ -79662,8 +79662,8 @@
                     "coord_lat": "26.22931",
                     "coord_lon": "65.22578",
                     "cornu_URI": "ROUTPOINT1907_652E262N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1907",
@@ -79694,8 +79694,8 @@
                     "coord_lat": "27.67109",
                     "coord_lon": "65.31533",
                     "cornu_URI": "ROUTPOINT1911_653E276N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1911",
@@ -79886,8 +79886,8 @@
                     "coord_lat": "27.77717",
                     "coord_lon": "66.78500",
                     "cornu_URI": "ROUTPOINT1912_667E277N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1912",
@@ -79896,38 +79896,6 @@
                     "toponym_search": "RoutPoint1912",
                     "toponym_translit": "RoutPoint1912",
                     "toponym_translit_other": "RoutPoint1912"
-                },
-                "textual_sources_uris": [
-                    "muCjamBuldan",
-                    "kitabAnsab"
-                ]
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    67.60873,
-                    24.44466
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "cornuData": {
-                    "coord_certainty": "certain",
-                    "coord_lat": "24.44466",
-                    "coord_lon": "67.60873",
-                    "cornu_URI": "ROUTPOINT2001_676E244N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
-                    "top_type_hom": "xroads",
-                    "top_type_orig": "rPoint",
-                    "toponym_arabic": "RoutPoint2001",
-                    "toponym_arabic_other": "RoutPoint2001",
-                    "toponym_buckwalter": "RoutPoint2001",
-                    "toponym_search": "RoutPoint2001",
-                    "toponym_translit": "RoutPoint2001",
-                    "toponym_translit_other": "RoutPoint2001"
                 },
                 "textual_sources_uris": [
                     "muCjamBuldan",
@@ -79950,8 +79918,8 @@
                     "coord_lat": "24.53335",
                     "coord_lon": "67.71342",
                     "cornu_URI": "ROUTPOINT1905_677E245N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1905",
@@ -80142,8 +80110,8 @@
                     "coord_lat": "25.39828",
                     "coord_lon": "68.28628",
                     "cornu_URI": "ROUTPOINT1906_682E253N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1906",
@@ -80707,38 +80675,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    70.81672,
-                    30.21787
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "cornuData": {
-                    "coord_certainty": "certain",
-                    "coord_lat": "30.21787",
-                    "coord_lon": "70.81672",
-                    "cornu_URI": "ROUTPOINT2002_708E302N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
-                    "top_type_hom": "xroads",
-                    "top_type_orig": "rPoint",
-                    "toponym_arabic": "RoutPoint2002",
-                    "toponym_arabic_other": "RoutPoint2002",
-                    "toponym_buckwalter": "RoutPoint2002",
-                    "toponym_search": "RoutPoint2002",
-                    "toponym_translit": "RoutPoint2002",
-                    "toponym_translit_other": "RoutPoint2002"
-                },
-                "textual_sources_uris": [
-                    "muCjamBuldan",
-                    "kitabAnsab"
-                ]
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     71.11979,
                     40.79361
                 ],
@@ -80782,8 +80718,8 @@
                     "coord_lat": "30.19113",
                     "coord_lon": "71.36192",
                     "cornu_URI": "ROUTPOINT1902_713E301N_O_NODA",
-                    "region_code": 22,
-                    "region_spelled": "noData",
+                    "region_code": "Sind",
+                    "region_spelled": "Sind",
                     "top_type_hom": "xroads",
                     "top_type_orig": "rPoint",
                     "toponym_arabic": "RoutPoint1902",
