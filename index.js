@@ -36,30 +36,29 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' });;
 var colorLookup = {
     "Andalus": "#D5812E",
-    1: "#D5812E",
-    2: "#A768E6",
-    3: "#58E0C1",
-    4: "#323449",
-    5: "#6CD941",
-    6: "#E23A80",
-    7: "#ABB1DB",
-    8: "#384E21",
-    9: "#BDD977",
-    10: "#B27E86",
-    11: "#8F351D",
-    12: "#D5AB7A",
-    13: "#d3d3d3",//"#514285", has changed to light gray to set this region to background
-    14: "#539675",
-    15: "#4B281F",
-    16: "#539236",
-    17: "#DB4621",
-    18: "#68DA85",
-    19: "#6C7BD8",
-    20: "#DBB540",
-    21: "#8F3247",
-    22: "#d3d3d3",//"#A8DBD5", has changed to light gray to set this region to background
-    23: "#d3d3d3",//"#C9DB3F", has changed to light gray to set this region to background
-    24: "#537195",
+    "Aqur": "#A768E6",
+    "Barqa": "#58E0C1",
+    "Daylam": "#323449",
+    "Egypt": "#6CD941",
+    "Faris": "#E23A80",
+    "Iraq": "#ABB1DB",
+    "Jibal": "#384E21",
+    "Khazar": "#BDD977",
+    "Khurasan": "#B27E86",
+    "Khuzistan": "#8F351D",
+    "Kirman": "#D5AB7A",
+    "Mafaza": "#d3d3d3",//"#514285", has changed to light gray to set this region to background
+    "Maghrib": "#539675",
+    "Rihab": "#4B281F",
+    "Sham": "#539236",
+    "Sicile": "#DB4621",
+    "Sijistan": "#68DA85",
+    "Sind": "#6C7BD8",
+    "Transoxiana": "#DBB540",
+    "Yemen": "#8F3247",
+    22: "#000000",//"#A8DBD5", has changed to light gray to set this region to background
+    "Badiyat al-Arab": "#d3d3d3",//"#C9DB3F", has changed to light gray to set this region to background
+    "Jazirat al-Arab": "#537195",
     25: "#7E5C31",
     26: "#D1785F",
     27: "#898837",
@@ -91,6 +90,17 @@ var route_points = {};
 // Types of the toponyms to be shown on map
 var type_size =
 {
+    "metropoles" : 5,
+    "capitals" : 4,
+    "towns" : 3,
+    "villages" : 2,
+    "waystations" : 1,
+    "sites" : 1,
+    "xroads" : 1
+};
+
+/* Earlier version
+{
     "metropoles" : 5.2,
     "capitals" : 4.3,
     "towns" : 2.3,
@@ -98,8 +108,9 @@ var type_size =
     "waystations" : 1,
     "xroads" : 0.7
 };
+*/
 var geojson;
-var map = L.map('map',{maxZoom:max_zoom}).setView([33.513807, 36.276528], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+var map = L.map('map',{maxZoom:max_zoom}).setView([30, 40], min_zoom);//.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
 var latlngs = [];
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
@@ -345,7 +356,7 @@ function zoom() {
         Object.keys(markers).forEach(function (key) {
             if (markers[key].options.type ==
                 keySorted[Math.floor((max_zoom - currentZoom - 1) / 2)]) {
-                markerLabels[key].setLabelNoHide(true);
+                markerLabels[key].setLabelNoHide(false); /* change false back to true */
                 markers[key].bringToFront();
             }
         });
@@ -460,7 +471,7 @@ function click_region(reg) {
         Object.keys(markers).forEach(function(key){
             markers[key].setStyle({
                 fillColor: colorLookup[markers[key].options.region],
-                color: "lightgray"
+                color: "black" /* "lightgray" */
             });
         });
 
@@ -476,8 +487,8 @@ function click_region(reg) {
         Object.keys(markers).forEach(function (key) {
             if (tmp.indexOf(key) == -1) {
                 markers[key].setStyle({
-                    fillColor: "lightgray",
-                    color: "lightgray"
+                    fillColor: "black", /* "lightgray" */
+                    color: "black" /* "lightgray" */
                 });
                 //markers[key].setZIndexOffset(-1);
                 markers[key].options.zIndexOffset = -1000;
@@ -494,7 +505,7 @@ function click_region(reg) {
         });
 
         all_route_layers.forEach(function(lay) {
-            customLineStyle(lay, 'lightgray', 2, 0.8);
+            customLineStyle(lay, "black", 2, 0.8);  /* "lightgray" */
         });
 
         if(route_layers[reg] != undefined) {
