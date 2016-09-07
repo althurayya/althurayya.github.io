@@ -16,16 +16,20 @@ def loadCSVdata(file):
         data = data.split("\n")
     return(data)
 
+# should not rerun texts that have been already added!
 checkData = loadCSVdata("/Users/romanov/Documents/c.GitProjects/althurayya.github.io/working/_comparisonData")
 
 def loadJSON(file):
+    count = 0
+    added = 0
     with open(srcFile) as json_data:
         d = json.load(json_data)
         
         for f in d["features"]:
             #for k,v in f["properties"].items():
             #print(f["properties"])
-            del f["properties"]["textual_sources_uris"]
+            if "textual_sources_uris" in f["properties"]:
+                del f["properties"]["textual_sources_uris"]
 
             if "sources_arabic" not in f["properties"]:
                 f["properties"]["sources_arabic"] = {}
@@ -38,28 +42,49 @@ def loadJSON(file):
             testline = mgr.normalizeArabic(testline)
             testline = list(set(testline.replace("، ", "،").split("،")))
 
+            ls = []
             for t in testline:
                 for c in checkData:
+                    count += 1
+                    if count % 1000000 == 0:
+                        print("{:,}".format(count))
                     c = c.split("\t")
-                    if t == c[2]:
-                        if c[0] not in f["properties"]["sources_arabic"]:
-                            f["properties"]["sources_arabic"][c[0]] = [c[0], 100, "na"]
-                    else:
-                        test = fuzz.ratio(t, c[2])
-                        if test >= 90:
-                            if c[0] not in f["properties"]["sources_arabic"]:
-                                f["properties"]["sources_arabic"][c[0]] = [c[0], test, "na"]                            
-                            #print("%s > %s (%d)" % (t, c[2], fuzz.ratio(t, c[2])))
-                            #input()
-                    #input()
+                    ls.append([fuzz.ratio(t, c[2]), c[0], c[2]])
+                    #input(ls)
+            ls = sorted(ls, reverse=True)
 
-            
-            #print(f["properties"])
-            #input()
+            for i in ls:
+                if i[1] not in f["properties"]["sources_arabic"]:
+                    if i[0] >= 70:
+                        added += 1
+                        f["properties"]["sources_arabic"][i[1]] = [i[0], i[2], "na"]
 
         with open(trgFile,"w",encoding='utf-8') as fp:
             json.dump(d,fp,sort_keys=True, indent=4,ensure_ascii=False)
 
+        print("Number of iterations: %s" % "{:,}".format(count))
+        print("Total added: %s" % "{:,}".format(added))
+
 loadJSON(srcFile)
+
+
+##t1 = [50, "Test01", "bla"]
+##t2 = [90, "Test02", "bla"]
+##t3 = [1, "Test03", "bla"]
+##t4 = [4, "Test04", "bla"]
+##
+##li = [t1, t4, t2, t3]
+##
+##print(li)
+##
+##print(sorted(li))
+##print(sorted(li, reverse=True))
+
+##t1 = "قلعة رباه"
+##t2 = "قلعه كيانه"
+##print(t1)
+##print(t2)
+##print(fuzz.ratio(t1, t2))
+
 
 print("Tada!")
