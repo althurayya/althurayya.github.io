@@ -158,6 +158,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $(".sidebar-pane").removeClass('active');
                 $(".sidebar-tabs > li").removeClass('active');
                 $("#initDesc").remove();
+                $("#initSourceDesc").remove();
                 $("#location").addClass('active');
                 $("#locTab").addClass('active');
                 $("#locTitle").text(feature.properties.cornuData.toponym_translit
@@ -167,6 +168,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $("#region").text(colorLookup[feature.properties.regNum]);
                 $("#regNum").text(colorLookup[feature.properties.regNum]);
                 $("#cornuDetails").text("MoreDetails:");
+                $("#sources").empty();
                 //$("#admin1").text(feature.properties.admin1_std_name);
                 //$("#txtLink > a").text(feature.properties.SOURCE);
                 //$("#txtLink > a").attr("href",feature.properties.SOURCE);
@@ -175,10 +177,19 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
                 $("#geoLink > a").attr("target", "_blank");
 
-                // Create html content of cornu details ( in location tab) for a location clicked
+                // Create html content of cornu details (in location tab) for a location clicked
                   Object.keys(feature.properties.cornuData).forEach(function (cData) {
                       $("#cornuDetails").append("<li class='details_li'>"+cData+"</li><p class = 'details_text'>"+feature.properties.cornuData[cData]+"</p>");
                   })
+
+                // Create html content of resources (in text tab) for a location clicked
+                Object.keys(feature.properties.sources_arabic).forEach(function (sources) {
+                    fUri = "./sources/" + sources;
+                    $.getJSON( fUri, function (data) {
+                        $("#sources").append("<li class='details_li'>" + data['features'][0]['reference'] + "</li>" +
+                            "<div>" + data['features'][0]['text'] + "</div");
+                    })
+                })
 
             }
             function ResizeMarker(e) {

@@ -28,6 +28,7 @@
     <!--GeoJson Data File-->
     <link rel="points" type="application/json" href="./master/places.geojson"> 
     <link rel="routes" type="application/json" href="./master/routes.json">
+    <link rel="sources" type="application/json" href="./master/sources.json">
           
     <link rel="stylesheet" href="index.css"/>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css' rel='stylesheet' />
@@ -55,6 +56,7 @@
     <ul class="sidebar-tabs" role="tablist">
         <li id="homeTab" class="active"><a href="#home" role="tab"><i class="fa fa-question"></i></a></li>
         <li id="locTab"><a href="#location" role="tab"><i class="fa fa-map-marker"></i></a></li>
+        <li id="sourceTab"><a href="#source" role="tab"><i class="fa fa-book"></i></a></li>
         <li id="regions"><a href="#regionPane" role="tab"><i class="fa fa-globe"></i></a></li>
         <li id="search"><a href="#searchPane" role="tab"><i class="fa fa-search"></i></a></li>
         <li id="routeSection"><a href="#routeSectionPane" role="tab"><i class="fa fa-object-ungroup"></i></a></li>
@@ -110,6 +112,13 @@
                 <br>
             </h3>
         </div>
+        <div class="sidebar-pane" id="source">
+            <h1 id="sourceTitle">Resources</h1>
+            <div id="sources"></div>
+            <p id="initSourceDesc">If you click on a map marker, available sources about it will appear here.</p>
+
+        </div>
+
         <div class="sidebar-pane" id="regionPane">
             <h1 id="regionList">Regions:</h1>
             <ul id="regionDiv">
