@@ -50,3 +50,33 @@
 			2. Mountains: Brown
 		3. Routes:
 			1. ~~colored by regions~~
+
+
+# Flap viz
+
+## Flap: English Information of a Toponym
+
+### Toponym: Tarablus
+
+*Ṭarābulus (or Aṭrābulus) al-S̲h̲ām*
+(2,111 words)
+, the Greek Tripolis, called “of Syria” in the Arabic sources to distinguish it from Ṭarābulus al-G̲h̲arb [q.v.] “of the West”, Tripoli in Libya, an historic town of the Mediterranean coast of the Levant, to the north of D̲j̲ubayl and Batrūn [q.vv.]. It lies partly on and partly beside a hill at the exit of a deep ravine through which flows a river, the Nahr Ḳadīs̲h̲a (Arabic, Abū ʿAlī). West of it stretches a very fertile plain covered with woods, which terminate in a peninsula on which lies the port of al-Mīnā. The harbour is protected by a series of rocky islets lying in front of it and by the remains of an old wall.
+
+* Further :
+	* Link to E of Islam (link to the article; search link)
+	* Link to Iranica (search link)
+	* Link to Wikipedia (search link)
+	* Link to Pleiades (search link)
+
+
+## Flap: Primary Sources
+
+### Toponym: Trablus (in Arabic)
+
+**List of sources**:
+* Yaqut's Mu'jam al-Buldan
+	* option1 > expanding and showing the actual text
+	* option2 > expanding and showing the actual text
+* Sam`ani's Ansab
+	* option1 >
+	* option2 >
