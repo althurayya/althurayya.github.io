@@ -110,7 +110,7 @@ var type_size =
 };
 */
 var geojson;
-var map = L.map('map',{maxZoom:max_zoom}).setView([30, 40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+var map = L.map('map',{maxZoom:max_zoom}).setView([34,48], min_zoom+3);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
 var latlngs = [];
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {

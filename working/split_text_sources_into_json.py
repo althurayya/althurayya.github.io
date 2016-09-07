@@ -13,18 +13,18 @@ sources = {
 
 folder  = "/Users/romanov/Documents/c.GitProjects/althurayya.github.io/sources/"
 
-results = "_comparisonData"
-
 def toHTML(text):
     text = text.replace("\n~~", " ")
     text = text.replace("'", "`")
     text = text.replace('"', "`")
     
     text = re.sub(r"PageV(\d+)P(\d+)", r"[v.\1, p.\2]", text)
+    text = re.sub(r"\d+-\d+# ", "", text)
     text = re.sub(r"\b0+", "", text)
 
     newText = []
     for t in text.split("\n"):
+        #input(t)
         if t.startswith("$DIC_TOP$"):
             t = '<h1 class="arabic">%s</h1>' % t[9:].strip()
         elif t.startswith("#") and "%~%" in t:
@@ -85,27 +85,11 @@ def processSource(lov):
                 with open(folder+uri,"w",encoding='utf-8') as fp:
                     json.dump(geojsonSingle,fp,sort_keys=True, indent=4,ensure_ascii=False)
                     
-    with open(results, "a", encoding="utf8") as f9:
+    with open("_comparisonData_"+uriBase, "w", encoding="utf8") as f9:
         f9.write("\n".join(listData))
 
-#processSource(sources["0900AbuCabdAllahHimyari.RawdMictar"])
+processSource(sources["0900AbuCabdAllahHimyari.RawdMictar"])
 
-def processAll():
-    with open(results, "w", encoding="utf8") as r1:
-        r1.write("")
-
-    for k,v in sources.items():
-        processSource(v)
-
-    with open(results, "r", encoding="utf8") as r:
-        r = r.read().split("\n")
-        r = list(set(r))
-        r = "\n".join(sorted(r))
-
-        with open(results, "w", encoding="utf8") as r9:
-            r9.write(r)
-
-
-processAll()
+#processAll()
 
 print("Tada!")
