@@ -30,10 +30,10 @@ def loadJSON(file):
                 del f["properties"]["textual_sources_uris"]
                 
 
-##            if "sources_arabic" in f["properties"]:
-##                del f["properties"]["sources_arabic"]
-##            if "sources_english" in f["properties"]:
-##                del f["properties"]["sources_english"]
+            if "sources_arabic" in f["properties"]:
+                del f["properties"]["sources_arabic"]
+            if "sources_english" in f["properties"]:
+                del f["properties"]["sources_english"]
                 
 
             if "sources_arabic" not in f["properties"]:
@@ -67,7 +67,7 @@ def loadJSON(file):
                     if i[0] >= 70:
                         #input(i)
                         added += 1
-                        f["properties"]["sources_arabic"][i[1]] = [i[0], i[2], "na"]
+                        f["properties"]["sources_arabic"][i[1]] = {"rate": i[0], "title": i[2], "status": "na"}
 
 
         with open(trgFile,"w",encoding='utf-8') as fp:
