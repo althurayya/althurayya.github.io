@@ -48,8 +48,14 @@
 		2. Geographical features:
 			1. Bodies of waters: Blue 
 			2. Mountains: Brown
+			3. Regions: Dark green
 		3. Routes:
 			1. ~~colored by regions~~
+
+# Other things:
+
+1. Places (circles) must be drawn over the routes, not the other way around (i.e., places layer to be added after the routes layer)
+2. When a region is selected > center on it (metropole/capital of the region?); specific coordinates and zoom level? (can be stored in `index.js`)
 
 
 # Flap viz

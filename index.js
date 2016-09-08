@@ -129,7 +129,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 color: colorLookup[feature.properties.cornuData.region_code],
                 weight: 1,
                 opacity: 1,
-                fillOpacity: 0.8,
+                fillOpacity: 1,
                 type : feature.properties.cornuData.top_type_hom,
                 region : feature.properties.cornuData.region_code,
                 region_spelled : feature.properties.cornuData.region_spelled,
