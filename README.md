@@ -56,6 +56,7 @@
 
 1. Places (circles) must be drawn over the routes, not the other way around (i.e., places layer to be added after the routes layer)
 2. When a region is selected > center on it (metropole/capital of the region?); specific coordinates and zoom level? (can be stored in `index.js`)
+3. When a place is clicked on and a flap opens, the dor of that place must be highlighted (red dot, like when does a search); plus, show the name of the place next to the dot (show the label).
 
 
 # Flap viz
