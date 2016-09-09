@@ -43,8 +43,8 @@
     /*display: inline;*/
     font-weight: normal;
     margin: 10px 0;
-    font-size: 15px;
-    text-indent: 25px;
+    font-size: 20px;
+    text-indent: 0px;
     font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
 }
 .details_li {
@@ -56,16 +56,8 @@
     font-family: 'Brill', 'Amiri', 'Georgia', 'Lateef', 'Geeza Pro', serif;
 }
 
-.arabic_li {
-    /*display: inline;*/
-    list-style-position: inside;
-    font-weight: bold;
-    text-indent: 1px;
-    font-size: 20px;
-    font-family: 'Brill', 'Amiri', 'Georgia', 'Lateef', 'Geeza Pro', serif;
-}
 .arabic {
-    font-size: 15px;
+    font-size: 16px;
     font-family: 'Amiri', 'Lateef', 'Geeza Pro', serif;
     padding: 0;
     direction: rtl;
@@ -75,10 +67,12 @@
 }
 
 .arabic_poetry {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: bold;
     font-family: 'Amiri', 'Lateef', 'Geeza Pro', serif;
     padding: 0;
+    margin: 0;
+    text-indent: 0;
     direction: rtl;
     text-align: center;
     display: none;
