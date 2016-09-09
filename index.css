@@ -63,7 +63,7 @@
     direction: rtl;
     text-indent: 10px;
     margin: 10px 0;
-
+    display: none;
 }
 
 .arabic_poetry {
@@ -75,4 +75,14 @@
     text-indent: 0;
     direction: rtl;
     text-align: center;
+    display: none;
+}
+
+.reference {
+    display: none;
+    font-weight: normal;
+    margin: 10px 0;
+    font-size: 12px;
+    text-indent: 25px;
+    font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
 }
