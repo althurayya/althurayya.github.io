@@ -113,6 +113,12 @@ var geojson;
 var map = L.map('map',{maxZoom:max_zoom}).setView([34,48], min_zoom+3);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
 var latlngs = [];
+
+function click_on_list(id) {
+    // collapse & expand the text and reference of each item in sources
+    $('#'+id+"text").children().toggle();
+    $('#'+id+"ref").toggle();
+}
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
@@ -178,19 +184,29 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $("#geoLink > a").attr("target", "_blank");
 
                 // Create html content of cornu details (in location tab) for a location clicked
-                  Object.keys(feature.properties.cornuData).forEach(function (cData) {
-                      $("#cornuDetails").append("<li class='details_li'>"+cData+"</li><p class = 'details_text'>"+feature.properties.cornuData[cData]+"</p>");
-                  })
-
-                // Create html content of resources (in text tab) for a location clicked
-                Object.keys(feature.properties.sources_arabic).forEach(function (sources) {
+                Object.keys(feature.properties.cornuData).forEach(function (cData) {
+                    $("#cornuDetails").append("<li class='details_li'>" + cData + "</li><p class = 'details_text'>" + feature.properties.cornuData[cData] + "</p>");
+                })
+                // sort the source objects by rate to show them in descending order on flap
+                var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
+                    return feature.properties.sources_arabic[b].rate -
+                        feature.properties.sources_arabic[a].rate;
+                });
+                srt_keys.forEach(function (sources) {
+                    console.log(feature.properties.sources_arabic[sources])
                     fUri = "./sources/" + sources;
-                    $.getJSON( fUri, function (data) {
-                        $("#sources").append("<li class='details_li'>" + data['features'][0]['reference'] + "</li>" +
-                            "<div>" + data['features'][0]['text'] + "</div");
+                    var id = "A" + sources.replace(/\./g,"_");
+                    // Create html content of resources (in text tab) for a location clicked
+                    $.getJSON(fUri, function (data) {
+                        $("#sources").append(
+                            "<li id=\'" +id + "\' class='arabic_li' " +
+                            "onclick=click_on_list(\'"+ id + "\')>"
+                            + data['features'][0]['source'] + "</li>" +
+                             "<div id=\'"+ id + "text\'>" + data['features'][0]['text'] + "</div><br>" +
+                            "<div id=\'"+ id + "ref\' " +"class='reference'>" + data['features'][0]['reference']
+                            + "</div><br>");
                     })
                 })
-
             }
             function ResizeMarker(e) {
                 var currentZoom = map.getZoom();
@@ -322,6 +338,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         });
     });
 });
+
 /*
  Set a color for an object, not in a list
  */
