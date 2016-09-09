@@ -110,7 +110,7 @@ var type_size =
 };
 */
 var geojson;
-var map = L.map('map',{maxZoom:max_zoom}).setView([34,48], min_zoom+3);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+var map = L.map('map',{maxZoom:max_zoom}).setView([34,48], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
 var latlngs = [];
 
@@ -249,6 +249,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     L.control.layers(baseLayers, overlays).addTo(map);
     var sidebar = L.control.sidebar('sidebar').addTo(map);
 }).done(function () {
+    index_zoom(markers,type_size);
     $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
         var routes = L.geoJson(data, {onEachFeature: onEachFeature});
         function onEachFeature(feature, layer) {
@@ -361,36 +362,8 @@ map.on('click', OnMapClick);
 /*
  * Zoom on Map.
  */
-map.on('zoomend', zoom);
-var keySorted = Object.keys(type_size).sort(function (a, b) {
-    return type_size[a] - type_size[b] > 0;
-});
-/*
- * Show/Hide the labels based on the zoom level.
- */
-function zoom() {
-    var currentZoom = map.getZoom();
-    var step = max_zoom - min_zoom / type_size.length;
+map.on('zoomend', myzoom);
 
-    if(currentZoom - prevZoom < 0) {
-        Object.keys(markers).forEach(function (key) {
-            if (markers[key].options.type ==
-                keySorted[Math.floor((max_zoom - currentZoom - 2) / 2)]) {
-                markerLabels[key].setLabelNoHide(false);
-                markers[key].bringToFront();
-            }
-        });
-    } else {
-        Object.keys(markers).forEach(function (key) {
-            if (markers[key].options.type ==
-                keySorted[Math.floor((max_zoom - currentZoom - 1) / 2)]) {
-                markerLabels[key].setLabelNoHide(false); /* change false back to true */
-                markers[key].bringToFront();
-            }
-        });
-    }
-    prevZoom = currentZoom;
-}
 /*
  * Search Toponym
  */
