@@ -42,18 +42,16 @@
 .details_text {
     /*display: inline;*/
     font-weight: normal;
-    margin: 10px 0;
-    font-size: 20px;
+    font-size: 12px;
     text-indent: 0px;
-    font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+    font-family: 'Courier New', 'Lucida', sans-serif;
 }
 .details_li {
     /*display: inline;*/
-    list-style-position: inside;
     font-weight: bold;
-    text-indent: 10px;
-    font-size: 15px;
-    font-family: 'Brill', 'Amiri', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+    text-indent: 0px;
+    font-size: 12px;
+    font-family: 'Courier New', 'Lucida', sans-serif;
 }
 
 .arabic {

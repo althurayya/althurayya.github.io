@@ -167,13 +167,13 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $("#initSourceDesc").remove();
                 $("#location").addClass('active');
                 $("#locTab").addClass('active');
-                $("#locTitle").text(feature.properties.cornuData.toponym_translit
+                $("#locTitle").text("Location: " + feature.properties.cornuData.toponym_translit
                     + " (" + feature.properties.cornuData.toponym_arabic + ")");
                 $("#locDescAr").text(feature.properties.arTitle);
                 $("#locDescTranslit").text(feature.properties.translitTitle);
                 $("#region").text(colorLookup[feature.properties.regNum]);
                 $("#regNum").text(colorLookup[feature.properties.regNum]);
-                $("#cornuDetails").text("MoreDetails:");
+                $("#cornuDetails").text("");
                 $("#sources").empty();
                 //$("#admin1").text(feature.properties.admin1_std_name);
                 //$("#txtLink > a").text(feature.properties.SOURCE);
@@ -185,7 +185,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
                 // Create html content of cornu details (in location tab) for a location clicked
                 Object.keys(feature.properties.cornuData).forEach(function (cData) {
-                    $("#cornuDetails").append("<li class='details_li'>" + cData + "</li><p class = 'details_text'>" + feature.properties.cornuData[cData] + "</p>");
+                   $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
                 })
                 // sort the source objects by rate to show them in descending order on flap
                 var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
@@ -321,7 +321,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
                 // Create html content of route details (in routeSection tab) for a route section clicked
                 Object.keys(layer.feature.properties).forEach(function (rData) {
-                    $("#routeDetails").append("<li class='details_li'>"+rData+"</li><p class = 'details_text'>"+layer.feature.properties[rData]+"</p>");
+                    $("#routeDetails").append("<p class = 'details_text'><b>" + rData + ": </b> " + layer.feature.properties[rData] + "</p>");
                 })
             }
         }
