@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">اللاذقية</h1>\n<p class=\"arabic\">في آخر بلاد الشام الساحلية وبقرب أنطاكية ووراء القسطنطينية، والبحر منها غربا.</p>\n<p class=\"arabic\">وفي خبر المعتصم أنه لما شرع في بناء سر من رأى أشخص له البناءون والنجارون والحدادون وغيرهم، وسيق إليه الساج وسائر الخشب والجذوع من البصرة وما والاها من بغداد وإنطاكية وسواحل الشام، وسيق إليه الرخام والعمد، وأقيمت باللاذقية دور صناعة الرخام.</p>\n<p class=\"arabic\">والبيتان المنسوبان لبعض الفسقة :</p>\n<p class=\"arabic_poetry\">باللاذقية فتنة * ما بين أحمد والمسيح مشهوران عند الناس.</p>",
+            "title": "اللاذقية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001324-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

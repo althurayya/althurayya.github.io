@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دير الزندورد</h1>\n<p class=\"arabic\">في الجانب الشرقي من بغداد وأرضه كلها فواكه وأترج وأعناب، وهي من أجود الأعناب التي تعتصر ببغداد، وفيها يقول أبو نواس:</p>\n<p class=\"arabic_poetry\">فسقني من كروم الزندورد ضحى * ماء العناقيد في ظل العناقيد قال الفضل: سمعت محمدا الأمين يتكلم، وهو أول خليفة سمعت كلامه وقد عرض عليه كتاب فقال: كلام بليغ وليست له حلاوة وهو بمنزلة طعام طيب وليست له نظافة.</p>",
+            "title": "دير الزندورد",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000651-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

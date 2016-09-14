@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ثنية الوداع</h1>\n<p class=\"arabic\">عن يمين المدينة أحسب أنه كان الخارج من المدينة يودعه المشيع من هناك، ولما ورد رسول الله صلى الله عليه وسلم المدينة في الهجرة لقيته نساء الأنصار يقلن:</p>\n<p class=\"arabic_poetry\">طلع البدر علينا * من ثنيات الوداع</p>\n<p class=\"arabic_poetry\">وجب الشكر علينا * ما دعا لله داع</p>",
+            "title": "ثنية الوداع",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000410-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

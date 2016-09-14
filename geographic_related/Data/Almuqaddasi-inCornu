@@ -1,0 +1,54 @@
+PROV الجبال ,TYPE كورة ,REG1 الري ,TYPE مدينة ,STTL ساوة 
+PROV الجبال ,TYPE كورة ,REG1 الري ,TYPE مدينة ,STTL قزوين 
+PROV الجبال ,TYPE كورة ,REG1 الري ,TYPE مدينة ,STTL أبهر 
+PROV الجبال ,TYPE كورة ,REG1 الري ,TYPE مدينة ,STTL شلنبة 
+PROV الجبال ,TYPE كورة ,REG1 الري ,TYPE مدينة ,STTL الخوار 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL أسداواذ : أسداباذ
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL رامن 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL روذراور -> رذراور
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL طزر -> الطزر
+PROV مصر ,TYPE کورة ,REG1 الجفار ,TYPE قصبة ,STTL الفرما 
+PROV مصر ,TYPE کورة ,REG1 الجفار ,TYPE مدینة ,STTL البقارة 
+PROV مصر ,TYPE کورة ,REG1 الجفار ,TYPE مدینة ,STTL الواردة -> الورادة ???
+PROV مصر ,TYPE کورة ,REG1 الجفار ,TYPE مدینة ,STTL العريش 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE قصبة ,STTL بلبيس 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL مشتول 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL جرجیر 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL فاقوس 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL غيفا 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL تونة 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL القلزم 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE قصبة ,STTL العباسية 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدینة ,STTL شبرو  -> شبروا
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدینة ,STTL دمنهور
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سنهور
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL بنها العسل
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL شطنوف
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL مليج
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة, PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سدر => both together محلة سدر/ محلة صرد (in footnotes) / It has to be fixed in tagged version!
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL دميرة
+PROV مصر ,TYPE کورة ,REG1 مقدونية ,TYPE قصبة ,STTL الفسطاط -> in cornu فسطاط
+PROV مصر ,TYPE کورة ,REG1 مقدونية ,TYPE مدينة ,STTL الجيزة
+PROV مصر ,TYPE کورة ,REG1 مقدونية ,TYPE مدينة ,STTL عين شمس
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE قصبة ,STTL أسوان
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL حلوان -> 3 time in cornu (Eqypt, Iraq, Mafaza)
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL قوص
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL خميم -> has to be changed to إخميم in tagged text. in Cornu: أخميم 
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL بلينا
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL بوصير -> not on map, in cornu JSON file found
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL الفيوم -> two occurrences
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL أشمونين
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL سمسطا
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL طحا
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL قيس -> in cornu القيس
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE قصبة ,STTL الموصل  -> two occurrences
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL الحديثة -> two occurrences
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL معلثاى -> in cornu معلثاية (in Al=Muqaddasi route sections: معلثايا)
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL الحسنية
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL سنجار
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL الجبال -> two in Cornu: Aqur/Sham
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL بلد
+
+
+
+

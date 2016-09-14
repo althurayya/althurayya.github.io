@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الدردور</h1>\n<p class=\"arabic\">موضع في بحر فارس مما يلي شط البحر حيث جبلا كسير وعوير، وهو موضع يدور فيه الماء كالرحى دورانا دائما من غير فترة ولا سكون، فإذا سقط إليه مركب أو غيره فلا يزال يدور حتى يتلف، وهو يضيق على مقربة من جبلي كسير وعوير، تسلكه السفن الصغار ولا تسلكه الكبار، وهذه الدردورات ثلاثة: منها هذا الواحد والثاني بمقربة من جزيرة قمار والدردور الثالث في آخر الصين.</p>",
+            "title": "الدردور",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000600-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

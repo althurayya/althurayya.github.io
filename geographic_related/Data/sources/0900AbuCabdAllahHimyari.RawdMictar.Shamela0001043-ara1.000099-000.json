@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أمويي</h1>\n<p class=\"arabic\">بخراسان على فرسخ من جيحون بينها وبينه مروج وغياض وبالقرب منها موضع يسمى بالخسب فيه ثلثمائة منزل في كل منزل الأقل ألف إنسان والأكثر عشرة آلاف، ولهم مدنية عظيمة ونجدة معروفة وبسالة موصوفة.</p>",
+            "title": "أمويي",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000099-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

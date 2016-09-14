@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قرباكة</h1>\n<p class=\"arabic\">بالباء، بالأندلس أيضا من إقليم مولة، وهي قرية بها عين ماء تولد الحصى بطبعها، وإذا طال مكثه في الإناء من النحاس أو غيره تحجر بجنباته حتى تتضاعف زنة الإناء، وعين ماء أخرى تفتت الحصى بطبعها. [v.1, p.461]</p>",
+            "title": "قرباكة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001192-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

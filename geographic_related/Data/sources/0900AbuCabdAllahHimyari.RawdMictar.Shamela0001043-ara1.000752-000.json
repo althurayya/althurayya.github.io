@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">زنجان</h1>\n<p class=\"arabic\">آخرها نون، في خراسان بينها وبين النهر خمسة عشر فرسخا. قالوا : أذربيجان وقزوين وزنجان كور تلي الجبل من بلاد العراق وتلي كور أرمينية من جهة المغرب، وهي تلي الزعفرانية في الجبل، بينها وبين همذان ثلاثة فراسخ، سميت بذلك لأن بها زعفرانا كثيرا يسافر به إلى البلدان.</p>\n<p class=\"arabic\">وزنجان كورة واسعة وهي أكبر من أبهر وأهل أبهر أحذق وأنبل طباعا ، غير أن زنجان يغلب على أهلها الغفلة.</p>",
+            "title": "زنجان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000752-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

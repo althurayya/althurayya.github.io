@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">النوشجان</h1>\n<p class=\"arabic\">من بلاد فارس وفيها شعب بوان، فيه شجر الجوز والزيتون والكروم وغير ذلك من الفواكه، وهو أحد المواضع المشهورة بالحسن، وفيه يقول المتنبي:</p>\n<p class=\"arabic_poetry\">مغاني الشعب طيبا في المغاني * بمنزلة الربيع من الزمان</p>\n<p class=\"arabic_poetry\">ولكن الفتى العربي فيها * غريب الوجه واليد واللسان [v.1, p.583]</p>",
+            "title": "النوشجان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001549-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

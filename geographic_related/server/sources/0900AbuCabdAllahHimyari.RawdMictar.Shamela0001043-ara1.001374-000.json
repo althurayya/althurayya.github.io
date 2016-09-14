@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مادغوس</h1>\n<p class=\"arabic\">قبر مادغوس بقرب جبل أوراس، وهو قبر مثل الجبل الضخم مبني بآجر دقيق قد بني وعقد بالرصاص، وصورت فيه صور الحيوان من الأناسي وغيرهم، وهو مدرج النواحي، وفي أعلاه شجرة ثابتة وقد اجتمع على هدمه من سلف فلم يقدروا على ذلك، وفي الشرق من هذا القبر بحيرة مادغوس وهي مجتمع لكل طائر. [v.1, p.522]</p>",
+            "title": "مادغوس",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001374-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

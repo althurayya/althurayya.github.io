@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">طوقين</h1>\n<p class=\"arabic\">هي أول مرافئ الصين، وبها يعمل الغضار الصيني، ومنها يتجهز به إلى سائر البلاد التي تتصل بها وتبعد عنها وبها أرز وحبوب ونارجيل وقصب، وهم يجالسون التجار، ولهم همم عالية ونفوس أبية، ويستعملون الطيب أكثر من سائر بلاد الهند.</p>",
+            "title": "طوقين",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001011-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

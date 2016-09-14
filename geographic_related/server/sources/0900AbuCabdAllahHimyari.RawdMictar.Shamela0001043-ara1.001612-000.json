@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">وجرة</h1>\n<p class=\"arabic\">بالراء المهملة، على ثلاث مراحل من مكة في طريق البصرة، وطولها أربعون ميلا: ليس فيها منزل، قال الطوسي: وجرة في طريق السي، وهي فلاة بين مران وذات عرق، وهي ثلاثون ميلا يجتمع فيها الوحش، لا ماء فيها، وقال النابغة:</p>\n<p class=\"arabic_poetry\">من وحش وجرة موشى أكارعه * طاوي المصير كسيف الصيقل الفرد</p>",
+            "title": "وجرة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001612-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,280 @@
+<html>
+<head>
+    <title>Edit Sources</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://rawgit.com/emeeks/abcc82cc61c52fc47b19/raw/61a7ad001f0a3c4323b8b21071d2e749df367519/d3map.css">
+    <link rel="stylesheet" href="sourceEdit.css"/>
+
+</head>
+
+<script>
+    var places = {};
+    function saveData(data, fileName) {
+        var a = document.createElement("a");
+        document.body.appendChild(a);
+        a.style = "display: none";
+        var json = JSON.stringify(data),
+                    blob = new Blob([json], {type: "octet/stream"}),
+                    url = window.URL.createObjectURL(blob);
+            a.href = url;
+            a.download = fileName;
+            a.click();
+            window.URL.revokeObjectURL(url);
+
+    };
+    function trueSource(placeUri, fUri, elemId) {
+        // Stop events bubbling to the highest point in the DOM.
+        // i.e. stop firing the (parent)<li> tag's click event
+        window.event.stopPropagation();
+        places[placeUri].properties.sources_arabic[fUri].status = 'true';
+        d3.select("#false_"+placeUri+"_btn").remove();
+        d3.select("#true_"+placeUri+"_btn").remove();
+        if (d3.select("#edit_"+placeUri+"_btn").empty() != true)
+            var editBtn = d3.select("#edit_"+placeUri+"_btn");
+        else
+            var editBtn = "<button id= \"edit_"+ placeUri+ "_btn\" "
+                            + "onclick=\"edit('"+ placeUri+"','"+fUri+"','"+elemId+"');\" "
+                            + "style = \'display: inline; direction: ltr;\'>Edit!</button>";
+        var divHtml = d3.select("#" + elemId).html();
+        divHtml += editBtn ;
+        d3.select("#" + elemId).html(divHtml);
+        console.log("hr: "+ d3.select('#saveHr').empty())
+        d3.select('#saveDiv').style("display", "block")
+    }
+
+    function falseSource(placeUri, fUri, elemId) {
+        window.event.stopPropagation();
+        delete places[placeUri].properties.sources_arabic[fUri];
+        d3.select("#false_"+placeUri+"_btn").remove();
+        d3.select("#true_"+placeUri+"_btn").remove();
+        d3.select("#saveDiv").style("display", "block");
+        d3.select("#" + elemId).html("<p>Already deleted!</p>");
+    }
+    function edit( placeUri, fUri, elemId) {
+        window.event.stopPropagation();
+        d3.select("#edit_"+placeUri+"_btn").remove();
+        var trueBtn = "<button class=\"button \" id= \"true_"+ placeUri+ "_btn\" "
+                    + "onclick=\"trueSource('"+ placeUri+"','"+fUri+"','"+elemId+"');\" "
+                    + "style = \"display: inline; direction: ltr;\">True!</button>"
+        var falseBtn = "<button class=\"button \" id= \"false_"+ placeUri+ "_btn\" "
+                    + "onclick=\"falseSource('"+ placeUri+"','"+fUri+"','"+elemId+"');\" "
+                    + "style = \"display: inline; direction: ltr;\">False!</button>";
+        var divHtml = d3.select("#" + elemId).html();
+        divHtml += trueBtn + falseBtn;
+        d3.select("#" + elemId).html(divHtml);
+        d3.select('#saveDiv').style("display", "none");
+    }
+    function saveChanges(){
+        var features = [];
+        Object.keys(places).forEach(function(pUri) {
+            features.push(places[pUri])
+        })
+        var writeplaces = {"type": "FeatureCollection", "features": features};
+
+        var blob = new Blob([JSON.stringify(writeplaces)], {type: "octet/stream"});
+        // Save all objects in a new file (or as the same of orignial file, places.geojson)
+        // The edited file should be used for each time that the page is loaded, to show the edited data
+        saveAs(blob, "places.geojson");
+//        d3.select("#false_"+placeUri+"_btn").remove();
+//        d3.select("#true_"+placeUri+"_btn").remove();
+        d3.select('#saveDiv').style("display", "none");
+        console.log("diplay: " +d3.select('#saveDiv'))
+    }
+//    var toggleVisibility = (function( display){
+//        return function(){
+//            display = display == "none" ? "block" : "none";
+//            d3.select(this).style("display", display);
+//        }
+//    })();
+
+    function makeSomeMaps() {
+        map = d3.carto.map();
+
+        d3.select("#map").call(map);
+        // Carto map layer
+        wcLayer = d3.carto.layer.tile();
+        wcLayer.tileType("stamen")
+                .path("watercolor")
+                .label("Water Color Map")
+                .visibility(true);
+        modernLayer = d3.carto.layer.tile();
+        modernLayer
+                .path("elijahmeeks.map-azn21pbi")
+                .label("Modern Map")
+                .visibility(false);
+        // Custom modal for infobox
+        jsonModal = d3.carto.modal();
+        jsonModal.formatter(
+                function (d) {
+                    return "<p>" + "Cornu name: " + d.properties.cornuData["toponym_arabic"] + "</br>"
+                            + "Cornu URI: " + d.properties.cornuData["cornu_URI"] + "</br>"
+                            + "Other cornu title: " + d.properties.cornuData["toponym_arabic_other"] + "</br>"
+                            + "Cornu lat: " +d.properties.cornuData["coord_lat"] + "</br>"
+                            + "Cornu lon: " + d.properties.cornuData["coord_lon"] + "</br>"
+                            + "Cornu region: " + d.properties.cornuData["region_spelled"] + "</br>"
+                            + "Translit: " + d.properties.cornuData["toponym_translit"] + "</br>"
+                            + "Sources: " + JSON.stringify(d.properties.sources_arabic) + "</br>"
+                            + "</p>"
+                }
+        );
+        pointLayer = d3.carto.layer.geojson();
+        pointLayer
+                .path("../Data/places.geojson")
+                .label("places")
+                .cssClass("point")
+                .renderMode("svg")
+                .modal(jsonModal) // using custom modal to be shown in infobox
+                .clickableFeatures(true)
+                .on("load", loadPlaces);
+        map.addCartoLayer(wcLayer)
+                .addCartoLayer(pointLayer);
+        map.centerOn([44.361488, 33.312806], "latlong").setScale(3);
+        function loadPlaces() {
+            d3.json("../Data/places.geojson", function(error, data) {
+              data.features.forEach(function(d) {
+                  places[d.properties.cornuData['cornu_URI']] = d;
+              })
+            })
+            d3.selectAll("circle").filter(function (c) {
+                return c.properties.cornuData.top_type_hom == 'xroads' ||
+                        c.properties.cornuData.top_type_hom == 'waystations' ||
+                        c.properties.cornuData.top_type_hom == 'regions';
+            }).remove();
+
+            d3.selectAll("circle")
+                    .attr("r", 3);
+            d3.selectAll('circle').on('click', function (c) {
+                d3.select("#initDesc").style("display", 'none')
+                var q = queue();
+                // Read all the data file named as one of the sources of a place,
+                // using d3.queue
+                Object.keys(c.properties.sources_arabic).forEach(function (source) {
+                    q = q.defer(d3.json, "../Data/sources/" + source);
+                })
+                // Call the "onDataLoaded" function when all the files are loaded
+                q.await(onDataLoaded);
+                // Go through the all files and read the content to show them on page
+                function onDataLoaded(error) {
+                    if (!error) {
+                        // Loop files:
+//                           for (var i=1; i<arguments.length; i++)
+                        // slice the files into an array:
+                        var sources = Array.prototype.slice.call(arguments, 1);
+                        var sourcesDiv = d3.select("#sources")
+                        // Clear the old innerhtml of sourcesDiv before adding new html
+                        sourcesDiv.html("");
+                        if (sources.length == 0)
+                            sourcesDiv.html("<p>No sources available!</p>");
+                        // For each source, add an li element holding source value as text
+                        sourcesDiv.selectAll("li").data(sources).enter()
+                                .append("li")
+                                // Add html content of li to be shown/hidden when li is clicked,
+                                // Content holds the text of relating source and relevant edit buttons
+                                .html(function (s) {
+                                        var html = "";
+                                        var uri = s.features[0].uri;
+                                        var id = "id_" + uri.replace(/\./g,'_');
+                                        var div = s.features[0].source + ":"+ s.features[0].title
+                                                    + "<div id=\"" + id + "\" style = \"display:none;\"><span style = \"direction: rtl;\""
+                                                    + s.features[0].text + "</span>";
+                                        // Check the sources status
+                                        Object.keys(c.properties.sources_arabic).forEach(function (source) {
+                                            if (source == null) {alert("hi"); return "<p>No sources available!</p>";}
+                                            var placeTopUri = c.properties.cornuData['cornu_URI'];
+                                            if (source == uri)
+                                               // If the source status is "na", show the text and add True/False buttons to edit
+                                                if (c.properties.sources_arabic[source]['status'] == 'na') {
+                                                    var trueBtn = "<button class=\"button \" id= \"true_"+ placeTopUri+ "_btn\" "
+                                                                    + "onclick=\"trueSource('" + placeTopUri+"','"+uri+"','"+id+"');\" "
+                                                                    + "style = \"direction: ltr;\">True!</button>"
+                                                    var falseBtn = "<button class=\"button \" id= \"false_"+ placeTopUri+ "_btn\" "
+                                                                    + "onclick=\"falseSource('" + placeTopUri+"','"+uri+"','"+id+"');\" "
+                                                                    + "style = \"direction: ltr;\">False!</button>";
+
+                                                    html = div + trueBtn + falseBtn + "<br><br></div>";
+                                                }
+                                                // else If the source status is "True", show it and add edit button to edit
+                                                // the false sources should be deleted in previous edits
+                                                else {
+                                                    var editBtn = "<button class=\"button \" id= \"edit_"+ placeTopUri+ "_btn\" "
+                                                                    + "onclick=\"edit('"+ placeTopUri+"','"+uri+"','"+id+"');\" "
+                                                                    + "style = \'direction: ltr;\'>Edit!</button>";
+                                                    html = div + editBtn + "<br><br></div>";
+                                                }
+                                        })
+                                    return html;
+
+                                })
+                                 .on("click", collExpand);
+                    } else
+                        return console.log(error);
+                }
+
+                function collExpand(d) {
+                   var div = d3.select(this).select("div")
+                   var display = d3.select(this).select("div").style("display");
+                   d3.select(this).select("div")
+                           .style("display", display == 'none' ? 'block' : 'none')
+                }
+            })
+        }
+    }
+</script>
+<body onload="makeSomeMaps()">
+<div id="map"></div>
+<div style="right: 20px;" id="rightControls" class="controlsDiv">
+    <div class="buttonContainer">
+        <div id="sourcesContainer" class="buttonContainer">
+            <span style="color:gray;">Toponym Sources:</span><br/><br/>
+            <span id="initDesc" style="color:gray; display:block">Click on a place to see the Arabic sources available</span>
+            <div id="sources">
+                <!--<ul  >-->
+                    <!-- -->
+                <!--</ul>-->
+                <!--<input id="match" type="radio" name="match" value="match"> Match<br/>-->
+                <!--<input id="not-match" type="radio" name="match" value="not-match"> Not a match<br/>-->
+                <!--<input id="not-sure" type="radio" name="match" value="not-sure"> Not sure!<br/>-->
+                <!--Used for accessing the clicked circle-->
+            </div>
+            <div id="saveDiv" style="display: none">
+                <hr>
+                <button id="saveBtn" onclick="saveChanges()">Save Changes!</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8" type="text/javascript"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/Masoumeh/0390.IbnAhmadMuqaddasi.AhsanTaqasim/master/js/ext_lib/tile.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/emeeks/d3-carto-map/master/d3.carto.map.min.js" type="text/javascript"></script></footer>
+    <script src="https://rawgit.com/eligrey/FileSaver.js/master/FileSaver.js"></script>
+    <!--<script src="/socket.io/socket.io.js"></script>-->
+<!--Server script-->
+<!--<script>-->
+    <!--var socket = io();-->
+    <!--function writeDataToFile(d, f) {-->
+        <!--var str = { data: d, file:f};-->
+        <!--socket.emit('writeDataToFile', str);-->
+    <!--}-->
+    <!--function writeJsonToFile(d,f) {-->
+        <!--var str = { data: d, file:f};-->
+        <!--socket.emit('writeJsonToFile',str);-->
+    <!--}-->
+    <!--function appendDataToFile(d, f) {-->
+        <!--var str = { data: d, file:f};-->
+        <!--socket.emit('appendDataToFile', str);-->
+    <!--}-->
+    <!--function readProcessedData(func) {-->
+        <!--socket.emit('readProcessedData',"hi");-->
+        <!--socket.on('readProcessedData', function(msg){-->
+            <!--func(msg);-->
+        <!--});-->
+    <!--}-->
+
+<!--</script>-->
+</body>
+</html>
+

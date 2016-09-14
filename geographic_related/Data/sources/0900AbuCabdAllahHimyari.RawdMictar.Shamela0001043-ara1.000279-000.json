@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بنبايش</h1>\n<p class=\"arabic\">مدينة في بلاد الإفرنجة عظيمة كثيرة الأهل، سورها مبنى بالآجر والكلس، وبها نحو من خمسمائة حداد يعملون الدروع والسيوف والبيضات والرماح، وهو بلد واسع الخطة كثير الخير، وتنتهي أحوازها في الجوف إلى البحر المحيط مسيرة ثلاثة أيام، وأهل بنبايش يزعمون أنهم من الإفرنج ويشبهونهم في صفتهم وملابسهم وهيئتهم وأخلاقهم. [v.1, p.104]</p>",
+            "title": "بنبايش",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000279-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

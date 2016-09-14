@@ -1,0 +1,81 @@
+<html>
+<head>
+  <title>New Coordinates</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="https://rawgit.com/emeeks/abcc82cc61c52fc47b19/raw/61a7ad001f0a3c4323b8b21071d2e749df367519/d3map.css">
+  <link rel="stylesheet" href="https://rawgit.com/emeeks/abcc82cc61c52fc47b19/raw/61a7ad001f0a3c4323b8b21071d2e749df367519/example.css">
+</head>
+<style>
+  html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  #map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+circle {
+    fill: black;
+    stroke: red;
+}
+
+</style>
+<script>
+  function makeSomeMaps() {
+    map = d3.carto.map();
+
+    d3.select("#map").call(map);
+    tileLayer = d3.carto.layer.tile();
+    tileLayer
+            .tileType("stamen")
+            .path("watercolor")
+            .label("Watercolor")
+            .visibility(true);
+    
+    csvLayer = d3.carto.layer.csv();
+    csvLayer
+    .path("newCoords_cartesian2.csv")
+    .label("CSV Points")
+    .cssClass("pinkcircle")
+    .renderMode("svg")
+    .markerSize(4)
+    .x("lng")
+    .y("lat")
+    .clickableFeatures(true)
+    .on("load", function(d) {
+			d3.selectAll("circle").style("fill", function(d) {console.log(d.property); 
+                        if (d.property.indexOf('new') !== -1) return "red" 
+			else return "green"})});
+    
+
+    map.addCartoLayer(tileLayer).addCartoLayer(csvLayer);
+    map.centerOn([44.361488,33.312806],"latlong").setScale(2);
+    console.log(d3.selectAll("circle"))
+    
+    //color = d3.scale.sqrt().domain([0,10000000]).range([0,10]).clamp(true);
+    //d3.selectAll("circle").style("fill", function(d) {console.log(d.property); 							
+	//							if (d.property.indexOf('new') !== -1) return "red" 
+//								else return "green"})
+
+
+
+  }
+</script>
+<body onload="makeSomeMaps()">
+<div id="map"></div>
+<footer>
+  <script src="d3.v3.min.js" charset="utf-8" type="text/javascript"></script>
+  <script src="http://d3js.org/topojson.v1.min.js" type="text/javascript"></script>
+  <script src="http://d3js.org/d3.geo.projection.v0.min.js" type="text/javascript"></script>
+  <script src="https://rawgit.com/Masoumeh/0390.IbnAhmadMuqaddasi.AhsanTaqasim/master/js/ext_lib/tile.js" type="text/javascript"></script>
+  <script src="http://bl.ocks.org/emeeks/raw/f3105fda25ff785dc5ed/d3.quadtiles.js" type="text/javascript">
+  </script>
+  <script src="https://rawgit.com/emeeks/d3-carto-map/master/d3.carto.map.min.js" type="text/javascript"></script>
+</footer>
+</body>
+</html>
+

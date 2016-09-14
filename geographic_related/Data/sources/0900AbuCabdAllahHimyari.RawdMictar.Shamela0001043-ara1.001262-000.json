@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قيسارية</h1>\n<p class=\"arabic\">مدينة بالشام على ساحل البحر كبيرة عظيمة لها ربع عامر وحصن منيع، بينها وبين يافا ثلاثون ميلا وكانت من أمنع مدن فلسطين، افتتحها معاوية في خلافة عمر بن الخطاب رضي الله عنه فيها الكروم والبساتين وماؤها من العيون، ومنها تسقى كرومهم.</p>\n<p class=\"arabic\">وفي سنة سبع ومائة افتتح مسلمة بن عبد الملك مدينة قيسارية عنوة .</p>\n<p class=\"arabic\">وتخرج منها فتسير في رمال مقدار ثمانية فراسخ حتى تنتهي إلى مدينة صور.</p>",
+            "title": "قيسارية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001262-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">طوخا</h1>\n<p class=\"arabic\">مدينة على نهر الصين عامرة بالناس فيها تجار وبضائع وبها تصنع الثياب الطوخية من الحرير ولها قيمة وافرة ويتجهز بها منها إلى البلاد وهي ثياب مطرقة كالعتابية، وفيها ثياب مريشة يعمر الثوب منها كثيرا.</p>",
+            "title": "طوخا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001013-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

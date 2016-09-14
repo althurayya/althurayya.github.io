@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تابحريت</h1>\n<p class=\"arabic\">مدينة بينها وبين تارنانا عشرة أميال، وهي مدينة مشهورة على ساحل البحر بها مسجد جامع متقن البناء يشرف على البحر، ولها أسواق جامعة، وهي محط للسفن ومقصد لقوافل سجلماسة وغيرها، وفي الشرق من تابحريت مدينة مسكاك بينهما نحو ثلاثة أميال وهي أقدم من تابحريت وإنما جددت مدينة تابحريت بعد العشرين والأربعمائة وهي ساحل وجدة.</p>",
+            "title": "تابحريت",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000334-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

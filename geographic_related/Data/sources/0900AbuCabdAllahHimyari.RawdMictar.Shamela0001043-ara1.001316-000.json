@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كوشة</h1>\n<p class=\"arabic\">بينها وبين مدينة نوابية في بلاد النوبة ستة أيام، وهي تبعد عن النيل يسيرا، وموضعها فوق خط الاستواء، وأهلها قليلون، [v.1, p.503] وتجارتها قليلة وأرضها حارة جافة جدا، وشرب أهلها من عيون تمد السيل هناك، وهي في طاعة ملك النوبة ويسمى كاسل ، وهو اسم يتوارثونه ملوك النوبة، ودار ملكهم دمقلة.</p>",
+            "title": "كوشة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001316-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

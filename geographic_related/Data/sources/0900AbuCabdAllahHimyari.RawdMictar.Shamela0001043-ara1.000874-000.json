@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">شلوبينية</h1>\n<p class=\"arabic\">قرية مسكونة على ضفة البحر بينها وبين المنكب عشرة أميال، ويجود فيها الموز وقصب السكر، ولعل الأستاذ أبا علي الشلوبيني منسوب إليها. ويقال شلوبينية تقابل من العدوة الأخرى مرسى مدينة مليلة، ويقطع البحر بينهما في مجريين.</p>",
+            "title": "شلوبينية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000874-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

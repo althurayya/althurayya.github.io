@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الماه</h1>\n<p class=\"arabic\">الدينور، والماه بالفارسية قصبة البلدان، أي بلد كان، فكان يقال للدينور ماه الكوفة لأن مالها كان يحمل في أعطيات أهل الكوفة، ونهاوند ماه البصرة.</p>",
+            "title": "الماه",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001365-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

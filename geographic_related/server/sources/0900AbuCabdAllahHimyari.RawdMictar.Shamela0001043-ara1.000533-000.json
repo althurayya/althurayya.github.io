@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">حفن</h1>\n<p class=\"arabic\">من كور أنصنا من البلاد المصرية، منها مارية سرية النبي صلى الله عليه وسلم أم ولده إبراهيم التي أهداها له المقوقس صاحب الإسكندرية.</p>\n<p class=\"arabic\">وفي السير أن رسول الله صلى الله عليه وسلم قال: ` الله الله في أهل الذمة أهل المدرة السوداء السحم الجعاد فإن لهم نسبا وصهرا `، يعني أن أم إسماعيل عليه الصلاة والسلام هاجر منهم، وصهرهم أن رسول الله صلى الله عليه وسلم تسرى فيهم بمارية أم ولده إبراهيم.</p>",
+            "title": "حفن",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000533-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

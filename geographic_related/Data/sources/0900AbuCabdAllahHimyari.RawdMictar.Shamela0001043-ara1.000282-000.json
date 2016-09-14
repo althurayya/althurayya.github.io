@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بصرى</h1>\n<p class=\"arabic\">من أرض الشام من أعمال دمشق وهي مدينة حوران وفي شرقي هذه المدينة بحيرة تجتمع فيها مياه دمشق وتسير منها في صحراء ورمال مقدار خمسة عشر فرسخا فتدخل دمشق.</p>\n<p class=\"arabic\">وفي الخبر أن آمنة لما حملت بالنبي صلى الله عليه وسلم رأت كأنه خرج منها نور أضاءت له قصور بصرى من أرض الشام، روي ذلك عنه صلى الله عليه وسلم.</p>",
+            "title": "بصرى",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000282-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

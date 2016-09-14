@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قرناطة</h1>\n<p class=\"arabic\">بالنون، مدينة بالأندلس في ناحية منتزحة عن العمران، وفي جبال شاهقة هناك غار فيه رجل ميت لم تغيره الأزمنة ولا يدرى له أول شأن، ويكف من أعلى الغار ماء في وقب لطيف بأسفله، فلا يفيض ذلك الوقب بدوام الماء، وإن شرب منه العدد الكثير لم ينقص ويذكر أن بعض المستهزئين أخذ من أكفان ذلك الميت فصعق لفوره.</p>",
+            "title": "قرناطة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001191-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

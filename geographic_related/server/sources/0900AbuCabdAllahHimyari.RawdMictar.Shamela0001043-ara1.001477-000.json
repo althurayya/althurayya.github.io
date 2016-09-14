@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مسكيانة</h1>\n<p class=\"arabic\">قرية بقرب مجانة المطاحن عند نهر ملاق، وبقرب باغاية، وبينها وبين مجانة مرحلة، وهي مدينة عامرة قديمة أزلية بها زروع ومكاسب، وهي أكبر من مرماجنة.</p>",
+            "title": "مسكيانة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001477-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

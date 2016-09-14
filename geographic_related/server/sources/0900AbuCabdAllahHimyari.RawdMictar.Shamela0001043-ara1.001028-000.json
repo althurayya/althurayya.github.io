@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عاقل</h1>\n<p class=\"arabic\">ماء لبني أبان بن دارم، وقيل جبل كان يسكنه حجر أبو امرئ القيس، وفيه يقول :</p>\n<p class=\"arabic_poetry\">يا دار ماوية بالحائل * فالسهب فالخبتين من عاقل</p>",
+            "title": "عاقل",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001028-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

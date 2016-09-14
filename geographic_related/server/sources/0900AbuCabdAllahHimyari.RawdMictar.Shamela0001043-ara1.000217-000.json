@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">البثنية</h1>\n<p class=\"arabic\">مدينة بالشام، قالوا كان نبي الله أيوب كثير المال وكانت له البثنية والجابية من الشام كلها بما فيها، وكان له فيهما ما لا يحصى من العبيد والغنم والدواب، وابتلاه الله تعالى في ماله وولده فصبر ثم ابتلاه في جسمه وبقي مطروحا على كناسة سبع سنين وأشهرا فصبر، قالوا: ومدينة البثنية هي اذرعات من عمل دمشق.</p>",
+            "title": "البثنية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000217-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دروقة</h1>\n<p class=\"arabic\">مدينة بالأندلس من عمل قلعة أيوب عظيمة في سفح جبل، وعلى مقربة منها كنيسة أبرونية لها ثلاثمائة باب وستون بابا، وهي من إحدى عجائب البنيان. وقيل بين دروقة وبين قلعة أيوب ثمانية عشر ميلا، وهي مدينة صغيرة متحضرة كبيرة العامر كثيرة البساتين والكروم، وكل شيء بها كثير رخيص، وبينها وبين سرقسطة خمسون ميلا.</p>",
+            "title": "دروقة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000602-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

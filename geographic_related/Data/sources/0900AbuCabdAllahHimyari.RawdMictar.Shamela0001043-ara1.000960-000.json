@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ضمار</h1>\n<p class=\"arabic\">حجر كان لبني سليم يعبدونه، وبينا عباس بن مرداس يوما عند ضمار بعد أن جاء الله تعالى بالإسلام سمع من جوفه هاتفا يقول:</p>\n<p class=\"arabic_poetry\">قل للقبائل من سليم كلها * أودى ضمار وفاز أهل المسجد فكان ذلك سبب إسلامه.</p>",
+            "title": "ضمار",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000960-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مقور</h1>\n<p class=\"arabic\">جبل في شمال أرض كوار فيه عروق ترابية لينة تنفع من أوجاء العين الرمدة مثل ما ينفع رهج الغار الذي بعقر مدينة طلبيرة من بلاد الأندلس من جرب العين ويأكل ما فيها وهو غبار يوجد هناك لونه أخضر ما هو وهذا الغبار مشهور المنفعة في جميع بلاد الأندلس مجرب. وتتصل هذه الأرض بأرض الواحات، وهي المعروفة بأرض سنترية، وسنترية محدثة قريبة العهد.</p>",
+            "title": "مقور",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001471-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

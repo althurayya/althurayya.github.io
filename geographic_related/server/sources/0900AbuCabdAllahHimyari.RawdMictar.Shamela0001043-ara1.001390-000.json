@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مدينة المائدة</h1>\n<p class=\"arabic\">في أحواز طليطلة، سميت بذلك لأنها وجد فيها المائدة المنسوبة إلى سليمان بن داود عليهما السلام وهي خضراء من زبرجد، حافاتها منها وأرجلها، وكان فيها ثلثمائة وخمسة وستون رجلا، وانتهى إليها طارق حين مضى إلى طليطلة سنة ثلاث وتسعين.</p>",
+            "title": "مدينة المائدة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001390-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">صرصر</h1>\n<p class=\"arabic\">نهر يصب في دجلة تجري فيه السفن، وعليه مدينة بينها وبين بغداد سبعة أميال، وهي مدينة كبيرة عامرة كثيرة الأشجار والأسواق، وفيها فواكه وخير وافر، ولا سور لها، وبها جسر من مراكب يعبر عليه الناس.</p>",
+            "title": "صرصر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000919-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

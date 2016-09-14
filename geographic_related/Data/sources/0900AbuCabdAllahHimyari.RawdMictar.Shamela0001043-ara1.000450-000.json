@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">جزيرة الأخوين</h1>\n<p class=\"arabic\">بالموضع المذكور، كانا ساحرين، أحدهما شرهام والآخر شرام، كانا بهذه الجزيرة يقطعان على المراكب التي تمر عليهما ويأخذان أهلها وأموالهم، فمسخهما الله تعالى لظلمهما حجرين على ضفة البحر نائمين، ثم عمرت هذه الجزيرة بالناس وهي تقابل مرسى آسفي، ويقال إن الصفاء إذا عم البحر ظهر دخانها من البر.</p>",
+            "title": "جزيرة الأخوين",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000450-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

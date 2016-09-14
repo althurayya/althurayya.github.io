@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أوجلة</h1>\n<p class=\"arabic\">مدينة بينها وبين برقة في البر عشر مراحل، وهي مدينة صغيرة متحضرة، وهي في ناحية البرية يطيف بها نخل وغلات لأهلها، ومنها يدخل إلى كثير من أرض السودان، والوارد عليها والصادر عنها قليل، وأرض أوجلة وبرقة واحدة، وشرب أهلها من المواجل.</p>",
+            "title": "أوجلة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000182-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

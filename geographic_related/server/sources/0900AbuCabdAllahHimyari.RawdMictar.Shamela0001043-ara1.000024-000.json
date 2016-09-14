@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أبال</h1>\n<p class=\"arabic\">حصن بالأندلس في شمال قرطبة وعلى مرحلة منها، وهو الحصن الذي فيه معدن الزئبق، وفيه يعمل الزنجفور ومنه يتجهز بالزئبق والزنجفور إلى جميع أقطار الأرض، ويخدم هذا المعدن أزيد من ألف رجل فقوم للنزول وقطع الحجر، وقوم لنقل الحطب لحرق المعدن، وقوم لعمل أواني السبك والتصفية، وقوم لبنيان الأفران والحرق، ومن وجه الأرض إلى أسفله فيما حكي أكثر من مائة قامة .</p>",
+            "title": "أبال",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000024-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

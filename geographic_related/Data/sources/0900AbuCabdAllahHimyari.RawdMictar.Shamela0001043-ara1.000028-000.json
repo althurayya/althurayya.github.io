@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أبرق العزاف</h1>\n<p class=\"arabic_poetry\">واد بالحجاز يقال إنه لا يتوارى جنه، قال خريم بن فاتك الأسدي صاحب رسول الله صلى الله عليه وسلم قلت لعمر بن الخطاب رضي الله عنه: ألا أحدثك كيف كان بدء إسلامي، قال: بلى، قال رضي الله عنه: خرجت في طلب إبل لي * وبقية الحكاية في حرف الخاء من ابن عساكر ` خريم بن فاتك ` فانظره .</p>",
+            "title": "أبرق العزاف",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000028-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

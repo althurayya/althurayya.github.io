@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">فربر</h1>\n<p class=\"arabic\">مدينة بينها وبين بخارى ثلاث مراحل، وهي من البلاد التي خلف النهر من بلاد خراسان، وبينها وبين جيحون نحو ميل، وهي مدينة حسنة صغيرة كثيرة الجبايات كثيرة الخصب والخير، ولها قرى عامرة ورساتيق، وهي مضمومة بجملتها إلى بخارى.</p>\n<p class=\"arabic\">ومن فربر محمد بن يوسف الفربري راوية كتاب البخاري، عنه، جاء عنه أنه كان يقول: سمع كتاب الصحيح لمحمد بن اسماعيل تسعون ألفا فما بقي أحد يرويه غيري.</p>",
+            "title": "فربر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001141-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

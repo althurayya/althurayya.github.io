@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">خناصرة</h1>\n<p class=\"arabic\">هي بلدة من بلاد الشام، وهي المذكورة في قول المعري :</p>\n<p class=\"arabic_poetry\">أفل نوائب الأيام وحدي * إذا جمعت كتائبها احتشادا</p>\n<p class=\"arabic_poetry\">وقد أثبت رجلي في ركاب * جعلت من الزماع له بدادا</p>\n<p class=\"arabic_poetry\">إذا أوطأتها قدمي سهيل * فلا سقيت خناصرة العهادا قدما سهيل: كوكبان وراءه، يقول: إذا وطئت قدمي سهيل بقدمي وحللت ذروة الشرف فلست أبالي ما حل بالبلاد من صلاح أو فساد، وخص خناصرة بالذكر لقول عدي بن الرقاع:</p>\n<p class=\"arabic_poetry\">وإذا الربيع تتابعت أنواؤه * فسقى خناصرة الأحص وجادها الأحص: من ديار بني تغلب.</p>",
+            "title": "خناصرة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000570-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,32 @@
+import re
+import csv, json
+# Average measurement for a distnce unit in geographical text
+
+def measureAvgDistance(fileName):
+    with open(fileName, 'r') as meterFile:
+      distReader = csv.reader(meterFile, delimiter=',', quotechar='|')
+      unit_meter = dict()
+      next(distReader, None)
+      for dist in distReader:
+          unit = dist[-2].strip('"')
+          meter = dist[-1]
+          if unit in unit_meter:
+            unit_meter[unit].append(meter)	
+          else:
+            unit_meter[unit] = [meter]
+      #print("unit_meter: ",unit_meter)
+      unit_avgMeter = {}
+      for u in unit_meter:  
+        #print("unit ", unit)
+        meters = list(map(int, unit_meter[u]))
+        #print("UM: ", unit_meter[unit])
+        avg = sum(meters)/len(meters) if len(meters) > 0 else float('nan')
+        unit_avgMeter[u.strip()] = avg
+      return unit_avgMeter
+   
+avgs = dict()
+avgs = measureAvgDistance("../Data/Shamela_Triples_Dist_cornuMeter")
+print(avgs)
+with open("../Data/distanceUnits_avgMeter", "w", encoding="utf8") as distMeter:
+      json.dump(avgs, distMeter, ensure_ascii=False)
+print("Done!")

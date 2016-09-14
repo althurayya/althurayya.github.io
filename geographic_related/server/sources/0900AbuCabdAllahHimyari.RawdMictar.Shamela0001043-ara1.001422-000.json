@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مزون</h1>\n<p class=\"arabic\">بفتح الميم، مدينة عمان، كانت الفرس تسمي عمان مزون، وقيل مزون قرية من قرى عمان سكنها اليهود، وكانت الخوارج تسمي المهلب بن أبي صفرة المزوني، ولذلك قال الكميت:</p>\n<p class=\"arabic_poetry\">فأما الأزد أزد أبي سعيد * فأكره أن أسميها المزونا</p>",
+            "title": "مزون",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001422-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

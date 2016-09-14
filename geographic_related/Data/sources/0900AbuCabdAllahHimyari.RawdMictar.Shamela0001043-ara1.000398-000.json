@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تينجة</h1>\n<p class=\"arabic\">مدينة صغيرة من عمل بنزرت المسمى عمل صطفورة، ولها بحيرة طولها أربعة أميال وتتصل ببحيرة بنزرت من فم بينهما وفي هاتين البحيرتين أمر عجيب وذلك أن ماء بحيرة تينجة عذب وماء بحيرة بنزرت ملح، وكل واحدة من هاتين البحيرتين تصب في الأخرى ستة أشهر ثم ينعكس جريها فتمسك الجارية عن الجري وتصب الثانية إلى الأولى ستة أشهر فلا بحيرة تينجة تملح ولا بحيرة بنزرت تعذب.</p>",
+            "title": "تينجة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000398-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

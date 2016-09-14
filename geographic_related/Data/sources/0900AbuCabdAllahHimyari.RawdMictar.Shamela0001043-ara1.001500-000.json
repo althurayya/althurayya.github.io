@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">المؤتفكة</h1>\n<p class=\"arabic\">مدينة قوم لوط، وهي المذكورة في القرآن في قوله تعالى ` والموتفكة أهوى `.</p>\n<p class=\"arabic\">قالوا: في قوله تعالى ` ونجيناه ولوطا ` إن إبراهيم نزل بفلسطين ولوطا بالمؤتفكة، وبينهما مسيرة يوم وليلة.</p>",
+            "title": "المؤتفكة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001500-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

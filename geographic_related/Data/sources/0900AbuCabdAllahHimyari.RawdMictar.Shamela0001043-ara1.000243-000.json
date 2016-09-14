@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بردى</h1>\n<p class=\"arabic\">نهر يقال له بالفارسية بهردان وهو نهر دمشق ينبعث من جبالها فيجتازها فيقسمها ويشق غوطة دمشق ثم يصب في البحر ، وإياه عنى حسان في قصيدته التي يمدح فيها آل جفنة، يقول فيها :</p>\n<p class=\"arabic_poetry\">لله در عصابة نادمتهم * يوما بجلق في الزمان الأول</p>\n<p class=\"arabic_poetry\">يغشون حتى ما تهر كلابهم * لا يسألون عن السواد المقبل</p>\n<p class=\"arabic_poetry\">بيض الوجوه كريمة أحسابهم * شم الأنوف من الطراز الأول</p>\n<p class=\"arabic_poetry\">يسقون من ورد البريص عليهم * بردى يصفق بالرحيق السلسل</p>",
+            "title": "بردى",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000243-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

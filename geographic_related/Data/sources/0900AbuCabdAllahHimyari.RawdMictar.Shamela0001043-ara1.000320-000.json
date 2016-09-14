@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بيران</h1>\n<p class=\"arabic\">حصن من حصون الأندلس، ومن قصيدة لابن الأبار يمدح بها السيد أبا زيد عند انقياد أهل بيران لابنه السيد أبي يحيى أبي بكر سنة اثنتين وعشرين وستمائة:</p>\n<p class=\"arabic_poetry\">لله قلعة بيران وعزتها * على الأعاصير في ماضي الأعاصير</p>\n<p class=\"arabic_poetry\">عنت ودانت على حكم المنى فرقا * من سطو مرهوب أعلى السطو محذور</p>\n<p class=\"arabic_poetry\">وأذعنت وهي الشماء ذروتها * على حجاج لها من قبل مذكور</p>\n<p class=\"arabic_poetry\">ولو أصرت على الإعراض ثانية * لأصبحت بين تخريب وتدمير</p>\n<p class=\"arabic_poetry\">مدت إليك أبا زيد بطاعتها * يدا مخافة صول منك مشهور</p>\n<p class=\"arabic_poetry\">وأكدت في الرضى والصفح رغبتها * كما تقدم تأييد المقادير</p>\n<p class=\"arabic_poetry\">فجدت جودك بالنعمى بما سألت * من الأمان لها طلق الأسارير</p>",
+            "title": "بيران",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000320-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

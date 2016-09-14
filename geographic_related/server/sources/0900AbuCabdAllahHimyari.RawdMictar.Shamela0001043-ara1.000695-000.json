@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">رضاء</h1>\n<p class=\"arabic\">بيت كان لبني ربيعة بن كعب بن سعد بن زيد مناة بن تميم، كانوا يعبدونها في الجاهلية وفيها يقول المستوغر بن ربيعة حين هدمها الإسلام:</p>\n<p class=\"arabic_poetry\">ولقد شددت على رضاء شدة * فتركتها قفرا بقاع أسحما</p>",
+            "title": "رضاء",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000695-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

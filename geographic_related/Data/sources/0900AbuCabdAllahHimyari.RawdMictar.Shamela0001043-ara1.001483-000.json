@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مسقط</h1>\n<p class=\"arabic\">في طريق عمان على البحر، يمر عليها من أراد بلاد الهند والصين فيسير مع الشمال تلقاء الجنوب حتى يصير إلى مسقط هذه، وهي بين جبلين، وترفأ هناك السفن وتستقي من آبار هناك عذبة المياه وتحمل منها الحجارة لرمي العدو إذا خرج عليه ثم تسير منها مع الشمال، وجبال العرب ماثلة ظاهرة، حتى تمر مقدار تسعين فرسخا إلى حدود الشحر وحضرموت. [v.1, p.559]</p>",
+            "title": "مسقط",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001483-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

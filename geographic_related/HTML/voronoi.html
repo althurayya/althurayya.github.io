@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="content-language" content="ja">
+    <title>Mapbox(leaflet.js) Voronoi Diagram</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+
+    <style>
+        html, body {
+            height: 100%;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+
+
+<script src="../js/ext_lib/d3.v3.min.js"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet-src.js"></script>
+
+<script>
+//    d3.json('../Data/data.json', function (geojson) {
+//        mapDraw(geojson);
+//    });
+    d3.csv('../Data/cornu.csv' , function(csv) {
+        //console.log(JSON.stringify(csv));
+        var points = [];
+        csv.forEach(function (row) {
+            if(row.region == "Andalus") {
+                points.push({"lat": row.lat, "lon": row.lon});
+            }
+        });
+        mapDraw(points);
+    });
+
+
+    function mapDraw(points) {
+        var map = L.map('map');
+        map.setView([33.325, 44.422], 5);
+        map.on("viewreset moveend", update);
+        var mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+                'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+                    attribution: 'Map data &copy; ' + mapLink,
+                    maxZoom: 18
+                }
+        ).addTo(map);
+
+        map._initPathRoot();
+        var svg = d3.select("#map").select("svg");
+        var g = svg.append("g").attr("class", "leaflet-zoom-hide");
+
+        var voronoi = d3.geom.voronoi()
+                .x(function (d) {
+                    return d.x;
+                })
+                .y(function (d) {
+                    return d.y;
+                });//.clipExtent([[-550,-100],[-300,100]]);
+
+        update();
+
+        function update() {
+            var positions = [];
+            var center = [0,0];
+            points.forEach(function (d) {
+                var latlng = new L.LatLng(d.lat, d.lon);
+                center[0]  += map.latLngToLayerPoint(latlng).x;
+                center[1]  += map.latLngToLayerPoint(latlng).y;
+                positions.push({
+                    x: map.latLngToLayerPoint(latlng).x,
+                    y: map.latLngToLayerPoint(latlng).y
+                });
+            });
+            center[0]/=positions.length;
+            center[1]/=positions.length;
+            var maxlen = 0;
+            points.forEach(function (d) {
+                var latlng = new L.LatLng(d.lat, d.lon);
+                var tx  = map.latLngToLayerPoint(latlng).x;
+                var ty  = map.latLngToLayerPoint(latlng).y;
+                var dist = Math.sqrt(Math.pow(Math.abs(center[0]-tx),2) +
+                Math.pow(Math.abs(center[1]-ty),2));
+                if(dist > maxlen) maxlen = dist;
+            });
+            //console.log("test " + maxlen + " " + center);
+            d3.selectAll('.AEDpoint').remove();
+            var circle = g.selectAll("circle")
+                    .data(positions)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "AEDpoint")
+                    .attr({
+                        "cx": function (d, i) {
+                            return d.x;
+                        },
+                        "cy": function (d, i) {
+                            return d.y;
+                        },
+                        "r": 2,
+                        fill: "red"
+                    });
+
+            var polygons = voronoi(positions);
+            var triangles = d3.geom.voronoi().triangles(positions);
+           // console.log("triangles: "+triangles);
+//            console.log(" v: " +JSON.stringify(voronoi));
+            polygons.forEach(function (v) {
+                v.cell = v;
+//                console.log(" v: " +JSON.stringify(v));
+            });
+            var polys = [];
+            svg.selectAll(".volonoi").remove();
+            svg.selectAll("path")
+                    .data(polygons)
+                    .enter()
+                    .append("svg:path")
+                    .attr("class", "voronoi")
+                    .attr({
+                        "d": function (d, i) {
+//                            console.log("hi")
+//                            console.log("d:"+JSON.stringify(d3.geom.polygon(d)))
+//                            console.log(d.l.index + " " +
+//                                    d.r.index)
+                            if (!d) return null;
+                            polys.push(d3.geom.polygon(d));//"M" + d.cell.join("L") + "Z";
+                            return polygon(d);
+                        },
+                        stroke: "black",
+                        fill: "none",
+                    });//.style('visibility','hidden');
+
+            svg.selectAll("polygon")
+                    .data(polys)
+                    .enter().append("polygon")
+                    .attr("points",function(p){
+                        //console.log("mamad"+polygonArea(p));
+                        if(Math.abs(polygonArea(p))<5000) {
+                            return p;
+                        } else {
+                            var q = [];
+                            for (var i = 0; i < p.length; i++) {
+                                var dist =
+                                        Math.sqrt(Math.pow(Math.abs(center[0] - p[i][0]), 2) +
+                                        Math.pow(Math.abs(center[1] - p[i][1]), 2));
+                                if(dist > maxlen) {
+                                    var v1 = p[i][0] - center[0];
+                                    v1/=dist;
+                                    var v2 = p[i][1] - center[1];
+                                    v2/=dist;
+                                    q.push([center[0] + (maxlen+50) *v1,
+                                        center[1] + (maxlen+50) *v2]);
+                                } else q.push(p[i]);
+                                //console.log("mamad " + p + "voro " + center);
+                            }
+                           // return q;
+                        }
+                    })
+                    .attr("stroke","black")
+                    .attr("stroke-width",2)
+                    .attr("fill", "red  ");
+//            var path = svg.selectAll("path")
+//            path = path.data(d3.geom.voronoi().triangles(positions).
+//                    map(function(d) { return "M" + d.join("L") + "Z"; }), String);
+//
+//            path.enter().append("path").attr("d", String);
+//            path.exit().remove();
+
+//            path = svg.selectAll("path").data(d3.geom.delaunay(positions).map(function(d) { return "M" + d.join("L") + "Z"; }), String);
+//            path.exit().remove();
+//            path.enter().append("path")
+////                    .attr("class", function(d, i) { return "q" + (i % 9) + "-9"; })
+//                    .attr("d", String);
+//            d3.selectAll("path").attr("fill","yellow")
+            //console.log(JSON.stringify(polys));
+//            console.log(positions.length)
+            function polygon(d) {
+//                console.log("polygon"+JSON.stringify("M" + d.join("L") + "Z"));
+                return "M" + d.join("L") + "Z";
+            }
+        }
+
+    }
+
+function polygonArea(points) {
+    var sum = 0.0;
+    var length = points.length;
+    if (length < 3) {
+        return sum;
+    }
+    points.forEach(function (d1, i1) {
+        i2 = (i1 + 1) % length;
+        d2 = points[i2];
+        sum += (d2[1] * d1[0]) - (d1[1] * d2[0]);
+    });
+    return sum / 2;
+}
+
+
+</script>
+</body>
+</html>

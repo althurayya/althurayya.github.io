@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">لقنت</h1>\n<p class=\"arabic\">من بلاد الأندلس، وبينها وبين دانية على الساحل سبعون ميلا.</p>\n<p class=\"arabic\">وهي مدينة صغيرة عامرة، وبها سوق ومسجد عامر ومنبر ويتجهز منها بالحلفاء إلى جميع بلاد البحر، وبها فواكه وبقل كثير وتين وأعناب، ولها قصبة منيعة جدا في أعلى جبل يصعد إليه بمشقة وتعب، وهي على صغرها تنشأ بها المراكب السفرية والحراريق، ومن لقنت إلى ألش في البر مرحلة. [v.1, p.511]</p>",
+            "title": "لقنت",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001342-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

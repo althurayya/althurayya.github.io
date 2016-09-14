@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الوردانية</h1>\n<p class=\"arabic\">حصن الوردانية بالمغرب بينه وبين حصن القرويين ميلان، وهو على جبل بساحل البحر، ومن الوردانية إلى هنين أربعة أميال، وهو على مرسى جيد مقصود، وهو أكثر الحصون بساتين وضروب ثمر، تسكنه كومية، وبين هذا الحصن ومدينة ندرومة ثلاثة عشر ميلا.</p>",
+            "title": "الوردانية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001618-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دير مارت مريم</h1>\n<p class=\"arabic\">بالشام، فيه يقول بعض الشعراء:</p>\n<p class=\"arabic_poetry\">نعم المحل لمن يسعى للذته * دير لمريم فوق الطهر معمور</p>\n<p class=\"arabic_poetry\">ظل ظليل وماء غير ذي أسن * وقاصرات كأمثال الدمى حور</p>",
+            "title": "دير مارت مريم",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000640-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

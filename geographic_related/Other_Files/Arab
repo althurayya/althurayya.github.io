@@ -1,0 +1,98 @@
+PROV جزيرة العرب 	TYPE كورة 	REG1 الحجاز 
+PROV جزيرة العرب 	TYPE كورة 	REG1 اليمن 
+PROV جزيرة العرب 	TYPE كورة 	REG1 عمان 
+PROV جزيرة العرب 	TYPE كورة 	REG1 هجر 
+PROV جزيرة العرب 	TYPE ناحية 	REG1 الأحقاف 
+PROV جزيرة العرب 	TYPE ناحية 	REG1 الأشجار 
+PROV جزيرة العرب 	TYPE ناحية 	REG1 اليمامة 
+PROV جزيرة العرب 	TYPE ناحية 	REG1 قرح 
+REG1 الحجاز 	TYPE قصبة 	STTL مكة 
+REG1 الحجاز 	TYPE مدن امهات 	STTL يثرب 
+REG1 الحجاز 	TYPE مدن امهات 	STTL ينبع 
+REG1 الحجاز 	TYPE مدن امهات 	STTL قرح 
+REG1 الحجاز 	TYPE مدن امهات 	STTL خيبر 
+REG1 الحجاز 	TYPE مدن امهات 	STTL المروة 
+REG1 الحجاز 	TYPE مدن امهات 	STTL الحوراء 
+REG1 الحجاز 	TYPE مدن امهات 	STTL جدة 
+REG1 الحجاز 	TYPE مدن امهات 	STTL الطائف 
+REG1 الحجاز 	TYPE مدن امهات 	STTL الجار 
+REG1 الحجاز 	TYPE مدن امهات 	STTL السقيا 
+REG1 الحجاز 	TYPE مدن امهات 	STTL العونيد 
+REG1 الحجاز 	TYPE مدن امهات 	STTL الجحفة 
+REG1 الحجاز 	TYPE مدن امهات 	STTL العشيرة 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL بدر 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL خليص 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL أمج 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL الحجر 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL بدا يعقوب 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL السوارقية 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL الفرع 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL السيرة 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL جبلة 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL مهايع 
+REG1 الحجاز 	TYPE مدن دون امهات 	STTL حاذة 
+REG1 الیمن 	TYPE قسم 	REG2 تهامه 
+REG2 تهامه 	TYPE قصبه 	STTL زبید 
+REG2 تهامه 	TYPE مدینه 	STTL معقر 
+REG2 تهامه 	TYPE مدینه 	STTL كدرة 
+REG2 تهامه 	TYPE مدینه 	STTL مور 
+REG2 تهامه 	TYPE مدینه 	STTL عطنة 
+REG2 تهامه 	TYPE مدینه 	STTL الشرجة 
+REG2 تهامه 	TYPE مدینه 	STTL دويمة 
+REG2 تهامه 	TYPE مدینه 	STTL الحمضة 
+REG2 تهامه 	TYPE مدینه 	STTL غلافقة 
+REG2 تهامه 	TYPE مدینه 	STTL مخا 
+REG2 تهامه 	TYPE مدینه 	STTL كمران 
+REG2 تهامه 	TYPE مدینه 	STTL الحردة 
+REG2 تهامه 	TYPE مدینه 	STTL اللسعة 
+REG2 تهامه 	TYPE مدینه 	STTL شرمة 
+REG2 تهامه 	TYPE مدینه 	STTL العشيرة 
+REG2 تهامه 	TYPE مدینه 	STTL رنقة 
+REG2 تهامه 	TYPE مدینه 	STTL الخصوف 
+REG2 تهامه 	TYPE مدینه 	STTL الساعد 
+REG2 تهامه 	TYPE مدینه 	STTL المهجم 
+REG2 تهامه 	TYPE ناحیه 	REG3 أبين 
+REG3 أبين 	TYPE مدینه 	STTL عدن 
+REG3 أبين 	TYPE مدینه 	STTL لهج 
+REG2 تهامه 	TYPE ناحیه 	REG3 عثر 
+REG3 عثر 	TYPE مدینه 	STTL بيش 
+REG3 عثر 	TYPE مدینه 	STTL حلى 
+REG3 عثر 	TYPE مدینه 	STTL السرين 
+REG2 تهامه 	TYPE ناحیه 	REG3 السروات 
+REG1 الیمن 	TYPE ناحیه 	REG2 نجد 
+REG2 نجد 	TYPE قصبه 	STTL صنعاء 
+REG2 نجد 	TYPE مدینه 	STTL صعدة 
+REG2 نجد 	TYPE مدینه 	STTL نجران 
+REG2 نجد 	TYPE مدینه 	STTL جرش 
+REG2 نجد 	TYPE مدینه 	STTL العرف 
+REG2 نجد 	TYPE مدینه 	STTL جبلان 
+REG2 نجد 	TYPE مدینه 	STTL الجند 
+REG2 نجد 	TYPE مدینه 	STTL ذمار 
+REG2 نجد 	TYPE مدینه 	STTL نسفان 
+REG2 نجد 	TYPE مدینه 	STTL يحصب 
+REG2 نجد 	TYPE مدینه 	STTL السحول 
+REG2 نجد 	TYPE مدینه 	STTL المذيخرة 
+REG2 نجد 	TYPE مدینه 	STTL خولان 
+REG2 نجد 	TYPE ناحیه 	REG3 الأحقاف 
+REG3 الأحقاف 	TYPE مدینه 	STTL حضرموت 
+REG2 نجد 	TYPE ناحیه 	REG3 مهرة 
+REG3 مهرة 	TYPE مدینه 	STTL الشحر 
+REG2 نجد 	TYPE ناحیه 	REG3 صبا NoteV01P070N11 
+REG1 عمان 	TYPE قصبه 	STTL صحار 
+REG1 عمان 	TYPE مدینه 	STTL نزوة 
+REG1 عمان 	TYPE مدینه 	STTL السر 
+REG1 عمان 	TYPE مدینه 	STTL ضنك 
+REG1 عمان 	TYPE مدینه 	STTL حفیت 
+REG1 عمان 	TYPE مدینه 	STTL دبا 
+REG1 عمان 	TYPE مدینه 	STTL سلوت 
+REG1 عمان 	TYPE مدینه 	STTL جلفار 
+REG1 عمان 	TYPE مدینه 	STTL سمد 
+REG1 عمان 	TYPE مدینه 	STTL لسیا 
+REG1 عمان 	TYPE مدینه 	STTL ملح 
+REG1 هجر 	TYPE قصبه 	STTL الأحساء 
+REG1 هجر 	TYPE قصبه 	STTL سابون 
+REG1 هجر 	TYPE قصبه 	STTL الزرقاء 
+REG1 هجر 	TYPE قصبه 	STTL أوال 
+REG1 هجر 	TYPE قصبه 	STTL العقير 
+REG1 هجر 	TYPE ناحیه 	REG2 اليمامة 
+

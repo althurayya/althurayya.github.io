@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بانياس</h1>\n<p class=\"arabic\">مدينة قريبة من دمشق هي ثغر بلاد المسلمين، وهي صغيرة ولها قلعة يستدير بها نهر يفضي إلى أحد أبواب المدينة ولها مصب تحت أرحاء، وكانت بيد الفرنج فاسترجعها نور الدين رحمه الله، ولها محترث عظيم واسع في بطحاء متصلة.</p>",
+            "title": "بانياس",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000203-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

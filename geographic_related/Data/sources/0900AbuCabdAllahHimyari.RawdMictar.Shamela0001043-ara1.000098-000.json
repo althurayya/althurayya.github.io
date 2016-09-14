@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ذو أمر</h1>\n<p class=\"arabic\">بفتح أوله وثانيه وتشديد الراء المهملة أفعل من المرارة، موضع بنجد، وهي التي سار إليها رسول الله صلى الله عليه وسلم في سنة ثلاث عام أحد في أربعمائة وخمسين رجلا يريد غطفان فأقام بنجد شهرا، ثم رجع ولم يلق كيدا.</p>",
+            "title": "ذو أمر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000098-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

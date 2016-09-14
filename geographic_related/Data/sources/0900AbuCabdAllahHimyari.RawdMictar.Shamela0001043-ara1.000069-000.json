@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أرشذونة</h1>\n<p class=\"arabic\">بالأندلس وهي قاعدة كورة ريه ومنزل الولاة والعمال، وهي بقبلي قرطبة تسقي أرضها وتطرد في نواحيها عيون غزار وأنهار كبار وهي برية بحرية، سهلها واسع وجبلها مانع وسورها الآن مهدوم، ولها حصن فوق المدينة ولها مدن كثيرة وبها آثار قديمة، ومن مدنها مالقة بينهما ثمانية وعشرون ميلا.</p>",
+            "title": "أرشذونة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000069-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

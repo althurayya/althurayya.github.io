@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">روذان</h1>\n<p class=\"arabic\">بلدة حسنة من كور الجبل، وهي إقليم حسن وناحية شريفة، ومنها إلى نهاوند عشرون ميلا، وبينها وبين همذان ثلاثة فراسخ، ويعمل بها الزعفران، فهي تعرف ببلد الزعفران.</p>",
+            "title": "روذان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000708-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

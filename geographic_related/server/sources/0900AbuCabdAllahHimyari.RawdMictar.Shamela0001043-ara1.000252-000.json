@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بزليانة</h1>\n<p class=\"arabic\">قرية على ساحل البحر قريبة من مالقة وهي قرية أشبه بالمدينة في مستو من الأرض، وأرضها رمل وبها الحمام والفنادق ويصاد بها الحوت الكثير ويحمل منها إلى الجهات المجاورة لها، وبينها وبين مالقة ثمانية أميال.</p>",
+            "title": "بزليانة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000252-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

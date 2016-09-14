@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ذات عرق</h1>\n<p class=\"arabic\">بقرب أوطاس وبينها وبين وجرة سبعة وعشرون ميلا، وذات عرق ميقات أهل العراق، وهو منزل كثير الأهل والشجر وماؤه من البرك، والمسجد الذي في ذات عرق الكبير الذي فيه المنبر مسجد النبي صلى الله عليه وسلم، ومن ذات عرق إلى بستان ابن عامر اثنان وعشرون ميلا، ومن بستان ابن عامر إلى مكة أربعة وعشرون ميلا.</p>",
+            "title": "ذات عرق",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000656-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

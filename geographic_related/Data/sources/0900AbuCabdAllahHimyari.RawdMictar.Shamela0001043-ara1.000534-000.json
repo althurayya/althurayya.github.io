@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الحساء</h1>\n<p class=\"arabic\">قيل الحساء موضع في ديار بني أسد، قال بشر بن أبي خازم:</p>\n<p class=\"arabic_poetry\">عفا منهن جزع عريتنات * فصارة فالقوارع فالحساء والمشهور أن الحساء في طريق مؤتة، وهي المذكورة في شعر عبد الله بن رواحة، إذ قال يخاطب ناقته وهو متوجه إلى مؤتة:</p>\n<p class=\"arabic_poetry\">إذا أديتني وحملت رحلي * مسيرة أربع بعد الحساء</p>\n<p class=\"arabic_poetry\">فشأنك فانعمي وخلاك ذم * ولا أرجع إلى أهلي ورائي ذكر القصة ابن إسحاق .</p>\n<p class=\"arabic\">ومن أهل الحساء عثمان بن شطيبة العامري الحسائي، له:</p>\n<p class=\"arabic_poetry\">تسير وتسري ليلها ونهارها * بغاد إلى أفق الجلالة رائح</p>\n<p class=\"arabic_poetry\">وهان عليها أو علي جميع ما * ألاقي وتلقى إذ تلاقي ابن راجح</p>",
+            "title": "الحساء",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000534-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

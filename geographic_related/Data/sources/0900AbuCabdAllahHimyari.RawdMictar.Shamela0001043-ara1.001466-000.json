@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">معان</h1>\n<p class=\"arabic\">موضع في طريق الشام من المدينة؟ وقال عبد الله بن رواحة رضي الله عنه عند خروجه في المبعث الذي وجهه إليه رسول الله صلى الله عليه وسلم مع غيره من الأمراء إلى مؤتة، وكان بلغهم أن الروم قد جمعت لهم، فتردد الناس وكأنهم تهيبوا فقال :</p>\n<p class=\"arabic_poetry\">جلبنا الخيل من أجأ وفرع * تغر من الجشيش لها العكوم</p>\n<p class=\"arabic_poetry\">أقامت ليلتين على معان * فأعقب بعد فترتها جموم</p>\n<p class=\"arabic_poetry\">فلا وأبي مآب لنأتينها * وإن كانت بها عرب وروم وفي شعر أبي العلاء المعري :</p>\n<p class=\"arabic_poetry\">معان من أحبتنا معان * تجيب الصاهلات به القيان</p>",
+            "title": "معان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001466-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

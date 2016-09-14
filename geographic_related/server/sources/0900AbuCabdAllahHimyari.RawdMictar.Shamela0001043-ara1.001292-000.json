@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كند</h1>\n<p class=\"arabic\">مدينة من عمل فرغانة، وهو أيضا ملك عظيم من ملوك الهند كان بينه وبين الاسكندر حكايات.</p>\n<p class=\"arabic\">وكند من خجندة على ثلاثة أميال، وهي حسنة جليلة فيها كروم وبساتين، وليس في عملها مدينة غير كند، وجامعها في المدينة، ودار الإمارة في الميدان بالربض، وينحدر إليها نهر الشاش، ومخرجه من أنهار تجتمع إليه من بلاد الترك، ويمتد كثيرا إلى أن يقع في بحيرة خوارزم.</p>",
+            "title": "كند",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001292-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

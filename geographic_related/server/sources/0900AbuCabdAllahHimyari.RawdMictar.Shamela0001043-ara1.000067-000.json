@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أربونة</h1>\n<p class=\"arabic\">مدينة هي آخر ما كان بأيدي المسلمين من مدن الأندلس وثغورها مما يلي بلاد الإفرنجية، وقد خرجت عن أيدي المسلمين سنة ثلاثين وستمائة مع غيرها مما كان في أيديهم من المدن والحصون.</p>",
+            "title": "أربونة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000067-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

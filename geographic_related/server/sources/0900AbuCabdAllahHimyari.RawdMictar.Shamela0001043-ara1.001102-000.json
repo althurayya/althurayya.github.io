@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الغربال</h1>\n<p class=\"arabic\">أكمة كبيرة يجوز عليها ماء الحنية العادية المجلوب من جبل زغوان إلى معلقة قرطاجنة قبل الإسلام، أظنه سمي الغربال لأن فيه كان الماء يتصفى فيخرج عنه صافيا خالصا، وهو موضع مشرف منفرج، وهو الذي عنى العابد محرز بن خلف في القصيدة المنسوبة إليه يقول فيها:</p>\n<p class=\"arabic_poetry\">ومن بعده التدمير يا صاح قد بنى * بها طيطرا ثم القناة فأبدعا [v.1, p.427]</p>\n<p class=\"arabic_poetry\">وشيد مجراها سنين لعدة * ثلاث مئين بعد ذاك وأربعا</p>\n<p class=\"arabic_poetry\">وألفت من عين بجقار بعضها * ومن لمنس ؟ البعض حتى تجمعا</p>\n<p class=\"arabic_poetry\">فلما انتهى الغربال دبر أمرها * وأنزلها ما بين ذلك أذرعا</p>",
+            "title": "الغربال",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001102-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

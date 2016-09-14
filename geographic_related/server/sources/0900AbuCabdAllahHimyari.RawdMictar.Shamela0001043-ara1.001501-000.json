@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">موقان</h1>\n<p class=\"arabic\">مدينة من خراسان من أعمال طوس، وهي من غر البلاد المذكورة، ولها سوق وسور حصين، وبها تجار مياسير وضياع وفعلة، وبها حصن منيع، وبها قبر علي بن موسى الرضا، وبجبل موقان معدن الفضة والنحاس والحديد، ويوجد فيها من أحجار الفيروزج كثير، وكانت موقان دار الإمارة بخراسان إلى أيام الطاهرية، فانتقل منها إلى نيسابور فخرب أكثرها وتغيرت محاسنها.</p>",
+            "title": "موقان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001501-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">صنكان</h1>\n<p class=\"arabic\">بلد على ساحل بحر القلزم، أهله مقيمون لا يتجرون والناس واردون عليهم وصادرون عنهم، وبضائع أهلها قليلة وأموالهم يسيرة وصنائعها نزرة وجملتها غير حسنة، لكن الله تعالى حبب الوطن لأهله.</p>",
+            "title": "صنكان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000926-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

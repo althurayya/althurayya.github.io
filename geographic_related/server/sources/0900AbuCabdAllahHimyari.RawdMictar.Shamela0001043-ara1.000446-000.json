@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">جزيرة البركان</h1>\n<p class=\"arabic\">هي جزيرة في قطعة من البحر الشامي ليست بالكبيرة فيها جبل يقذف في بعض الأحايين نارا عظيمة وقليلا ما تفتر، وإذا هاجت هذه النار قذفت بالحجارة موقدة وسمع لها دوي يرتاع له ويسمع دويها من بعيد كأنما هي رعود قاصفة، وفي هذه الجزيرة معز برية، وبينها وبين أقرب بر من صقلية خمسة عشر ميلا.</p>",
+            "title": "جزيرة البركان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000446-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

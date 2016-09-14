@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ابرشهر</h1>\n<p class=\"arabic\">هي مدينة نيسابور، وقصدها غازيا الأحنف بن قيس من قبل ابن عامر فلقيه الهياطلة فقاتلهم فهزمهم، ثم أتى ابن عامر نيسابور فافتتح مدينة ابرشهر هذه، قيل صلحا وقيل عنوة، وفتح ما حولها: طوس وبيورد ونسا وسرخس، ولما افتتحها ابن عامر أعطوه جاريتين من آل كسرى.</p>",
+            "title": "ابرشهر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000035-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

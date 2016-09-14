@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">نابلس</h1>\n<p class=\"arabic\">من مدن الشام، وهي مدينة السامرية، وبها البئر التي حفرها يعقوب عليه السلام، وبها حبس عيسى عليه السلام وطلب من المرأة السامرية الماء ليشرب، وعليه الآن كنيسة حسنة، ويزعم أهل بيت المقدس أن السامرية لا يوجد أحدهم إلا بهذه المدينة. [v.1, p.571]</p>\n<p class=\"arabic\">وقال المسعودي : والأسامرة، في وقتنا هذا في قرى متفرقة ببلاد فلسطين والأردن إلى مدينة نابلس وأكثرهم في هذه المدينة وهم يقولون لا مساس.</p>",
+            "title": "نابلس",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001517-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

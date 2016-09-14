@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الصافية 1</h1>\n<p class=\"arabic\">موضع على يوم من النعمانية بشط دجلة، فيه قتل أبو الطيب المتنبي أحمد بن الحسين سنة أربع وخمسين وثلثمائة منصرفه من حضرة الأمير أبي شجاع، تولى قتله فاتك بن أبي الجهل الأسدي في نيف وثلاثين فارسا رامحين وناشبين، وذلك أن فاتكا هذا له قرابة من ضبة بن يزيد الذي هجاه أبو الطيب بقوله:</p>\n<p class=\"arabic_poetry\">ما أنصف القوم ضبه * وهى من سخيف شعره، فكانت سبب قتله، وفي خبر أنه قيل له: أعطهم شيئا فقال: أبذرق ومعي سيفي؟! وقاتل حتى قتل.</p>",
+            "title": "الصافية 1",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000906-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

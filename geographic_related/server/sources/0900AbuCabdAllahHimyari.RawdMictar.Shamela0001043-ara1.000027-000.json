@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أبان</h1>\n<p class=\"arabic\">بفتح أوله، جبل، وهما | أبانان الأبيض والأسود، [v.1, p.6] فالأبيض لبني فزارة والأسود لبني والبة بن الحارث بن ثعلبة بن دودان بينهما فرسخ، وإياهما عنى مهلهل بقوله يعني ابنته:</p>\n<p class=\"arabic_poetry\">انكحها فقدها الأراقم في * جنب وكان الحباء من أدم</p>\n<p class=\"arabic_poetry\">لو بأبانين جاء يخطبها * ضرج ما أنف خاطب بدم</p>",
+            "title": "أبان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000027-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

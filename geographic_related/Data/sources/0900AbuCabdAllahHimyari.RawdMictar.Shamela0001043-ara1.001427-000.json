@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">المطابخ</h1>\n<p class=\"arabic\">موضع معروف بمكة سمي بذلك لأن تبعا لما جاء ليهدم الكعبة سقم، فنذر إن شفاه الله أن ينحر ألف بدنة شكرا لله تعالى، فشفي فنحر ما نذر ، وجعلت المطابخ هناك ثم إطعم.</p>",
+            "title": "المطابخ",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001427-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

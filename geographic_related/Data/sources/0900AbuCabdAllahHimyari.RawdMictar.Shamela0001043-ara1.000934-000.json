@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">صفورية</h1>\n<p class=\"arabic\">موضع في ثغور الشام معروف. ولما أمر النبي صلى الله عليه وسلم بقتل عقبة بن أبي معيط قال: أأقتل من بين قريش!! فقال له النبي صلى الله عليه وسلم: ` وهل أنت إلا يهودي من صفورية `؟ فقال عمر بن الخطاب رضي الله عنه: حن قدح ليس منها.</p>\n<p class=\"arabic\">وذكر الكلبي أن أمية خرج إلى الشام فأقام بها عشر سنين فوقع على أمة يهودية للخم من أهل صفورية يقال لها ترنى فولدت ذكوان، فاستلحقه أمية وكناه أبا عمرو.</p>",
+            "title": "صفورية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000934-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

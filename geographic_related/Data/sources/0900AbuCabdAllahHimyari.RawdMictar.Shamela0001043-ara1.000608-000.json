@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دلاص</h1>\n<p class=\"arabic\">من البلاد المصرية في الضفة الشرقية من معظم النيل، تصنع بها اللجم الدلاصية، وهي مدينة صغيرة عامرة جليلة وصناعة الحديد فيها قائمة، وهي قديمة أزلية عجيبة البناء فيها غرائب، وهي كانت مجتمع سحرة مصر، وكانت في أيام القبط كبيرة إلا أنها الآن تسلط عليها البرابر من لواتة وشرار العرب فأفنوا عمارات أطراف هذه البلاد وأفسدوها فقل ساكنوها لذلك.</p>",
+            "title": "دلاص",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000608-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

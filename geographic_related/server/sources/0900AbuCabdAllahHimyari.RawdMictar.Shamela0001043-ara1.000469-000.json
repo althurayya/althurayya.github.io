@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">جنيارة</h1>\n<p class=\"arabic\">مدينة بين فاس وطنجة، فيها قرى كثيرة جامعة عامرة وزرع وضرع في جبل سهل أبيض مثل الطيلسان يسمى الجبل الأشهب، وقل ما تخلف أرض جنيارة لا في خصب ولا في جدب. وسأل رجل أراد أن يقتني ضيعة ببلاد المغرب شيخا من العارفين فقال له: عليك ببلد جنيارة فإنها مثل الدجاجة إن أصابها ديك أتت بالبيض، وإن لم يصبها ديك أتت بالبيض، تحتك في الغبار وتلد.</p>",
+            "title": "جنيارة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000469-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

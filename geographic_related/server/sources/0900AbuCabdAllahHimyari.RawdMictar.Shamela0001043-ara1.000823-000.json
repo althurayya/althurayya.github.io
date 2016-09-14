@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">السماوة</h1>\n<p class=\"arabic\">مفازة ببن الكوفة والشام، وقيل بين الموصل والشام، وهي من أرض كلب، وكانت باسم ابن عمليق بن لاوذ بن إرم من العماليق صارت إلى أرض السماوة وهي بين العراق والشام، فأهلكها الله تعالى بالريح السوداء لإفسادها فلم يبق به منهم باقية.</p>",
+            "title": "السماوة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000823-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

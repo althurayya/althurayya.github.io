@@ -1,0 +1,151 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/geo_bio.css" />
+    <link rel="stylesheet" href="../css/d3.slider.css" />
+    <link rel="stylesheet" href="../css/d3map3.css">
+    <link rel="stylesheet" href="../css/example.css">
+    <script src="../js/ext_lib/d3.v3.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="../js/ext_lib/d3.carto.map.js" type="text/javascript"></script>
+    <script src="../js/ext_lib/topojson.v1.min.js" type="text/javascript"></script>
+    <script src="../js/ext_lib/d3.geo.projection.v0.min.js" type="text/javascript"></script>
+    <script src="../js/ext_lib/tile.js" type="text/javascript"></script>
+    <script src="../js/ext_lib/d3.quadtiles.js" type="text/javascript"></script>
+    <script src="../js/ext_lib/jquery-1.11.1.js"> </script>
+    <script src="../js/ext_lib/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../js/ext_lib/d3.slider.js"></script>
+    <script src="../js/voronoi_on_carto.js" charset="utf-8" type="text/javascript"></script>
+    <script src="../js/gen_voronoi_layer.js" charset="utf-8" type="text/javascript"></script>
+    <script src="../js/helper.js" charset="utf-8" type="text/javascript"></script>
+    <script src="../js/ext_lib/FileSaver.min.js"></script>
+    <script src="../js/graph_msp.js"></script>
+    <script src="../js/ext_lib/data-structures-1.4.2.min.js"></script>
+    <script src="../js/graph.js"></script>
+</head>
+<body onload="makeSomeMaps();">
+<div id="geoMap"></div>
+    <div onclick="closeOpen('leftPanel')" id="closeLeft" class="rightarrow"></div>
+    <div onclick="closeOpen('rightPanel')" id="closeRight" class="leftarrow"></div>
+    <div style="height: auto; width: auto; right: 15px;" id="rightControls" class="controlsDiv">
+    <div class="buttonContainer" style="height: auto; width: auto;">
+        <div id="displayOptionsContainer" class="buttonContainer">
+            <span style="color:gray;">DISPLAY</span>
+        </div>
+    </div>
+</div>
+    <div class="controlsDiv" id="controlbar">
+        <div id="controlbarScroller">
+            <a class="tab" id="person" style="background: white;" onclick="showTab('persontab');">People</a>
+            <a class="tab" id="route" onclick="showTab('routetab');">Route</a>
+            <a class="tab" id="network" onclick="showTab('networktab');">Network</a>
+            <div id="persontab">
+            <div class="buttonContainer" style="height:80px;">
+                <div style="margin-bottom:10px;padding: 5px 10px; background: white;color:gray;">
+                    <div style="margin-bottom: 7px;"><span style="width:25px;color:gray;">
+                        THE TIME FRAME OF PEOPLE:
+                    </span></div>
+                    <div id="personSlider">
+                        <div id="yearSlider" style="width: 250px;left: 10px;">
+                        </div>
+                        <table style="width: 250px;">
+                            <tr><td><div id="yearValue">
+                                        <span id="minYear"></span>
+                                        To   <span id="maxYear"></span> AH
+                                    </div></td>
+                                <td>
+                                    <button id="calcConnections" style="left: 300px;">Go!</button>
+                                </td>
+                            </tr>
+                        </table>
+                        <div style="color:gray;padding-right:5px;display: inline-block;margin-top: 3px;">
+                            PATH VIS:
+                        </div>
+                        <input onclick="" type="radio" value="0" name="pathvis" checked="">
+                        <label for="op" class="priority-picker-label">Complete</label>
+                        <input onclick="" type="radio" value="1" name="pathvis">
+                        <label for="sp" class="priority-picker-label">Arc</label>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div id="routetab" style="display: none;">
+            <div class="buttonContainer" style="background: white;">
+                <fieldset style="border: none;" id="priorityForm" class="checkBoxSelect">
+                    <div style="color:gray;padding-right:5px;display: inline-block;margin-top: 3px;">PRIORITY: </div>
+                    <input onclick="" type="radio" value="0" name="priority" id="op">
+                    <label for="op" class="priority-picker-label">Optimal</label>
+                    <input onclick="" type="radio" value="1" name="priority" id="sp" checked="">
+                    <label for="sp" class="priority-picker-label">Shortest</label>
+                </fieldset>
+            </div>
+            <div class="buttonContainer" id="networkModeContainer" style="overflow:hidden;
+                 padding-left:10px;padding-top: 10px;background:white;padding-bottom: 9px;">
+                <div class="fieldTitle" style="text-transform: uppercase;color:gray;">Network Models</div>
+                <fieldset style="margin-bottom: 8px;padding-bottom: 13px;border:none;border-bottom: 1px solid #414042;">
+                    <form id="modeForm" onclick="updateBGRoutes();">
+                        <!-- to put checkboxes in two columns, should set smaller width of div like width:130px-->
+                        <div style="width:320px;float:left;">
+                            <input type="checkbox" class="mode-checkbox" value="alMuq" name="mode" id="alMuqCheck" checked="">
+                            <label for="alMuqCheck" class="mode-picker-label"></label>AL-MUQADDASI</div>
+                        <div style="width:320px;float:left;">
+                            <input id="alIstakCheck" class="mode-checkbox" type="checkbox" value="alIstak" name="mode" checked="">
+                            <label for="alIstakCheck" class="mode-picker-label"></label>AL-ISTAKHRI</div>
+                        <div style="width:320px;float:left;">
+                            <input id="ibnKhurdCheck" class="mode-checkbox" type="checkbox" value="ibnKhurd" name="mode" checked="">
+                            <label for="ibnKhurdCheck" class="mode-picker-label"></label>IBN KHURDHADHBIH</div>
+                        <div style="width:320px;float:left;">
+                            <input id="...Check" class="mode-checkbox" type="checkbox" value="..." name="mode" checked="">
+                            <label for="...Check" class="mode-picker-label"></label>....</div>
+                        <div style="width:320px;float:left;" data="highres" class="helpicon">
+                            <input type="checkbox" class="mode-checkbox" value="....." name="mode" id="....Check">
+                            <label for="....Check" class="mode-picker-label"></label>.....
+                        </div>
+                    </form>
+                </fieldset>
+                <div id="modeOptions" style="width:15%;float:left;">
+                    <div style="color:white;">X </div>
+                    <div style="margin-top: 9px;text-align: right;font-size: 14px;text-transform: uppercase;">Road </div>
+                    <div style="margin-top: 13px;text-align: right;font-size: 14px;text-transform: uppercase;">River </div>
+                    <div style="margin-top: 14px;text-align: right;font-size: 14px;text-transform: uppercase;">Sea </div>
+                </div>
+                <div style="width:30%;float:left;" data="transfer" class="helpicon">
+                    <div style="width:100%;color:gray;bottom: 10px;">TRANSFER COST</div>
+                    <div style="width:100%;margin-top:16px;"><input type="text" style="text-align: center;height:23px;border-radius: 2px;width:30px;border: 1px #231f20 solid;" id="riverTransferCost" class="controlButton" placeholder="0"></div>
+                    <div style="width:100%;margin-top:6px;"><input type="text" style="text-align: center;height:23px;border-radius: 2px;width:30px;border: 1px #231f20 solid;" id="seaTransferCost" class="controlButton" placeholder="0"></div>
+                </div>
+            </div>
+            </div>
+            <div id="networktab" style="display: none;">
+                <div class="buttonContainer" style="background: white;padding: 5px 0;">
+                    <div style="margin-bottom:10px;padding: 5px 10px; background: white;color:gray;">
+                        <div style="margin-bottom: 7px;">
+                            <span style="width:25px;color:gray;">
+                            START:
+                            </span>
+                            <div><select id="networkStart"></select></div>
+                            </br>
+                            Distance Multiplier: <select id="multiplier-select"></select> </br>
+                        </div>
+                    </div>
+                    <!--<fieldset style="border: none;" id="routeFind" class="checkBoxSelect">-->
+                    <div>
+
+                    </div>
+                     <div>
+
+                     </div>
+                        <div id="routeDiv" style="margin-bottom:10px;padding: 5px 10px; background: white;height:23px;">
+                            <div style="width:100%;color:gray;"><span style="margin-right:10px;">DIRECTION:</span>
+                                <input style="height:20px;" id="from" class="radio-radio" type="text" name="direction" value="0" checked="">
+                                <label style="color:gray;" for="from" class="mode-picker-label"></label><span style="margin-right:30px;">From</span>
+                                <input id="to" class="radio-radio" type="text" name="direction" value="1">
+                                <label style="color:gray;" for="to" class="mode-picker-label"></label><span style="margin-right:10px;">To</span>
+                            </div>
+                        </div>
+                    <!--</fieldset>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

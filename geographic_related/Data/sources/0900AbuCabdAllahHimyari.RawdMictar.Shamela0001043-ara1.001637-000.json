@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">يان</h1>\n<p class=\"arabic\">قرية من قرى بلخ، منها أبو جعفر محمد بن رميح الياني، حدث بسنده قال، قال رسول الله صلى الله عليه وسلم ` لا تصلوا عند طلوع الشمس، ولا عند غروبها، ولا نصف النهار حتى تزول الشمس، ولا يوم الجمعة والإمام يخطب `.</p>",
+            "title": "يان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001637-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

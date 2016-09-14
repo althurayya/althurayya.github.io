@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">المريسيع</h1>\n<p class=\"arabic\">قرية من قرى وادي القرى، وقال البخاري: هو ماء بنجد في ديار بني المصطلق من خزاعة، وقال ابن إسحاق: من ناحية قديد إلى الشام، غزاة رسول الله صلى الله عليه وسلم سنة ست فهي غزوة المريسيع وغزوة بني المصطلق وغزوة نجد، قال الزهري: وفيها كان حديث الإفك.</p>",
+            "title": "المريسيع",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001395-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

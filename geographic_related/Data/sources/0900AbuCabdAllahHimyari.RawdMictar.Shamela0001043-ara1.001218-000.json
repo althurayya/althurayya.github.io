@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قلمرية</h1>\n<p class=\"arabic\">بالميم، بالأندلس، من بلاد برتقال، مدينة بينها وبين قورية أربعة أيام.</p>\n<p class=\"arabic\">وهي على جبل مستدير، وعليها سور حصين ولها ثلاثة أبواب، وهي في نهاية من الحصانة.</p>\n<p class=\"arabic\">وهي صغيرة متحضرة عامرة كثيرة الكروم والتفاح والقراصيا، ومكانها في رأس جبل تراب لا يمكن قتالها، وهي على نهر عليه أرحاء، وبين قلمرية وشنترين ثلاث مراحل، وبينها وبين البحر اثنا عشر ميلا.</p>",
+            "title": "قلمرية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001218-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

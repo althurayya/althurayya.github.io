@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">فاراب</h1>\n<p class=\"arabic\">في بلاد الترك فيها مسلحة للمسلمين ومسلحة للأتراك، منها أبو نصر محمد بن نصر الفارابي المتفلسف، كان معاصرا للمتنبي، ويحكى أن المتنبي لما قال :</p>\n<p class=\"arabic_poetry\">ومن أنفق الساعات في جمع ماله * مخافة فقر فالذي فعل الفقر قال له الفارابي: خطبت يا أبا الطيب، فسر المتنبي بذلك وأظهر الفرح.</p>",
+            "title": "فاراب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001118-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

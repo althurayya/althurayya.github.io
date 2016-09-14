@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الهباءة</h1>\n<p class=\"arabic_poetry\">ممدود، موضع بقرب الربذة كانت فيه وقعة لعبس على ذبيان، وقتل فيها حذيفة بن بدر وأخوه حمل، قال قيس بن زهير يرثيه: [v.1, p.591] تعلم أن خير الناس ميت * على جفر الهباءة ما يريم وفي القصيدة المشهورة للتطيلي الأعمى التي أولها :</p>\n<p class=\"arabic_poetry\">ألا حدثاني عن فل وفلان * لعلي أرى باق على الحدثان يقول فيها:</p>\n<p class=\"arabic_poetry\">وعوجا على جفر الهباءة واعجبا * لضيعة أعلاق هناك ثمان</p>",
+            "title": "الهباءة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001564-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

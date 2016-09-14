@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بست</h1>\n<p class=\"arabic\">مدينة من أعمال سجستان منها أبو الفتح البستي الأديب وإياها عنى بعض الشعراء بقوله:</p>\n<p class=\"arabic_poetry\">أكتاب بست كم تناحركم على * كتابة بست وهي سخنة عين</p>\n<p class=\"arabic_poetry\">وخف حنين دون ما تطلبونه * فكم بينكم في ذاك حرب حنين</p>",
+            "title": "بست",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000290-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

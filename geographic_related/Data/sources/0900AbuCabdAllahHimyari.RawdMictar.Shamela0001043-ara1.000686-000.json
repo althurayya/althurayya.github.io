@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">رخج</h1>\n<p class=\"arabic\">بضم أوله وتشديد ثانيه وهو خاء منقوطة بعدها جيم، كورة من كور فارس، ورأيت في موضع آخر أنها من أعمال سجستان .</p>",
+            "title": "رخج",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000686-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

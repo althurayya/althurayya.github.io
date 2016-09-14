@@ -1,0 +1,2 @@
+dot -Tpng graphPROV\ العراق\ .dot > araq.png
+

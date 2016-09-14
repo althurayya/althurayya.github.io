@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سنداد</h1>\n<p class=\"arabic\">نهر فيما بين الحيرة إلى الأبلة.</p>\n<p class=\"arabic\">وقصر سنداد بظهر الكوفة، وهو الذي ذكره الأسود بن يعفر في قصيدته المشهورة، فقال :</p>\n<p class=\"arabic_poetry\">ماذا أؤمل بعد آل محرق * تركوا منازلهم وبعد إياد [v.1, p.325]</p>\n<p class=\"arabic_poetry\">أهل الخورنق والسدير وبارق * والقصر ذي الشرفات من سنداد</p>\n<p class=\"arabic_poetry\">أرض تخيرها لطيب مقيله * كعب بن مامة وابن أم دواد</p>\n<p class=\"arabic_poetry\">جرت الريح على محل ديارهم * فكأنما كانوا على ميعاد</p>",
+            "title": "سنداد",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000833-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

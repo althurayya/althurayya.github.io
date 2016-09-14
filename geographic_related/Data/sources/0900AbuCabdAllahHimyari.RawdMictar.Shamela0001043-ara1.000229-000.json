@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">برهوت</h1>\n<p class=\"arabic\">في نحر بلاد حضرموت من بلاد الشحر في جهة اليمن ببلاد عمان، فيها أطمة يسمع صوتها كالرعد من أميال كثيرة تقذف من قعرها بجمر كالجبال وقطع من الصخر سود حتى يرتفع ذلك في الهواء ويدرك حسها من أميال كثيرة ثم تنعكس سفلا فتهوي إلى قعرها وحولها.</p>",
+            "title": "برهوت",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000229-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قعيقعان</h1>\n<p class=\"arabic\">جبل بأعلى مكة نزل به مضاض بن عمرو ومن معه من جرهم، فكان يعشر من دخل مكة من أعلاها. قالوا: وسمي قعيقعان لأن مضاض بن عمرو لما سار إلى السميدع معه كتيبة فيها</p>\n<p class=\"arabic\">عدتها من الرماح والدرق والسيوف تقعقع بذلك فسمي بذلك قعيقعان، والقصة طويلة.</p>",
+            "title": "قعيقعان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001242-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

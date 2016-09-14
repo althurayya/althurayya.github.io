@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الحمة</h1>\n<p class=\"arabic\">قلعة حصينة شامخة بجزيرة صقلية، هي من أحسن البقاع، والبحر على ثلاثة أميال منها، ولها مرسى عليه حصن يعرف بالمدارج والمراكب سائرة به راجعة عليه ويصاد به التن بالشباك، وسميت هذه القلعة بالحمة لأن فيها حمة حامية يخرج ماؤها من جرف قريب منها، يستحم الناس فيها، وماؤها رطب وبقربها أنهار وأودية عليها أرحاء وبها بساتين وجنات وأبنية ومتنزهات ومزارع طيبة.</p>",
+            "title": "الحمة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000523-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

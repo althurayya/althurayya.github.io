@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">لشنتة</h1>\n<p class=\"arabic\">مدينة بجزيرة صقلية كان نزل عليها إبراهيم بن أحمد الأغلبي ملك إفريقية لما توجه إلى صقلية غازيا، وذلك بعد أن فتح طبرمين فحاصر لشنته، فطلبوا منه الأمان وأداء الجزية له فأبى ولم يجبهم، وحلت به علته التي مات منها فاشتغل بنفسه، وزادت العلة فمات وأدى أهل لشنته الجزية وهم لا يعلمون بموته، وحمل إلى مدينة بلرم فدفن بها.</p>",
+            "title": "لشنتة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001343-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

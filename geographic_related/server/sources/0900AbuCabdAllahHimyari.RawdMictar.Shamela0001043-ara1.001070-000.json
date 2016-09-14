@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عسكر مكرم</h1>\n<p class=\"arabic\">مدينة بقرب الأهواز كبيرة عامرة على نهر المسرقان، وفيها التجار وأخلاط من الناس، وفيها أسواق وأرزاق وصناعات، ولها مزارع متصلة، وبها صنف من العقارب إذا لسبت قتلت لحينها، وبين عسكر مكرم وتستر مرحلة، وبينها وبين رامهرمز مرحلتان، وبينها وبين الأهواز مرحلة.</p>\n<p class=\"arabic\">وكان الحجاج قد بعث مكرم بن جعونة فنزل موضع عسكر مكرم اليوم، فبه سمي الموضع .</p>",
+            "title": "عسكر مكرم",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001070-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

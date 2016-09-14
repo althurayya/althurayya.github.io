@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أبو قابوس</h1>\n<p class=\"arabic\">وأبو قبيس اسمان لجبل مكة، ويقال شيخ الجبال أبو قبيس وقيل ثبير.</p>",
+            "title": "أبو قابوس",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001169-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

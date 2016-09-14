@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بزقطة</h1>\n<p class=\"arabic\">من سقي الفرات منها أبو الفضل محمد بن أحمد البزقطي كان يعلم علي بن الخليفة الناصر، حكى ابن سعيد أنه لما استخلف المستنصر صيره في ديوان الإنشاء وتوفي معه في سنة واحدة وأنشد له:</p>\n<p class=\"arabic_poetry\">وأهيف مثل خوط البان قدا * تجول على معاطفه الرياح</p>\n<p class=\"arabic_poetry\">أبيت ولي بلثمي عارضيه * ورشفي راح ريقته ارتياح</p>\n<p class=\"arabic_poetry\">ولي من ليل طرته اغتباق * ولي من صبح غرته اصطباح</p>",
+            "title": "بزقطة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000254-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بورى</h1>\n<p class=\"arabic\">في أسفل الديار المصرية، في سنة عشر وستمائة وصل العدو إليها بشوانيه فسباها كما فعل في قره، وكان حلق رشيد قد حرس بالقطائع المصرية فعدل عنها إلى هذا المكان.</p>",
+            "title": "بورى",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000297-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

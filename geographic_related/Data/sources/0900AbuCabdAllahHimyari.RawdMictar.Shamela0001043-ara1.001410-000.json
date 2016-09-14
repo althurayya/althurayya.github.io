@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">المريس</h1>\n<p class=\"arabic\">قالوا البلد الذي يتصل من بلاد النوبة بأسوان يعرف بمريس، وإليها تضاف الريح المريسية.</p>\n<p class=\"arabic\">ومن كلام ابن دأب حين ذكر عيوب مصر عند الهادي قال: ومن عيوبها يا أمير المؤمنين الريح الجنوب التي يسمونها المريسية، فإذا هبت عليهم ودامت اشترى أهل مصر الأكفان.</p>",
+            "title": "المريس",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001410-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">غافق</h1>\n<p class=\"arabic\">بالأندلس بقرب حصن بطروش وهو حصن حصين ومعقل جليل، في أهله نجدة وحزم وجلادة وعزم، وكثيرا ما تسري [v.1, p.426] إليهم سرايا الروم فيستنقذون منهم غنائمهم ويخرجونهم من أرضهم، والروم تعلم بأسهم وبسالتهم فيتجنبونهم.</p>",
+            "title": "غافق",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001095-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

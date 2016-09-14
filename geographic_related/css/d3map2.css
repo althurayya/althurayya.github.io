@@ -1,0 +1,47 @@
+  #d3MapLayerBox {
+    position: absolute;
+    background: white;
+    color: gray;
+    border-radius: 5px;
+    border: 2px double gray;
+    box-shadow: 3px 3px black;
+    left: auto;
+    right: 20px;
+    top: 50px;
+  }
+
+  #d3MapPanBox {
+    top: 190px;
+    right: 68px;
+  }
+
+  #d3MapPanBox > button, #d3MapZoomBox > button {
+    border-radius: 15px;
+    background: white;
+    border: 2px double gray;
+    color: black;
+    border: 2px double gray;
+  }
+
+  #d3MapPanBox > button {
+      font-size: 14px;
+  }
+
+  #d3MapPanBox > button:hover, #d3MapZoomBox > button:hover {
+    color: white;
+    background: darkgray;
+  }
+
+  #d3MapZoomBox {
+    top: 160px;
+    right: 80px;
+  }
+
+  #d3MapZoomBox > .zoomcontrol {
+    position: absolute;
+  }
+
+  #d3MapZoomBox > #in {
+    position: relative;
+  }
+

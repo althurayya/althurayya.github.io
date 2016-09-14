@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كرماله</h1>\n<p class=\"arabic\">حصن من حصون أوغة من بلاد الافرنج الساحلية مشرقا، فيه أعجوبة وهي صورة امرأة من حجر قد نبتت في فيها كرمة مطعمة، من أكل من عنبها شيئا لم يولد له أبدا ويزعمون أن شنت مرتين مر على هذا الحصن فخرجت عليه امرأة فاجرة زوجة رجل سلاب كان بها فجردته من ثيابه، وطاع لها بها حتى بلغت منه نزع السراويل فدعا عليها دعوة مسخت من حينها حجرا وأدخلت زرجونة في فمها على سبيل العبث بها فعلقت.</p>",
+            "title": "كرماله",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001282-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

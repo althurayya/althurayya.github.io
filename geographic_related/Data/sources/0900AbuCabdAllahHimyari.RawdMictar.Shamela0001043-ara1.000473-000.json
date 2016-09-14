@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">جفر الأملاك</h1>\n<p class=\"arabic\">مكان بين الحيرة والكوفة كان المنذر بن ماء السماء غزا كندة فأصاب منهم وأسر اثني عشر فتى من ملوكهم فقتلوا بمكان بين الحيرة والكوفة يقال له جفر الأملاك، وكان امرؤ القيس بن حجر يومئذ معهم فهرب ولحق بإياد، فأجاره سعد بن الضباب سيد إياد، وفيه يقول امرؤ القيس :</p>\n<p class=\"arabic_poetry\">يفاكهنا سعد ويغدو لجمعنا * بمثنى الزقاق المترعات وبالجزر</p>\n<p class=\"arabic_poetry\">وتعرف فيه من أبيه شمائلا * ومن خاله ومن يزيد ومن حجر</p>",
+            "title": "جفر الأملاك",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000473-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

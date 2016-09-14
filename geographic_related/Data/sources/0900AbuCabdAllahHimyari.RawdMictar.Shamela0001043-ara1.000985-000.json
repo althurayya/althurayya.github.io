@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">طبيرة</h1>\n<p class=\"arabic\">لا أدري أهي طلبيرة بزيادة لام أو غيرها فإن كانت هي فهي مذكورة بعد.</p>",
+            "title": "طبيرة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000985-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

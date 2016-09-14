@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ماسبذان</h1>\n<p class=\"arabic\">هي أحد فروج الكوفة، وهي بالقرب من هيت.</p>\n<p class=\"arabic\">أغزاها سعد بن أبي وقاص، بأمر عمر بن الخطاب ، ضرار بن الخطاب فأخذها عنوة وتطاير أهلها إلى الجبال فدعاهم فاستجابوا له، وأقام بها حتى تحول سعد إلى الكوفة فأرسل إليه فخرج إليه، واستخلف على ماسبذان.</p>",
+            "title": "ماسبذان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001363-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

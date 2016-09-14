@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سلمية</h1>\n<p class=\"arabic\">بفتح أوله وكسر الميم وتخفيف الياء، قرية من بلاد اليمامة حسنة عامرة قد أحدقت بها حدائق النخيل، لها تمور حسنة الألوان شهية المأكل.</p>\n<p class=\"arabic\">وسلمية أيضا بلد من أعمال قنسرين بثغور الشام على طرف البادية، وهو حصن كالمدينة صغير عامر آهل، بينه وبين حمص مرحلة.</p>",
+            "title": "سلمية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000817-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

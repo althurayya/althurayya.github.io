@@ -1,0 +1,64 @@
+PROV العراق 	TYPE کورة 	REG1 الکوفة 
+PROV العراق 	TYPE کورة 	REG1 البصرة 
+PROV العراق 	TYPE کورة 	REG1 واسط 
+PROV العراق 	TYPE کورة 	REG1 بغداد 
+PROV العراق 	TYPE کورة 	REG1 حلوان 
+PROV العراق 	TYPE کورة 	REG1 سامرا 
+REG1 الکوفة 	TYPE مدینه 	STTL حمام ابن عمر 
+REG1 الکوفة 	TYPE مدینه 	STTL الجامعین 
+REG1 الکوفة 	TYPE مدینه 	STTL سورا 
+REG1 الکوفة 	TYPE مدینه 	STTL النیل 
+REG1 الکوفة 	TYPE مدینه 	STTL القادسیه 
+REG1 الکوفة 	TYPE مدینه 	STTL عین التمر 
+REG1 البصرة 	TYPE مدینة 	STTL الأبله 
+REG1 البصرة 	TYPE مدینة 	STTL شق عثمان 
+REG1 البصرة 	TYPE مدینة 	STTL زبان 
+REG1 البصرة 	TYPE مدینة 	STTL بدران 
+REG1 البصرة 	TYPE مدینة 	STTL بیان 
+REG1 البصرة 	TYPE مدینة 	STTL نهر الملک 
+REG1 البصرة 	TYPE مدینة 	STTL دبا 
+REG1 البصرة 	TYPE مدینة 	STTL نهر الأمیر 
+REG1 البصرة 	TYPE مدینة 	STTL ابو الخصیب 
+REG1 البصرة 	TYPE مدینة 	STTL سلیمانان 
+REG1 البصرة 	TYPE مدینة 	STTL عبادان 
+REG1 البصرة 	TYPE مدینة 	STTL المطوعة 
+REG1 البصرة 	TYPE مدینة 	STTL القندلة 
+REG1 البصرة 	TYPE مدینة 	STTL المفتح 
+REG1 البصرة 	TYPE مدینة 	STTL الجعفریة 
+REG1 واسط 	TYPE مدینة 	STTL فم الصلح 
+REG1 واسط 	TYPE مدینة 	STTL درمکان 
+REG1 واسط 	TYPE مدینة 	STTL قراقبه 
+REG1 واسط 	TYPE مدینة 	STTL سیادة 
+REG1 واسط 	TYPE مدینة 	STTL باذبین 
+REG1 واسط 	TYPE مدینة 	STTL السکر 
+REG1 واسط 	TYPE مدینة 	STTL الطیب 
+REG1 بغداد 	TYPE مدینة 	STTL النهروان 
+REG1 بغداد 	TYPE مدینة 	STTL بردان 
+REG1 بغداد 	TYPE مدینة 	STTL کارة 
+REG1 بغداد 	TYPE مدینة 	STTL الدسکرة 
+REG1 بغداد 	TYPE مدینة 	STTL طراستان 
+REG1 بغداد 	TYPE مدینة 	STTL هارونیة 
+REG1 حلوان 	TYPE مدینة 	STTL خانقین 
+REG1 حلوان 	TYPE مدینة 	STTL زبوجان 
+REG1 حلوان 	TYPE مدینة 	STTL شلاشلان 
+REG1 حلوان 	TYPE مدینة 	STTL الجامد 
+REG1 حلوان 	TYPE مدینة 	STTL الحر 
+REG1 حلوان 	TYPE مدینة 	STTL السیروان 
+REG1 سامرا 	TYPE مدینة 	STTL الکرخ 
+REG1 سامرا 	TYPE مدینة 	STTL عکبرا 
+REG1 سامرا 	TYPE مدینة 	STTL الدور 
+REG1 سامرا 	TYPE مدینة 	STTL الجامعین 
+REG1 سامرا 	TYPE مدینة 	STTL بت 
+REG1 سامرا 	TYPE مدینة 	STTL رذانات 
+REG1 سامرا 	TYPE مدینة 	STTL قصر الجص 
+REG1 سامرا 	TYPE مدینة 	STTL حری 
+REG1 سامرا 	TYPE مدینة 	STTL أیوانا 
+REG1 سامرا 	TYPE مدینة 	STTL بریقا 
+REG1 سامرا 	TYPE مدینة 	STTL سندیة 
+REG1 سامرا 	TYPE مدینة 	STTL راقفروبة 
+REG1 سامرا 	TYPE مدینة 	STTL دمما 
+REG1 سامرا 	TYPE مدینة 	STTL الأنبار 
+REG1 سامرا 	TYPE مدینة 	STTL هیت 
+REG1 سامرا 	TYPE مدینة 	STTL تکریت 
+REG1 سامرا 	TYPE مدینة 	STTL السن 
+

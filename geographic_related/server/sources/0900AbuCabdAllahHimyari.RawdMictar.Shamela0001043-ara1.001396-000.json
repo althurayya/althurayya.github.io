@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ثنية المرار</h1>\n<p class=\"arabic\">في حديث الحديبية أن رسول الله صلى الله عليه وسلم قال للناس: ` انزلوا `، فقيل: يا رسول الله ما بالوادي ماء ننزل عليه فأخرج رسول الله صلى الله عليه وسلم سهما من كنانته فأعطاه رجلا من أصحابه فنزل به قليبا من تلك القلب فغرز في جوفه فجاش بالارواء حتى ضرب الناس فيه بعطن.</p>",
+            "title": "ثنية المرار",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001396-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

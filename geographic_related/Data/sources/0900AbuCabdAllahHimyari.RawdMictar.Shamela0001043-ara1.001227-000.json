@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قنطرة السيف</h1>\n<p class=\"arabic\">بالأندلس، وهو حصن بينه وبين ماردة يومان، وهو حصن منيع على نهر القنطرة، وأهله متحصنون فيه، ولا يقدر لهم أحد على شيء، والقنطرة لا يأخذها القتال إلا من بابها فقط، والقنطرة هذه قنطرة عظيمة على قوس من عمل الأول في أعلاها سيف معلق لم تغيره الأزمنة ولا يدري ما تأويله.</p>",
+            "title": "قنطرة السيف",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001227-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

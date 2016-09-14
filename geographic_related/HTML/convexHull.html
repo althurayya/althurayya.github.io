@@ -1,0 +1,88 @@
+<html>
+<head>
+  <title>Convex Hulls</title>
+  <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://rawgit.com/emeeks/abcc82cc61c52fc47b19/raw/61a7ad001f0a3c4323b8b21071d2e749df367519/d3map.css">
+</head>
+<style>
+  html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  #map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .cityhull {
+    fill: purple;
+    fill-opacity: .5;
+    /*stroke: black;*/
+    stroke-width: 1px;
+  }
+  
+  .point {
+    fill: darkred;
+    stroke: black;
+    stroke-width: 1px;
+  }
+
+</style>
+<script>
+      function makeSomeMaps() {
+          map = d3.carto.map();
+
+          d3.select("#map").call(map);
+
+          wcLayer = d3.carto.layer.tile();
+          wcLayer.tileType("stamen")
+                  .path("watercolor")
+                  .label("Watercolor")
+                  .visibility(true);
+
+          csvLayer = d3.carto.layer.csv();
+          csvLayer.path("https://raw.githubusercontent.com/Masoumeh/0390.IbnAhmadMuqaddasi.AhsanTaqasim/master/Data/cornuFilteredRoutes.csv")
+                  .label("Cities")
+                  .cssClass("point")
+                  .renderMode("canvas")
+                  .markerSize(1)
+                  .x("lon")
+                  .y("lat")
+                  .on("load", makeHull)
+                  .clickableFeatures(true);
+
+          map.addCartoLayer(wcLayer)
+                  .addCartoLayer(csvLayer);
+          map.centerOn([44.361488, 33.312806], "latlong").setScale(3);
+          function makeHull() {
+              hullLayer = map.createHullLayer(csvLayer, function (d) {
+                  return d.region
+              });
+              hullLayer.markerSize(1).cssClass("cityhull")
+                      .on("load", recolorHulls)
+              map.addCartoLayer(hullLayer);
+
+              function recolorHulls() {
+                  var hullColor = d3.scale.category20b();
+                  hullLayer.g()
+                          .selectAll("path")
+                          .style("fill", function (d, i) {
+                              return hullColor(i % 20)
+                          });
+              }
+          }
+      }
+  
+</script>
+<body onload="makeSomeMaps()">
+<div id="map"></div>
+<footer>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="http://d3js.org/topojson.v1.min.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/Masoumeh/0390.IbnAhmadMuqaddasi.AhsanTaqasim/master/js/ext_lib/tile.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/emeeks/d3-carto-map/master/d3.carto.map.min.js" type="text/javascript"></script></footer>
+</body>
+</html>

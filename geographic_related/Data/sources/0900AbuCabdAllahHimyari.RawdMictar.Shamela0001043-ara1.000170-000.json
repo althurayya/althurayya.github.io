@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أشكوني</h1>\n<p class=\"arabic\">بالأندلس من كور تدمير معروف، ومن الغرائب أن من أراد أن يتخذ فيه جنانا صرف إلى الموضع العناية بالتدمين والعمارة والسقي من النهر فتنبت الأرض هناك بطبعها شجر التفاح [v.1, p.60] والكمثرى والتين والرمان وضروب الفواكه حاشا شجر التوت، من غير غراسة ولا اعتمال.</p>",
+            "title": "أشكوني",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000170-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

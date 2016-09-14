@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دير هند</h1>\n<p class=\"arabic\">بالحيرة، بنته هند بنت النعمان، وهي التي دخلت على خالد بن الوليد لما فتح الحيرة ودعت له لما برها وقضى حوائجها، فقالت: شكرتك يد افتقرت بعد غنى، ولا وصلتك يد استغنت بعد فقر، وأصاب الله بمعروفك مواضعه، ولا أزال من كريم نعمة إلا جعلك سببا لردها إليه. وقالت: هذا دعاء كنا ندعو به لأملاكنا. وقال معن بن زائدة يذكر هذا الدير وهناك كان منزله:</p>\n<p class=\"arabic_poetry\">ألا ليت شعري هل أبيتن ليلة * لدى دير هند والحبيب قريب [v.1, p.250]</p>\n<p class=\"arabic_poetry\">فتقضى لبانات وتلقى أحبة * ويورق غصن للسرور رطيب</p>",
+            "title": "دير هند",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000637-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

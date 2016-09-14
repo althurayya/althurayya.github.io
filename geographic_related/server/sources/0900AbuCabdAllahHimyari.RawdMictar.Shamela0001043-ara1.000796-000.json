@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">السرير</h1>\n<p class=\"arabic\">هي مدينة تلي اللان بعد سمندر مما يلي بلاد الخزر وأهل المدينة نصارى، وسميت بالسرير لأن ملكا من ملوك الفرس اتخذ بها لنفسه سرير ذهب يقصر الوصف عنه صنع في سنين، فهلك وتغلبت الروم على ملكه فأبقوا السرير على حاله، وملوكهم يسمون به.</p>",
+            "title": "السرير",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000796-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

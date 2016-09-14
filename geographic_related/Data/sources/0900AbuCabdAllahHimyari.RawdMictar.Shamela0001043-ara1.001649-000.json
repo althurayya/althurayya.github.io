@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">يلملم</h1>\n<p class=\"arabic\">جبل أو قرية على ليلتين من مكة من جبال تهامة، وأهله كنانة، تنحدر أوديته إلى البحر، وهو في طريق اليمن إلى مكة، وهو ميقات من حج من هناك، وماؤها من آبار وعيون.</p>",
+            "title": "يلملم",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001649-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

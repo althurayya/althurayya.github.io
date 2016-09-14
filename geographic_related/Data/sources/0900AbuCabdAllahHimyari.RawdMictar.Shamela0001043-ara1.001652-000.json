@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">يمن</h1>\n<p class=\"arabic\">بفتح أوله وثانيه، موضع قريب من مكة، قال ابن أبي ربيعة:</p>\n<p class=\"arabic_poetry\">نظرت عيني إليها نظرة * مهبط البطحاء من بطن يمن فأما اليمن البلد المعروف الذي كان لسبأ فسمي يمنا لأنه عن يمين الكعبة، كما سمي الشام شاما لأنه عن شمال الكعبة، والحجاز حجازا لأنه حاجز بينهما، وقيل سمي اليمن ليمنه والشام لشؤمه، وقيل سمي اليمن يمنا بتيمن بن قحطان.</p>\n<p class=\"arabic\">وهذا الأخير هو مراد سديف الشاعر فيما أحسب بقوله لبعض الطالبيين:</p>\n<p class=\"arabic_poetry\">لا عز ركنا نزار يوم نائبة * إن أسلموك ولا ركنا ذوي يمن</p>\n<p class=\"arabic_poetry\">قوموا بدعوته ننهض بطاعتنا * إن الخلافة فينا يا بني حسن</p>",
+            "title": "يمن",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001652-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مستغانم</h1>\n<p class=\"arabic\">مدينة بقرب نهر شلف، بينها وبين قلعة مغيلة دلول مسيرة يومين، وهي مدينة مسورة ذات عيون وبساتين وطواحن ماء، ويبذر في أرضها القطن فيجود، وهي بقرب مصب نهر شلف.</p>\n<p class=\"arabic\">وهي على البحر ولها أسواق وحمامات وجنات وبساتين ومياه كثيرة وسور على جبل مطل إلى ناحية المغرب، وهي صغيرة.</p>",
+            "title": "مستغانم",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001478-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,78 @@
+
+from networkx.readwrite import json_graph
+import io, json, csv
+import re
+import networkx as nx
+import matplotlib.pyplot as plt	
+import sys  
+#import find_notCommon_inRoutes as nc_inRoutes
+
+# Normalization function
+def normalizeArabic(text):
+    text = re.sub("[إأٱآا]", "ا", text)
+    text = re.sub("ى", "ي", text)
+    text = re.sub("ؤ", "ء", text)
+    text = re.sub("ئ", "ء", text)
+    text = re.sub("ه", "ة", text)
+    if text.startswith("ال"):
+      text = text[2:] 
+    return(text)
+
+# makes a list of sttl names
+def getSttls(fileName):
+    # list of names
+    names = list()
+    with open(fileName, "r", encoding="utf8") as f1:
+        f1 = csv.reader(f1, delimiter=',')
+        for l in f1:
+          #tmp = "-".join((l[-1][4:].strip(), l[0][4:].strip(), l[-3][4:].strip()))
+            #if tmp not in names:
+          names.append(l[-1][4:].strip())
+    return names
+
+def createGraph(fileName, notCommon):
+    #roots = set()
+    
+   G = nx.read_edgelist(fileName, delimiter=",", data=[("Meter", float)], encoding="utf8")
+   G.edges(data=True)
+   edge_labels = dict( ((u, v), d["Meter"]) for u, v, d in G.edges(data=True) )
+   #notCommons = nc_inRoutes(fileName)  
+   #pos = nx.random_layout(G)
+   #nx.draw(G, pos)
+   #nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
+   #plt.show()
+   #print(G)
+   sttls = getSttls(notCommon)
+   nc_neighbours = {}
+   for sttl in sttls:
+     for node in G.nodes():
+       if normalizeArabic(sttl) == normalizeArabic(node):
+         nc_neighbours[node] = G.neighbors(node)       
+   return nc_neighbours
+
+def neighbours_coord(fileName, routeFile, notCommonFile):
+    #roots = set()
+
+   neighbours = createGraph(fileName, routeFile, notCommonFile)
+   for neighbour in neighbours:
+     with open(fileName, "r", encoding="utf8") as jsonFile:    
+       allData = json.load(jsonFile)
+       for d in allData["data"]:
+         fName = d["arTitle"]
+         sName = d["arTitleOther"].split(",")
+         if fuzz.ratio(normalizeArabic(neighbour), normalizeArabic(fName))>= 90:
+          fWriter.writerow([sttlName, fName, "/".join(sName), d["lat"], d["lon"], d["region"], sttlReg.split('-')[1], sttlReg.split('-')[2], d["eiSearch"], d["translitTitle"], fuzz.ratio(normalizeArabic(sttlName), normalizeArabic(fName))])
+      else:
+        for n in sName:
+          n = n.strip()
+#          if name == n.strip():
+          # check if it finds similar words with arTitleOther, using fuzzywuzzy library
+          if sttlReg and fuzz.ratio(normalizeArabic(sttlName), normalizeArabic(n))>= 90:
+#          if sttlReg and normalizeArabic(sttlName) == normalizeArabic(n):
+              fWriter.writerow([sttlName, fName, n, d["lat"], d["lon"], d["region"], sttlReg.split('-')[1], sttlReg.split('-')[2], d["eiSearch"], d["translitTitle"], fuzz.ratio(normalizeArabic(sttlName), normalizeArabic(n))])
+              break
+	
+
+with open("../Data/notCommon_neighbours", 'w', encoding="utf8") as csvCoord:
+      fWriter = csv.writer(csvCoord, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+      neighbours_coord("../Data/tripleRoutes_withMeter","../Data/tripleRoutes_withMeter", "../Data/notCommon_checkAgainstCommons.txt", fWriter)

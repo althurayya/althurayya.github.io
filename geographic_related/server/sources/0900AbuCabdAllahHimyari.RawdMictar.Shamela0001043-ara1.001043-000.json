@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عرعر</h1>\n<p class=\"arabic\">واد بأرض غطفان من طريق خيبر، وعرعر أيضا قبل قو، وهو الذي ذكره امرؤ القيس في قوله :</p>\n<p class=\"arabic_poetry\">وحلت سليمى بطن قو فعرعرا *</p>",
+            "title": "عرعر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001043-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

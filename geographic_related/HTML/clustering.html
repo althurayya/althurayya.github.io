@@ -1,0 +1,117 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Quadtree-based Feature Clustering - d3.carto</title>
+    <meta charset="utf-8" />
+    <link type="text/css" rel="stylesheet" href="d3map.css" />
+    <link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/emeeks/d3-carto-map/master/examples/example.css" />
+</head>
+<style>
+    html,body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+    }
+
+    #map {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+    }
+
+    .country {
+        stroke: white;
+    }
+
+    .clustered {
+        stroke: red;
+        fill: orange;
+    }
+
+</style>
+<script>
+
+    function makeSomeMaps() {
+        pathSource = 0;
+
+        map = d3.carto.map();
+
+        d3.select("#map").call(map);
+
+        map.centerOn([-88,39],"latlong");
+        map.setScale(2);
+
+        clusterModal = d3.carto.modal();
+        clusterModal.formatter(clusterFormatter);
+
+//        wcLayer = d3.carto.layer.tile();
+//        wcLayer
+//                .tileType("stamen")
+//                .path("watercolor")
+//                .label("Watercolor")
+//                .visibility(true);
+
+        regionLayer = d3.carto.layer.geojson();
+        regionLayer
+                .path("../Data/cornuGeoJSON.geojson")
+                .label("Countries")
+                .cssClass("country")
+                .renderMode("svg")
+                .on("recluster", recolorClusters)
+                .cluster(true);
+
+        map.addCartoLayer(regionLayer);
+
+        map.refresh();
+
+        function recolorClusters() {
+
+            regionLayer.clusterLayer()
+                    .clickableFeatures(true)
+                    .modal(clusterModal);
+
+            var clusterColor = d3.scale.category20b();
+
+            regionLayer.clusterLayer().g()
+                    .selectAll("path")
+                    .style("fill", function(d,i) {return clusterColor(i%20)})
+                    .style("stroke", function(d,i) {return d3.rgb(clusterColor(i%20)).darker()})
+        }
+
+        function clusterFormatter(d) {
+            var content = "";
+            if (d.properties.node) {
+                var content = "<h1>Clustered Region</h1><p> ("+d.properties.node._d3MapQuad.size + " Countries)</p>"
+
+            }
+            else {
+                content = "<h1>Country</h1><p>Name: " + d.properties.topType + "</p>"
+            }
+            return content;
+        }
+
+    }
+
+
+
+
+</script>
+<body onload="makeSomeMaps()">
+<div id="map">
+</div>
+<footer>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="http://d3js.org/topojson.v1.min.js" type="text/javascript">
+    </script>
+    <script src="http://d3js.org/d3.geo.projection.v0.min.js" type="text/javascript">
+    </script>
+    <script src="http://bl.ocks.org/emeeks/raw/f3105fda25ff785dc5ed/tile.js" type="text/javascript">
+    </script>
+    <script src="http://bl.ocks.org/emeeks/raw/f3105fda25ff785dc5ed/d3.quadtiles.js" type="text/javascript">
+    </script>
+    <script src="http://bl.ocks.org/emeeks/raw/f3105fda25ff785dc5ed/d3.geo.raster.js" type="text/javascript">
+    </script>
+    <script src="https://rawgit.com/emeeks/d3-carto-map/master/d3.carto.map.js" type="text/javascript">
+    </script>
+</footer>
+</body>
+</html>

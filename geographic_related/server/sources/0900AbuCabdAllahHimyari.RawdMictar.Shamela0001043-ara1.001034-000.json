@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عبقر</h1>\n<p class=\"arabic\">موضع بالبادية كثير الجن، قاله الخليل، يقال في [v.1, p.407] المثل: كأنهم جن عبقر وقال الشاعر :</p>\n<p class=\"arabic_poetry\">بخيل عليها جنة عبقرية * جديرون يوما أن ينالوا فيستعلوا وقال غيره: عبقر بلد من بلاد اليمن، قال امرؤ القيس :</p>\n<p class=\"arabic_poetry\">كان صليل المرو حين تشذه * صليل زيوف ينتقدن بعبقرا وقيل: بل عبقر موضع توشى فيه الثياب. وهي أجود الثياب، وكلما بالغوا في نعت شيء نسبوه إليه، وقال المفسرون: إن العبقري غاية كل شيء، قال تعالى ` وعبقري حسان ` وأوضح معنى هذا المعري في قوله :</p>\n<p class=\"arabic_poetry\">وقد كان أرباب الفصاحة كلما * رأوا حسنا عدوه من صنعة الجن</p>",
+            "title": "عبقر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001034-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

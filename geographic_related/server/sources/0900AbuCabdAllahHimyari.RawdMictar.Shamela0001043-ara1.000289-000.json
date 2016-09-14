@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بشام</h1>\n<p class=\"arabic\">مدينة باليمن تخرح من ذمار على قرى متصلة حتى تأتي مدينة بشام وهي المنزل، وهي مدينة طيبة بها بيوت منقورة في صخرة طويلة طولها ثلثمائة ذراع في مثلها ثم تخرج منها فتنزل واديا يقال له علان تقطعه حتى تأتي الجند.</p>",
+            "title": "بشام",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000289-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

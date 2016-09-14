@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الموجه</h1>\n<p class=\"arabic\">في بحر دارلارومي فيها عدة ملوك بيض يشبهون أهل الصين في الزي، لهم خيل يقاتلون عليها ملوكا حولهم، وتتصل هذه الجزيرة بمشارق الشمس، وتوجد عندهم دابة المسك ودابة الزباد، ونساؤهم من أجمل نساء الأمم، ولهم شعور طوال، والنساء لا يستترن ويمشين مكشوفات الرؤوس، ويكللن رؤوسهن بعصائب فيها أنواع من الودع الملون والأصداف المجزعة.</p>",
+            "title": "الموجه",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001502-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

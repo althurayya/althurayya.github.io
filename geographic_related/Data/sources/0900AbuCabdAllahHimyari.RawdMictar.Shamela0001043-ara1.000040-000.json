@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أبين</h1>\n<p class=\"arabic\">باليمن، قيل فيه بكسر الألف وفتحها، وهو اسم رجل في الزمن القديم إليه تنسب عدن أبين من بلاد اليمن وبينها وبين عدن اثنا عشر ميلا. وفي كلام شق في تفسير رؤيا ربيعة بن نصر: أحلف بما بين الحرتين من إنسان لينزلن أرضكم السودان فليغلبن على كل طفلة البنان وليملكن ما بين أبين إلى نجران، إلى آخر أسجاعه.</p>",
+            "title": "أبين",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000040-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

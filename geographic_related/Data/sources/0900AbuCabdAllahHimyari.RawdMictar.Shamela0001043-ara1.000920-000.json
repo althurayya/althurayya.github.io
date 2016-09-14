@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">صرواح</h1>\n<p class=\"arabic\">مدينة باليمن بقرب صنعاء، وهي خراب، كانت لعمرو بن عامر مزيقيا صاحب سد مأرب وبناؤها كلها من رخام، وباقية أهلها يزعمون أنها بنيت في عشية واحدة، وفي كلام لحمير: بنينا صرواح ومرواح.</p>\n<p class=\"arabic\">وقيل : إن سليمان عليه السلام كان أمر الجن أن تبنيه لبلقيس وفيه كانت مملكة خولان.</p>",
+            "title": "صرواح",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000920-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تيكلات</h1>\n<p class=\"arabic\">حصن هو ثاني مرحلة للخارج من بجاية وبه المنزل، وهو حصن منيع على شرف مطل على وادي بجاية، وبه سوق قائمة وفواكه ولحوم كثيرة رخيصة، وبحصن تيكلات قصور حسان وجنات ليحيى بن العزيز.</p>",
+            "title": "تيكلات",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000397-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تارنانا</h1>\n<p class=\"arabic\">مدينة بالمغرب قريبة من ندرومة كبيرة مسورة على ساحل البحر كانت محطا للسفن ومقصدا لقوافل سجلماسة وغيرها، وكان سكانها من قبائل البربر مطغرة وهم أعدل من هناك من البربر، وعلى هذا الساحل مدن كثيرة قد خربت وكانت في سالف الدهر آهلة كثيرة الخصب.</p>",
+            "title": "تارنانا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000333-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">انكمرده</h1>\n<p class=\"arabic\">مدينة من أرض الهند أو الصين من دخلها من المسافرين استوطنها ولم يرد الخروج منها لطيب ثراها وكثرة [v.1, p.37] خيرها، والذهب بها كثير جدا حتى أن أهلها يتخذون سلاسل كلابهم وأطواق قرودهم من الذهب وفي جزائر الواق واق مثل ذلك، والتجار يرحلون إليها ويسبكون الذهب فيها ويخرجونه من هناك مسبوكا.</p>",
+            "title": "انكمرده",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000113-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

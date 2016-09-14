@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">رضوى</h1>\n<p class=\"arabic_poetry\">جبل ضخم من جبال تهامة وهو من ينبع على يوم ومن المدينة على تسع مراحل ميامنة طريق المدينة وعلى ليلتين من البحر وبقرب خيبر، وهو جبل منيف ذو شعاب وأودية ورأسه من ينابيع الماء كخضرة البقل، وغلاة الشيعة تزعم أن محمد بن الحنفية لم يمت وأنه حي بجبل رضوى، وفي ذلك يقول السيد الحميري في كلمة له: [v.1, p.269] وما ذاق ابن خولة طعم موت * ولا وارت له أرض عظاما</p>\n<p class=\"arabic_poetry\">لقد أمسى بمورق شعب رضوى * تراجعه الملائكة السلاما</p>\n<p class=\"arabic_poetry\">وإن له لرزقا من طعام * وأشربة يعل بها الطعاما</p>",
+            "title": "رضوى",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000696-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

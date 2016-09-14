@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">نجد</h1>\n<p class=\"arabic\">ما بين الحجاز إلى الشام إلى العذيب، فالطائف من نجد، والمدينة من نجد، وأرض اليمامة والبحرين إلى عمان إلى العروض، وقد أنجد الرجل إذا أتى نجدا كما يقال: أعرق وأشأم، والشيخ النجدي الذي حضر قريشا بدار الندوة ليتشاوروا في شأن رسول الله صلى الله عليه وسلم يراد به إبليس اللعين. [v.1, p.572]</p>",
+            "title": "نجد",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001520-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

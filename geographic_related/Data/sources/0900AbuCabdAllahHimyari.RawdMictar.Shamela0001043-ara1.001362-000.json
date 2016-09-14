@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">المايد</h1>\n<p class=\"arabic\">جزيرة فيها عدة مدن، وهي على رأس البحر إلى جهة الصين، وأهلها أشبه بأهل الصين من غيرهم، ولملوكها عبيد وخصيان حسان وخدم بيض، وجزيرتهم تتصل بأرض الصين، وهم يراسلون ملك الصين ويهادونه، وبهذه الجزيرة تجتمع مراكب الصينيين الخارجة من جزائر الصين، وإليها تبلغ، ومنها تخرج إلى سائر النواحي.</p>",
+            "title": "المايد",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001362-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

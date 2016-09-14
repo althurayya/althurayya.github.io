@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">القف</h1>\n<p class=\"arabic\">واد من أودية المدينة، وكان رجل من الأنصار يصلي في حائط له بالقف في زمان التمر والنخل قد ذللت قطوفه بثمرها، فنظر فأعجبه ما رأى من ثمرها، ثم رجع إلى صلاته فإذا هو لا يدري كم صلى، فقال: لقد أصابني في مالي هذا فتنة، فجاء إلى عثمان بن عفان رضي الله عنه، وهو يومئذ خليفة، فذكر له ذلك وقال إنه صدقة فاجعله في سبيل الخير، فباعه عثمان رضي الله عنه بخمسين ألفا، فسمي ذلك المال الخمسين.</p>",
+            "title": "القف",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001243-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

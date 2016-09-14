@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الجرزبان</h1>\n<p class=\"arabic\">من مدن الجوزجان، وهي بين جبلين أشبه بلد بمكة شرفها الله تعالى وأعزها، وشعابها كشعابها، ومزارعها [v.1, p.180] قليلة وبساتينها مثل ذلك، وبها مياه جارية وعيون مطردة، وتجلب منها الجلود المدبوغة التي يتجهز بها إلى سائر بلاد خراسان.</p>",
+            "title": "الجرزبان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000480-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

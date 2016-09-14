@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قلورية</h1>\n<p class=\"arabic\">مدينة بجزيرة صقلية كان إبراهيم بن أحمد بن الأغلب صاحب القيروان وأعمالها غزا صقلية بنفسه وفتح فيها مدنا [v.1, p.470] منها طبرمين، وحاصر قلورية هذه فقتل وسبى، فهربوا منه ثم مضى إلى كشنته ، فلم يزل يتعرف الفتح والنصر حتى عرض له المرض الذي مات منه، فحمل إلى مدينة بلرم فدفن بها.</p>",
+            "title": "قلورية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001217-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تماجر</h1>\n<p class=\"arabic\">بين القيروان والمهدية من القيروان إليها مرحلة، وتماجر كبيرة آهلة بها جامع وأسواق وفنادق وحمام وماؤها زعاق، وفي وسطها غدير ماء وحولها غابة زيتون وأعناب، وبين تماجر والمهدية الوادي المالح الذي كانت فيه الوقيعة المشهورة بين أبي يزيد وأبي القاسم قتل فيها من أصحاب أبي القاسم عدد لا يحصى، وهي مدينة كبيرة قديمة. [v.1, p.136]</p>",
+            "title": "تماجر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000370-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

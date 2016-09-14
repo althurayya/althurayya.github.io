@@ -1,0 +1,232 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+path,circle,rect,polygon,ellipse,line {
+    vector-effect: non-scaling-stroke;
+}
+
+svg, canvas {
+    top: 0;
+}
+
+#geoMap {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.controlsDiv {
+    background: #B1CA8D/*rgba(65,64,66,.85)*/;
+    position: fixed;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 78;
+}
+
+#controlbar {
+    top: 68px;
+    left: 15px;
+    width: 320px;
+    padding:0px 10px 20px;
+    z-index: 78;
+}
+
+#controlbarScroller {
+    height:100%;
+    width:100%;
+    overflow:auto;
+    height: 511px;
+}
+
+.tab {
+    position: absolute;
+    z-index: 1;
+    top: -29px;
+    background: #B1CA8D; /*rgb(65,64,66);*/
+    opacity: .85;
+    padding: 5px;
+    border-bottom: none;
+    color: #28671C;
+    text-align: center;
+    font-weight: 700;
+}
+
+.backtab {
+    background: #339933;
+    opacity: .85;
+    border-bottom: solid #428934 1px; /*solid #747271 1px;*/
+    padding-top: 4px;
+    color: white;
+}
+
+/*.backtab:hover {*/
+    /*opacity: 1;*/
+    /*background: black;*/
+    /*cursor: pointer;*/
+/*}*/
+
+.buttonContainer {
+    width: 100%;
+    margin-top:10px;
+    float: left;
+    position: relative;
+}
+
+#routeDiv {
+    display:none;
+    margin-bottom:10px;
+    padding: 5px 10px;
+    background: white;height:23px;
+}
+
+#person {
+    position:absolute;
+    left:0px;
+    width:100px;
+}
+
+#network {
+    position:absolute;
+    left:110px;
+    width:110px;
+    border-right: solid #428934 1px;
+    border-left: solid #428934 1px;
+}
+
+#route {
+    position:absolute;
+    left:232px;
+    width:98px;
+}
+
+.rightarrow:after {
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 2px;
+    top: 40%;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid #e6e7e8;
+}
+
+#closeLeft {
+    top: 40px;
+    left: 0;
+    background: #4C6447; /*rgba(65,64,66,.85);*/
+    border-right: 1px solid #4C6447; /*rgba(35,31,32,.85);*/
+    bottom:21px;
+    position: fixed;
+    z-index: 10;
+    width: 15px;
+    cursor: pointer;
+}
+
+.leftarrow:after {
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 2px;
+    top: 40%;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid #e6e7e8;
+}
+
+#closeRight {
+    top: 120px;
+    right: 0;
+    background: #4C6447;/*rgba(65,64,66,.85);*/
+    border-left: 1px solid #4C6447; /*rgba(35,31,32,.85);*/
+    bottom:21px;
+    position: fixed;
+    z-index: 10;
+    width: 15px;
+    cursor: pointer;
+}
+
+#rightControls {
+    padding: 0 10px 10px;
+    top: 120px;
+    right: 15px;
+    width: 120px;
+    overflow:auto;
+}
+
+.controlsDiv {
+    background: #4C6447;/*rgba(65,64,66,.85);*/
+    position: fixed;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.buttonContainer {
+    width: 100%;
+    margin-top:10px;
+    float: left;
+    position: relative;
+}
+
+#displayOptionsContainer {
+    background: white;
+    overflow: auto;
+    height: auto;
+    padding: 5px;
+    width: auto;
+}
+
+.checkBoxSelect
+{
+    font-size: 16px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.checkboxDiv
+{
+    display: inline-block;
+}
+
+.radio-radio {
+    display:none;
+}
+.radio-radio + label {
+    display:inline-block;
+    width:15px;
+    height:15px;
+    margin:-1px 5px 0 0;
+    vertical-align:middle;
+    background:url(radio_sheet.png) left top no-repeat;
+    cursor:pointer;
+}
+.radio-radio:checked + label {
+    background:url(radio_sheet.png) -15px top no-repeat;
+}
+
+.radio-radio + label:hover {
+    background:url(radio_sheet.png) -30px top no-repeat;
+}
+.radio-radio:checked + label:hover {
+    background:url(radio_sheet.png) -45px top no-repeat;
+}
+
+#networkStart {
+    width: 200px;
+}
+
+.zone1-node {
+    fill: #31a354;
+}
+.zone2-node {
+    fill: #FFD62E;
+}
+.zone3-node {
+    fill: #FF9500;
+}
+.zone4-node {
+    fill: #E80909;
+}
+.zone5-node {
+    fill: #000;
+}

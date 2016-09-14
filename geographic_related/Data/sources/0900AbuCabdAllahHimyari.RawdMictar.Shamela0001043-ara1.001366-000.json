@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الماصر</h1>\n<p class=\"arabic\">ربض من أرباض بغداد، ومما حفظ من شعر محمد الأمين عند اشتداد الحصر عليه:</p>\n<p class=\"arabic_poetry\">يا فضل قد حاصرني طاهر * إني على ما نابني صابر [v.1, p.519]</p>\n<p class=\"arabic_poetry\">لم يبق من ملكي إلا الذي * تراه والجسران والماصر</p>",
+            "title": "الماصر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001366-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

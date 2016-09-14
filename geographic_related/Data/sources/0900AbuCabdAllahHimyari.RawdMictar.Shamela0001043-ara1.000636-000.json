@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دير مران</h1>\n<p class=\"arabic\">بنواحي الشام، على قلعة مشرفة على مزارع زعفران ورياض حسنة، نزله الرشيد وشرب فيه ومعه الحسين بن الضحاك، فقال الحسين:</p>\n<p class=\"arabic_poetry\">يا دير مران لا عريت من سكن * قد هجت أشجاننا يا دير مرانا</p>\n<p class=\"arabic_poetry\">هل عند قسك من علم فيخبرني * أم كيف يسعد وجه الصبر من بانا</p>\n<p class=\"arabic_poetry\">حث المدام، فإن الكأس مترعة * مما يهيج دواعي الشوق أحيانا</p>",
+            "title": "دير مران",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000636-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

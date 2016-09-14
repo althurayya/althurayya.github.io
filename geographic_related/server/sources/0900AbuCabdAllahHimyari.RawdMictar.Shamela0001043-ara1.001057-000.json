@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عمان</h1>\n<p class=\"arabic\">بفتح أوله وتشديد الميم، قرية من عمل دمشق سميت بعمان بن لوط عليه السلام.</p>\n<p class=\"arabic\">وعمان أيضا في مفازة سمرقند خربت في الزمن القديم وهي مفتوحة العين مشددة الميم، ولبعضهم:</p>\n<p class=\"arabic\">أين عمان من قصور عمان</p>",
+            "title": "عمان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001057-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

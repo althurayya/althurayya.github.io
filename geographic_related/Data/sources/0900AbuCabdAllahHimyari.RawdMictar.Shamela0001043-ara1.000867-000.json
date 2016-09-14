@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">شاوة</h1>\n<p class=\"arabic\">جزيرة بقرب البحر الكبير المحيط بالجهة الغربية من كرة الأرض، يقال: إن ذا القرنين نزلها قبل أن تدخلها الظلمة وبات بها، وكانوا يرمون بالحجارة، وأوذي بذلك جماعة من أصحابه.</p>",
+            "title": "شاوة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000867-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

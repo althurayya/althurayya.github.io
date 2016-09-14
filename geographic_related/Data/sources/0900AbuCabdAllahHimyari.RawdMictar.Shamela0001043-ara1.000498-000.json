@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">حامد</h1>\n<p class=\"arabic\">جبل حامد بجزيرة صقلية بينه وبين طرابنش نحو عشرة أميال، وهو جبل عظيم شامخ الذروة عالي القنة حصين منيع، وفي أعلاه أرض سهلة للزراعة، ومياهه كثيرة، والصعود إليه هو من إحدى جهاته، وهم يرون أن منه يكون فتح هذه الجزيرة ولا يتركون مسلما يصعد إليه، ولذلك أعدوا فيه ذلك المعقل فلو أحسوا بحادثة حملوا حريمهم فيه وقطعوا القنطرة.</p>",
+            "title": "حامد",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000498-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

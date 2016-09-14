@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الناشيان</h1>\n<p class=\"arabic\">من كور الأهواز على مرحلتين من مدينة الدورق، وهي عامرة بأهلها وبها أخلاط من الناس، وهي متوسطة الكبر يشقها نهر صغير، وهي حسنة من داخلها وخارجها.</p>",
+            "title": "الناشيان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001514-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

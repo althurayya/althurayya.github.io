@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عارم</h1>\n<p class=\"arabic\">حبس بمكة وهو مظلم، كان عبد الله بن الزبير رضي الله عنهما حبس فيه الحسن بن محمد بن الحنفية وأراد قتله فأعمل الحيلة حتى تخلص من هذا السجن واعتسف الطريق على الجبال حتى أتى منى، وبها أبوه محمد بن الحنفية، ففي ذلك يقول كثير :</p>\n<p class=\"arabic_poetry\">تخبر من لاقيت أنك عائذ * بل العائذ المظلوم في سجن عارم</p>\n<p class=\"arabic_poetry\">ومن ير هذا الشيخ بالخيف من منى * من الناس يعلم أنه غير ظالم</p>\n<p class=\"arabic_poetry\">سمي رسول الله وابن وصيه * وفكاك أغلال وقاضي مغارم</p>",
+            "title": "عارم",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001031-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

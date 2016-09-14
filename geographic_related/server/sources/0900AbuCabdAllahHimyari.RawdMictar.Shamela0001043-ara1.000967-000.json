@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">طاب</h1>\n<p class=\"arabic\">نهر طاب يجري في جنوب خوزستان وهذا الحد المميز بين خوزستان وفارس، وجميع مياه خوزستان كلها تتألف وتصب في البحر وأرضها كلها رمل وسهول وليس فيها من الجبال إلا ما كان بنواحي تستر.</p>",
+            "title": "طاب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000967-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

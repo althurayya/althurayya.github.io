@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بيكند</h1>\n<p class=\"arabic\">هي أدنى مدن بخارى إلى النهر، ومنها إلى حائط بخارى فرسخان، وهو الحائط المضروب على جميع عمران بخارى، وافتتحها قتيبة بن مسلم سنة سبع وثمانين، وهو حصن حصين مشبه بالأسوار، وفيها مسجد جامع وبيت نار للمجوس يذكرون أن افريدون بناه، وخارج الحصن سبعمائة رباط.</p>",
+            "title": "بيكند",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000325-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

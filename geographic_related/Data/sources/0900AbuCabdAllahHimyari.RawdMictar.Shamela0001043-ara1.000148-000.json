@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أقش</h1>\n<p class=\"arabic\">مدينة هي كانت قاعدة الجليقيين بينها وبين ليوزذال ثلاثون ميلا، وكانت أقش قبل هذا منسوبة إلى غرسية بن لب، وهي مبنية بالصخر المربع الكبير، وهي على نهر كبير يدخل منه المجوس بمراكبهم إليهم، وفي المدينة حمة غزيرة الماء واسعة الفضاء يستحم أهلها في جنباتها على بعد من عنصرها لشدة سخونته.</p>",
+            "title": "أقش",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000148-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

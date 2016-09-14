@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">زغاوة</h1>\n<p class=\"arabic\">من بلاد السودان، بينها وبين أنجيمي ستة أيام، وزغاوة مجتمعة الكور كثيرة البشر، شرب أهلها من الآبار، ولهم تجارات يسيرة وبضائع يتعاملون بها، وأكلهم الذرة ولحوم الجمال المقددة والحوت المصبر، والألبان عندهم كثيرة، ولباسهم الجلود المدبوغة يستترون بها، وهم أكثر السودان حزنا ، وفي مانان يسكن أمير زغاوة وعاملها.</p>",
+            "title": "زغاوة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000755-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

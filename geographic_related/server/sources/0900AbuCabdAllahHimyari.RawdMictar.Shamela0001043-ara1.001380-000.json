@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مجدول</h1>\n<p class=\"arabic_poetry\">موضع على نحو عشرين ميلا من القيروان كانت فيه وقيعة بين يحيى بن إسحاق الميورقي وبين صاحب تونس يومئذ السيد أبي زيد بن أبي العلا ادريس من بني عبد المؤمن فانهزم يحيى ورجع السيد ظافرا، وفي ذلك يقول عثمان بن عتيق المهدوي: [v.1, p.524] لقد أيد الله المقام المكرما * وسنى له الصنعين فتحا ومغنما</p>",
+            "title": "مجدول",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001380-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">غزة</h1>\n<p class=\"arabic\">موضع بديار جذام من مشارف الشام على ساحل البحر، وبها قبر هاشم بن عبد مناف، وفيه يقول الشاعر يرثيه:</p>\n<p class=\"arabic_poetry\">ميت بردمان وميت بسل * مان وميت عند غزات</p>",
+            "title": "غزة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001103-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

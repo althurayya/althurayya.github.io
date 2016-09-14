@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الكرخ</h1>\n<p class=\"arabic\">بتسكين الراء وبالخاء المعجمة من فوق، ببغداد، [v.1, p.490] وهو اسم نبطي، وهو مدينة صغيرة عامرة بشرقي دجلة، وهي في الجانب الغربي من بغداد، ومعروف الكرخي الزاهد من هذا الموضع قالوا: الكرخ هو السوق العظمى مادة من قصر وضاح إلى سوق الثلاثاء طولا مقدار فرسخين، ومن قطيعة الربيع إلى دجلة عرضها مقدار فرسخين .</p>\n<p class=\"arabic\">والكرخ أيضا بسر من رأى، ويمكن أن يكون سمي بكرخ بغداد، ولأحمد بن محمد بن الوكيل الكرخي:</p>\n<p class=\"arabic_poetry\">كد كد العبد إن أحبب * ت أن تحسب حرا</p>\n<p class=\"arabic_poetry\">واقطع الآمال عن وص * ل بني آدم طرا</p>\n<p class=\"arabic_poetry\">لا تقل ذا مكسب يز * ري ففضل الناس أزرى</p>\n<p class=\"arabic_poetry\">أنت ما استغنيت عن مث * لك أعلى الناس قدرا</p>",
+            "title": "الكرخ",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001279-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

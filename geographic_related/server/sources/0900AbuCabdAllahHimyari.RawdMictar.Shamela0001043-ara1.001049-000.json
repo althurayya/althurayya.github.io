@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">العروسان</h1>\n<p class=\"arabic\">قصر بقابس من إفريقية مشهور، بناه بنو رشيد ابن جامع من العرب الذين وجههم العبيديون إلى إفريقية للإفساد على المعز بن باديس وكان لهم ذكر في صنهاجة، وهم من بني قرة بن هلال بن عامر.</p>",
+            "title": "العروسان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001049-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

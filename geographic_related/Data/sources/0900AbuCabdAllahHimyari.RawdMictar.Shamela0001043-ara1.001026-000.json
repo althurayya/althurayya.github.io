@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">عاص</h1>\n<p class=\"arabic\">منقوص مثل قاض واد بين مكة والمدينة، قال عبد بن حبيب:</p>\n<p class=\"arabic_poetry\">قتلناهم بقتلى أهل عاص * وقتلى منهم مرد وشيب والعاصي : أيضا اسم نهر انطاكية وقيل نهر حماة بالشام من عمل حمص، وهو نهر عظيم عليه جسور يعبر عليها وعلى هذا النهر نواعير كثيرة تخرج الماء إلى ما على جانبيه من المدينة، وهو الذي يقول فيه صلاح الدين بن أيوب:</p>\n<p class=\"arabic_poetry\">ولما جرى العاصي وطيع أدمعي * مع الماء قال الناس أيهما النهر فقيل له:</p>\n<p class=\"arabic_poetry\">ولما جرى جود ابن أيوب مقبلا * مع البحر قال الناس أيهما البحر</p>",
+            "title": "عاص",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001026-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

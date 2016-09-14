@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الطبسان</h1>\n<p class=\"arabic\">من كرمان، فتحها عبد الله بن بديل بن ورقاء الخزاعي في خلافة عمر رضي الله عنه بعد فتحه لكرمان، كذا ذكر المدائني، ثم قدم على عمر رضي الله عنه فقال: يا أمير المؤمنين إني افتتحت الطبسين فأقطعنيها فأراد أن يفعل، فقيل لعمر رضي الله عنه: إنها رستاقان عظيمان فلم يعطهما إياه، وهما بابا خراسان.</p>",
+            "title": "الطبسان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000982-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

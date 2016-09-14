@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">المطيرة</h1>\n<p class=\"arabic\">قرية بقرب بغداد نزلها المعتصم حين خرج من بغداد مرتادا إنشاء مدينة بسبب تضييق الأتراك على أهل بغداد، فبنى سر من رأى، وحين بناها أقطع الأفشين خيذر بن كاوس الأسروشني في آخر البناء مشرقا على مقدار فرسخين، وسمى الموضع المطيرة.</p>",
+            "title": "المطيرة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001425-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

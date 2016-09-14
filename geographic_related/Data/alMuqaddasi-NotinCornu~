@@ -1,0 +1,28 @@
+PROV الجبال ,TYPE كورة ,REG1 الري ,TYPE مدينة ,STTL آوه 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL آوه 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL سبه 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL وبه 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL سيراوند 
+PROV الجبال ,TYPE كورة ,REG1 أصفهان ,TYPE قصبة ,STTL اليهودية 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL دبقو ؟؟؟ البدقون
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدینة ,STTL بریم
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE  مدينة ,STTL محلة كرمين
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL المحلة الكبيرة
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سندفا
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL بورة
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL دقهلة
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة زيد
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة حفص
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة زياد
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سنهور الصغرى
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL بريس => dotless "ی"? should be changed in tagged vaersion? EN translation writes Baris
+PROV مصر ,TYPE کورة ,REG1 مقدونية ,TYPE مدينة ,STTL العزيزية
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL علاقى -> maybe علقي؟؟؟؟
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL اجمع
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL بهنسة
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL تلعفر
+PROV العراق ,TYPE کورة ,REG1 الکوفة ,TYPE مدينه ,STTL سورا, CRNU جسر سورا/نهر سورا
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL شق عثمان 
+PROV العراق ,TYPE کورة ,RE G1 البصرة ,TYPE مدينة ,STTL زبان 
+
+

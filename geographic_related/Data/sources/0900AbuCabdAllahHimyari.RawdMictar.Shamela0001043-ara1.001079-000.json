@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">العونيد</h1>\n<p class=\"arabic\">مدينة قريبة من نصف الطريق من جدة إلى القلزم، وهناك يطلب الملاحون البشارة من الحاج، ومدينة العونيد مسورة صغيرة أهلها أجهل خلق الله تعالى، والفواجر يتحاكمن إلى الوالي</p>\n<p class=\"arabic\">فيحكم لهن، ولا يتمسكون من الإسلام إلا بالشهادة.</p>\n<p class=\"arabic\">وهي قريبة من مرسى ضبا، ويبدو عند الجزر أثر قدم من أوسط الأقدام بنسبة الكعب والأخمص والصدر والأصابع لم يعفها الزمان ولا محاها كرور الماء عليها.</p>",
+            "title": "العونيد",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001079-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

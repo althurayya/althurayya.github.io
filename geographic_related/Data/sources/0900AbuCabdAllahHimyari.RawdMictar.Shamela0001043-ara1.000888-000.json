@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">شنت زلايه</h1>\n<p class=\"arabic\">مدينة أو قرية بالأندلس على طريق قلشانة وهي عن يمين الطريق، وناقوسها ملقى في الأرض لا حارس له ولا رقبة عليه، ويزعم أهلها أنه معقود ممنوع من جميع الناس وأن من أخذه لا يمكنه الخروج به من القرية وإن خصيتي من أخذه تنتفخ ويشتد وجعها حتى يصرفه إلى موضعه، هذا عندهم صحيح لا يشكون فيه. [v.1, p.347]</p>",
+            "title": "شنت زلايه",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000888-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

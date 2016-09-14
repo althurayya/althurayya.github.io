@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الكرك</h1>\n<p class=\"arabic\">حصن مشهور بناحية الشام ومعقل مشهور.</p>\n<p class=\"arabic\">وحكي أن السلطان العادل سيف الدين أبا بكر محمد بن أيوب، أخا صلاح الدين، سمعه مسخرة له يقال له خضير يقول في وضوئه: اللهم حاسبني حسابا يسيرا ولا تحاسبني حسابا عسيرا، فقال: يا خوند على أي شيء يحاسبك حسابا يسيرا؟ لو قال لك أين أموال الخلق التي أخذتها؟ قل له: تراها بأمانتها في الكرك ما أخرجت منها شيئا، وكان خزائن أمواله بهذا المعقل.</p>",
+            "title": "الكرك",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001285-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

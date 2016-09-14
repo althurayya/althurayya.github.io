@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قرقنة</h1>\n<p class=\"arabic\">جزيرة في البحر وسطا بين قصر زياد وصفاقص، وهي جزيرة حسنة عامرة بأهلها وليس بها مدينة، إنما يسكنها أهلها في أخصاص، وهي حصينة كثيرة الكروم والأعناب وغلات الكمون والأنيسون وتغلب عليها طاغية صقلية سنة ثمان وأربعين وخمسمائة. وفي الطرف الغربي منها كهوف وغيران يتحصنون فيها ممن يريدهم، وطول هذه الجزيرة ستة عشر ميلا وعرضها ستة أميال.</p>",
+            "title": "قرقنة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001189-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

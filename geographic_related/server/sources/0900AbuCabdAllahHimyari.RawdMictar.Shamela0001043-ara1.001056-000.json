@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">علقمة</h1>\n<p class=\"arabic\">بلدة بجزيرة صقلية كبيرة منيعة فيها السوق والمساجد وسكانها مسلمون.</p>\n<p class=\"arabic\">عم :</p>\n<p class=\"arabic\">قرية بالشام ما بين حلب وأنطاكية، وإليها ينسب عكاشة العمي ، وقيل | عم: مخلاف من مخاليف مكة.</p>",
+            "title": "علقمة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001056-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

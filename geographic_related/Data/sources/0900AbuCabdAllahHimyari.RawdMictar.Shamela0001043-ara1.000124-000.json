@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">انمو</h1>\n<p class=\"arabic\">هي مدينة الملك بالصين وبينها وبين ساحل البحر الحبشي مسيرة ثلاثة أشهر، وقيل بل مدينة الصين العظمى التي ينزلها ملكهم تسمى جمدان، وهي مذكورة في حرف الجيم، ولما سار الجمهور من ولد عامور على ساحل البحر الحبشي حتى انتهوا إلى أقاصيه من بلاد الصين تفرقوا في تلك الجهات وقطنوا تلك الديار وعمروها ومصروا الأمصار واتخذوا للملك مدينة انمو.</p>",
+            "title": "انمو",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000124-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دنهاجة</h1>\n<p class=\"arabic\">من بلاد المغرب بالقرب من البصرة المعروفة بالحمراء، وهو على تل يعرف بقصر عبد الكريم، وكان من أشياخ كتامة القاطنين هناك، رأس واستوطن ذلك الموضع، وكانت فيه آثار قديمة، فبنى فيه دارا سميت قصرا لعدم القصور بتلك الجهة.</p>",
+            "title": "دنهاجة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000616-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

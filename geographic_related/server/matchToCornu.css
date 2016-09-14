@@ -1,0 +1,66 @@
+
+
+#geoMap {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 0;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.cityhull {
+    fill: purple;
+    fill-opacity: .5;
+    /*stroke: black;*/
+    stroke-width: 1px;
+}
+
+.point {
+    fill: darkred;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+
+.buttonContainer {
+    width: 100%;
+    margin-top:10px;
+    float: left;
+    position: relative;
+}
+
+#displayOptionsContainer {
+    background: white;
+    overflow: auto;
+    height: auto;
+    padding: 5px;
+    width: auto;
+}
+
+
+#rightControls {
+    padding: 0 10px 10px;
+    top: 120px;
+    right: 15px;
+    width: 120px;
+    overflow:auto;
+    z-index: 100;
+}
+
+.controlsDiv {
+    background: #4C6447;/*rgba(65,64,66,.85);*/
+    position: fixed;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

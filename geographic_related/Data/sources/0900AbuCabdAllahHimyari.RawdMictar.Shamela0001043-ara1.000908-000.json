@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الصالحة</h1>\n<p class=\"arabic\">كان يعقوب بن يوسف بن عبد المؤمن ملك المغرب الملقب بالمنصور أمر باختطاط المدينة الصالحة في بلاد المغرب، وشرع في بنائها وأجرى وسطها الماء العذب إلى أن كمل أمرها.</p>",
+            "title": "الصالحة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000908-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

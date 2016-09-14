@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مطماطة أمسكور</h1>\n<p class=\"arabic\">مدينة بالقرب من مدينة فاس بالمغرب على نهر ملوية، وهي مدينة كبيرة كثيرة الزرع والضرع، ونهر ملوية نهر كبير مشهور في أنهار بلاد المغرب عليه نظر واسع وفيه قرى كثيرة وعمائر متصلة تسقى كلها من نهر ملوية، وبعده نظر سجلماسة.</p>",
+            "title": "مطماطة أمسكور",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001428-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

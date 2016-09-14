@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أبهر</h1>\n<p class=\"arabic\">بلد ما بين قزوين وزنجان، من قزوين إليها اثنا عشر فرسخا ومنها إلى زنجان خمسة عشر فرسخا. قالوا: وأبهر أيضا في أصبهان ينسب إليها أبو بكر محمد بن عبد الله بن صالح الأبهري الفقيه المالكي جمع بين القراءات وعلو الأسانيد وتفقه ببغداد وشرح مختصر ابن عبد الحكم، وانتشر عنه مذهب مالك رحمه الله في البلاد. ومولده قبل التسعين والمائتين، ومات سنة خمس وسبعين وثلثمائة.</p>",
+            "title": "أبهر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000030-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أرم آسك</h1>\n<p class=\"arabic\">هل هي بالراء أو بالزاي ، وهي مدينة على نهر تستر وهي متحضرة ولها سوق متحركة وبها بيع وشراء، وهي رصيف متوسط لمن جاء من فارس يريد العراق، ويحاذيها من خلف النهر قرية آسك، وفيها جنات كثيرة وقصبة طويلة من القبلة إلى الجوف عالية منيعة.</p>",
+            "title": "أرم آسك",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000082-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

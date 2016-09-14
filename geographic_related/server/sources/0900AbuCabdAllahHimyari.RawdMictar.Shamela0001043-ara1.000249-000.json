@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">البراقة</h1>\n<p class=\"arabic\">مدينة في جزيرة الصريف في بحر الصنف حيث مملكة المهراج، وهي مدينة لطيفة من حجر أبيض براق يسمع فيها صياح وضوضاء ولا يرى بها ساكن وربما نزل بها البحريون وأخذوا من مائها فوجدوه زلالا حلوا فيه روائح الكافور.</p>",
+            "title": "البراقة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000249-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

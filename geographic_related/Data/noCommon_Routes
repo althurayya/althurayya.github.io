@@ -1,0 +1,42 @@
+From,To,Dist_Meter
+FROM هفدر ,TOWA أسداواذ ,DIST مرحلة 
+FROM اسداواذ ,TOWA طرثيث ,DIST 30 فرسخا 
+FROM همذان ,TOWA أسداواذ ,DIST مرحلة 
+FROM أسداواذ ,TOWA قصر اللصوص ,DIST مرحلة 
+FROM المسيلة ,TOWA أشير ,DIST ثلاث أيام غربا 
+FROM أشير ,TOWA تاهرت ,DIST خمسا أيام 
+FROM جرموا ,TOWA رستاق الرستاق ,DIST مرحلة 
+FROM رستاق الرستاق ,TOWA برك ,DIST مرحلة 
+FROM كاهون ,TOWA رستاق الرستاق ,DIST مرحلة 
+FROM كفره ,TOWA كول ,DIST مرحلة 
+FROM كول ,TOWA بومهان ,DIST مرحلة 
+FROM بندق ,TOWA جنبد ,DIST بريدين 
+FROM جنبد ,TOWA زنك ,DIST بريدين 
+FROM داريان ,TOWA خرمة ,DIST مرحلة 
+FROM خرمة ,TOWA كث ,DIST مرحلة 
+FROM دمشق ,TOWA صيدا ,DIST يومين 
+FROM بيروت ,TOWA صيدا ,DIST مرحلة 
+FROM صور ,TOWA صيدا ,DIST مرحلة 
+FROM جبل لبنان ,TOWA صيدا ,DIST مرحلة 
+FROM طميسة ,TOWA أستراباذ ,DIST مرحلة 
+FROM أستراباذ ,TOWA جرجان ,DIST مرحلتين 
+FROM آبسكون ,TOWA أستراباذ ,DIST مرحلة 
+FROM أستراباذ ,TOWA سارية ,DIST 4 مراحل 
+FROM رامهرمز ,TOWA سنبل ,DIST مرحلتين 
+FROM سنبل ,TOWA أرجان ,DIST مرحلة 
+FROM أجم ,TOWA آزر ,DIST مرحلة 
+FROM آزر ,TOWA رامهرمز ,DIST مرحلة 
+FROM ههههه ,TOWA تبلا ,DIST مرحلتين 
+FROM تبلا ,TOWA شكى ,DIST مرحلتين 
+FROM مراغة ,TOWA قندرية ,DIST مرحلتين 
+FROM خوى ,TOWA قلعة يونس ,DIST 6 مراحل 
+FROM قلعة يونس ,TOWA قرية العصبيات ,DIST مرحلة 
+FROM مراغة ,TOWA نورين ,DIST مرحلة 
+FROM النير ,TOWA سراة ,DIST مرحلة 
+FROM سراة ,TOWA كولسره ,DIST مرحلة 
+FROM المنصورة ,TOWA قزدار ,DIST 80 فرسخا 
+FROM قزدار ,TOWA كنكابان ,DIST 80 فرسخا 
+FROM قزدار ,TOWA مشكى ,DIST 50 فرسخا 
+FROM المروة ,TOWA السقيا ,DIST ثلاثا 
+FROM عسفان ,TOWA أمج ,DIST مرحلة 
+FROM أمج ,TOWA الخيم ,DIST مرحلة 

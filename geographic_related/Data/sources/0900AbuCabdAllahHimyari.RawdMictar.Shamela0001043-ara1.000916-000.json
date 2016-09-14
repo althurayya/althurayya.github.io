@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">صدينة</h1>\n<p class=\"arabic\">في بلاد عمان، قرية ذات مياه سائحة.</p>\n<p class=\"arabic\">وصدينة أيضا من كور شذونة بالأندلس أزلية قائمة الأسوار باقية الآثار تطرد المياه داخلها من عين ثرة تطحن على جداولها الأرحاء، وهي في غاية الحصانة لا ينفذ جيش إليها ولا يتوصل عسكر للنزول عليها، وهذه العين عنصر نهر بوصة .</p>",
+            "title": "صدينة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000916-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

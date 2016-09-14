@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ميرتلة</h1>\n<p class=\"arabic\">مدينة بالأندلس شرقي مدينة باجة، بينهما أربعون ميلا، وهي على آنة، وبمقربة من شاطئ البحر مرسى هاشم، وهو حصن أولي فيه آثار قديمة وبه كنيسة عظيمة بنيت في أيام قسليان قيصر الذي بنيت في أيامه كنيسة طليطلة المعروفة بكنيسة الملوك، وقيصر هذا هو أول من نسج في ثيابه وفرشه الذهب وهو الرابع والثلاثون من القياصرة. [v.1, p.569] فراغ [v.1, p.570]</p>\n<p class=\"arabic\"></p>",
+            "title": "ميرتلة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001509-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

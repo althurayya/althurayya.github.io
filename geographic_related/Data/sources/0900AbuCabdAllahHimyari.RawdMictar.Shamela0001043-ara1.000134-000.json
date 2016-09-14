@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">اغنا</h1>\n<p class=\"arabic\">بجزيرة سرنديب، وتعرف اغنا هذه بجزيرة القصر وهي دار ملك سرنديب، وسيأتي ذكرها في حرف السين المهملة إن شاء الله تعالى.</p>",
+            "title": "اغنا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000134-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

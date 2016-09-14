@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">السراة</h1>\n<p class=\"arabic\">أعظم جبال العرب، وهو ما بين جرش والطائف، وقيل هو جبل الأزد الذين هم به يقال لهم السراة.</p>\n<p class=\"arabic\">وفي سير ابن إسحاق : أن أشراف اليمن اغتنموا غضبة عمرو بن عامر، وقالت الأزد: لا نتخلف عنه، فساروا وتفرقوا في البلاد، فنزلت آل جفنة الشام، ونزل الأوس والخزرج يثرب، ونزلت أزد السراة السراة، ونزلت أزد عمان عمان، ثم أرسل الله تعالى على السد السيل، الحديث بطوله. [v.1, p.311]</p>",
+            "title": "السراة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000787-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,117 @@
+<html>
+<head>
+  <title>Convex Hulls</title>
+  <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://rawgit.com/emeeks/abcc82cc61c52fc47b19/raw/61a7ad001f0a3c4323b8b21071d2e749df367519/d3map.css">
+</head>
+<style>
+  html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  #map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .cityhull {
+    fill: purple;
+    fill-opacity: .5;
+    /*stroke: black;*/
+    stroke-width: 1px;
+  }
+  
+  .point {
+    fill: darkred;
+    stroke: black;
+    stroke-width: 1px;
+  }
+
+</style>
+<script>
+      function makeSomeMaps() {
+          map = d3.carto.map();
+
+          d3.select("#map").call(map);
+
+          wcLayer = d3.carto.layer.tile();
+          wcLayer.tileType("stamen")
+                  .path("watercolor")
+                  .label("Watercolor")
+                  .visibility(true);
+
+          csvModal = d3.carto.modal();
+          var formatter = csvModal.formatter(
+                  function(d) {return "<h1>" + "geo title: " + d.geoTitle + "</br>"
+                          + "cornu Name: " + d.cornuName + "</br>"
+                          + "other cornu title: " + d.geoTitleOther + "</br>"
+                          + "cornu lat: " + d.lat + "</br>"
+                          + "cornu lon: " + d.lon + "</br>"
+                          + "cornu region: " + d.cornuRegion + "</br>"
+                          + "geo top region: " + d.geoProv + "</br>"
+                          + "geo low region: " + d.geoFinalReg + "</br>"
+                                  + "<hr>"
+                          + "<button id='matchBtn' type='button' onclick=''>" + "Match" + "</button>"
+                          + "<button id='noMatchBtn' type='button' onclick=''>"+ "Does not Match" + "</button>"
+                          + "<button id='notSureBtn' type='button' onclick=''>"+ "Not Sure!!" + "</button>"
+                          + "</h1>"}
+//          //                  function(data) {
+////                     var parsedCSV = d3.csv.parseRows(data);
+////
+////                      var container = d3.select("body")
+////                              .append("table")
+////
+////                              .selectAll("tr")
+////                              .data(parsedCSV).enter()
+////                              .append("tr")
+////
+////                              .selectAll("td")
+////                              .data(function(d) { return d; }).enter()
+////                              .append("td")
+////                              .text(function(d) { return d; });
+////                  });
+
+          csvLayer = d3.carto.layer.csv();
+          csvLayer.path("../Data/SttlReg_CoordsCSV_fuzzyWuzzy.csv")
+                  .label("Similar Cities")
+                  .cssClass("point")
+                  .renderMode("svg")
+                  .markerSize(1)
+                  .x("lon")
+                  .y("lat")
+                  .modal(csvModal)
+                  .clickableFeatures(true)
+                  .on("load", function () {
+                      d3.selectAll("circle").transition().duration(1000)
+                              .style("fill", "seagreen")
+                              .attr("r", 2);
+                  });
+//                  .on("click", match);
+//
+//
+          function match() {
+              var submitBtn = document.getElementById('matchBtn');
+              var matchResult.append(d);
+
+          }
+
+          map.addCartoLayer(wcLayer)
+                  .addCartoLayer(csvLayer);
+          map.centerOn([44.361488, 33.312806], "latlong").setScale(3);
+
+      }
+
+</script>
+<body onload="makeSomeMaps()">
+<div id="map"></div>
+<footer>
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8" type="text/javascript"></script>
+    <script src="http://d3js.org/topojson.v1.min.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/Masoumeh/0390.IbnAhmadMuqaddasi.AhsanTaqasim/master/js/ext_lib/tile.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/emeeks/d3-carto-map/master/d3.carto.map.min.js" type="text/javascript"></script></footer>
+</body>
+</html>
+

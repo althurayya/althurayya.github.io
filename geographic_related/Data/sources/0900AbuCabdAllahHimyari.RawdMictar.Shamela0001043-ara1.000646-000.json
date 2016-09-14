@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دير حزقيال</h1>\n<p class=\"arabic\">قال شريح الخزامي : اجتزت بهذا الدير فبينما أنا أدور فيه إذا بكتابة على اسطوانة فقرأتها فإذا فيها:</p>\n<p class=\"arabic_poetry\">رب ليل كأنه نفس العا * شق طولا قطعته بانتحاب</p>\n<p class=\"arabic_poetry\">ونعيم كوصل من بت أهوى * قد تبدلته ببؤس العتاب</p>\n<p class=\"arabic_poetry\">نسبوني إلى الجنون ليخفوا * ما بقلبي من صبوة واكتئاب</p>\n<p class=\"arabic_poetry\">ليت لي ما ادعوه من فقد عقلي * فهو خير من طول هذا العذاب [v.1, p.252]</p>\n<p class=\"arabic\">وتحته:</p>\n<p class=\"arabic_poetry\">وإني على ما نابني وأصابني * لذو مرة باق على الحدثان</p>\n<p class=\"arabic_poetry\">فإن تعقب الأيام أظفر ببغيتي * وإن أبق مرميا بي الرجوان</p>\n<p class=\"arabic_poetry\">فكم ميت هما بغيظ وحسرة * صبور لما يأتي به الملوان قال: فكتبت ذلك وسألت عن صاحبه فقالوا: هو رجل هوي ابنة عم له، فحبسه عمه في هذا الموضع خوفا من فضيحة ابنته، فتجمع أهله وأخرجوه وزوجوه منها على كره من أبيها.</p>",
+            "title": "دير حزقيال",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000646-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

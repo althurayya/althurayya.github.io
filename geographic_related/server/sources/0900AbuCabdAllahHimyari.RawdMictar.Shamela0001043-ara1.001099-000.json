@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الغريان</h1>\n<p class=\"arabic\">بالكوفة، يقال إن النعمان بناهما على قبر عمرو بن مسعود وخالد بن نضلة لما قتلهما، قالت هند بنت معبد بن نضلة ترثيهما:</p>\n<p class=\"arabic_poetry\">ألا بكر الناعي بخير بني أسد * بعمرو بن مسعود وبالسيد الصمد</p>",
+            "title": "الغريان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001099-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

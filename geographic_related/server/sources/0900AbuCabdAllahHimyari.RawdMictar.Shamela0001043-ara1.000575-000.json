@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الخشبات</h1>\n<p class=\"arabic\">بالعراق، من عبادان إلى الخشبات ستة أميال، وهذه الخشبات على متصل بحر فارس بمصب دجلة، وهى خشبات مغروزة في قعر البحر عليها مناصب من ألواح مهندمة يجلس عليها حراس البحر ومعهم زورق يركبون فيه إلى هذه الخشبات وبه ينزلون إلى الساحل، وهذا البحر الفارسي شطه الأيمن للعرب والآخر الأيسر لفارس، وعرضه من سبعين باعا إلى ثمانين باعا.</p>",
+            "title": "الخشبات",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000575-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

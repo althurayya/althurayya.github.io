@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قبتور</h1>\n<p class=\"arabic\">قرية من قرى اشبيلية، وفي سنة ثلاث وعشرين وستمائة وصلت شياطي الروم الغربيين نهر اشبيلية فأسروا الناس وحرقوا القوارب، ثم وصلوا إلى قبتور هذه وغلبوا أهلها ودخلوا عليهم عنوة، ففر منهم من فر وأخذ جملة منهم ومن نسائهم، واستبيح جميع ما كان في الديار من الأثاث والمتاع.</p>",
+            "title": "قبتور",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001175-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

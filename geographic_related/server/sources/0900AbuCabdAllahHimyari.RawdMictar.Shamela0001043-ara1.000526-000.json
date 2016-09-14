@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">حصن المنار</h1>\n<p class=\"arabic\">بالأندلس قريب من مدينة لكة وهي منتهى الركن الثالث من أركان الأندلس التي هي حدودها، وهو على ضفة البحر المحيط من الغرب والجوف وتتصل به الكنيسة المعظمة عندهم المسماة عندهم بشنت ياقوب، وهذا الموضع أضيق ما بين البحرين في حدود الأندلس، وعرضه من البحر إلى البحر ثمانون ميلا.</p>",
+            "title": "حصن المنار",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000526-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

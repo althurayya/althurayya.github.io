@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الينبع</h1>\n<p class=\"arabic\">على تسعة برد من المدينة في طريق مكة.</p>\n<p class=\"arabic\">قالوا: ومن الجار إلى الينبع، وهو الوادي الذي فيه ضياع علي بن أبي طالب رضي الله عنه، أربعون ميلا.</p>\n<p class=\"arabic\">ومنها أبو دلف الخزرجي الينبعي، ذكره الثعابي في ` اليتيمة ` وكان شاعرا متشيعا، وهو القائل:</p>\n<p class=\"arabic_poetry\">دار السلام هنيئا * بدعوة ابن الرسول</p>\n<p class=\"arabic_poetry\">جاء النهار وولى * ظلام تلك الذحول</p>\n<p class=\"arabic_poetry\">ما إن رأيت حصانا * حماله في النصول</p>\n<p class=\"arabic\">قال ذلك للبساسيري القائم بدعوة المستنصر العبيدي خليفة مصر، وذلك سنة خمسين وأربعمائة.</p>",
+            "title": "الينبع",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001655-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

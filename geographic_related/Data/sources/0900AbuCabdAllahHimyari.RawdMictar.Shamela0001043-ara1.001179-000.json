@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قرسقة</h1>\n<p class=\"arabic\">جزيرة في قطعة من البحر الشامي، فيها مدينة حسنة متوسطة عامرة، وطولها ثمانية وخمسون ميلا، وعرضها سبعة وعشرون ميلا، وهي جزيرة خصيبة كثيرة العمارة، وأهلها يتجولون في أرض الروم، وهم أكثر الروم سفرا.</p>",
+            "title": "قرسقة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001179-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

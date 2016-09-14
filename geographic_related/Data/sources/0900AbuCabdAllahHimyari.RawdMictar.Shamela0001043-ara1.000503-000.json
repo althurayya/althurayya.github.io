@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">حجر</h1>\n<p class=\"arabic\">بفتح الحاء باليمامة، وهي منازل بني حنيفة وبعض مضر وحجر من اليمامة على يوم وليلة، وفي حجر يقول الشاعر يذكر وقيعة:</p>\n<p class=\"arabic_poetry\">فلولا الريح أسمع من بحجر * صليل البيض تقرع بالذكور وكانت الوقيعة في موضع بعيد من حجر، وحجر الآن خراب وبها كانت اليمامة الملكة ساكنة في وقتها.</p>",
+            "title": "حجر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000503-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

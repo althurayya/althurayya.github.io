@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ميلاص</h1>\n<p class=\"arabic\">حصن بجزيرة صقلية كبير القطر مليح الهيئة وثيق البنية، وقلعته منيعة من أحسن البلاد وأجلها تشبه الحواضر في العمارات والأسواق وما بها من المواد والأرفاق، وهي على ساحل البحر يحدق بها البحر من جميع جهاتها إلا من جهة شمالها يدخل إليها منها ، ويسافر إليها برا وبحرا، ويتجهز منها بالكتان الكثير ولها مزارع زاكية ومياه غزيرة، ويصاد بها التن، وبينها وبين مسينى مرحلة.</p>",
+            "title": "ميلاص",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001508-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

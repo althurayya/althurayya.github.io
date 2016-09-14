@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">حزوى</h1>\n<p class=\"arabic\">موضع في ديار بني تميم، وفيه يقول ذو الرمة :</p>\n<p class=\"arabic_poetry\">خليلي عوجا من صدور الرواحل * بجمهور حزوى فابكيا في المنازل</p>\n<p class=\"arabic_poetry\">لعل انحدار الدمع يعقب راحة * من الوجد أو يشفي نجي البلابل</p>",
+            "title": "حزوى",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000513-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

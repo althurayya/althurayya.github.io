@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أزكي</h1>\n<p class=\"arabic\">مدينة بالمغرب وهي أول مراقي الصحراء، ومنها | إلى سجلماسة ثلاث عشرة مرحلة ومنها إلى نول لمطة سبع مراحل، وليست بالكبيرة ولكنها متحضرة، وإذا بلغت المرأة التي لا زوج لها منهم أربعين سنة تصدقت بنفسها على من أرادها فلا تدفع عن نفسها من يريدها، ولا بد من الدخول على هذه المدينة لمن أراد تكرور وغانة من بلاد السودان.</p>",
+            "title": "أزكي",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000090-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

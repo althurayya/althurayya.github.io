@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بازبدى</h1>\n<p class=\"arabic\">مدينة من كور الموصل وعندها يلتقي نهر الخابور الخارج من بلاد ارمينية بدجلة، وهذه الديار ديار بني حمدان، وفيها يقول الشاعر6:</p>\n<p class=\"arabic_poetry\">بقردى وبازبدى مصيف ومربع * وعذب يحاكي السلسبيل برود</p>\n<p class=\"arabic_poetry\">وبغداد ما بغداد أما ترابها * فجمر وأما حرها فشديد</p>",
+            "title": "بازبدى",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000207-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

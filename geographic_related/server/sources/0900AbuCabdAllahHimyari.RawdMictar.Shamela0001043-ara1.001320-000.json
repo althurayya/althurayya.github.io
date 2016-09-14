@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كيلان</h1>\n<p class=\"arabic\">موضع بالري ينسب إليه محمد بن صالح بن أبي بكر بن توبة الكيلاني روى عن أبي كريب عن عبد الله بن ادريس عن عبيد الله بن عمر عن نافع عن ابن عمر رصي الله عنهما أن النبي صلى الله عليه وسلم ضرب وغرب وأن أبا بكر رضي الله عنه ضرب وغرب، وأن عمر رضي الله عنه ضرب وغرب.</p>",
+            "title": "كيلان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001320-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

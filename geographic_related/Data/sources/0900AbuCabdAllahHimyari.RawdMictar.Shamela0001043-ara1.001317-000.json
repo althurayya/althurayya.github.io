@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كوشان</h1>\n<p class=\"arabic\">مدينة الترك ومعظم مملكتهم بين الصين وبلاد خراسان، وأشدهم شوكة الطغزغز ، وهم أصحاب كوشان هذه وما والاها، ومذاهبهم مذاهب المنانية وممالكهم كثيرة، وهي في جهة الشاش وفرغانة، وفيهم كان الملك، ومنهم خاقان الخواقين يجمع ملكه سائر ملوك الترك وتنقاد إليه ملوكها، ومن هؤلاء الخواقين كان فراسياب التركي الغالب على ملك فارس.</p>",
+            "title": "كوشان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001317-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

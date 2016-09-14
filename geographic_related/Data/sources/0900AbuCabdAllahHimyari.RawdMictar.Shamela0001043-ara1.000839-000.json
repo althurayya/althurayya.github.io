@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سفوان</h1>\n<p class=\"arabic\">ماء بين ديار بني شيبان وديار بني مازن على أربعة أميال من البصرة، ومكان سفوان من البصرة كمكان القادسية من الكوفة، التقت عليه القبيلتان فتنازعتا فيه، فاقتتلوا قتالا شديدا، فظهرت بنو تميم وشلوا بني شيبان، وقال الشاعر:</p>\n<p class=\"arabic_poetry\">رويدا بني شيبان بعض وعيدكم * تلاقوا غدا خيلي على سفوان وسفوان أيضا واد بقرب بدر موضع الوقيعة المباركة النبوية، وهو الذي بلغ إليه النبي صلى الله عليه وسلم في غزوة بدر الأولى.</p>",
+            "title": "سفوان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000839-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

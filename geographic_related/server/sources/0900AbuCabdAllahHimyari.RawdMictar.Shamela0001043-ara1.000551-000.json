@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">خازر</h1>\n<p class=\"arabic\">نهر بناحية الموصل معروف، عليه التقى إبراهيم بن مالك الأشتر وعبيد الله بن زياد فقتله إبراهيم. وقال الأخفش: خازر هو خازر المدائن، وجازر بالجيم هو نهر الموصل.</p>",
+            "title": "خازر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000551-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

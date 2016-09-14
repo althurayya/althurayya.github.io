@@ -1,0 +1,287 @@
+<html>
+<head>
+  <title>Match Toponyms</title>
+  <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://rawgit.com/emeeks/abcc82cc61c52fc47b19/raw/61a7ad001f0a3c4323b8b21071d2e749df367519/d3map.css">
+</head>
+<style>
+  html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  #map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .cityhull {
+    fill: purple;
+    fill-opacity: .5;
+    /*stroke: black;*/
+    stroke-width: 1px;
+  }
+
+  .point {
+    fill: darkred;
+    stroke: black;
+    stroke-width: 1px;
+  }
+
+
+  .buttonContainer {
+      width: 100%;
+      margin-top:10px;
+      float: left;
+      position: relative;
+  }
+
+  #displayOptionsContainer {
+      background: white;
+      overflow: auto;
+      height: auto;
+      padding: 5px;
+      width: auto;
+  }
+
+
+  #rightControls {
+      padding: 0 10px 10px;
+      top: 120px;
+      right: 15px;
+      width: 120px;
+      overflow:auto;
+      z-index: 100;
+  }
+
+  .controlsDiv {
+      background: #4C6447;/*rgba(65,64,66,.85);*/
+      position: fixed;
+      -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  .sidebar {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+      overflow: hidden;
+      z-index: 2000; }
+
+
+
+</style>
+<script>
+    function openFile(elemId) {
+        var elem = document.getElementById(elemId);
+        if(elem && document.createEvent) {
+            var evt = document.createEvent("MouseEvents");
+            evt.initEvent("click", true, false);
+            elem.dispatchEvent(evt);
+        }
+    }
+
+    /* Sets the processed status of the clicked circle to the selected radio button.
+       Called after pressing the "Process!" button. Saving changes just
+    */
+    function process() {
+        // Checked radio button
+        var selectedBtn = d3.select('input[name="match"]:checked').node().value;
+        // Gets the inner html (which has set to lat , lon of the clicked circle)
+        var cir = d3.select("#selected_circle").html();
+        // Filters circles to access the clicked one
+        var c = d3.selectAll("circle").filter(function(d){
+            return d['lat']+","+d["lon"] == cir;
+        });
+        // Sets the processed value of the clicked circle
+        c[0][0]["__data__"]['processed'] = selectedBtn;
+        // Fills the circles regarding the processed value
+        if (selectedBtn == "match") {
+            c.style("fill", 'green');
+        } else if (selectedBtn == "not-match") {
+            c.style("fill", 'red');
+        } else {
+            c.style("fill", 'yellow');
+        }
+        // Enable save button
+        d3.select('#save-on-server').attr("disabled", null)
+    }
+    /* To save changes persistently in a file on server. */
+    function saveChanges() {
+        var all_data = '';
+        var toponyms = [];
+        var json = {'toponyms': []}
+
+        // Populates the all_data variable with all circles having processed key
+        d3.selectAll("circle").each(function (d) {
+            var tmp = JSON.stringify(d);
+            if (d['processed'] !== undefined) {
+                all_data += tmp + "\n";
+                json.toponyms.push(d)
+            }
+        });
+        // Write the JSON version of the file
+        writeJsonToFile(json,"processed.json");
+        // Write data to "procesed" file
+        writeDataToFile(all_data, "processed.txt");
+        // Un-check all radio buttons
+        d3.selectAll('input[name="match"]').attr("checked", null);
+        // disable save button
+        d3.select('#save-on-server').attr("disabled", "disabled")
+    }
+
+    function makeSomeMaps() {
+        map = d3.carto.map();
+
+        d3.select("#map").call(map);
+        // Carto map layer
+        wcLayer = d3.carto.layer.tile();
+        wcLayer.tileType("stamen")
+                .path("watercolor")
+                .label("Water Color Map")
+                .visibility(true);
+        modernLayer = d3.carto.layer.tile();
+        modernLayer
+                .path("elijahmeeks.map-azn21pbi")
+                .label("Modern Map")
+                .visibility(false);
+        // Custom modal for infobox
+        csvModal = d3.carto.modal();
+        csvModal.formatter(
+                function (d) {
+                    return "<h1>" + "Geo title: " + d.geoTitle + "</br>"
+                            + "Cornu name: " + d.cornuName + "</br>"
+                            + "Other cornu title: " + d.geoTitleOther + "</br>"
+                            + "Cornu lat: " + d.lat + "</br>"
+                            + "Cornu lon: " + d.lon + "</br>"
+                            + "Cornu region: " + d.cornuRegion + "</br>"
+                            + "Geo top region: " + d.geoProv + "</br>"
+                            + "Geo low region: " + d.geoFinalReg + "</br>"
+                            + "</h1>"
+                }
+        );
+        csvLayer = d3.carto.layer.csv();
+        csvLayer.path("SttlReg_CoordsCSV_fuzzyWuzzy.csv")
+                .label("Similar Cities")
+                .cssClass("point")
+                .renderMode("svg")
+                .markerSize(4)
+                .x("lon")
+                .y("lat")
+                .modal(csvModal) // using custom modal to be shown in infobox
+                .clickableFeatures(true)
+                .on("load", function () {
+                    d3.selectAll("circle").transition().duration(1000)
+                        .style("fill", "#ff6f09")
+                            .attr("r", 3);
+                    // Reads the processed data from server to update the circles in page load
+                    readProcessedData(function (processed) {
+                        if (processed != null) {
+                            // Array of toponyms with related info adn processed value saved
+                            var arr = processed.split("\n");
+                            // For each circle, checks if it has been processed before,
+                            // to add the processed value to the circle.
+                            d3.selectAll("circle").each(function (c) {
+                                arr.forEach(function (a) {
+                                    if (a.indexOf("{") != -1) {
+                                        var json_a = JSON.parse(a);
+                                        if (c['lat'] == json_a['lat'] &&
+                                                c['lon'] == json_a['lon']) {
+                                            c['processed'] = json_a['processed'];
+                                        }
+                                    }
+                                })
+                            });
+                            // Fills each circle regarding to its processed value
+                            d3.selectAll("circle").transition().duration(1000)
+                                    .style("fill", function (c) {
+                                        if (c['processed'] == "match") return "green";
+                                        else if (c['processed'] == "not-match") return "red";
+                                        else if (c['processed'] == "not-sure") return "yellow";
+                                        return "#ff6f09";
+                                    });
+                        }
+                            // Updates the radio buttons checked attribute.
+                            // Checks the button based on the processed value of a circle
+                            d3.selectAll("circle").on("click", function (c) {
+                                // The current clicked circle
+                                d3.select("#selected_circle").html(c['lat'] + "," + c['lon']);
+                                var processed = c['processed'];
+                                // Uncheck all radio buttons
+                                document.getElementById("match").checked = false;
+                                document.getElementById("not-match").checked = false;
+                                document.getElementById("not-sure").checked = false;
+
+                                if (processed != undefined) {
+                                    /* check the related radio button to show the processed
+                                status of the clicked circle */
+                                    document.getElementById(processed).checked = true;
+                            }
+                        });
+//                    }
+                        })
+
+                });
+        map.addCartoLayer(wcLayer)
+                .addCartoLayer(csvLayer)
+                .addCartoLayer(modernLayer);
+        map.centerOn([44.361488, 33.312806], "latlong").setScale(3);
+    }
+</script>
+<body onload="makeSomeMaps()">
+<div id="map"></div>
+<div style="height: auto; width: auto; right: 15px;" id="rightControls" class="controlsDiv">
+    <div class="buttonContainer" style="height: auto; width: auto;">
+        <div id="displayOptionsContainer" class="buttonContainer">
+            <span style="color:gray;">Toponym Status:</span><br/><br/>
+            <div id="match_buttons">
+                    <input id="match" type="radio" name="match" value="match"> Match<br/>
+                    <input id="not-match" type="radio" name="match" value="not-match"> Not a match<br/>
+                    <input id="not-sure" type="radio" name="match" value="not-sure"> Not sure!<br/>
+                    <br>
+                    <button onclick="process();">Process!</button>
+                    <!--Used for accessing the clicked circle-->
+                    <span id="selected_circle" hidden></span>
+            </div>
+            <hr>
+            <button id="save-on-server" onclick="saveChanges()">Save Persistently</button>
+
+        </div>
+    </div>
+</div>
+
+<footer>
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8" type="text/javascript"></script>
+    <script src="http://d3js.org/topojson.v1.min.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/Masoumeh/0390.IbnAhmadMuqaddasi.AhsanTaqasim/master/js/ext_lib/tile.js" type="text/javascript"></script>
+    <script src="https://rawgit.com/emeeks/d3-carto-map/master/d3.carto.map.min.js" type="text/javascript"></script></footer>
+    <script src="/socket.io/socket.io.js"></script>
+    <!--Server script-->
+    <script>
+        var socket = io();
+        function writeDataToFile(d, f) {
+            var str = { data: d, file:f};
+            socket.emit('writeDataToFile', str);
+        }
+        function writeJsonToFile(d,f) {
+            var str = { data: d, file:f};
+            socket.emit('writeJsonToFile',str);
+        }
+        function appendDataToFile(d, f) {
+            var str = { data: d, file:f};
+            socket.emit('appendDataToFile', str);
+        }
+        function readProcessedData(func) {
+            socket.emit('readProcessedData',"hi");
+            socket.on('readProcessedData', function(msg){
+                func(msg);
+            });
+        }
+
+    </script>
+</body>
+</html>
+

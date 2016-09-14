@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كلاباذ</h1>\n<p class=\"arabic\">محلة من محال بخارى، ينسب إليها أبو نصر أحمد بن محمد بن الحسين بن علي الحافظ الكلاباذي، له كتاب ` الهداية والارشاد، في معرفة أهل الفقه والسداد ` الذين أخرجهم محمد بن إسماعيل البخاري في جامعه.</p>",
+            "title": "كلاباذ",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001290-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

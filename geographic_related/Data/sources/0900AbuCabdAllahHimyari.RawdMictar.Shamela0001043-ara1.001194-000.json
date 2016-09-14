@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قزوين</h1>\n<p class=\"arabic\">ببلاد الديلم، بينها وبين الري سبعة وعشرون فرسخا، وهي ثغر الديلم.</p>",
+            "title": "قزوين",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001194-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

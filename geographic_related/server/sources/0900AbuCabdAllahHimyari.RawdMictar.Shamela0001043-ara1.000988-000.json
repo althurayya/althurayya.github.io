@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">طزر</h1>\n<p class=\"arabic\">مدينة بين همذان والري وليس فيها ماء عذب في حفائر ولا سبخ، وإنما يشربون من حوض يجتمع فيه ماء الأمطار من قنوات قد اتخذت هناك، وإذا أعوزهم ذلك ولم يجدوا ماء ولهم مثالج تحت الأرض فإذا كان زمان الربيع استخرجوها، ومن طزر إلى الأساورة أربعة فراسخ.</p>\n<p class=\"arabic\">وفي الرشاطي طرز من مدن إفريقية ينسب إليها موسى بن عبد الله الطرزي، كان يؤدب أولاد السلاطين وكان شاعرا مجيدا، عفيفا، ذكره الزبيدي .</p>",
+            "title": "طزر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000988-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

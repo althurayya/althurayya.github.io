@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">زعورا</h1>\n<p class=\"arabic\">مدينة من مدائن قوم لوط. قالوا: لم ينج من العذاب سواها لأنها كانت مختصة بلوط عليه السلام وهلك ما عداها كما قال الله تعالى: ` جعلنا عاليها سافلها وأمطرنا عليها حجارة من سجيل `، وبقية خبرهم يرد في ذكر سدوم.</p>",
+            "title": "زعورا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000753-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

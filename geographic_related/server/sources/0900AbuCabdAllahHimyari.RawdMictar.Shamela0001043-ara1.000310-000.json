@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">البيلقان</h1>\n<p class=\"arabic\">مدينة دون برذعة على طريق العراق وهي من عمل الران، دخلها الططر عنوة سنة ثمان عشرة وستمائة، فلم يبق الططر على كبير منهم ولا صغير ولا امرأة، وكانوا إذا رأوا امرأة حسناء فجروا بها ثم قتلوها.</p>",
+            "title": "البيلقان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000310-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

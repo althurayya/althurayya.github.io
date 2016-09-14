@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سروج</h1>\n<p class=\"arabic\">بلد من أرض الجزيرة وبمقربة من ملطية، وهي رستاق كثير القرى والكروم في بطن بين جبال.</p>\n<p class=\"arabic\">قال البلاذري : سروج ورأس كيفا وأرض البيضاء أتاها عياض بن غنم بعد صلح الرها سنة تسع عشرة. [v.1, p.315]</p>\n<p class=\"arabic\">ومن سروج إلى حصن كيفا ستة فراسخ، ثم إلى سميساط سبعة فراسخ، ثم إلى ملطية عشرة فراسخ، ثم إلى زبطرة خمسة فراسخ.</p>\n<p class=\"arabic\">وسروج كثيرة الفواكه، وهي التي نسبها الحريري لأبي زيد تاج الغرباء، وفيها البساتين والمياه المطردة.</p>",
+            "title": "سروج",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000801-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">رأس قنديلة</h1>\n<p class=\"arabic\">هو أنف جبل خارج في البحر، بحر فاران، يتصادم فيه ريحان: ريح تأتي من بحر أيلة، وريح تأتي من بحر القلزم فتلتقي فيه أمواج متضادة ويعظم الخطب هناك فتنشب السفن هناك، وتنتظر الريح المساعدة فإن خالفت الريح السفينة بعد خروجها عن المرسى هلكت إن لم يمكنها الرجوع.</p>",
+            "title": "رأس قنديلة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000677-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

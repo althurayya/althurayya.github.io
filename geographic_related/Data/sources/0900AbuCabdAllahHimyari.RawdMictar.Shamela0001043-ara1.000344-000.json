@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تاكررت</h1>\n<p class=\"arabic\">قلعة منيعة بينها وبين تلمسان مسيرة يوم بها تحصن يغمراسن بن زيان صاحب تلمسان من بني عبد الوادي في سنة ست وأربعين وستمائة حين توجه إليه ملك المغرب علي بن أبي العلا ابن المنصور بن يوسف بن عبد المؤمن صاحب مراكش الملقب بالسعيد وصعد إليه فقتل علي هنالك وذهبت محلته وفسد أمره واختلت حاله كلها، وربما أوردت طرفا من خبره في ذكر تلمسان.</p>",
+            "title": "تاكررت",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000344-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

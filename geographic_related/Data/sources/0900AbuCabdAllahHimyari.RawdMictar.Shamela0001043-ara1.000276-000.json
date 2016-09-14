@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">بنجهير</h1>\n<p class=\"arabic\">في بلاد الختل وهي على جبل مشتمل على نحو عشرة آلاف رجل ويغلب على أهلها العبث والفساد، ولهم نهر وبساتين وليس لهم مزارع، وهي متصلة ببلاد التبت.</p>",
+            "title": "بنجهير",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000276-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

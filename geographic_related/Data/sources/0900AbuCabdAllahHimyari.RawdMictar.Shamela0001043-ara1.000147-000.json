@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">اقليبيا</h1>\n<p class=\"arabic\">مدينة كبيرة قديمة على ساحل البحر بأقصى جزيرة شريك قبلي مدينة تونس إلا أنها خربت ولم يبق منها الآن إلا قلعتها في قنة جبل وبقية سورها القائم على الساحل ظاهر اليوم وبينه وبين القلعة مسافة، وهي على نظر واسع وعمل كبير وعمارات عريضة وجبايات واسعة، والسفن تقصدها للميرة ولها مرسى، وجبل ادار قريب منها.</p>",
+            "title": "اقليبيا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000147-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

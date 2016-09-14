@@ -1,0 +1,50 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module Hierarchies_Graph</title>
+<meta charset="utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>Hierarchies_Graph</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/rostam/Arabic_Persian/LocalAlmoghaddasi/Python/Hierarchies_Graph.py">/home/rostam/Arabic_Persian/LocalAlmoghaddasi/Python/Hierarchies_Graph.py</a></font></td></tr></table>
+    <p><tt>This&nbsp;script&nbsp;uses&nbsp;the&nbsp;csv&nbsp;file&nbsp;of&nbsp;the&nbsp;hierarchical&nbsp;triples&nbsp;to&nbsp;creat&nbsp;a&nbsp;hierarchies&nbsp;from&nbsp;the&nbsp;top&nbsp;most&nbsp;levels&nbsp;(here&nbsp;PROV)&nbsp;to&nbsp;settlements.<br>
+Output&nbsp;file&nbsp;contains&nbsp;hierarchies,&nbsp;expressing&nbsp;a&nbsp;level&nbsp;from&nbsp;the&nbsp;highest&nbsp;division&nbsp;to&nbsp;a&nbsp;settelment&nbsp;in&nbsp;each&nbsp;line.<br>
+It&nbsp;creates&nbsp;different&nbsp;json&nbsp;file&nbsp;for&nbsp;each&nbsp;country&nbsp;(PROV).</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="io.html">io</a><br>
+<a href="json.html">json</a><br>
+</td><td width="25%" valign=top><a href="networkx.readwrite.json_graph.html">networkx.readwrite.json_graph</a><br>
+<a href="networkx.html">networkx</a><br>
+</td><td width="25%" valign=top><a href="matplotlib.pyplot.html">matplotlib.pyplot</a><br>
+<a href="re.html">re</a><br>
+</td><td width="25%" valign=top><a href="sys.html">sys</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-buildHierarchiesGraph"><strong>buildHierarchiesGraph</strong></a>(fileName)</dt><dd><tt>The&nbsp;main&nbsp;function&nbsp;which&nbsp;creats&nbsp;a&nbsp;graph&nbsp;for&nbsp;each&nbsp;country,&nbsp;<br>
+and&nbsp;then&nbsp;traverses&nbsp;the&nbsp;graphs&nbsp;for&nbsp;making&nbsp;a&nbsp;csv&nbsp;out&nbsp;of&nbsp;the&nbsp;graph&nbsp;information</tt></dd></dl>
+ <dl><dt><a name="-getSetOfName"><strong>getSetOfName</strong></a>(fileName, name)</dt></dl>
+ <dl><dt><a name="-graphLevel"><strong>graphLevel</strong></a>(g, fileName, node_id, trav)</dt><dd><tt>Traverses&nbsp;the&nbsp;grah&nbsp;recursively&nbsp;to&nbsp;find&nbsp;the&nbsp;individual&nbsp;paths&nbsp;from&nbsp;root&nbsp;to&nbsp;leaves.<br>
+The&nbsp;out&nbsp;put&nbsp;is&nbsp;hierarchies&nbsp;from&nbsp;PROV&nbsp;to&nbsp;STTL,&nbsp;which&nbsp;is&nbsp;written&nbsp;to&nbsp;a&nbsp;file.</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>cnt</strong> = 783</td></tr></table>
+</body></html>

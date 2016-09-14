@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ورزيغة</h1>\n<p class=\"arabic\">مدينة بين فاس واغمات، كثيرة المياه والثمار، وهي آهلة كثيرة الخيرات تباع فها ألف حبة إجاص بربع درهم، قتل ميسور الفتى أهلها وسبى نساءها بعد زواله عن مدينة فاس سنة أربع وعشرين وثلثمائة. [v.1, p.608]</p>",
+            "title": "ورزيغة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001616-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

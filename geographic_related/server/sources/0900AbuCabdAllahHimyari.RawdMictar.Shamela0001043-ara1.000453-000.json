@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">جزيرة العقل</h1>\n<p class=\"arabic\">هي جزيرة بين ساحل اليمن وساحل الحبشة فيها ما يعرف بماء العقل يستقي منه أهل المراكب، ويفعل في القرائح فعلا عجيبا.</p>",
+            "title": "جزيرة العقل",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000453-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

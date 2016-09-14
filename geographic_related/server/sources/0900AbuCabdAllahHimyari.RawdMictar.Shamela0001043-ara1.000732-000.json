@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">زالع</h1>\n<p class=\"arabic\">ومن الناس من يقول زيلع بالياء المنقوطة من أسفل بدل الألف، مدينة على ساحل البحر الحبشي المالح المتصل بالقلزم، ومن زالع إلى ساحل البحر ثلاث مجار مقدرة الجري، وهي صغيرة القطر كثيرة الناس، والمسافر إليها كثير، وأكثر مراكب القلزم تصل إلى هذه المدينة بأنواع من التجارات التي يتصرف بها في بلاد الحبشة، ويخرج منها الرقيق والفضة، والذهب بها قليل، وشرب أهلها من الآبار.</p>",
+            "title": "زالع",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000732-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

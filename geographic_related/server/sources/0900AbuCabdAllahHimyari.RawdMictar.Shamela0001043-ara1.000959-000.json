@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ضمير</h1>\n<p class=\"arabic\">بالشام، على خمسة عشر ميلا من دمشق، فيه مات عبيد الله بن معمر التيمي، وكان سبب موته هناك أن ابن أخيه عمر بن موسى بن معمر خرج مع ابن الأشعث، فأخذه الحجاج، فبلغ ذلك عبيد الله وهو بالمدينة، فخرج يطلب فيه إلى عبد الملك، فلما بلغ ضميرا بلغه أن الحجاج ضرب عنقه، فمات كمدا هناك. وفي هذا الموضع يقول أبو الطيب:</p>\n<p class=\"arabic_poetry\">لأن تركنا ضميرا عن ميامننا * ليحدثن لمن ودعتهم ندم</p>",
+            "title": "ضمير",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000959-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

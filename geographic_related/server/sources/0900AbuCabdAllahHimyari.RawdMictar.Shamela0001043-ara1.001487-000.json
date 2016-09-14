@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">مهزور</h1>\n<p class=\"arabic\">واد من أودية المدينة، الأولى منه زاي معجمة وآخره راء مهملة.</p>\n<p class=\"arabic\">روى مالك أنه بلغه أن رسول الله صلى الله عليه وسلم قال في سيل مهزور ومذينب: ` يمسك الأعلى حتى يبلغ الكعبين ثم يرسل الأعلى على الأسفل `. وقيل مهزور موضع سوق المدينة، كان قد تصدق به رسول الله صلى الله عليه وسلم على المسلمين، فأقطعه عثمان رضي الله عنه الحارث بن الحكم أخا مروان بن الحكم، وأقطع مروان فدك.</p>",
+            "title": "مهزور",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001487-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">رسوب</h1>\n<p class=\"arabic\">هو جبل الأحقاف في عمان، وقد تقدم ذكر الأحقاف وقوم عاد في حرف الألف، ورسوب متصل بأرض الأحقاف، وهو بلد واسع غلب عليه الرمل بسوافي الرياح فعفا أثره، وهو الذي ذكره الله عز وجل، والبحر يضرب بسفح الجبل، ويركب منه البحر إلى جزيرتين ينزلهما قوم من مهرة بأغنامهم، طولهما اثنا عشر فرسخا.</p>",
+            "title": "رسوب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000702-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

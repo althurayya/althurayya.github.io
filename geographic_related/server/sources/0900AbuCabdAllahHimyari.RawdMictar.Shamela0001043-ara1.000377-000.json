@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تفليس</h1>\n<p class=\"arabic\">أول حدود أرمينية بينها وبين قالي قلا أربع مراحل، وهي على نهر، وبها سوران من طين، وهي في غاية من الرفه والخصب، وأهلها أهل مروات ولها حمامات مثل حمامات طبرية مياهها حامية من غير أن يوقد عليها نار، أسعارها رخيصة والعسل والسمن بها كثيران جدا.</p>\n<p class=\"arabic\">وفي سنة ثمان عشرة وستمائة استولى الططر على مدينة تفليس وكانت قبل للمسلمين وأكثر منازلها من خشب فأطلقوا فيها النار حتى صارت جمرة واحدة.</p>",
+            "title": "تفليس",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000377-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

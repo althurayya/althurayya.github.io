@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ويطونان</h1>\n<p class=\"arabic\">موضمع بين مدينة تامدلت ومدينة اودغست، فيه بئر يسهل ماؤها من شرب منه من الناس والبهائم، وماؤها كثيره لا ينزف. [v.1, p.613] فراغ [v.1, p.614]</p>",
+            "title": "ويطونان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001631-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

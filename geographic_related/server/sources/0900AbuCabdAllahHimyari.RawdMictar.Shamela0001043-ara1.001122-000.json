@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">فامية</h1>\n<p class=\"arabic\">بالعراق، وفامية بالشام بين أنطاكية وحمص.</p>\n<p class=\"arabic\">وحكى الأوزاعي قال: بلغني أن أبا هريرة رضي الله عنه نزل فامية فلم يضفه أحد، فلما رأى ذلك وضع سفرته، ثم دعا إليها فلم يجبه أحد، فلما رأى ذلك ارتحل، فقيل لهم: هذا أبو هريرة، فلحقوه فجعلوا يعتذرون إليه، فقالوا: ما عرفناك، فقال: أما تنزلون إلا من تعرفون؟ ما أنتم من الدين على مثل هذا، وأخذ هدبة من ثوبه.</p>",
+            "title": "فامية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001122-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

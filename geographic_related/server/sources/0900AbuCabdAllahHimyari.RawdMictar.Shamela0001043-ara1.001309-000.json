@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">وحش كوكب</h1>\n<p class=\"arabic\">موضع بالمدينة فيه دفن عثمان رضي الله عنه وهو مضموم الحاء مشدد الشين المعجمة، والحش: البستان، وكوكب الذي أضيف إليه رجل من الأنصار وقيل من اليهود، ولما ظهر معاوية رضي الله عنه هدم حائطه وأفضى به إلى البقيع، وكان عثمان رضي الله عنه يمر بحش كوكب ويقول: يدفن هنا رجل صالح، وكان عثمان قد اشترى حش كوكب ووسع به البقيع فكان أول من دفن فيه وعمي قبره.</p>",
+            "title": "وحش كوكب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001309-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

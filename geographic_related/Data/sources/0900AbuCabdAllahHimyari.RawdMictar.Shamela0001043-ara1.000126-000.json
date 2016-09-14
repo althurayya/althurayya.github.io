@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أندرش</h1>\n<p class=\"arabic\">مدينة من أعمال المرية، هي من أنزه البلدان، وفيها يقول أبو الحجاج ابن عتبة الاشبيلي الطبيب الأديب الشاعر وقد مر عليها:</p>\n<p class=\"arabic_poetry\">لله أندرش لقد حازت على * حسن تتيه به على البلدان</p>\n<p class=\"arabic_poetry\">النهر منساب سرت خلجانه * في الروض بين أزاهر الكتان</p>\n<p class=\"arabic_poetry\">فكأنما انسابت هناك أراقم * قد عدن راجعة عن الثعبان</p>",
+            "title": "أندرش",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000126-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

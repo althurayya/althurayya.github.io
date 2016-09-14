@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ايذج</h1>\n<p class=\"arabic\">مدينة من عمل خوزستان بينها وبين العسكر في جهة المشرق أربع مراحل، وهي مدينة عجيبة فرجة البقعة بسيطة المكان متاخمة للجبل المتصل بأصبهان وبها متاجر وصنائع وأموال وأسواق نافقة بما جلب إليها.</p>",
+            "title": "ايذج",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000107-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

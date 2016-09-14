@@ -1,0 +1,249 @@
+PROV العراق ,TYPE کورة ,REG1 الکوفة ,TYPE مدينه ,STTL سورا 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL شق عثمان 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL زبان 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL بدران 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL نهر الملک 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL نهر الأمير 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL سليمانان 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL المطوعة 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL القندلة 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL المفتح 
+PROV العراق ,TYPE کورة ,REG1 البصرة ,TYPE مدينة ,STTL الجعفرية 
+PROV العراق ,TYPE کورة ,REG1 واسط ,TYPE مدينة ,STTL درمکان 
+PROV العراق ,TYPE کورة ,REG1 واسط ,TYPE مدينة ,STTL قراقبه 
+PROV العراق ,TYPE کورة ,REG1 واسط ,TYPE مدينة ,STTL سيادة 
+PROV العراق ,TYPE کورة ,REG1 واسط ,TYPE مدينة ,STTL السکر 
+PROV العراق ,TYPE کورة ,REG1 بغداد ,TYPE مدينة ,STTL کارة 
+PROV العراق ,TYPE کورة ,REG1 بغداد ,TYPE مدينة ,STTL الدسکرة 
+PROV العراق ,TYPE کورة ,REG1 حلوان ,TYPE مدينة ,STTL زبوجان 
+PROV العراق ,TYPE کورة ,REG1 حلوان ,TYPE مدينة ,STTL شلاشلان 
+PROV العراق ,TYPE کورة ,REG1 حلوان ,TYPE مدينة ,STTL الجامد 
+PROV العراق ,TYPE کورة ,REG1 حلوان ,TYPE مدينة ,STTL الحر 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL الکرخ 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL عکبرا 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL بت 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL رذانات 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL قصر الجص 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL حري 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL أيوانا 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL بريقا 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL سندية 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL راقفروبة 
+PROV العراق ,TYPE کورة ,REG1 سامرا ,TYPE مدينة ,STTL تکريت 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL أسداواذ 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL سبه 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL وبه 
+PROV الجبال ,TYPE كورة ,REG1 همذان ,TYPE مدينة ,STTL سيراوند 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL يممة 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL تاغليسية 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL قلعة ابن الهرب 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL هزارة 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL الجعبة 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL غدير الدروع 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL لماية 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL سوق ابن حبلة 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL جبل تجان 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL شلف 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL طير 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL سوق إبراهيم 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL رهباية 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL تمما 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL يعود 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL الخضراء 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL واريفن 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL بحرية 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL سوق كرى 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL منجصة 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL اوزكى 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL تبرين 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL سوق ابن مبلول 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL ربا 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL تاويلت ابى مغول تامزيت 
+PROV المغرب ,TYPE كورة ,REG1 تاهرت ,TYPE مدينة ,STTL تاويلت لغوا 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL درعة 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL تادنقوست 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL اثر 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL ايلا 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL ويلميس 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL حصن ابن صالح 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL حصن السودان 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL هلال 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL إمصلى 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL دار الأمير 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL حصن برارة 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL الخيامات 
+PROV المغرب ,TYPE كورة ,REG1 سجلماسة ,TYPE مدينة ,STTL تازروت 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL مدركة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL متروكة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL زفون 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL غميرة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL ماجراجرا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL الخضراء 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 الزاب ,TYPE مدينة ,STTLجميلا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 الزاب ,TYPE مدينة ,STTL أدنة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 الزاب ,TYPE مدينة ,STTL أشير 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL زلول 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL الجاحد 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL سوق الكتامي 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL ورغة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL سبوا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL مدينة بنى قرباس 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL مزحاحية 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL أزيلا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL سبتا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL بلش 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL مرنيسة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL وصاع 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL قلعة شميت 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL برجن اوزكى  
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL تيونوا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL املاه ابى الحسن 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL مدينة بنى زحيق 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL لواتة عبد الله 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL لواتة بركية 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL أكذار ابن شراك 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE مدينة ,STTL مدينة جبل زالاغ 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL مدركة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL متروكة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL زفون 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL غميرة 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL ماجراجرا 
+PROV المغرب ,TYPE كورة ,REG1 فاس ,TYPE ناحية ,REG2 طنجة ,TYPE مدينة ,STTL الخضراء 
+PROV فارس ,TYPE كورة ,REG1 أرجان ,TYPE مدينة ,STTL جومة 
+PROV فارس ,TYPE كورة ,REG1 أردشيرخره ,TYPE مدينة ,STTL سميران 
+PROV فارس ,TYPE كورة ,REG1 أردشيرخره ,TYPE مدينة ,STTL زيرباذ 
+PROV فارس ,TYPE كورة ,REG1 أردشيرخره ,TYPE مدينة ,STTL نابند دون 
+PROV فارس ,TYPE كورة ,REG1 درابجرد ,TYPE مدينة ,STTL الكردبان 
+PROV فارس ,TYPE كورة ,REG1 درابجرد ,TYPE مدينة ,STTL المسكانات 
+PROV فارس ,TYPE كورة ,REG1 درابجرد ,TYPE مدينة ,STTL رم شهريار 
+PROV فارس ,TYPE كورة ,REG1 درابجرد ,TYPE مدينة ,STTL اوجين 
+PROV فارس ,TYPE كورة ,REG1 درابجرد ,TYPE ناحية ,REG2 خسو ,TYPE مدينة ,STTL رستاق الرستاق 
+PROV فارس ,TYPE كورة ,REG1 شيراز ,TYPE مدينة ,STTL المص 
+PROV فارس ,TYPE كورة ,REG1 شيراز ,TYPE مدينة ,STTL كول 
+PROV فارس ,TYPE كورة ,REG1 شيراز ,TYPE مدينة ,STTL جوبك 
+PROV فارس ,TYPE كورة ,REG1 شيراز ,TYPE مدينة ,STTL جمكان 
+PROV فارس ,TYPE كورة ,REG1 شيراز ,TYPE مدينة ,STTL بجه 
+PROV فارس ,TYPE كورة ,REG1 شيراز ,TYPE مدينة ,STTL أبك 
+PROV فارس ,TYPE كورة ,REG1 سابور ,TYPE مدينة ,STTL كندران 
+PROV فارس ,TYPE كورة ,REG1 سابور ,TYPE مدينة ,STTL رم الأكراد 
+PROV فارس ,TYPE كورة ,REG1 سابور ,TYPE مدينة ,STTL جنبد 
+PROV فارس ,TYPE كورة ,REG1 إصطخر ,TYPE مدينة ,STTL مائين الفهرج 
+PROV فارس ,TYPE كورة ,REG1 إصطخر ,TYPE مدينة ,STTL أسبنجان 
+PROV فارس ,TYPE كورة ,REG1 إصطخر ,TYPE مدينة ,STTL بوان كرمان 
+PROV فارس ,TYPE كورة ,REG1 إصطخر ,TYPE مدينة ,STTL شهرباتق 
+PROV فارس ,TYPE كورة ,REG1 إصطخر ,TYPE مدينة ,STTL خرمة 
+PROV فارس ,TYPE كورة ,REG1 إصطخر ,TYPE مدينة ,STTL ترك نيشان 
+PROV الشام ,TYPE كورة ,REG1 قنسرين ,TYPE مدينة ,STTL بيلس 
+PROV الشام ,TYPE كورة ,REG1 قنسرين ,TYPE مدينة ,STTL وادي بطنان 
+PROV الشام ,TYPE كورة ,REG1 حمص ,TYPE مدينة ,STTL حصن الخوابي 
+PROV الشام ,TYPE كورة ,REG1 دمشق ,TYPE مدينة ,STTL صيدا 
+PROV الشام ,TYPE كورة ,REG1 دمشق ,TYPE رستاق ,REG2 البقاع ,TYPE ولها ,STTL كامد 
+PROV الشام ,TYPE كورة ,REG1 الشراة ,TYPE مدينة ,STTL أذرح 
+PROV الشام ,TYPE كورة ,REG1 الشراة ,TYPE مدينة ,STTL مدين 
+PROV مصر ,TYPE کورة ,REG1 الجفار ,TYPE مدينة ,STTL الواردة 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدينة ,STTL دبقو 
+PROV مصر ,TYPE کورة ,REG1 الحوف ,TYPE مدينة ,STTL بريم 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTLدمنهور 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سدر 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة كرمين 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سندفا 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL بورة 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة زيد 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة حفص 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL محلة زياد 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL سنهور الصغرى 
+PROV مصر ,TYPE کورة ,REG1 الريف ,TYPE مدينة ,STTL بريس 
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL خميم 
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL علاقى 
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL اجمع 
+PROV مصر ,TYPE کورة ,REG1 الصعيد ,TYPE مدينة ,STTL بهنسة 
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL تلعفر 
+PROV أقور ,TYPE کورة ,REG1 ديار ربيعة ,TYPE مدينه ,STTL کفرتوثا 
+PROV أقور ,TYPE کورة ,REG1 ديار مضر ,TYPE مدينة ,STTL المحترقة 
+PROV أقور ,TYPE کورة ,REG1 ديار مضر ,TYPE مدينة ,STTL الحريش 
+PROV أقور ,TYPE کورة ,REG1 ديار مضر ,TYPE مدينة ,STTL ترعوز 
+PROV أقور ,TYPE کورة ,REG1 ديار بکر ,TYPE مدينة ,STTL حصن کيفا 
+PROV أقور ,TYPE کورة ,REG1 ديار بکر ,TYPE مدينة ,STTL الفار 
+PROV أقور ,TYPE کورة ,REG1 ديار بکر ,TYPE مدينة ,STTL حاذية 
+PROV الديلم ,TYPE كورة ,REG1 قومس ,TYPE مدينة ,STTL زغنة 
+PROV الديلم ,TYPE كورة ,REG1 جرجان ,TYPE مدينة ,STTL أستراباذ 
+PROV الديلم ,TYPE كورة ,REG1 طبرستان ,TYPE مدينة ,STTL برجى 
+PROV الديلم ,TYPE كورة ,REG1 طبرستان ,TYPE مدينة ,STTL هرى 
+PROV الديلم ,TYPE كورة ,REG1 طبرستان ,TYPE مدينة ,STTL بود 
+PROV الديلم ,TYPE كورة ,REG1 طبرستان ,TYPE مدينة ,STTL تميشة 
+PROV الديلم ,TYPE كورة ,REG1 الديلمان ,TYPE مدينة ,STTL ولامر 
+PROV الديلم ,TYPE كورة ,REG1 الديلمان ,TYPE مدينة ,STTL شكيرز 
+PROV الديلم ,TYPE كورة ,REG1 الخزر ,TYPE مدينة ,STTL بغند 
+PROV الديلم ,TYPE كورة ,REG1 الخزر ,TYPE مدينة ,STTL قيشوى 
+PROV الديلم ,TYPE كورة ,REG1 الخزر ,TYPE مدينة ,STTL خمليج 
+PROV خوزستان ,TYPE كورة ,REG1 السوس ,TYPE قصبة ,STTL طرفانة 
+PROV خوزستان ,TYPE كورة ,REG1 الأهواز ,TYPE مدينة ,STTL مناذر الكبرى 
+PROV خوزستان ,TYPE كورة ,REG1 الأهواز ,TYPE مدينة ,STTL مناذر الصغرى 
+PROV خوزستان ,TYPE كورة ,REG1 الأهواز ,TYPE مدينة ,STTL جوزدك 
+PROV خوزستان ,TYPE كورة ,REG1 الأهواز ,TYPE مدينة ,STTL بيروه 
+PROV خوزستان ,TYPE كورة ,REG1 الأهواز ,TYPE مدينة ,STTL وسنة 
+PROV خوزستان ,TYPE كورة ,REG1 الأهواز ,TYPE مدينة ,STTL جبى 
+PROV خوزستان ,TYPE كورة ,REG1 رامهرمز ,TYPE مدينة ,STTL سنبل 
+PROV خوزستان ,TYPE كورة ,REG1 رامهرمز ,TYPE مدينة ,STTL لاذ 
+PROV خوزستان ,TYPE كورة ,REG1 رامهرمز ,TYPE مدينة ,STTL بابج 
+PROV خوزستان ,TYPE كورة ,REG1 رامهرمز ,TYPE مدينة ,STTL كوزوك 
+PROV خوزستان ,TYPE كورة ,REG1 الدورق ,TYPE مدينة ,STTL آزر 
+PROV خوزستان ,TYPE كورة ,REG1 الدورق ,TYPE مدينة ,STTL بخساباذ 
+PROV خوزستان ,TYPE كورة ,REG1 الدورق ,TYPE مدينة ,STTL ميراقيان 
+PROV خوزستان ,TYPE كورة ,REG1 الدورق ,TYPE مدينة ,STTL ميراثيان 
+PROV الرحاب ,TYPE كورة ,REG1 الران ,TYPE مدينة ,STTL الأبخاز 
+PROV الرحاب ,TYPE كورة ,REG1 الران ,TYPE مدينة ,STTL تبلا 
+PROV الرحاب ,TYPE كورة ,REG1 أرمينية ,TYPE مدينة ,STTL قندرية 
+PROV الرحاب ,TYPE كورة ,REG1 أرمينية ,TYPE مدينة ,STTL قلعة يونس 
+PROV الرحاب ,TYPE كورة ,REG1 أرمينية ,TYPE مدينة ,STTL نورين 
+PROV الرحاب ,TYPE كورة ,REG1 أذربيجان ,TYPE مدينة ,STTL رسبة 
+PROV الرحاب ,TYPE كورة ,REG1 أذربيجان ,TYPE مدينة ,STTL السراة 
+PROV الرحاب ,TYPE كورة ,REG1 أذربيجان ,TYPE مدينة ,STTL بروى 
+PROV السند ,TYPE كورة ,REG1 مكران ,TYPE مدينة ,STTL مشكة 
+PROV السند ,TYPE كورة ,REG1 مكران ,TYPE مدينة ,STTL سرى 
+PROV السند ,TYPE كورة ,REG1 مكران ,TYPE مدينة ,STTL شهر 
+PROV السند ,TYPE كورة ,REG1 مكران ,TYPE مدينة ,STTL دمندان 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE قصبة ,STTL قزدار 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL بجثرد 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL جثرد 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL بكانان 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL خوزي 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL رستاق روذ 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL موردان  
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTLرستاق ماسكان 
+PROV السند ,TYPE كورة ,REG1 طوران ,TYPE مدينة ,STTL كهركور 
+PROV السند ,TYPE كورة ,REG1 السند ,TYPE مدينة ,STTL زندريج 
+PROV السند ,TYPE كورة ,REG1 السند ,TYPE مدينة ,STTL كدار 
+PROV السند ,TYPE كورة ,REG1 السند ,TYPE مدينة ,STTL مايل 
+PROV السند ,TYPE كورة ,REG1 السند ,TYPE مدينة ,STTL تنبلى 
+PROV السند ,TYPE كورة ,REG1 قنوج ,TYPE مدينة ,STTL قدار 
+PROV السند ,TYPE كورة ,REG1 قنوج ,TYPE مدينة ,STTL كهارة 
+PROV السند ,TYPE كورة ,REG1 قنوج ,TYPE مدينة ,STTL بارد 
+PROV السند ,TYPE كورة ,REG1 قنوج ,TYPE مدينة ,STTL زهو 
+PROV السند ,TYPE كورة ,REG1 قنوج ,TYPE مدينة ,STTL هر 
+PROV السند ,TYPE كورة ,REG1 قنوج ,TYPE مدينة ,STTL برهيروا 
+PROV السند ,TYPE كورة ,REG1 الملتان ,TYPE مدينة ,STTL برار 
+PROV السند ,TYPE كورة ,REG1 الملتان ,TYPE مدينة ,STTL راماذان 
+PROV السند ,TYPE كورة ,REG1 الملتان ,TYPE مدينة ,STTL وروين 
+PROV السند ,TYPE كورة ,REG1 الملتان ,TYPE مدينة ,STTL برور 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن امهات ,STTL السقيا 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن امهات ,STTL العشيرة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن دون امهات ,STTL أمج 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن دون امهات ,STTL الفرع 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن دون امهات ,STTL السيرة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن دون امهات ,STTL مهايع 
+PROV جزيرة العرب ,TYPE كورة ,REG1 الحجاز ,TYPE مدن دون امهات ,STTL حاذة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL معقر 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL كدرة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL دويمة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL الحمضة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL كمران 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL اللسعة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL شرمة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL العشيرة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL رنقة 
+PROV جزيرة العرب ,TYPE كورة ,REG1 اليمن ,TYPE قسم ,REG2 تهامه ,TYPE مدينه ,STTL الساعد 
+PROV جزيرة العرب ,TYPE كورة ,REG1 عمان ,TYPE مدينه ,STTL سلوت 
+PROV جزيرة العرب ,TYPE كورة ,REG1 عمان ,TYPE مدينه ,STTL لسيا 
+PROV جزيرة العرب ,TYPE كورة ,REG1 هجر ,TYPE قصبه ,STTL سابون 

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سلمان</h1>\n<p class=\"arabic\">ماء لبني شيبان، على طريق مكة إلى العراق، فيه مات نوفل بن عبد مناف.</p>",
+            "title": "سلمان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000812-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">أريحا</h1>\n<p class=\"arabic\">مدينة من أجل بلاد الغور بالشام، وفي الخبر أن عمر رضي الله عنه أجلى اليهود إلى أريحا وكانوا طلبوا إلى النبي صلى الله عليه وسلم حين غلب عليهم أن يقرهم على أن لهم نصف الثمر فقال: ` نقركم متى شئنا `، فبقوا كذلك خلافة أبي بكر رضي الله عنه وصدرا من خلافة عمر رضي الله عنه ثم أجلاهم إلى أريحا، ذكره مسلم بن الحجاج.</p>",
+            "title": "أريحا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000070-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

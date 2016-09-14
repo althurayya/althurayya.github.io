@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الأخشبان</h1>\n<p class=\"arabic\">جبلا مكة ويقال إن جبل أبي قبيس أحد الأخشبين، وفي الحديث قال جبريل عليه الصلاة والسلام: يا محمد إن شئت جمعت الأخشبين عليهم، فقال صلى الله عليه وسلم: ` دعني أنذر أمتي `، وعن ابن عمر رضي الله عنهما قال: قال رسول الله صلى الله عليه وسلم: ` إذا كنت بين الأخشبين من منى - ونفح بيده نحو المشرق - فإن هناك واديا يقال له السرر، به سرحة سر تحتها سبعون نبيا `. [v.1, p.18]</p>",
+            "title": "الأخشبان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000056-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

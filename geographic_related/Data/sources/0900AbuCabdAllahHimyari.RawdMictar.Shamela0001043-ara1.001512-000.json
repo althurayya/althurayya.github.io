@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الناصرة</h1>\n<p class=\"arabic\">قرية بالشام على ثلاثة عشر ميلا من طبرية، وذكر بعضهم أن فيها ولد المسيح عليه السلام، وأهل بيت المقدس ينكرون ذلك، وتقدم ذلك في حرف الباء.</p>",
+            "title": "الناصرة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001512-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

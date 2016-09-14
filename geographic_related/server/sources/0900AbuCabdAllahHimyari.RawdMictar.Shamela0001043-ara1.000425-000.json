@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">جباي</h1>\n<p class=\"arabic\">من مدن خوزستان ورستاق عظيم مشتبك العمارة بالنخل وقصب السكر وغيرهما من الفواكه، ولأهلها رفاهية وخصب، ومنها أبو علي الجبائي إمام المعتزلة ورئيس المتكلمين في عصره .</p>",
+            "title": "جباي",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000425-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

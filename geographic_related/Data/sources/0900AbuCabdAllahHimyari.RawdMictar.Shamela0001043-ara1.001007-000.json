@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">طفيل</h1>\n<p class=\"arabic\">جبل قريب من الجحفة، وهو وشامة جبلان مشرفان على مجنة، وهي على بريد من مكة، وأظنه الذي غنى به بلال رضي الله عنه بقوله:</p>\n<p class=\"arabic_poetry\">ألا ليت شعري هل أبيتن ليلة * بواد وحولي إذخر وجليل</p>\n<p class=\"arabic_poetry\">وهل أردن يوما مياه مجنة * وهل يبدون لي شامة وطفيل</p>",
+            "title": "طفيل",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001007-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,91 @@
+.arabic {
+    font-size: 16px;
+    font-family: 'Amiri', 'Lateef', 'Geeza Pro', serif;
+    padding: 0;
+    direction: rtl;
+    text-indent: 10px;
+    margin: 10px 0;
+    display: block;
+}
+
+.arabic_poetry {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Amiri', 'Lateef', 'Geeza Pro', serif;
+    padding: 0;
+    margin: 0;
+    text-indent: 0;
+    direction: rtl;
+    text-align: center;
+    display: block;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.cityhull {
+    fill: purple;
+    fill-opacity: .5;
+    /*stroke: black;*/
+    stroke-width: 1px;
+}
+
+.point {
+    fill: darkred;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+
+.buttonContainer {
+    width: 100%;
+    height: 100%;
+    margin-top:10px;
+    float: left;
+    position: relative;
+    overflow: scroll;
+}
+
+#sourcesContainer {
+    background: white;
+    overflow: scroll;
+    height: 100%;
+    padding: 5px;
+    width: 100%;
+}
+
+
+#rightControls {
+    padding: 0 10px 10px;
+    top: 120px;
+    right: 15px;
+    width: 300px;
+    height: 200px;
+    overflow:scroll;
+    z-index: 100;
+}
+
+.controlsDiv {
+    background: #4C6447;/*rgba(65,64,66,.85);*/
+    position: fixed;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.sidebar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+    z-index: 2000; }
+

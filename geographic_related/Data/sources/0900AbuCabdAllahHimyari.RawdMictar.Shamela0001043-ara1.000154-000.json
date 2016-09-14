@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">اسبيجاب</h1>\n<p class=\"arabic\">مدينة متصلة ببلاد الشاش لها قهندز وربض ودار الإمارة والجامع في المدينة الداخلة، وفي ربضها مياه وبساتين، وهي مدينة في مستو من الأرض، وهي ذات خصب وسعة، وليس بخراسان كلها وما وراء النهر منها بلد لا خراج عليه إلا اسبيجاب.</p>",
+            "title": "اسبيجاب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000154-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

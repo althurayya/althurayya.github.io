@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الطيب</h1>\n<p class=\"arabic\">مدينة بالعراق على مرحلة من قرقوب بين واسط والسوس، وليست بكبيرة إنما هي حسنة الذات جامعة لأشتات البركات، وتصنع بها تكك تشبه التكك الأربسية لا يوجد مثلها بعد تكك أرمينية، ويصنع بها كثير من الصنائع لا يجارى صناعها فيها، ولهم كيس في الأمور وحذق.</p>",
+            "title": "الطيب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001019-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

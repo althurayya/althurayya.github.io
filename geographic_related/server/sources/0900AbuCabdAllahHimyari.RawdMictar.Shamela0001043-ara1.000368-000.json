@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">تلعفر</h1>\n<p class=\"arabic_poetry\">هي مدينة مصاقبة لسنجار منها الموفق التلعفري مظفر بن محمد كان متفننا في العلوم القديمة والحديثة رقيق الشعر، وكتب من شعره على تقويم صنعه لقطب الدين صاحب سنجار: [v.1, p.134] تضمن حسبان مجرى النجوم * وكاد يبوح بسر الفلك</p>\n<p class=\"arabic_poetry\">فما كان شرا فللحاسدين * وما كان خيرا وبشرى فلك</p>",
+            "title": "تلعفر",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000368-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

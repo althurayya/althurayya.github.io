@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">غرغة</h1>\n<p class=\"arabic\">اسم جبل في بلاد زغاوة من أرض السودان فيه نمل على قدر العصافير، هي أرزاق لحيات طوال غلاظ تكون في هذا الجبل، يقال إنها قليلة الضرر، والسودان يقصدون هذا الجبل يتصيدون فيه هذه الحيات ويأكلونها.</p>",
+            "title": "غرغة",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001100-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ألش</h1>\n<p class=\"arabic\">بالأندلس، إقليم ألش من كور تدمير بينه وبين اريولة خمسة عشر ميلا، وألش مدينة في مستو من الأرض يشقها خليج يأتيها من نهرها يدخل من تحت السور ويجري في جهاتها ويشق أسواقها وطرقاتها، وهو ملح سبخي. ومن ألش إلى لقنت خمسة عشر ميلا أيضا، ومن الغرائب أن بساحل ألش بمرسى يعرف بشنت بول حجرا يعرف بحجر الذئب، إذا وضع على ذئب أو سبع ويكن له عدوان وفارق طبعه في الفساد.</p>",
+            "title": "ألش",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000095-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

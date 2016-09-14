@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">العوراء</h1>\n<p class=\"arabic\">موضع باليمامة. والعوراء أيضا دجلة وقد تقدم القول فيها في حرف الدال. [v.1, p.421]</p>\n<p class=\"arabic\">ولبعض المتأخرين يهنئ السلطان المستنصر ملك إفريقية حين جلب العين الزغوانية إلى جنة أبي فهر :</p>\n<p class=\"arabic_poetry\">أجاب أمرك معنى كل مملكة * من عهد من جاب فيها الصخر بالوادي</p>\n<p class=\"arabic_poetry\">وكان حربا تعاصيهم قيادته * فعاد سلما كما قد كان في عاد</p>\n<p class=\"arabic_poetry\">وجرية الماء تبدي صوغ سلسلة * تنهي إليك بها اذعان منقاد</p>\n<p class=\"arabic_poetry\">لا تقبلن أمير المؤمنين بها * فرات فارس أو عوراء بغداد</p>",
+            "title": "العوراء",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001076-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

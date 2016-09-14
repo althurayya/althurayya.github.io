@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الثرثار</h1>\n<p class=\"arabic\">ماء معروف قبل تكريت، أنشد المبرد :</p>\n<p class=\"arabic_poetry\">لعمري لقد لاقت سليم وعامر * على جانب الثرثار راغية البكر قال: أراد أن بكر ثمود رغا فيهم فأهلكوا فضربته العرب مثلا، وقال الهمداني: الثرثار نهر يصب من الهرماس إلى دجلة، وقال أبو حنيفة: الثرثار بالجزيرة، وبالثرثار قتلت تغلب عمير بن الحباب.</p>",
+            "title": "الثرثار",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000404-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

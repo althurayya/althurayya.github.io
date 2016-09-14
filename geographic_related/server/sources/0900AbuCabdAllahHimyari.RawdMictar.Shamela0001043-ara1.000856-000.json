@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سوف</h1>\n<p class=\"arabic\">مدينة بالقرب من درجين وبقرب نفطة من البلاد الجريدية ولا يعرف عليها عمران إلا جبال ورمال يصاد بها الفنك الجيد الذي لا يوجد لجلده نظير في الدنيا، وأهل تلك البلاد يخبرون أن قوما أرادوا المعرفة بما وراء بلاد قسطيلية، مثل توزر وغيرها فأعدوا الأزودة والمياه وتاهوا في تلك الصحراء والرمال أياما فلم يروا أثرا لعمران وهلك أكثرهم في تلك الرمال.</p>",
+            "title": "سوف",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000856-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">الرقمتان</h1>\n<p class=\"arabic\">تثنية رقمة، موضعان، قال مالك بن الريب:</p>\n<p class=\"arabic_poetry\">فلله دري يوم أترك طائعا * بني بأعلى الرقمتين وماليا وقال زهير:</p>\n<p class=\"arabic_poetry\">ودار لها بالرقمتين كأنها * مواضع وشم في نواشر معصم وقيل هما روضتان: إحداهما قريب من البصرة والأخرى بنجد، وقيل: بل كل روضة رقمة، وقيل: الرقمتان في أطراف اليمامة، وفي شعر مهيار الديلمي:</p>\n<p class=\"arabic_poetry\">سقى دارها بالرقمتين وحياها * ملث يحيل الترب في الدار أمواها</p>",
+            "title": "الرقمتان",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000700-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

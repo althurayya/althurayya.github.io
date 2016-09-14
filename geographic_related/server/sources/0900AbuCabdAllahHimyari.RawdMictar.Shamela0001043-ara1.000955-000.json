@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ضخم</h1>\n<p class=\"arabic\">من مدن عمان وهي في الجبال، وماؤها من العيون، وبها نخل كثير، وقصب السكر، وبها أشجار يقال لها الأطواق تشبه شجر المقل، تقطع منها عروق ثم توضع في الماء فيسيل منها ماء يسكر من ساعته، وعامتهم أصحاب شعور وجمم.</p>",
+            "title": "ضخم",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000955-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

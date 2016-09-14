@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">كرسب</h1>\n<p class=\"arabic\">موضع بالهند منه يحمل البقم، وهو بيوت على ساحل البحر من طين وحشيش، وأهلها سمر الألوان، ولسانهم لسان الهند، ولهم أزر وأردية من إبريسم عليها نقوش، وهم عبدة أصنام، كل واحد منهم قد اتخذ صنما لنفسه من طين في بيته، ويمنعون المسلمين من اتخاذ مساجد في مواضعهم وأن يدفنوا موتاهم في مواضعهم، يقولون أن المطر يحبس عنهم بذلك السبب، ومنها يجلب البقم الجيد.</p>",
+            "title": "كرسب",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001286-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">قورية</h1>\n<p class=\"arabic\">بالأندلس، قريبة من ماردة، بينها وبين قنطرة السيف مرحلتان.</p>\n<p class=\"arabic\">ولها سور منيع ، وهي أولية البناء واسعة الفناء، من أحصن المعاقل وأحسن المنازل، ولها بواد شريفة خصيبة وضياع طيبة وأصناف من الفواكه كثيرة، وأكثرها العنب والتين.</p>",
+            "title": "قورية",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001257-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

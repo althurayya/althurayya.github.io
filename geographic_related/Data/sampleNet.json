@@ -1,0 +1,195 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        60.996094,38.742659
+                    ],
+                    [
+                        51.388974,35.689197
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-MAWARANNAHR",
+                "eToponym": "MACROREG-IRAN",
+                "id": "01"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        51.388974,35.689197
+                    ],
+                    [
+                        44.361488,33.312806
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-IRAN",
+                "eToponym": "MACROREG-IRAQ",
+                "id": "02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        51.388974,35.689197
+                    ],
+                    [
+                        71.455078,26.732528
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-IRAN",
+                "eToponym": "MACROREG-INDIA",
+                "id": "03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        44.361488,33.312806
+                    ],
+                    [
+                         36.298828,33.466580
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-IRAQ",
+                "eToponym": "MACROREG-SYRIA",
+                "id": "04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.298828,33.466580
+                    ],
+                    [
+                        31.245117,30.058001
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-SYRIA",
+                "eToponym": "MACROREG-EGYPT",
+                "id": "05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        31.245117,30.058001
+                    ],
+                    [
+                        -7.976074,31.650264
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-EGYPT",
+                "eToponym": "MACROREG-MAGHRIB",
+                "id": "06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.976074,31.650264
+                    ],
+                    [
+                        -5.646973,36.575100
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-MAGHRIB",
+                "eToponym": "MACROREG-ANDALUS",
+                "id": "07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        44.361488,33.312806
+                    ],
+                    [
+                        39.561768,24.495480
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-IRAQ",
+                "eToponym": "MACROREG-SARABIA",
+                "id": "08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.561768,24.495480
+                    ],
+                    [
+                        44.187012,15.323038
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-SARABIA",
+                "eToponym": "MACROREG-ARABIA",
+                "id": "09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.646973,36.575100
+                    ],
+                    [
+                        12.496366,41.902783
+                    ]
+                ]
+            },
+            "properties": {
+                "sToponym": "MACROREG-ANDALUS",
+                "eToponym": "MACROREG-RUM",
+                "id": "09"
+            }
+        }
+	],
+"type": "FeatureCollection"
+}

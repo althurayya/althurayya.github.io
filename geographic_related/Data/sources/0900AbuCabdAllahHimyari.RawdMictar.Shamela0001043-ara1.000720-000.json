@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">ريا</h1>\n<p class=\"arabic\">مدينة على رأس قنديلة حيث بحر فاران الذي فيه غرق فرعون، وهي مدينة صغيرة لها رساتيق ونخل ومياه طيبة على قرب متناول، وبها مسجد جامع متقن البناء، ولها ساحل.</p>",
+            "title": "ريا",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000720-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

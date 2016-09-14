@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">دير ميسون</h1>\n<p class=\"arabic\">بسر من رأى وهو مقصود لطيبه ونضرته وحسن موضعه وفيه يقول بعض الكتاب:</p>\n<p class=\"arabic_poetry\">يا رب دير عمرته زمنا * ثالث قسيسه وشماسه</p>\n<p class=\"arabic_poetry\">لا أعدم الكاس من يدي رشأ * يزري على المسك طيب أنفاسه</p>\n<p class=\"arabic_poetry\">كأنه البدر لاح في ظلم الل * يل إذا حل بين جلاسه [v.1, p.253]</p>\n<p class=\"arabic_poetry\">كأن طيب الحياة واللهو وال * لذات طرا جمعن في كاسه</p>\n<p class=\"arabic_poetry\">في دير ميسون ليلة الفصح و * الليل بهيم صعب بحراسه</p>",
+            "title": "دير ميسون",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000648-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}

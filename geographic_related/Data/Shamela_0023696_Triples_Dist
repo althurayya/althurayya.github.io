@@ -1,0 +1,1374 @@
+FROM مكة 	TOWA بطن مر 	DIST مرحلة 
+FROM بطن مر 	TOWA عسفان 	DIST مرحلة 
+FROM عسفان 	TOWA خليص 	DIST مرحلة 
+FROM عسفان 	TOWA أمج 	DIST مرحلة 
+FROM خليص 	TOWA الخيم 	DIST مرحلة 
+FROM أمج 	TOWA الخيم 	DIST مرحلة 
+FROM الخيم 	TOWA الجحفة 	DIST مرحلة 
+FROM الجحفة 	TOWA الأبواء 	DIST مرحلة 
+FROM الأبواء 	TOWA سقيا بنى غفار 	DIST مرحلة 
+FROM سقيا بنى غفار 	TOWA العرج 	DIST مرحلة 
+FROM العرج 	TOWA الروحاء 	DIST مرحلة 
+FROM الروحاء 	TOWA رويثة 	DIST مرحلة 
+FROM رويثة 	TOWA يثرب 	DIST مرحلة 
+FROM مكة 	TOWA يلملم 	DIST مرحلة 
+FROM يلملم 	TOWA قرن 	DIST مرحلة 
+FROM قرن 	TOWA السرین 	DIST مرحلة 
+FROM مکه 	TOWA بستان بنى عامر 	DIST مرحلة 
+FROM بستان بنى عامر 	TOWA ذات عرق 	DIST مرحلة 
+FROM ذات عرق 	TOWA الغمرة 	DIST مرحلة 
+FROM مکه 	TOWA قرین 	DIST مرحلة 
+FROM قرین 	TOWA جدة 	DIST مرحلة 
+FROM بطن مر 	TOWA جدة 	DIST مرحلة 
+FROM الجحفة 	TOWA بدر 	DIST مرحلة 
+FROM بدر 	TOWA الصفراء 	DIST مرحلة 
+FROM بدر 	TOWA المعلاة 	DIST مرحلة 
+FROM الصفراء 	TOWA الروحاء 	DIST مرحلة 
+FROM المعلاة 	TOWA الروحاء 	DIST مرحلة 
+FROM بدر 	TOWA ینبع 	DIST مرحلتین 
+FROM ینبع 	TOWA الراس العین 	DIST مرحلة 
+FROM بدر 	TOWA المعدن 	DIST مرحلة 
+FROM الراس العین 	TOWA المروة 	DIST مرحلتین 
+FROM بدر 	TOWA الجار 	DIST مرحلة 
+FROM الجار 	TOWA الجحفة 	DIST مرحلتین 
+FROM الجار 	TOWA ينبع 	DIST مرحلتین 
+FROM جدة 	TOWA الجار 	DIST أربعا 
+FROM جدة 	TOWA السرین 	DIST أربعا 
+FROM یثرب 	TOWA السويدية 	DIST مرحلتین 
+FROM یثرب 	TOWA بطن النخل 	DIST مرحلتین 
+FROM السويدية 	TOWA المروة 	DIST مرحلتین 
+FROM بطن النخل 	TOWA معدن النقرة 	DIST مرحلتین 
+FROM المروة 	TOWA السقيا 	DIST ثلاثا 
+FROM السقیا 	TOWA بدا یعقوب 	DIST ثلاثا مرحلة 
+FROM بدا یعقوب 	TOWA العونید 	DIST مرحلة 
+FROM السقیا 	TOWA وادی القری 	DIST مرحلة 
+FROM وادی القری 	TOWA الحجر 	DIST مرحلة 
+FROM الحجر 	TOWA تيماء 	DIST  ثلاث مراحل 
+FROM زبالة 	TOWA الشقوق 	DIST واحد وعشرون میلا 
+FROM الشقوق 	TOWA البطان 	DIST تسعة وعشرون میلا 
+FROM البطان 	TOWA الثعلبية 	DIST تسعة وعشرون میلا 
+FROM الثعلبیة 	TOWA الخزیمیة 	DIST اثنان وثلاثون میلا 
+FROM الخزیمیه 	TOWA أجفر 	DIST أربع وعشرين میلا 
+FROM أجفر 	TOWA فید 	DIST ستة وثلاثون میلا 
+FROM فید 	TOWAتوز 	DIST واحد وثلاثين میلا 
+FROM توز 	TOWA سمیراء 	DIST عشرون میلا 
+FROM سمیراء 	TOWA حاجر 	DIST ثلاثة وثلاثين میلا 
+FROM حاجر 	TOWA معدن النقرة 	DIST اربع وثلاثون میلا 
+FROM معدن النقرة 	TOWA المغيثة 	DIST ثلاثة وثلاثين میلا 
+FROM المغيثة 	TOWA الربذة 	DIST أربع وعشرين میلا 
+FROM الربذة 	TOWA معدن بنى سليم 	DIST أربع وعشرين میلا 
+FROM معدن بنى سليم 	TOWA السليلة 	DIST ستة وثلاثون میلا 
+FROM السليلة 	TOWA العمق 	DIST واحد وعشرون میلا 
+FROM العمق 	TOWA الأفيعية 	DIST اثنان وثلاثون میلا 
+FROM الأفيعية 	TOWA المسلح 	DIST اثنان وثلاثون میلا 
+FROM المسلح 	TOWA غمرة 	DIST ثمانية عشر میلا 
+FROM البصرة 	TOWA الحفیر 	DIST ثمانية عشر میلا 
+FROM الحفیر 	TOWA الرحیل 	DIST ثمانية وعشرين میلا 
+FROM الرحیل 	TOWA الشجى 	DIST سبعة وعشرين میلا 
+FROM الشجى 	TOWA حفر ابى موسى 	DIST ستة وثلاثون میلا 
+FROM حفر ابى موسى 	TOWA ماویة 	DIST اثنان وثلاثون میلا 
+FROM ماویة 	TOWA ذات العشر 	DIST تسعة وعشرين میلا 
+FROM دات العشر 	TOWA الینسوعة 	DIST ثلاثة وعشرون میلا 
+FROM الینسوعة 	TOWA السمينة 	DIST تسعة وعشرين میلا 
+FROM السمينة 	TOWA القريتين 	DIST اثنان وعشرون میلا 
+FROM القريتين 	TOWA النباج 	DIST ثلاثة وعشرون میلا 
+FROM النباج 	TOWA العوسجة 	DIST تسعة وعشرين میلا 
+FROM العوسجة 	TOWA رامة 	DIST 
+FROM رامة 	TOWA إمرة 	DIST سبعة وعشرين میلا 
+FROM إمرة 	TOWA طخفة 	DIST ستة وثلاثون میلا 
+FROM طخفة 	TOWA ضریة 	DIST ثمانية عشر میلا 
+FROM ضریة 	TOWA جديلة 	DIST اثنان وثلاثون میلا 
+FROM جدیلة 	TOWA ملحة 	DIST خمسة وثلاثين میلا 
+FROM ملحة 	TOWA الدثينة 	DIST ستة وثلاثون میلا 
+FROM الدثينة 	TOWA قبا 	DIST سبعة وعشرين میلا 
+FROM قبا 	TOWA الشبيكة(السنبلة) 	DIST سبعة وعشرين میلا 
+FROM الشبيكة(السنبلة) 	TOWA وجرة 	DIST أربعون میلا 
+FROM وجرة 	TOWA ذات عرق 	DIST سبعة وعشرين میلا 
+FROM ويلة 	TOWA شرف ذي النمل 	DIST مرحلة 
+FROM شرف ذي النمل 	TOWA مدین 	DIST مرحلة 
+FROM مدین 	TOWA الاعراء 	DIST مرحلة 
+FROM مدین 	TOWA منزل 	PROVINCE
+FROM مدین 	TOWA منزل 	PROVWORD
+FROM منزل 	TOWA الكلاية 	DIST مرحلة 
+FROM الكلاية 	TOWA شغب 	DIST مرحلة 
+FROM شغب 	TOWA بدا 	DIST مرحلة 
+FROM بدا 	TOWA السرحتین 	DIST مرحلة 
+FROM السرحتین 	TOWA البیضاء 	DIST مرحلة 
+FROM البیضاء 	TOWA وادی القری 	DIST مرحلة 
+FROM شرف ذي النمل 	TOWA الصلا 	DIST 
+FROM الصلا 	TOWA النبك 	DIST 
+FROM النبک 	TOWA ضبة 	DIST 
+FROM صبة 	TOWA العونید 	DIST 
+FROM العونید 	TOWA الرحبة 	DIST 
+FROM الرحبة 	TOWA منخوس 	DIST 
+FROM منخوس 	TOWA البحیرة 	DIST 
+FROM البحیرة 	TOWA الأحساء 	DIST 
+FROM الأحساء 	TOWA العشیرة 	DIST 
+FROM العشیرة 	TOWA الجار 	DIST 
+FROM الجار 	TOWA بدر 	DIST 
+FROM صحار 	TOWA نزوة 	DIST 
+FROM نزوة 	TOWA عجلة 	DIST ثلاثون میلا 
+FROM عجلة 	TOWA عضوة 	DIST أربع وعشرين میلا 
+FROM عضوة 	TOWA بئر السلاح 	DIST ثلاثون میلا 
+FROM صنعاء 	TOWA الريدة 	DIST مرحلة 
+FROM الريدة 	TOWA أثافت 	DIST مرحلة 
+FROM أثافت 	TOWA خيوان 	DIST مرحلة 
+FROM خيوان 	TOWA الأعمشية 	DIST مرحلة 
+FROM الأعمشية 	TOWA صعدة 	DIST مرحلة 
+FROM صعدة 	TOWA غرفة 	DIST مرحلة 
+FROM صعدة 	TOWA المهجرة 	DIST مرحلة 
+FROM المهجرة 	TOWA شروراح 	DIST مرحلة 
+FROM شروراح 	TOWA الثجة 	DIST مرحلة
+FROM الثجة 	TOWA کثبة 	DIST مرحلة
+FROM کثبة 	TOWA یبنبم 	DIST مرحلة
+FROM یبنبم	PROVINCE#WORD	TYPE
+FROM یبنبم	PROVINCE#WORD	TYPEWORD
+FROM جرش/یبنبم	PROVINCE#WORD	TYPE
+FROM جرش/یبنبم	PROVINCE#WORD	TYPEWORD
+FROM بنات جرم 	TOWA جسداء 	DIST مرحلة
+FROM جسداء 	TOWA بیشة 	DIST مرحلة
+FROM بیشة 	TOWA تبالة 	DIST مرحلة
+FROM تبالة 	TOWA رنیة 	DIST مرحلة
+FROM رنیة 	TOWA کدی 	DIST مرحلة
+FROM کدی 	TOWA صفر 	DIST مرحلة
+FROM صفر 	TOWA تربة 	DIST مرحلة
+FROM تربة 	TOWA الفتق 	DIST مرحلة
+FROM الفتق 	TOWA الجدد 	DIST مرحلة
+FROM الجدد 	TOWA الغمرة 	DIST مرحلة
+FROM مکة 	TOWA بئر ابن المرتفع 	DIST مرحلة 
+FROM بئر ابن المرتفع 	TOWA قرن 	DIST مرحلة 
+FROM قرن 	TOWA الطائف 	DIST مرحلة 
+FROM ویلة 	TOWA شرف البعل 	DIST مرحلة 
+FROM شرف البعل 	TOWA الصلا 	DIST مرحلة 
+FROM شرف الصلا 	TOWA النبک 	DIST مرحلة 
+FROM شرف النبک 	TOWA ضبة 	DIST مرحلة 
+FROM ضبة 	TOWA عونید 	DIST مرحلة 
+FROM عونید 	TOWA الرحبة 	DIST مرحلة 
+FROM الرحبة 	TOWA منخوس 	DIST مرحلة 
+FROM منخوس 	TOWA البحیرة 	DIST مرحلة 
+FROM البحیرة 	TOWA الإحساء 	DIST مرحلة 
+FROM الإحساء 	TOWA الاعراء 	DIST مرحلة 
+FROM الاعراء 	TOWA الکلایة 	DIST مرحلة 
+FROM الکلایة 	TOWA شغب 	DIST مرحلة 
+FROM شغب 	TOWA بدا 	DIST مرحلة 
+FROM بدا 	TOWA السرحتین 	DIST مرحلة 
+FROM السرحتین 	TOWA البیضاء 	DIST مرحلة 
+FROM البیضاء 	TOWA قرح 	DIST مرحلة 
+FROM قرح 	TOWA سقیا یزید 	DIST مرحلة 
+FROM صنعاء 	TOWA صداء 	DIST اثنان وأربعون فرسخا 
+FROM صنعاء 	TOWA حضرموت 	DIST أربعة وسبعين فرسخا
+FROM صنعاء 	TOWA ذمار 	DIST ست عشرة فرسخا 
+FROM ذمار 	TOWA نسفان 	DIST مرحلة 
+FROM ذمار 	TOWA کحلان 	DIST مرحلة 
+FROM کحلان	PROVINCE#WORD	TYPE
+FROM کحلان	PROVINCE#WORD	TYPEWORD
+FROM کحلان	PROVINCE#WORD	TYPE
+FROM کحلان	PROVINCE#WORD	TYPEWORD
+FROM بدر	PROVINCE#WORD	TYPE
+FROM بدر	PROVINCE#WORD	TYPEWORD
+FROM ذمار 	TOWA یحصب 	DIST مرحلة 
+FROM یحصب 	TOWA السحول 	DIST مرحلة 
+FROM السحول 	TOWA الثجة 	DIST مرحلة
+FROM الثجة 	TOWA الجند 	DIST مرحلة
+FROM صنعاء 	TOWA الجند 	DIST ثمانية وأربعون فرسخا 
+FROM صنعاء 	TOWA العرف 	DIST مرحلة 
+FROM العرف 	TOWA ألهان 	DIST عشرة فرسخا 
+FROM ألهان 	TOWA جبلان 	DIST أربعة عشرة فرسخا
+FROM جبلان 	TOWA زبید 	DIST 
+FROM صنعاء 	TOWA شبام 	DIST مرحلة 
+FROM صنعاء 	TOWA عثر 	DIST 
+FROM عدن 	TOWA أبین 	DIST ثلاثة مرحلة 
+FROM بغداد 	TOWA نهر الملك 	DIST مرحلة 
+FROM نهر الملك 	TOWA القصر 	DIST مرحلة 
+FROM القصر 	TOWA حمام ابن عمر 	DIST مرحلة 
+FROM حمام ابن عمر  	TOWA الكوفة 	DIST مرحلة 
+FROM الكوفة 	TOWA القادسية 	DIST مرحلة 
+FROM بغداد 	TOWA المدائن 	DIST مرحلة 
+FROM المدائن 	TOWA السيب 	DIST مرحلة 
+FROM السيب 	TOWA دير العاقول 	DIST مرحلة 
+FROM دير العاقول 	TOWA جرجرايا 	DIST مرحلة 
+FROM جرجرايا 	TOWA النعمانية 	DIST مرحلة 
+FROM النعمانية 	TOWA جبل 	DIST مرحلة 
+FROM جبل 	TOWA نهر سابس 	DIST مرحلة 
+FROM نهر سابس 	TOWA مطارة 	DIST بريدين 
+FROM مطارة 	TOWA c 	DIST بريدين 
+FROM الحارله 	TOWA الاسحاقية 	DIST مرحلة 
+FROM الاسحاقية 	TOWA المحراقة 	DIST بريدين 
+FROM المحراقة 	TOWA الحدادية 	DIST بريدين 
+FROM الحدادية 	TOWA ترمانة 	DIST مرحلة 
+FROM ترمانة 	TOWA واسط 	DIST مرحلة 
+FROM الحدادية 	TOWA الزبيدية 	DIST مرحلة 
+FROM الزبيدية 	TOWA واسط 	DIST بريدين 
+FROM المحراقة 	TOWA الجامدة 	DIST بريدين 
+FROM الحدادية 	TOWA الصليق 	DIST بريدين 
+FROM البصرة 	TOWA الأبلة 	DIST بريدين 
+FROM الأبلة 	TOWA بيان 	DIST مرحلة 
+FROM بيان 	TOWA عبادان 	DIST مرحلة 
+FROM بغداد 	TOWA السيلحين 	DIST يريدين 
+FROM السيلحين 	TOWA الأنبار 	DIST مرحلة 
+FROM الأنبار 	TOWA الرب 	DIST مرحلة 
+FROM الرب 	TOWA هيت 	DIST مرحلتين 
+FROM بغداد 	TOWA البردان 	DIST بريدين 
+FROM البردان 	TOWA عكبرا 	DIST مرحلة 
+FROM عكبرا 	TOWA باحمشا 	DIST نصف مرحلة 
+FROM باحمشا 	TOWA القادسية 	DIST مرحلة 
+FROM القادسية 	TOWA الكرخ 	DIST مرحلة 
+FROM الكرخ 	TOWA جبلتا 	DIST مرحلة 
+FROM جبلتا 	TOWA السودقانية 	DIST مرحلة 
+FROM السودقانية 	TOWA بارما 	DIST مرحلة 
+FROM بارما 	TOWA السن 	DIST مرحلة 
+FROM بغداد 	TOWA النهروان 	DIST بريدين 
+FROM النهروان 	TOWA دير بازما 	DIST بريدين 
+FROM دير بازما 	TOWA الدسكرة 	DIST مرحلة 
+FROM الدسكرة 	TOWA جلولا 	DIST مرحلة 
+FROM جلولا 	TOWA خانقين 	DIST مرحلة 
+FROM هيت 	TOWA الناووسة 	DIST مرحلة 
+FROM الناووسة 	TOWA عانة 	DIST مرحلة 
+FROM عانة 	TOWA آلوسة 	DIST مرحلة 
+FROM آلوسة 	TOWA الفحيمة 	DIST مرحلة 
+FROM الفحيمة 	TOWA الحديثة 	DIST مرحلة 
+FROM الحديثة 	TOWA النهية 	DIST مرحلة 
+FROM حلوان 	TOWA ماذرواستان 	DIST بريدين 
+FROM ماذرواستان 	TOWA المرج 	DIST مرحلة 
+FROM المرج 	TOWA قصر يزيد 	DIST بريدين 
+FROM قصر يزيد 	TOWA الزبيدية 	DIST مرحلة 
+FROM الزبيدية 	TOWA قصر عمرو 	DIST مرحلة 
+FROM قصر عمرو 	TOWA قرماسين 	DIST نصف مرحلة 
+FROM حلوان 	TOWA قصر شيرين 	DIST مرحلة 
+FROM قصر شيرين 	TOWA خانقين 	DIST مرحلة 
+FROM الأبلة 	TOWA نهر دبا 	DIST مرحلة 
+FROM نهر دبا 	TOWA فم العضدى 	DIST مرحلة 
+FROM مرجهينة 	TOWA الحديثة 	DIST مرحلة 
+FROM الحديثة 	TOWA البقيعة 	DIST مرحلة 
+FROM البقيعة 	TOWA السن 	DIST مرحلة 
+FROM بلد 	TOWA برقعيد 	DIST مرحلة 
+FROM برقعيد 	TOWA أذرمة 	DIST مرحلة 
+FROM أذرمة 	TOWA المونسة 	DIST مرحلة 
+FROM المونسة 	TOWA نصيبين 	DIST مرحلة 
+FROM نصيبين 	TOWA دارا 	DIST مرحلة 
+FROM المحلبية 	TOWA الشحاجية 	DIST مرحلة 
+FROM الشحاجية 	TOWA تل اعفر 	DIST مرحلة 
+FROM  تل اعفر 	TOWA سنجار 	DIST مرحلة 
+FROM مزارعى 	TOWA معلثايا 	DIST مرحلة 
+FROM معلثايا 	TOWA الحسنية 	DIST مرحلة 
+FROM الحسنية 	TOWA ثمانين 	DIST مرحلة 
+FROM ثمانين 	TOWA جزيرة ابن عمر 	DIST مرحلة 
+FROM جزيرة ابن عمر 	TOWA تل فافان 	DIST مرحلة 
+FROM الموصل 	TOWA شهرزور 	DIST ستون فرسخا 
+FROM آمد 	TOWA ميافارقين 	DIST مرحلة 
+FROM ميافارقين 	TOWA أرزن 	DIST مرحلة 
+FROM أرزن 	TOWA مسجد أويس 	DIST مرحلة 
+FROM مسجد أويس 	TOWA المعدن 	DIST مرحلة 
+FROM المعدن 	TOWA بدليس 	DIST مرحلة 
+FROM بدليس 	TOWA شمشاط 	DIST مرحلة 
+FROM شمشاط 	TOWA تل حوم 	DIST مرحلة 
+FROM تل حوم 	TOWA جرنان 	DIST مرحلة 
+FROM جرنان 	TOWA بامقرا 	DIST مرحلة 
+FROM بامقرا 	TOWA جلاب 	DIST مرحلة 
+FROM جلاب 	TOWA الرها 	DIST بريدين 
+FROM الرها 	TOWA حران 	DIST بريدين 
+FROM حران 	TOWA باجروان 	DIST مرحلة 
+FROM باجروان 	TOWA الرقة 	DIST نصف مرحلة 
+FROM الرحبة 	TOWA قرقيسيا 	DIST مرحلة 
+FROM قرقيسيا 	TOWA الدالية 	DIST مرحلة 
+FROM قرقيسيا 	TOWA بئر 	DIST مرحلة 
+FROM قرقيسيا 	TOWA فدين 	DIST مرحلة 
+FROM فدين 	TOWA السكير 	DIST مرحلة 
+FROM آمد 	TOWA تل حور 	DIST مرحلة 
+FROM تل حور 	TOWA ملطين 	DIST مرحلة 
+FROM ملطين 	TOWA طبوس 	DIST مرحلة 
+FROM طبوس 	TOWA شمشاط 	DIST مرحلة 
+FROM شمشاط 	TOWA الفعونية 	DIST مرحلة 
+FROM الفعونية 	TOWA حصن زياد 	DIST مرحلة 
+FROM حصن زياد 	TOWA ملطين 	DIST مرحلة 
+FROM ملطين 	TOWA عرقة 	DIST مرحلة 
+FROM عرقة 	TOWA الصفصاف 	DIST مرحلة 
+FROM الصفصاف 	TOWA الرمانة 	DIST مرحلة 
+FROM الرمانة 	TOWA سمندو 	DIST مرحلتين 
+FROM سمندو 	TOWA مرج قيسارية 	DIST مرحلة 
+FROM أنقرة 	TOWA جسر شاغر 	DIST ثلاثة مراحل 
+FROM جسر شاغر 	TOWA النقموذية 	DIST مرحلة 
+FROM النقموذية 	TOWA ملعب الملك 	DIST مرحلة 
+FROM ملعب الملك 	TOWA حارفة 	DIST مرحلة 
+FROM حارفة 	TOWA القسطنطينية 	DIST مرحلة 
+FROM ميافارقين 	TOWA موش 	DIST أربعة مراحل 
+FROM موش 	TOWA قنب 	DIST مرحلة 
+FROM قنب 	TOWA سن نحلس 	DIST مرحلة 
+FROM سموقموش 	TOWA قلونية العوفي 	DIST مرحلتين 
+FROM قلونية العوفي 	TOWA نفشارية 	DIST أربعة مراحل 
+FROM نفشارية 	TOWA عقبة الشهداء 	DIST مرحلة 
+FROM عقبة الشهداء 	TOWA الأفلاغونية 	DIST مرحلة 
+FROM الأفلاغونية 	TOWA السونشة 	DIST مرحلة 
+FROM السونشة 	TOWA بمولصة 	DIST مرحلة 
+FROM بمولصة 	TOWA بلد ابن السوانيطى 	DIST مرحلة 
+FROM بلد ابن السوانيطى 	TOWA دوسنية 	DIST مرحلة 
+FROM قطابولى 	TOWA بلد ابن الملاين 	DIST مرحلتين 
+FROM بلد ابن الملاين 	TOWA البحيرة الحلوة 	DIST مرحلة 
+FROM البحيرة الحلوة 	TOWA حصن صاعس 	DIST مرحلة 
+FROM حلب 	TOWA بالس 	DIST يومين 
+FROM حلب 	TOWA قنسرين 	DIST يوما 
+FROM حلب 	TOWA منبج 	DIST يومين 
+FROM انطاكية 	TOWA الاذقية 	DIST ثلاثة ايام 
+FROM منبج 	TOWA الفرات 	DIST مرحلة 
+FROM حمص 	TOWA جوسية 	DIST مرحلة 
+FROM جوسية 	TOWA يعاث 	DIST مرحلة 
+FROM يعاث 	TOWA بعلبك 	DIST نصف مرحلة 
+FROM بعلبك 	TOWA الزبداني 	DIST مرحلة 
+FROM الزبداني 	TOWA دمشق 	DIST مرحلة 
+FROM حمص 	TOWA شمسين 	DIST مرحلة 
+FROM شمسين 	TOWA قارا 	DIST مرحلة 
+FROM قارا 	TOWA البنك 	DIST مرحلة 
+FROM البنك 	TOWA القطيفة 	DIST مرحلة 
+FROM القطيفة 	TOWA دمشق 	DIST مرحلة 
+FROM حمص 	TOWA سلمية 	DIST مرحلة 
+FROM سلمية 	TOWA القسطل 	DIST مرحلتين 
+FROM القسطل 	TOWA الزراعة 	DIST مرحلتين 
+FROM الزراعة 	TOWA الرصافة 	DIST مرحلتين 
+FROM الرصافة 	TOWA الرقة 	DIST نصف مرحلة 
+FROM حمص 	TOWA حماة 	DIST مرحلة 
+FROM حماة 	TOWA شيزر 	DIST مرحلة 
+FROM شيزر 	TOWA كفرطاب 	DIST مرحلة 
+FROM كفرطاب 	TOWA قنسرين 	DIST مرحلة 
+FROM قنسرين 	TOWA حلب 	DIST مرحلة 
+FROM دمشق 	TOWA طرابلس 	DIST يومين 
+FROM دمشق 	TOWA بيروت 	DIST يومين 
+FROM دمشق 	TOWA صيدا 	DIST يومين 
+FROM دمشق 	TOWA بانياس 	DIST يومين 
+FROM دمشق 	TOWA الحوران 	DIST يومين 
+FROM دمشق 	TOWA البثنية 	DIST يومين 
+FROM دمشق 	TOWA أقصى الغوطة 	DIST مرحلة 
+FROM دمشق 	TOWA بيت سرعا 	DIST مرحلة 
+FROM دمشق 	TOWA الكسوة 	DIST بريدين 
+FROM دمشق 	TOWA جاسم 	DIST مرحلة 
+FROM جاسم 	TOWA فيق 	DIST مرحلة 
+FROM فيق 	TOWA طبرية 	DIST بريدا 
+FROM بانياس 	TOWA قدس 	DIST بريدين 
+FROM بانياس 	TOWA جب يوسف 	DIST بريدين 
+FROM بيروت 	TOWA صيدا 	DIST مرحلة 
+FROM بيروت 	TOWA طرابلس 	DIST مرحلة 
+FROM طبرية 	TOWA اللجون 	DIST مرحلة 
+FROM طبرية 	TOWA جب يوسف 	DIST مرحلة 
+FROM طبرية 	TOWA بيسان 	DIST مرحلة 
+FROM طبرية 	TOWA عقبة أفيق 	DIST مرحلة 
+FROM طبرية 	TOWA الجش 	DIST مرحلة 
+FROM طبرية 	TOWA كفركيلا 	DIST مرحلة 
+FROM اللجون 	TOWA قلنسوة 	DIST مرحلة 
+FROM قلنسوة 	TOWA الرملة 	DIST مرحلة 
+FROM كفرسابا 	TOWA الرملة 	DIST مرحلة 
+FROM بيسان 	TOWA تعاسير 	DIST بريدين 
+FROM بريدين 	TOWA نابلس 	DIST بريدين 
+FROM نابلس 	TOWA بيت المقدس 	DIST مرحلة 
+FROM جب يوسف 	TOWA قرية العيون 	DIST مرحلتين 
+FROM قرية العيون 	TOWA القرعون 	DIST مرحلة 
+FROM القرعون 	TOWA عين الحجر 	DIST مرحلة 
+FROM عين الحجر 	TOWA بعلبك 	DIST مرحلة 
+FROM الجش 	TOWA صور 	DIST مرحلة 
+FROM صور 	TOWA صيدا 	DIST مرحلة 
+FROM صور 	TOWA قدس 	DIST بريدين 
+FROM صور 	TOWA مجدل سلم 	DIST بريدين 
+FROM مجدل سلم 	TOWA بانياس 	DIST بريدين 
+FROM طبرية 	TOWA عكا 	DIST مرحلتين 
+FROM جبل لبنان 	TOWA نابلس 	DIST مرحلة 
+FROM جبل لبنان 	TOWA قدس 	DIST مرحلة 
+FROM جبل لبنان 	TOWA صيدا 	DIST مرحلة 
+FROM جبل لبنان 	TOWA صور نحو 	DIST مرحلة 
+FROM الرملة 	TOWA بيت المقدس 	DIST مرحلة 
+FROM الرملة 	TOWA بيت جبريل 	DIST مرحلة 
+FROM الرملة 	TOWA عسقلان 	DIST مرحلة 
+FROM الرملة 	TOWA السكرية 	DIST مرحلة 
+FROM الرملة 	TOWA نابلس 	DIST مرحلة 
+FROM الرملة 	TOWA كفر سلام 	DIST مرحلة 
+FROM الرملة 	TOWA مسجد إبراهيم 	DIST مرحلة 
+FROM الرملة 	TOWA اريحاء 	DIST مرحلة 
+FROM الرملة 	TOWA يافه 	DIST مرحلة 
+FROM الرملة 	TOWA الماحوز 	DIST مرحلة 
+FROM الرملة 	TOWA ارسوف 	DIST مرحلة 
+FROM الرملة 	TOWA ازدود 	DIST مرحلة 
+FROM الرملة 	TOWA رفح 	DIST مرحلة 
+FROM بيت المقدس 	TOWA بيت جبريل 	DIST مرحلة 
+FROM بيت المقدس 	TOWA مسجد إبراهيم 	DIST مرحلة 
+FROM بيت المقدس 	TOWA نهر الاردن 	DIST مرحلة 
+FROM بيت المقدس 	TOWA نابلس 	DIST مرحلة 
+FROM بيت المقدس 	TOWA اريحاء 	DIST بريدين 
+FROM غزة 	TOWA بيت جبريل 	DIST مرحلة 
+FROM غزة 	TOWA ازدود 	DIST مرحلة 
+FROM غزة 	TOWA رفح 	DIST مرحلة 
+FROM مسجد إبراهيم 	TOWA قاووس 	DIST مرحلة 
+FROM قاووس 	TOWA صغر 	DIST مرحلة 
+FROM نهر الاردن 	TOWA عمان 	DIST مرحلة 
+FROM نابلس 	TOWA اريحاء 	DIST مرحلة 
+FROM اريحاء 	TOWA بيت الرام 	DIST بريدين 
+FROM بيت الرام 	TOWA عمان 	DIST مرحلة 
+FROM صغر 	TOWA مآب 	DIST مرحلة 
+FROM عميان 	TOWA مآب 	DIST مرحلة 
+FROM عميان 	TOWA الزرقاء 	DIST مرحلة 
+FROM الزرقاء 	TOWA أذرعات 	DIST مرحلة 
+FROM أذرعات 	TOWA دمشق 	DIST مرحلتين 
+FROM قيسارية 	TOWA كفرسلام 	DIST مرحلة 
+FROM قيسارية 	TOWA كفرسابا 	DIST مرحلة 
+FROM قيسارية 	TOWA ارسوف 	DIST مرحلة 
+FROM قيسارية 	TOWA الكنيسة 	DIST مرحلة 
+FROM يافه 	TOWA عسقلان 	DIST مرحلة 
+FROM الفرما 	TOWA البقارة 	DIST مرحلة 
+FROM البقارة 	TOWA الورادة 	DIST مرحلة 
+FROM الورادة 	TOWA العريش 	DIST مرحلة 
+FROM العريش 	TOWA رفح 	DIST مرحلة 
+FROM الفرما 	TOWA جرجير 	DIST مرحلة في الصيف 
+FROM جرجير 	TOWA فاقوس 	DIST مرحلة 
+FROM الفرما 	TOWA الرصد 	DIST مرحلة في الشتاء 
+FROM الرصد 	TOWA فاقوس 	DIST مرحلة 
+FROM الفرما 	TOWA تنيس 	DIST مرحلة في الماء 
+FROM تنيس 	TOWA دمياط 	DIST مرحلة 
+FROM دمياط 	TOWA المحلة الكبيرة 	DIST مرحلة 
+FROM المحلة الكبيرة 	TOWA الاسكندرية 	DIST مرحلتين 
+FROM دمياط 	TOWA سردوس 	DIST مرحلة 
+FROM سردوس 	TOWA الفسطاط 	DIST مرحلة 
+FROM بلبيس 	TOWA المنصف 	DIST مرحلة 
+FROM المنصف 	TOWA القلزم 	DIST مرحلة 
+FROM الفرما 	TOWA دير النصارى 	DIST مرحلة 
+FROM دير النصارى 	TOWA المخلصة 	DIST مرحلة 
+FROM المخلصة 	TOWA العريش 	DIST مرحلة 
+FROM بلبيس 	TOWA الفسطاط 	DIST مرحلة 
+FROM الاسكندرية 	TOWA الرافقة 	DIST مرحلة 
+FROM الرافقة 	TOWA كوم شريك 	DIST مرحلة 
+FROM كوم شريك 	TOWA ترنوط 	DIST مرحلة 
+FROM ترنوط 	TOWA ذات السلاسل 	DIST مرحلة 
+FROM ذات السلاسل 	TOWA الفسطاط 	DIST مرحلة 
+FROM الاسكندرية 	TOWA بومينه 	DIST مرحلة 
+FROM بومينه 	TOWA سفا 	DIST مرحلة 
+FROM سفا 	TOWA ارمسا 	DIST مرحلة 
+FROM ارمسا 	TOWA ذات الحمام 	DIST مرحلة 
+FROM الاسكندرية 	TOWA الغاضرة 	DIST مرحلة 
+FROM الغاضرة 	TOWA فاقوس 	DIST مرحلة 
+FROM الفسطاط 	TOWA بلبيس 	DIST مرحلة 
+FROM بلبيس 	TOWA المنصف 	DIST مرحلة 
+FROM المنصف 	TOWA القلزم 	DIST مرحلة 
+FROM الجب 	TOWA البويب 	DIST مرحلة 
+FROM البويب 	TOWA منزل ابن بندقة 	DIST مرحلة 
+FROM منزل ابن بندقة 	TOWA عجرود 	DIST مرحلة 
+FROM عجرود 	TOWA المدينة 	DIST مرحلة 
+FROM المدينة 	TOWA الكرسي 	DIST مرحلة 
+FROM الكرسي 	TOWA الحفر 	DIST مرحلة 
+FROM الحفر 	TOWA ويلة 	DIST مرحلة 
+FROM برقة 	TOWA الندامة 	DIST مرحلة 
+FROM الندامة 	TOWA تاكنست 	DIST مرحلة 
+FROM تاكنست 	TOWA المغار 	DIST مرحلة 
+FROM المغار 	TOWA حليمان 	DIST مرحلة 
+FROM حليمان 	TOWA مخيل 	DIST مرحلة 
+FROM مخيل 	TOWA جب الميدعان 	DIST مرحلة 
+FROM جب الميدعان 	TOWA جياد الصغير 	DIST مرحلة 
+FROM جياد الصغير 	TOWA حى عبد الله 	DIST مرحلة 
+FROM حى عبد الله 	TOWA مرج الشيخ 	DIST مرحلة 
+FROM مرج الشيخ 	TOWA العقبة 	DIST مرحلة 
+FROM العقبة 	TOWA خرائب ابى حليمة 	DIST مرحلة 
+FROM خرائب ابى حليمة 	TOWA خربة القوم 	DIST مرحلة 
+FROM خربة القوم 	TOWA قصر الشماس 	DIST مرحلة 
+FROM قصر الشماس 	TOWA سكة الحمام 	DIST مرحلة 
+FROM سكة الحمام 	TOWA جب العوسج 	DIST مرحلة 
+FROM جب العوسج 	TOWA كنائس الحرير 	DIST مرحلة 
+FROM كنائس الحرير 	TOWA الطاحونة 	DIST مرحلة 
+FROM الطاحونة 	TOWA حنية الروم 	DIST مرحلة 
+FROM حنية الروم 	TOWA ذات الحمام 	DIST مرحلة 
+FROM ذات الحمام 	TOWA بومينه 	DIST مرحلة 
+FROM بومينه 	TOWA الاسكندرية 	DIST مرحلة 
+FROM طرابلس 	TOWA المسدودة 	DIST مرحلة 
+FROM المسدودة 	TOWA ارسطا 	DIST مرحلة 
+FROM ارسطا 	TOWA الراشدية 	DIST مرحلة 
+FROM الراشدية 	TOWA قصور حسان 	DIST مرحلة 
+FROM قصور حسان 	TOWA مغمداش 	DIST مرحلة 
+FROM مغمداش 	TOWA سرت 	DIST مرحلة 
+FROM سرت 	TOWA قصر العبادى 	DIST مرحلة 
+FROM قصر العبادى 	TOWA اليهوديتين 	DIST مرحلة 
+FROM اليهوديتين 	TOWA قصر العطش 	DIST مرحلة 
+FROM قصر العطش 	TOWA سبخة منهوسا 	DIST مرحلة 
+FROM سبخة منهوسا 	TOWA بلد روب 	DIST مرحلة 
+FROM بلد روب 	TOWA برمست 	DIST مرحلة 
+FROM برمست 	TOWA سلوق 	DIST مرحلة 
+FROM سلوق 	TOWA اوبران 	DIST مرحلة 
+FROM اوبران 	TOWA قصر الفيل 	DIST مرحلة 
+FROM قصر الفيل 	TOWA مليتية 	DIST مرحلة 
+FROM مليتية 	TOWA برقة 	DIST مرحلة 
+FROM أطرابلس 	TOWA بئر الجمالين 	DIST مرحلة 
+FROM بئر الجمالين 	TOWA قصر الدرق 	DIST مرحلة 
+FROM قصر الدرق 	TOWA بارجمت 	DIST مرحلة 
+FROM بارجمت 	TOWA الفوارة 	DIST مرحلة 
+FROM الفوارة 	TOWA قابس 	DIST مرحلة 
+FROM قابس 	TOWA الزيتونة 	DIST مرحلة 
+FROM الزيتونة 	TOWA كتانة 	DIST مرحلة 
+FROM كتانة 	TOWA الكبس 	DIST مرحلة 
+FROM الكبس 	TOWA القيروان 	DIST مرحلة 
+FROM القيروان 	TOWA السوس الأدنى 	DIST الفين ومائة وخمسين ميلا تركب المفاوز 
+FROM السوس الأدنى 	TOWA السوس الأقصى 	DIST ثلاثة وعشرون يوما 
+FROM القيروان 	TOWA قفصة 	DIST سبعةمراحل 
+FROM قفصة 	TOWA قسطيلية 	DIST ثلاثة مراحل 
+FROM قسطيلية 	TOWA تاهرت 	DIST خمسة عشر يوما في رمال وقرى 
+FROM تاهرت 	TOWA فلس 	DIST ثلاثة أيام في البربر 
+FROM فلس 	TOWA الشقور 	DIST ثامن مراحل في عمارات 
+FROM الشقور 	TOWA البصرة 	DIST ثامن مراحل 
+FROM القيروان 	TOWA سطيف 	DIST عشرة مراحل 
+FROM سطيف 	TOWA تاهرت 	DIST عشرون مراحل 
+FROM تاهرت 	TOWA فلس 	DIST خمسون مراحل 
+FROM فلس 	TOWA  السوس الأقصى 	DIST ثلاثون مراحل 
+FROM القيروان 	TOWA زويلة 	DIST شهرا 
+FROM القيروان 	TOWA سجلماسة 	DIST ثلاثون مراحل في البرية 
+FROM القيروان 	TOWA سجلماسة 	DIST خمسون مراحل في العمارة 
+FROM القيروان 	TOWA تونس 	DIST ثلاثة مراحل 
+FROM تونس 	TOWA طبرقة 	DIST عشرة مراحل 
+FROM طبرقة 	TOWA تنس 	DIST ستة مراحل 
+FROM تنس 	TOWA جزيرة بنى زغناى 	DIST خمسة مراحل 
+FROM القيروان 	TOWA قابس 	DIST مرحلتين 
+FROM القيروان 	TOWA نفطة 	DIST مرحلتين 
+FROM القيروان 	TOWA قرنة 	DIST مرحلتين 
+FROM القيروان 	TOWA سبيبة 	DIST مرحلتين 
+FROM القيروان 	TOWA مدينة القصور 	DIST مرحلتين 
+FROM القيروان 	TOWA المهدية 	DIST مرحلتين 
+FROM القيروان 	TOWA لافس 	DIST ثلاث مراحل 
+FROM القيروان 	TOWA الجزيرة 	DIST ثلاث مراحل 
+FROM القيروان 	TOWA أبة 	DIST ثلاث مراحل 
+FROM القيروان 	TOWA مرسى الخرز 	DIST ثلاث مراحل 
+FROM القيروان 	TOWA قابس 	DIST خمسا مراحل 
+FROM القيروان 	TOWA قصر الافريقى 	DIST خمسا مراحل 
+FROM القيروان 	TOWA مجانة 	DIST خمسا مراحل 
+FROM مجانة 	TOWA تبسة 	DIST مرحلة 
+FROM مجانة 	TOWA باغلى 	DIST مرحلة 
+FROM مجانة 	TOWA دوفانة 	DIST مرحلة 
+FROM مجانة 	TOWA عين العصافير 	DIST مرحلة 
+FROM مجانة 	TOWA دار ملول 	DIST مرحلة 
+FROM مجانة 	TOWA طبنة 	DIST مرحلة 
+FROM مجانة 	TOWA مقرة 	DIST مرحلة 
+FROM مجانة 	TOWA المسيلة 	DIST مرحلة 
+FROM مجانة 	TOWA تبسة 	DIST مرحلة 
+FROM تبسة 	TOWA باغلى 	DIST مرحلة 
+FROM باغلى 	TOWA دوفانة 	DIST مرحلة 
+FROM دوفانة 	TOWA عين العصافير 	DIST مرحلة 
+FROM عين العصافير 	TOWA دار ملول 	DIST مرحلة 
+FROM دار ملول 	TOWA طبنة 	DIST مرحلة 
+FROM طبنة 	TOWA مقرة 	DIST مرحلة 
+FROM مقرة 	TOWA المسيلة 	DIST مرحلة 
+FROM المسيلة 	TOWA أشير 	DIST ثلاث أيام غربا 
+FROM أشير 	TOWA تاهرت 	DIST خمسا أيام 
+FROM تاهرت 	TOWA فكان 	DIST خمسا أيام 
+FROM فكان 	TOWA تلمسان 	DIST مرحلتين 
+FROM تلمسان 	TOWA جراوة 	DIST مرحلتين 
+FROM تلمسان 	TOWA صاع 	DIST مرحلتين 
+FROM تاهرت 	TOWA ناكور 	DIST ثلاثون مراحل 
+FROM ناكور 	TOWA سجلماسة 	DIST خمسة عشر مراحل 
+FROM فاس 	TOWA البصرة 	DIST ستة مراحل 
+FROM فاس 	TOWA أزيلة 	DIST ثامن مراحل 
+FROM القيروان 	TOWA سوسة 	DIST مرحلة 
+FROM القيروان 	TOWA قلشانة 	DIST مرحلة 
+FROM القيروان 	TOWA تماجر 	DIST مرحلة 
+FROM قرطبة 	TOWA اشبيلية 	DIST ثلاثة مراحل 
+FROM اشبيلية 	TOWA استجة 	DIST مرحلة على سمت القبلة 
+FROM قرطبة 	TOWA طليطلة 	DIST ستة أيام 
+FROM طليطلة 	TOWA وادي الحجارة 	DIST مرحلتان 
+FROM قرطبة 	TOWA مكناسة 	DIST أربعة أيام 
+FROM ههههه 	TOWA هوارة 	DIST أربعة أيام 
+FROM هوارة 	TOWA نفرة 	DIST عشرة أيام 
+FROM نفرة 	TOWA سمورة 	DIST أربعة أيام 
+FROM سمورة 	TOWA قورية 	DIST اثني عشر مراحل 
+FROM قورية 	TOWA ماردة 	DIST أربعة مراحل 
+FROM قورية 	TOWA باجة 	DIST ستة أيام 
+FROM فحص البلوط 	TOWA لبلة 	DIST أربعة عشرة أيام 
+FROM لبلة 	TOWA قرمونة 	DIST أربعة أيام بين باجة واشبيلية نحو الغرب على طريق ماردة 
+FROM قرمونة 	TOWA اشبيلية 	DIST مرحلتان 
+FROM استجة 	TOWA مورور 	DIST مرحلة 
+FROM مورور 	TOWA شذونة 	DIST مرحلة 
+FROM مورور 	TOWA جبل طارق 	DIST ثلاث أيام 
+FROM استجة 	TOWA مالقة 	DIST سبعة أيام طريق الشرق 
+FROM استجة 	TOWA أرجدونة 	DIST ثلاث مراحل 
+FROM بجانة 	TOWA مرسية 	DIST سبعة أيام 
+FROM مرسية 	TOWA بلنسية 	DIST عشرون أيام 
+FROM بلنسية 	TOWA طرطوشة 	DIST اثني عشر مراحل 
+FROM مرسية 	TOWA بجانة 	DIST ستة أيام 
+FROM بجانة 	TOWA مالقة 	DIST عشرة أيام 
+FROM مالقة 	TOWA جبل طارق 	DIST أربعة أيام 
+FROM جبل طارق 	TOWA شذونة 	DIST ثلاث أيام 
+FROM شذونة 	TOWA اشبيلية 	DIST أربعة أيام 
+FROM أخسيكت 	TOWA قبا 	DIST مرحلة 
+FROM قبا 	TOWA أوش 	DIST مرحلة 
+FROM أوش 	TOWA أوزكند 	DIST مرحلة 
+FROM أوزكند 	TOWA العقبة 	DIST مرحلة 
+FROM العقبة 	TOWA طباش 	DIST مرحلة 
+FROM طباش 	TOWA برسخان الأعلى 	DIST 6 مراحل 
+FROM برسخان الأعلى 	TOWA موضع بغراخاقان 	DIST ستة مراحل 
+FROM ترمغان 	TOWA جاجستان 	DIST مرحلة 
+FROM جاجستان 	TOWA صامغر 	DIST بريدين 
+FROM صامغر 	TOWA خجندة 	DIST مرحلة 
+FROM إسبيجاب 	TOWA شاواب 	DIST بريدين 
+FROM شاواب 	TOWA بدوخكث 	DIST بريدين 
+FROM بدوخكث 	TOWA تمتاج 	DIST مرحلة 
+FROM تمتاج 	TOWA بارجاخ 	DIST بريدين 
+FROM بارجاخ 	TOWA منزل 	DIST مرحلة 
+FROM منزل 	TOWA شاوغر 	DIST نصف مرحلة 
+FROM شاوغر 	TOWA طراز 	DIST بريدين 
+FROM أسبيجاب 	TOWA غركرد 	DIST بريدين 
+FROM غركرد 	TOWA بنكث 	DIST مرحلة 
+FROM بنكث 	TOWA ستوركث 	DIST مرحلة 
+FROM بناكث 	TOWA نهر الشاش 	DIST بريدين 
+FROM نهر الشاش 	TOWA خاوص 	DIST مرحلة 
+FROM خاوص 	TOWA زامين 	DIST مرحلة 
+FROM بنكث الشاش 	TOWA معدن الفضة 	DIST مرحلة 
+FROM معدن الفضة 	TOWA جاجستان 	DIST مرحلة 
+FROM جاجستان 	TOWA ترمغان 	DIST مرحلة 
+FROM بنكث 	TOWA غركرد 	DIST مرحلة 
+FROM غركرد 	TOWA أسبيجاب 	DIST بريدين 
+FROM زامين 	TOWA خاوص 	DIST مرحلة 
+FROM زامين 	TOWA ساباط 	DIST بريدين 
+FROM ساباط 	TOWA شاوكث 	DIST مرحلة 
+FROM شاوكث 	TOWA خجندة 	DIST مرحلة 
+FROM سمرقند 	TOWA زرمان 	DIST مرحلة 
+FROM زرمان 	TOWA ربنجن 	DIST مرحلة 
+FROM ربنجن 	TOWA الدبوسية 	DIST مرحلة 
+FROM الدبوسية 	TOWA كرمينية 	DIST مرحلة 
+FROM كرمينية 	TOWA الطواويس 	DIST مرحلة 
+FROM الطواويس 	TOWA ديمس 	DIST مرحلة 
+FROM ديمس 	TOWA بخارا 	DIST مرحلة 
+FROM سمرقند 	TOWA زامين 	DIST مرحلة 
+FROM زامين 	TOWA خاوس 	DIST مرحلة 
+FROM خاوس 	TOWA بناكث 	DIST مرحلة 
+FROM بناكث 	TOWA ستوركث 	DIST مرحلة 
+FROM ستوركث 	TOWA بنكث 	DIST مرحلة 
+FROM سمرقند 	TOWA درزده 	DIST مرحلة 
+FROM درزده 	TOWA كش 	DIST مرحلة 
+FROM كش 	TOWA كندك 	DIST مرحلة 
+FROM كندك 	TOWA باب الحديد 	DIST مرحلة 
+FROM باب الحديد 	TOWA قرنة 	DIST مرحلة 
+FROM قرنة 	TOWA ترمذ 	DIST مرحلة 
+FROM بخارا 	TOWA بيكند 	DIST مرحلة 
+FROM بيكند 	TOWA ميان كال 	DIST مرحلة 
+FROM ميان كال 	TOWA فربر 	DIST مرحلة 
+FROM فربر 	TOWA جيحون 	DIST نصف فرسخ 
+FROM بخارا 	TOWA جكم 	DIST مرحلة 
+FROM جكم 	TOWA رباط عتيق 	DIST مرحلة 
+FROM رباط عتيق 	TOWA جب سعيد 	DIST مرحلة 
+FROM جب سعيد 	TOWA بزدة 	DIST مرحلة 
+FROM بزدة 	TOWA رباط خواران 	DIST مرحلة 
+FROM رباط خواران 	TOWA قرية البخاريين 	DIST مرحلة 
+FROM قرية البخاريين 	TOWA قرية الخوارزميين 	DIST مرحلة 
+FROM قرية الخوارزميين 	TOWA بلخان 	DIST مرحلة 
+FROM بلخان 	TOWA كالف 	DIST مرحلة 
+FROM كالف 	TOWA محلة القياسين 	DIST مرحلة 
+FROM محلة القياسين 	TOWA ترمذ 	DIST مرحلة 
+FROM بخارا 	TOWA امزه 	DIST بريدين 
+FROM امزه 	TOWA رباط تاش 	DIST مرحلة 
+FROM رباط تاش 	TOWA شوروخ 	DIST مرحلة 
+FROM شوروخ 	TOWA الرمل 	DIST مرحلة 
+FROM الرمل 	TOWA رباط طغان 	DIST مرحلة 
+FROM رباط طغان 	TOWA رباط جكربند 	DIST مرحلة 
+FROM رباط جكربند 	TOWA رباط حسن 	DIST مرحلة 
+FROM رباط حسن 	TOWA نابادغين 	DIST مرحلة 
+FROM نابادغين 	TOWA مضيق النهر 	DIST مرحلة 
+FROM مضيق النهر 	TOWA رباط ماش 	DIST مرحلة 
+FROM رباط ماش 	TOWA رباط سنده 	DIST مرحلة 
+FROM رباط سنده 	TOWA بغرقان 	DIST مرحلة 
+FROM بغرقان 	TOWA شراخان 	DIST مرحلة 
+FROM شراخان 	TOWA كاث 	DIST مرحلة 
+FROM كاث 	TOWA خاس 	DIST مرحلة 
+FROM خاس 	TOWA نوزكات 	DIST بريدين 
+FROM نوزكات 	TOWA وايخان 	DIST مرحلة على اليمين 
+FROM على اليمين 	TOWA نوباغ 	DIST مرحلة 
+FROM نوباغ 	TOWA مزداخقان 	DIST مرحلتين في مفازة 
+FROM مزداخقان 	TOWA درسان 	DIST بريدين 
+FROM درسان 	TOWA كردر 	DIST مرحلة 
+FROM كردر 	TOWA جويقان 	DIST بريدين 
+FROM جويقان 	TOWA قرية براتكين 	DIST مرحلة 
+FROM قرية براتكين 	TOWA البحيرة 	DIST مرحلة 
+FROM رباط ماش 	TOWA أمير 	DIST مرحلة 
+FROM أمير 	TOWA باراب سار 	DIST مرحلتين 
+FROM باراب سار 	TOWA أرذخيوه 	DIST مرحلة 
+FROM مزداخقان 	TOWA وردراغ 	DIST مرحلة 
+FROM وردراغ 	TOWA كردر 	DIST مرحلة 
+FROM كاث 	TOWA غردمان 	DIST مرحلة 
+FROM غردمان 	TOWA وايخان 	DIST بريدين 
+FROM وايخان 	TOWA أرذخيوه 	DIST مرحلة 
+FROM أرذخيوه 	TOWA نوكباغ 	DIST مرحلة 
+FROM اوزارمند 	TOWA دسكاخان خاس 	DIST بريدين 
+FROM دسكاخان خاس 	TOWA رخشميثن 	DIST مرحلة 
+FROM رخشميثن 	TOWA خيوه 	DIST مرحلة 
+FROM خيوه 	TOWA كردرانخاس 	DIST مرحلة 
+FROM كردرانخاس 	TOWA زردوخ بريدا 	DIST بريدا 
+FROM زردوخ بريدا  	TOWA هزاراسب 	DIST بريدين 
+FROM اوزارمند 	TOWA روزوند 	DIST مرحلة 
+FROM روزوند 	TOWA نوزوار 	DIST مرحلة 
+FROM نوزوار 	TOWA زمخشر 	DIST مرحلة 
+FROM زمخشر 	TOWA الجرجانية 	DIST مرحلة 
+FROM بخارا 	TOWA نخشب 	DIST ثلاثين فرسخا في مفازة 
+FROM نخشب 	TOWA الصغانيان 	DIST عشرة مراحل 
+FROM الصغانيان 	TOWA دارزنجى 	DIST مرحلة 
+FROM الصغانيان 	TOWA باسند 	DIST مرحلة 
+FROM الصغانيان 	TOWA بايماب 	DIST مرحلة 
+FROM الصغانيان 	TOWA سنكردة 	DIST مرحلة 
+FROM الصغانيان 	TOWA بوراب 	DIST بريدين 
+FROM الصغانيان 	TOWA بهام 	DIST ثلاثا بريد؟؟؟
+FROM الصغانيان 	TOWA غش 	DIST ثلاثا بريد؟؟؟
+FROM الصغانيان 	TOWA زينور 	DIST ثلاثا بريد؟؟؟
+FROM الصغانيان 	TOWA هنبان 	DIST مرحلتين 
+FROM الصغانيان 	TOWA الختل 	DIST ثلاثون فرسخا 
+FROM الصغانيان 	TOWA سمرقند 	DIST أربعون فرسخا 
+FROM بلخ 	TOWA خلم 	DIST مرحلتين 
+FROM خلم 	TOWA ورواليز 	DIST مرحلتين 
+FROM ورواليز 	TOWA الطالقان 	DIST مرحلتين 
+FROM الطالقان 	TOWA بذخشان 	DIST سبعة مراحل 
+FROM خلم 	TOWA سمنجان 	DIST مرحلتين 
+FROM سمنجان 	TOWA أندرابة 	DIST خمسة مراحل 
+FROM أندرابة 	TOWA كاربايه 	DIST ثلاثة مراحل 
+FROM كاربايه 	TOWA بنجهير 	DIST مرحلة 
+FROM بنجهير 	TOWA فروان 	DIST مرحلتين 
+FROM بلخ 	TOWA بغلان 	DIST v ستة مراحل 
+FROM سمنجان 	TOWA بغلان 	DIST أربعة مراحل 
+FROM بلخ 	TOWA مذر 	DIST ستة مراحل 
+FROM مذر 	TOWA كه 	DIST مرحلة 
+FROM كه 	TOWA الباميان 	DIST ثلاثة مراحل 
+FROM بلخ 	TOWA أشبورقان 	DIST ثلاثة مراحل 
+FROM أشبورقان 	TOWA الفارياب 	DIST ثلاثة مراحل 
+FROM الفارياب 	TOWA الطالقان 	DIST v 
+FROM بلخ 	TOWA شاوكرد 	DIST مرحلة 
+FROM شاوكرد 	TOWA ترمذ 	DIST مرحلة 
+FROM اليهودية 	TOWA القاع 	DIST مرحلة 
+FROM القاع 	TOWA اشبورقان 	DIST مرحلة 
+FROM اشبورقان 	TOWA السدرة 	DIST مرحلة 
+FROM السدرة 	TOWA الدستجرده 	DIST مرحلة 
+FROM الدستجرده 	TOWA بلخ 	DIST نصف مرحلة 
+FROM اليهودية 	TOWA قصر الأمير 	DIST مرحلة 
+FROM قصر الأمير 	TOWA فارياب 	DIST مرحلة 
+FROM فارياب 	TOWA كرك 	DIST مرحلة 
+FROM كرك 	TOWA الطالقان 	DIST مرحلة 
+FROM اليهودية 	TOWA أنبار 	DIST مرحلة 
+FROM أنبار 	TOWA رباط 	DIST مرحلة 
+FROM رباط 	TOWA بلخ 	DIST مرحلة 
+FROM فارياب 	TOWA آستانة 	DIST مرحلة 
+FROM آستانة 	TOWA جوبين وملين 	DIST مرحلة 
+FROM جوبين وملين 	TOWA أندخوذ 	DIST مرحلة 
+FROM أندخوذ 	TOWA رباط أفريغون 	DIST مرحلة 
+FROM رباط أفريغون 	TOWA قنى غياث 	DIST مرحلة 
+FROM قنى غياث 	TOWA كركوه 	DIST مرحلة 
+FROM مرو 	TOWA فاز 	DIST مرحلة 
+FROM فاز 	TOWA مهدي آباذ 	DIST مرحلة 
+FROM مهدي آباذ 	TOWA بحيرآباذ 	DIST مرحلة 
+FROM بحيرآباذ 	TOWA القرينين 	DIST مرحلة 
+FROM القرينين 	TOWA أسداباذ 	DIST مرحلة 
+FROM قصر أحنف 	TOWA أرسكن 	DIST مرحلة 
+FROM أرسكن 	TOWA الأسراب 	DIST مرحلة 
+FROM الأسراب 	TOWA كنجاباذ 	DIST مرحلة 
+FROM كنجاباذ 	TOWA الطالقان 	DIST مرحلة 
+FROM الطالقان 	TOWA كسحان 	DIST مرحلة 
+FROM كسحان 	TOWA اليهودية 	DIST مرحلة 
+FROM مرو 	TOWA جروجرد 	DIST مرحلة 
+FROM جروجرد 	TOWA الدندانقان 	DIST مرحلة 
+FROM الدندانقان 	TOWA تلستانة 	DIST مرحلة 
+FROM تلستانة 	TOWA أشترمغك 	DIST مرحلة 
+FROM أشترمغك 	TOWA سرخس 	DIST مرحلة 
+FROM مرو 	TOWA كشميهن 	DIST مرحلة 
+FROM كشميهن 	TOWA رباط الحديد 	DIST مرحلة 
+FROM رباط الحديد 	TOWA رباط نصرك 	DIST مرحلة 
+FROM رباط نصرك 	TOWA جب حماد 	DIST مرحلة 
+FROM جب حماد 	TOWA رباط بارس 	DIST مرحلة 
+FROM رباط بارس 	TOWA آمل 	DIST مرحلة 
+FROM آمل 	TOWA جيحون 	DIST فرسخا 
+FROM ابشين 	TOWA رباط شور 	DIST مرحلة 
+FROM رباط شور 	TOWA رباط شار 	DIST مرحلة 
+FROM رباط شار 	TOWA قرية القاضي 	DIST مرحلة 
+FROM قرية القاضي 	TOWA شورمين 	DIST مرحلة 
+FROM شورمين 	TOWA قرية المجوس 	DIST مرحلة 
+FROM قرية المجوس 	TOWA خاره 	DIST مرحلة 
+FROM خاره 	TOWA رباط ميانه 	DIST مرحلة 
+FROM رباط ميانه 	TOWA كروخ 	DIST مرحلة 
+FROM كروخ 	TOWA هراة 	DIST مرحلة 
+FROM ابشين 	TOWA رباط كرزوان 	DIST مرحلة 
+FROM رباط كرزوان 	TOWA مرزك 	DIST مرحلة 
+FROM مرزك 	TOWA رباطروذ 	DIST مرحلة 
+FROM رباطروذ 	TOWA مروالروذ 	DIST مرحلة 
+FROM مروالروذ 	TOWA جسر حر 	DIST مرحلة 
+FROM جسر حر 	TOWA الطالقان 	DIST مرحلة 
+FROM هراة 	TOWA أسفزار 	DIST ثلاثة مراحل 
+FROM هراة 	TOWA مالن 	DIST مرحلة 
+FROM هراة 	TOWA كروخ 	DIST مرحلة 
+FROM هراة 	TOWA باشان 	DIST مرحلة 
+FROM باشان 	TOWA خيسار 	DIST مرحلة 
+FROM خيسار 	TOWA v 	DIST مرحلة 
+FROM استربيان 	TOWA ماراباذ 	DIST مرحلة 
+FROM ماراباذ 	TOWA أوفه 	DIST مرحلة 
+FROM هراة 	TOWA ببنة 	DIST مرحلتين 
+FROM ببنة 	TOWA كيف 	DIST مرحلة 
+FROM كيف 	TOWA v 	DIST مرحلة 
+FROM غزنين 	TOWA رباط البارد 	DIST مرحلة 
+FROM رباط البارد 	TOWA اسناخ 	DIST مرحلة 
+FROM اسناخ 	TOWA حنس 	DIST مرحلة 
+FROM حنس 	TOWA الباميان 	DIST مرحلة 
+FROM غزنين 	TOWA كرديز 	DIST مرحلة 
+FROM كرديز 	TOWA اوغ 	DIST مرحلة 
+FROM بست 	TOWA رباط فيروزقند 	DIST مرحلة 
+FROM رباط فيروزقند 	TOWA ميغون 	DIST مرحلة 
+FROM ميغون 	TOWA رباط كشر 	DIST مرحلة 
+FROM رباط كشر 	TOWA بنجواى 	DIST مرحلة 
+FROM بنجواى 	TOWA كراباذ 	DIST مرحلة 
+FROM كراباذ 	TOWA خرسان 	DIST مرحلة 
+FROM خرسان 	TOWA رباط سراب 	DIST مرحلة 
+FROM رباط سراب 	TOWA رباط الاوقل 	DIST مرحلة 
+FROM رباط الاوقل 	TOWA خنكل اباذ 	DIST مرحلة 
+FROM خنكل اباذ 	TOWA قرية غرم 	DIST مرحلة 
+FROM قرية غرم 	TOWA قرية خاست 	DIST مرحلة 
+FROM قرية خاست 	TOWA قرية جومة 	DIST مرحلة 
+FROM قرية جومة 	TOWA خايسار 	DIST مرحلة 
+FROM سفنجاوى 	TOWA رباط 	DIST مرحلة 
+FROM رباط 	TOWA جنكى 	DIST مرحلة 
+FROM جنكى 	TOWA رباط الحجرية 	DIST مرحلة 
+FROM رباط الحجرية 	TOWA بنجواى 	DIST مرحلة 
+FROM بست 	TOWA داور 	DIST 4 مراحل 
+FROM داور 	TOWA الغور 	DIST مرحلة 
+FROM زرنج 	TOWA كركويه 	DIST مرحلة 
+FROM كركويه 	TOWA بشتر 	DIST مرحلة 
+FROM بشتر 	TOWA جوين 	DIST مرحلة 
+FROM جوين 	TOWA بستك 	DIST مرحلة 
+FROM بستك 	TOWA كنجر 	DIST مرحلة 
+FROM كنجر 	TOWA سرشك 	DIST مرحلة 
+FROM سرشك 	TOWA وادي فره 	DIST مرحلة 
+FROM وادي فره 	TOWA فره 	DIST مرحلة 
+FROM فره 	TOWA دره 	DIST مرحلة 
+FROM دره 	TOWA كوستان 	DIST مرحلة 
+FROM كوستان 	TOWA جاشان 	DIST مرحلة 
+FROM جاشان 	TOWA قناة سرى 	DIST مرحلة 
+FROM قناة سرى 	TOWA الجبل الأسود 	DIST مرحلة 
+FROM الجبل الأسود 	TOWA جامان 	DIST مرحلة 
+FROM جامان 	TOWA هراة 	DIST مرحلة 
+FROM زرنج 	TOWA زانبوق 	DIST مرحلة 
+FROM زانبوق 	TOWA سروزن 	DIST مرحلة 
+FROM سروزن 	TOWA حروري 	DIST مرحلة 
+FROM حروري 	TOWA دهك 	DIST مرحلة 
+FROM دهك 	TOWA رباط كرودين 	DIST مرحلة 
+FROM رباط كرودين 	TOWA رباط قهستان 	DIST مرحلة 
+FROM رباط قهستان 	TOWA رباط عبد الله 	DIST مرحلة 
+FROM رباط عبد الله 	TOWA بست 	DIST مرحلة 
+FROM زرنج 	TOWA جزه 	DIST 3 مراحل 
+FROM جزه 	TOWA فره 	DIST مرحلتين 
+FROM جزه 	TOWA القرنين 	DIST مرحلتين 
+FROM فره 	TOWA له 	DIST مرحلة 
+FROM زرنج 	TOWA الطاق 	DIST مرحلة 
+FROM زرنج 	TOWA كش 	DIST 30 فرسخا 
+FROM قاين 	TOWA تون 	DIST مرحلة 
+FROM قاين 	TOWA ينابد 	DIST مرحلتين 
+FROM ينابد 	TOWA كندر 	DIST مرحلتين 
+FROM كندر 	TOWA طريثيث 	DIST بريدين 
+FROM ينابد 	TOWA سنكان 	DIST مرحلة 
+FROM سنكان 	TOWA جايمن 	DIST مرحلة 
+FROM سنكان 	TOWA مالن كواخرز 	DIST مرحلة 
+FROM مالن كواخرز 	TOWA بوزجان 	DIST مرحلتين 
+FROM بوزجان 	TOWA الملاحة 	DIST مرحلة 
+FROM الملاحة 	TOWA القصر 	DIST مرحلة 
+FROM نيسابور 	TOWA بيسكند 	DIST مرحلة 
+FROM بيسكند 	TOWA حسيناباذ 	DIST مرحلة 
+FROM حسيناباذ 	TOWA خسروجرد 	DIST مرحلة 
+FROM خسروجرد 	TOWA النوق 	DIST مرحلة 
+FROM خسروجرد 	TOWA يحيى اباذ 	DIST مرحلة 
+FROM أسداباذ 	TOWA هفدر 	DIST مرحلة 
+FROM نيسابور 	TOWA قصر الريح 	DIST مرحلة 
+FROM قصر الريح 	TOWA الرمادة 	DIST مرحلة 
+FROM الرمادة 	TOWA صاهه 	DIST مرحلة 
+FROM صاهه 	TOWA مزدوران 	DIST مرحلة 
+FROM مزدوران 	TOWA اوكينة 	DIST مرحلة 
+FROM اوكينة 	TOWA سرخس 	DIST مرحلة 
+FROM قصر الريح 	TOWA فرهاكرد 	DIST مرحلة 
+FROM فرهاكرد 	TOWA نوكده 	DIST مرحلة 
+FROM نوكده 	TOWA مالايكرد 	DIST مرحلة 
+FROM مالايكرد 	TOWA بوزجان 	DIST مرحلة 
+FROM بوزجان 	TOWA كلنا 	DIST مرحلة 
+FROM كلنا 	TOWA البق 	DIST مرحلة 
+FROM البق 	TOWA امده 	DIST مرحلة 
+FROM امده 	TOWA هراة 	DIST مرحلة 
+FROM القصر 	TOWA الملاحة 	DIST مرحلة 
+FROM الملاحة 	TOWA سنكان 	DIST مرحلة 
+FROM سنكان 	TOWA ينابد 	DIST مرحلتين 
+FROM نيسابور 	TOWA كلكاو 	DIST مرحلة 
+FROM كلكاو 	TOWA الدارين 	DIST مرحلة 
+FROM الدارين 	TOWA نمخكن 	DIST مرحلة 
+FROM ريك 	TOWA فرخان 	DIST مرحلة 
+FROM فرخان 	TOWA بردر 	DIST مرحلة 
+FROM بردر 	TOWA بغداد 	DIST مرحلة 
+FROM بغداد 	TOWA نسا 	DIST مرحلة 
+FROM دزاوند 	TOWA حويران 	DIST مرحلة 
+FROM حويران 	TOWA قلميهن 	DIST مرحلة 
+FROM قلميهن 	TOWA أبيورد 	DIST مرحلة 
+FROM قلميهن 	TOWA كوفن 	DIST مرحلة 
+FROM كوفى 	TOWA أبيورد 	DIST مرحلة 
+FROM نيسابور 	TOWA بغيشن 	DIST مرحلة 
+FROM بغيشن 	TOWA القرية الحمراء 	DIST مرحلة 
+FROM القرية الحمراء 	TOWA المشهد 	DIST مرحلة 
+FROM المشهد 	TOWA طابران 	DIST بريدين 
+FROM نيسابور 	TOWA نشديغن 	DIST مرحلة 
+FROM نشديغن/رباط؟؟؟ 	TOWA طريثيث 	DIST مرحلة 
+FROM نيسابور 	TOWA ريوند 	DIST مرحلة 
+FROM ريوند 	TOWA مهرجان 	DIST مرحلتين 
+FROM مهرجان 	TOWA أسفراين 	DIST مرحلتين 
+FROM الدامغان 	TOWA الحدادة 	DIST مرحلة 
+FROM الحدادة 	TOWA بدش 	DIST مرحلة 
+FROM بدش 	TOWA مرجان 	DIST مرحلة 
+FROM مرجان 	TOWA هفدر 	DIST مرحلة 
+FROM هفدر 	TOWA أسداواذ 	DIST مرحلة 
+FROM الدامغان 	TOWA جرمجوى 	DIST مرحلة 
+FROM جرمجوى 	TOWA رباط علياباذ؟؟؟ پانویس	DIST مرحلة 
+FROM رباط علياباذ؟؟؟ 	TOWA سمنان 	DIST مرحلة 
+FROM سمنان 	TOWA راس الكلب 	DIST مرحلة 
+FROM راس الكلب 	TOWA قرية الملح 	DIST مرحلة 
+FROM قرية الملح 	TOWA خوار الرى 	DIST مرحلة 
+FROM الحدادة 	TOWA بسطام 	DIST مرحلة 
+FROM قرية 	TOWA زرداباذ 	DIST مرحلة 
+FROM زرداباذ 	TOWA خرماروذ 	DIST مرحلة 
+FROM خرماروذ 	TOWA جهينة 	DIST مرحلة 
+FROM جهينة 	TOWA جرجان 	DIST مرحلة 
+FROM اسداواذ 	TOWA طرثيث 	DIST 30 فرسخا 
+FROM جرجان 	TOWA دينازارى 	DIST مرحلة 
+FROM دينازارى 	TOWA املوتا 	DIST مرحلة 
+FROM املوتا 	TOWA اجغ 	DIST مرحلة 
+FROM اجغ 	TOWA سبداست 	DIST مرحلة 
+FROM سبداست 	TOWA أسفراين 	DIST مرحلة 
+FROM أسفراين 	TOWA آبسكون 	DIST مرحلة 
+FROM أسفراين 	TOWA آبسكون 	DIST مرحلة 
+FROM أسفراين 	TOWA رباط علي 	DIST مرحلة 
+FROM رباط علي 	TOWA رباط الأمير 	DIST مرحلة 
+FROM رباط الأمير 	TOWA بيلمك 	DIST مرحلة 
+FROM بيلمك 	TOWA رباط دهستان 	DIST مرحلة 
+FROM آمل 	TOWA بلور 	DIST مرحلة 
+FROM بلور 	TOWA اسك 	DIST مرحلة 
+FROM اسك 	TOWA بامهر 	DIST مرحلة 
+FROM بامهر 	TOWA برزيان 	DIST مرحلة 
+FROM برزيان 	TOWA الرى 	DIST مرحلة 
+FROM آمل 	TOWA مامطير 	DIST مرحلة 
+FROM مامطير 	TOWA سارية 	DIST مرحلة 
+FROM سارية 	TOWA ابارست 	DIST مرحلة 
+FROM ابارست 	TOWA ابادان 	DIST مرحلة 
+FROM ابادان 	TOWA طميسة 	DIST مرحلة 
+FROM طميسة 	TOWA أستراباذ 	DIST مرحلة 
+FROM أستراباذ 	TOWA جرجان 	DIST مرحلتين 
+FROM جرجان 	TOWA الديلمان 	DIST 12 مرحلة 
+FROM الديلمان 	TOWA أردبيل 	DIST 12 مرحلة 
+FROM آبسكون 	TOWA أستراباذ 	DIST مرحلة 
+FROM أستراباذ 	TOWA سارية 	DIST 4 مراحل 
+FROM آمل 	TOWA ناتل 	DIST مرحلة 
+FROM ناتل 	TOWA سالوس 	DIST مرحلة 
+FROM سالوس 	TOWA كلار 	DIST مرحلة 
+FROM كلار 	TOWA جبال الديلم 	DIST مرحلة 
+FROM سالوس 	TOWA إسبيدروذ 	DIST مرحلة 
+FROM إسبيدروذ 	TOWA قرية الرصد 	DIST مرحلة 
+FROM قرية الرصد 	TOWA خشم 	DIST مرحلة 
+FROM خشم 	TOWA بيلمان 	DIST 4 مراحل 
+FROM بيلمان 	TOWA الدولاب 	DIST 4 مراحل 
+FROM الدولاب 	TOWA كهن روذ 	DIST 3 مراحل 
+FROM كهن روذ  	TOWA موغكان 	DIST مرحلتين 
+FROM موغكان 	TOWA الكر 	DIST مرحلتين 
+FROM الكر 	TOWA هشتاذر 	DIST مرحلتين 
+FROM هشتاذر 	TOWA الشماخية 	DIST مرحلتين 
+FROM برذعة 	TOWA يونان 	DIST مرحلة 
+FROM برذعة 	TOWA برديج 	DIST مرحلة 
+FROM برذعة 	TOWA جنزة 	DIST مرحلة 
+FROM برذعة 	TOWA قلقاطوس 	DIST مرحلة 
+FROM يونان 	TOWA البيلقان 	DIST مرحلة 
+FROM البيلقان 	TOWA ورثان 	DIST مرحلة 
+FROM ورثان 	TOWA تلخاب 	DIST مرحلة 
+FROM تلخاب 	TOWA برزند 	DIST مرحلة 
+FROM برزند 	TOWA أردبيل 	DIST مرحلة 
+FROM برديج 	TOWA الشماخية 	DIST مرحلتين 
+FROM الشماخية 	TOWA شروان 	DIST 3 مراحل 
+FROM شروان 	TOWA الابخان 	DIST مرحلتين 
+FROM الابخان 	TOWA جسر سمور 	DIST مرحلتين 
+FROM جسر سمور 	TOWA باب الأبواب 	DIST 3 مراحل 
+FROM جنزة 	TOWA شمكور 	DIST مرحلة 
+FROM شمكور 	TOWA خنان 	DIST 3 مراحل 
+FROM خنان 	TOWA قلعة ابن كندمان 	DIST مرحلة 
+FROM قلعة ابن كندمان 	TOWA تفليس 	DIST مرحلتين 
+FROM قلقاطوس 	TOWA متريس 	DIST مرحلتين 
+FROM متريس 	TOWA دميس 	DIST مرحلتين 
+FROM دميس 	TOWA كيلكونى 	DIST مرحلتين 
+FROM دبيل 	TOWA نشوى 	DIST 4 مراحل 
+FROM نشوى 	TOWA خوى 	DIST 3 أيام 
+FROM خوى 	TOWA سلماس 	DIST مرحلتين 
+FROM سلماس 	TOWA أرمية 	DIST مرحلة 
+FROM أرمية 	TOWA خرقان 	DIST مرحلتين 
+FROM خرقان 	TOWA مراغة 	DIST مرحلتين 
+FROM مراغة 	TOWA أردبيل 	DIST 40 فرسخا 
+FROM مراغة 	TOWA قندرية 	DIST مرحلتين 
+FROM قلعة الحسن بن علي 	TOWA شهرزور 	DIST 30 فرسخا 
+FROM مراغة 	TOWA نورين 	DIST مرحلة 
+FROM خوى 	TOWA قلعة يونس 	DIST 6 مراحل 
+FROM قلعة يونس 	TOWA قرية العصبيات 	DIST مرحلة 
+FROM ههههه 	TOWA تبلا 	DIST مرحلتين 
+FROM تبلا 	TOWA شكى 	DIST مرحلتين 
+FROM شكى 	TOWA لكزان 	DIST مرحلتين 
+FROM لكزان 	TOWA الباب 	DIST  مراحل 
+FROM مراغة 	TOWA الخرقان 	DIST مرحلتين 
+FROM الخرقان 	TOWA تبريز 	DIST مرحلة 
+FROM تبريز 	TOWA مرند 	DIST مرحلة
+FROM أردبيل 	TOWA النير 	DIST مرحلة 
+FROM النير 	TOWA سراة 	DIST مرحلة 
+FROM سراة 	TOWA كولسره 	DIST مرحلة 
+FROM كولسره 	TOWA مراغة 	DIST مرحلة 
+FROM مراغة 	TOWA خره روذ 	DIST مرحلة 
+FROM خره روذ 	TOWA موسى آباذ 	DIST مرحلة 
+FROM موسى آباذ 	TOWA برزة 	DIST بريدين 
+FROM برزة 	TOWA تفليس 	DIST بريدا 
+FROM بريدا 	TOWA جابروان 	DIST مرحلة 
+FROM جابروان 	TOWA نريز 	DIST مرحلة 
+FROM نريز 	TOWA أرومية 	DIST مرحلة 
+FROM ههههه 	TOWA النشوى 	DIST مرحلتين ثقال 
+FROM النشوى 	TOWA دبيل 	DIST مرحلتين ثقال 
+FROM مراغة 	TOWA سابرخاست 	DIST مرحلة 
+FROM سابرخاست 	TOWA برزة 	DIST مرحلة 
+FROM برزة 	TOWA البيلقان 	DIST مرحلة 
+FROM البيلقان 	TOWA سيسر 	DIST مرحلة 
+FROM سيسر 	TOWA تل وان 	DIST مرحلة 
+FROM تل وان 	TOWA الخبارجان 	DIST مرحلة 
+FROM الخبارجان 	TOWA الدينور 	DIST مرحلة 
+FROM أردبيل 	TOWA الميانج 	DIST مرحلتين 
+FROM نوى 	TOWA زنجان 	DIST مرحلة 
+FROM الميانج 	TOWA خونج 	DIST مرحلة 
+FROM خونج 	TOWA كولسره 	DIST مرحلة 
+FROM كولسره 	TOWA مراغة 	DIST مرحلة 
+FROM مراغة 	TOWA خرقان 	DIST مرحلتين 
+FROM مراغة 	TOWA أرمية 	DIST مرحلتين 
+FROM سلماس 	TOWA خوى 	DIST مرحلة 
+FROM خوى 	TOWA بركرى 	DIST خمسا مراحل 
+FROM بركرى 	TOWA أرجيش 	DIST مرحلتين 
+FROM أرجيش 	TOWA أخلاط 	DIST ثلاثا مراحل 
+FROM أرجيش 	TOWA بدليس 	DIST ثلاثا مراحل 
+FROM بدليس 	TOWA آمد 	DIST أربعا مراحل 
+FROM بدليس 	TOWA ميافارقين 	DIST أربعا مراحل 
+FROM مراغة 	TOWA الدينور 	DIST 60 فرسخا 
+FROM برقوى 	TOWA ملازكرد 	DIST 3 أيام 
+FROM ملازكرد 	TOWA أرزن 	DIST 6 أيام 
+FROM أرزن 	TOWA آمد 	DIST 4 أيام 
+FROM الرى 	TOWA كيلين 	DIST مرحلة 
+FROM كيلين 	TOWA كيس 	DIST مرحلة 
+FROM كيس 	TOWA الخوار 	DIST مرحلة 
+FROM الرى 	TOWA قسطان 	DIST مرحلة 
+FROM قسطان 	TOWA مشكويه 	DIST مرحلة 
+FROM مشكويه 	TOWA ودروه 	DIST مرحلة 
+FROM ودروه 	TOWA ساوة 	DIST مرحلة 
+FROM ساوة 	TOWA سونقين 	DIST مرحلة 
+FROM سونقين 	TOWA المصدقان 	DIST مرحلة 
+FROM المصدقان 	TOWA الروذة 	DIST مرحلة 
+FROM الروذة 	TOWA الدكان 	DIST مرحلة 
+FROM همذان 	TOWA بوزنجرد 	DIST مرحلة 
+FROM بوزنجرد 	TOWA قرية الجن 	DIST مرحلة 
+FROM قرية الجن 	TOWA الدكان 	DIST مرحلة 
+FROM همذان 	TOWA أسداواذ 	DIST مرحلة 
+FROM أسداواذ 	TOWA قصر اللصوص 	DIST مرحلة 
+FROM قصر اللصوص 	TOWA قنطرة النعمان 	DIST مرحلة 
+FROM قنطرة النعمان 	TOWA جبل بيستون 	DIST مرحلة 
+FROM جبل بيستون 	TOWA قرماسين 	DIST مرحلة 
+FROM قرماسين 	TOWA قصر عمرو 	DIST بريدين 
+FROM قصر عمرو 	TOWA الزبيدية 	DIST مرحلة 
+FROM الزبيدية 	TOWA طزر 	DIST نصف مرحلة 
+FROM كرج 	TOWA سواد مقولة 	DIST مرحلة 
+FROM سواد مقولة 	TOWA خوزن 	DIST مرحلة 
+FROM خوزن 	TOWA برزانيان 	DIST مرحلة 
+FROM برزانيان 	TOWA آوه 	DIST مرحلة 
+FROM آوه 	TOWA قرية جرا 	DIST مرحلة 
+FROM قرية جرا 	TOWA رباط جرا 	DIST مرحلة 
+FROM رباط جرا 	TOWA ورامين 	DIST مرحلة 
+FROM ورامين 	TOWA كسكانة 	DIST مرحلة 
+FROM كسكانة 	TOWA الرى 	DIST مرحلة 
+FROM كرج 	TOWA وفراوندة 	DIST مرحلة 
+FROM وفراوندة 	TOWA دارقان 	DIST مرحلة 
+FROM دارقان 	TOWA خروذ 	DIST مرحلة 
+FROM خروذ 	TOWA سابرخواس 	DIST مرحلة 
+FROM سابرخواس 	TOWA كركويش 	DIST مرحلة 
+FROM كركويش 	TOWA الخان 	DIST مرحلة 
+FROM الخان 	TOWA رزمانان 	DIST مرحلة 
+FROM رزمانان 	TOWA اللور 	DIST مرحلة 
+FROM قصر اللصوص 	TOWA كير حراس 	DIST مرحلة 
+FROM كير حراس 	TOWA نهاوند 	DIST بريدين 
+FROM همذان 	TOWA الديمر 	DIST مرحلة 
+FROM الديمر 	TOWA راكاه 	DIST مرحلة 
+FROM راكاه 	TOWA نهاوند 	DIST مرحلة 
+FROM نهاوند 	TOWA راكاه 	DIST مرحلة 
+FROM راكاه 	TOWA جوراب 	DIST مرحلة 
+FROM جوراب 	TOWA الكرج 	DIST مرحلة 
+FROM همذان 	TOWA طاق سعيد 	DIST مرحلة 
+FROM طاق سعيد 	TOWA جوراب 	DIST مرحلة 
+FROM الكرج 	TOWA جراناباذ 	DIST مرحلة 
+FROM جراناباذ 	TOWA ابتعه 	DIST مرحلة 
+FROM ابتعه 	TOWA جرباذقان 	DIST مرحلة 
+FROM جرباذقان 	TOWA قنوان 	DIST مرحلة 
+FROM قنوان 	TOWA مرج وزهر 	DIST مرحلة 
+FROM مرج وزهر 	TOWA الماريين 	DIST بريدين 
+FROM الماريين 	TOWA ازميران 	DIST مرحلتين 
+FROM ازميران 	TOWA اليهودية 	DIST نصف مرحلة 
+FROM السوس 	TOWA قرقوب 	DIST مرحلة 
+FROM قرقوب 	TOWA الطيب 	DIST مرحلة 
+FROM السوس 	TOWA بصنا 	DIST بريدين 
+FROM بصنا 	TOWA البذان 	DIST بريدين 
+FROM جنديسابور 	TOWA اللور 	DIST مرحلة 
+FROM اللور 	TOWA الدز 	DIST مرحلتين 
+FROM الدز 	TOWA رايكان 	DIST مرحلة 
+FROM رايكان 	TOWA كلبايكان 	DIST 40 فرسخا 
+FROM كلبايكان 	TOWA كرج ابى دلف 	DIST مرحلة 
+FROM تستر 	TOWA قرية الرمل 	DIST مرحلة 
+FROM قرية الرمل 	TOWA بصنا 	DIST مرحلة 
+FROM العسكر 	TOWA تستر 	DIST مرحلة 
+FROM العسكر 	TOWA الأهواز 	DIST مرحلة 
+FROM جنديسابور 	TOWA السوس 	DIST مرحلة 
+FROM جنديسابور 	TOWA تستر 	DIST مرحلة 
+FROM بيروت 	TOWA السوس 	DIST مرحلة 
+FROM بيروت 	TOWA البذان 	DIST مرحلة 
+FROM الأهواز 	TOWA شوراب 	DIST بريدا 
+FROM شوراب 	TOWA مندم 	DIST مرحلة 
+FROM مندم 	TOWA قصبة الدورق 	DIST مرحلة 
+FROM الأهواز 	TOWA سوق الأربعاء 	DIST مرحلة 
+FROM سوق الأربعاء 	TOWA حصن مهدى 	DIST مرحلة 
+FROM حصن مهدى 	TOWA فم العضدى 	DIST مرحلة 
+FROM حصن مهدى 	TOWA بيان 	DIST مرحلة 
+FROM الأهواز 	TOWA أجم 	DIST مرحلة 
+FROM أجم 	TOWA آزر 	DIST مرحلة 
+FROM آزر 	TOWA رامهرمز 	DIST مرحلة 
+FROM الأهواز 	TOWA الدورق 	DIST مرحلة 
+FROM الدورق 	TOWA خان 	DIST مرحلة 
+FROM خان 	TOWA بصنا 	DIST مرحلة 
+FROM بصنا 	TOWA قرية الرمل 	DIST مرحلة 
+FROM قرية الرمل 	TOWA قرقوب 	DIST مرحلة 
+FROM الأهواز 	TOWA نهر تيري 	DIST مرحلة 
+FROM نهر تيري 	TOWA نهر العباس 	DIST مرحلة 
+FROM نهر العباس 	TOWA الخوزية 	DIST مرحلة 
+FROM الخوزية 	TOWA الأبلة 	DIST مرحلة 
+FROM الأهواز 	TOWA الاسحاقية 	DIST مرحلة 
+FROM الاسحاقية 	TOWA الجسر المحترق 	DIST مرحلة 
+FROM الجسر المحترق 	TOWA حصن مهدى 	DIST مرحلة 
+FROM نهر العباس 	TOWA عسكر ابى جعفر 	DIST مرحلة 
+FROM رامهرمز 	TOWA سنبل 	DIST مرحلتين 
+FROM سنبل 	TOWA أرجان 	DIST مرحلة 
+FROM رامهرمز 	TOWA تيرم 	DIST مرحلة 
+FROM تيرم 	TOWA غروة 	DIST مرحلة 
+FROM غروة 	TOWA البازير 	DIST بريدين 
+FROM البازير 	TOWA إيذج 	DIST مرحلة 
+FROM إيذج 	TOWA الدز 	DIST مرحلة 
+FROM الدز 	TOWA الدولاب 	DIST مرحلة 
+FROM الرام 	TOWA الزط 	DIST مرحلة 
+FROM رامهرمز 	TOWA بده 	DIST مرحلة 
+FROM بده 	TOWA جسر جهنم 	DIST مرحلة 
+FROM ارجان 	TOWA ريشهر 	DIST مرحلة 
+FROM ريشهر 	TOWA مهربان 	DIST مرحلة 
+FROM ارجان 	TOWA بسابك 	DIST مرحلة 
+FROM بسابك 	TOWA دهليزان 	DIST مرحلة 
+FROM دهليزان 	TOWA خابران 	DIST بريدين 
+FROM خابران 	TOWA وادي الملح 	DIST مرحلة 
+FROM وادي الملح 	TOWA رامهرمز 	DIST بريدين 
+FROM ارجان 	TOWA الزيتون 	DIST بريدين 
+FROM الزيتون 	TOWA حبس 	DIST مرحلة 
+FROM حبس 	TOWA بندق 	DIST مرحلة 
+FROM بندق 	TOWA جنبد 	DIST بريدين 
+FROM جنبد 	TOWA زنك 	DIST بريدين 
+FROM زنك 	TOWA دخويذ 	DIST مرحلة 
+FROM دخويذ 	TOWA خواذان 	DIST بريدين 
+FROM خواذان 	TOWA النوبندجان 	DIST بريدين 
+FROM ارجان 	TOWA كنيسة المجوس 	DIST مرحلة 
+FROM ارجان 	TOWA كنيسة المجوس 	DIST مرحلة 
+FROM كنيسة المجوس 	TOWA الزيز 	DIST مرحلة 
+FROM الزيز 	TOWA العينية 	DIST مرحلة 
+FROM العينية 	TOWA النهر 	DIST مرحلة 
+FROM النهر 	TOWA خرندة 	DIST مرحلة 
+FROM خرندة 	TOWA سميرم 	DIST مرحلة 
+FROM مهربان 	TOWA سينيز 	DIST مرحلة 
+FROM مهربان 	TOWA النهر 	DIST مرحلة 
+FROM النهر 	TOWA ارجان 	DIST مرحلة 
+FROM سينيز 	TOWA سنجاهان 	DIST مرحلة 
+FROM سنجاهان 	TOWA جنابة 	DIST مرحلة 
+FROM جنابة 	TOWA دشت داودي 	DIST مرحلة 
+FROM دشت داودي 	TOWA توز 	DIST مرحلة 
+FROM توز 	TOWA خشت 	DIST مرحلة 
+FROM سيراف 	TOWA جم 	DIST مرحلة 
+FROM جم 	TOWA برزرة 	DIST مرحلة 
+FROM برزرة 	TOWA كيرند 	DIST مرحلة 
+FROM كيرند 	TOWA مه 	DIST مرحلة 
+FROM مه 	TOWA رايكان 	DIST مرحلة 
+FROM رايكان 	TOWA بيابشوراب 	DIST مرحلة 
+FROM بيابشوراب 	TOWA جور 	DIST مرحلة 
+FROM درابجرد 	TOWA خسو 	DIST مرحلة 
+FROM خسو 	TOWA كرب 	DIST مرحلة 
+FROM كرب 	TOWA جويم ابى احمد 	DIST مرحلة 
+FROM جويم ابى احمد 	TOWA كاريان 	DIST مرحلة 
+FROM كاريان 	TOWA باراب 	DIST مرحلة 
+FROM باراب 	TOWA كران 	DIST مرحلة 
+FROM كران 	TOWA سيراف 	DIST مرحلة 
+FROM درابجرد 	TOWA جرموا 	DIST مرحلة 
+FROM جرموا 	TOWA رستاق الرستاق 	DIST مرحلة 
+FROM رستاق الرستاق 	TOWA برك 	DIST مرحلة 
+FROM برك 	TOWA تارم 	DIST مرحلة 
+FROM درابجرد 	TOWA جاه زندايا 	DIST مرحلة 
+FROM جاه زندايا 	TOWA تيمارستان 	DIST مرحلة 
+FROM تيمارستان 	TOWA فسا 	DIST نصف مرحلة 
+FROM شيراز 	TOWA كفره 	DIST مرحلة 
+FROM كفره 	TOWA كول 	DIST مرحلة 
+FROM كول 	TOWA بومهان 	DIST مرحلة 
+FROM بومهان 	TOWA جور 	DIST مرحلة 
+FROM شيراز 	TOWA قرية جويم 	DIST مرحلة 
+FROM قرية جويم 	TOWA خلار 	DIST بريدين 
+FROM خلار 	TOWA الخرارة 	DIST بريدين 
+FROM الخرارة 	TOWA جركان 	DIST مرحلة 
+FROM جركان 	TOWA النوبندجان 	DIST مرحلة 
+FROM شيراز 	TOWA قرية الرمان 	DIST مرحلة 
+FROM قرية الرمان 	TOWA سروستان 	DIST مرحلة 
+FROM سروستان 	TOWA كرم 	DIST مرحلة 
+FROM كرم 	TOWA فسا 	DIST مرحلة 
+FROM شيراز 	TOWA داريان 	DIST مرحلة 
+FROM داريان 	TOWA خرمة 	DIST مرحلة 
+FROM خرمة 	TOWA كث 	DIST مرحلة 
+FROM كث 	TOWA خير 	DIST مرحلة 
+FROM خير 	TOWA نيريز 	DIST مرحلة 
+FROM نيريز 	TOWA كدروا 	DIST مرحلة 
+FROM كدروا 	TOWA رباط زرودوا 	DIST مرحلة 
+FROM رباط زرودوا 	TOWA نهر من 	DIST مرحلة 
+FROM نهر من 	TOWA هنته 	DIST مرحلة 
+FROM هنته 	TOWA بيمند 	DIST مرحلة 
+FROM بيمند 	TOWA السيرجان 	DIST بريدين 
+FROM شيراز 	TOWA ركان 	DIST مرحلة 
+FROM ركان 	TOWA راس السكر 	DIST مرحلة 
+FROM راس السكر 	TOWA زياداباذ 	DIST مرحلة 
+FROM زياداباذ 	TOWA جب أمير المؤمنين 	DIST مرحلة 
+FROM جب أمير المؤمنين 	TOWA راس الدنيا 	DIST مرحلة 
+FROM شيراز 	TOWA صاهه 	DIST مرحلة 
+FROM صاهه 	TOWA دشت أرزن 	DIST مرحلة 
+FROM فسا 	TOWA كارزين 	DIST مرحلة 
+FROM كارزين 	TOWA هرمز 	DIST مرحلة 
+FROM كارزين 	TOWA خارزين 	DIST مرحلة 
+FROM سابور 	TOWA كرك 	DIST مرحلة 
+FROM كرك 	TOWA دشت ارزن 	DIST مرحلة 
+FROM كازرون 	TOWA قرية الحطب 	DIST بريدين 
+FROM قرية الحطب 	TOWA دشت ارزن 	DIST بريدين 
+FROM كازرون 	TOWA دريز 	DIST بريدين 
+FROM دريز 	TOWA راس العقبة 	DIST بريدين 
+FROM راس العقبة 	TOWA توز 	DIST بريدين 
+FROM توز 	TOWA قرية 	DIST بريدين 
+FROM قرية 	TOWA جنابة 	DIST بريدين 
+FROM إصطخر 	TOWA راس السكر 	DIST بريدين 
+FROM إصطخر 	TOWA البيضاء 	DIST مرحلة 
+FROM إصطخر 	TOWA قرية الحمام 	DIST مرحلة 
+FROM قرية الحمام 	TOWA زيادواذ 	DIST بريدا 
+FROM زيادواذ 	TOWA جب أمير المؤمنين 	DIST مرحلة 
+FROM جب أمير المؤمنين 	TOWA هراة 	DIST مرحلة 
+FROM هراة 	TOWA راذان 	DIST مرحلة 
+FROM راذان 	TOWA شاباوك 	DIST مرحلة 
+FROM شاباوك 	TOWA روار 	DIST مرحلة 
+FROM روار 	TOWA قرية الجمال 	DIST مرحلة 
+FROM قرية الجمال 	TOWA الروذان 	DIST مرحلة 
+FROM إصطخر 	TOWA بئر 	DIST بريدين 
+FROM بئر 	TOWA كهمندة 	DIST مرحلة 
+FROM كهمندة 	TOWA قرية بيذ 	DIST مرحلة 
+FROM قرية بيذ 	TOWA أبرقوه 	DIST مرحلة 
+FROM أبرقوه 	TOWA قرية الأسد 	DIST مرحلة 
+FROM قرية الأسد 	TOWA الأرد 	DIST مرحلة 
+FROM الأرد 	TOWA قلعة المجوس 	DIST مرحلة 
+FROM قلعة المجوس 	TOWA كثة 	DIST مرحلة 
+FROM كثة 	TOWA أنجيره 	DIST مرحلة 
+FROM اليهودية 	TOWA خان رش 	DIST مرحلة 
+FROM خان رش 	TOWA قومسة 	DIST مرحلة 
+FROM قومسة 	TOWA كرو 	DIST مرحلة 
+FROM كرو 	TOWA سميرم 	DIST مرحلة 
+FROM اليهودية 	TOWA الخان حان لنجان 	DIST مرحلة 
+FROM الخان حان لنجان 	TOWA كرو 	DIST مرحلة 
+FROM كرو 	TOWA ماس 	DIST مرحلة 
+FROM ماس 	TOWA خان روشن 	DIST بريدين 
+FROM خان روشن 	TOWA إصطخران 	DIST مرحلة 
+FROM إصطخران 	TOWA قصر أعين 	DIST مرحلة 
+FROM قصر أعين 	TOWA خوسكان 	DIST مرحلة 
+FROM خوسكان 	TOWA ماءين 	DIST مرحلة 
+FROM ماءين 	TOWA أزر سابور 	DIST مرحلة 
+FROM أزر سابور 	TOWA شيراز 	DIST مرحلة 
+FROM روزكان 	TOWA ازكاس 	DIST مرحلة 
+FROM ازكاس 	TOWA سروستان 	DIST مرحلة 
+FROM سروستان 	TOWA سرمسه 	DIST مرحلة 
+FROM سرمسه 	TOWA لاه وكره 	DIST مرحلة 
+FROM لاه وكره 	TOWA قرية الخلاف 	DIST مرحلة 
+FROM قرية الخلاف 	TOWA كماهنك 	DIST مرحلة 
+FROM كماهنك 	TOWA قرية ابن بندار 	DIST مرحلة 
+FROM قرية ابن بندار 	TOWA إصطخر 	DIST مرحلة 
+FROM سميرم 	TOWA جعفرآباذ 	DIST مرحلة 
+FROM جعفرآباذ 	TOWA الزاب 	DIST مرحلة 
+FROM الزاب 	TOWA كورد وكلار 	DIST مرحلة 
+FROM كورد وكلار 	TOWA مهرجاناواذ 	DIST مرحلة 
+FROM مهرجاناواذ 	TOWA اش وبورد 	DIST مرحلة 
+FROM اش وبورد 	TOWA نسا 	DIST مرحلة 
+FROM نسا 	TOWA شيراز 	DIST مرحلة 
+FROM اليهودية 	TOWA خالنجان 	DIST مرحلة 
+FROM خالنجان 	TOWA باركان 	DIST مرحلة 
+FROM باركان 	TOWA أسبيذدشت 	DIST مرحلة 
+FROM أسبيذدشت 	TOWA جعاد وجورد 	DIST مرحلة 
+FROM جعاد وجورد 	TOWA الرباط 	DIST مرحلة 
+FROM الرباط 	TOWA كورستان 	DIST مرحلة 
+FROM كورستان 	TOWA جسر جهنم 	DIST مرحلة 
+FROM بردسير 	TOWA السيرجان 	DIST مرحلتين 
+FROM بردسير 	TOWA جنزروذ 	DIST مرحلة 
+FROM جنزروذ 	TOWA زرند 	DIST مرحلة 
+FROM نرماسير 	TOWA الفهرج 	DIST مرحلة 
+FROM نرماسير 	TOWA جوى سليمان 	DIST 3 مراحل 
+FROM جوى سليمان 	TOWA ريكان 	DIST مرحلة 
+FROM ريكان 	TOWA موخكان 	DIST مرحلة 
+FROM موخكان 	TOWA الطيب 	DIST مرحلة 
+FROM الطيب 	TOWA مروغان 	DIST مرحلة 
+FROM مروغان 	TOWA باس وجكين 	DIST مرحلة 
+FROM باس وجكين 	TOWA هروك 	DIST مرحلة 
+FROM هروك 	TOWA قصر مهدى 	DIST مرحلة 
+FROM قصر مهدى 	TOWA هرموز 	DIST مرحلة 
+FROM هرموز 	TOWA الفرضة 	DIST بريدين 
+FROM السيرجان 	TOWA كاهون 	DIST مرحلتين 
+FROM كاهون 	TOWA رستاق الرستاق 	DIST مرحلة 
+FROM السيرجان 	TOWA بيمند 	DIST بريدين 
+FROM بيمند 	TOWA كردكان 	DIST بريدا 
+FROM كردكان 	TOWA أناس 	DIST مرحلة 
+FROM أناس 	TOWA الروذان 	DIST بريدين 
+FROM السيرجان 	TOWA الشامات 	DIST مرحلة 
+FROM الشامات 	TOWA بهار 	DIST مرحلة 
+FROM بهار 	TOWA خناب 	DIST مرحلة 
+FROM خناب 	TOWA غبيرا 	DIST مرحلة 
+FROM غبيرا 	TOWA كوغون 	DIST فرسخا 
+FROM كوغون 	TOWA رائين 	DIST مرحلة 
+FROM رائين 	TOWA سروستان 	DIST مرحلة 
+FROM سروستان 	TOWA دارجين 	DIST مرحلة 
+FROM دارجين 	TOWA بم 	DIST مرحلة 
+FROM السيرجان 	TOWA فرزين 	DIST مرحلتين 
+FROM فرزين 	TOWA ماهان 	DIST مرحلة 
+FROM ماهان 	TOWA خبيص 	DIST 3 مراحل 
+FROM بم 	TOWA نرماسير 	DIST مرحلة 
+FROM بم 	TOWA دارجين 	DIST مرحلة 
+FROM دارجين 	TOWA هرمز 	DIST مرحلة 
+FROM هرمز 	TOWA جيرفت 	DIST مرحلة 
+FROM تيز مكران 	TOWA كيس 	DIST 5 مراحل 
+FROM كيس 	TOWA فنزبور 	DIST مرحلتين 
+FROM فنزبور 	TOWA دزك 	DIST 3 مراحل 
+FROM دزك 	TOWA راسك 	DIST 3 مراحل 
+FROM راسك 	TOWA فهل فهرة 	DIST 3 مراحل 
+FROM فهل فهرة 	TOWA اصفقة 	DIST مرحلتين 
+FROM اصفقة 	TOWA بند 	DIST مرحلة 
+FROM بند 	TOWA به 	DIST مرحلة 
+FROM به 	TOWA قصرقند 	DIST مرحلة 
+FROM قصرقند 	TOWA ارمابيل 	DIST 6 مراحل 
+FROM ارمابيل 	TOWA ديبل 	DIST 4 مراحل 
+FROM التيز 	TOWA قصدار على الساحل في طول مكران ?	DIST 12 مرحلة 
+FROM المنصورة 	TOWA ديبل 	DIST 6 مراحل 
+FROM المنصورة 	TOWA الملتان 	DIST 20 مرحلة 
+FROM المنصورة 	TOWA قزدار 	DIST 80 فرسخا 
+FROM قزدار 	TOWA كنكابان 	DIST 80 فرسخا 
+FROM كنكابان 	TOWA سيوه 	DIST 80 فرسخا 
+FROM سيوه 	TOWA ولا شتان 	DIST 80 فرسخا 
+FROM ولا شتان 	TOWA ساغن 	DIST 60 فرسخا 
+FROM ساغن 	TOWA غزنين 	DIST مرحلة 
+FROM قزدار 	TOWA مشكى 	DIST 50 فرسخا 
+FROM مشكى 	TOWA جالق 	DIST 30 فرسخا 
+FROM جالق 	TOWA خواص 	DIST 30 فرسخا 
+FROM خواص 	TOWA سرى شهر 	DIST 20 فرسخا 
+FROM سرى شهر 	TOWA نهر سليمان 	DIST 20 فرسخا 
+FROM نهر سليمان 	TOWA درهفان 	DIST 50 فرسخا 
+FROM درهفان 	TOWA جيرفت 	DIST 50 فرسخا 
+FROM الملتان 	TOWA بالس 	DIST 10 مراحل 
+FROM بالس 	TOWA قندابيل 	DIST 10 مراحل 
+FROM قندابيل 	TOWA قصدار 	DIST 5 مراحل 
+FROM قندابيل 	TOWA المنصورة 	DIST 8 مراحل 
+FROM المنصورة 	TOWA قامهل 	DIST 8 مراحل 
+FROM قامهل 	TOWA كنباية 	DIST 4 مراحل 
+FROM كنباية 	TOWA سوبارة 	DIST 4 مراحل 
+FROM سندان 	TOWA سيمور 	DIST 5 مراحل 
+FROM سيمور 	TOWA سرنديب 	DIST 15 مراحل 
+FROM الملتان 	TOWA بسمد 	DIST مرحلتان 
+FROM بسمد 	TOWA الرور 	DIST 3 مراحل 
+FROM الرور 	TOWA انرى 	DIST 4 مراحل 
+FROM انرى 	TOWA قلرى 	DIST مرحلتان 
+FROM قلرى 	TOWA المنصورة 	DIST مرحلة 
+FROM المنصورة 	TOWA قامهل 	DIST مرحلة 

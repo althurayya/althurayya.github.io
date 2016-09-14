@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "reference": "Abū ʿAbd Allãh al-Ḥimyarī (d. 900 AH). <i>Rawḍ al-miʿṭār fī ḫabar al-aqṭār</i>. Ed. by Iḥsān ʿAbbās. 2nd edition. Bayrūt, 1980",
+            "source": "al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>",
+            "text": "<h1 class=\"arabic\">سرادق</h1>\n<p class=\"arabic\">بحر سرادق متصل بخليج القسطنطينية، ونزل الططر على سرادق في سنة سبع عشرة وستمائة، ودوخوا تلك البلاد الشمالية من وراء سيحون إلى هذا البحر، نحو نصف سنة، وفعلوا في كل إقليم من أقاليمها العجائب، ورجعوا إلى ملكهم جنكزخان وهو على حصار الطالقان.</p>",
+            "title": "سرادق",
+            "uri": "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000794-000.json"
+        }
+    ],
+    "type": "FeatureCollection"
+}
