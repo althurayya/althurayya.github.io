@@ -113,7 +113,6 @@
                             + "Cornu lon: " + d.properties.cornuData["coord_lon"] + "</br>"
                             + "Cornu region: " + d.properties.cornuData["region_spelled"] + "</br>"
                             + "Translit: " + d.properties.cornuData["toponym_translit"] + "</br>"
-                            + "Sources: " + JSON.stringify(d.properties.sources_arabic) + "</br>"
                             + "</p>"
                 }
         );
@@ -224,7 +223,7 @@
 <div id="map"></div>
 <div style="right: 20px;" id="rightControls" class="controlsDiv">
     <div class="buttonContainer">
-        <div id="sourcesContainer" class="buttonContainer">
+        <div id="sourcesContainer">
             <span style="color:gray;">Toponym Sources:</span><br/><br/>
             <span id="initDesc" style="color:gray; display:block">Click on a place to see the Arabic sources available</span>
             <div id="sources">

@@ -33,12 +33,12 @@ html,body {
     position: absolute;
 }
 
-.cityhull {
-    fill: purple;
-    fill-opacity: .5;
-    /*stroke: black;*/
-    stroke-width: 1px;
-}
+/*.cityhull {*/
+    /*fill: purple;*/
+    /*fill-opacity: .5;*/
+    /*/!*stroke: black;*!/*/
+    /*stroke-width: 1px;*/
+/*}*/
 
 .point {
     fill: red;
@@ -70,7 +70,7 @@ html,body {
     top: 120px;
     right: 15px;
     width: 300px;
-    height: 200px;
+    height: 500px;
     overflow:scroll;
     z-index: 100;
 }
