@@ -69,8 +69,8 @@ html,body {
     padding: 0 10px 10px;
     top: 120px;
     right: 15px;
-    width: 300px;
-    height: 500px;
+    width: 500px;
+    height: 700px;
     overflow:scroll;
     z-index: 100;
 }

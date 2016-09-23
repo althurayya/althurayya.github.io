@@ -74,7 +74,7 @@
         var blob = new Blob([JSON.stringify(writeplaces)], {type: "octet/stream"});
         // Save all objects in a new file (or as the same of orignial file, places.geojson)
         // The edited file should be used for each time that the page is loaded, to show the edited data
-        saveAs(blob, "places.geojson");
+        saveAs(blob, "/Users/romanov/Documents/c.GitProjects/althurayya.github.io/master/places.geojson");
 //        d3.select("#false_"+placeUri+"_btn").remove();
 //        d3.select("#true_"+placeUri+"_btn").remove();
         d3.select('#saveDiv').style("display", "none");
@@ -149,7 +149,7 @@
                 // Read all the data file named as one of the sources of a place,
                 // using d3.queue
                 Object.keys(c.properties.sources_arabic).forEach(function (source) {
-                    q = q.defer(d3.json, "../Data/sources/" + source);
+                    q = q.defer(d3.json, "./sources/" + source);
                 })
                 // Call the "onDataLoaded" function when all the files are loaded
                 q.await(onDataLoaded);

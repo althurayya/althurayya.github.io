@@ -118,7 +118,7 @@
         );
         pointLayer = d3.carto.layer.geojson();
         pointLayer
-                .path("../Data/places.geojson")
+                .path("../../master/places.geojson")
                 .label("places")
                 .cssClass("point")
                 .renderMode("svg")
@@ -129,7 +129,7 @@
                 .addCartoLayer(pointLayer);
         map.centerOn([44.361488, 33.312806], "latlong").setScale(3);
         function loadPlaces() {
-            d3.json("../Data/places.geojson", function(error, data) {
+            d3.json("../../master/places.geojson", function(error, data) {
               data.features.forEach(function(d) {
                   places[d.properties.cornuData['cornu_URI']] = d;
               })
@@ -148,7 +148,7 @@
                 // Read all the data file named as one of the sources of a place,
                 // using d3.queue
                 Object.keys(c.properties.sources_arabic).forEach(function (source) {
-                    q = q.defer(d3.json, "../Data/sources/" + source);
+                    q = q.defer(d3.json, "../../sources/" + source);
                 })
                 // Call the "onDataLoaded" function when all the files are loaded
                 q.await(onDataLoaded);
