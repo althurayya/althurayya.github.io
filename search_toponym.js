@@ -48,19 +48,14 @@ function active_autocomp(auto_list) {
                     || markerTopURI == selected) {
                     selectedMarker = markers[key];
                     customMarkerStyle(markers[key], "red", 1)
-                    if (selected.indexOf("ROUTPOINT") !== -1)
-                        console.log("if: " + markers[key].options.searchTitle)
                 }
                 // else, make them pale
                 else {
                     customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-                    if (selected.indexOf("ROUTPOINT") !== -1)
-                        console.log("else: " + markers[key].options.searchTitle)
                 }
             })
             // re-center the map if the selected item exist!
             if (selectedMarker !== undefined) {
-                console.log(selectedMarker.options)
                 var lat = selectedMarker.options.lat;
                 var lng = selectedMarker.options.lng;
                 map.panTo(new L.LatLng(lat, lng));
