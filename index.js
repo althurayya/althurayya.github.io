@@ -46,17 +46,6 @@ var all_route_layers = [];
 var map_region_to_code = {};
 var markerLabels = {};
 var route_points = {};
-// Types of the toponyms to be shown on map
-var type_size =
-{
-    "metropoles" : 5,
-    "capitals" : 4,
-    "towns" : 3,
-    "villages" : 2,
-    "waystations" : 1,
-    "sites" : 1,
-    "xroads" : 1
-};
 
 /* Earlier version
 {
@@ -97,7 +86,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
            /*
             * click on a marker
             */
-            marker.on('click', OnMarkerClick);
+            marker.on('click', OnMarkerClick(feature));
             function ResizeMarker(e) {
                 var currentZoom = map.getZoom();
                 marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
@@ -142,81 +131,9 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 }).done(function () {
     index_zoom(markers,type_size);
     $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
-        var routes = L.geoJson(data, {onEachFeature: onEachFeature});
-        function onEachFeature(feature, layer) {
-            var sRegion, eRegion;
-            var sFound = false;
-            var eFound = false;
-            var keys = Object.keys(markers);
-            for (var i = 0; i < keys.length; i++) {
-                if (sFound == false &&
-                    feature.properties.sToponym == markers[keys[i]].options.cornu_URI) {
-                    sFound = true;
-                    sRegion = markers[keys[i]].options.region;
-                    // populate the route_points dictionary with neighbours of the route points
-                    if (sRegion == 22) {
-                        if (route_points[feature.properties.sToponym] == undefined)
-                            route_points[feature.properties.sToponym] = [];
-                        var tmp = {};
-                        tmp["route"] = layer;
-                        tmp["end"] = markers[feature.properties.eToponym].options.region;
-                        route_points[feature.properties.sToponym].push(tmp);
-                    }
-                }
-                if (eFound == false &&
-                    feature.properties.eToponym == markers[keys[i]].options.cornu_URI) {
-                    eFound = true;
-                    eRegion = markers[keys[i]].options.region;
-                    // populate the route_points dictionary with neighbours of the route points
-                    if (eRegion == 22) {
-                        if (route_points[feature.properties.eToponym] == undefined)
-                            route_points[feature.properties.eToponym] = [];
-                        var tmp = {};
-                        tmp["route"] = layer;
-                        tmp["end"] = markers[feature.properties.sToponym].options.region;
-                        route_points[feature.properties.eToponym].push(tmp);
-                    }
-                }
-                if (sFound == true && eFound == true)
-                    break;
-            }
-            all_route_layers.push(layer);
-            map_region_to_code[markers[keys[i]].options.region_spelled]
-                = markers[keys[i]].options.region;
-            /* Regions 13, 22, and 23 will be light gray.
-             * There might be some coloring over routes which are subsections of other routes.
-             * That means, some routes of region 22, might get the light blue color
-             * (original color before setting that to gray)
-             * even though in the code they get gray first (in else)!
-            */
-            if (sRegion == eRegion) {
-                if (route_layers[markers[keys[i]].options.region_spelled] == undefined)
-                    route_layers[markers[keys[i]].options.region_spelled] = [];
-                route_layers[markers[keys[i]].options.region_spelled].push(layer);
-                customLineStyle(layer, colorLookup[sRegion], 2, 1);
-            }
-            else
-                customLineStyle(layer, "lightgray", 1, 1);
-            //layer.bringToBack();
-            /*
-             * click on a route section
-             */
-            layer.on('click', OnRouteClick);
-            function OnRouteClick(e) {
-                $("#sidebar").removeClass('collapsed');
-                $(".sidebar-pane").removeClass('active');
-                $(".sidebar-tabs > li").removeClass('active');
-                $("#initRouteDesc").remove();
-                $("#routeSectionPane").addClass('active');
-                $("#routeSection").addClass('active');
-                $("#routeDetails").text("MoreDetails:");
-
-                // Create html content of route details (in routeSection tab) for a route section clicked
-                Object.keys(layer.feature.properties).forEach(function (rData) {
-                    $("#routeDetails").append("<p class = 'details_text'><b>" + rData + ": </b> " + layer.feature.properties[rData] + "</p>");
-                })
-            }
-        }
+        var routes = L.geoJson(data, {
+            onEachFeature: handle_routes
+        });
 
         var rl = routeLayer.addLayer(routes);
         rl.addTo(map);
@@ -259,100 +176,13 @@ map.on('click', OnMapClick);
  */
 map.on('zoomend', myzoom);
 
-/*
- * Search Toponym
- */
-$( '#searchInput' ).on( 'keyup', function() {
-    Object.keys(markers).forEach(function(key) {
-        var searchTitle = markers[key].options.searchTitle.toUpperCase();
-        var cornuURI = markers[key].options.cornu_URI;
-        var arabicTitle = markers[key].options.arabicTitle;
-        var markerSearchTitle = [];
-        markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
-        var searchTerm = $( '#searchInput' ).val().toUpperCase();
-        if (searchTerm !== "") {
-            if ( markerSearchTitle.indexOf(searchTerm) != -1) {
-                console.log("if: "+ markerSearchTitle);
-                customMarkerStyle(markers[key], "red", 1);
-            }
-            else {
-                console.log("else: "+markerSearchTitle);
-                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-            }
-        }
-        else if (searchTerm === "") {
-            zoom();
-            customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 1)
-        }
-    })
-});
+active_search();
+active_autocomp(auto_list);
 
-
- /*
- * Autocomplete the search input
- */
-$( "#searchInput" ).autocomplete({
-    appendTo: "#searchPane",
-    source: auto_list,
-    minLength: 4,
-    select: function (e, ui) {
-        var selected = ui.item.value.toUpperCase();
-        var selectedMarker;
-        Object.keys(markers).forEach(function(key) {
-            markerLabels[key].setLabelNoHide(false);
-            var markerSearchTitle = markers[key].options.searchTitle.toUpperCase();
-            var markerTopURI = markers[key].options.cornu_URI;
-            var markerArabicTitle = markers[key].options.arabicTitle;
-            // Change the circle marker color to red if it matches the selected search value
-            if (markerSearchTitle == selected || markerArabicTitle == selected
-                    || markerTopURI == selected) {
-                selectedMarker = markers[key];
-                customMarkerStyle(markers[key], "red", 1)
-                if (selected.indexOf("ROUTPOINT")!== -1)
-                    console.log("if: "+markers[key].options.searchTitle)
-            }
-            // else, make them pale
-            else {
-                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-                if (selected.indexOf("ROUTPOINT")!== -1)
-                    console.log("else: "+markers[key].options.searchTitle)
-            }
-        })
-        // re-center the map if the selected item exist!
-        if (selectedMarker !== undefined) {
-            console.log(selectedMarker.options)
-            var lat = selectedMarker.options.lat;
-            var lng = selectedMarker.options.lng;
-            map.panTo(new L.LatLng(lat, lng));
-        }
-    }
-});
 /*
  * Add the rotes to the map
  */
 var routeLayer = L.featureGroup();
-/*
- * Set the routes style
- */
-function customLineStyle(layer, color, width, opacity) {
-    layer.setStyle({
-        color: color,
-        weight: width,
-        opacity: opacity,
-        smoothFactor : 2
-    })
-};
-/*
- * Set the marker style
- */
-function customMarkerStyle(marker, color, opacity) {
-    marker.setStyle({
-        fillColor: color,
-        color: color,
-        fillOpacity: opacity
-    })
-};
-
 /*
  * Highlights and change the color of markers of a region by clicking on a
  * region name.

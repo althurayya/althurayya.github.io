@@ -43,3 +43,15 @@ var colorLookup = {
     39: "#B4368A",
     41: "#8F547C"
 };
+
+// Types of the toponyms to be shown on map
+var type_size =
+{
+    "metropoles" : 5,
+    "capitals" : 4,
+    "towns" : 3,
+    "villages" : 2,
+    "waystations" : 1,
+    "sites" : 1,
+    "xroads" : 1
+};
