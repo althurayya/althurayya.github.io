@@ -34,48 +34,7 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
     attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' });;
-var colorLookup = {
-    "Andalus": "#D5812E",
-    "Aqur": "#A768E6",
-    "Barqa": "#58E0C1",
-    "Daylam": "#323449",
-    "Egypt": "#6CD941",
-    "Faris": "#E23A80",
-    "Iraq": "#ABB1DB",
-    "Jibal": "#384E21",
-    "Khazar": "#BDD977",
-    "Khurasan": "#B27E86",
-    "Khuzistan": "#8F351D",
-    "Kirman": "#D5AB7A",
-    "Mafaza": "#d3d3d3",//"#514285", has changed to light gray to set this region to background
-    "Maghrib": "#539675",
-    "Rihab": "#4B281F",
-    "Sham": "#539236",
-    "Sicile": "#DB4621",
-    "Sijistan": "#68DA85",
-    "Sind": "#6C7BD8",
-    "Transoxiana": "#DBB540",
-    "Yemen": "#8F3247",
-    22: "#000000",//"#A8DBD5", has changed to light gray to set this region to background
-    "Badiyat al-Arab": "#d3d3d3",//"#C9DB3F", has changed to light gray to set this region to background
-    "Jazirat al-Arab": "#537195",
-    25: "#7E5C31",
-    26: "#D1785F",
-    27: "#898837",
-    28: "#DC4AD3",
-    29: "#DD454F",
-    30: "#C4D9A5",
-    31: "#DDC1BF",
-    32: "#D498D2",
-    33: "#61B7D6",
-    34: "#A357B1",
-    35: "#522046",
-    36: "#849389",
-    37: "#3B524B",
-    38: "#DD6F91",
-    39: "#B4368A",
-    41: "#8F547C"
-};
+
 var min_zoom = 5,
     max_zoom = 14;
 var prevZoom = min_zoom;
@@ -111,6 +70,8 @@ var type_size =
 */
 var geojson;
 var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+// Add tile and markers to the map
+prevTile.addTo(map);
 var auto_list = [];
 var latlngs = [];
 
@@ -119,6 +80,27 @@ function click_on_list(id) {
     $('#'+id+"text").children().toggle();
     $('#'+id+"ref").toggle();
 }
+
+function create_marker(feature,latlng) {
+    return L.circleMarker(latlng, {
+        cornu_URI : feature.properties.cornuData.cornu_URI,
+        //radius: Math.sqrt(feature.properties.topType.length)/3,
+        radius: type_size[feature.properties.cornuData.top_type_hom]*2,
+        fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
+        color: colorLookup[feature.properties.cornuData.region_code],
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 1,
+        type : feature.properties.cornuData.top_type_hom,
+        region : feature.properties.cornuData.region_code,
+        region_spelled : feature.properties.cornuData.region_spelled,
+        searchTitle : feature.properties.cornuData.toponym_search,
+        arabicTitle : feature.properties.cornuData.toponym_arabic,
+        lat : feature.properties.cornuData.coord_lat,
+        lng : feature.properties.cornuData.coord_lon
+    });
+}
+
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
@@ -127,23 +109,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             regs[feature.properties.cornuData.region_spelled]
                 .push(feature.properties.cornuData.cornu_URI);
 
-            var marker = L.circleMarker(latlng, {
-                cornu_URI : feature.properties.cornuData.cornu_URI,
-                //radius: Math.sqrt(feature.properties.topType.length)/3,
-                radius: type_size[feature.properties.cornuData.top_type_hom]*2,
-                fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
-                color: colorLookup[feature.properties.cornuData.region_code],
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 1,
-                type : feature.properties.cornuData.top_type_hom,
-                region : feature.properties.cornuData.region_code,
-                region_spelled : feature.properties.cornuData.region_spelled,
-                searchTitle : feature.properties.cornuData.toponym_search,
-                arabicTitle : feature.properties.cornuData.toponym_arabic,
-                lat : feature.properties.cornuData.coord_lat,
-                lng : feature.properties.cornuData.coord_lon
-            });
+            var marker = create_marker(feature,latlng);
             latlngs.push([latlng['lat'],latlng['lng']])
             var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
             // list of toponyms for autocomplete action of the search input
@@ -174,7 +140,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 $("#region").text(colorLookup[feature.properties.regNum]);
                 $("#regNum").text(colorLookup[feature.properties.regNum]);
                 $("#cornuDetails").text("");
-                $("#sources").empty();
+                $("#sourceTitle").text("Sources on: " + feature.properties.cornuData.toponym_arabic);
                 //$("#admin1").text(feature.properties.admin1_std_name);
                 //$("#txtLink > a").text(feature.properties.SOURCE);
                 //$("#txtLink > a").attr("href",feature.properties.SOURCE);
@@ -182,7 +148,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //$("#geoLink > a").text(feature.properties.geo.geonameId);
                 //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
                 $("#geoLink > a").attr("target", "_blank");
-
+                markerLabels[feature.properties.cornuData.cornu_URI].setLabelNoHide(true);
                 // Create html content of cornu details (in location tab) for a location clicked
                 Object.keys(feature.properties.cornuData).forEach(function (cData) {
                    $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
@@ -193,7 +159,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                         feature.properties.sources_arabic[a].rate;
                 });
                 srt_keys.forEach(function (sources) {
-                    console.log(feature.properties.sources_arabic[sources])
                     fUri = "./sources/" + sources;
                     var id = "A" + sources.replace(/\./g,"_");
                     // Create html content of resources (in text tab) for a location clicked
@@ -215,15 +180,15 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             return marker
         }
     });
+// Add the geojson layer of places to map
+    geojson.addTo(map);
+
     // Create html list of regions in region tab
     Object.keys(regs).forEach(function (key) {
         var func = "click_region(\"" + key + "\");";
         $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
             + key + "</li>");
     });
-    // Add tile and markers to the map
-    prevTile.addTo(map);
-    geojson.addTo(map);
 
     var cities = new L.LayerGroup();
     Object.keys(markers).forEach(function(key) {
@@ -234,6 +199,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             markers[key].bringToFront();
         }
     });
+
     // Different layers of map
     var baseLayers = {
         "AMWC" : prevTile,
@@ -306,6 +272,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             }
             else
                 customLineStyle(layer, "lightgray", 1, 1);
+            //layer.bringToBack();
             /*
              * click on a route section
              */
@@ -325,7 +292,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 })
             }
         }
-        routeLayer.addLayer(routes).addTo(map);
+
+        var rl = routeLayer.addLayer(routes);
+        rl.addTo(map);
+        rl.bringToBack();
         Object.keys(route_points).forEach(function(rp) {
             for (var i = 0; i < route_points[rp].length - 1; i++) {
                 //var found = false;
@@ -378,14 +348,14 @@ $( '#searchInput' ).on( 'keyup', function() {
         if (searchTerm !== "") {
             if ( markerSearchTitle.indexOf(searchTerm) != -1) {
                 console.log("if: "+ markerSearchTitle);
-                customMarkerStyle(markers[key], "red", 1)
+                customMarkerStyle(markers[key], "red", 1);
             }
             else {
                 console.log("else: "+markerSearchTitle);
                 customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
             }
         }
-        if (searchTerm === "") {
+        else if (searchTerm === "") {
             zoom();
             customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 1)
         }
@@ -472,7 +442,7 @@ function click_region(reg) {
         Object.keys(markers).forEach(function(key){
             markers[key].setStyle({
                 fillColor: colorLookup[markers[key].options.region],
-                color: "black" /* "lightgray" */
+                fillOpacity: "1",
             });
         });
 
