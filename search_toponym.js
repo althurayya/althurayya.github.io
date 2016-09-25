@@ -2,6 +2,7 @@
  * Created by rostam on 25.09.16.
  * Search Toponym
  */
+var prevSearchLabel;
 function active_search() {
     $('#searchInput').on('keyup', function () {
         Object.keys(markers).forEach(function (key) {
@@ -11,9 +12,14 @@ function active_search() {
             var markerSearchTitle = [];
             markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
             var searchTerm = $('#searchInput').val().toUpperCase();
-            if (searchTerm !== "") {
-                if (markerSearchTitle.indexOf(searchTerm) != -1) {
+            if (searchTerm !== "" && searchTerm.length > 1) {
+                if (markerSearchTitle.join('').indexOf(searchTerm) != -1) {
                     customMarkerStyle(markers[key], "red", 1);
+                    if(prevSearchLabel != undefined) {
+                        prevSearchLabel.setLabelNoHide(false);
+                    }
+                    markers[key].setLabelNoHide(true);
+                    prevSearchLabel = markers[key];
                 }
                 else {
                     customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
@@ -48,6 +54,8 @@ function active_autocomp(auto_list) {
                     || markerTopURI == selected) {
                     selectedMarker = markers[key];
                     customMarkerStyle(markers[key], "red", 1)
+                    markers[key].setLabelNoHide(true);
+                    prevSearchLabel = markers[key];
                 }
                 // else, make them pale
                 else {

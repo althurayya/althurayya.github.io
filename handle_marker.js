@@ -29,6 +29,8 @@ function create_marker(feature,latlng) {
     return marker;
 }
 
+var prevClickedMarker;
+
 function OnMarkerClick(feature) {
     return function (e) {
         $("#sidebar").removeClass('collapsed');
@@ -53,7 +55,10 @@ function OnMarkerClick(feature) {
         //$("#geoLink > a").text(feature.properties.geo.geonameId);
         //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
         $("#geoLink > a").attr("target", "_blank");
+        if(prevClickedMarker !== undefined)
+            prevClickedMarker.setLabelNoHide(false);
         markerLabels[feature.properties.cornuData.cornu_URI].setLabelNoHide(true);
+        prevClickedMarker = markerLabels[feature.properties.cornuData.cornu_URI];
         // Create html content of cornu details (in location tab) for a location clicked
         Object.keys(feature.properties.cornuData).forEach(function (cData) {
             $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
