@@ -6,9 +6,9 @@ var prevSearchLabel;
 function active_search() {
     $('#searchInput').on('keyup', function () {
         Object.keys(markers).forEach(function (key) {
-            var searchTitle = markers[key].options.searchTitle.toUpperCase();
-            var cornuURI = markers[key].options.cornu_URI;
-            var arabicTitle = markers[key].options.arabicTitle;
+            var searchTitle = marker_properties[key].searchTitle.toUpperCase();
+            var cornuURI = marker_properties[key].cornu_URI;
+            var arabicTitle = marker_properties[key].arabicTitle;
             var markerSearchTitle = [];
             markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
             var searchTerm = $('#searchInput').val().toUpperCase();
@@ -26,12 +26,12 @@ function active_search() {
                     prevSearchLabel = markers[key];
                 }
                 else {
-                    customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
+                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
                 }
             }
             else if (searchTerm === "") {
                 myzoom();
-                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 1)
+                customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 1)
             }
         })
     });
@@ -50,9 +50,9 @@ function active_autocomp(auto_list) {
             var selectedMarker;
             Object.keys(markers).forEach(function (key) {
                 markerLabels[key].setLabelNoHide(false);
-                var markerSearchTitle = markers[key].options.searchTitle.toUpperCase();
-                var markerTopURI = markers[key].options.cornu_URI;
-                var markerArabicTitle = markers[key].options.arabicTitle;
+                var markerSearchTitle = marker_properties[key].searchTitle.toUpperCase();
+                var markerTopURI = marker_properties[key].cornu_URI;
+                var markerArabicTitle = marker_properties[key].arabicTitle;
                 // Change the circle marker color to red if it matches the selected search value
                 if (markerSearchTitle == selected || markerArabicTitle == selected
                     || markerTopURI == selected) {
@@ -70,14 +70,12 @@ function active_autocomp(auto_list) {
                 }
                 // else, make them pale
                 else {
-                    customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
+                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
                 }
             })
             // re-center the map if the selected item exist!
             if (selectedMarker !== undefined) {
-                var lat = selectedMarker.options.lat;
-                var lng = selectedMarker.options.lng;
-                map.panTo(new L.LatLng(lat, lng));
+                map.panTo(selectedMarker.getLatLng());
             }
         }
     });

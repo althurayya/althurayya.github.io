@@ -53,7 +53,9 @@ var type_size =
     "villages" : 2,
     "waystations" : 1,
     "sites" : 1,
-    "xroads" : 1
+    "xroads" : 1,
+    "waters" : 0,
+    "mont" : 0
 };
 
 /* Earlier version
