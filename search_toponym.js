@@ -14,11 +14,15 @@ function active_search() {
             var searchTerm = $('#searchInput').val().toUpperCase();
             if (searchTerm !== "" && searchTerm.length > 1) {
                 if (markerSearchTitle.join('').indexOf(searchTerm) != -1) {
-                    customMarkerStyle(markers[key], "red", 1);
+                    customMarkerStyle(markers[key], "red", 0.8);
                     if(prevSearchLabel != undefined) {
+                        prevSearchLabel.label._container.style.color = "black";
+                        prevSearchLabel.label._container.style.fontSize = "20px";
                         prevSearchLabel.setLabelNoHide(false);
                     }
                     markers[key].setLabelNoHide(true);
+                    //markers[key].label._container.style.color = "red";
+                    //markers[key].label._container.style.fontSize = "24px";
                     prevSearchLabel = markers[key];
                 }
                 else {
@@ -53,8 +57,15 @@ function active_autocomp(auto_list) {
                 if (markerSearchTitle == selected || markerArabicTitle == selected
                     || markerTopURI == selected) {
                     selectedMarker = markers[key];
-                    customMarkerStyle(markers[key], "red", 1)
+                    customMarkerStyle(markers[key], "red", 0.8);
+                    if(prevSearchLabel != undefined) {
+                        prevSearchLabel.label._container.style.color = "black";
+                        prevSearchLabel.label._container.style.fontSize = "20px";
+                        prevSearchLabel.setLabelNoHide(false);
+                    }
                     markers[key].setLabelNoHide(true);
+                    markers[key].label._container.style.color = "red";
+                    markers[key].label._container.style.fontSize = "24px";
                     prevSearchLabel = markers[key];
                 }
                 // else, make them pale

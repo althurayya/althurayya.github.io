@@ -55,3 +55,14 @@ var type_size =
     "sites" : 1,
     "xroads" : 1
 };
+
+/* Earlier version
+ {
+ "metropoles" : 5.2,
+ "capitals" : 4.3,
+ "towns" : 2.3,
+ "villages" : 1.3,
+ "waystations" : 1,
+ "xroads" : 0.7
+ };
+ */

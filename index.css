@@ -39,6 +39,12 @@
     border : none;
 }
 
+.leaflet-label-click {
+    font: 20px 'Brill','Amiri','Lateef', 'Geeza Pro', serif;
+    font-weight: bold;
+    color: red;
+    border : none;
+}
 .details_text {
     /*display: inline;*/
     font-weight: normal;
@@ -92,4 +98,8 @@
     margin-bottom: 20px;
     margin-right: 0px;
     margin-left: 200px;
+}
+.myLeafletLabelBold {
+    font-size: 15px;
+    color: #b30000;
 }

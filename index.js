@@ -47,28 +47,13 @@ var map_region_to_code = {};
 var markerLabels = {};
 var route_points = {};
 
-/* Earlier version
-{
-    "metropoles" : 5.2,
-    "capitals" : 4.3,
-    "towns" : 2.3,
-    "villages" : 1.3,
-    "waystations" : 1,
-    "xroads" : 0.7
-};
-*/
 var geojson;
-var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
-// Add tile and markers to the map
-prevTile.addTo(map);
 var auto_list = [];
 var latlngs = [];
 
-function click_on_list(id) {
-    // collapse & expand the text and reference of each item in sources
-    $('#'+id+"text").children().toggle();
-    $('#'+id+"ref").toggle();
-}
+var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+// Add default tile to the map
+prevTile.addTo(map);
 
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
@@ -153,7 +138,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 });
 
 /*
- Set a color for an object, not in a list
+ Set a color for an object excluded from a list
  */
 function setColor (code, toExclude) {
     if (toExclude.indexOf(code) == -1)
@@ -240,5 +225,11 @@ function click_region(reg) {
             });
         }
     }
+}
+
+function click_on_list(id) {
+    // collapse & expand the text and reference of each item in sources
+    $('#'+id+"text").children().toggle();
+    $('#'+id+"ref").toggle();
 }
 

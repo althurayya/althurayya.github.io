@@ -20,10 +20,11 @@ function create_marker(feature,latlng) {
         lng: feature.properties.cornuData.coord_lon
     });
     var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
-    tmp.options.className = "myLeafletLabel";
+    tmp.options.className = "leaflet-label";
     tmp.options.zoomAnimation = true;
     tmp.options.opacity = 0.0;
     tmp.options.direction = "auto";
+    tmp.top_type = feature.properties.cornuData.top_type_hom;
     markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
     markers[feature.properties.cornuData.cornu_URI] = marker;
     return marker;
@@ -55,20 +56,28 @@ function OnMarkerClick(feature) {
         //$("#geoLink > a").text(feature.properties.geo.geonameId);
         //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
         $("#geoLink > a").attr("target", "_blank");
-        if(prevClickedMarker !== undefined)
+        if(prevClickedMarker !== undefined) {
+          prevClickedMarker.label._container.style.color = "black";
+          prevClickedMarker.label._container.style.fontSize = "20px";
+            // for metropoles, always keep the label!
+          if (prevClickedMarker.top_type !== "metropoles")
             prevClickedMarker.setLabelNoHide(false);
+        }
         markerLabels[feature.properties.cornuData.cornu_URI].setLabelNoHide(true);
+        markerLabels[feature.properties.cornuData.cornu_URI].label._container.style.color = "red";
+        markerLabels[feature.properties.cornuData.cornu_URI].label._container.style.fontSize = "24px";
         prevClickedMarker = markerLabels[feature.properties.cornuData.cornu_URI];
         // Create html content of cornu details (in location tab) for a location clicked
         Object.keys(feature.properties.cornuData).forEach(function (cData) {
             $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
-        })
+        });
         // sort the source objects by rate to show them in descending order on flap
         var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
             return feature.properties.sources_arabic[b].rate -
                 feature.properties.sources_arabic[a].rate;
         });
         srt_keys.forEach(function (sources) {
+            $('#sources').html("");
             fUri = "./sources/" + sources;
             var id = "A" + sources.replace(/\./g, "_");
             // Create html content of resources (in text tab) for a location clicked
