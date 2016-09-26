@@ -9,8 +9,8 @@ function index_zoom(markers,type_size) {
         if(indZoom[size] == undefined) indZoom[size] = [];
         indZoom[size].push(key);
     });
-    mintsize = Math.min(Object.values(type_size));
-    maxtsize = Math.max(Object.values(type_size));
+    //mintsize = Math.min(Object.values(type_size));
+    //maxtsize = Math.max(Object.values(type_size));
 }
 
 

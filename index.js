@@ -79,6 +79,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             return marker
         }
     });
+
     // Add the geojson layer of places to map
     geojson.addTo(map);
 
@@ -93,7 +94,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     Object.keys(markers).forEach(function(key) {
         markers[key].addTo(cities);
         // metropoles has the lable on load and brought to front
-        if(markers[key].options.type == "metropoles") {
+        if(marker_properties[key].type == "metropoles") {
             markerLabels[key].setLabelNoHide(true);
             markers[key].bringToFront();
         }
@@ -134,7 +135,9 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 }
             }
         });
-    });
+    }).error(function(data) {
+        console.log("Error!");
+    });;
 });
 
 /*
@@ -209,8 +212,6 @@ function click_region(reg) {
                     , color: "black"
                 });
                 //markers[key].setZIndexOffset(100);
-                markers[key].bringToFront();
-
                 markers[key].options.zIndexOffset = 1000;
             }
         });

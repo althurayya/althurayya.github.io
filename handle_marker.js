@@ -1,16 +1,19 @@
 /**
  * Created by rostam on 25.09.16.
  */
+var marker_properties = {};
 function create_marker(feature,latlng) {
-    var marker = L.circleMarker(latlng, {
-        cornu_URI: feature.properties.cornuData.cornu_URI,
-        //radius: Math.sqrt(feature.properties.topType.length)/3,
-        radius: type_size[feature.properties.cornuData.top_type_hom] * 2,
+    var marker = L.circleMarker(latlng,{
         fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
         color: colorLookup[feature.properties.cornuData.region_code],
-        weight: 1,
         opacity: 1,
         fillOpacity: 1,
+        weight: 1
+    });
+    marker_properties[feature.properties.cornuData.cornu_URI]= {
+        cornu_URI: feature.properties.cornuData.cornu_URI,
+        //radius: Math.sqrt(feature.properties.topType.length)/3,
+        //radius: type_size[feature.properties.cornuData.top_type_hom] * 2,
         type: feature.properties.cornuData.top_type_hom,
         region: feature.properties.cornuData.region_code,
         region_spelled: feature.properties.cornuData.region_spelled,
@@ -18,7 +21,12 @@ function create_marker(feature,latlng) {
         arabicTitle: feature.properties.cornuData.toponym_arabic,
         lat: feature.properties.cornuData.coord_lat,
         lng: feature.properties.cornuData.coord_lon
-    });
+    };
+    var rad = type_size[feature.properties.cornuData.top_type_hom] * 2;
+    if(!isNaN(rad)) {
+        marker.setRadius(rad);
+    }
+    else marker.setRadius(0);
     var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
     tmp.options.className = "leaflet-label";
     tmp.options.zoomAnimation = true;

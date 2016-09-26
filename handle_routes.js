@@ -8,30 +8,30 @@ function handle_routes(feature,layer) {
     var keys = Object.keys(markers);
     for (var i = 0; i < keys.length; i++) {
         if (sFound == false &&
-            feature.properties.sToponym == markers[keys[i]].options.cornu_URI) {
+            feature.properties.sToponym == marker_properties[keys[i]].cornu_URI) {
             sFound = true;
-            sRegion = markers[keys[i]].options.region;
+            sRegion =marker_properties[keys[i]].region;
             // populate the route_points dictionary with neighbours of the route points
             if (sRegion == 22) {
                 if (route_points[feature.properties.sToponym] == undefined)
                     route_points[feature.properties.sToponym] = [];
                 var tmp = {};
                 tmp["route"] = layer;
-                tmp["end"] = markers[feature.properties.eToponym].options.region;
+                tmp["end"] = marker_properties[feature.properties.eToponym].region;
                 route_points[feature.properties.sToponym].push(tmp);
             }
         }
         if (eFound == false &&
-            feature.properties.eToponym == markers[keys[i]].options.cornu_URI) {
+            feature.properties.eToponym == marker_properties[keys[i]].cornu_URI) {
             eFound = true;
-            eRegion = markers[keys[i]].options.region;
+            eRegion = marker_properties[keys[i]].region;
             // populate the route_points dictionary with neighbours of the route points
             if (eRegion == 22) {
                 if (route_points[feature.properties.eToponym] == undefined)
                     route_points[feature.properties.eToponym] = [];
                 var tmp = {};
                 tmp["route"] = layer;
-                tmp["end"] = markers[feature.properties.sToponym].options.region;
+                tmp["end"] = marker_properties[feature.properties.sToponym].region;
                 route_points[feature.properties.eToponym].push(tmp);
             }
         }
@@ -39,8 +39,8 @@ function handle_routes(feature,layer) {
             break;
     }
     all_route_layers.push(layer);
-    map_region_to_code[markers[keys[i]].options.region_spelled]
-        = markers[keys[i]].options.region;
+    map_region_to_code[marker_properties[keys[i]].region_spelled]
+        = marker_properties[keys[i]].region;
     /* Regions 13, 22, and 23 will be light gray.
      * There might be some coloring over routes which are subsections of other routes.
      * That means, some routes of region 22, might get the light blue color
@@ -48,9 +48,9 @@ function handle_routes(feature,layer) {
      * even though in the code they get gray first (in else)!
      */
     if (sRegion == eRegion) {
-        if (route_layers[markers[keys[i]].options.region_spelled] == undefined)
-            route_layers[markers[keys[i]].options.region_spelled] = [];
-        route_layers[markers[keys[i]].options.region_spelled].push(layer);
+        if (route_layers[marker_properties[keys[i]].region_spelled] == undefined)
+            route_layers[marker_properties[keys[i]].region_spelled] = [];
+        route_layers[marker_properties[keys[i]].region_spelled].push(layer);
         customLineStyle(layer, colorLookup[sRegion], 2, 1);
     }
     else
