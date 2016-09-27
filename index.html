@@ -8,7 +8,6 @@
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
     <script src="https://rawgit.com/stefanocudini/leaflet-search/master/src/leaflet-search.js"></script>
     <script src="https://rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.js"></script>
-
     <link rel="stylesheet" href="https://rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.css"/>
 
 
@@ -42,13 +41,13 @@
     <!-- 32x32 -->
     <link rel="shortcut icon" href="https://maximromanov.github.io/favicon.png">
     <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-    <link rel="apple-touch-icon-precomposed" href="http://maximromanov.github.io/images/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://maximromanov.github.io/images/apple-touch-icon-precomposed.png">
     <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://maximromanov.github.io/images/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://maximromanov.github.io/images/apple-touch-icon-72x72-precomposed.png">
     <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://maximromanov.github.io/images/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://maximromanov.github.io/images/apple-touch-icon-114x114-precomposed.png">
     <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://maximromanov.github.io/images/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://maximromanov.github.io/images/apple-touch-icon-144x144-precomposed.png">
 
 </head>
 <body>
@@ -107,9 +106,9 @@
             </h3>
         </div>
         <div class="sidebar-pane" id="source">
-            <h1 id="sourceTitle">Sources on:</h1>
+            <h1 id="sourceTitle">Sources</h1>
             <div id="sources"></div>
-            <p id="initSourceDesc">If you click on a map marker, available sources about it will appear here.</p>
+            <p id="initSourceDesc">Click on a map marker to get the available sources of a place.</p>
 
         </div>
 
@@ -138,7 +137,12 @@
     </div>
 </div>
 <div id="map" class="sidebar-map"></div>
-<script src="https://rawgit.com/althurayya/althurayya.github.io/master/myzoom.js"></script>
+<!--Local js files of althurayya-->
+<script src="myzoom.js"></script>
+<script src="global_var.js"></script>
+<script src="handle_marker.js"></script>
+<script src="handle_routes.js"></script>
+<script src="search_toponym.js"></script>
 <script src="index.js"></script>
 </body>
 </html>

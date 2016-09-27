@@ -5,12 +5,12 @@ var indZoom = {};
 var mintsize,maxtsize;
 function index_zoom(markers,type_size) {
     Object.keys(markers).forEach(function (key) {
-        var size=type_size[markers[key].options.type];
+        var size=type_size[marker_properties[key].type];
         if(indZoom[size] == undefined) indZoom[size] = [];
         indZoom[size].push(key);
     });
-    mintsize = Math.min(Object.values(type_size));
-    maxtsize = Math.max(Object.values(type_size));
+    //mintsize = Math.min(Object.values(type_size));
+    //maxtsize = Math.max(Object.values(type_size));
 }
 
 

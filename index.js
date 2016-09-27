@@ -34,48 +34,7 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
     attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' });;
-var colorLookup = {
-    "Andalus": "#D5812E",
-    "Aqur": "#A768E6",
-    "Barqa": "#58E0C1",
-    "Daylam": "#323449",
-    "Egypt": "#6CD941",
-    "Faris": "#E23A80",
-    "Iraq": "#ABB1DB",
-    "Jibal": "#384E21",
-    "Khazar": "#BDD977",
-    "Khurasan": "#B27E86",
-    "Khuzistan": "#8F351D",
-    "Kirman": "#D5AB7A",
-    "Mafaza": "#d3d3d3",//"#514285", has changed to light gray to set this region to background
-    "Maghrib": "#539675",
-    "Rihab": "#4B281F",
-    "Sham": "#539236",
-    "Sicile": "#DB4621",
-    "Sijistan": "#68DA85",
-    "Sind": "#6C7BD8",
-    "Transoxiana": "#DBB540",
-    "Yemen": "#8F3247",
-    22: "#000000",//"#A8DBD5", has changed to light gray to set this region to background
-    "Badiyat al-Arab": "#d3d3d3",//"#C9DB3F", has changed to light gray to set this region to background
-    "Jazirat al-Arab": "#537195",
-    25: "#7E5C31",
-    26: "#D1785F",
-    27: "#898837",
-    28: "#DC4AD3",
-    29: "#DD454F",
-    30: "#C4D9A5",
-    31: "#DDC1BF",
-    32: "#D498D2",
-    33: "#61B7D6",
-    34: "#A357B1",
-    35: "#522046",
-    36: "#849389",
-    37: "#3B524B",
-    38: "#DD6F91",
-    39: "#B4368A",
-    41: "#8F547C"
-};
+
 var min_zoom = 5,
     max_zoom = 14;
 var prevZoom = min_zoom;
@@ -87,38 +46,15 @@ var all_route_layers = [];
 var map_region_to_code = {};
 var markerLabels = {};
 var route_points = {};
-// Types of the toponyms to be shown on map
-var type_size =
-{
-    "metropoles" : 5,
-    "capitals" : 4,
-    "towns" : 3,
-    "villages" : 2,
-    "waystations" : 1,
-    "sites" : 1,
-    "xroads" : 1
-};
 
-/* Earlier version
-{
-    "metropoles" : 5.2,
-    "capitals" : 4.3,
-    "towns" : 2.3,
-    "villages" : 1.3,
-    "waystations" : 1,
-    "xroads" : 0.7
-};
-*/
 var geojson;
-var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 var auto_list = [];
 var latlngs = [];
 
-function click_on_list(id) {
-    // collapse & expand the text and reference of each item in sources
-    $('#'+id+"text").children().toggle();
-    $('#'+id+"ref").toggle();
-}
+var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+// Add default tile to the map
+prevTile.addTo(map);
+
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
@@ -127,87 +63,15 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             regs[feature.properties.cornuData.region_spelled]
                 .push(feature.properties.cornuData.cornu_URI);
 
-            var marker = L.circleMarker(latlng, {
-                cornu_URI : feature.properties.cornuData.cornu_URI,
-                //radius: Math.sqrt(feature.properties.topType.length)/3,
-                radius: type_size[feature.properties.cornuData.top_type_hom]*2,
-                fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
-                color: colorLookup[feature.properties.cornuData.region_code],
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 1,
-                type : feature.properties.cornuData.top_type_hom,
-                region : feature.properties.cornuData.region_code,
-                region_spelled : feature.properties.cornuData.region_spelled,
-                searchTitle : feature.properties.cornuData.toponym_search,
-                arabicTitle : feature.properties.cornuData.toponym_arabic,
-                lat : feature.properties.cornuData.coord_lat,
-                lng : feature.properties.cornuData.coord_lon
-            });
+            var marker = create_marker(feature,latlng);
             latlngs.push([latlng['lat'],latlng['lng']])
-            var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
             // list of toponyms for autocomplete action of the search input
             auto_list.push.apply(auto_list,[feature.properties.cornuData.toponym_search,
                 feature.properties.cornuData.cornu_URI, feature.properties.cornuData.toponym_arabic]);
-            tmp.options.className="myLeafletLabel";
-            tmp.options.zoomAnimation = true;
-            tmp.options.opacity = 0.0;
-            tmp.options.direction = "auto";
-            markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
-            markers[feature.properties.cornuData.cornu_URI] = marker;
            /*
             * click on a marker
             */
-            marker.on('click', OnMarkerClick);
-            function OnMarkerClick(e) {
-                $("#sidebar").removeClass('collapsed');
-                $(".sidebar-pane").removeClass('active');
-                $(".sidebar-tabs > li").removeClass('active');
-                $("#initDesc").remove();
-                $("#initSourceDesc").remove();
-                $("#location").addClass('active');
-                $("#locTab").addClass('active');
-                $("#locTitle").text("Location: " + feature.properties.cornuData.toponym_translit
-                    + " (" + feature.properties.cornuData.toponym_arabic + ")");
-                $("#locDescAr").text(feature.properties.arTitle);
-                $("#locDescTranslit").text(feature.properties.translitTitle);
-                $("#region").text(colorLookup[feature.properties.regNum]);
-                $("#regNum").text(colorLookup[feature.properties.regNum]);
-                $("#cornuDetails").text("");
-                $("#sources").empty();
-                //$("#admin1").text(feature.properties.admin1_std_name);
-                //$("#txtLink > a").text(feature.properties.SOURCE);
-                //$("#txtLink > a").attr("href",feature.properties.SOURCE);
-                //$("#txtLink > a").attr("target","_blank");
-                //$("#geoLink > a").text(feature.properties.geo.geonameId);
-                //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
-                $("#geoLink > a").attr("target", "_blank");
-
-                // Create html content of cornu details (in location tab) for a location clicked
-                Object.keys(feature.properties.cornuData).forEach(function (cData) {
-                   $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
-                })
-                // sort the source objects by rate to show them in descending order on flap
-                var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
-                    return feature.properties.sources_arabic[b].rate -
-                        feature.properties.sources_arabic[a].rate;
-                });
-                srt_keys.forEach(function (sources) {
-                    console.log(feature.properties.sources_arabic[sources])
-                    fUri = "./sources/" + sources;
-                    var id = "A" + sources.replace(/\./g,"_");
-                    // Create html content of resources (in text tab) for a location clicked
-                    $.getJSON(fUri, function (data) {
-                        $("#sources").append(
-                            "<li id=\'" +id + "\' " +
-                            "onclick=click_on_list(\'"+ id + "\')>"
-                            + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title'] + "</span></li>" +
-                             "<div id=\'"+ id + "text\'>" + data['features'][0]['text'] + "</div><br>" +
-                            "<div id=\'"+ id + "ref\' " +"class='reference'>" + data['features'][0]['reference'] +
-                            + "</div><br>");
-                    })
-                })
-            }
+            marker.on('click', OnMarkerClick(feature));
             function ResizeMarker(e) {
                 var currentZoom = map.getZoom();
                 marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
@@ -215,25 +79,27 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             return marker
         }
     });
+
+    // Add the geojson layer of places to map
+    geojson.addTo(map);
+
     // Create html list of regions in region tab
     Object.keys(regs).forEach(function (key) {
         var func = "click_region(\"" + key + "\");";
         $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
             + key + "</li>");
     });
-    // Add tile and markers to the map
-    prevTile.addTo(map);
-    geojson.addTo(map);
 
     var cities = new L.LayerGroup();
     Object.keys(markers).forEach(function(key) {
         markers[key].addTo(cities);
         // metropoles has the lable on load and brought to front
-        if(markers[key].options.type == "metropoles") {
+        if(marker_properties[key].type == "metropoles") {
             markerLabels[key].setLabelNoHide(true);
             markers[key].bringToFront();
         }
     });
+
     // Different layers of map
     var baseLayers = {
         "AMWC" : prevTile,
@@ -251,81 +117,13 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 }).done(function () {
     index_zoom(markers,type_size);
     $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
-        var routes = L.geoJson(data, {onEachFeature: onEachFeature});
-        function onEachFeature(feature, layer) {
-            var sRegion, eRegion;
-            var sFound = false;
-            var eFound = false;
-            var keys = Object.keys(markers);
-            for (var i = 0; i < keys.length; i++) {
-                if (sFound == false &&
-                    feature.properties.sToponym == markers[keys[i]].options.cornu_URI) {
-                    sFound = true;
-                    sRegion = markers[keys[i]].options.region;
-                    // populate the route_points dictionary with neighbours of the route points
-                    if (sRegion == 22) {
-                        if (route_points[feature.properties.sToponym] == undefined)
-                            route_points[feature.properties.sToponym] = [];
-                        var tmp = {};
-                        tmp["route"] = layer;
-                        tmp["end"] = markers[feature.properties.eToponym].options.region;
-                        route_points[feature.properties.sToponym].push(tmp);
-                    }
-                }
-                if (eFound == false &&
-                    feature.properties.eToponym == markers[keys[i]].options.cornu_URI) {
-                    eFound = true;
-                    eRegion = markers[keys[i]].options.region;
-                    // populate the route_points dictionary with neighbours of the route points
-                    if (eRegion == 22) {
-                        if (route_points[feature.properties.eToponym] == undefined)
-                            route_points[feature.properties.eToponym] = [];
-                        var tmp = {};
-                        tmp["route"] = layer;
-                        tmp["end"] = markers[feature.properties.sToponym].options.region;
-                        route_points[feature.properties.eToponym].push(tmp);
-                    }
-                }
-                if (sFound == true && eFound == true)
-                    break;
-            }
-            all_route_layers.push(layer);
-            map_region_to_code[markers[keys[i]].options.region_spelled]
-                = markers[keys[i]].options.region;
-            /* Regions 13, 22, and 23 will be light gray.
-             * There might be some coloring over routes which are subsections of other routes.
-             * That means, some routes of region 22, might get the light blue color
-             * (original color before setting that to gray)
-             * even though in the code they get gray first (in else)!
-            */
-            if (sRegion == eRegion) {
-                if (route_layers[markers[keys[i]].options.region_spelled] == undefined)
-                    route_layers[markers[keys[i]].options.region_spelled] = [];
-                route_layers[markers[keys[i]].options.region_spelled].push(layer);
-                customLineStyle(layer, colorLookup[sRegion], 2, 1);
-            }
-            else
-                customLineStyle(layer, "lightgray", 1, 1);
-            /*
-             * click on a route section
-             */
-            layer.on('click', OnRouteClick);
-            function OnRouteClick(e) {
-                $("#sidebar").removeClass('collapsed');
-                $(".sidebar-pane").removeClass('active');
-                $(".sidebar-tabs > li").removeClass('active');
-                $("#initRouteDesc").remove();
-                $("#routeSectionPane").addClass('active');
-                $("#routeSection").addClass('active');
-                $("#routeDetails").text("MoreDetails:");
+        var routes = L.geoJson(data, {
+            onEachFeature: handle_routes
+        });
 
-                // Create html content of route details (in routeSection tab) for a route section clicked
-                Object.keys(layer.feature.properties).forEach(function (rData) {
-                    $("#routeDetails").append("<p class = 'details_text'><b>" + rData + ": </b> " + layer.feature.properties[rData] + "</p>");
-                })
-            }
-        }
-        routeLayer.addLayer(routes).addTo(map);
+        var rl = routeLayer.addLayer(routes);
+        rl.addTo(map);
+        rl.bringToBack();
         Object.keys(route_points).forEach(function(rp) {
             for (var i = 0; i < route_points[rp].length - 1; i++) {
                 //var found = false;
@@ -337,11 +135,13 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 }
             }
         });
-    });
+    }).error(function(data) {
+        console.log("Error!");
+    });;
 });
 
 /*
- Set a color for an object, not in a list
+ Set a color for an object excluded from a list
  */
 function setColor (code, toExclude) {
     if (toExclude.indexOf(code) == -1)
@@ -364,100 +164,13 @@ map.on('click', OnMapClick);
  */
 map.on('zoomend', myzoom);
 
-/*
- * Search Toponym
- */
-$( '#searchInput' ).on( 'keyup', function() {
-    Object.keys(markers).forEach(function(key) {
-        var searchTitle = markers[key].options.searchTitle.toUpperCase();
-        var cornuURI = markers[key].options.cornu_URI;
-        var arabicTitle = markers[key].options.arabicTitle;
-        var markerSearchTitle = [];
-        markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
-        var searchTerm = $( '#searchInput' ).val().toUpperCase();
-        if (searchTerm !== "") {
-            if ( markerSearchTitle.indexOf(searchTerm) != -1) {
-                console.log("if: "+ markerSearchTitle);
-                customMarkerStyle(markers[key], "red", 1)
-            }
-            else {
-                console.log("else: "+markerSearchTitle);
-                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-            }
-        }
-        if (searchTerm === "") {
-            zoom();
-            customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 1)
-        }
-    })
-});
+active_search();
+active_autocomp(auto_list);
 
-
- /*
- * Autocomplete the search input
- */
-$( "#searchInput" ).autocomplete({
-    appendTo: "#searchPane",
-    source: auto_list,
-    minLength: 4,
-    select: function (e, ui) {
-        var selected = ui.item.value.toUpperCase();
-        var selectedMarker;
-        Object.keys(markers).forEach(function(key) {
-            markerLabels[key].setLabelNoHide(false);
-            var markerSearchTitle = markers[key].options.searchTitle.toUpperCase();
-            var markerTopURI = markers[key].options.cornu_URI;
-            var markerArabicTitle = markers[key].options.arabicTitle;
-            // Change the circle marker color to red if it matches the selected search value
-            if (markerSearchTitle == selected || markerArabicTitle == selected
-                    || markerTopURI == selected) {
-                selectedMarker = markers[key];
-                customMarkerStyle(markers[key], "red", 1)
-                if (selected.indexOf("ROUTPOINT")!== -1)
-                    console.log("if: "+markers[key].options.searchTitle)
-            }
-            // else, make them pale
-            else {
-                customMarkerStyle(markers[key], colorLookup[markers[key].options.region], 0.2)
-                if (selected.indexOf("ROUTPOINT")!== -1)
-                    console.log("else: "+markers[key].options.searchTitle)
-            }
-        })
-        // re-center the map if the selected item exist!
-        if (selectedMarker !== undefined) {
-            console.log(selectedMarker.options)
-            var lat = selectedMarker.options.lat;
-            var lng = selectedMarker.options.lng;
-            map.panTo(new L.LatLng(lat, lng));
-        }
-    }
-});
 /*
  * Add the rotes to the map
  */
 var routeLayer = L.featureGroup();
-/*
- * Set the routes style
- */
-function customLineStyle(layer, color, width, opacity) {
-    layer.setStyle({
-        color: color,
-        weight: width,
-        opacity: opacity,
-        smoothFactor : 2
-    })
-};
-/*
- * Set the marker style
- */
-function customMarkerStyle(marker, color, opacity) {
-    marker.setStyle({
-        fillColor: color,
-        color: color,
-        fillOpacity: opacity
-    })
-};
-
 /*
  * Highlights and change the color of markers of a region by clicking on a
  * region name.
@@ -472,7 +185,7 @@ function click_region(reg) {
         Object.keys(markers).forEach(function(key){
             markers[key].setStyle({
                 fillColor: colorLookup[markers[key].options.region],
-                color: "black" /* "lightgray" */
+                fillOpacity: "1",
             });
         });
 
@@ -499,8 +212,6 @@ function click_region(reg) {
                     , color: "black"
                 });
                 //markers[key].setZIndexOffset(100);
-                markers[key].bringToFront();
-
                 markers[key].options.zIndexOffset = 1000;
             }
         });
@@ -515,5 +226,11 @@ function click_region(reg) {
             });
         }
     }
+}
+
+function click_on_list(id) {
+    // collapse & expand the text and reference of each item in sources
+    $('#'+id+"text").children().toggle();
+    $('#'+id+"ref").toggle();
 }
 
