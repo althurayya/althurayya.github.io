@@ -74,6 +74,10 @@
     font-family: 'Amiri';
 }
 
+.englishInline {
+    font-family: serif;
+}
+
 .arabic_poetry {
     font-size: 14px;
     font-weight: bold;

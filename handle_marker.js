@@ -39,9 +39,14 @@ function create_marker(feature,latlng) {
 }
 
 var prevClickedMarker;
-
+$("#techInfo").click(
+    function() {
+        $("#cornuDetails").toggle();
+    }
+);
 function OnMarkerClick(feature) {
     return function (e) {
+        $("#cornuDetails").css("display","none");
         $("#sidebar").removeClass('collapsed');
         $(".sidebar-pane").removeClass('active');
         $(".sidebar-tabs > li").removeClass('active');
@@ -51,19 +56,20 @@ function OnMarkerClick(feature) {
         $("#locTab").addClass('active');
         $("#locTitle").text("Location: " + feature.properties.cornuData.toponym_translit
             + " (" + feature.properties.cornuData.toponym_arabic + ")");
-        $("#locDescAr").text(feature.properties.arTitle);
-        $("#locDescTranslit").text(feature.properties.translitTitle);
-        $("#region").text(colorLookup[feature.properties.regNum]);
-        $("#regNum").text(colorLookup[feature.properties.regNum]);
-        $("#cornuDetails").text("");
+        $("#techInfo").text("Technical Information");
         $("#sourceTitle").text("Sources on: " + feature.properties.cornuData.toponym_arabic);
+        if ($.isEmptyObject(feature.properties.sources_english)){
+            $("#otherSources").hide();
+            $("#goToPrimSource").hide();
+            $('#engSourcesDiv').html("");
+        }
         //$("#admin1").text(feature.properties.admin1_std_name);
         //$("#txtLink > a").text(feature.properties.SOURCE);
         //$("#txtLink > a").attr("href",feature.properties.SOURCE);
         //$("#txtLink > a").attr("target","_blank");
         //$("#geoLink > a").text(feature.properties.geo.geonameId);
         //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
-        $("#geoLink > a").attr("target", "_blank");
+        //$("#geoLink > a").attr("target", "_blank");
         if(prevClickedMarker !== undefined) {
           prevClickedMarker.label._container.style.color = "black";
           prevClickedMarker.label._container.style.fontSize = "20px";
@@ -75,10 +81,36 @@ function OnMarkerClick(feature) {
         markerLabels[feature.properties.cornuData.cornu_URI].label._container.style.color = "red";
         markerLabels[feature.properties.cornuData.cornu_URI].label._container.style.fontSize = "24px";
         prevClickedMarker = markerLabels[feature.properties.cornuData.cornu_URI];
-        // Create html content of cornu details (in location tab) for a location clicked
+
+        // Create html content of external sources (in location tab) for a location clicked
+        Object.keys(feature.properties.sources_english).forEach(function(engSourceUri) {
+            $('#engSourcesDiv').html("");
+            var refUri = "./ref/" + feature.properties.sources_english[engSourceUri]['uri'];
+            var id = "E" + engSourceUri.replace(/\./g, "_");
+            // Create html content of primary sources (in location tab) for a location clicked
+            $.getJSON(refUri, function (data) {
+                $("#engSourcesDiv").append(
+                    "<span id=\'" + id + "\' class=\"englishInline\">"
+                    //+ "onclick=click_on_list(\'" + id + "\')>"
+                    //+ data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title']
+                    + "<div id=\'" + id + "text\'>" + data['features'][0]['text'] + "</div><br>"
+                    + "<div id=\'" + id + "ref\' " + "class='reference'>" + data['features'][0]['reference']
+                    +"</div><br></span>"
+                    + "<p>More in the <a href=\'" + data['features'][0]['uri']
+                    + "\'>Encyclopaedia of Islam, Second Edition (Online)</a></p>");
+                $("#otherSources").show();
+                $("#goToPrimSource").show();
+                $("#encyIran").attr("href","http://www.iranicaonline.org/articles/search/keywords:" + data['features'][0]['title']);
+                $("#wikipedia").attr("href","https://en.wikipedia.org/wiki/Special:Search/" + data['features'][0]['title'])
+                $("#pleides").attr("href","")
+            });
+        });
+        // Create html content of technical details (in location tab) for a location clicked
         Object.keys(feature.properties.cornuData).forEach(function (cData) {
             $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
         });
+        // Show/Hide the cornu detail by clicking on "Technical Information"
+
         // sort the source objects by rate to show them in descending order on flap
         var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
             return feature.properties.sources_arabic[b].rate -
@@ -88,7 +120,7 @@ function OnMarkerClick(feature) {
             $('#sources').html("");
             fUri = "./sources/" + sources;
             var id = "A" + sources.replace(/\./g, "_");
-            // Create html content of resources (in text tab) for a location clicked
+            // Create html content of primary sources (in location tab) for a location clicked
             $.getJSON(fUri, function (data) {
                 $("#sources").append(
                     "<li id=\'" + id + "\' " +
