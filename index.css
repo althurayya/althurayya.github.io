@@ -35,12 +35,12 @@
 }
 
 .leaflet-label {
-    font: 20px 'Brill','Amiri','Lateef', 'Geeza Pro', serif;
+    font: 20px 'Baskerville', 'Brill','Amiri','Lateef', 'Geeza Pro', serif;
     border : none;
 }
 
 .leaflet-label-click {
-    font: 20px 'Brill','Amiri','Lateef', 'Geeza Pro', serif;
+    font: 20px 'Baskerville','Brill','Amiri','Lateef', 'Geeza Pro', serif;
     font-weight: bold;
     color: red;
     border : none;
@@ -97,7 +97,7 @@
     margin: 10px 0;
     font-size: 12px;
     text-indent: -50px;
-    font-family: 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+    font-family: 'Baskerville','Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 0px;
