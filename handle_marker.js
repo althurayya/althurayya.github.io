@@ -105,6 +105,7 @@ function OnMarkerClick(feature) {
                 $("#pleides").attr("href","")
             });
         });
+        $("#cornuDetails").html("");
         // Create html content of technical details (in location tab) for a location clicked
         Object.keys(feature.properties.cornuData).forEach(function (cData) {
             $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
@@ -127,9 +128,9 @@ function OnMarkerClick(feature) {
                     "onclick=click_on_list(\'" + id + "\')>"
                     + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title'] + "</span></li>" +
                     "<div id=\'" + id + "text\'>" + data['features'][0]['text'] + "</div><br>" +
-                    "<div id=\'" + id + "ref\' " + "class='reference'>" + data['features'][0]['reference'] + +"</div><br>");
-            })
-        })
+                    "<div id=\'" + id + "ref\' " + "class='reference'>" + data['features'][0]['reference'] +"</div><br>");
+            });
+        });
     }
 }
 
