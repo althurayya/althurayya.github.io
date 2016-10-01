@@ -1,6 +1,7 @@
 /**
  * Created by rostam on 25.09.16.
  */
+var prev_route_clicked;
 function handle_routes(feature,layer) {
     var sRegion, eRegion;
     var sFound = false;
@@ -61,6 +62,17 @@ function handle_routes(feature,layer) {
      */
     layer.on('click', OnRouteClick);
     function OnRouteClick(e) {
+        if (prev_route_clicked !== undefined)
+            customLineStyle(prev_route_clicked.layer, prev_route_clicked.color,
+                prev_route_clicked.weight, prev_route_clicked.opacity);
+        prev_route_clicked={};
+        prev_route_clicked.layer = layer;
+        prev_route_clicked.color = layer.options.color;
+        prev_route_clicked.weight = layer.options.weight;
+        prev_route_clicked.opacity = layer.options.opacity;
+
+        customLineStyle(layer, "red", 3, 1);
+
         $("#sidebar").removeClass('collapsed');
         $(".sidebar-pane").removeClass('active');
         $(".sidebar-tabs > li").removeClass('active');
@@ -87,3 +99,7 @@ function customLineStyle(layer, color, width, opacity) {
         smoothFactor : 2
     })
 };
+
+function getRouteStyle (layer) {
+    return layer.options;
+}
