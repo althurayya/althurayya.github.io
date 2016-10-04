@@ -2,10 +2,10 @@
  * Created by rostam on 25.09.16.
  */
 var colorLookup = {
-    "Andalus": "#D5812E",
+    "Andalus": "#323449",
     "Aqur": "#A768E6",
     "Barqa": "#58E0C1",
-    "Daylam": "#323449",
+    "Daylam": "#D5812E",
     "Egypt": "#6CD941",
     "Faris": "#E23A80",
     "Iraq": "#ABB1DB",
@@ -16,9 +16,9 @@ var colorLookup = {
     "Kirman": "#D5AB7A",
     "Mafaza": "#d3d3d3",//"#514285", has changed to light gray to set this region to background
     "Maghrib": "#539675",
-    "Rihab": "#4B281F",
+    "Rihab": "#DB4621",
     "Sham": "#539236",
-    "Sicile": "#DB4621",
+    "Sicile": "#4B281F",
     "Sijistan": "#68DA85",
     "Sind": "#6C7BD8",
     "Transoxiana": "#DBB540",

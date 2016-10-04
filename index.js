@@ -51,7 +51,7 @@ var geojson;
 var auto_list = [];
 var latlngs = [];
 
-var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+var map = L.map('map',{maxZoom:max_zoom}).setView([34.7,48.5], min_zoom+2);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
 prevTile.addTo(map);
 
