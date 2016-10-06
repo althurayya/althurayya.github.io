@@ -51,7 +51,7 @@ var geojson;
 var auto_list = [];
 var latlngs = [];
 
-var map = L.map('map',{maxZoom:max_zoom}).setView([39,67], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+var map = L.map('map',{maxZoom:max_zoom}).setView([30,40], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
 prevTile.addTo(map);
 
@@ -179,7 +179,7 @@ var prev_select_reg = undefined;
 function click_region(reg) {
     document.getElementById(reg).style.color = 'red';
     if(prev_select_reg != undefined)
-        document.getElementById(prev_select_reg).style.color ='black';
+        document.getElementById(prev_select_reg).style.color ='gray';
     prev_select_reg = reg;
     if(reg == "All") {
         Object.keys(markers).forEach(function(key){
@@ -201,15 +201,15 @@ function click_region(reg) {
         Object.keys(markers).forEach(function (key) {
             if (tmp.indexOf(key) == -1) {
                 markers[key].setStyle({
-                    fillColor: "black", /* "lightgray" */
-                    color: "black" /* "lightgray" */
+                    fillColor: "gray", /* "lightgray" */
+                    color: "gray" /* "lightgray" */
                 });
                 //markers[key].setZIndexOffset(-1);
                 markers[key].options.zIndexOffset = -1000;
             } else {
                 markers[key].setStyle({
-                    fillColor: "darkred"
-                    , color: "black"
+                    fillColor: "red"
+                    , color: "red"
                 });
                 //markers[key].setZIndexOffset(100);
                 markers[key].options.zIndexOffset = 1000;
@@ -217,7 +217,7 @@ function click_region(reg) {
         });
 
         all_route_layers.forEach(function(lay) {
-            customLineStyle(lay, "black", 2, 0.8);  /* "lightgray" */
+            customLineStyle(lay, "gray", 2, 0.8);  /* "lightgray" */
         });
 
         if(route_layers[reg] != undefined) {
