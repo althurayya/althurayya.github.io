@@ -2,7 +2,7 @@
  * Created by rostam on 25.09.16.
  */
 var colorLookup = {
-    "Andalus": "#323449",
+    //"Andalus": "#323449",
     "Aqur": "#A768E6",
     "Barqa": "#58E0C1",
     "Daylam": "#D5812E",
@@ -21,12 +21,12 @@ var colorLookup = {
     "Sicile": "#4B281F",
     "Sijistan": "#68DA85",
     "Sind": "#6C7BD8",
-    "Transoxiana": "#DBB540",
+    //"Transoxiana": "#DBB540",
     "Yemen": "#8F3247",
     22: "#000000",//"#A8DBD5", has changed to light gray to set this region to background
     "Badiyat al-Arab": "#d3d3d3",//"#C9DB3F", has changed to light gray to set this region to background
     "Jazirat al-Arab": "#537195",
-    25: "#7E5C31",
+    "NoRegion": "#d3d3d3", //# "#7E5C31", for routepoints clearly between regions
     26: "#D1785F",
     27: "#898837",
     28: "#DC4AD3",
@@ -36,12 +36,12 @@ var colorLookup = {
     32: "#D498D2",
     33: "#61B7D6",
     34: "#A357B1",
-    35: "#522046",
+    "Transoxiana": "#522046",
     36: "#849389",
-    37: "#3B524B",
+    //"Transoxiana": "#3B524B",
     38: "#DD6F91",
     39: "#B4368A",
-    41: "#8F547C"
+    "Andalus": "#8F547C"
 };
 
 // Types of the toponyms to be shown on map
