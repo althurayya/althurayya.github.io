@@ -27,8 +27,10 @@
     <!--GeoJson Data File-->
     <link rel="points" type="application/json" href="./master/places.geojson"> 
     <link rel="routes" type="application/json" href="./master/routes.json">
+    <!--
     <link rel="sources" type="application/json" href="./master/sources.json">
-          
+    -->
+
     <link rel="stylesheet" href="index.css"/>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css' rel='stylesheet' />
     <title>al-Ṯurayyā Gazetteer, Test Version</title>
@@ -71,7 +73,7 @@
 
 <p><b>Current team</b>: Masoumeh Seydi and Maxim Romanov @ U Leipzig.
 
-<b>Former contributors:</b> 2013–2014: Cameron Jackson (senior, double-majoring in Arabic and Computer Science, Tufts) — technical and conceptual development; 2013: Adam Tavares, programmer @ Perseus Project, Tufts — techincal development.
+<b>Former contributors:</b> 2013–2014: Cameron Jackson (class of 2014, double-major in Arabic and Computer Science, Tufts)—technical and conceptual development; 2013: Adam Tavares, programmer @ Perseus Project, Tufts—techincal development.
 
 <b>Special thanks to:</b> 2013–2014: Vickie Sullivan (Chair, Classics Department, Tufts U), 2013—:Gregory Crane and the Perseus DL and the U Leipzig teams for support and inspiration.</p>
 
@@ -106,7 +108,7 @@
         <div class="sidebar-pane" id="source">
             <h1 id="sourceTitle">Sources</h1>
             <div id="sources"></div>
-            <p id="initSourceDesc">Click on a map marker to get the available sources of a place.</p>
+            <p id="initSourceDesc">Click on a map marker to get the available sources of a place. Keep in mind that currently we are still working on aligning entries from premodern Arabic gazetteers with entries in our gazetteer; for this reason, many results that you see are “fuzzy” matches, aligned with toponyms in al-Ṯurayyā using Levenshtein distance (using Python’s `fuzzywuzzy` library).</p>
 
         </div>
 
