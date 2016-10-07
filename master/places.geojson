@@ -33570,13 +33570,7 @@
                     "toponym_translit": "al-Sirr",
                     "toponym_translit_other": "al-Sirr"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000785-000.json": {
-                        "rate": 89,
-                        "status": "na",
-                        "title": "السرر"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -33918,18 +33912,7 @@
                     "toponym_translit": "al-Sīrawān",
                     "toponym_translit_other": "al-Sīrawān, al-Šīrāwān"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000904-000.json": {
-                        "rate": 82,
-                        "status": "na",
-                        "title": "الشيرجان"
-                    },
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001263-000.json": {
-                        "rate": 88,
-                        "status": "na",
-                        "title": "القيروان"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -34160,7 +34143,7 @@
                 "sources_arabic": {
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000628-000.json": {
                         "rate": 83,
-                        "status": "na",
+                        "status": "y",
                         "title": "الدينور"
                     }
                 },
@@ -34607,13 +34590,7 @@
                     "toponym_translit": "Rāman",
                     "toponym_translit_other": "Rāman"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000667-000.json": {
-                        "rate": 89,
-                        "status": "na",
-                        "title": "رامين"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -34703,13 +34680,7 @@
                     "toponym_translit": "Dāraqān",
                     "toponym_translit_other": "Dāraqān"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000592-000.json": {
-                        "rate": 83,
-                        "status": "na",
-                        "title": "دارقطن"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -34860,11 +34831,6 @@
                     "toponym_translit_other": "Abhar"
                 },
                 "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000022-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "ابه"
-                    },
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000030-000.json": {
                         "rate": 100,
                         "status": "na",
@@ -34963,13 +34929,8 @@
                 "sources_arabic": {
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000988-000.json": {
                         "rate": 86,
-                        "status": "na",
+                        "status": "y",
                         "title": "طزر"
-                    },
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000989-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "طره"
                     }
                 },
                 "sources_english": {}
@@ -35520,18 +35481,8 @@
                 "sources_arabic": {
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000189-000.json": {
                         "rate": 86,
-                        "status": "na",
+                        "status": "mb",
                         "title": "اوفه"
-                    },
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000764-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "ساوه"
-                    },
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000867-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "شاوه"
                     }
                 },
                 "sources_english": {}
@@ -35725,13 +35676,7 @@
                     "toponym_translit": "Qusṭānaŧ",
                     "toponym_translit_other": "Qusṭānaŧ"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001196-000.json": {
-                        "rate": 83,
-                        "status": "na",
-                        "title": "قطانيه"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -35822,11 +35767,6 @@
                     "toponym_translit_other": "Qāšān"
                 },
                 "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001166-000.json": {
-                        "rate": 89,
-                        "status": "na",
-                        "title": "قاشا"
-                    },
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001167-000.json": {
                         "rate": 100,
                         "status": "na",
@@ -35863,11 +35803,6 @@
                     "toponym_translit_other": "Qāšān"
                 },
                 "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001166-000.json": {
-                        "rate": 89,
-                        "status": "na",
-                        "title": "قاشا"
-                    },
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001167-000.json": {
                         "rate": 100,
                         "status": "na",
@@ -35908,11 +35843,6 @@
                         "rate": 100,
                         "status": "na",
                         "title": "الري"
-                    },
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000723-000.json": {
-                        "rate": 89,
-                        "status": "na",
-                        "title": "الريب"
                     }
                 },
                 "sources_english": {}
@@ -35944,13 +35874,7 @@
                     "toponym_translit": "Ḫān Lanǧān",
                     "toponym_translit_other": "Ḫān Lanǧān, Ḫalanǧān, Ḫūlanǧān"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000578-000.json": {
-                        "rate": 83,
-                        "status": "na",
-                        "title": "خولان"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -36207,13 +36131,7 @@
                     "toponym_translit": "Ṭarq",
                     "toponym_translit_other": "Ṭarq"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000973-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "طارق"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -36423,13 +36341,7 @@
                     "toponym_translit": "al-Arṯā",
                     "toponym_translit_other": "al-Arṯā, al-Arṯāniyyaŧ"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000692-000.json": {
-                        "rate": 82,
-                        "status": "na",
-                        "title": "الرمانيه"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -36462,7 +36374,7 @@
                 "sources_arabic": {
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000785-000.json": {
                         "rate": 91,
-                        "status": "na",
+                        "status": "mb",
                         "title": "السرر"
                     },
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000796-000.json": {
@@ -37109,7 +37021,7 @@
                 "sources_arabic": {
                     "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000156-000.json": {
                         "rate": 93,
-                        "status": "na",
+                        "status": "y",
                         "title": "اسفرايين"
                     }
                 },
@@ -37208,13 +37120,7 @@
                     "toponym_translit": "Sābzawār",
                     "toponym_translit_other": "Sābzawār"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000768-000.json": {
-                        "rate": 83,
-                        "status": "na",
-                        "title": "سابور"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -37244,13 +37150,7 @@
                     "toponym_translit": "Mihraǧān",
                     "toponym_translit_other": "Mihraǧān, Mihriǧān"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001493-000.json": {
-                        "rate": 91,
-                        "status": "na",
-                        "title": "مهران"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -37310,13 +37210,7 @@
                     "toponym_translit": "Tūn",
                     "toponym_translit_other": "Tūn"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000385-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "تونس"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
@@ -37346,13 +37240,7 @@
                     "toponym_translit": "Kundur",
                     "toponym_translit_other": "Kundur"
                 },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001292-000.json": {
-                        "rate": 86,
-                        "status": "na",
-                        "title": "كند"
-                    }
-                },
+                "sources_arabic": {},
                 "sources_english": {}
             },
             "type": "Feature"
