@@ -126,7 +126,8 @@ function OnMarkerClick(feature) {
                 $("#sources").append(
                     "<li id=\'" + id + "\' " +
                     "onclick=click_on_list(\'" + id + "\')>"
-                    + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title'] + "</span></li>" +
+                    + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title']
+                    + "&lrm;(" + feature.properties.sources_arabic[sources].rate + "% match)</span></li>" +
                     "<div id=\'" + id + "text\'>" + data['features'][0]['text'] + "</div><br>" +
                     "<div id=\'" + id + "ref\' " + "class='reference'>" + data['features'][0]['reference'] +"</div><br>");
             });
