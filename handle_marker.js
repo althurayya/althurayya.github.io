@@ -37,8 +37,10 @@ function create_marker(feature,latlng) {
     markers[feature.properties.cornuData.cornu_URI] = marker;
     return marker;
 }
-
+// Variable holding the previous clicked marker
 var prevClickedMarker;
+
+// Show/Hide the cornu detail by clicking on "Technical Information"
 $("#techInfo").click(
     function() {
         $("#cornuDetails").toggle();
@@ -58,18 +60,18 @@ function OnMarkerClick(feature) {
             + " (" + feature.properties.cornuData.toponym_arabic + ")");
         $("#techInfo").text("Technical Information");
         $("#sourceTitle").text("Sources on: " + feature.properties.cornuData.toponym_arabic);
+        // Remove the previous html of english sources to put the new content
         if ($.isEmptyObject(feature.properties.sources_english)){
             $("#otherSources").hide();
             $("#goToPrimSource").hide();
             $('#engSourcesDiv').html("");
         }
-        //$("#admin1").text(feature.properties.admin1_std_name);
+        // Remove the previous html of cornu details and primary sources to put the new content
+        $("#cornuDetails").html("");
+        $('#sources').html("");
         //$("#txtLink > a").text(feature.properties.SOURCE);
         //$("#txtLink > a").attr("href",feature.properties.SOURCE);
         //$("#txtLink > a").attr("target","_blank");
-        //$("#geoLink > a").text(feature.properties.geo.geonameId);
-        //$("#geoLink > a").attr("href",feature.properties.geo.geonameId);
-        //$("#geoLink > a").attr("target", "_blank");
         if(prevClickedMarker !== undefined) {
           prevClickedMarker.label._container.style.color = "black";
           prevClickedMarker.label._container.style.fontSize = "20px";
@@ -105,20 +107,18 @@ function OnMarkerClick(feature) {
                 $("#pleides").attr("href","")
             });
         });
-        $("#cornuDetails").html("");
         // Create html content of technical details (in location tab) for a location clicked
         Object.keys(feature.properties.cornuData).forEach(function (cData) {
             $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
         });
-        // Show/Hide the cornu detail by clicking on "Technical Information"
 
-        // sort the source objects by rate to show them in descending order on flap
+        // sort the primary source objects by rate to show them in descending order on flap
         var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
             return feature.properties.sources_arabic[b].rate -
                 feature.properties.sources_arabic[a].rate;
         });
         srt_keys.forEach(function (sources) {
-            $('#sources').html("");
+            //$('#sources').html("");
             fUri = "./sources/" + sources;
             var id = "A" + sources.replace(/\./g, "_");
             // Create html content of primary sources (in location tab) for a location clicked
@@ -126,7 +126,8 @@ function OnMarkerClick(feature) {
                 $("#sources").append(
                     "<li id=\'" + id + "\' " +
                     "onclick=click_on_list(\'" + id + "\')>"
-                    + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title'] + "</span></li>" +
+                    + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title']
+                    + "&lrm;(" + feature.properties.sources_arabic[sources].rate + "% match)</span></li>" +
                     "<div id=\'" + id + "text\'>" + data['features'][0]['text'] + "</div><br>" +
                     "<div id=\'" + id + "ref\' " + "class='reference'>" + data['features'][0]['reference'] +"</div><br>");
             });
