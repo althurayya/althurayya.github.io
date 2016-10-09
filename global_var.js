@@ -54,8 +54,8 @@ var type_size =
     "waystations" : 1,
     "sites" : 1,
     "xroads" : 1,
-    "waters" : 0,
-    "mont" : 0
+    "waters" : 0.5,
+    "mont" : 0.5
 };
 
 /* Earlier version
