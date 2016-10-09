@@ -207,6 +207,9 @@ function click_region(reg) {
                 //markers[key].setZIndexOffset(-1);
                 markers[key].options.zIndexOffset = -1000;
             } else {
+                if (markers[key].top_type == "metropoles")  {
+                    map.panTo(markers[key].getLatLng());
+                }
                 markers[key].setStyle({
                     fillColor: "red"
                     , color: "red"
