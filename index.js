@@ -93,7 +93,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     var cities = new L.LayerGroup();
     Object.keys(markers).forEach(function(key) {
         markers[key].addTo(cities);
-        // metropoles has the lable on load and brought to front
+        // metropoles has the label on load and brought to front
         if(marker_properties[key].type == "metropoles") {
             markerLabels[key].setLabelNoHide(true);
             markers[key].bringToFront();

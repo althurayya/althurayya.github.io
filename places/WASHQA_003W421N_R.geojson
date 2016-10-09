@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "sources_english": {},
+        "cornuData": {
+            "coord_lon": "-0.35371",
+            "toponym_buckwalter": "Washqa",
+            "toponym_translit_other": "Wašqaŧ",
+            "toponym_arabic": "وشقة",
+            "coord_lat": "42.16109",
+            "region_code": "Andalus",
+            "cornu_URI": "WASHQA_003W421N_R",
+            "coord_certainty": "certain",
+            "top_type_hom": "regions",
+            "top_type_orig": "district",
+            "toponym_arabic_other": "وشقة",
+            "region_spelled": "al-Andalus (Spain)",
+            "toponym_translit": "Wašqaŧ",
+            "toponym_search": "Washqa"
+        },
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001628-000.json": {
+                "rate": 100,
+                "status": "y",
+                "title": "وشقه"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001629-000.json": {
+                "rate": 75,
+                "status": "mb",
+                "title": "وشكه"
+            }
+        },
+        "althurayyaData": {
+            "visual_center": "no"
+        }
+    },
+    "geometry": {
+        "coordinates": [
+            -0.35371,
+            42.16109
+        ],
+        "type": "Point"
+    }
+}
