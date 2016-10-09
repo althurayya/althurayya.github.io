@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dayyāy",
+            "cornu_URI": "DAYYAY_307E310N_S",
+            "toponym_arabic": "دياي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dayyay",
+            "toponym_arabic_other": "دياي",
+            "toponym_translit": "Dayyāy",
+            "coord_lat": "31.01916",
+            "toponym_search": "Dayyay",
+            "region_code": "Egypt",
+            "coord_lon": "30.70519",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.70519,
+            31.01916
+        ]
+    }
+}

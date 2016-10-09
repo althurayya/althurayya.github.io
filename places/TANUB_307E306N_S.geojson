@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭanūb, Ṭunūb",
+            "cornu_URI": "TANUB_307E306N_S",
+            "toponym_arabic": "طنوب",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Tanub, Tunub",
+            "toponym_arabic_other": "طنوب، طنوب",
+            "toponym_translit": "Ṭanūb",
+            "coord_lat": "30.67267",
+            "toponym_search": "Tanub, Tunub",
+            "region_code": "Egypt",
+            "coord_lon": "30.78944",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.78944,
+            30.67267
+        ]
+    }
+}

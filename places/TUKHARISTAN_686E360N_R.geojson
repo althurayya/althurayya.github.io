@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000353-000.json": {
+                "title": "تخارستان",
+                "rate": 88,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000987-000.json": {
+                "title": "طخارستان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭuḫāristān",
+            "cornu_URI": "TUKHARISTAN_686E360N_R",
+            "toponym_arabic": "طخارستان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Tukharistan",
+            "toponym_arabic_other": "طخارستان",
+            "toponym_translit": "Ṭuḫāristān",
+            "coord_lat": "36.03586",
+            "toponym_search": "Tukharistan",
+            "region_code": "Khurasan",
+            "coord_lon": "68.67012",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.67012,
+            36.03586
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banākaṯ",
+            "cornu_URI": "BANAKATH_688E407N_S",
+            "toponym_arabic": "بناكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Banakath",
+            "toponym_arabic_other": "بناكث",
+            "toponym_translit": "Banākaṯ",
+            "coord_lat": "40.71867",
+            "toponym_search": "Banakath",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.80969",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.80969,
+            40.71867
+        ]
+    }
+}

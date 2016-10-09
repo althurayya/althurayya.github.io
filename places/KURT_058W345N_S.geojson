@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kurt",
+            "cornu_URI": "KURT_058W345N_S",
+            "toponym_arabic": "كرت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kurt",
+            "toponym_arabic_other": "كرت",
+            "toponym_translit": "Kurt",
+            "coord_lat": "34.59132",
+            "toponym_search": "Kurt",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.83301",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.83301,
+            34.59132
+        ]
+    }
+}

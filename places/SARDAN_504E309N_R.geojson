@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000797-000.json": {
+                "title": "سردانيه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sardān",
+            "cornu_URI": "SARDAN_504E309N_R",
+            "toponym_arabic": "سردان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Sardan",
+            "toponym_arabic_other": "سردان",
+            "toponym_translit": "Sardān",
+            "coord_lat": "30.99710",
+            "toponym_search": "Sardan",
+            "region_code": "Faris",
+            "coord_lon": "50.42781",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.42781,
+            30.9971
+        ]
+    }
+}

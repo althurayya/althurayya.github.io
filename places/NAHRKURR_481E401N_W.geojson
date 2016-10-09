@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Kurr",
+            "cornu_URI": "NAHRKURR_481E401N_W",
+            "toponym_arabic": "نهر الكر",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Kurr",
+            "toponym_arabic_other": "نهر الكر",
+            "toponym_translit": "Nahr al-Kurr",
+            "coord_lat": "40.16468",
+            "toponym_search": "Nahr al-Kurr",
+            "region_code": "Rihab",
+            "coord_lon": "48.18559",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.18559,
+            40.16468
+        ]
+    }
+}

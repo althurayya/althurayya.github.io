@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fīǧaŧ",
+            "cornu_URI": "FIJA_360E336N_S",
+            "toponym_arabic": "الفيجة",
+            "top_type_orig": "source",
+            "toponym_buckwalter": "al-Fija",
+            "toponym_arabic_other": "الفيجة",
+            "toponym_translit": "al-Fīǧaŧ",
+            "coord_lat": "33.64139",
+            "toponym_search": "al-Fija",
+            "region_code": "Sham",
+            "coord_lon": "36.02468",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.02468,
+            33.64139
+        ]
+    }
+}

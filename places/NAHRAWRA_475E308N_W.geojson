@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-ʿAwrā",
+            "cornu_URI": "NAHRAWRA_475E308N_W",
+            "toponym_arabic": "نهر العورا",
+            "top_type_orig": "cours",
+            "toponym_buckwalter": "Nahr al-Awra",
+            "toponym_arabic_other": "نهر العورا",
+            "toponym_translit": "Nahr al-ʿAwrā",
+            "coord_lat": "30.86237",
+            "toponym_search": "Nahr al-Awra",
+            "region_code": "Iraq",
+            "coord_lon": "47.55725",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.55725,
+            30.86237
+        ]
+    }
+}

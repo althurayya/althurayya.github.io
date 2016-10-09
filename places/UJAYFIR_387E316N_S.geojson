@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Uǧayfir",
+            "cornu_URI": "UJAYFIR_387E316N_S",
+            "toponym_arabic": "الأجيفر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ujayfir",
+            "toponym_arabic_other": "الأجيفر",
+            "toponym_translit": "al-Uǧayfir",
+            "coord_lat": "31.65819",
+            "toponym_search": "al-Ujayfir",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "38.71981",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.71981,
+            31.65819
+        ]
+    }
+}

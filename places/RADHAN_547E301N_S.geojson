@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāḏān, Dāḏān",
+            "cornu_URI": "RADHAN_547E301N_S",
+            "toponym_arabic": "راذان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Radhan, Dadhan",
+            "toponym_arabic_other": "راذان، داذان",
+            "toponym_translit": "Rāḏān",
+            "coord_lat": "30.12067",
+            "toponym_search": "Radhan, Dadhan",
+            "region_code": "Faris",
+            "coord_lon": "54.70209",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.70209,
+            30.12067
+        ]
+    }
+}

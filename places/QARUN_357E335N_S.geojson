@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qarʿūn",
+            "cornu_URI": "QARUN_357E335N_S",
+            "toponym_arabic": "القرعون",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qarun",
+            "toponym_arabic_other": "القرعون",
+            "toponym_translit": "al-Qarʿūn",
+            "coord_lat": "33.57083",
+            "toponym_search": "al-Qarun",
+            "region_code": "Sham",
+            "coord_lon": "35.71229",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.71229,
+            33.57083
+        ]
+    }
+}

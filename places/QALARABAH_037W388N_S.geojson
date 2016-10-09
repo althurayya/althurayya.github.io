@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001208-000.json": {
+                "title": "قلعه رباح",
+                "rate": 89,
+                "status": "y"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ Rabāḥ, Qalʿaŧ Ribāṭ",
+            "cornu_URI": "QALARABAH_037W388N_S",
+            "toponym_arabic": "قلعة رباح",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qala Rabah, Qala Ribat",
+            "toponym_arabic_other": "قلعة رباح، قلعة رباط",
+            "toponym_translit": "Qalʿaŧ Rabāḥ",
+            "coord_lat": "38.80312",
+            "toponym_search": "Qala Rabah, Qala Ribat",
+            "region_code": "Andalus",
+            "coord_lon": "-3.78324",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.78324,
+            38.80312
+        ]
+    }
+}

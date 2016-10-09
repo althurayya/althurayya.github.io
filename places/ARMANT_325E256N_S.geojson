@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Armant",
+            "cornu_URI": "ARMANT_325E256N_S",
+            "toponym_arabic": "أرمنت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Armant",
+            "toponym_arabic_other": "أرمنت",
+            "toponym_translit": "Armant",
+            "coord_lat": "25.64017",
+            "toponym_search": "Armant",
+            "region_code": "Egypt",
+            "coord_lon": "32.51795",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.51795,
+            25.64017
+        ]
+    }
+}

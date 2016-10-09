@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abyāyn",
+            "cornu_URI": "ABYAYN_449E131N_S",
+            "toponym_arabic": "أبياين",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Abyayn",
+            "toponym_arabic_other": "أبياين",
+            "toponym_translit": "Abyāyn",
+            "coord_lat": "13.14229",
+            "toponym_search": "Abyayn",
+            "region_code": "Yemen",
+            "coord_lon": "44.96348",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.96348,
+            13.14229
+        ]
+    }
+}

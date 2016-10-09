@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr al-Rīḥ",
+            "cornu_URI": "QASRRIH_591E360N_S",
+            "toponym_arabic": "قصر الريح",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qasr al-Rih",
+            "toponym_arabic_other": "قصر الريح",
+            "toponym_translit": "Qaṣr al-Rīḥ",
+            "coord_lat": "36.03203",
+            "toponym_search": "Qasr al-Rih",
+            "region_code": "Khurasan",
+            "coord_lon": "59.12900",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.129,
+            36.03203
+        ]
+    }
+}

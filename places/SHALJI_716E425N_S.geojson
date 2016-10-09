@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šalǧī",
+            "cornu_URI": "SHALJI_716E425N_S",
+            "toponym_arabic": "شلجي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shalji",
+            "toponym_arabic_other": "شلجي",
+            "toponym_translit": "Šalǧī",
+            "coord_lat": "42.59356",
+            "toponym_search": "Shalji",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.66129",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.66129,
+            42.59356
+        ]
+    }
+}

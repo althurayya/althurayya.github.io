@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧūbānan",
+            "cornu_URI": "JUBANAN_534E297N_S",
+            "toponym_arabic": "جوبانن",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jubanan",
+            "toponym_arabic_other": "جوبانن",
+            "toponym_translit": "Ǧūbānan",
+            "coord_lat": "29.79117",
+            "toponym_search": "Jubanan",
+            "region_code": "Faris",
+            "coord_lon": "53.44398",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.44398,
+            29.79117
+        ]
+    }
+}

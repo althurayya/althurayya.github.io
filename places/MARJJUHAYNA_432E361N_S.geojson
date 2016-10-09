@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marǧ Ǧuhaynaŧ, Mar Ǧuhaynaŧ",
+            "cornu_URI": "MARJJUHAYNA_432E361N_S",
+            "toponym_arabic": "مرج جهينة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Marj Juhayna, Mar Juhayna",
+            "toponym_arabic_other": "مرج جهينة، مر جهينة",
+            "toponym_translit": "Marǧ Ǧuhaynaŧ",
+            "coord_lat": "36.14235",
+            "toponym_search": "Marj Juhayna, Mar Juhayna",
+            "region_code": "Aqur",
+            "coord_lon": "43.26652",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.26652,
+            36.14235
+        ]
+    }
+}

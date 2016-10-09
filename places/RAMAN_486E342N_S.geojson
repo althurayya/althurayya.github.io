@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāman",
+            "cornu_URI": "RAMAN_486E342N_S",
+            "toponym_arabic": "رامن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Raman",
+            "toponym_arabic_other": "رامن",
+            "toponym_translit": "Rāman",
+            "coord_lat": "34.25819",
+            "toponym_search": "Raman",
+            "region_code": "Jibal",
+            "coord_lon": "48.65585",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.65585,
+            34.25819
+        ]
+    }
+}

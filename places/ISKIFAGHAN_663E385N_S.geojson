@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iskīfaġan",
+            "cornu_URI": "ISKIFAGHAN_663E385N_S",
+            "toponym_arabic": "إسكيفغن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Iskifaghan",
+            "toponym_arabic_other": "إسكيفغن",
+            "toponym_translit": "Iskīfaġan",
+            "coord_lat": "38.53462",
+            "toponym_search": "Iskifaghan",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.30707",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.30707,
+            38.53462
+        ]
+    }
+}

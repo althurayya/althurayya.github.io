@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dih Bārist, Dih Ruwīst",
+            "cornu_URI": "DIHBARIST_561E277N_S",
+            "toponym_arabic": "ده بارست",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Dih Barist, Dih Ruwist",
+            "toponym_arabic_other": "ده بارست، ده رويست",
+            "toponym_translit": "Dih Bārist",
+            "coord_lat": "27.77410",
+            "toponym_search": "Dih Barist, Dih Ruwist",
+            "region_code": "Kirman",
+            "coord_lon": "56.13806",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.13806,
+            27.7741
+        ]
+    }
+}

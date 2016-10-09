@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Ḫūrān, Ribāṭ Kūrān",
+            "cornu_URI": "RIBATKHURAN_564E337N_S",
+            "toponym_arabic": "رباط خوران",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ribat Khuran, Ribat Kuran",
+            "toponym_arabic_other": "رباط خوران، رباط كوران",
+            "toponym_translit": "Ribāṭ Ḫūrān",
+            "coord_lat": "33.73469",
+            "toponym_search": "Ribat Khuran, Ribat Kuran",
+            "region_code": "Mafaza",
+            "coord_lon": "56.45466",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.45466,
+            33.73469
+        ]
+    }
+}

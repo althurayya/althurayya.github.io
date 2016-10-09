@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tamliyāt",
+            "cornu_URI": "TAMLIYAT_695E382N_S",
+            "toponym_arabic": "تمليات",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tamliyat",
+            "toponym_arabic_other": "تمليات",
+            "toponym_translit": "Tamliyāt",
+            "coord_lat": "38.25651",
+            "toponym_search": "Tamliyat",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.53106",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.53106,
+            38.25651
+        ]
+    }
+}

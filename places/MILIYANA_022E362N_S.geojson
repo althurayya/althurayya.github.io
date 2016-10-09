@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001107-000.json": {
+                "title": "غليانه",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001444-000.json": {
+                "title": "مليانه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Miliyānaŧ",
+            "cornu_URI": "MILIYANA_022E362N_S",
+            "toponym_arabic": "مليانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Miliyana",
+            "toponym_arabic_other": "مليانة",
+            "toponym_translit": "Miliyānaŧ",
+            "coord_lat": "36.27861",
+            "toponym_search": "Miliyana",
+            "region_code": "Maghrib",
+            "coord_lon": "2.22246",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.22246,
+            36.27861
+        ]
+    }
+}

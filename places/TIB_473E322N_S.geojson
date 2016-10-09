@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001019-000.json": {
+                "title": "الطيب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṭīb",
+            "cornu_URI": "TIB_473E322N_S",
+            "toponym_arabic": "الطيب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Tib",
+            "toponym_arabic_other": "الطيب",
+            "toponym_translit": "al-Ṭīb",
+            "coord_lat": "32.22674",
+            "toponym_search": "al-Tib",
+            "region_code": "Iraq",
+            "coord_lon": "47.30428",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.30428,
+            32.22674
+        ]
+    }
+}

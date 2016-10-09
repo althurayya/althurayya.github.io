@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000621-000.json": {
+                "title": "الدسكره",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Daskaraŧ, Daskaraŧ al-Malik",
+            "cornu_URI": "DASKARA_449E339N_S",
+            "toponym_arabic": "دسكرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Daskara, Daskara al-Malik",
+            "toponym_arabic_other": "دسكرة، دسكرة الملك",
+            "toponym_translit": "Daskaraŧ",
+            "coord_lat": "33.94151",
+            "toponym_search": "Daskara, Daskara al-Malik",
+            "region_code": "Iraq",
+            "coord_lon": "44.92310",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.9231,
+            33.94151
+        ]
+    }
+}

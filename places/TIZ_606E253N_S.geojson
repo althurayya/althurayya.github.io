@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Tīz",
+            "cornu_URI": "TIZ_606E253N_S",
+            "toponym_arabic": "التيز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Tiz",
+            "toponym_arabic_other": "التيز",
+            "toponym_translit": "al-Tīz",
+            "coord_lat": "25.38207",
+            "toponym_search": "al-Tiz",
+            "region_code": "Sind",
+            "coord_lon": "60.63196",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.63196,
+            25.38207
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000115-000.json": {
+                "title": "انطاكيه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000116-000.json": {
+                "title": "انطاليه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Anṭākiyyaŧ",
+            "cornu_URI": "ANTAKIYYA_361E361N_S",
+            "toponym_arabic": "أنطاكية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Antakiyya",
+            "toponym_arabic_other": "أنطاكية",
+            "toponym_translit": "Anṭākiyyaŧ",
+            "coord_lat": "36.19718",
+            "toponym_search": "Antakiyya",
+            "region_code": "Sham",
+            "coord_lon": "36.18418",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.18418,
+            36.19718
+        ]
+    }
+}

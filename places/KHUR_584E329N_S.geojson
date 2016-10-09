@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000577-000.json": {
+                "title": "خوار",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫūr",
+            "cornu_URI": "KHUR_584E329N_S",
+            "toponym_arabic": "خور",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Khur",
+            "toponym_arabic_other": "خور",
+            "toponym_translit": "Ḫūr",
+            "coord_lat": "32.93881",
+            "toponym_search": "Khur",
+            "region_code": "Mafaza",
+            "coord_lon": "58.45153",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.45153,
+            32.93881
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001188-000.json": {
+                "title": "القرافه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000694-000.json": {
+                "title": "الرصافه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000669-000.json": {
+                "title": "الرافقه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ruṣāfaŧ",
+            "cornu_URI": "RUSAFA_387E356N_S",
+            "toponym_arabic": "الرصافة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Rusafa",
+            "toponym_arabic_other": "الرصافة",
+            "toponym_translit": "al-Ruṣāfaŧ",
+            "coord_lat": "35.60242",
+            "toponym_search": "al-Rusafa",
+            "region_code": "Sham",
+            "coord_lon": "38.77933",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.77933,
+            35.60242
+        ]
+    }
+}

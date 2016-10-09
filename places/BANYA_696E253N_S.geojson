@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000242-000.json": {
+                "title": "برطانيه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bānyaŧ",
+            "cornu_URI": "BANYA_696E253N_S",
+            "toponym_arabic": "بانية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Banya",
+            "toponym_arabic_other": "بانية",
+            "toponym_translit": "Bānyaŧ",
+            "coord_lat": "25.32721",
+            "toponym_search": "Banya",
+            "region_code": "Sind",
+            "coord_lon": "69.67968",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.67968,
+            25.32721
+        ]
+    }
+}

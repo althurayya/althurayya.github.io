@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000033-000.json": {
+                "title": "ابطير",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000037-000.json": {
+                "title": "ابيار",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ubayr, Wubayr",
+            "cornu_URI": "UBAYR_367E307N_S",
+            "toponym_arabic": "أبير",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ubayr, Wubayr",
+            "toponym_arabic_other": "أبير، وبير",
+            "toponym_translit": "Ubayr",
+            "coord_lat": "30.73317",
+            "toponym_search": "Ubayr, Wubayr",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "36.70106",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.70106,
+            30.73317
+        ]
+    }
+}

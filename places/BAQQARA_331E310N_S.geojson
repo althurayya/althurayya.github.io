@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baqqāraŧ",
+            "cornu_URI": "BAQQARA_331E310N_S",
+            "toponym_arabic": "البقارة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Baqqara",
+            "toponym_arabic_other": "البقارة",
+            "toponym_translit": "al-Baqqāraŧ",
+            "coord_lat": "31.02385",
+            "toponym_search": "al-Baqqara",
+            "region_code": "Egypt",
+            "coord_lon": "33.12566",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.12566,
+            31.02385
+        ]
+    }
+}

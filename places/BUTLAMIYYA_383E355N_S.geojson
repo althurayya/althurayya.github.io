@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000555-000.json": {
+                "title": "الخريبه",
+                "rate": 92,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000681-000.json": {
+                "title": "الربذه",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000913-000.json": {
+                "title": "الصخره",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Buṭlāmiyyaŧ, al-Ḫirbaŧ",
+            "cornu_URI": "BUTLAMIYYA_383E355N_S",
+            "toponym_arabic": "البطلامية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Butlamiyya, al-Khirba",
+            "toponym_arabic_other": "البطلامية، الخربة",
+            "toponym_translit": "al-Buṭlāmiyyaŧ",
+            "coord_lat": "35.52404",
+            "toponym_search": "al-Butlamiyya, al-Khirba",
+            "region_code": "Sham",
+            "coord_lon": "38.31435",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.31435,
+            35.52404
+        ]
+    }
+}

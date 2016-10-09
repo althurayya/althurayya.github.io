@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫūnaǧ",
+            "cornu_URI": "KHUNAJ_472E373N_S",
+            "toponym_arabic": "خونج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khunaj",
+            "toponym_arabic_other": "خونج",
+            "toponym_translit": "Ḫūnaǧ",
+            "coord_lat": "37.38856",
+            "toponym_search": "Khunaj",
+            "region_code": "Rihab",
+            "coord_lon": "47.25690",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.2569,
+            37.38856
+        ]
+    }
+}

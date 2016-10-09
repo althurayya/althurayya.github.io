@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qanūwān",
+            "cornu_URI": "QANUWAN_506E332N_S",
+            "toponym_arabic": "قنووان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qanuwan",
+            "toponym_arabic_other": "قنووان",
+            "toponym_translit": "Qanūwān",
+            "coord_lat": "33.23683",
+            "toponym_search": "Qanuwan",
+            "region_code": "Jibal",
+            "coord_lon": "50.65469",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.65469,
+            33.23683
+        ]
+    }
+}

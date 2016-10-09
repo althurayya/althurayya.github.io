@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāb al-Ḥadīd",
+            "cornu_URI": "BABHADID_670E382N_O",
+            "toponym_arabic": "باب الحديد",
+            "top_type_orig": "defile",
+            "toponym_buckwalter": "Bab al-Hadid",
+            "toponym_arabic_other": "باب الحديد",
+            "toponym_translit": "Bāb al-Ḥadīd",
+            "coord_lat": "38.22114",
+            "toponym_search": "Bab al-Hadid",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.03158",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.03158,
+            38.22114
+        ]
+    }
+}

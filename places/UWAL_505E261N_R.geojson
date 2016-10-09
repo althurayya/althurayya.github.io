@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000176-000.json": {
+                "title": "اوال",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Uwāl",
+            "cornu_URI": "UWAL_505E261N_R",
+            "toponym_arabic": "أوال",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Uwal",
+            "toponym_arabic_other": "أوال",
+            "toponym_translit": "Uwāl",
+            "coord_lat": "26.11827",
+            "toponym_search": "Uwal",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "50.56693",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.56693,
+            26.11827
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balad Ġumār",
+            "cornu_URI": "BALADGHUMAR_047W351N_S",
+            "toponym_arabic": "بلد غمار",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Balad Ghumar",
+            "toponym_arabic_other": "بلد غمار",
+            "toponym_translit": "Balad Ġumār",
+            "coord_lat": "35.19603",
+            "toponym_search": "Balad Ghumar",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.70461",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.70461,
+            35.19603
+        ]
+    }
+}

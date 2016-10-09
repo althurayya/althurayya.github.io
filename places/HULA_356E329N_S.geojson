@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000518-000.json": {
+                "title": "الحله",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000516-000.json": {
+                "title": "الحليفه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥulaŧ",
+            "cornu_URI": "HULA_356E329N_S",
+            "toponym_arabic": "الحلة",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "al-Hula",
+            "toponym_arabic_other": "الحلة",
+            "toponym_translit": "al-Ḥulaŧ",
+            "coord_lat": "32.97543",
+            "toponym_search": "al-Hula",
+            "region_code": "Sham",
+            "coord_lon": "35.63816",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.63816,
+            32.97543
+        ]
+    }
+}

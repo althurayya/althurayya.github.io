@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḥallaŧ al-Kabīraŧ",
+            "cornu_URI": "MAHALLAKABIRA_311E309N_S",
+            "toponym_arabic": "محلة الكبيرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mahalla al-Kabira",
+            "toponym_arabic_other": "محلة الكبيرة",
+            "toponym_translit": "Maḥallaŧ al-Kabīraŧ",
+            "coord_lat": "30.97329",
+            "toponym_search": "Mahalla al-Kabira",
+            "region_code": "Egypt",
+            "coord_lon": "31.14662",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.14662,
+            30.97329
+        ]
+    }
+}

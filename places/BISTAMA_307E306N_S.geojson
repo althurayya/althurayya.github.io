@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bistāmaŧ",
+            "cornu_URI": "BISTAMA_307E306N_S",
+            "toponym_arabic": "بستامة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bistama",
+            "toponym_arabic_other": "بستامة",
+            "toponym_translit": "Bistāmaŧ",
+            "coord_lat": "30.62076",
+            "toponym_search": "Bistama",
+            "region_code": "Egypt",
+            "coord_lon": "30.78887",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.78887,
+            30.62076
+        ]
+    }
+}

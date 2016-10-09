@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001140-000.json": {
+                "title": "الفرات",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šarāt",
+            "cornu_URI": "SHARAT_357E305N_R",
+            "toponym_arabic": "الشرات",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "al-Sharat",
+            "toponym_arabic_other": "الشرات",
+            "toponym_translit": "al-Šarāt",
+            "coord_lat": "30.59382",
+            "toponym_search": "al-Sharat",
+            "region_code": "Sham",
+            "coord_lon": "35.77450",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.7745,
+            30.59382
+        ]
+    }
+}

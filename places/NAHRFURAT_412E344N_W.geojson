@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Furāt",
+            "cornu_URI": "NAHRFURAT_412E344N_W",
+            "toponym_arabic": "نهر الفرات",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Furat",
+            "toponym_arabic_other": "نهر الفرات",
+            "toponym_translit": "Nahr al-Furāt",
+            "coord_lat": "34.45727",
+            "toponym_search": "Nahr al-Furat",
+            "region_code": "Aqur",
+            "coord_lon": "41.21428",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.21428,
+            34.45727
+        ]
+    }
+}

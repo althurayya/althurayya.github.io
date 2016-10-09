@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000502-000.json": {
+                "title": "الحجر",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥāǧir",
+            "cornu_URI": "HAJIR_417E259N_S",
+            "toponym_arabic": "الحاجر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Hajir",
+            "toponym_arabic_other": "الحاجر",
+            "toponym_translit": "al-Ḥāǧir",
+            "coord_lat": "25.96910",
+            "toponym_search": "al-Hajir",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.75129",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.75129,
+            25.9691
+        ]
+    }
+}

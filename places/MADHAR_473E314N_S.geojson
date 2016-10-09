@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001392-000.json": {
+                "title": "المذار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Maḏār",
+            "cornu_URI": "MADHAR_473E314N_S",
+            "toponym_arabic": "المذار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Madhar",
+            "toponym_arabic_other": "المذار",
+            "toponym_translit": "al-Maḏār",
+            "coord_lat": "31.48197",
+            "toponym_search": "al-Madhar",
+            "region_code": "Iraq",
+            "coord_lon": "47.37621",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.37621,
+            31.48197
+        ]
+    }
+}

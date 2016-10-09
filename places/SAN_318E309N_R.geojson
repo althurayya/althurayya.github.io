@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣān",
+            "cornu_URI": "SAN_318E309N_R",
+            "toponym_arabic": "صان",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "San",
+            "toponym_arabic_other": "صان",
+            "toponym_translit": "Ṣān",
+            "coord_lat": "30.97890",
+            "toponym_search": "San",
+            "region_code": "Egypt",
+            "coord_lon": "31.87265",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.87265,
+            30.9789
+        ]
+    }
+}

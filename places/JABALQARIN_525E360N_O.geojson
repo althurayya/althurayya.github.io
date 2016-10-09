@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Qārīn",
+            "cornu_URI": "JABALQARIN_525E360N_O",
+            "toponym_arabic": "جبل قارين",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Qarin",
+            "toponym_arabic_other": "جبل قارين",
+            "toponym_translit": "Ǧabal Qārīn",
+            "coord_lat": "36.01794",
+            "toponym_search": "Jabal Qarin",
+            "region_code": "Daylam",
+            "coord_lon": "52.55968",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.55968,
+            36.01794
+        ]
+    }
+}

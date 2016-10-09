@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧaḥšiyyaŧ",
+            "cornu_URI": "JAHSHIYYA_404E366N_S",
+            "toponym_arabic": "الجحشية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Jahshiyya",
+            "toponym_arabic_other": "الجحشية",
+            "toponym_translit": "al-Ǧaḥšiyyaŧ",
+            "coord_lat": "36.65489",
+            "toponym_search": "al-Jahshiyya",
+            "region_code": "Aqur",
+            "coord_lon": "40.41354",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.41354,
+            36.65489
+        ]
+    }
+}

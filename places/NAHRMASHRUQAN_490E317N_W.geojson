@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001501-000.json": {
+                "title": "موقان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Mašruqān, Masrūqān",
+            "cornu_URI": "NAHRMASHRUQAN_490E317N_W",
+            "toponym_arabic": "نهر مشرقان",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Mashruqan, Masruqan",
+            "toponym_arabic_other": "نهر مشرقان، مسروقان",
+            "toponym_translit": "Nahr Mašruqān",
+            "coord_lat": "31.76776",
+            "toponym_search": "Nahr Mashruqan, Masruqan",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.01519",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.01519,
+            31.76776
+        ]
+    }
+}

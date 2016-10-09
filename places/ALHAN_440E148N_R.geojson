@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Alhān",
+            "cornu_URI": "ALHAN_440E148N_R",
+            "toponym_arabic": "ألهان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Alhan",
+            "toponym_arabic_other": "ألهان",
+            "toponym_translit": "Alhān",
+            "coord_lat": "14.80399",
+            "toponym_search": "Alhan",
+            "region_code": "Yemen",
+            "coord_lon": "44.07982",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.07982,
+            14.80399
+        ]
+    }
+}

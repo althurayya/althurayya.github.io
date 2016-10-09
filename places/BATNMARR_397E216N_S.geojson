@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000259-000.json": {
+                "title": "بطن مر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṭn Marr",
+            "cornu_URI": "BATNMARR_397E216N_S",
+            "toponym_arabic": "بطن مر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Batn Marr",
+            "toponym_arabic_other": "بطن مر",
+            "toponym_translit": "Baṭn Marr",
+            "coord_lat": "21.64499",
+            "toponym_search": "Batn Marr",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.73935",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.73935,
+            21.64499
+        ]
+    }
+}

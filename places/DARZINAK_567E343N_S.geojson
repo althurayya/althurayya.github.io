@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darzīnak",
+            "cornu_URI": "DARZINAK_567E343N_S",
+            "toponym_arabic": "درزينك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Darzinak",
+            "toponym_arabic_other": "درزينك",
+            "toponym_translit": "Darzīnak",
+            "coord_lat": "34.30394",
+            "toponym_search": "Darzinak",
+            "region_code": "Mafaza",
+            "coord_lon": "56.73090",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.7309,
+            34.30394
+        ]
+    }
+}

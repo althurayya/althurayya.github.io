@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Mahdī",
+            "cornu_URI": "HISNMAHDI_483E305N_S",
+            "toponym_arabic": "حصن مهدي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hisn Mahdi",
+            "toponym_arabic_other": "حصن مهدي",
+            "toponym_translit": "Ḥiṣn Mahdī",
+            "coord_lat": "30.52571",
+            "toponym_search": "Hisn Mahdi",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.33301",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.33301,
+            30.52571
+        ]
+    }
+}

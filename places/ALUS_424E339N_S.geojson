@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ālūs, Ālūsā",
+            "cornu_URI": "ALUS_424E339N_S",
+            "toponym_arabic": "آلوس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Alus, Alusa",
+            "toponym_arabic_other": "آلوس، آلوسا",
+            "toponym_translit": "Ālūs",
+            "coord_lat": "33.98559",
+            "toponym_search": "Alus, Alusa",
+            "region_code": "Aqur",
+            "coord_lon": "42.41353",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.41353,
+            33.98559
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bawwān",
+            "cornu_URI": "BAWWAN_536E304N_S",
+            "toponym_arabic": "بوان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bawwan",
+            "toponym_arabic_other": "بوان",
+            "toponym_translit": "Bawwān",
+            "coord_lat": "30.46456",
+            "toponym_search": "Bawwan",
+            "region_code": "Faris",
+            "coord_lon": "53.61920",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.6192,
+            30.46456
+        ]
+    }
+}

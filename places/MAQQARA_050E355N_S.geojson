@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001185-000.json": {
+                "title": "قره",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001472-000.json": {
+                "title": "مقره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maqqaraŧ",
+            "cornu_URI": "MAQQARA_050E355N_S",
+            "toponym_arabic": "مقرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maqqara",
+            "toponym_arabic_other": "مقرة",
+            "toponym_translit": "Maqqaraŧ",
+            "coord_lat": "35.54259",
+            "toponym_search": "Maqqara",
+            "region_code": "Maghrib",
+            "coord_lon": "5.02970",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.0297,
+            35.54259
+        ]
+    }
+}

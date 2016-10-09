@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000724-000.json": {
+                "title": "ريام",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yām",
+            "cornu_URI": "YAM_446E159N_R",
+            "toponym_arabic": "يام",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Yam",
+            "toponym_arabic_other": "يام",
+            "toponym_translit": "Yām",
+            "coord_lat": "15.92968",
+            "toponym_search": "Yam",
+            "region_code": "Yemen",
+            "coord_lon": "44.67244",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.67244,
+            15.92968
+        ]
+    }
+}

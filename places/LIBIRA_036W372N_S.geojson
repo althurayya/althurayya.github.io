@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000093-000.json": {
+                "title": "البيره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Libīraŧ, Ilbīraŧ",
+            "cornu_URI": "LIBIRA_036W372N_S",
+            "toponym_arabic": "لبيرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Libira, Ilbira",
+            "toponym_arabic_other": "لبيرة، إلبيرة",
+            "toponym_translit": "Libīraŧ",
+            "coord_lat": "37.22734",
+            "toponym_search": "Libira, Ilbira",
+            "region_code": "Andalus",
+            "coord_lon": "-3.66814",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.66814,
+            37.22734
+        ]
+    }
+}

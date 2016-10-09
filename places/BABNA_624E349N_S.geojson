@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Babnaŧ",
+            "cornu_URI": "BABNA_624E349N_S",
+            "toponym_arabic": "ببنة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Babna",
+            "toponym_arabic_other": "ببنة",
+            "toponym_translit": "Babnaŧ",
+            "coord_lat": "34.94152",
+            "toponym_search": "Babna",
+            "region_code": "Khurasan",
+            "coord_lon": "62.47870",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.4787,
+            34.94152
+        ]
+    }
+}

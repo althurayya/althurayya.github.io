@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001536-000.json": {
+                "title": "نفزاوه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nafzāwaŧ",
+            "cornu_URI": "NAFZAWA_092E336N_R",
+            "toponym_arabic": "نفزاوة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Nafzawa",
+            "toponym_arabic_other": "نفزاوة",
+            "toponym_translit": "Nafzāwaŧ",
+            "coord_lat": "33.61536",
+            "toponym_search": "Nafzawa",
+            "region_code": "Maghrib",
+            "coord_lon": "9.28396",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28396,
+            33.61536
+        ]
+    }
+}

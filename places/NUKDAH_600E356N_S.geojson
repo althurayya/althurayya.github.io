@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nūkdah",
+            "cornu_URI": "NUKDAH_600E356N_S",
+            "toponym_arabic": "نوكده",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Nukdah",
+            "toponym_arabic_other": "نوكده",
+            "toponym_translit": "Nūkdah",
+            "coord_lat": "35.63286",
+            "toponym_search": "Nukdah",
+            "region_code": "Khurasan",
+            "coord_lon": "60.00916",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.00916,
+            35.63286
+        ]
+    }
+}

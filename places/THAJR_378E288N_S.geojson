@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṯaǧr",
+            "cornu_URI": "THAJR_378E288N_S",
+            "toponym_arabic": "ثجر",
+            "top_type_orig": "pointdeau",
+            "toponym_buckwalter": "Thajr",
+            "toponym_arabic_other": "ثجر",
+            "toponym_translit": "Ṯaǧr",
+            "coord_lat": "28.87521",
+            "toponym_search": "Thajr",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.89149",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.89149,
+            28.87521
+        ]
+    }
+}

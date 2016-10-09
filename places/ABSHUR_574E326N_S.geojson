@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āb Šūr",
+            "cornu_URI": "ABSHUR_574E326N_S",
+            "toponym_arabic": "آب شور",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ab Shur",
+            "toponym_arabic_other": "آب شور",
+            "toponym_translit": "Āb Šūr",
+            "coord_lat": "32.65943",
+            "toponym_search": "Ab Shur",
+            "region_code": "Mafaza",
+            "coord_lon": "57.40729",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.40729,
+            32.65943
+        ]
+    }
+}

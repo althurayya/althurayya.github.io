@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Milaḥ",
+            "cornu_URI": "MILAH_581E226N_S",
+            "toponym_arabic": "ملح",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Milah",
+            "toponym_arabic_other": "ملح",
+            "toponym_translit": "Milaḥ",
+            "coord_lat": "22.61105",
+            "toponym_search": "Milah",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "58.11018",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.11018,
+            22.61105
+        ]
+    }
+}

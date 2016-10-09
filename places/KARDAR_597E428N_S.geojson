@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kardar, Kurdar, Kurdur",
+            "cornu_URI": "KARDAR_597E428N_S",
+            "toponym_arabic": "كردر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kardar, Kurdar, Kurdur",
+            "toponym_arabic_other": "كردر، كردر، كردر",
+            "toponym_translit": "Kardar",
+            "coord_lat": "42.80533",
+            "toponym_search": "Kardar, Kurdar, Kurdur",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.79383",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.79383,
+            42.80533
+        ]
+    }
+}

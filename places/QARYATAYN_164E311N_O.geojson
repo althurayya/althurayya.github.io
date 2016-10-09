@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaryatayn",
+            "cornu_URI": "QARYATAYN_164E311N_O",
+            "toponym_arabic": "القريتين",
+            "top_type_orig": "site",
+            "toponym_buckwalter": "al-Qaryatayn",
+            "toponym_arabic_other": "القريتين",
+            "toponym_translit": "al-Qaryatayn",
+            "coord_lat": "31.18315",
+            "toponym_search": "al-Qaryatayn",
+            "region_code": "Barqa",
+            "coord_lon": "16.44486",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.44486,
+            31.18315
+        ]
+    }
+}

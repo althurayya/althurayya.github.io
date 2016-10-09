@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001553-000.json": {
+                "title": "نيكث",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nawīkaṯ",
+            "cornu_URI": "NAWIKATH_758E430N_S",
+            "toponym_arabic": "نويكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nawikath",
+            "toponym_arabic_other": "نويكث",
+            "toponym_translit": "Nawīkaṯ",
+            "coord_lat": "43.06700",
+            "toponym_search": "Nawikath",
+            "region_code": "Transoxiana",
+            "coord_lon": "75.87766",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.87766,
+            43.067
+        ]
+    }
+}

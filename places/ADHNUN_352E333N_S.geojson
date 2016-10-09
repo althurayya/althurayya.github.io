@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAḏnūn",
+            "cornu_URI": "ADHNUN_352E333N_S",
+            "toponym_arabic": "عذنون",
+            "top_type_orig": "site",
+            "toponym_buckwalter": "Adhnun",
+            "toponym_arabic_other": "عذنون",
+            "toponym_translit": "ʿAḏnūn",
+            "coord_lat": "33.39418",
+            "toponym_search": "Adhnun",
+            "region_code": "Sham",
+            "coord_lon": "35.26620",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.2662,
+            33.39418
+        ]
+    }
+}

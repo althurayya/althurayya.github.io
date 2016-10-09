@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marǧ al-Šayḫ",
+            "cornu_URI": "MARJSHAYKH_248E316N_S",
+            "toponym_arabic": "مرج الشيخ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Marj al-Shaykh",
+            "toponym_arabic_other": "مرج الشيخ",
+            "toponym_translit": "Marǧ al-Šayḫ",
+            "coord_lat": "31.67644",
+            "toponym_search": "Marj al-Shaykh",
+            "region_code": "Barqa",
+            "coord_lon": "24.83486",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.83486,
+            31.67644
+        ]
+    }
+}

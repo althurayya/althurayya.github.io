@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000993-000.json": {
+                "title": "طرابلس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000102-000.json": {
+                "title": "انطابلس",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṭrābulus, Ṭarābulus",
+            "cornu_URI": "ATRABULUS_358E344N_S",
+            "toponym_arabic": "أطرابلس",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Atrabulus, Tarabulus",
+            "toponym_arabic_other": "أطرابلس، طرابلس",
+            "toponym_translit": "Aṭrābulus",
+            "coord_lat": "34.44044",
+            "toponym_search": "Atrabulus, Tarabulus",
+            "region_code": "Sham",
+            "coord_lon": "35.85194",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.85194,
+            34.44044
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalansuwaŧ",
+            "cornu_URI": "QALANSUWA_349E322N_S",
+            "toponym_arabic": "قلنسوة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qalansuwa",
+            "toponym_arabic_other": "قلنسوة",
+            "toponym_translit": "Qalansuwaŧ",
+            "coord_lat": "32.29512",
+            "toponym_search": "Qalansuwa",
+            "region_code": "Sham",
+            "coord_lon": "34.98155",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.98155,
+            32.29512
+        ]
+    }
+}

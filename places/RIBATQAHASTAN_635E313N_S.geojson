@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Qahastān, Ribāṭ Hafšiyān",
+            "cornu_URI": "RIBATQAHASTAN_635E313N_S",
+            "toponym_arabic": "رباط قهستان",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Qahastan, Ribat Hafshiyan",
+            "toponym_arabic_other": "رباط قهستان، رباط هفشيان",
+            "toponym_translit": "Ribāṭ Qahastān",
+            "coord_lat": "31.36919",
+            "toponym_search": "Ribat Qahastan, Ribat Hafshiyan",
+            "region_code": "Sijistan",
+            "coord_lon": "63.54388",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.54388,
+            31.36919
+        ]
+    }
+}

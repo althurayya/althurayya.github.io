@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥusaynābāḏ",
+            "cornu_URI": "HUSAYNABADH_579E361N_S",
+            "toponym_arabic": "حسيناباذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Husaynabadh",
+            "toponym_arabic_other": "حسيناباذ",
+            "toponym_translit": "Ḥusaynābāḏ",
+            "coord_lat": "36.10768",
+            "toponym_search": "Husaynabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "57.92813",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.92813,
+            36.10768
+        ]
+    }
+}

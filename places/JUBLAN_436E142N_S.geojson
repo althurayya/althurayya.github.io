@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧublān",
+            "cornu_URI": "JUBLAN_436E142N_S",
+            "toponym_arabic": "جبلان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jublan",
+            "toponym_arabic_other": "جبلان",
+            "toponym_translit": "Ǧublān",
+            "coord_lat": "14.27880",
+            "toponym_search": "Jublan",
+            "region_code": "Yemen",
+            "coord_lon": "43.67157",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.67157,
+            14.2788
+        ]
+    }
+}

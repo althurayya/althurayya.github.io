@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Basmad",
+            "cornu_URI": "BASMAD_708E291N_S",
+            "toponym_arabic": "بسمد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Basmad",
+            "toponym_arabic_other": "بسمد",
+            "toponym_translit": "Basmad",
+            "coord_lat": "29.12094",
+            "toponym_search": "Basmad",
+            "region_code": "Sind",
+            "coord_lon": "70.87350",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.8735,
+            29.12094
+        ]
+    }
+}

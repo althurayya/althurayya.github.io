@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001594-000.json": {
+                "title": "وادي السباع",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī al-Sibāʿ",
+            "cornu_URI": "WADISIBA_409E344N_S",
+            "toponym_arabic": "وادي السباع",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Wadi al-Siba",
+            "toponym_arabic_other": "وادي السباع",
+            "toponym_translit": "Wādī al-Sibāʿ",
+            "coord_lat": "34.42004",
+            "toponym_search": "Wadi al-Siba",
+            "region_code": "Aqur",
+            "coord_lon": "40.92477",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.92477,
+            34.42004
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000256-000.json": {
+                "title": "البطايح",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baṭāʾiḥ, al-Baṭīḥaŧ",
+            "cornu_URI": "BATAIH_452E319N_R",
+            "toponym_arabic": "البطائح",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Bataih, al-Batiha",
+            "toponym_arabic_other": "البطائح، البطيحة",
+            "toponym_translit": "al-Baṭāʾiḥ",
+            "coord_lat": "31.98716",
+            "toponym_search": "al-Bataih, al-Batiha",
+            "region_code": "Iraq",
+            "coord_lon": "45.29796",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.29796,
+            31.98716
+        ]
+    }
+}

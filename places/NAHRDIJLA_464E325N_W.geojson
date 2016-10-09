@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Diǧlaŧ",
+            "cornu_URI": "NAHRDIJLA_464E325N_W",
+            "toponym_arabic": "نهر دجلة",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Dijla",
+            "toponym_arabic_other": "نهر دجلة",
+            "toponym_translit": "Nahr Diǧlaŧ",
+            "coord_lat": "32.54047",
+            "toponym_search": "Nahr Dijla",
+            "region_code": "Iraq",
+            "coord_lon": "46.46676",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.46676,
+            32.54047
+        ]
+    }
+}

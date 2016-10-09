@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫusrawǧird",
+            "cornu_URI": "KHUSRAWJIRD_574E361N_S",
+            "toponym_arabic": "خسروجرد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khusrawjird",
+            "toponym_arabic_other": "خسروجرد",
+            "toponym_translit": "Ḫusrawǧird",
+            "coord_lat": "36.18956",
+            "toponym_search": "Khusrawjird",
+            "region_code": "Khurasan",
+            "coord_lon": "57.47851",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.47851,
+            36.18956
+        ]
+    }
+}

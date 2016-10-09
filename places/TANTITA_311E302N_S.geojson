@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tantītā, Ṭant",
+            "cornu_URI": "TANTITA_311E302N_S",
+            "toponym_arabic": "تنتيتا",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Tantita, Tant",
+            "toponym_arabic_other": "تنتيتا، طنت",
+            "toponym_translit": "Tantītā",
+            "coord_lat": "30.27628",
+            "toponym_search": "Tantita, Tant",
+            "region_code": "Egypt",
+            "coord_lon": "31.10165",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.10165,
+            30.27628
+        ]
+    }
+}

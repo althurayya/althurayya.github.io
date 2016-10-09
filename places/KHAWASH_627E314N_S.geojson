@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawāš, Ḫuwāš, Aḫwāš",
+            "cornu_URI": "KHAWASH_627E314N_S",
+            "toponym_arabic": "خواش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khawash, Khuwash, Akhwash",
+            "toponym_arabic_other": "خواش، خواش، أخواش",
+            "toponym_translit": "Ḫawāš",
+            "coord_lat": "31.49499",
+            "toponym_search": "Khawash, Khuwash, Akhwash",
+            "region_code": "Sijistan",
+            "coord_lon": "62.76028",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.76028,
+            31.49499
+        ]
+    }
+}

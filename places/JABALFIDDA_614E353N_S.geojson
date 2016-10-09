@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal al-Fiḍḍaŧ, Kūh-I Sīm",
+            "cornu_URI": "JABALFIDDA_614E353N_S",
+            "toponym_arabic": "جبل الفضة",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Jabal al-Fidda, Kuh-I Sim",
+            "toponym_arabic_other": "جبل الفضة، كوهإ سيم",
+            "toponym_translit": "Ǧabal al-Fiḍḍaŧ",
+            "coord_lat": "35.31157",
+            "toponym_search": "Jabal al-Fidda, Kuh-I Sim",
+            "region_code": "Khurasan",
+            "coord_lon": "61.44101",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.44101,
+            35.31157
+        ]
+    }
+}

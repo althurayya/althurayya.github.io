@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000243-000.json": {
+                "title": "بردي",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baradá",
+            "cornu_URI": "BARADA_364E334N_W",
+            "toponym_arabic": "بردى",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Barada",
+            "toponym_arabic_other": "بردى",
+            "toponym_translit": "Baradá",
+            "coord_lat": "33.48862",
+            "toponym_search": "Barada",
+            "region_code": "Sham",
+            "coord_lon": "36.47275",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.47275,
+            33.48862
+        ]
+    }
+}

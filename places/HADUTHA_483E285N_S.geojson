@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000504-000.json": {
+                "title": "الحديثه",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥadūṯaŧ",
+            "cornu_URI": "HADUTHA_483E285N_S",
+            "toponym_arabic": "الحدوثة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Hadutha",
+            "toponym_arabic_other": "الحدوثة",
+            "toponym_translit": "al-Ḥadūṯaŧ",
+            "coord_lat": "28.54666",
+            "toponym_search": "al-Hadutha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "48.37368",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.37368,
+            28.54666
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000161-000.json": {
+                "title": "اسيوط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asyūṭ",
+            "cornu_URI": "ASYUT_311E271N_S",
+            "toponym_arabic": "أسيوط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asyut",
+            "toponym_arabic_other": "أسيوط",
+            "toponym_translit": "Asyūṭ",
+            "coord_lat": "27.17922",
+            "toponym_search": "Asyut",
+            "region_code": "Egypt",
+            "coord_lon": "31.18485",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.18485,
+            27.17922
+        ]
+    }
+}

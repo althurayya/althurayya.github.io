@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣābāṭ",
+            "cornu_URI": "SABAT_687E399N_S",
+            "toponym_arabic": "صاباط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sabat",
+            "toponym_arabic_other": "صاباط",
+            "toponym_translit": "Ṣābāṭ",
+            "coord_lat": "39.99901",
+            "toponym_search": "Sabat",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.76220",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.7622,
+            39.99901
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000488-000.json": {
+                "title": "الجيزه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧīzaŧ",
+            "cornu_URI": "JIZA_312E300N_S",
+            "toponym_arabic": "الجيزة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Jiza",
+            "toponym_arabic_other": "الجيزة",
+            "toponym_translit": "al-Ǧīzaŧ",
+            "coord_lat": "30.00653",
+            "toponym_search": "al-Jiza",
+            "region_code": "Egypt",
+            "coord_lon": "31.20183",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.20183,
+            30.00653
+        ]
+    }
+}

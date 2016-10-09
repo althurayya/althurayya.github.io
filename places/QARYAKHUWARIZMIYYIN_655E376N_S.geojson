@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-Ḫuwārizmiyyīn",
+            "cornu_URI": "QARYAKHUWARIZMIYYIN_655E376N_S",
+            "toponym_arabic": "قرية الخوارزميين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qarya al-Khuwarizmiyyin",
+            "toponym_arabic_other": "قرية الخوارزميين",
+            "toponym_translit": "Qaryaŧ al-Ḫuwārizmiyyīn",
+            "coord_lat": "37.69255",
+            "toponym_search": "Qarya al-Khuwarizmiyyin",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.56778",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.56778,
+            37.69255
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001089-000.json": {
+                "title": "عيذاب",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAyḏab",
+            "cornu_URI": "AYDHAB_362E224N_S",
+            "toponym_arabic": "عيذب",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "Aydhab",
+            "toponym_arabic_other": "عيذب",
+            "toponym_translit": "ʿAyḏab",
+            "coord_lat": "22.48899",
+            "toponym_search": "Aydhab",
+            "region_code": "Egypt",
+            "coord_lon": "36.24428",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.24428,
+            22.48899
+        ]
+    }
+}

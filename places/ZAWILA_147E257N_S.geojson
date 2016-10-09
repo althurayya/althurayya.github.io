@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000761-000.json": {
+                "title": "زويله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zawīlaŧ, Zawīlaŧ b. al-Ḫaṭṭ_ab",
+            "cornu_URI": "ZAWILA_147E257N_S",
+            "toponym_arabic": "زويلة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Zawila, Zawila b. al-Khattab",
+            "toponym_arabic_other": "زويلة، زويلة بن الخطاب",
+            "toponym_translit": "Zawīlaŧ",
+            "coord_lat": "25.78099",
+            "toponym_search": "Zawila, Zawila b. al-Khattab",
+            "region_code": "Barqa",
+            "coord_lon": "14.78841",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78841,
+            25.78099
+        ]
+    }
+}

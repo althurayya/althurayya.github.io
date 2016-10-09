@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000128-000.json": {
+                "title": "اصبهان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iṣbahān, Iṣfahān",
+            "cornu_URI": "ISBAHAN_516E326N_R",
+            "toponym_arabic": "إصبهان",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Isbahan, Isfahan",
+            "toponym_arabic_other": "إصبهان، إصفهان",
+            "toponym_translit": "Iṣbahān",
+            "coord_lat": "32.66855",
+            "toponym_search": "Isbahan, Isfahan",
+            "region_code": "Jibal",
+            "coord_lon": "51.65000",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.65,
+            32.66855
+        ]
+    }
+}

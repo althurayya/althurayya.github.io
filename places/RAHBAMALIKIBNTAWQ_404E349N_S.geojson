@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000685-000.json": {
+                "title": "رحبه مالك بن طوق",
+                "rate": 94,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raḥbaŧ Malik Ibn Ṭawq",
+            "cornu_URI": "RAHBAMALIKIBNTAWQ_404E349N_S",
+            "toponym_arabic": "رحبة ملك إبن طوق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rahba Malik Ibn Tawq",
+            "toponym_arabic_other": "رحبة ملك إبن طوق",
+            "toponym_translit": "Raḥbaŧ Malik Ibn Ṭawq",
+            "coord_lat": "34.98817",
+            "toponym_search": "Rahba Malik Ibn Tawq",
+            "region_code": "Aqur",
+            "coord_lon": "40.45784",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.45784,
+            34.98817
+        ]
+    }
+}

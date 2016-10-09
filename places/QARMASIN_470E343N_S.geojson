@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001183-000.json": {
+                "title": "قرميسين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarmāsīn, Qarmīsīn",
+            "cornu_URI": "QARMASIN_470E343N_S",
+            "toponym_arabic": "قرماسين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarmasin, Qarmisin",
+            "toponym_arabic_other": "قرماسين، قرميسين",
+            "toponym_translit": "Qarmāsīn",
+            "coord_lat": "34.32388",
+            "toponym_search": "Qarmasin, Qarmisin",
+            "region_code": "Jibal",
+            "coord_lon": "47.09845",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.09845,
+            34.32388
+        ]
+    }
+}

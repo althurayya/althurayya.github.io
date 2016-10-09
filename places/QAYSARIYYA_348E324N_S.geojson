@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001262-000.json": {
+                "title": "قيساريه",
+                "rate": 92,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaysariyyaŧ",
+            "cornu_URI": "QAYSARIYYA_348E324N_S",
+            "toponym_arabic": "قيسرية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qaysariyya",
+            "toponym_arabic_other": "قيسرية",
+            "toponym_translit": "Qaysariyyaŧ",
+            "coord_lat": "32.49326",
+            "toponym_search": "Qaysariyya",
+            "region_code": "Sham",
+            "coord_lon": "34.89906",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.89906,
+            32.49326
+        ]
+    }
+}

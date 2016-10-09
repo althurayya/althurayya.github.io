@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ṯarṯār",
+            "cornu_URI": "NAHRTHARTHAR_430E350N_W",
+            "toponym_arabic": "نهر ثرثار",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Tharthar",
+            "toponym_arabic_other": "نهر ثرثار",
+            "toponym_translit": "Nahr Ṯarṯār",
+            "coord_lat": "35.00028",
+            "toponym_search": "Nahr Tharthar",
+            "region_code": "Aqur",
+            "coord_lon": "43.04545",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.04545,
+            35.00028
+        ]
+    }
+}

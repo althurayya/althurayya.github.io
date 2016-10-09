@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001635-000.json": {
+                "title": "يافه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yāfā, Yāfaŧ",
+            "cornu_URI": "YAFA_347E320N_S",
+            "toponym_arabic": "يافا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Yafa, Yafa",
+            "toponym_arabic_other": "يافا، يافة",
+            "toponym_translit": "Yāfā",
+            "coord_lat": "32.06237",
+            "toponym_search": "Yafa, Yafa",
+            "region_code": "Sham",
+            "coord_lon": "34.75362",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.75362,
+            32.06237
+        ]
+    }
+}

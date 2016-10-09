@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḫyās",
+            "cornu_URI": "AKHYAS_130E381N_S",
+            "toponym_arabic": "أخياس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Akhyas",
+            "toponym_arabic_other": "أخياس",
+            "toponym_translit": "Aḫyās",
+            "coord_lat": "38.13882",
+            "toponym_search": "Akhyas",
+            "region_code": "Sicile",
+            "coord_lon": "13.09201",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.09201,
+            38.13882
+        ]
+    }
+}

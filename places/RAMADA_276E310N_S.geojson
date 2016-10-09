@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000691-000.json": {
+                "title": "الرماده",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ramādaŧ",
+            "cornu_URI": "RAMADA_276E310N_S",
+            "toponym_arabic": "رمادة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ramada",
+            "toponym_arabic_other": "رمادة",
+            "toponym_translit": "Ramādaŧ",
+            "coord_lat": "31.02336",
+            "toponym_search": "Ramada",
+            "region_code": "Barqa",
+            "coord_lon": "27.61485",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.61485,
+            31.02336
+        ]
+    }
+}

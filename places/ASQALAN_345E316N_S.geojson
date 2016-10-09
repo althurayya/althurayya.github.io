@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001072-000.json": {
+                "title": "عسقلان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAsqalān",
+            "cornu_URI": "ASQALAN_345E316N_S",
+            "toponym_arabic": "عسقلان",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Asqalan",
+            "toponym_arabic_other": "عسقلان",
+            "toponym_translit": "ʿAsqalān",
+            "coord_lat": "31.66572",
+            "toponym_search": "Asqalan",
+            "region_code": "Sham",
+            "coord_lon": "34.55455",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.55455,
+            31.66572
+        ]
+    }
+}

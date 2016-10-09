@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000417-000.json": {
+                "title": "الجار",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000474-000.json": {
+                "title": "الجفار",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧār",
+            "cornu_URI": "JAR_385E238N_S",
+            "toponym_arabic": "الجار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Jar",
+            "toponym_arabic_other": "الجار",
+            "toponym_translit": "al-Ǧār",
+            "coord_lat": "23.81820",
+            "toponym_search": "al-Jar",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "38.50713",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.50713,
+            23.8182
+        ]
+    }
+}

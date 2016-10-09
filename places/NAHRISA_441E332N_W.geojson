@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr ʿIsá",
+            "cornu_URI": "NAHRISA_441E332N_W",
+            "toponym_arabic": "نهر عسى",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr Isa",
+            "toponym_arabic_other": "نهر عسى",
+            "toponym_translit": "Nahr ʿIsá",
+            "coord_lat": "33.26692",
+            "toponym_search": "Nahr Isa",
+            "region_code": "Iraq",
+            "coord_lon": "44.13579",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.13579,
+            33.26692
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000707-000.json": {
+                "title": "روذبار",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ruḏbār, Ruḏbāl",
+            "cornu_URI": "RUDHBAR_577E278N_R",
+            "toponym_arabic": "رذبار",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Rudhbar, Rudhbal",
+            "toponym_arabic_other": "رذبار، رذبال",
+            "toponym_translit": "Ruḏbār",
+            "coord_lat": "27.82747",
+            "toponym_search": "Rudhbar, Rudhbal",
+            "region_code": "Kirman",
+            "coord_lon": "57.73088",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.73088,
+            27.82747
+        ]
+    }
+}

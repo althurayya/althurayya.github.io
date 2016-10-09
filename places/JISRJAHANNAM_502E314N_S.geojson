@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧisr Ǧahannam",
+            "cornu_URI": "JISRJAHANNAM_502E314N_S",
+            "toponym_arabic": "جسر جهنم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jisr Jahannam",
+            "toponym_arabic_other": "جسر جهنم",
+            "toponym_translit": "Ǧisr Ǧahannam",
+            "coord_lat": "31.47670",
+            "toponym_search": "Jisr Jahannam",
+            "region_code": "Khuzistan",
+            "coord_lon": "50.23675",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.23675,
+            31.4767
+        ]
+    }
+}

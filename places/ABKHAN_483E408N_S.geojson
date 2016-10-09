@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000197-000.json": {
+                "title": "ايكجان",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000729-000.json": {
+                "title": "الزابان",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000057-000.json": {
+                "title": "الاخوان",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Abḫān, Lāyiǧān, Layzān, Līzān, Līrān",
+            "cornu_URI": "ABKHAN_483E408N_S",
+            "toponym_arabic": "الأبخان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Abkhan, Layijan, Layzan, Lizan, Liran",
+            "toponym_arabic_other": "الأبخان، لايجان، ليزان، ليزان، ليران",
+            "toponym_translit": "al-Abḫān",
+            "coord_lat": "40.88004",
+            "toponym_search": "al-Abkhan, Layijan, Layzan, Lizan, Liran",
+            "region_code": "Rihab",
+            "coord_lon": "48.38086",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.38086,
+            40.88004
+        ]
+    }
+}

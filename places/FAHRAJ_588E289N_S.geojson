@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fahraǧ",
+            "cornu_URI": "FAHRAJ_588E289N_S",
+            "toponym_arabic": "الفهرج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Fahraj",
+            "toponym_arabic_other": "الفهرج",
+            "toponym_translit": "al-Fahraǧ",
+            "coord_lat": "28.97908",
+            "toponym_search": "al-Fahraj",
+            "region_code": "Kirman",
+            "coord_lon": "58.88326",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.88326,
+            28.97908
+        ]
+    }
+}

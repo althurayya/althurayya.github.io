@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šabūrqān, Ušbūrqān",
+            "cornu_URI": "SHABURQAN_657E366N_S",
+            "toponym_arabic": "شبورقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shaburqan, Ushburqan",
+            "toponym_arabic_other": "شبورقان، أشبورقان",
+            "toponym_translit": "Šabūrqān",
+            "coord_lat": "36.65136",
+            "toponym_search": "Shaburqan, Ushburqan",
+            "region_code": "Khurasan",
+            "coord_lon": "65.78352",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.78352,
+            36.65136
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000486-000.json": {
+                "title": "الجولان",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000057-000.json": {
+                "title": "الاخوان",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000578-000.json": {
+                "title": "خولان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫawlān",
+            "cornu_URI": "KHAWLAN_446E152N_R",
+            "toponym_arabic": "الخولان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Khawlan",
+            "toponym_arabic_other": "الخولان",
+            "toponym_translit": "al-Ḫawlān",
+            "coord_lat": "15.28324",
+            "toponym_search": "al-Khawlan",
+            "region_code": "Yemen",
+            "coord_lon": "44.69438",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.69438,
+            15.28324
+        ]
+    }
+}

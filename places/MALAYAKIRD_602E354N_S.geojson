@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mālāyakird",
+            "cornu_URI": "MALAYAKIRD_602E354N_S",
+            "toponym_arabic": "مالايكرد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Malayakird",
+            "toponym_arabic_other": "مالايكرد",
+            "toponym_translit": "Mālāyakird",
+            "coord_lat": "35.41670",
+            "toponym_search": "Malayakird",
+            "region_code": "Khurasan",
+            "coord_lon": "60.29878",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.29878,
+            35.4167
+        ]
+    }
+}

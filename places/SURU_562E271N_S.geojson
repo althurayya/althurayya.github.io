@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūrū",
+            "cornu_URI": "SURU_562E271N_S",
+            "toponym_arabic": "سورو",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Suru",
+            "toponym_arabic_other": "سورو",
+            "toponym_translit": "Sūrū",
+            "coord_lat": "27.19067",
+            "toponym_search": "Suru",
+            "region_code": "Faris",
+            "coord_lon": "56.21348",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.21348,
+            27.19067
+        ]
+    }
+}

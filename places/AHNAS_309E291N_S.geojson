@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000173-000.json": {
+                "title": "اهناس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ahnās",
+            "cornu_URI": "AHNAS_309E291N_S",
+            "toponym_arabic": "أهناس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ahnas",
+            "toponym_arabic_other": "أهناس",
+            "toponym_translit": "Ahnās",
+            "coord_lat": "29.13124",
+            "toponym_search": "Ahnas",
+            "region_code": "Egypt",
+            "coord_lon": "30.95992",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.95992,
+            29.13124
+        ]
+    }
+}

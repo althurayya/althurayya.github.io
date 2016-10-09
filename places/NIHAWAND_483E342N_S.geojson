@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001544-000.json": {
+                "title": "نهاوند",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nihāwand, Māh al-Baṣraŧ",
+            "cornu_URI": "NIHAWAND_483E342N_S",
+            "toponym_arabic": "نهاوند",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Nihawand, Mah al-Basra",
+            "toponym_arabic_other": "نهاوند، ماه البصرة",
+            "toponym_translit": "Nihāwand",
+            "coord_lat": "34.21512",
+            "toponym_search": "Nihawand, Mah al-Basra",
+            "region_code": "Jibal",
+            "coord_lon": "48.39263",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.39263,
+            34.21512
+        ]
+    }
+}

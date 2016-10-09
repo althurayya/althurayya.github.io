@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000679-000.json": {
+                "title": "رامهرمز",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rām Hurmuz, Rāmahurmuz",
+            "cornu_URI": "RAMHURMUZ_496E312N_S",
+            "toponym_arabic": "رام هرمز",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Ram Hurmuz, Ramahurmuz",
+            "toponym_arabic_other": "رام هرمز، رامهرمز",
+            "toponym_translit": "Rām Hurmuz",
+            "coord_lat": "31.28576",
+            "toponym_search": "Ram Hurmuz, Ramahurmuz",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.60131",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.60131,
+            31.28576
+        ]
+    }
+}

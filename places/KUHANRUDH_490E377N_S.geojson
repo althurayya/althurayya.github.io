@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kuhanrūḏ",
+            "cornu_URI": "KUHANRUDH_490E377N_S",
+            "toponym_arabic": "كهنروذ",
+            "top_type_orig": "port/etape",
+            "toponym_buckwalter": "Kuhanrudh",
+            "toponym_arabic_other": "كهنروذ",
+            "toponym_translit": "Kuhanrūḏ",
+            "coord_lat": "37.79153",
+            "toponym_search": "Kuhanrudh",
+            "region_code": "Daylam",
+            "coord_lon": "49.00372",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.00372,
+            37.79153
+        ]
+    }
+}

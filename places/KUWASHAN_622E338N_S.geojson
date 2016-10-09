@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001317-000.json": {
+                "title": "كوشان",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kuwāšān",
+            "cornu_URI": "KUWASHAN_622E338N_S",
+            "toponym_arabic": "كواشان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kuwashan",
+            "toponym_arabic_other": "كواشان",
+            "toponym_translit": "Kuwāšān",
+            "coord_lat": "33.85099",
+            "toponym_search": "Kuwashan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.22016",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.22016,
+            33.85099
+        ]
+    }
+}

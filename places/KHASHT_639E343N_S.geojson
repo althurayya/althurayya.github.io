@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫašt, Ḫast, Ḫāst, Ḫwašt",
+            "cornu_URI": "KHASHT_639E343N_S",
+            "toponym_arabic": "خشت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khasht, Khast, Khast, Khwasht",
+            "toponym_arabic_other": "خشت، خست، خاست، خوشت",
+            "toponym_translit": "Ḫašt",
+            "coord_lat": "34.34906",
+            "toponym_search": "Khasht, Khast, Khast, Khwasht",
+            "region_code": "Khurasan",
+            "coord_lon": "63.94658",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.94658,
+            34.34906
+        ]
+    }
+}

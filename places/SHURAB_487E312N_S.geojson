@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šūrāb",
+            "cornu_URI": "SHURAB_487E312N_S",
+            "toponym_arabic": "شوراب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shurab",
+            "toponym_arabic_other": "شوراب",
+            "toponym_translit": "Šūrāb",
+            "coord_lat": "31.20731",
+            "toponym_search": "Shurab",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.79726",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.79726,
+            31.20731
+        ]
+    }
+}

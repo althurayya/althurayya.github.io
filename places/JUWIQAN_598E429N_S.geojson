@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuwīqān",
+            "cornu_URI": "JUWIQAN_598E429N_S",
+            "toponym_arabic": "جويقان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Juwiqan",
+            "toponym_arabic_other": "جويقان",
+            "toponym_translit": "Ǧuwīqān",
+            "coord_lat": "42.94872",
+            "toponym_search": "Juwiqan",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.88682",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.88682,
+            42.94872
+        ]
+    }
+}

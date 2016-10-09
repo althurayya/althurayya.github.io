@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000262-000.json": {
+                "title": "بلخ",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balḫ",
+            "cornu_URI": "BALKH_668E367N_S",
+            "toponym_arabic": "بلخ",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Balkh",
+            "toponym_arabic_other": "بلخ",
+            "toponym_translit": "Balḫ",
+            "coord_lat": "36.78497",
+            "toponym_search": "Balkh",
+            "region_code": "Khurasan",
+            "coord_lon": "66.88305",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.88305,
+            36.78497
+        ]
+    }
+}

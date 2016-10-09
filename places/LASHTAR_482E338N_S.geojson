@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Lāštar",
+            "cornu_URI": "LASHTAR_482E338N_S",
+            "toponym_arabic": "لاشتر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Lashtar",
+            "toponym_arabic_other": "لاشتر",
+            "toponym_translit": "Lāštar",
+            "coord_lat": "33.86750",
+            "toponym_search": "Lashtar",
+            "region_code": "Jibal",
+            "coord_lon": "48.25553",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.25553,
+            33.8675
+        ]
+    }
+}

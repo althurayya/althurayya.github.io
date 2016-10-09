@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Damṯ",
+            "cornu_URI": "DAMTH_447E141N_S",
+            "toponym_arabic": "دمث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Damth",
+            "toponym_arabic_other": "دمث",
+            "toponym_translit": "Damṯ",
+            "coord_lat": "14.16433",
+            "toponym_search": "Damth",
+            "region_code": "Yemen",
+            "coord_lon": "44.74355",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.74355,
+            14.16433
+        ]
+    }
+}

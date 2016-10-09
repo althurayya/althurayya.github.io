@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000400-000.json": {
+                "title": "التينات",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīnāt, Ḥiṣn al-Tīnāt",
+            "cornu_URI": "TINAT_361E368N_S",
+            "toponym_arabic": "تينات",
+            "top_type_orig": "placeforte",
+            "toponym_buckwalter": "Tinat, Hisn al-Tinat",
+            "toponym_arabic_other": "تينات، حصن التينات",
+            "toponym_translit": "Tīnāt",
+            "coord_lat": "36.86458",
+            "toponym_search": "Tinat, Hisn al-Tinat",
+            "region_code": "Sham",
+            "coord_lon": "36.16107",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.16107,
+            36.86458
+        ]
+    }
+}

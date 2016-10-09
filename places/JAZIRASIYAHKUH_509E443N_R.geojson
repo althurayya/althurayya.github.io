@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Siyāh Kūh",
+            "cornu_URI": "JAZIRASIYAHKUH_509E443N_R",
+            "toponym_arabic": "جزيرة سياه كوه",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jazira Siyah Kuh",
+            "toponym_arabic_other": "جزيرة سياه كوه",
+            "toponym_translit": "Ǧazīraŧ Siyāh Kūh",
+            "coord_lat": "44.33997",
+            "toponym_search": "Jazira Siyah Kuh",
+            "region_code": "Khazar",
+            "coord_lon": "50.92627",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.92627,
+            44.33997
+        ]
+    }
+}

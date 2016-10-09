@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Quṣdār",
+            "cornu_URI": "QUSDAR_665E277N_S",
+            "toponym_arabic": "قصدار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qusdar",
+            "toponym_arabic_other": "قصدار",
+            "toponym_translit": "Quṣdār",
+            "coord_lat": "27.77650",
+            "toponym_search": "Qusdar",
+            "region_code": "Sind",
+            "coord_lon": "66.59495",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.59495,
+            27.7765
+        ]
+    }
+}

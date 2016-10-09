@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫizānaŧ",
+            "cornu_URI": "KHIZANA_425E339N_S",
+            "toponym_arabic": "الخزانة",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "al-Khizana",
+            "toponym_arabic_other": "الخزانة",
+            "toponym_translit": "al-Ḫizānaŧ",
+            "coord_lat": "33.98430",
+            "toponym_search": "al-Khizana",
+            "region_code": "Aqur",
+            "coord_lon": "42.50069",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.50069,
+            33.9843
+        ]
+    }
+}

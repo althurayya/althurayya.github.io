@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001601-000.json": {
+                "title": "وادي الحجاره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī al-Ḥijāraŧ",
+            "cornu_URI": "WADIHIJARA_031W406N_R",
+            "toponym_arabic": "وادي الحجارة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Wadi al-Hijara",
+            "toponym_arabic_other": "وادي الحجارة",
+            "toponym_translit": "Wādī al-Ḥijāraŧ",
+            "coord_lat": "40.64910",
+            "toponym_search": "Wadi al-Hijara",
+            "region_code": "Andalus",
+            "coord_lon": "-3.15111",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.15111,
+            40.6491
+        ]
+    }
+}

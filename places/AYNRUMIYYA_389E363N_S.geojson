@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAyn al-Rūmiyyaŧ",
+            "cornu_URI": "AYNRUMIYYA_389E363N_S",
+            "toponym_arabic": "عين الرومية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ayn al-Rumiyya",
+            "toponym_arabic_other": "عين الرومية",
+            "toponym_translit": "ʿAyn al-Rūmiyyaŧ",
+            "coord_lat": "36.34984",
+            "toponym_search": "Ayn al-Rumiyya",
+            "region_code": "Aqur",
+            "coord_lon": "38.91206",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.91206,
+            36.34984
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rafaniyyaŧ",
+            "cornu_URI": "RAFANIYYA_364E349N_S",
+            "toponym_arabic": "رفنية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rafaniyya",
+            "toponym_arabic_other": "رفنية",
+            "toponym_translit": "Rafaniyyaŧ",
+            "coord_lat": "34.93133",
+            "toponym_search": "Rafaniyya",
+            "region_code": "Sham",
+            "coord_lon": "36.41054",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.41054,
+            34.93133
+        ]
+    }
+}

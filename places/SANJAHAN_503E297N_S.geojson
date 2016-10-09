@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sanǧāhān",
+            "cornu_URI": "SANJAHAN_503E297N_S",
+            "toponym_arabic": "سنجاهان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sanjahan",
+            "toponym_arabic_other": "سنجاهان",
+            "toponym_translit": "Sanǧāhān",
+            "coord_lat": "29.74023",
+            "toponym_search": "Sanjahan",
+            "region_code": "Faris",
+            "coord_lon": "50.38864",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.38864,
+            29.74023
+        ]
+    }
+}

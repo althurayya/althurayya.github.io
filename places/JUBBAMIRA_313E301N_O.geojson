@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧubb ʿAmīraŧ",
+            "cornu_URI": "JUBBAMIRA_313E301N_O",
+            "toponym_arabic": "جب عميرة",
+            "top_type_orig": "lieu",
+            "toponym_buckwalter": "Jubb Amira",
+            "toponym_arabic_other": "جب عميرة",
+            "toponym_translit": "Ǧubb ʿAmīraŧ",
+            "coord_lat": "30.16070",
+            "toponym_search": "Jubb Amira",
+            "region_code": "Egypt",
+            "coord_lon": "31.38569",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.38569,
+            30.1607
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000080-000.json": {
+                "title": "ارجونه",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arǧidūnaŧ",
+            "cornu_URI": "ARJIDUNA_044W370N_S",
+            "toponym_arabic": "أرجدونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arjiduna",
+            "toponym_arabic_other": "أرجدونة",
+            "toponym_translit": "Arǧidūnaŧ",
+            "coord_lat": "37.08687",
+            "toponym_search": "Arjiduna",
+            "region_code": "Andalus",
+            "coord_lon": "-4.42886",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.42886,
+            37.08687
+        ]
+    }
+}

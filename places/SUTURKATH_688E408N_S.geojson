@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sutūrkaṯ, Uštūrkaṯ",
+            "cornu_URI": "SUTURKATH_688E408N_S",
+            "toponym_arabic": "ستوركث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Suturkath, Ushturkath",
+            "toponym_arabic_other": "ستوركث، أشتوركث",
+            "toponym_translit": "Sutūrkaṯ",
+            "coord_lat": "40.88768",
+            "toponym_search": "Suturkath, Ushturkath",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.87652",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.87652,
+            40.88768
+        ]
+    }
+}

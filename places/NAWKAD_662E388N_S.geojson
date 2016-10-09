@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nawkād, Nūqād Qurayš",
+            "cornu_URI": "NAWKAD_662E388N_S",
+            "toponym_arabic": "نوكاد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nawkad, Nuqad Quraysh",
+            "toponym_arabic_other": "نوكاد، نوقاد قريش",
+            "toponym_translit": "Nawkād",
+            "coord_lat": "38.84309",
+            "toponym_search": "Nawkad, Nuqad Quraysh",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.29094",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.29094,
+            38.84309
+        ]
+    }
+}

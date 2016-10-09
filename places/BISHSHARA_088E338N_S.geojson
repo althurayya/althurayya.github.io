@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000294-000.json": {
+                "title": "بشري",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biššará, Bišrī",
+            "cornu_URI": "BISHSHARA_088E338N_S",
+            "toponym_arabic": "بشرى",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Bishshara, Bishri",
+            "toponym_arabic_other": "بشرى، بشري",
+            "toponym_translit": "Biššará",
+            "coord_lat": "33.80380",
+            "toponym_search": "Bishshara, Bishri",
+            "region_code": "Maghrib",
+            "coord_lon": "8.81609",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81609,
+            33.8038
+        ]
+    }
+}

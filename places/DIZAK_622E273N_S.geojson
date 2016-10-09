@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dizak",
+            "cornu_URI": "DIZAK_622E273N_S",
+            "toponym_arabic": "دزك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dizak",
+            "toponym_arabic_other": "دزك",
+            "toponym_translit": "Dizak",
+            "coord_lat": "27.36457",
+            "toponym_search": "Dizak",
+            "region_code": "Sind",
+            "coord_lon": "62.26752",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.26752,
+            27.36457
+        ]
+    }
+}

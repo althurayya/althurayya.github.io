@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Diyār Muḍar",
+            "cornu_URI": "DIYARMUDAR_389E365N_R",
+            "toponym_arabic": "ديار مضر",
+            "top_type_orig": "circonscription",
+            "toponym_buckwalter": "Diyar Mudar",
+            "toponym_arabic_other": "ديار مضر",
+            "toponym_translit": "Diyār Muḍar",
+            "coord_lat": "36.56338",
+            "toponym_search": "Diyar Mudar",
+            "region_code": "Aqur",
+            "coord_lon": "38.98256",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.98256,
+            36.56338
+        ]
+    }
+}

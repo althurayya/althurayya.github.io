@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAmq",
+            "cornu_URI": "AMQ_364E363N_S",
+            "toponym_arabic": "عمق",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Amq",
+            "toponym_arabic_other": "عمق",
+            "toponym_translit": "ʿAmq",
+            "coord_lat": "36.38345",
+            "toponym_search": "Amq",
+            "region_code": "Sham",
+            "coord_lon": "36.47102",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.47102,
+            36.38345
+        ]
+    }
+}

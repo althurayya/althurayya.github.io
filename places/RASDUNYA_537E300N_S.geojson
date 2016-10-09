@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raʾs al-Dunyā",
+            "cornu_URI": "RASDUNYA_537E300N_S",
+            "toponym_arabic": "رأس الدنيا",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ras al-Dunya",
+            "toponym_arabic_other": "رأس الدنيا",
+            "toponym_translit": "Raʾs al-Dunyā",
+            "coord_lat": "30.00577",
+            "toponym_search": "Ras al-Dunya",
+            "region_code": "Faris",
+            "coord_lon": "53.78841",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.78841,
+            30.00577
+        ]
+    }
+}

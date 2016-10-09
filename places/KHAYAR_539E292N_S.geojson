@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫayār, Ḫayr, Ḫayraŧ",
+            "cornu_URI": "KHAYAR_539E292N_S",
+            "toponym_arabic": "خيار",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Khayar, Khayr, Khayra",
+            "toponym_arabic_other": "خيار، خير، خيرة",
+            "toponym_translit": "Ḫayār",
+            "coord_lat": "29.25944",
+            "toponym_search": "Khayar, Khayr, Khayra",
+            "region_code": "Faris",
+            "coord_lon": "53.93868",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.93868,
+            29.25944
+        ]
+    }
+}

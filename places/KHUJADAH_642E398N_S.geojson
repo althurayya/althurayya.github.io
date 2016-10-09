@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫuǧādah",
+            "cornu_URI": "KHUJADAH_642E398N_S",
+            "toponym_arabic": "خجاده",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Khujadah",
+            "toponym_arabic_other": "خجاده",
+            "toponym_translit": "Ḫuǧādah",
+            "coord_lat": "39.81909",
+            "toponym_search": "Khujadah",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.20076",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.20076,
+            39.81909
+        ]
+    }
+}

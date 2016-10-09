@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000953-000.json": {
+                "title": "ضبا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḍabbā, Ẓabbā",
+            "cornu_URI": "DABBA_357E273N_S",
+            "toponym_arabic": "ضبا",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dabba, Zabba",
+            "toponym_arabic_other": "ضبا، ظبا",
+            "toponym_translit": "Ḍabbā",
+            "coord_lat": "27.32690",
+            "toponym_search": "Dabba, Zabba",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.78604",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.78604,
+            27.3269
+        ]
+    }
+}

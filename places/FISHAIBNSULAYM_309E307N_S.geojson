@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fīšaŧ Ibn Sulaym",
+            "cornu_URI": "FISHAIBNSULAYM_309E307N_S",
+            "toponym_arabic": "فيشة إبن سليم",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Fisha Ibn Sulaym",
+            "toponym_arabic_other": "فيشة إبن سليم",
+            "toponym_translit": "Fīšaŧ Ibn Sulaym",
+            "coord_lat": "30.76345",
+            "toponym_search": "Fisha Ibn Sulaym",
+            "region_code": "Egypt",
+            "coord_lon": "30.92633",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.92633,
+            30.76345
+        ]
+    }
+}

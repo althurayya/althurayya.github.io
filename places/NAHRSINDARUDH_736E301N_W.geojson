@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Sindarūḏ",
+            "cornu_URI": "NAHRSINDARUDH_736E301N_W",
+            "toponym_arabic": "نهر سندروذ",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Sindarudh",
+            "toponym_arabic_other": "نهر سندروذ",
+            "toponym_translit": "Nahr Sindarūḏ",
+            "coord_lat": "30.12521",
+            "toponym_search": "Nahr Sindarudh",
+            "region_code": "Sind",
+            "coord_lon": "73.67875",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.67875,
+            30.12521
+        ]
+    }
+}

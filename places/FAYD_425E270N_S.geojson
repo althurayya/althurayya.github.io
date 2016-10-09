@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001154-000.json": {
+                "title": "فيد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fayd",
+            "cornu_URI": "FAYD_425E270N_S",
+            "toponym_arabic": "فيد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Fayd",
+            "toponym_arabic_other": "فيد",
+            "toponym_translit": "Fayd",
+            "coord_lat": "27.06977",
+            "toponym_search": "Fayd",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.50815",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.50815,
+            27.06977
+        ]
+    }
+}

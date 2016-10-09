@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iḫnā",
+            "cornu_URI": "IKHNA_306E314N_R",
+            "toponym_arabic": "إخنا",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Ikhna",
+            "toponym_arabic_other": "إخنا",
+            "toponym_translit": "Iḫnā",
+            "coord_lat": "31.46786",
+            "toponym_search": "Ikhna",
+            "region_code": "Egypt",
+            "coord_lon": "30.65681",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.65681,
+            31.46786
+        ]
+    }
+}

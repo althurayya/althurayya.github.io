@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dayr al-Ǧiṣṣ",
+            "cornu_URI": "DAYRJISS_516E350N_S",
+            "toponym_arabic": "دير الجص",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "Dayr al-Jiss",
+            "toponym_arabic_other": "دير الجص",
+            "toponym_translit": "Dayr al-Ǧiṣṣ",
+            "coord_lat": "35.08576",
+            "toponym_search": "Dayr al-Jiss",
+            "region_code": "Mafaza",
+            "coord_lon": "51.61984",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.61984,
+            35.08576
+        ]
+    }
+}

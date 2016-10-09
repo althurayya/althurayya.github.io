@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fīrūzqand",
+            "cornu_URI": "FIRUZQAND_646E315N_S",
+            "toponym_arabic": "فيروزقند",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Firuzqand",
+            "toponym_arabic_other": "فيروزقند",
+            "toponym_translit": "Fīrūzqand",
+            "coord_lat": "31.54280",
+            "toponym_search": "Firuzqand",
+            "region_code": "Sijistan",
+            "coord_lon": "64.64236",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.64236,
+            31.5428
+        ]
+    }
+}

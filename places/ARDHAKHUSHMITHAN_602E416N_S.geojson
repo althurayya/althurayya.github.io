@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arḏaḫušmīṯan, Raḫušmīṯan",
+            "cornu_URI": "ARDHAKHUSHMITHAN_602E416N_S",
+            "toponym_arabic": "أرذخشميثن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ardhakhushmithan, Rakhushmithan",
+            "toponym_arabic_other": "أرذخشميثن، رخشميثن",
+            "toponym_translit": "Arḏaḫušmīṯan",
+            "coord_lat": "41.64105",
+            "toponym_search": "Ardhakhushmithan, Rakhushmithan",
+            "region_code": "Transoxiana",
+            "coord_lon": "60.20210",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.2021,
+            41.64105
+        ]
+    }
+}

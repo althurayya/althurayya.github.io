@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawāf",
+            "cornu_URI": "KHAWAF_600E345N_R",
+            "toponym_arabic": "خواف",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Khawaf",
+            "toponym_arabic_other": "خواف",
+            "toponym_translit": "Ḫawāf",
+            "coord_lat": "34.56282",
+            "toponym_search": "Khawaf",
+            "region_code": "Khurasan",
+            "coord_lon": "60.07273",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.07273,
+            34.56282
+        ]
+    }
+}

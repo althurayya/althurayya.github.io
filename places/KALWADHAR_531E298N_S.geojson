@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001287-000.json": {
+                "title": "كلواذا",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kalwaḏār, Qalwaḏar, Qaryaŧ al-Ḥammām",
+            "cornu_URI": "KALWADHAR_531E298N_S",
+            "toponym_arabic": "كلوذار",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kalwadhar, Qalwadhar, Qarya al-Hammam",
+            "toponym_arabic_other": "كلوذار، قلوذر، قرية الحمام",
+            "toponym_translit": "Kalwaḏār",
+            "coord_lat": "29.88067",
+            "toponym_search": "Kalwadhar, Qalwadhar, Qarya al-Hammam",
+            "region_code": "Faris",
+            "coord_lon": "53.16886",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.16886,
+            29.88067
+        ]
+    }
+}

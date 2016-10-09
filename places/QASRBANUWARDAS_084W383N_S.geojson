@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Banū Wardās",
+            "cornu_URI": "QASRBANUWARDAS_084W383N_S",
+            "toponym_arabic": "قصر بنو ورداس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qasr Banu Wardas",
+            "toponym_arabic_other": "قصر بنو ورداس",
+            "toponym_translit": "Qaṣr Banū Wardās",
+            "coord_lat": "38.36698",
+            "toponym_search": "Qasr Banu Wardas",
+            "region_code": "Andalus",
+            "coord_lon": "-8.48333",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.48333,
+            38.36698
+        ]
+    }
+}

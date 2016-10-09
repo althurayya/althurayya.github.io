@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dizah",
+            "cornu_URI": "DIZAH_634E354N_S",
+            "toponym_arabic": "دزه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dizah",
+            "toponym_arabic_other": "دزه",
+            "toponym_translit": "Dizah",
+            "coord_lat": "35.42618",
+            "toponym_search": "Dizah",
+            "region_code": "Khurasan",
+            "coord_lon": "63.44735",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.44735,
+            35.42618
+        ]
+    }
+}

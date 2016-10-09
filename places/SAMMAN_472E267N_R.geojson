@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣammān",
+            "cornu_URI": "SAMMAN_472E267N_R",
+            "toponym_arabic": "الصمان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Samman",
+            "toponym_arabic_other": "الصمان",
+            "toponym_translit": "al-Ṣammān",
+            "coord_lat": "26.78388",
+            "toponym_search": "al-Samman",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "47.21404",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.21404,
+            26.78388
+        ]
+    }
+}

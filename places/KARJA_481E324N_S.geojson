@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karǧaŧ, Karḫaŧ",
+            "cornu_URI": "KARJA_481E324N_S",
+            "toponym_arabic": "كرجة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Karja, Karkha",
+            "toponym_arabic_other": "كرجة، كرخة",
+            "toponym_translit": "Karǧaŧ",
+            "coord_lat": "32.46817",
+            "toponym_search": "Karja, Karkha",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.14577",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.14577,
+            32.46817
+        ]
+    }
+}

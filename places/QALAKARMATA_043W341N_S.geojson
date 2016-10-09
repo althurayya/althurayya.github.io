@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001282-000.json": {
+                "title": "كرماله",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ Karmāṭaŧ, Kurmāṭaŧ",
+            "cornu_URI": "QALAKARMATA_043W341N_S",
+            "toponym_arabic": "قلعة كرماطة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qala Karmata, Kurmata",
+            "toponym_arabic_other": "قلعة كرماطة، كرماطة",
+            "toponym_translit": "Qalʿaŧ Karmāṭaŧ",
+            "coord_lat": "34.19475",
+            "toponym_search": "Qala Karmata, Kurmata",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.31719",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.31719,
+            34.19475
+        ]
+    }
+}

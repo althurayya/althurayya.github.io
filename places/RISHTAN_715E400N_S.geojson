@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rištān",
+            "cornu_URI": "RISHTAN_715E400N_S",
+            "toponym_arabic": "رشتان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rishtan",
+            "toponym_arabic_other": "رشتان",
+            "toponym_translit": "Rištān",
+            "coord_lat": "40.02761",
+            "toponym_search": "Rishtan",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.55377",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.55377,
+            40.02761
+        ]
+    }
+}

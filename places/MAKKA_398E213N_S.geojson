@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001432-000.json": {
+                "title": "مكه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Makkaŧ",
+            "cornu_URI": "MAKKA_398E213N_S",
+            "toponym_arabic": "مكة",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Makka",
+            "toponym_arabic_other": "مكة",
+            "toponym_translit": "Makkaŧ",
+            "coord_lat": "21.39132",
+            "toponym_search": "Makka",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.83612",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.83612,
+            21.39132
+        ]
+    }
+}

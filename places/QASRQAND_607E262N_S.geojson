@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣrqand",
+            "cornu_URI": "QASRQAND_607E262N_S",
+            "toponym_arabic": "قصرقند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qasrqand",
+            "toponym_arabic_other": "قصرقند",
+            "toponym_translit": "Qaṣrqand",
+            "coord_lat": "26.29231",
+            "toponym_search": "Qasrqand",
+            "region_code": "Sind",
+            "coord_lon": "60.71473",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.71473,
+            26.29231
+        ]
+    }
+}

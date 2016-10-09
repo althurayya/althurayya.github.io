@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīzīn, Tūzīn",
+            "cornu_URI": "TIZIN_367E362N_S",
+            "toponym_arabic": "تيزين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tizin, Tuzin",
+            "toponym_arabic_other": "تيزين، توزين",
+            "toponym_translit": "Tīzīn",
+            "coord_lat": "36.23776",
+            "toponym_search": "Tizin, Tuzin",
+            "region_code": "Sham",
+            "coord_lon": "36.70483",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.70483,
+            36.23776
+        ]
+    }
+}

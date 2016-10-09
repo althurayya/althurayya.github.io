@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧubb Ḥammād",
+            "cornu_URI": "JUBBHAMMAD_632E385N_S",
+            "toponym_arabic": "جب حماد",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Jubb Hammad",
+            "toponym_arabic_other": "جب حماد",
+            "toponym_translit": "Ǧubb Ḥammād",
+            "coord_lat": "38.58258",
+            "toponym_search": "Jubb Hammad",
+            "region_code": "Khurasan",
+            "coord_lon": "63.20339",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.20339,
+            38.58258
+        ]
+    }
+}

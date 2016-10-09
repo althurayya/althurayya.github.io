@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000350-000.json": {
+                "title": "تبوك",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tabūk",
+            "cornu_URI": "TABUK_365E283N_S",
+            "toponym_arabic": "تبوك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tabuk",
+            "toponym_arabic_other": "تبوك",
+            "toponym_translit": "Tabūk",
+            "coord_lat": "28.37114",
+            "toponym_search": "Tabuk",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "36.50620",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.5062,
+            28.37114
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ranyaŧ",
+            "cornu_URI": "RANYA_421E203N_S",
+            "toponym_arabic": "رنية",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Ranya",
+            "toponym_arabic_other": "رنية",
+            "toponym_translit": "Ranyaŧ",
+            "coord_lat": "20.30924",
+            "toponym_search": "Ranya",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.10410",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.1041,
+            20.30924
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ al-Ǧiṣṣ",
+            "cornu_URI": "QALAJISS_516E301N_S",
+            "toponym_arabic": "قلعة الجص",
+            "top_type_orig": "citadelle",
+            "toponym_buckwalter": "Qala al-Jiss",
+            "toponym_arabic_other": "قلعة الجص",
+            "toponym_translit": "Qalʿaŧ al-Ǧiṣṣ",
+            "coord_lat": "30.15444",
+            "toponym_search": "Qala al-Jiss",
+            "region_code": "Faris",
+            "coord_lon": "51.64606",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.64606,
+            30.15444
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tūnkaṯ",
+            "cornu_URI": "TUNKATH_702E410N_S",
+            "toponym_arabic": "تونكث",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Tunkath",
+            "toponym_arabic_other": "تونكث",
+            "toponym_translit": "Tūnkaṯ",
+            "coord_lat": "41.01789",
+            "toponym_search": "Tunkath",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.22483",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.22483,
+            41.01789
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000281-000.json": {
+                "title": "بصنا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṣinnā",
+            "cornu_URI": "BASINNA_483E319N_S",
+            "toponym_arabic": "بصنا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Basinna",
+            "toponym_arabic_other": "بصنا",
+            "toponym_translit": "Baṣinnā",
+            "coord_lat": "31.99567",
+            "toponym_search": "Basinna",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.30405",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.30405,
+            31.99567
+        ]
+    }
+}

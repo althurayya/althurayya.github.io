@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000096-000.json": {
+                "title": "الياج",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001350-000.json": {
+                "title": "لياج",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Yāǧ",
+            "cornu_URI": "YAJ_151E376N_S",
+            "toponym_arabic": "الياج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Yaj",
+            "toponym_arabic_other": "الياج",
+            "toponym_translit": "al-Yāǧ",
+            "coord_lat": "37.62947",
+            "toponym_search": "al-Yaj",
+            "region_code": "Sicile",
+            "coord_lon": "15.16730",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1673,
+            37.62947
+        ]
+    }
+}

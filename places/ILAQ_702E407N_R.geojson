@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001650-000.json": {
+                "title": "يلاق",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000195-000.json": {
+                "title": "ايلاق",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Īlāq",
+            "cornu_URI": "ILAQ_702E407N_R",
+            "toponym_arabic": "إيلاق",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Ilaq",
+            "toponym_arabic_other": "إيلاق",
+            "toponym_translit": "Īlāq",
+            "coord_lat": "40.78508",
+            "toponym_search": "Ilaq",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.20740",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.2074,
+            40.78508
+        ]
+    }
+}

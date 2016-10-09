@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Awrahaŧ",
+            "cornu_URI": "AWRAHA_795E264N_S",
+            "toponym_arabic": "أورهة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Awraha",
+            "toponym_arabic_other": "أورهة",
+            "toponym_translit": "Awrahaŧ",
+            "coord_lat": "26.46686",
+            "toponym_search": "Awraha",
+            "region_code": "Sind",
+            "coord_lon": "79.59619",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            79.59619,
+            26.46686
+        ]
+    }
+}

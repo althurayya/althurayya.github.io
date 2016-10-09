@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000828-000.json": {
+                "title": "سموره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sammūraŧ",
+            "cornu_URI": "SAMMURA_057W414N_S",
+            "toponym_arabic": "سمورة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sammura",
+            "toponym_arabic_other": "سمورة",
+            "toponym_translit": "Sammūraŧ",
+            "coord_lat": "41.44051",
+            "toponym_search": "Sammura",
+            "region_code": "Andalus",
+            "coord_lon": "-5.76776",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.76776,
+            41.44051
+        ]
+    }
+}

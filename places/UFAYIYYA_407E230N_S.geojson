@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ufayʿiyyaŧ",
+            "cornu_URI": "UFAYIYYA_407E230N_S",
+            "toponym_arabic": "الأفيعية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ufayiyya",
+            "toponym_arabic_other": "الأفيعية",
+            "toponym_translit": "al-Ufayʿiyyaŧ",
+            "coord_lat": "23.02816",
+            "toponym_search": "al-Ufayiyya",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.75512",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.75512,
+            23.02816
+        ]
+    }
+}

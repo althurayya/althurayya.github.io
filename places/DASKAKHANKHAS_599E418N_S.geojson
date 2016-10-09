@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Daskāḫān Ḫās",
+            "cornu_URI": "DASKAKHANKHAS_599E418N_S",
+            "toponym_arabic": "دسكاخان خاس",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Daskakhan Khas",
+            "toponym_arabic_other": "دسكاخان خاس",
+            "toponym_translit": "Daskāḫān Ḫās",
+            "coord_lat": "41.84474",
+            "toponym_search": "Daskakhan Khas",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.93725",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.93725,
+            41.84474
+        ]
+    }
+}

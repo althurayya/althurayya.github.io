@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000067-000.json": {
+                "title": "اربونه",
+                "rate": 100,
+                "status": "true"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000171-000.json": {
+                "title": "اشبونه",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000080-000.json": {
+                "title": "ارجونه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arbūnaŧ",
+            "cornu_URI": "ARBUNA_030E431N_S",
+            "toponym_arabic": "أربونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arbuna",
+            "toponym_arabic_other": "أربونة",
+            "toponym_translit": "Arbūnaŧ",
+            "coord_lat": "43.18643",
+            "toponym_search": "Arbuna",
+            "region_code": "Andalus",
+            "coord_lon": "3.00118",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.00118,
+            43.18643
+        ]
+    }
+}

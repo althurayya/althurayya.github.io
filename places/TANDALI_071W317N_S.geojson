@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tandalī",
+            "cornu_URI": "TANDALI_071W317N_S",
+            "toponym_arabic": "تندلي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tandali",
+            "toponym_arabic_other": "تندلي",
+            "toponym_translit": "Tandalī",
+            "coord_lat": "31.78429",
+            "toponym_search": "Tandali",
+            "region_code": "Maghrib",
+            "coord_lon": "-7.17841",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.17841,
+            31.78429
+        ]
+    }
+}

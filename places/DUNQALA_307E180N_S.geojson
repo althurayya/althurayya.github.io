@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000609-000.json": {
+                "title": "دمقله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dunqalaŧ, Dunqulaŧ, Dumqulaŧ",
+            "cornu_URI": "DUNQALA_307E180N_S",
+            "toponym_arabic": "دنقلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dunqala, Dunqula, Dumqula",
+            "toponym_arabic_other": "دنقلة، دنقلة، دمقلة",
+            "toponym_translit": "Dunqalaŧ",
+            "coord_lat": "18.04347",
+            "toponym_search": "Dunqala, Dunqula, Dumqula",
+            "region_code": "Egypt",
+            "coord_lon": "30.73756",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.73756,
+            18.04347
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šūmān",
+            "cornu_URI": "SHUMAN_688E385N_S",
+            "toponym_arabic": "شومان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shuman",
+            "toponym_arabic_other": "شومان",
+            "toponym_translit": "Šūmān",
+            "coord_lat": "38.58166",
+            "toponym_search": "Shuman",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.82268",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.82268,
+            38.58166
+        ]
+    }
+}

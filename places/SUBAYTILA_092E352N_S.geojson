@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000773-000.json": {
+                "title": "سبيطله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Subayṭilaŧ",
+            "cornu_URI": "SUBAYTILA_092E352N_S",
+            "toponym_arabic": "سبيطلة",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Subaytila",
+            "toponym_arabic_other": "سبيطلة",
+            "toponym_translit": "Subayṭilaŧ",
+            "coord_lat": "35.23365",
+            "toponym_search": "Subaytila",
+            "region_code": "Maghrib",
+            "coord_lon": "9.22256",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.22256,
+            35.23365
+        ]
+    }
+}

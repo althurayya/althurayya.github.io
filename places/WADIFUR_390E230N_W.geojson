@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Furʿ",
+            "cornu_URI": "WADIFUR_390E230N_W",
+            "toponym_arabic": "وادي فرع",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Fur",
+            "toponym_arabic_other": "وادي فرع",
+            "toponym_translit": "Wādī Furʿ",
+            "coord_lat": "23.06872",
+            "toponym_search": "Wadi Fur",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.09190",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.0919,
+            23.06872
+        ]
+    }
+}

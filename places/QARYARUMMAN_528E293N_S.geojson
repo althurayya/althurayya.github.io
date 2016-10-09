@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-Rummān",
+            "cornu_URI": "QARYARUMMAN_528E293N_S",
+            "toponym_arabic": "قرية الرمان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qarya al-Rumman",
+            "toponym_arabic_other": "قرية الرمان",
+            "toponym_translit": "Qaryaŧ al-Rummān",
+            "coord_lat": "29.37477",
+            "toponym_search": "Qarya al-Rumman",
+            "region_code": "Faris",
+            "coord_lon": "52.80644",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.80644,
+            29.37477
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000470-000.json": {
+                "title": "الجنادل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧanādil",
+            "cornu_URI": "JANADIL_302E196N_O",
+            "toponym_arabic": "الجنادل",
+            "top_type_orig": "cataracte",
+            "toponym_buckwalter": "al-Janadil",
+            "toponym_arabic_other": "الجنادل",
+            "toponym_translit": "al-Ǧanādil",
+            "coord_lat": "19.63029",
+            "toponym_search": "al-Janadil",
+            "region_code": "Egypt",
+            "coord_lon": "30.25325",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.25325,
+            19.63029
+        ]
+    }
+}

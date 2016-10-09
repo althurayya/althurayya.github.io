@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ ʿAbd Allãh",
+            "cornu_URI": "RIBATABDALLAH_639E313N_S",
+            "toponym_arabic": "رباط عبد الله",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Abd Allah",
+            "toponym_arabic_other": "رباط عبد الله",
+            "toponym_translit": "Ribāṭ ʿAbd Allãh",
+            "coord_lat": "31.37330",
+            "toponym_search": "Ribat Abd Allah",
+            "region_code": "Sijistan",
+            "coord_lon": "63.92927",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.92927,
+            31.3733
+        ]
+    }
+}

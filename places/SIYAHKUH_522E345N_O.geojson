@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Siyāh Kūh",
+            "cornu_URI": "SIYAHKUH_522E345N_O",
+            "toponym_arabic": "سياه كوه",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Siyah Kuh",
+            "toponym_arabic_other": "سياه كوه",
+            "toponym_translit": "Siyāh Kūh",
+            "coord_lat": "34.57768",
+            "toponym_search": "Siyah Kuh",
+            "region_code": "Mafaza",
+            "coord_lon": "52.27735",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.27735,
+            34.57768
+        ]
+    }
+}

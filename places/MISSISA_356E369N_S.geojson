@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001462-000.json": {
+                "title": "المصيصه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Miṣṣīṣaŧ",
+            "cornu_URI": "MISSISA_356E369N_S",
+            "toponym_arabic": "المصيصة",
+            "top_type_orig": "placeforte",
+            "toponym_buckwalter": "al-Missisa",
+            "toponym_arabic_other": "المصيصة",
+            "toponym_translit": "al-Miṣṣīṣaŧ",
+            "coord_lat": "36.94067",
+            "toponym_search": "al-Missisa",
+            "region_code": "Sham",
+            "coord_lon": "35.66897",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.66897,
+            36.94067
+        ]
+    }
+}

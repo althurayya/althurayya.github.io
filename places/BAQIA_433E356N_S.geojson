@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000287-000.json": {
+                "title": "البقيع",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baqīʿaŧ",
+            "cornu_URI": "BAQIA_433E356N_S",
+            "toponym_arabic": "البقيعة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Baqia",
+            "toponym_arabic_other": "البقيعة",
+            "toponym_translit": "al-Baqīʿaŧ",
+            "coord_lat": "35.62554",
+            "toponym_search": "al-Baqia",
+            "region_code": "Aqur",
+            "coord_lon": "43.32428",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.32428,
+            35.62554
+        ]
+    }
+}

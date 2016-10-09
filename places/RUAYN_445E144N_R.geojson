@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ruʿayn",
+            "cornu_URI": "RUAYN_445E144N_R",
+            "toponym_arabic": "رعين",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Ruayn",
+            "toponym_arabic_other": "رعين",
+            "toponym_translit": "Ruʿayn",
+            "coord_lat": "14.42424",
+            "toponym_search": "Ruayn",
+            "region_code": "Yemen",
+            "coord_lon": "44.59298",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.59298,
+            14.42424
+        ]
+    }
+}

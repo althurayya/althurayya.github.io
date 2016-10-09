@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000241-000.json": {
+                "title": "برطاس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Burṭās",
+            "cornu_URI": "BURTAS_466E526N_R",
+            "toponym_arabic": "برطاس",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Burtas",
+            "toponym_arabic_other": "برطاس",
+            "toponym_translit": "Burṭās",
+            "coord_lat": "52.68645",
+            "toponym_search": "Burtas",
+            "region_code": "Khazar",
+            "coord_lon": "46.64374",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.64374,
+            52.68645
+        ]
+    }
+}

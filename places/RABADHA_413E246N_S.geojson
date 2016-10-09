@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rabaḏaŧ",
+            "cornu_URI": "RABADHA_413E246N_S",
+            "toponym_arabic": "ربذة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Rabadha",
+            "toponym_arabic_other": "ربذة",
+            "toponym_translit": "Rabaḏaŧ",
+            "coord_lat": "24.66756",
+            "toponym_search": "Rabadha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.30169",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.30169,
+            24.66756
+        ]
+    }
+}

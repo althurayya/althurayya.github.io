@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000373-000.json": {
+                "title": "تنس",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000372-000.json": {
+                "title": "تنيس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tinnīs",
+            "cornu_URI": "TINNIS_322E312N_S",
+            "toponym_arabic": "تنيس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tinnis",
+            "toponym_arabic_other": "تنيس",
+            "toponym_translit": "Tinnīs",
+            "coord_lat": "31.21262",
+            "toponym_search": "Tinnis",
+            "region_code": "Egypt",
+            "coord_lon": "32.22755",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.22755,
+            31.21262
+        ]
+    }
+}

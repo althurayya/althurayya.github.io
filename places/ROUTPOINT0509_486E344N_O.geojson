@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0509",
+            "cornu_URI": "ROUTPOINT0509_486E344N_O",
+            "toponym_arabic": "RoutPoint0509",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0509",
+            "toponym_arabic_other": "RoutPoint0509",
+            "toponym_translit": "RoutPoint0509",
+            "coord_lat": "34.48350",
+            "toponym_search": "RoutPoint0509",
+            "region_code": "Jibal",
+            "coord_lon": "48.61600",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.616,
+            34.4835
+        ]
+    }
+}

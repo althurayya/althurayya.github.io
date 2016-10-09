@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Ḫuwārān",
+            "cornu_URI": "RIBATKHUWARAN_653E385N_S",
+            "toponym_arabic": "رباط خواران",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Khuwaran",
+            "toponym_arabic_other": "رباط خواران",
+            "toponym_translit": "Ribāṭ Ḫuwārān",
+            "coord_lat": "38.54277",
+            "toponym_search": "Ribat Khuwaran",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.33793",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.33793,
+            38.54277
+        ]
+    }
+}

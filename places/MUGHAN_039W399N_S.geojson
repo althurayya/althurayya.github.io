@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Muġān",
+            "cornu_URI": "MUGHAN_039W399N_S",
+            "toponym_arabic": "مغان",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Mughan",
+            "toponym_arabic_other": "مغان",
+            "toponym_translit": "Muġān",
+            "coord_lat": "39.97062",
+            "toponym_search": "Mughan",
+            "region_code": "Andalus",
+            "coord_lon": "-3.94240",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.9424,
+            39.97062
+        ]
+    }
+}

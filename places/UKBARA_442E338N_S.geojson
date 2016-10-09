@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001055-000.json": {
+                "title": "عكبرا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿUkbarā",
+            "cornu_URI": "UKBARA_442E338N_S",
+            "toponym_arabic": "عكبرا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ukbara",
+            "toponym_arabic_other": "عكبرا",
+            "toponym_translit": "ʿUkbarā",
+            "coord_lat": "33.85526",
+            "toponym_search": "Ukbara",
+            "region_code": "Iraq",
+            "coord_lon": "44.22504",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.22504,
+            33.85526
+        ]
+    }
+}

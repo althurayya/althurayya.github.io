@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000924-000.json": {
+                "title": "فم الصلح",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fam al-Ṣilḥ",
+            "cornu_URI": "FAMSILH_461E324N_S",
+            "toponym_arabic": "فم الصلح",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Fam al-Silh",
+            "toponym_arabic_other": "فم الصلح",
+            "toponym_translit": "Fam al-Ṣilḥ",
+            "coord_lat": "32.46405",
+            "toponym_search": "Fam al-Silh",
+            "region_code": "Iraq",
+            "coord_lon": "46.13150",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.1315,
+            32.46405
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001558-000.json": {
+                "title": "نيسابور",
+                "rate": 88,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000463-000.json": {
+                "title": "جنداسابور",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧundaysābūr",
+            "cornu_URI": "JUNDAYSABUR_485E322N_S",
+            "toponym_arabic": "جنديسابور",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Jundaysabur",
+            "toponym_arabic_other": "جنديسابور",
+            "toponym_translit": "Ǧundaysābūr",
+            "coord_lat": "32.29866",
+            "toponym_search": "Jundaysabur",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.53919",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.53919,
+            32.29866
+        ]
+    }
+}

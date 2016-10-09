@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000395-000.json": {
+                "title": "تيجس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīǧis",
+            "cornu_URI": "TIJIS_068E360N_S",
+            "toponym_arabic": "تيجس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tijis",
+            "toponym_arabic_other": "تيجس",
+            "toponym_translit": "Tīǧis",
+            "coord_lat": "36.08680",
+            "toponym_search": "Tijis",
+            "region_code": "Maghrib",
+            "coord_lon": "6.83450",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.8345,
+            36.0868
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Māš",
+            "cornu_URI": "RIBATMASH_614E413N_S",
+            "toponym_arabic": "رباط ماش",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Mash",
+            "toponym_arabic_other": "رباط ماش",
+            "toponym_translit": "Ribāṭ Māš",
+            "coord_lat": "41.35412",
+            "toponym_search": "Ribat Mash",
+            "region_code": "Transoxiana",
+            "coord_lon": "61.49617",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.49617,
+            41.35412
+        ]
+    }
+}

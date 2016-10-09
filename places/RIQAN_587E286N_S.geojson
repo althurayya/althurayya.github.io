@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rīqān, Rīkān",
+            "cornu_URI": "RIQAN_587E286N_S",
+            "toponym_arabic": "ريقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Riqan, Rikan",
+            "toponym_arabic_other": "ريقان، ريكان",
+            "toponym_translit": "Rīqān",
+            "coord_lat": "28.65133",
+            "toponym_search": "Riqan, Rikan",
+            "region_code": "Kirman",
+            "coord_lon": "58.73846",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.73846,
+            28.65133
+        ]
+    }
+}

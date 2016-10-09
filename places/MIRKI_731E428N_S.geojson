@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mīrkī",
+            "cornu_URI": "MIRKI_731E428N_S",
+            "toponym_arabic": "ميركي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mirki",
+            "toponym_arabic_other": "ميركي",
+            "toponym_translit": "Mīrkī",
+            "coord_lat": "42.81670",
+            "toponym_search": "Mirki",
+            "region_code": "Transoxiana",
+            "coord_lon": "73.19654",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.19654,
+            42.8167
+        ]
+    }
+}

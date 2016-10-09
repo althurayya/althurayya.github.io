@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000764-000.json": {
+                "title": "ساوه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sāwaŧ",
+            "cornu_URI": "SAWA_504E349N_S",
+            "toponym_arabic": "ساوة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sawa",
+            "toponym_arabic_other": "ساوة",
+            "toponym_translit": "Sāwaŧ",
+            "coord_lat": "34.97799",
+            "toponym_search": "Sawa",
+            "region_code": "Jibal",
+            "coord_lon": "50.42711",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.42711,
+            34.97799
+        ]
+    }
+}

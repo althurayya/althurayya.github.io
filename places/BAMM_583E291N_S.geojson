@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000274-000.json": {
+                "title": "بم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bamm",
+            "cornu_URI": "BAMM_583E291N_S",
+            "toponym_arabic": "بم",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Bamm",
+            "toponym_arabic_other": "بم",
+            "toponym_translit": "Bamm",
+            "coord_lat": "29.10304",
+            "toponym_search": "Bamm",
+            "region_code": "Kirman",
+            "coord_lon": "58.34327",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.34327,
+            29.10304
+        ]
+    }
+}

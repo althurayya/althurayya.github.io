@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001497-000.json": {
+                "title": "مورور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mawrūr",
+            "cornu_URI": "MAWRUR_054W371N_S",
+            "toponym_arabic": "مورور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mawrur",
+            "toponym_arabic_other": "مورور",
+            "toponym_translit": "Mawrūr",
+            "coord_lat": "37.14029",
+            "toponym_search": "Mawrur",
+            "region_code": "Andalus",
+            "coord_lon": "-5.48272",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.48272,
+            37.14029
+        ]
+    }
+}

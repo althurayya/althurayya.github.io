@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tūn",
+            "cornu_URI": "TUN_581E339N_S",
+            "toponym_arabic": "تون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tun",
+            "toponym_arabic_other": "تون",
+            "toponym_translit": "Tūn",
+            "coord_lat": "33.92591",
+            "toponym_search": "Tun",
+            "region_code": "Khurasan",
+            "coord_lon": "58.11679",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.11679,
+            33.92591
+        ]
+    }
+}

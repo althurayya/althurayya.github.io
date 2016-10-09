@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dayraŧ",
+            "cornu_URI": "DAYRA_493E307N_S",
+            "toponym_arabic": "ديرة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dayra",
+            "toponym_arabic_other": "ديرة",
+            "toponym_translit": "Dayraŧ",
+            "coord_lat": "30.78178",
+            "toponym_search": "Dayra",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.32901",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.32901,
+            30.78178
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥayy ʿAbd Allãh",
+            "cornu_URI": "HAYYABDALLAH_244E318N_S",
+            "toponym_arabic": "حي عبد الله",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Hayy Abd Allah",
+            "toponym_arabic_other": "حي عبد الله",
+            "toponym_translit": "Ḥayy ʿAbd Allãh",
+            "coord_lat": "31.87271",
+            "toponym_search": "Hayy Abd Allah",
+            "region_code": "Barqa",
+            "coord_lon": "24.49433",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.49433,
+            31.87271
+        ]
+    }
+}

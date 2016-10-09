@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balad",
+            "cornu_URI": "BALAD_427E364N_S",
+            "toponym_arabic": "بلد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Balad",
+            "toponym_arabic_other": "بلد",
+            "toponym_translit": "Balad",
+            "coord_lat": "36.47417",
+            "toponym_search": "Balad",
+            "region_code": "Aqur",
+            "coord_lon": "42.75800",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.758,
+            36.47417
+        ]
+    }
+}

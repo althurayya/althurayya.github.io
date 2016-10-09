@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000192-000.json": {
+                "title": "الايوان",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bālāyān",
+            "cornu_URI": "BALAYAN_694E411N_S",
+            "toponym_arabic": "بالايان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Balayan",
+            "toponym_arabic_other": "بالايان",
+            "toponym_translit": "Bālāyān",
+            "coord_lat": "41.11173",
+            "toponym_search": "Balayan",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.45575",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.45575,
+            41.11173
+        ]
+    }
+}

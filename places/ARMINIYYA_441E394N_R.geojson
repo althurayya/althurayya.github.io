@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000078-000.json": {
+                "title": "ارميه",
+                "rate": 91,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000074-000.json": {
+                "title": "ارمينيه",
+                "rate": 92,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000692-000.json": {
+                "title": "الرمانيه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arminiyyaŧ",
+            "cornu_URI": "ARMINIYYA_441E394N_R",
+            "toponym_arabic": "أرمنية",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Arminiyya",
+            "toponym_arabic_other": "أرمنية",
+            "toponym_translit": "Arminiyyaŧ",
+            "coord_lat": "39.47331",
+            "toponym_search": "Arminiyya",
+            "region_code": "Rihab",
+            "coord_lon": "44.11256",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.11256,
+            39.47331
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001371-000.json": {
+                "title": "مازر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Māzar",
+            "cornu_URI": "MAZAR_125E376N_S",
+            "toponym_arabic": "مازر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mazar",
+            "toponym_arabic_other": "مازر",
+            "toponym_translit": "Māzar",
+            "coord_lat": "37.64431",
+            "toponym_search": "Mazar",
+            "region_code": "Sicile",
+            "coord_lon": "12.58978",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.58978,
+            37.64431
+        ]
+    }
+}

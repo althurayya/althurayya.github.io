@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūh Barǧān",
+            "cornu_URI": "KUHBARJAN_577E276N_S",
+            "toponym_arabic": "كوه برجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kuh Barjan",
+            "toponym_arabic_other": "كوه برجان",
+            "toponym_translit": "Kūh Barǧān",
+            "coord_lat": "27.67797",
+            "toponym_search": "Kuh Barjan",
+            "region_code": "Kirman",
+            "coord_lon": "57.75501",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.75501,
+            27.67797
+        ]
+    }
+}

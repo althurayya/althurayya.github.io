@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būrnamaḏ, Fūrnamaḏ",
+            "cornu_URI": "BURNAMADH_681E399N_S",
+            "toponym_arabic": "بورنمذ",
+            "top_type_orig": "canton/cheflieu",
+            "toponym_buckwalter": "Burnamadh, Furnamadh",
+            "toponym_arabic_other": "بورنمذ، فورنمذ",
+            "toponym_translit": "Būrnamaḏ",
+            "coord_lat": "39.95059",
+            "toponym_search": "Burnamadh, Furnamadh",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.12909",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.12909,
+            39.95059
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Habīr",
+            "cornu_URI": "HABIR_439E284N_R",
+            "toponym_arabic": "الهبير",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Habir",
+            "toponym_arabic_other": "الهبير",
+            "toponym_translit": "al-Habīr",
+            "coord_lat": "28.46139",
+            "toponym_search": "al-Habir",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.99014",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.99014,
+            28.46139
+        ]
+    }
+}

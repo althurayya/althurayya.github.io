@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ṣarṣar",
+            "cornu_URI": "NAHRSARSAR_441E331N_W",
+            "toponym_arabic": "نهر صرصر",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr Sarsar",
+            "toponym_arabic_other": "نهر صرصر",
+            "toponym_translit": "Nahr Ṣarṣar",
+            "coord_lat": "33.13984",
+            "toponym_search": "Nahr Sarsar",
+            "region_code": "Iraq",
+            "coord_lon": "44.14778",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.14778,
+            33.13984
+        ]
+    }
+}

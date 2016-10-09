@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šābūr",
+            "cornu_URI": "SHABUR_307E308N_S",
+            "toponym_arabic": "شابور",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Shabur",
+            "toponym_arabic_other": "شابور",
+            "toponym_translit": "Šābūr",
+            "coord_lat": "30.80318",
+            "toponym_search": "Shabur",
+            "region_code": "Egypt",
+            "coord_lon": "30.73365",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.73365,
+            30.80318
+        ]
+    }
+}

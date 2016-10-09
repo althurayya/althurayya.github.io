@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000154-000.json": {
+                "title": "اسبيجاب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Isbīǧāb",
+            "cornu_URI": "ISBIJAB_697E422N_S",
+            "toponym_arabic": "إسبيجاب",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Isbijab",
+            "toponym_arabic_other": "إسبيجاب",
+            "toponym_translit": "Isbīǧāb",
+            "coord_lat": "42.23062",
+            "toponym_search": "Isbijab",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.75409",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.75409,
+            42.23062
+        ]
+    }
+}

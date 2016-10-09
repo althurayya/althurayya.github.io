@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Itil",
+            "cornu_URI": "NAHRITIL_451E492N_W",
+            "toponym_arabic": "نهر إتل",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Itil",
+            "toponym_arabic_other": "نهر إتل",
+            "toponym_translit": "Nahr Itil",
+            "coord_lat": "49.20301",
+            "toponym_search": "Nahr Itil",
+            "region_code": "Khazar",
+            "coord_lon": "45.13019",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.13019,
+            49.20301
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dašt ʿAlī",
+            "cornu_URI": "DASHTALI_611E255N_S",
+            "toponym_arabic": "دشت علي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dasht Ali",
+            "toponym_arabic_other": "دشت علي",
+            "toponym_translit": "Dašt ʿAlī",
+            "coord_lat": "25.58676",
+            "toponym_search": "Dasht Ali",
+            "region_code": "Sind",
+            "coord_lon": "61.15124",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.15124,
+            25.58676
+        ]
+    }
+}

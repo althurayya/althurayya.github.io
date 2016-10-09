@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000032-000.json": {
+                "title": "الابله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ubullaŧ",
+            "cornu_URI": "UBULLA_478E304N_S",
+            "toponym_arabic": "الأبلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Ubulla",
+            "toponym_arabic_other": "الأبلة",
+            "toponym_translit": "al-Ubullaŧ",
+            "coord_lat": "30.49692",
+            "toponym_search": "al-Ubulla",
+            "region_code": "Iraq",
+            "coord_lon": "47.83555",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.83555,
+            30.49692
+        ]
+    }
+}

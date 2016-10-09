@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001459-000.json": {
+                "title": "مني",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Miná",
+            "cornu_URI": "MINA_399E213N_S",
+            "toponym_arabic": "منى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mina",
+            "toponym_arabic_other": "منى",
+            "toponym_translit": "Miná",
+            "coord_lat": "21.35325",
+            "toponym_search": "Mina",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.93206",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.93206,
+            21.35325
+        ]
+    }
+}

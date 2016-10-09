@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Naḥḥāsīn",
+            "cornu_URI": "NAHHASIN_058W311N_S",
+            "toponym_arabic": "النحاسين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Nahhasin",
+            "toponym_arabic_other": "النحاسين",
+            "toponym_translit": "al-Naḥḥāsīn",
+            "coord_lat": "31.13962",
+            "toponym_search": "al-Nahhasin",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.84677",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.84677,
+            31.13962
+        ]
+    }
+}

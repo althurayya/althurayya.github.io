@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bārāb",
+            "cornu_URI": "BARAB_534E278N_S",
+            "toponym_arabic": "باراب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Barab",
+            "toponym_arabic_other": "باراب",
+            "toponym_translit": "Bārāb",
+            "coord_lat": "27.88081",
+            "toponym_search": "Barab",
+            "region_code": "Faris",
+            "coord_lon": "53.43209",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.43209,
+            27.88081
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArīš",
+            "cornu_URI": "ARISH_045W323N_S",
+            "toponym_arabic": "عريش",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Arish",
+            "toponym_arabic_other": "عريش",
+            "toponym_translit": "ʿArīš",
+            "coord_lat": "32.30201",
+            "toponym_search": "Arish",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.52149",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.52149,
+            32.30201
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abūqšaŧ",
+            "cornu_URI": "ABUQSHA_619E410N_O",
+            "toponym_arabic": "أبوقشة",
+            "top_type_orig": "defile",
+            "toponym_buckwalter": "Abuqsha",
+            "toponym_arabic_other": "أبوقشة",
+            "toponym_translit": "Abūqšaŧ",
+            "coord_lat": "41.04840",
+            "toponym_search": "Abuqsha",
+            "region_code": "Transoxiana",
+            "coord_lon": "61.95529",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.95529,
+            41.0484
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Sūs",
+            "cornu_URI": "NAHRSUS_482E321N_W",
+            "toponym_arabic": "نهر سوس",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Sus",
+            "toponym_arabic_other": "نهر سوس",
+            "toponym_translit": "Nahr Sūs",
+            "coord_lat": "32.16186",
+            "toponym_search": "Nahr Sus",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.20426",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.20426,
+            32.16186
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAyn al-Muġaṭṭāʾ",
+            "cornu_URI": "AYNMUGHATTA_138E373N_S",
+            "toponym_arabic": "عين المغطاء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ayn al-Mughatta",
+            "toponym_arabic_other": "عين المغطاء",
+            "toponym_translit": "ʿAyn al-Muġaṭṭāʾ",
+            "coord_lat": "37.35487",
+            "toponym_search": "Ayn al-Mughatta",
+            "region_code": "Sicile",
+            "coord_lon": "13.86212",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.86212,
+            37.35487
+        ]
+    }
+}

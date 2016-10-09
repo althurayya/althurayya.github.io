@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dānǧī",
+            "cornu_URI": "DANJI_516E329N_S",
+            "toponym_arabic": "دانجي",
+            "top_type_orig": "relais",
+            "toponym_buckwalter": "Danji",
+            "toponym_arabic_other": "دانجي",
+            "toponym_translit": "Dānǧī",
+            "coord_lat": "32.90827",
+            "toponym_search": "Danji",
+            "region_code": "Mafaza",
+            "coord_lon": "51.67468",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.67468,
+            32.90827
+        ]
+    }
+}

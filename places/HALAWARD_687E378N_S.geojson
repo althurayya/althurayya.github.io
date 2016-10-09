@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Halāward",
+            "cornu_URI": "HALAWARD_687E378N_S",
+            "toponym_arabic": "هلاورد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Halaward",
+            "toponym_arabic_other": "هلاورد",
+            "toponym_translit": "Halāward",
+            "coord_lat": "37.83441",
+            "toponym_search": "Halaward",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.78102",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.78102,
+            37.83441
+        ]
+    }
+}

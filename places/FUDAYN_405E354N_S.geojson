@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001134-000.json": {
+                "title": "الفدوين",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fudayn",
+            "cornu_URI": "FUDAYN_405E354N_S",
+            "toponym_arabic": "الفدين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Fudayn",
+            "toponym_arabic_other": "الفدين",
+            "toponym_translit": "al-Fudayn",
+            "coord_lat": "35.41480",
+            "toponym_search": "al-Fudayn",
+            "region_code": "Aqur",
+            "coord_lon": "40.59626",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.59626,
+            35.4148
+        ]
+    }
+}

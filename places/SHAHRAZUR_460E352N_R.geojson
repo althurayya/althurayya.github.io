@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000898-000.json": {
+                "title": "شهرزور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šahrazūr",
+            "cornu_URI": "SHAHRAZUR_460E352N_R",
+            "toponym_arabic": "شهرزور",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Shahrazur",
+            "toponym_arabic_other": "شهرزور",
+            "toponym_translit": "Šahrazūr",
+            "coord_lat": "35.25767",
+            "toponym_search": "Shahrazur",
+            "region_code": "Jibal",
+            "coord_lon": "46.01676",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.01676,
+            35.25767
+        ]
+    }
+}

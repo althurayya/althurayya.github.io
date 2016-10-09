@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šūrirūḏ, Šūr Duwāzdaŧ",
+            "cornu_URI": "SHURIRUDH_577E312N_S",
+            "toponym_arabic": "شورروذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Shurirudh, Shur Duwazda",
+            "toponym_arabic_other": "شورروذ، شور دوازدة",
+            "toponym_translit": "Šūrirūḏ",
+            "coord_lat": "31.27116",
+            "toponym_search": "Shurirudh, Shur Duwazda",
+            "region_code": "Mafaza",
+            "coord_lon": "57.78936",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.78936,
+            31.27116
+        ]
+    }
+}

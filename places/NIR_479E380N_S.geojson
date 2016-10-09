@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001525-000.json": {
+                "title": "النجير",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nīr",
+            "cornu_URI": "NIR_479E380N_S",
+            "toponym_arabic": "النير",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Nir",
+            "toponym_arabic_other": "النير",
+            "toponym_translit": "al-Nīr",
+            "coord_lat": "38.02656",
+            "toponym_search": "al-Nir",
+            "region_code": "Rihab",
+            "coord_lon": "47.99130",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.9913,
+            38.02656
+        ]
+    }
+}

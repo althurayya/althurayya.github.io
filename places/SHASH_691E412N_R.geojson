@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000864-000.json": {
+                "title": "الشاش",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000865-000.json": {
+                "title": "الشاشين",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šāš, Bilād al-Šāš",
+            "cornu_URI": "SHASH_691E412N_R",
+            "toponym_arabic": "الشاش",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Shash, Bilad al-Shash",
+            "toponym_arabic_other": "الشاش، بلاد الشاش",
+            "toponym_translit": "al-Šāš",
+            "coord_lat": "41.27136",
+            "toponym_search": "al-Shash, Bilad al-Shash",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.18357",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.18357,
+            41.27136
+        ]
+    }
+}

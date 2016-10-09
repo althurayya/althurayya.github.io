@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001033-000.json": {
+                "title": "عبادان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAbbādān",
+            "cornu_URI": "ABBADAN_482E303N_S",
+            "toponym_arabic": "عبادان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abbadan",
+            "toponym_arabic_other": "عبادان",
+            "toponym_translit": "ʿAbbādān",
+            "coord_lat": "30.33563",
+            "toponym_search": "Abbadan",
+            "region_code": "Iraq",
+            "coord_lon": "48.27394",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.27394,
+            30.33563
+        ]
+    }
+}

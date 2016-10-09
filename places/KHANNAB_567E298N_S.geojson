@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫannāb",
+            "cornu_URI": "KHANNAB_567E298N_S",
+            "toponym_arabic": "خناب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khannab",
+            "toponym_arabic_other": "خناب",
+            "toponym_translit": "Ḫannāb",
+            "coord_lat": "29.85672",
+            "toponym_search": "Khannab",
+            "region_code": "Kirman",
+            "coord_lon": "56.71727",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.71727,
+            29.85672
+        ]
+    }
+}

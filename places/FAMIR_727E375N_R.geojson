@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fāmir",
+            "cornu_URI": "FAMIR_727E375N_R",
+            "toponym_arabic": "فامر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Famir",
+            "toponym_arabic_other": "فامر",
+            "toponym_translit": "Fāmir",
+            "coord_lat": "37.57252",
+            "toponym_search": "Famir",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.79201",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.79201,
+            37.57252
+        ]
+    }
+}

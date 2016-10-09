@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Awsiyaŧ",
+            "cornu_URI": "AWSIYA_312E311N_R",
+            "toponym_arabic": "الأوسية",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "al-Awsiya",
+            "toponym_arabic_other": "الأوسية",
+            "toponym_translit": "al-Awsiyaŧ",
+            "coord_lat": "31.19181",
+            "toponym_search": "al-Awsiya",
+            "region_code": "Egypt",
+            "coord_lon": "31.25278",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.25278,
+            31.19181
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001524-000.json": {
+                "title": "نجيرم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Naǧīram",
+            "cornu_URI": "NAJIRAM_511E284N_R",
+            "toponym_arabic": "نجيرم",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Najiram",
+            "toponym_arabic_other": "نجيرم",
+            "toponym_translit": "Naǧīram",
+            "coord_lat": "28.49687",
+            "toponym_search": "Najiram",
+            "region_code": "Faris",
+            "coord_lon": "51.12283",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.12283,
+            28.49687
+        ]
+    }
+}

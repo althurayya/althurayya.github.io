@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏū Ǧurraŧ",
+            "cornu_URI": "DHUJURRA_446E154N_R",
+            "toponym_arabic": "ذو جرة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Dhu Jurra",
+            "toponym_arabic_other": "ذو جرة",
+            "toponym_translit": "Ḏū Ǧurraŧ",
+            "coord_lat": "15.40346",
+            "toponym_search": "Dhu Jurra",
+            "region_code": "Yemen",
+            "coord_lon": "44.64961",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.64961,
+            15.40346
+        ]
+    }
+}

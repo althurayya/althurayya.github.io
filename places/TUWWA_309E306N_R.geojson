@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭuwwaŧ",
+            "cornu_URI": "TUWWA_309E306N_R",
+            "toponym_arabic": "طوة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Tuwwa",
+            "toponym_arabic_other": "طوة",
+            "toponym_translit": "Ṭuwwaŧ",
+            "coord_lat": "30.68075",
+            "toponym_search": "Tuwwa",
+            "region_code": "Egypt",
+            "coord_lon": "30.93316",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.93316,
+            30.68075
+        ]
+    }
+}

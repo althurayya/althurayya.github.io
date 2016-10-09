@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sadūsān, Sadūstān",
+            "cornu_URI": "SADUSAN_678E264N_S",
+            "toponym_arabic": "سدوسان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sadusan, Sadustan",
+            "toponym_arabic_other": "سدوسان، سدوستان",
+            "toponym_translit": "Sadūsān",
+            "coord_lat": "26.41721",
+            "toponym_search": "Sadusan, Sadustan",
+            "region_code": "Sind",
+            "coord_lon": "67.85929",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.85929,
+            26.41721
+        ]
+    }
+}

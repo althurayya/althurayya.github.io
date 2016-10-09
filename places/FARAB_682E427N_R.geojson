@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001118-000.json": {
+                "title": "فاراب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fārāb, Bārāb",
+            "cornu_URI": "FARAB_682E427N_R",
+            "toponym_arabic": "فاراب",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Farab, Barab",
+            "toponym_arabic_other": "فاراب، باراب",
+            "toponym_translit": "Fārāb",
+            "coord_lat": "42.74490",
+            "toponym_search": "Farab, Barab",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.29439",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.29439,
+            42.7449
+        ]
+    }
+}

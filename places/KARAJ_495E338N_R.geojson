@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001280-000.json": {
+                "title": "الكرج",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Karaǧ, Karaǧ Abū Dulaf",
+            "cornu_URI": "KARAJ_495E338N_R",
+            "toponym_arabic": "الكرج",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "al-Karaj, Karaj Abu Dulaf",
+            "toponym_arabic_other": "الكرج، كرج أبو دلف",
+            "toponym_translit": "al-Karaǧ",
+            "coord_lat": "33.88116",
+            "toponym_search": "al-Karaj, Karaj Abu Dulaf",
+            "region_code": "Jibal",
+            "coord_lon": "49.54697",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.54697,
+            33.88116
+        ]
+    }
+}

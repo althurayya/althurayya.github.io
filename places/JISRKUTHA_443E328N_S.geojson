@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧisr Kūṯá",
+            "cornu_URI": "JISRKUTHA_443E328N_S",
+            "toponym_arabic": "جسر كوثى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jisr Kutha",
+            "toponym_arabic_other": "جسر كوثى",
+            "toponym_translit": "Ǧisr Kūṯá",
+            "coord_lat": "32.87594",
+            "toponym_search": "Jisr Kutha",
+            "region_code": "Iraq",
+            "coord_lon": "44.36973",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.36973,
+            32.87594
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Sarāb",
+            "cornu_URI": "RIBATSARAB_663E318N_S",
+            "toponym_arabic": "رباط سراب",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Sarab",
+            "toponym_arabic_other": "رباط سراب",
+            "toponym_translit": "Ribāṭ Sarāb",
+            "coord_lat": "31.85842",
+            "toponym_search": "Ribat Sarab",
+            "region_code": "Sijistan",
+            "coord_lon": "66.38343",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.38343,
+            31.85842
+        ]
+    }
+}

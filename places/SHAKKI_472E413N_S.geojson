@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šakkī",
+            "cornu_URI": "SHAKKI_472E413N_S",
+            "toponym_arabic": "شكي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shakki",
+            "toponym_arabic_other": "شكي",
+            "toponym_translit": "Šakkī",
+            "coord_lat": "41.34856",
+            "toponym_search": "Shakki",
+            "region_code": "Rihab",
+            "coord_lon": "47.20469",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.20469,
+            41.34856
+        ]
+    }
+}

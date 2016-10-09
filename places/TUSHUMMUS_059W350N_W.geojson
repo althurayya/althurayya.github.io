@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000380-000.json": {
+                "title": "تشومس",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tušummus",
+            "cornu_URI": "TUSHUMMUS_059W350N_W",
+            "toponym_arabic": "تشمس",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Tushummus",
+            "toponym_arabic_other": "تشمس",
+            "toponym_translit": "Tušummus",
+            "coord_lat": "35.07007",
+            "toponym_search": "Tushummus",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.95157",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.95157,
+            35.07007
+        ]
+    }
+}

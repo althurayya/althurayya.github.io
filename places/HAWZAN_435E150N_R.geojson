@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hawzān",
+            "cornu_URI": "HAWZAN_435E150N_R",
+            "toponym_arabic": "هوزان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Hawzan",
+            "toponym_arabic_other": "هوزان",
+            "toponym_translit": "Hawzān",
+            "coord_lat": "15.08010",
+            "toponym_search": "Hawzan",
+            "region_code": "Yemen",
+            "coord_lon": "43.50125",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.50125,
+            15.0801
+        ]
+    }
+}

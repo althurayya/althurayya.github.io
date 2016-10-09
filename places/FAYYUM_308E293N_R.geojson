@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001158-000.json": {
+                "title": "الفيوم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fayyūm",
+            "cornu_URI": "FAYYUM_308E293N_R",
+            "toponym_arabic": "الفيوم",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "al-Fayyum",
+            "toponym_arabic_other": "الفيوم",
+            "toponym_translit": "al-Fayyūm",
+            "coord_lat": "29.35921",
+            "toponym_search": "al-Fayyum",
+            "region_code": "Egypt",
+            "coord_lon": "30.84266",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.84266,
+            29.35921
+        ]
+    }
+}

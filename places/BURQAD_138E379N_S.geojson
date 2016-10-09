@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būrqād",
+            "cornu_URI": "BURQAD_138E379N_S",
+            "toponym_arabic": "بورقاد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Burqad",
+            "toponym_arabic_other": "بورقاد",
+            "toponym_translit": "Būrqād",
+            "coord_lat": "37.97731",
+            "toponym_search": "Burqad",
+            "region_code": "Sicile",
+            "coord_lon": "13.87795",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.87795,
+            37.97731
+        ]
+    }
+}

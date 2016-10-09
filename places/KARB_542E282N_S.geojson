@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karb",
+            "cornu_URI": "KARB_542E282N_S",
+            "toponym_arabic": "كرب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Karb",
+            "toponym_arabic_other": "كرب",
+            "toponym_translit": "Karb",
+            "coord_lat": "28.26649",
+            "toponym_search": "Karb",
+            "region_code": "Faris",
+            "coord_lon": "54.21531",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.21531,
+            28.26649
+        ]
+    }
+}

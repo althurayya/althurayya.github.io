@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000059-000.json": {
+                "title": "اذنه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Awḏanaŧ",
+            "cornu_URI": "AWDHANA_102E365N_S",
+            "toponym_arabic": "أوذنة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Awdhana",
+            "toponym_arabic_other": "أوذنة",
+            "toponym_translit": "Awḏanaŧ",
+            "coord_lat": "36.59668",
+            "toponym_search": "Awdhana",
+            "region_code": "Maghrib",
+            "coord_lon": "10.28004",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.28004,
+            36.59668
+        ]
+    }
+}

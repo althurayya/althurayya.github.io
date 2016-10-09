@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maymaḏ, Mīmaḏ",
+            "cornu_URI": "MAYMADH_470E385N_R",
+            "toponym_arabic": "ميمذ",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Maymadh, Mimadh",
+            "toponym_arabic_other": "ميمذ، ميمذ",
+            "toponym_translit": "Maymaḏ",
+            "coord_lat": "38.54980",
+            "toponym_search": "Maymadh, Mimadh",
+            "region_code": "Rihab",
+            "coord_lon": "47.02219",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.02219,
+            38.5498
+        ]
+    }
+}

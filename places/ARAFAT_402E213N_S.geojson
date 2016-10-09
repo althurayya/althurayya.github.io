@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArafāt",
+            "cornu_URI": "ARAFAT_402E213N_S",
+            "toponym_arabic": "عرفات",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Arafat",
+            "toponym_arabic_other": "عرفات",
+            "toponym_translit": "ʿArafāt",
+            "coord_lat": "21.32282",
+            "toponym_search": "Arafat",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.20316",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.20316,
+            21.32282
+        ]
+    }
+}

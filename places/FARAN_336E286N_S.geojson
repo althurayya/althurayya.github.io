@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001121-000.json": {
+                "title": "فاران",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fārān",
+            "cornu_URI": "FARAN_336E286N_S",
+            "toponym_arabic": "فاران",
+            "top_type_orig": "district/oasis/cite?",
+            "toponym_buckwalter": "Faran",
+            "toponym_arabic_other": "فاران",
+            "toponym_translit": "Fārān",
+            "coord_lat": "28.67926",
+            "toponym_search": "Faran",
+            "region_code": "Egypt",
+            "coord_lon": "33.67254",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.67254,
+            28.67926
+        ]
+    }
+}

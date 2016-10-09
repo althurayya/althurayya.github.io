@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Bulkūnaŧ",
+            "cornu_URI": "HISNBULKUNA_042W378N_S",
+            "toponym_arabic": "حصن بلكونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hisn Bulkuna",
+            "toponym_arabic_other": "حصن بلكونة",
+            "toponym_translit": "Ḥiṣn Bulkūnaŧ",
+            "coord_lat": "37.87073",
+            "toponym_search": "Hisn Bulkuna",
+            "region_code": "Andalus",
+            "coord_lon": "-4.22025",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.22025,
+            37.87073
+        ]
+    }
+}

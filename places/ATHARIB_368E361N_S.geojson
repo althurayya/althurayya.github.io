@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aṯārib",
+            "cornu_URI": "ATHARIB_368E361N_S",
+            "toponym_arabic": "الأثارب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Atharib",
+            "toponym_arabic_other": "الأثارب",
+            "toponym_translit": "al-Aṯārib",
+            "coord_lat": "36.13792",
+            "toponym_search": "al-Atharib",
+            "region_code": "Sham",
+            "coord_lon": "36.83533",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.83533,
+            36.13792
+        ]
+    }
+}

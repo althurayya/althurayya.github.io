@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAlṯ ,  al-ʿAlṯ",
+            "cornu_URI": "ALTH_440E340N_S",
+            "toponym_arabic": "علث ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Alth ,  al-Alth",
+            "toponym_arabic_other": "علث ،  العلث",
+            "toponym_translit": "ʿAlṯ ",
+            "coord_lat": "34.02656",
+            "toponym_search": "Alth ,  al-Alth",
+            "region_code": "Iraq",
+            "coord_lon": "44.08916",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.08916,
+            34.02656
+        ]
+    }
+}

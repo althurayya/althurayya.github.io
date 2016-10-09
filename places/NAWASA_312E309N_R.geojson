@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001542-000.json": {
+                "title": "نسا",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nawasā",
+            "cornu_URI": "NAWASA_312E309N_R",
+            "toponym_arabic": "نوسا",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Nawasa",
+            "toponym_arabic_other": "نوسا",
+            "toponym_translit": "Nawasā",
+            "coord_lat": "30.97866",
+            "toponym_search": "Nawasa",
+            "region_code": "Egypt",
+            "coord_lon": "31.28494",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.28494,
+            30.97866
+        ]
+    }
+}

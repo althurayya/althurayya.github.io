@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000067-000.json": {
+                "title": "اربونه",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000080-000.json": {
+                "title": "ارجونه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arǧūnaŧ",
+            "cornu_URI": "ARJUNA_040W379N_S",
+            "toponym_arabic": "أرجونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arjuna",
+            "toponym_arabic_other": "أرجونة",
+            "toponym_translit": "Arǧūnaŧ",
+            "coord_lat": "37.92040",
+            "toponym_search": "Arjuna",
+            "region_code": "Andalus",
+            "coord_lon": "-4.05300",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.053,
+            37.9204
+        ]
+    }
+}

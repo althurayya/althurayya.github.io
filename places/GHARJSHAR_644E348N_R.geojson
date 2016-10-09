@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000438-000.json": {
+                "title": "جرجان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġarǧ al-Šār, Ǧarǧistān",
+            "cornu_URI": "GHARJSHAR_644E348N_R",
+            "toponym_arabic": "غرج الشار",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Gharj al-Shar, Jarjistan",
+            "toponym_arabic_other": "غرج الشار، جرجستان",
+            "toponym_translit": "Ġarǧ al-Šār",
+            "coord_lat": "34.88273",
+            "toponym_search": "Gharj al-Shar, Jarjistan",
+            "region_code": "Khurasan",
+            "coord_lon": "64.44388",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.44388,
+            34.88273
+        ]
+    }
+}

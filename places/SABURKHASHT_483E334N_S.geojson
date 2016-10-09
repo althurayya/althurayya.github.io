@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sābūrḫāšt, Sābūrḫuwāšt",
+            "cornu_URI": "SABURKHASHT_483E334N_S",
+            "toponym_arabic": "سابورخاشت",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Saburkhasht, Saburkhuwasht",
+            "toponym_arabic_other": "سابورخاشت، سابورخواشت",
+            "toponym_translit": "Sābūrḫāšt",
+            "coord_lat": "33.49102",
+            "toponym_search": "Saburkhasht, Saburkhuwasht",
+            "region_code": "Jibal",
+            "coord_lon": "48.36521",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.36521,
+            33.49102
+        ]
+    }
+}

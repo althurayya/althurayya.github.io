@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ābaskūn",
+            "cornu_URI": "ABASKUN_540E370N_S",
+            "toponym_arabic": "آبسكون",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Abaskun",
+            "toponym_arabic_other": "آبسكون",
+            "toponym_translit": "Ābaskūn",
+            "coord_lat": "37.02772",
+            "toponym_search": "Abaskun",
+            "region_code": "Daylam",
+            "coord_lon": "54.04327",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.04327,
+            37.02772
+        ]
+    }
+}

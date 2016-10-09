@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001292-000.json": {
+                "title": "كند",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001295-000.json": {
+                "title": "كنك",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kandak",
+            "cornu_URI": "KANDAK_667E383N_S",
+            "toponym_arabic": "كندك",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kandak",
+            "toponym_arabic_other": "كندك",
+            "toponym_translit": "Kandak",
+            "coord_lat": "38.37384",
+            "toponym_search": "Kandak",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.78829",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.78829,
+            38.37384
+        ]
+    }
+}

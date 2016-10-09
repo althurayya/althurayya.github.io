@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr al-ʿAṭiš",
+            "cornu_URI": "QASRATISH_181E305N_S",
+            "toponym_arabic": "قصر العطش",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qasr al-Atish",
+            "toponym_arabic_other": "قصر العطش",
+            "toponym_translit": "Qaṣr al-ʿAṭiš",
+            "coord_lat": "30.54115",
+            "toponym_search": "Qasr al-Atish",
+            "region_code": "Barqa",
+            "coord_lon": "18.19751",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.19751,
+            30.54115
+        ]
+    }
+}

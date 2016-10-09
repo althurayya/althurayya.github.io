@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000348-000.json": {
+                "title": "تبسا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tabassā",
+            "cornu_URI": "TABASSA_081E353N_S",
+            "toponym_arabic": "تبسا",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Tabassa",
+            "toponym_arabic_other": "تبسا",
+            "toponym_translit": "Tabassā",
+            "coord_lat": "35.37489",
+            "toponym_search": "Tabassa",
+            "region_code": "Maghrib",
+            "coord_lon": "8.13227",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.13227,
+            35.37489
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000468-000.json": {
+                "title": "جناباذ",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yunābīḏ, Ǧunābiḏ",
+            "cornu_URI": "YUNABIDH_586E342N_S",
+            "toponym_arabic": "ينابيذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Yunabidh, Junabidh",
+            "toponym_arabic_other": "ينابيذ، جنابذ",
+            "toponym_translit": "Yunābīḏ",
+            "coord_lat": "34.24652",
+            "toponym_search": "Yunabidh, Junabidh",
+            "region_code": "Khurasan",
+            "coord_lon": "58.63618",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.63618,
+            34.24652
+        ]
+    }
+}

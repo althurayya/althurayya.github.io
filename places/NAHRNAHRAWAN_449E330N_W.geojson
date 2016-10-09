@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Nahrawān",
+            "cornu_URI": "NAHRNAHRAWAN_449E330N_W",
+            "toponym_arabic": "نهر النهروان",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr al-Nahrawan",
+            "toponym_arabic_other": "نهر النهروان",
+            "toponym_translit": "Nahr al-Nahrawān",
+            "coord_lat": "33.09856",
+            "toponym_search": "Nahr al-Nahrawan",
+            "region_code": "Iraq",
+            "coord_lon": "44.97772",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.97772,
+            33.09856
+        ]
+    }
+}

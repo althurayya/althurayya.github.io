@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karkūyah",
+            "cornu_URI": "KARKUYAH_617E312N_S",
+            "toponym_arabic": "كركويه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Karkuyah",
+            "toponym_arabic_other": "كركويه",
+            "toponym_translit": "Karkūyah",
+            "coord_lat": "31.26104",
+            "toponym_search": "Karkuyah",
+            "region_code": "Sijistan",
+            "coord_lon": "61.74272",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.74272,
+            31.26104
+        ]
+    }
+}

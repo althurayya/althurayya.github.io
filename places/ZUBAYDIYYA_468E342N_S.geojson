@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Zubaydiyyaŧ",
+            "cornu_URI": "ZUBAYDIYYA_468E342N_S",
+            "toponym_arabic": "الزبيدية",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "al-Zubaydiyya",
+            "toponym_arabic_other": "الزبيدية",
+            "toponym_translit": "al-Zubaydiyyaŧ",
+            "coord_lat": "34.23099",
+            "toponym_search": "al-Zubaydiyya",
+            "region_code": "Jibal",
+            "coord_lon": "46.85168",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.85168,
+            34.23099
+        ]
+    }
+}

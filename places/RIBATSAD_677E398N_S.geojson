@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Saʿd",
+            "cornu_URI": "RIBATSAD_677E398N_S",
+            "toponym_arabic": "رباط سعد",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Sad",
+            "toponym_arabic_other": "رباط سعد",
+            "toponym_translit": "Ribāṭ Saʿd",
+            "coord_lat": "39.85470",
+            "toponym_search": "Ribat Sad",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.71106",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.71106,
+            39.8547
+        ]
+    }
+}

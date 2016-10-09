@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0608",
+            "cornu_URI": "ROUTPOINT0608_529E326N_O",
+            "toponym_arabic": "RoutPoint0608",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0608",
+            "toponym_arabic_other": "RoutPoint0608",
+            "toponym_translit": "RoutPoint0608",
+            "coord_lat": "32.69885",
+            "toponym_search": "RoutPoint0608",
+            "region_code": "Mafaza",
+            "coord_lon": "52.92404",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.92404,
+            32.69885
+        ]
+    }
+}

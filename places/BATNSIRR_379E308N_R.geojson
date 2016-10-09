@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṭn al-Sirr",
+            "cornu_URI": "BATNSIRR_379E308N_R",
+            "toponym_arabic": "بطن السر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Batn al-Sirr",
+            "toponym_arabic_other": "بطن السر",
+            "toponym_translit": "Baṭn al-Sirr",
+            "coord_lat": "30.86285",
+            "toponym_search": "Batn al-Sirr",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.96500",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.965,
+            30.86285
+        ]
+    }
+}

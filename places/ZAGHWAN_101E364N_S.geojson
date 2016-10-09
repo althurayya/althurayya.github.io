@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000754-000.json": {
+                "title": "زغوان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zaġwān",
+            "cornu_URI": "ZAGHWAN_101E364N_S",
+            "toponym_arabic": "زغوان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Zaghwan",
+            "toponym_arabic_other": "زغوان",
+            "toponym_translit": "Zaġwān",
+            "coord_lat": "36.40097",
+            "toponym_search": "Zaghwan",
+            "region_code": "Maghrib",
+            "coord_lon": "10.13608",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13608,
+            36.40097
+        ]
+    }
+}

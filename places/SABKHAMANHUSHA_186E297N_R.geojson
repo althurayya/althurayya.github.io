@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sabḫaŧ Manhūšā",
+            "cornu_URI": "SABKHAMANHUSHA_186E297N_R",
+            "toponym_arabic": "سبخة منهوشا",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Sabkha Manhusha",
+            "toponym_arabic_other": "سبخة منهوشا",
+            "toponym_translit": "Sabḫaŧ Manhūšā",
+            "coord_lat": "29.78891",
+            "toponym_search": "Sabkha Manhusha",
+            "region_code": "Barqa",
+            "coord_lon": "18.63423",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.63423,
+            29.78891
+        ]
+    }
+}

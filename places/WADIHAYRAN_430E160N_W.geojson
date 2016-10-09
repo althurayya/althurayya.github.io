@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Ḥayrān",
+            "cornu_URI": "WADIHAYRAN_430E160N_W",
+            "toponym_arabic": "وادي حيران",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Hayran",
+            "toponym_arabic_other": "وادي حيران",
+            "toponym_translit": "Wādī Ḥayrān",
+            "coord_lat": "16.05227",
+            "toponym_search": "Wadi Hayran",
+            "region_code": "Yemen",
+            "coord_lon": "43.06403",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.06403,
+            16.05227
+        ]
+    }
+}

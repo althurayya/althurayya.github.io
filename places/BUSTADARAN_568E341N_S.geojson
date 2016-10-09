@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bustadārān",
+            "cornu_URI": "BUSTADARAN_568E341N_S",
+            "toponym_arabic": "بستداران",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bustadaran",
+            "toponym_arabic_other": "بستداران",
+            "toponym_translit": "Bustadārān",
+            "coord_lat": "34.16617",
+            "toponym_search": "Bustadaran",
+            "region_code": "Mafaza",
+            "coord_lon": "56.87872",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.87872,
+            34.16617
+        ]
+    }
+}

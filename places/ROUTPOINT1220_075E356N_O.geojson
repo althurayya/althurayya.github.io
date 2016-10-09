@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1220",
+            "cornu_URI": "ROUTPOINT1220_075E356N_O",
+            "toponym_arabic": "RoutPoint1220",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1220",
+            "toponym_arabic_other": "RoutPoint1220",
+            "toponym_translit": "RoutPoint1220",
+            "coord_lat": "35.68292",
+            "toponym_search": "RoutPoint1220",
+            "region_code": "Maghrib",
+            "coord_lon": "7.59215",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.59215,
+            35.68292
+        ]
+    }
+}

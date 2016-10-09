@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ištīḫān",
+            "cornu_URI": "ISHTIKHAN_668E399N_S",
+            "toponym_arabic": "إشتيخان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ishtikhan",
+            "toponym_arabic_other": "إشتيخان",
+            "toponym_translit": "Ištīḫān",
+            "coord_lat": "39.94544",
+            "toponym_search": "Ishtikhan",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.87902",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.87902,
+            39.94544
+        ]
+    }
+}

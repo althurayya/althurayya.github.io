@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Farġānaŧ",
+            "cornu_URI": "FARGHANA_720E403N_R",
+            "toponym_arabic": "فرغانة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Farghana",
+            "toponym_arabic_other": "فرغانة",
+            "toponym_translit": "Farġānaŧ",
+            "coord_lat": "40.33989",
+            "toponym_search": "Farghana",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.02839",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.02839,
+            40.33989
+        ]
+    }
+}

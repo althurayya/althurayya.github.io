@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1915",
+            "cornu_URI": "ROUTPOINT1915_655E314N_O",
+            "toponym_arabic": "RoutPoint1915",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1915",
+            "toponym_arabic_other": "RoutPoint1915",
+            "toponym_translit": "RoutPoint1915",
+            "coord_lat": "31.48828",
+            "toponym_search": "RoutPoint1915",
+            "region_code": "Sijistan",
+            "coord_lon": "65.57805",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.57805,
+            31.48828
+        ]
+    }
+}

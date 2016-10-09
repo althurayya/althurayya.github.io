@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000594-000.json": {
+                "title": "دبيل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dabīl",
+            "cornu_URI": "DABIL_446E401N_S",
+            "toponym_arabic": "دبيل",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Dabil",
+            "toponym_arabic_other": "دبيل",
+            "toponym_translit": "Dabīl",
+            "coord_lat": "40.16468",
+            "toponym_search": "Dabil",
+            "region_code": "Rihab",
+            "coord_lon": "44.68562",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.68562,
+            40.16468
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001292-000.json": {
+                "title": "كند",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kand",
+            "cornu_URI": "KAND_705E402N_S",
+            "toponym_arabic": "كند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kand",
+            "toponym_arabic_other": "كند",
+            "toponym_translit": "Kand",
+            "coord_lat": "40.29225",
+            "toponym_search": "Kand",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.51735",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.51735,
+            40.29225
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000542-000.json": {
+                "title": "خانقين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫāniqīn",
+            "cornu_URI": "KHANIQIN_454E343N_S",
+            "toponym_arabic": "خانقين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khaniqin",
+            "toponym_arabic_other": "خانقين",
+            "toponym_translit": "Ḫāniqīn",
+            "coord_lat": "34.34844",
+            "toponym_search": "Khaniqin",
+            "region_code": "Iraq",
+            "coord_lon": "45.44708",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.44708,
+            34.34844
+        ]
+    }
+}

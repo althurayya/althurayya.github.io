@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rībāṭ ʿAliyyābāḏ",
+            "cornu_URI": "RIBATALIYYABADH_537E357N_S",
+            "toponym_arabic": "ريباط علياباذ",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Aliyyabadh",
+            "toponym_arabic_other": "ريباط علياباذ",
+            "toponym_translit": "Rībāṭ ʿAliyyābāḏ",
+            "coord_lat": "35.74424",
+            "toponym_search": "Ribat Aliyyabadh",
+            "region_code": "Daylam",
+            "coord_lon": "53.73487",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.73487,
+            35.74424
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Nīl",
+            "cornu_URI": "NAHRNIL_309E217N_W",
+            "toponym_arabic": "نهر النيل",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Nil",
+            "toponym_arabic_other": "نهر النيل",
+            "toponym_translit": "Nahr al-Nīl",
+            "coord_lat": "21.75496",
+            "toponym_search": "Nahr al-Nil",
+            "region_code": "Egypt",
+            "coord_lon": "30.94294",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.94294,
+            21.75496
+        ]
+    }
+}

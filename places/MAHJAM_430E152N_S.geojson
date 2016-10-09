@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Mahǧam",
+            "cornu_URI": "MAHJAM_430E152N_S",
+            "toponym_arabic": "المهجم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Mahjam",
+            "toponym_arabic_other": "المهجم",
+            "toponym_translit": "al-Mahǧam",
+            "coord_lat": "15.22352",
+            "toponym_search": "al-Mahjam",
+            "region_code": "Yemen",
+            "coord_lon": "43.07237",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.07237,
+            15.22352
+        ]
+    }
+}

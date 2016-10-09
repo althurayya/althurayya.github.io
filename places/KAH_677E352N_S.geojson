@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000421-000.json": {
+                "title": "جامه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000420-000.json": {
+                "title": "جابه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kāh, Ǧāh",
+            "cornu_URI": "KAH_677E352N_S",
+            "toponym_arabic": "كاه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kah, Jah",
+            "toponym_arabic_other": "كاه، جاه",
+            "toponym_translit": "Kāh",
+            "coord_lat": "35.24443",
+            "toponym_search": "Kah, Jah",
+            "region_code": "Khurasan",
+            "coord_lon": "67.72517",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.72517,
+            35.24443
+        ]
+    }
+}

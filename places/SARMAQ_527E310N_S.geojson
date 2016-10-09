@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000800-000.json": {
+                "title": "سرق",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarmaq, al-Surmaq",
+            "cornu_URI": "SARMAQ_527E310N_S",
+            "toponym_arabic": "سرمق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sarmaq, al-Surmaq",
+            "toponym_arabic_other": "سرمق، السرمق",
+            "toponym_translit": "Sarmaq",
+            "coord_lat": "31.05956",
+            "toponym_search": "Sarmaq, al-Surmaq",
+            "region_code": "Faris",
+            "coord_lon": "52.79142",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.79142,
+            31.05956
+        ]
+    }
+}

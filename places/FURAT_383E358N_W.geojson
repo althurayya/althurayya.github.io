@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001135-000.json": {
+                "title": "الفراض",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001140-000.json": {
+                "title": "الفرات",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Furāt",
+            "cornu_URI": "FURAT_383E358N_W",
+            "toponym_arabic": "الفرات",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "al-Furat",
+            "toponym_arabic_other": "الفرات",
+            "toponym_translit": "al-Furāt",
+            "coord_lat": "35.81449",
+            "toponym_search": "al-Furat",
+            "region_code": "Sham",
+            "coord_lon": "38.38504",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.38504,
+            35.81449
+        ]
+    }
+}

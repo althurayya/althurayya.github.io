@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḏaš",
+            "cornu_URI": "BADHASH_551E363N_S",
+            "toponym_arabic": "بذش",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Badhash",
+            "toponym_arabic_other": "بذش",
+            "toponym_translit": "Baḏaš",
+            "coord_lat": "36.33289",
+            "toponym_search": "Badhash",
+            "region_code": "Daylam",
+            "coord_lon": "55.17875",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.17875,
+            36.33289
+        ]
+    }
+}

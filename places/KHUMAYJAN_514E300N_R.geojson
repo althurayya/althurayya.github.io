@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫumayǧān",
+            "cornu_URI": "KHUMAYJAN_514E300N_R",
+            "toponym_arabic": "خميجان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Khumayjan",
+            "toponym_arabic_other": "خميجان",
+            "toponym_translit": "Ḫumayǧān",
+            "coord_lat": "30.01617",
+            "toponym_search": "Khumayjan",
+            "region_code": "Faris",
+            "coord_lon": "51.44858",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.44858,
+            30.01617
+        ]
+    }
+}

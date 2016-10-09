@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000203-000.json": {
+                "title": "بانياس",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sinn Nuḥās, Bāǧunays",
+            "cornu_URI": "SINNNUHAS_416E393N_S",
+            "toponym_arabic": "سن نحاس",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sinn Nuhas, Bajunays",
+            "toponym_arabic_other": "سن نحاس، باجنيس",
+            "toponym_translit": "Sinn Nuḥās",
+            "coord_lat": "39.39009",
+            "toponym_search": "Sinn Nuhas, Bajunays",
+            "region_code": "Rihab",
+            "coord_lon": "41.69403",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.69403,
+            39.39009
+        ]
+    }
+}

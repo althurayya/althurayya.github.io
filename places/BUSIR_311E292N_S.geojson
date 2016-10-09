@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būṣīr, Būṣīr al-Fayyūm, Abūṣīr, Būṣīr Qūrīdus, Būṣīr al-Ašmūnayn",
+            "cornu_URI": "BUSIR_311E292N_S",
+            "toponym_arabic": "بوصير",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Busir, Busir al-Fayyum, Abusir, Busir Quridus, Busir al-Ashmunayn",
+            "toponym_arabic_other": "بوصير، بوصير الفيوم، أبوصير، بوصير قوريدس، بوصير الأشمونين",
+            "toponym_translit": "Būṣīr",
+            "coord_lat": "29.27633",
+            "toponym_search": "Busir, Busir al-Fayyum, Abusir, Busir Quridus, Busir al-Ashmunayn",
+            "region_code": "Egypt",
+            "coord_lon": "31.10677",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.10677,
+            29.27633
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qanbalī, Qanbalá",
+            "cornu_URI": "QANBALI_665E254N_S",
+            "toponym_arabic": "قنبلي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qanbali, Qanbala",
+            "toponym_arabic_other": "قنبلي، قنبلى",
+            "toponym_translit": "Qanbalī",
+            "coord_lat": "25.49111",
+            "toponym_search": "Qanbali, Qanbala",
+            "region_code": "Sind",
+            "coord_lon": "66.57989",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.57989,
+            25.49111
+        ]
+    }
+}

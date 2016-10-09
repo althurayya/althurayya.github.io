@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šabās",
+            "cornu_URI": "SHABAS_307E310N_R",
+            "toponym_arabic": "شباس",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Shabas",
+            "toponym_arabic_other": "شباس",
+            "toponym_translit": "Šabās",
+            "coord_lat": "31.08986",
+            "toponym_search": "Shabas",
+            "region_code": "Egypt",
+            "coord_lon": "30.72312",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.72312,
+            31.08986
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sandiyūn",
+            "cornu_URI": "SANDIYUN_304E312N_S",
+            "toponym_arabic": "سنديون",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Sandiyun",
+            "toponym_arabic_other": "سنديون",
+            "toponym_translit": "Sandiyūn",
+            "coord_lat": "31.25387",
+            "toponym_search": "Sandiyun",
+            "region_code": "Egypt",
+            "coord_lon": "30.47608",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.47608,
+            31.25387
+        ]
+    }
+}

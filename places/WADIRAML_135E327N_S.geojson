@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī al-Raml",
+            "cornu_URI": "WADIRAML_135E327N_S",
+            "toponym_arabic": "وادي الرمل",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Wadi al-Raml",
+            "toponym_arabic_other": "وادي الرمل",
+            "toponym_translit": "Wādī al-Raml",
+            "coord_lat": "32.73756",
+            "toponym_search": "Wadi al-Raml",
+            "region_code": "Barqa",
+            "coord_lon": "13.57504",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.57504,
+            32.73756
+        ]
+    }
+}

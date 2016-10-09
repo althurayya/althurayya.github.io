@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fawwāraŧ",
+            "cornu_URI": "FAWWARA_105E335N_S",
+            "toponym_arabic": "الفوارة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Fawwara",
+            "toponym_arabic_other": "الفوارة",
+            "toponym_translit": "al-Fawwāraŧ",
+            "coord_lat": "33.55129",
+            "toponym_search": "al-Fawwara",
+            "region_code": "Barqa",
+            "coord_lon": "10.50881",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.50881,
+            33.55129
+        ]
+    }
+}

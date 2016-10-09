@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000182-000.json": {
+                "title": "اوجله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Awǧilaŧ",
+            "cornu_URI": "AWJILA_212E289N_S",
+            "toponym_arabic": "أوجلة",
+            "top_type_orig": "oasis",
+            "toponym_buckwalter": "Awjila",
+            "toponym_arabic_other": "أوجلة",
+            "toponym_translit": "Awǧilaŧ",
+            "coord_lat": "28.95651",
+            "toponym_search": "Awjila",
+            "region_code": "Barqa",
+            "coord_lon": "21.21413",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.21413,
+            28.95651
+        ]
+    }
+}

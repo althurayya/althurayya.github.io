@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001400-000.json": {
+                "title": "مرو الشاهجان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marw, Marw al-Šāhiǧān",
+            "cornu_URI": "MARW_621E376N_R",
+            "toponym_arabic": "مرو",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Marw, Marw al-Shahijan",
+            "toponym_arabic_other": "مرو، مرو الشاهجان",
+            "toponym_translit": "Marw",
+            "coord_lat": "37.67193",
+            "toponym_search": "Marw, Marw al-Shahijan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.10386",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.10386,
+            37.67193
+        ]
+    }
+}

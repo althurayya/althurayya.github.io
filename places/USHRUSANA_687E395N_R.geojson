@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000165-000.json": {
+                "title": "اشروسنه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000169-000.json": {
+                "title": "اشونه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ušrūsanaŧ",
+            "cornu_URI": "USHRUSANA_687E395N_R",
+            "toponym_arabic": "أشروسنة",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Ushrusana",
+            "toponym_arabic_other": "أشروسنة",
+            "toponym_translit": "Ušrūsanaŧ",
+            "coord_lat": "39.56749",
+            "toponym_search": "Ushrusana",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.72187",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.72187,
+            39.56749
+        ]
+    }
+}

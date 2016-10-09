@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫušunubaŧ, Uḫšunubaŧ",
+            "cornu_URI": "KHUSHUNUBA_079W370N_R",
+            "toponym_arabic": "خشنبة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Khushunuba, Ukhshunuba",
+            "toponym_arabic_other": "خشنبة، أخشنبة",
+            "toponym_translit": "Ḫušunubaŧ",
+            "coord_lat": "37.06463",
+            "toponym_search": "Khushunuba, Ukhshunuba",
+            "region_code": "Andalus",
+            "coord_lon": "-7.90515",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.90515,
+            37.06463
+        ]
+    }
+}

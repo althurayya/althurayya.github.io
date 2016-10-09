@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Furǧ",
+            "cornu_URI": "FURJ_551E283N_S",
+            "toponym_arabic": "فرج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Furj",
+            "toponym_arabic_other": "فرج",
+            "toponym_translit": "Furǧ",
+            "coord_lat": "28.31921",
+            "toponym_search": "Furj",
+            "region_code": "Faris",
+            "coord_lon": "55.16805",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.16805,
+            28.31921
+        ]
+    }
+}

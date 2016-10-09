@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sawǧar",
+            "cornu_URI": "SAWJAR_508E320N_S",
+            "toponym_arabic": "سوجر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sawjar",
+            "toponym_arabic_other": "سوجر",
+            "toponym_translit": "Sawǧar",
+            "coord_lat": "32.09289",
+            "toponym_search": "Sawjar",
+            "region_code": "Khuzistan",
+            "coord_lon": "50.84351",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.84351,
+            32.09289
+        ]
+    }
+}

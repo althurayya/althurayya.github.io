@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000587-000.json": {
+                "title": "دارين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dārīn",
+            "cornu_URI": "DARIN_501E262N_S",
+            "toponym_arabic": "دارين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Darin",
+            "toponym_arabic_other": "دارين",
+            "toponym_translit": "Dārīn",
+            "coord_lat": "26.28437",
+            "toponym_search": "Darin",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "50.19373",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.19373,
+            26.28437
+        ]
+    }
+}

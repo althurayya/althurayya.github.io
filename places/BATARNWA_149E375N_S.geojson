@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṭarnwaŧ, Baṭarnw",
+            "cornu_URI": "BATARNWA_149E375N_S",
+            "toponym_arabic": "بطرنوة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Batarnwa, Batarnw",
+            "toponym_arabic_other": "بطرنوة، بطرنو",
+            "toponym_translit": "Baṭarnwaŧ",
+            "coord_lat": "37.57624",
+            "toponym_search": "Batarnwa, Batarnw",
+            "region_code": "Sicile",
+            "coord_lon": "14.91436",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.91436,
+            37.57624
+        ]
+    }
+}

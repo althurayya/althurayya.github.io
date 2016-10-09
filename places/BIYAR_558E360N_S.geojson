@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000328-000.json": {
+                "title": "بياره",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000037-000.json": {
+                "title": "ابيار",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biyār",
+            "cornu_URI": "BIYAR_558E360N_S",
+            "toponym_arabic": "بيار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Biyar",
+            "toponym_arabic_other": "بيار",
+            "toponym_translit": "Biyār",
+            "coord_lat": "36.05824",
+            "toponym_search": "Biyar",
+            "region_code": "Daylam",
+            "coord_lon": "55.86992",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.86992,
+            36.05824
+        ]
+    }
+}

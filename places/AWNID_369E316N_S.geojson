@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001079-000.json": {
+                "title": "العونيد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿAwnīd",
+            "cornu_URI": "AWNID_369E316N_S",
+            "toponym_arabic": "العونيد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Awnid",
+            "toponym_arabic_other": "العونيد",
+            "toponym_translit": "al-ʿAwnīd",
+            "coord_lat": "31.64055",
+            "toponym_search": "al-Awnid",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "36.92899",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.92899,
+            31.64055
+        ]
+    }
+}

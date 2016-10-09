@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ al-Ṣirāṭ",
+            "cornu_URI": "QALASIRAT_139E379N_S",
+            "toponym_arabic": "قلعة الصراط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qala al-Sirat",
+            "toponym_arabic_other": "قلعة الصراط",
+            "toponym_translit": "Qalʿaŧ al-Ṣirāṭ",
+            "coord_lat": "37.93291",
+            "toponym_search": "Qala al-Sirat",
+            "region_code": "Sicile",
+            "coord_lon": "13.95010",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.9501,
+            37.93291
+        ]
+    }
+}

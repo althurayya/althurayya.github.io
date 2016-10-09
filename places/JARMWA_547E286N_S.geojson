@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarmwaŧ",
+            "cornu_URI": "JARMWA_547E286N_S",
+            "toponym_arabic": "جرموة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jarmwa",
+            "toponym_arabic_other": "جرموة",
+            "toponym_translit": "Ǧarmwaŧ",
+            "coord_lat": "28.60070",
+            "toponym_search": "Jarmwa",
+            "region_code": "Faris",
+            "coord_lon": "54.79060",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.7906,
+            28.6007
+        ]
+    }
+}

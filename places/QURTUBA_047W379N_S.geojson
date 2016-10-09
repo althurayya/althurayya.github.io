@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001186-000.json": {
+                "title": "قرطبه",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurṭubaŧ",
+            "cornu_URI": "QURTUBA_047W379N_S",
+            "toponym_arabic": "قرطبة",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Qurtuba",
+            "toponym_arabic_other": "قرطبة",
+            "toponym_translit": "Qurṭubaŧ",
+            "coord_lat": "37.91898",
+            "toponym_search": "Qurtuba",
+            "region_code": "Andalus",
+            "coord_lon": "-4.78135",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.78135,
+            37.91898
+        ]
+    }
+}

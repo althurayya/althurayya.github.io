@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Iṣbahānāt, Iṣṭahbānān",
+            "cornu_URI": "ISBAHANAT_540E291N_S",
+            "toponym_arabic": "الإصبهانات",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "al-Isbahanat, Istahbanan",
+            "toponym_arabic_other": "الإصبهانات، إصطهبانان",
+            "toponym_translit": "al-Iṣbahānāt",
+            "coord_lat": "29.10684",
+            "toponym_search": "al-Isbahanat, Istahbanan",
+            "region_code": "Faris",
+            "coord_lon": "54.04351",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.04351,
+            29.10684
+        ]
+    }
+}

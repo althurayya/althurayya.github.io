@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sakāsik",
+            "cornu_URI": "SAKASIK_441E136N_R",
+            "toponym_arabic": "السكاسك",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Sakasik",
+            "toponym_arabic_other": "السكاسك",
+            "toponym_translit": "al-Sakāsik",
+            "coord_lat": "13.66709",
+            "toponym_search": "al-Sakasik",
+            "region_code": "Yemen",
+            "coord_lon": "44.17420",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.1742,
+            13.66709
+        ]
+    }
+}

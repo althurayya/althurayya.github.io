@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fāsiraŧ, Kāsiraŧ, Qāsiraŧ",
+            "cornu_URI": "FASIRA_358E356N_S",
+            "toponym_arabic": "فاسرة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Fasira, Kasira, Qasira",
+            "toponym_arabic_other": "فاسرة، كاسرة، قاسرة",
+            "toponym_translit": "Fāsiraŧ",
+            "coord_lat": "35.66663",
+            "toponym_search": "Fasira, Kasira, Qasira",
+            "region_code": "Sham",
+            "coord_lon": "35.80083",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.80083,
+            35.66663
+        ]
+    }
+}

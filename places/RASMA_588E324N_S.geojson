@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000675-000.json": {
+                "title": "راس الماء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raʾs al-Māʾ",
+            "cornu_URI": "RASMA_588E324N_S",
+            "toponym_arabic": "رأس الماء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ras al-Ma",
+            "toponym_arabic_other": "رأس الماء",
+            "toponym_translit": "Raʾs al-Māʾ",
+            "coord_lat": "32.43440",
+            "toponym_search": "Ras al-Ma",
+            "region_code": "Mafaza",
+            "coord_lon": "58.87027",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.87027,
+            32.4344
+        ]
+    }
+}

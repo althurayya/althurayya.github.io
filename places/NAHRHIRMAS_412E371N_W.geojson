@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Hirmās",
+            "cornu_URI": "NAHRHIRMAS_412E371N_W",
+            "toponym_arabic": "نهر الهرماس",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Hirmas",
+            "toponym_arabic_other": "نهر الهرماس",
+            "toponym_translit": "Nahr al-Hirmās",
+            "coord_lat": "37.13080",
+            "toponym_search": "Nahr al-Hirmas",
+            "region_code": "Aqur",
+            "coord_lon": "41.24817",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.24817,
+            37.1308
+        ]
+    }
+}

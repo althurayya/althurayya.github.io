@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧirundaŧ",
+            "cornu_URI": "JIRUNDA_028E419N_S",
+            "toponym_arabic": "جرندة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jirunda",
+            "toponym_arabic_other": "جرندة",
+            "toponym_translit": "Ǧirundaŧ",
+            "coord_lat": "41.93607",
+            "toponym_search": "Jirunda",
+            "region_code": "Andalus",
+            "coord_lon": "2.84472",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.84472,
+            41.93607
+        ]
+    }
+}

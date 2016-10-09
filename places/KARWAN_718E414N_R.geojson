@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karwān",
+            "cornu_URI": "KARWAN_718E414N_R",
+            "toponym_arabic": "كروان",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Karwan",
+            "toponym_arabic_other": "كروان",
+            "toponym_translit": "Karwān",
+            "coord_lat": "41.48396",
+            "toponym_search": "Karwan",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.83079",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.83079,
+            41.48396
+        ]
+    }
+}

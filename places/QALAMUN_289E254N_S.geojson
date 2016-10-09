@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalamūn",
+            "cornu_URI": "QALAMUN_289E254N_S",
+            "toponym_arabic": "قلمون",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qalamun",
+            "toponym_arabic_other": "قلمون",
+            "toponym_translit": "Qalamūn",
+            "coord_lat": "25.44771",
+            "toponym_search": "Qalamun",
+            "region_code": "Egypt",
+            "coord_lon": "28.92294",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.92294,
+            25.44771
+        ]
+    }
+}

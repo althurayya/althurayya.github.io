@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayrūt",
+            "cornu_URI": "BAYRUT_479E320N_S",
+            "toponym_arabic": "بيروت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bayrut",
+            "toponym_arabic_other": "بيروت",
+            "toponym_translit": "Bayrūt",
+            "coord_lat": "32.06082",
+            "toponym_search": "Bayrut",
+            "region_code": "Khuzistan",
+            "coord_lon": "47.90375",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.90375,
+            32.06082
+        ]
+    }
+}

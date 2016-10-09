@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Quwayq",
+            "cornu_URI": "NAHRQUWAYQ_372E362N_W",
+            "toponym_arabic": "نهر قويق",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Quwayq",
+            "toponym_arabic_other": "نهر قويق",
+            "toponym_translit": "Nahr Quwayq",
+            "coord_lat": "36.29913",
+            "toponym_search": "Nahr Quwayq",
+            "region_code": "Sham",
+            "coord_lon": "37.22956",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.22956,
+            36.29913
+        ]
+    }
+}

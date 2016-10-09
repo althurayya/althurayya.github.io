@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥaql",
+            "cornu_URI": "HAQL_350E292N_S",
+            "toponym_arabic": "الحقل",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Haql",
+            "toponym_arabic_other": "الحقل",
+            "toponym_translit": "al-Ḥaql",
+            "coord_lat": "29.27449",
+            "toponym_search": "al-Haql",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.03845",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.03845,
+            29.27449
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000806-000.json": {
+                "title": "سطيف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Saṭīf",
+            "cornu_URI": "SATIF_054E361N_S",
+            "toponym_arabic": "سطيف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Satif",
+            "toponym_arabic_other": "سطيف",
+            "toponym_translit": "Saṭīf",
+            "coord_lat": "36.15863",
+            "toponym_search": "Satif",
+            "region_code": "Maghrib",
+            "coord_lon": "5.40760",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.4076,
+            36.15863
+        ]
+    }
+}

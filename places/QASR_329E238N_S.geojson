@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaṣr",
+            "cornu_URI": "QASR_329E238N_S",
+            "toponym_arabic": "القصر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Qasr",
+            "toponym_arabic_other": "القصر",
+            "toponym_translit": "al-Qaṣr",
+            "coord_lat": "23.86056",
+            "toponym_search": "al-Qasr",
+            "region_code": "Egypt",
+            "coord_lon": "32.93994",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.93994,
+            23.86056
+        ]
+    }
+}

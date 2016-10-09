@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kamaḫ, Kamāḫ",
+            "cornu_URI": "KAMAKH_390E395N_S",
+            "toponym_arabic": "كمخ",
+            "top_type_orig": "placefrontiere",
+            "toponym_buckwalter": "Kamakh, Kamakh",
+            "toponym_arabic_other": "كمخ، كماخ",
+            "toponym_translit": "Kamaḫ",
+            "coord_lat": "39.58627",
+            "toponym_search": "Kamakh, Kamakh",
+            "region_code": "Aqur",
+            "coord_lon": "39.02492",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.02492,
+            39.58627
+        ]
+    }
+}

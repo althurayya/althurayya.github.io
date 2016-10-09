@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧalmāniyaŧ",
+            "cornu_URI": "JALMANIYA_072W387N_S",
+            "toponym_arabic": "جلمانية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jalmaniya",
+            "toponym_arabic_other": "جلمانية",
+            "toponym_translit": "Ǧalmāniyaŧ",
+            "coord_lat": "38.77894",
+            "toponym_search": "Jalmaniya",
+            "region_code": "Andalus",
+            "coord_lon": "-7.22985",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.22985,
+            38.77894
+        ]
+    }
+}

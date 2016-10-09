@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nāʾīn",
+            "cornu_URI": "NAIN_531E328N_S",
+            "toponym_arabic": "نائين",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "Nain",
+            "toponym_arabic_other": "نائين",
+            "toponym_translit": "Nāʾīn",
+            "coord_lat": "32.84212",
+            "toponym_search": "Nain",
+            "region_code": "Mafaza",
+            "coord_lon": "53.11258",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.11258,
+            32.84212
+        ]
+    }
+}

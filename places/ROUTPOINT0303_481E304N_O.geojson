@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0303",
+            "cornu_URI": "ROUTPOINT0303_481E304N_O",
+            "toponym_arabic": "RoutPoint0303",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0303",
+            "toponym_arabic_other": "RoutPoint0303",
+            "toponym_translit": "RoutPoint0303",
+            "coord_lat": "30.44293",
+            "toponym_search": "RoutPoint0303",
+            "region_code": "Iraq",
+            "coord_lon": "48.14520",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.1452,
+            30.44293
+        ]
+    }
+}

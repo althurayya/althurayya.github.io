@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qāʾ",
+            "cornu_URI": "QA_436E297N_S",
+            "toponym_arabic": "القاء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qa",
+            "toponym_arabic_other": "القاء",
+            "toponym_translit": "al-Qāʾ",
+            "coord_lat": "29.78571",
+            "toponym_search": "al-Qa",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.61126",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.61126,
+            29.78571
+        ]
+    }
+}

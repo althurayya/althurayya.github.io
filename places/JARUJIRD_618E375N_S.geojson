@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarūǧird, Kanūǧird, Yanūǧird, Yanūkird",
+            "cornu_URI": "JARUJIRD_618E375N_S",
+            "toponym_arabic": "جروجرد",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Jarujird, Kanujird, Yanujird, Yanukird",
+            "toponym_arabic_other": "جروجرد، كنوجرد، ينوجرد، ينوكرد",
+            "toponym_translit": "Ǧarūǧird",
+            "coord_lat": "37.50068",
+            "toponym_search": "Jarujird, Kanujird, Yanujird, Yanukird",
+            "region_code": "Khurasan",
+            "coord_lon": "61.87474",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.87474,
+            37.50068
+        ]
+    }
+}

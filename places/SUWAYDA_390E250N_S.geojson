@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000848-000.json": {
+                "title": "السويديه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000847-000.json": {
+                "title": "السويداء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Suwaydāʾ, al-Suwaydiyyaŧ",
+            "cornu_URI": "SUWAYDA_390E250N_S",
+            "toponym_arabic": "السويداء",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Suwayda, al-Suwaydiyya",
+            "toponym_arabic_other": "السويداء، السويدية",
+            "toponym_translit": "al-Suwaydāʾ",
+            "coord_lat": "25.04884",
+            "toponym_search": "al-Suwayda, al-Suwaydiyya",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.03019",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.03019,
+            25.04884
+        ]
+    }
+}

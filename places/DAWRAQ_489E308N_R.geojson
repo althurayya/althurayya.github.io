@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000787-000.json": {
+                "title": "السراه",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001050-000.json": {
+                "title": "العراق",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Dawraq, al-Surrāq",
+            "cornu_URI": "DAWRAQ_489E308N_R",
+            "toponym_arabic": "الدورق",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Dawraq, al-Surraq",
+            "toponym_arabic_other": "الدورق، السراق",
+            "toponym_translit": "al-Dawraq",
+            "coord_lat": "30.81069",
+            "toponym_search": "al-Dawraq, al-Surraq",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.92625",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.92625,
+            30.81069
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sakalkand, Iskalkand",
+            "cornu_URI": "SAKALKAND_709E366N_S",
+            "toponym_arabic": "سكلكند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sakalkand, Iskalkand",
+            "toponym_arabic_other": "سكلكند، إسكلكند",
+            "toponym_translit": "Sakalkand",
+            "coord_lat": "36.65244",
+            "toponym_search": "Sakalkand, Iskalkand",
+            "region_code": "Khurasan",
+            "coord_lon": "70.91488",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.91488,
+            36.65244
+        ]
+    }
+}

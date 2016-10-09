@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāḏibīn",
+            "cornu_URI": "BADHIBIN_465E321N_S",
+            "toponym_arabic": "باذبين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Badhibin",
+            "toponym_arabic_other": "باذبين",
+            "toponym_translit": "Bāḏibīn",
+            "coord_lat": "32.17087",
+            "toponym_search": "Badhibin",
+            "region_code": "Iraq",
+            "coord_lon": "46.59233",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.59233,
+            32.17087
+        ]
+    }
+}

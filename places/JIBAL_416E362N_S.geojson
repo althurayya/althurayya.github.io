@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧibāl, ʿAyn al-Ǧibāl",
+            "cornu_URI": "JIBAL_416E362N_S",
+            "toponym_arabic": "الجبال",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Jibal, Ayn al-Jibal",
+            "toponym_arabic_other": "الجبال، عين الجبال",
+            "toponym_translit": "al-Ǧibāl",
+            "coord_lat": "36.23740",
+            "toponym_search": "al-Jibal, Ayn al-Jibal",
+            "region_code": "Aqur",
+            "coord_lon": "41.62102",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.62102,
+            36.2374
+        ]
+    }
+}

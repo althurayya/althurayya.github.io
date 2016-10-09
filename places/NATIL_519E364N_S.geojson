@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nātil",
+            "cornu_URI": "NATIL_519E364N_S",
+            "toponym_arabic": "ناتل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Natil",
+            "toponym_arabic_other": "ناتل",
+            "toponym_translit": "Nātil",
+            "coord_lat": "36.47768",
+            "toponym_search": "Natil",
+            "region_code": "Daylam",
+            "coord_lon": "51.91951",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.91951,
+            36.47768
+        ]
+    }
+}

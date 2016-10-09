@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000228-000.json": {
+                "title": "برقعيد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barqaʿīd",
+            "cornu_URI": "BARQAID_420E369N_S",
+            "toponym_arabic": "برقعيد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Barqaid",
+            "toponym_arabic_other": "برقعيد",
+            "toponym_translit": "Barqaʿīd",
+            "coord_lat": "36.95274",
+            "toponym_search": "Barqaid",
+            "region_code": "Aqur",
+            "coord_lon": "42.07551",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.07551,
+            36.95274
+        ]
+    }
+}

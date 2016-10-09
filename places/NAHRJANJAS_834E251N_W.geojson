@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ǧanǧas",
+            "cornu_URI": "NAHRJANJAS_834E251N_W",
+            "toponym_arabic": "نهر جنجس",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Janjas",
+            "toponym_arabic_other": "نهر جنجس",
+            "toponym_translit": "Nahr Ǧanǧas",
+            "coord_lat": "25.14934",
+            "toponym_search": "Nahr Janjas",
+            "region_code": "Sind",
+            "coord_lon": "83.42513",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            83.42513,
+            25.14934
+        ]
+    }
+}

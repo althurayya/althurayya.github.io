@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000576-000.json": {
+                "title": "خوي",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫuwī, Ḫuwayy, Ḫuwīt",
+            "cornu_URI": "KHUWI_449E385N_S",
+            "toponym_arabic": "خوي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khuwi, Khuwayy, Khuwit",
+            "toponym_arabic_other": "خوي، خوي، خويت",
+            "toponym_translit": "Ḫuwī",
+            "coord_lat": "38.58650",
+            "toponym_search": "Khuwi, Khuwayy, Khuwit",
+            "region_code": "Rihab",
+            "coord_lon": "44.99055",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.99055,
+            38.5865
+        ]
+    }
+}

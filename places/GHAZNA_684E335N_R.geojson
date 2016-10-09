@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001103-000.json": {
+                "title": "غزه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001105-000.json": {
+                "title": "غزنه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġaznaŧ, Ġaznīn",
+            "cornu_URI": "GHAZNA_684E335N_R",
+            "toponym_arabic": "غزنة",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Ghazna, Ghaznin",
+            "toponym_arabic_other": "غزنة، غزنين",
+            "toponym_translit": "Ġaznaŧ",
+            "coord_lat": "33.56409",
+            "toponym_search": "Ghazna, Ghaznin",
+            "region_code": "Sijistan",
+            "coord_lon": "68.40733",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.40733,
+            33.56409
+        ]
+    }
+}

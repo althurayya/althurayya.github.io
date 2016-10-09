@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Arṯā, al-Arṯāniyyaŧ",
+            "cornu_URI": "ARTHA_422E557N_R",
+            "toponym_arabic": "الأرثا",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Artha, al-Arthaniyya",
+            "toponym_arabic_other": "الأرثا، الأرثانية",
+            "toponym_translit": "al-Arṯā",
+            "coord_lat": "55.73456",
+            "toponym_search": "al-Artha, al-Arthaniyya",
+            "region_code": "Khazar",
+            "coord_lon": "42.25518",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.25518,
+            55.73456
+        ]
+    }
+}

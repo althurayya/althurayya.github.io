@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Zanǧī",
+            "cornu_URI": "RIBATZANJI_574E348N_S",
+            "toponym_arabic": "رباط زنجي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ribat Zanji",
+            "toponym_arabic_other": "رباط زنجي",
+            "toponym_translit": "Ribāṭ Zanǧī",
+            "coord_lat": "34.84612",
+            "toponym_search": "Ribat Zanji",
+            "region_code": "Mafaza",
+            "coord_lon": "57.43239",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.43239,
+            34.84612
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rašt",
+            "cornu_URI": "RASHT_703E391N_R",
+            "toponym_arabic": "الرشت",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "al-Rasht",
+            "toponym_arabic_other": "الرشت",
+            "toponym_translit": "al-Rašt",
+            "coord_lat": "39.19555",
+            "toponym_search": "al-Rasht",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.38730",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.3873,
+            39.19555
+        ]
+    }
+}

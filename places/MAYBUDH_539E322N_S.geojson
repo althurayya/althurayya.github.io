@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maybuḏ",
+            "cornu_URI": "MAYBUDH_539E322N_S",
+            "toponym_arabic": "ميبذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maybudh",
+            "toponym_arabic_other": "ميبذ",
+            "toponym_translit": "Maybuḏ",
+            "coord_lat": "32.27744",
+            "toponym_search": "Maybudh",
+            "region_code": "Faris",
+            "coord_lon": "53.98932",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.98932,
+            32.27744
+        ]
+    }
+}

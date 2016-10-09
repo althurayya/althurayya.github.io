@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ramṭaŧ, Rimṭaŧ",
+            "cornu_URI": "RAMTA_154E381N_S",
+            "toponym_arabic": "رمطة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ramta, Rimta",
+            "toponym_arabic_other": "رمطة، رمطة",
+            "toponym_translit": "Ramṭaŧ",
+            "coord_lat": "38.18022",
+            "toponym_search": "Ramta, Rimta",
+            "region_code": "Sicile",
+            "coord_lon": "15.44048",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.44048,
+            38.18022
+        ]
+    }
+}

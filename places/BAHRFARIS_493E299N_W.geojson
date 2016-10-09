@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḥr Fāris",
+            "cornu_URI": "BAHRFARIS_493E299N_W",
+            "toponym_arabic": "بحر فارس",
+            "top_type_orig": "mer",
+            "toponym_buckwalter": "Bahr Faris",
+            "toponym_arabic_other": "بحر فارس",
+            "toponym_translit": "Baḥr Fāris",
+            "coord_lat": "29.93795",
+            "toponym_search": "Bahr Faris",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.34418",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.34418,
+            29.93795
+        ]
+    }
+}

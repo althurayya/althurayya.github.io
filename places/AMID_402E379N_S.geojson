@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000018-000.json": {
+                "title": "امد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āmid",
+            "cornu_URI": "AMID_402E379N_S",
+            "toponym_arabic": "آمد",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Amid",
+            "toponym_arabic_other": "آمد",
+            "toponym_translit": "Āmid",
+            "coord_lat": "37.91510",
+            "toponym_search": "Amid",
+            "region_code": "Aqur",
+            "coord_lon": "40.21323",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.21323,
+            37.9151
+        ]
+    }
+}

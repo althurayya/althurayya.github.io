@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr al-Luṣūṣ",
+            "cornu_URI": "QASRLUSUS_479E344N_S",
+            "toponym_arabic": "قصر اللصوص",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qasr al-Lusus",
+            "toponym_arabic_other": "قصر اللصوص",
+            "toponym_translit": "Qaṣr al-Luṣūṣ",
+            "coord_lat": "34.49580",
+            "toponym_search": "Qasr al-Lusus",
+            "region_code": "Jibal",
+            "coord_lon": "47.90457",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.90457,
+            34.4958
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Ṣarbaṭ, Nahr Ṣarbaṭ, Ṣarbaṭ",
+            "cornu_URI": "WADISARBAT_414E380N_W",
+            "toponym_arabic": "وادي صربط",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Wadi Sarbat, Nahr Sarbat, Sarbat",
+            "toponym_arabic_other": "وادي صربط، نهر صربط، صربط",
+            "toponym_translit": "Wādī Ṣarbaṭ",
+            "coord_lat": "38.01078",
+            "toponym_search": "Wadi Sarbat, Nahr Sarbat, Sarbat",
+            "region_code": "Aqur",
+            "coord_lon": "41.49366",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.49366,
+            38.01078
+        ]
+    }
+}

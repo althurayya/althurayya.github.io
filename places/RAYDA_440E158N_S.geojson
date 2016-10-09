@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001409-000.json": {
+                "title": "المريه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Raydaŧ",
+            "cornu_URI": "RAYDA_440E158N_S",
+            "toponym_arabic": "الريدة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Rayda",
+            "toponym_arabic_other": "الريدة",
+            "toponym_translit": "al-Raydaŧ",
+            "coord_lat": "15.83194",
+            "toponym_search": "al-Rayda",
+            "region_code": "Yemen",
+            "coord_lon": "44.04470",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.0447,
+            15.83194
+        ]
+    }
+}

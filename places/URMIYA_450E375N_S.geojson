@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000078-000.json": {
+                "title": "ارميه",
+                "rate": 91,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000074-000.json": {
+                "title": "ارمينيه",
+                "rate": 92,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Urmīyaŧ",
+            "cornu_URI": "URMIYA_450E375N_S",
+            "toponym_arabic": "أرميية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Urmiya",
+            "toponym_arabic_other": "أرميية",
+            "toponym_translit": "Urmīyaŧ",
+            "coord_lat": "37.52011",
+            "toponym_search": "Urmiya",
+            "region_code": "Rihab",
+            "coord_lon": "45.07411",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.07411,
+            37.52011
+        ]
+    }
+}

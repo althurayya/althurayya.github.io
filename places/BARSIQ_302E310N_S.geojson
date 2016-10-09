@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barsīq",
+            "cornu_URI": "BARSIQ_302E310N_S",
+            "toponym_arabic": "برسيق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Barsiq",
+            "toponym_arabic_other": "برسيق",
+            "toponym_translit": "Barsīq",
+            "coord_lat": "31.08146",
+            "toponym_search": "Barsiq",
+            "region_code": "Egypt",
+            "coord_lon": "30.29934",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.29934,
+            31.08146
+        ]
+    }
+}

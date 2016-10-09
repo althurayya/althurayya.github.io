@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000203-000.json": {
+                "title": "بانياس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000212-000.json": {
+                "title": "بانقيا",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāniyās",
+            "cornu_URI": "BANIYAS_356E332N_S",
+            "toponym_arabic": "بانياس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baniyas",
+            "toponym_arabic_other": "بانياس",
+            "toponym_translit": "Bāniyās",
+            "coord_lat": "33.25150",
+            "toponym_search": "Baniyas",
+            "region_code": "Sham",
+            "coord_lon": "35.67787",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.67787,
+            33.2515
+        ]
+    }
+}

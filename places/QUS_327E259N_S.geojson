@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001256-000.json": {
+                "title": "قوص",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qūṣ",
+            "cornu_URI": "QUS_327E259N_S",
+            "toponym_arabic": "قوص",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qus",
+            "toponym_arabic_other": "قوص",
+            "toponym_translit": "Qūṣ",
+            "coord_lat": "25.91848",
+            "toponym_search": "Qus",
+            "region_code": "Egypt",
+            "coord_lon": "32.74342",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.74342,
+            25.91848
+        ]
+    }
+}

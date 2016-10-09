@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-Ās",
+            "cornu_URI": "QARYAAS_539E296N_S",
+            "toponym_arabic": "قرية الآس",
+            "top_type_orig": "citadelle",
+            "toponym_buckwalter": "Qarya al-As",
+            "toponym_arabic_other": "قرية الآس",
+            "toponym_translit": "Qaryaŧ al-Ās",
+            "coord_lat": "29.69008",
+            "toponym_search": "Qarya al-As",
+            "region_code": "Faris",
+            "coord_lon": "53.92036",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.92036,
+            29.69008
+        ]
+    }
+}

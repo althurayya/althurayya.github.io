@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bišlank",
+            "cornu_URI": "BISHLANK_648E326N_S",
+            "toponym_arabic": "بشلنك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bishlank",
+            "toponym_arabic_other": "بشلنك",
+            "toponym_translit": "Bišlank",
+            "coord_lat": "32.68170",
+            "toponym_search": "Bishlank",
+            "region_code": "Sijistan",
+            "coord_lon": "64.81783",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.81783,
+            32.6817
+        ]
+    }
+}

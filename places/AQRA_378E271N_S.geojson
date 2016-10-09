@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aqrāʿ",
+            "cornu_URI": "AQRA_378E271N_S",
+            "toponym_arabic": "الأقراع",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Aqra",
+            "toponym_arabic_other": "الأقراع",
+            "toponym_translit": "al-Aqrāʿ",
+            "coord_lat": "27.15186",
+            "toponym_search": "al-Aqra",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.83126",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.83126,
+            27.15186
+        ]
+    }
+}

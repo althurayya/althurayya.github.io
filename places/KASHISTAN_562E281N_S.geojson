@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kašistān",
+            "cornu_URI": "KASHISTAN_562E281N_S",
+            "toponym_arabic": "كشستان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kashistan",
+            "toponym_arabic_other": "كشستان",
+            "toponym_translit": "Kašistān",
+            "coord_lat": "28.11572",
+            "toponym_search": "Kashistan",
+            "region_code": "Kirman",
+            "coord_lon": "56.29939",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.29939,
+            28.11572
+        ]
+    }
+}

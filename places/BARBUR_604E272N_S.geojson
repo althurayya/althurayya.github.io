@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barbūr",
+            "cornu_URI": "BARBUR_604E272N_S",
+            "toponym_arabic": "بربور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Barbur",
+            "toponym_arabic_other": "بربور",
+            "toponym_translit": "Barbūr",
+            "coord_lat": "27.25778",
+            "toponym_search": "Barbur",
+            "region_code": "Sind",
+            "coord_lon": "60.41989",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.41989,
+            27.25778
+        ]
+    }
+}

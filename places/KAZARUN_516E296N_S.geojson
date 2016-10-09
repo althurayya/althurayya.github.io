@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001273-000.json": {
+                "title": "كازرون",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kāzarūn",
+            "cornu_URI": "KAZARUN_516E296N_S",
+            "toponym_arabic": "كازرون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kazarun",
+            "toponym_arabic_other": "كازرون",
+            "toponym_translit": "Kāzarūn",
+            "coord_lat": "29.60743",
+            "toponym_search": "Kazarun",
+            "region_code": "Faris",
+            "coord_lon": "51.68412",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.68412,
+            29.60743
+        ]
+    }
+}

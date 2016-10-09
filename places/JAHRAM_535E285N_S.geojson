@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧahram",
+            "cornu_URI": "JAHRAM_535E285N_S",
+            "toponym_arabic": "جهرم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jahram",
+            "toponym_arabic_other": "جهرم",
+            "toponym_translit": "Ǧahram",
+            "coord_lat": "28.51826",
+            "toponym_search": "Jahram",
+            "region_code": "Faris",
+            "coord_lon": "53.51012",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.51012,
+            28.51826
+        ]
+    }
+}

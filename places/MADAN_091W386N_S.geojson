@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001391-000.json": {
+                "title": "المدان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Maʿdan",
+            "cornu_URI": "MADAN_091W386N_S",
+            "toponym_arabic": "المعدن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Madan",
+            "toponym_arabic_other": "المعدن",
+            "toponym_translit": "al-Maʿdan",
+            "coord_lat": "38.64984",
+            "toponym_search": "al-Madan",
+            "region_code": "Andalus",
+            "coord_lon": "-9.19189",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.19189,
+            38.64984
+        ]
+    }
+}

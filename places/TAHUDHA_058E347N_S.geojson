@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tahūḏā",
+            "cornu_URI": "TAHUDHA_058E347N_S",
+            "toponym_arabic": "تهوذا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tahudha",
+            "toponym_arabic_other": "تهوذا",
+            "toponym_translit": "Tahūḏā",
+            "coord_lat": "34.79932",
+            "toponym_search": "Tahudha",
+            "region_code": "Maghrib",
+            "coord_lon": "5.82783",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.82783,
+            34.79932
+        ]
+    }
+}

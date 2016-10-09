@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kāẓimaŧ",
+            "cornu_URI": "KAZIMA_479E292N_S",
+            "toponym_arabic": "كاظمة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kazima",
+            "toponym_arabic_other": "كاظمة",
+            "toponym_translit": "Kāẓimaŧ",
+            "coord_lat": "29.29998",
+            "toponym_search": "Kazima",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "47.92209",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.92209,
+            29.29998
+        ]
+    }
+}

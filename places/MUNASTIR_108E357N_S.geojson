@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001458-000.json": {
+                "title": "المنستير",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Munastīr",
+            "cornu_URI": "MUNASTIR_108E357N_S",
+            "toponym_arabic": "منستير",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Munastir",
+            "toponym_arabic_other": "منستير",
+            "toponym_translit": "Munastīr",
+            "coord_lat": "35.75548",
+            "toponym_search": "Munastir",
+            "region_code": "Maghrib",
+            "coord_lon": "10.80402",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.80402,
+            35.75548
+        ]
+    }
+}

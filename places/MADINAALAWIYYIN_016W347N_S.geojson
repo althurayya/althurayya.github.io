@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Madīnaŧ ʿAlawiyyīn",
+            "cornu_URI": "MADINAALAWIYYIN_016W347N_S",
+            "toponym_arabic": "مدينة علويين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Madina Alawiyyin",
+            "toponym_arabic_other": "مدينة علويين",
+            "toponym_translit": "Madīnaŧ ʿAlawiyyīn",
+            "coord_lat": "34.73932",
+            "toponym_search": "Madina Alawiyyin",
+            "region_code": "Maghrib",
+            "coord_lon": "-1.65814",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.65814,
+            34.73932
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000683-000.json": {
+                "title": "الرجان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arǧumān",
+            "cornu_URI": "ARJUMAN_526E311N_R",
+            "toponym_arabic": "أرجمان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Arjuman",
+            "toponym_arabic_other": "أرجمان",
+            "toponym_translit": "Arǧumān",
+            "coord_lat": "31.17990",
+            "toponym_search": "Arjuman",
+            "region_code": "Faris",
+            "coord_lon": "52.62743",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.62743,
+            31.1799
+        ]
+    }
+}

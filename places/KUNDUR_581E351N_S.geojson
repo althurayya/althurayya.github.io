@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kundur",
+            "cornu_URI": "KUNDUR_581E351N_S",
+            "toponym_arabic": "كندر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kundur",
+            "toponym_arabic_other": "كندر",
+            "toponym_translit": "Kundur",
+            "coord_lat": "35.12055",
+            "toponym_search": "Kundur",
+            "region_code": "Khurasan",
+            "coord_lon": "58.12875",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.12875,
+            35.12055
+        ]
+    }
+}

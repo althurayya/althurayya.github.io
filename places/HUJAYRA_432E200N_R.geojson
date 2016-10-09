@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Huǧayraŧ",
+            "cornu_URI": "HUJAYRA_432E200N_R",
+            "toponym_arabic": "هجيرة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Hujayra",
+            "toponym_arabic_other": "هجيرة",
+            "toponym_translit": "Huǧayraŧ",
+            "coord_lat": "20.06543",
+            "toponym_search": "Hujayra",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "43.29934",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.29934,
+            20.06543
+        ]
+    }
+}

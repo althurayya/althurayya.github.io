@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000379-000.json": {
+                "title": "تستر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tustar, Šuštar",
+            "cornu_URI": "TUSTAR_488E320N_R",
+            "toponym_arabic": "تستر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Tustar, Shushtar",
+            "toponym_arabic_other": "تستر، ششتر",
+            "toponym_translit": "Tustar",
+            "coord_lat": "32.05110",
+            "toponym_search": "Tustar, Shushtar",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.85461",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.85461,
+            32.0511
+        ]
+    }
+}

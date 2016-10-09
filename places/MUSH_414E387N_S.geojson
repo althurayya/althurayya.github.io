@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mūš",
+            "cornu_URI": "MUSH_414E387N_S",
+            "toponym_arabic": "موش",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Mush",
+            "toponym_arabic_other": "موش",
+            "toponym_translit": "Mūš",
+            "coord_lat": "38.75648",
+            "toponym_search": "Mush",
+            "region_code": "Rihab",
+            "coord_lon": "41.48709",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.48709,
+            38.75648
+        ]
+    }
+}

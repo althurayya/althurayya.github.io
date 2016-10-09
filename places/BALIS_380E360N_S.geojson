@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bālis",
+            "cornu_URI": "BALIS_380E360N_S",
+            "toponym_arabic": "بالس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Balis",
+            "toponym_arabic_other": "بالس",
+            "toponym_translit": "Bālis",
+            "coord_lat": "36.02806",
+            "toponym_search": "Balis",
+            "region_code": "Sham",
+            "coord_lon": "38.09005",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.09005,
+            36.02806
+        ]
+    }
+}

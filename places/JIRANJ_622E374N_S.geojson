@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧīranǧ, Kīrank",
+            "cornu_URI": "JIRANJ_622E374N_S",
+            "toponym_arabic": "جيرنج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jiranj, Kirank",
+            "toponym_arabic_other": "جيرنج، كيرنك",
+            "toponym_translit": "Ǧīranǧ",
+            "coord_lat": "37.49732",
+            "toponym_search": "Jiranj, Kirank",
+            "region_code": "Khurasan",
+            "coord_lon": "62.22511",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.22511,
+            37.49732
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṯuǧǧaŧ",
+            "cornu_URI": "THUJJA_441E139N_S",
+            "toponym_arabic": "الثجة",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "al-Thujja",
+            "toponym_arabic_other": "الثجة",
+            "toponym_translit": "al-Ṯuǧǧaŧ",
+            "coord_lat": "13.97911",
+            "toponym_search": "al-Thujja",
+            "region_code": "Yemen",
+            "coord_lon": "44.17683",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.17683,
+            13.97911
+        ]
+    }
+}

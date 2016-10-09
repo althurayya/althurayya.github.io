@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000504-000.json": {
+                "title": "الحديثه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥadaṯ",
+            "cornu_URI": "HADATH_375E377N_S",
+            "toponym_arabic": "الحدث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Hadath",
+            "toponym_arabic_other": "الحدث",
+            "toponym_translit": "al-Ḥadaṯ",
+            "coord_lat": "37.73001",
+            "toponym_search": "al-Hadath",
+            "region_code": "Aqur",
+            "coord_lon": "37.52545",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.52545,
+            37.73001
+        ]
+    }
+}

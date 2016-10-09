@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kadruwā",
+            "cornu_URI": "KADRUWA_546E291N_S",
+            "toponym_arabic": "كدروا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kadruwa",
+            "toponym_arabic_other": "كدروا",
+            "toponym_translit": "Kadruwā",
+            "coord_lat": "29.16368",
+            "toponym_search": "Kadruwa",
+            "region_code": "Faris",
+            "coord_lon": "54.67346",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.67346,
+            29.16368
+        ]
+    }
+}

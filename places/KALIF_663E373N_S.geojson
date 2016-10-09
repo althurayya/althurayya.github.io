@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kālif",
+            "cornu_URI": "KALIF_663E373N_S",
+            "toponym_arabic": "كالف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kalif",
+            "toponym_arabic_other": "كالف",
+            "toponym_translit": "Kālif",
+            "coord_lat": "37.37958",
+            "toponym_search": "Kalif",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.31581",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.31581,
+            37.37958
+        ]
+    }
+}

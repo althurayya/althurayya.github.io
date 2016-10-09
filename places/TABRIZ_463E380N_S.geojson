@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000349-000.json": {
+                "title": "تبريز",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tabrīz",
+            "cornu_URI": "TABRIZ_463E380N_S",
+            "toponym_arabic": "تبريز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tabriz",
+            "toponym_arabic_other": "تبريز",
+            "toponym_translit": "Tabrīz",
+            "coord_lat": "38.06387",
+            "toponym_search": "Tabriz",
+            "region_code": "Rihab",
+            "coord_lon": "46.33121",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.33121,
+            38.06387
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zūzan",
+            "cornu_URI": "ZUZAN_598E343N_S",
+            "toponym_arabic": "زوزن",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Zuzan",
+            "toponym_arabic_other": "زوزن",
+            "toponym_translit": "Zūzan",
+            "coord_lat": "34.31050",
+            "toponym_search": "Zuzan",
+            "region_code": "Khurasan",
+            "coord_lon": "59.86207",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.86207,
+            34.3105
+        ]
+    }
+}

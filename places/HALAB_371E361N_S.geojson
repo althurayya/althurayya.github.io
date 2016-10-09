@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000517-000.json": {
+                "title": "حلب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥalab",
+            "cornu_URI": "HALAB_371E361N_S",
+            "toponym_arabic": "حلب",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Halab",
+            "toponym_arabic_other": "حلب",
+            "toponym_translit": "Ḥalab",
+            "coord_lat": "36.19828",
+            "toponym_search": "Halab",
+            "region_code": "Sham",
+            "coord_lon": "37.17518",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.17518,
+            36.19828
+        ]
+    }
+}

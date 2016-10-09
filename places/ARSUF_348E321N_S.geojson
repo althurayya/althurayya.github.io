@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arsūf",
+            "cornu_URI": "ARSUF_348E321N_S",
+            "toponym_arabic": "أرسوف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arsuf",
+            "toponym_arabic_other": "أرسوف",
+            "toponym_translit": "Arsūf",
+            "coord_lat": "32.19588",
+            "toponym_search": "Arsuf",
+            "region_code": "Sham",
+            "coord_lon": "34.80739",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.80739,
+            32.19588
+        ]
+    }
+}

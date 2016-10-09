@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qubāḏiyān, Quwāḏiyān",
+            "cornu_URI": "QUBADHIYAN_681E372N_R",
+            "toponym_arabic": "قباذيان",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Qubadhiyan, Quwadhiyan",
+            "toponym_arabic_other": "قباذيان، قواذيان",
+            "toponym_translit": "Qubāḏiyān",
+            "coord_lat": "37.28980",
+            "toponym_search": "Qubadhiyan, Quwadhiyan",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.12506",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.12506,
+            37.2898
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000189-000.json": {
+                "title": "اوفه",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āwaŧ",
+            "cornu_URI": "AWA_505E346N_S",
+            "toponym_arabic": "آوة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Awa",
+            "toponym_arabic_other": "آوة",
+            "toponym_translit": "Āwaŧ",
+            "coord_lat": "34.68541",
+            "toponym_search": "Awa",
+            "region_code": "Jibal",
+            "coord_lon": "50.54227",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.54227,
+            34.68541
+        ]
+    }
+}

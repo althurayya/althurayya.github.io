@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fāw",
+            "cornu_URI": "FAW_316E266N_S",
+            "toponym_arabic": "فاو",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Faw",
+            "toponym_arabic_other": "فاو",
+            "toponym_translit": "Fāw",
+            "coord_lat": "26.69354",
+            "toponym_search": "Faw",
+            "region_code": "Egypt",
+            "coord_lon": "31.64900",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.649,
+            26.69354
+        ]
+    }
+}

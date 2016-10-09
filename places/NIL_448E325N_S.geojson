@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001556-000.json": {
+                "title": "النيل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nīl",
+            "cornu_URI": "NIL_448E325N_S",
+            "toponym_arabic": "النيل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Nil",
+            "toponym_arabic_other": "النيل",
+            "toponym_translit": "al-Nīl",
+            "coord_lat": "32.51100",
+            "toponym_search": "al-Nil",
+            "region_code": "Iraq",
+            "coord_lon": "44.89011",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.89011,
+            32.511
+        ]
+    }
+}

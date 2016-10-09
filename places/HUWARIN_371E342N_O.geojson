@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥuwārīn",
+            "cornu_URI": "HUWARIN_371E342N_O",
+            "toponym_arabic": "حوارين",
+            "top_type_orig": "lieu",
+            "toponym_buckwalter": "Huwarin",
+            "toponym_arabic_other": "حوارين",
+            "toponym_translit": "Ḥuwārīn",
+            "coord_lat": "34.26231",
+            "toponym_search": "Huwarin",
+            "region_code": "Sham",
+            "coord_lon": "37.10415",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.10415,
+            34.26231
+        ]
+    }
+}

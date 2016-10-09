@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000385-000.json": {
+                "title": "تونس",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000373-000.json": {
+                "title": "تنس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000372-000.json": {
+                "title": "تنيس",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tanas",
+            "cornu_URI": "TANAS_013E364N_S",
+            "toponym_arabic": "تنس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tanas",
+            "toponym_arabic_other": "تنس",
+            "toponym_translit": "Tanas",
+            "coord_lat": "36.49038",
+            "toponym_search": "Tanas",
+            "region_code": "Maghrib",
+            "coord_lon": "1.37563",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.37563,
+            36.49038
+        ]
+    }
+}

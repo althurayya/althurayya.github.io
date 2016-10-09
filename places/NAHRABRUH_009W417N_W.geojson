@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001548-000.json": {
+                "title": "نهرواره",
+                "rate": 80,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Abruh",
+            "cornu_URI": "NAHRABRUH_009W417N_W",
+            "toponym_arabic": "نهر أبره",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Abruh",
+            "toponym_arabic_other": "نهر أبره",
+            "toponym_translit": "Nahr Abruh",
+            "coord_lat": "41.78270",
+            "toponym_search": "Nahr Abruh",
+            "region_code": "Andalus",
+            "coord_lon": "-0.99933",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.99933,
+            41.7827
+        ]
+    }
+}

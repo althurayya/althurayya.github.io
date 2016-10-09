@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000777-000.json": {
+                "title": "سبيبه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sabībaŧ",
+            "cornu_URI": "SABIBA_091E354N_S",
+            "toponym_arabic": "سبيبة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sabiba",
+            "toponym_arabic_other": "سبيبة",
+            "toponym_translit": "Sabībaŧ",
+            "coord_lat": "35.41674",
+            "toponym_search": "Sabiba",
+            "region_code": "Maghrib",
+            "coord_lon": "9.16117",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16117,
+            35.41674
+        ]
+    }
+}

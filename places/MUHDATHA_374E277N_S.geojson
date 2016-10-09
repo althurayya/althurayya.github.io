@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000504-000.json": {
+                "title": "الحديثه",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Muḥdaṯaŧ",
+            "cornu_URI": "MUHDATHA_374E277N_S",
+            "toponym_arabic": "المحدثة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Muhdatha",
+            "toponym_arabic_other": "المحدثة",
+            "toponym_translit": "al-Muḥdaṯaŧ",
+            "coord_lat": "27.73026",
+            "toponym_search": "al-Muhdatha",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.46327",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.46327,
+            27.73026
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001103-000.json": {
+                "title": "غزه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001105-000.json": {
+                "title": "غزنه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġazzaŧ",
+            "cornu_URI": "GHAZZA_344E314N_S",
+            "toponym_arabic": "غزة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ghazza",
+            "toponym_arabic_other": "غزة",
+            "toponym_translit": "Ġazzaŧ",
+            "coord_lat": "31.49664",
+            "toponym_search": "Ghazza",
+            "region_code": "Sham",
+            "coord_lon": "34.45664",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.45664,
+            31.49664
+        ]
+    }
+}

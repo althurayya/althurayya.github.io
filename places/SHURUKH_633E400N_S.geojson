@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šurūḫ",
+            "cornu_URI": "SHURUKH_633E400N_S",
+            "toponym_arabic": "شروخ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Shurukh",
+            "toponym_arabic_other": "شروخ",
+            "toponym_translit": "Šurūḫ",
+            "coord_lat": "40.05505",
+            "toponym_search": "Shurukh",
+            "region_code": "Transoxiana",
+            "coord_lon": "63.39950",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.3995,
+            40.05505
+        ]
+    }
+}

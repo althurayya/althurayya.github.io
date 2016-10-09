@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dandaraŧ",
+            "cornu_URI": "DANDARA_326E261N_R",
+            "toponym_arabic": "دندرة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Dandara",
+            "toponym_arabic_other": "دندرة",
+            "toponym_translit": "Dandaraŧ",
+            "coord_lat": "26.15778",
+            "toponym_search": "Dandara",
+            "region_code": "Egypt",
+            "coord_lon": "32.64544",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.64544,
+            26.15778
+        ]
+    }
+}

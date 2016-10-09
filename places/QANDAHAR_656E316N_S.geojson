@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001230-000.json": {
+                "title": "القندهار",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qandahār",
+            "cornu_URI": "QANDAHAR_656E316N_S",
+            "toponym_arabic": "قندهار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qandahar",
+            "toponym_arabic_other": "قندهار",
+            "toponym_translit": "Qandahār",
+            "coord_lat": "31.64414",
+            "toponym_search": "Qandahar",
+            "region_code": "Sijistan",
+            "coord_lon": "65.69197",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.69197,
+            31.64414
+        ]
+    }
+}

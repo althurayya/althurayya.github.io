@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001479-000.json": {
+                "title": "المسيله",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000858-000.json": {
+                "title": "السياله",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Masīlaŧ",
+            "cornu_URI": "MASILA_045E356N_S",
+            "toponym_arabic": "المسيلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Masila",
+            "toponym_arabic_other": "المسيلة",
+            "toponym_translit": "al-Masīlaŧ",
+            "coord_lat": "35.66309",
+            "toponym_search": "al-Masila",
+            "region_code": "Maghrib",
+            "coord_lon": "4.53218",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            4.53218,
+            35.66309
+        ]
+    }
+}

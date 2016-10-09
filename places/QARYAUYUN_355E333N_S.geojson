@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-ʿUyūn",
+            "cornu_URI": "QARYAUYUN_355E333N_S",
+            "toponym_arabic": "قرية العيون",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qarya al-Uyun",
+            "toponym_arabic_other": "قرية العيون",
+            "toponym_translit": "Qaryaŧ al-ʿUyūn",
+            "coord_lat": "33.36423",
+            "toponym_search": "Qarya al-Uyun",
+            "region_code": "Sham",
+            "coord_lon": "35.56778",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.56778,
+            33.36423
+        ]
+    }
+}

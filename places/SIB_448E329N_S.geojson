@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sīb",
+            "cornu_URI": "SIB_448E329N_S",
+            "toponym_arabic": "السيب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Sib",
+            "toponym_arabic_other": "السيب",
+            "toponym_translit": "al-Sīb",
+            "coord_lat": "32.97916",
+            "toponym_search": "al-Sib",
+            "region_code": "Iraq",
+            "coord_lon": "44.84610",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.8461,
+            32.97916
+        ]
+    }
+}

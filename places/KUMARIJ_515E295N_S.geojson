@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kumāriǧ",
+            "cornu_URI": "KUMARIJ_515E295N_S",
+            "toponym_arabic": "كمارج",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Kumarij",
+            "toponym_arabic_other": "كمارج",
+            "toponym_translit": "Kumāriǧ",
+            "coord_lat": "29.57692",
+            "toponym_search": "Kumarij",
+            "region_code": "Faris",
+            "coord_lon": "51.51373",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.51373,
+            29.57692
+        ]
+    }
+}

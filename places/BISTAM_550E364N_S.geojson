@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000292-000.json": {
+                "title": "بسطام",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bisṭām",
+            "cornu_URI": "BISTAM_550E364N_S",
+            "toponym_arabic": "بسطام",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bistam",
+            "toponym_arabic_other": "بسطام",
+            "toponym_translit": "Bisṭām",
+            "coord_lat": "36.45952",
+            "toponym_search": "Bistam",
+            "region_code": "Daylam",
+            "coord_lon": "55.07205",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.07205,
+            36.45952
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000213-000.json": {
+                "title": "باغايه",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāġāy",
+            "cornu_URI": "BAGHAY_071E355N_S",
+            "toponym_arabic": "باغاي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baghay",
+            "toponym_arabic_other": "باغاي",
+            "toponym_translit": "Bāġāy",
+            "coord_lat": "35.50598",
+            "toponym_search": "Baghay",
+            "region_code": "Maghrib",
+            "coord_lon": "7.12454",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.12454,
+            35.50598
+        ]
+    }
+}

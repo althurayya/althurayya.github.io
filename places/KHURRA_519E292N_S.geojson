@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫurraŧ",
+            "cornu_URI": "KHURRA_519E292N_S",
+            "toponym_arabic": "خرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khurra",
+            "toponym_arabic_other": "خرة",
+            "toponym_translit": "Ḫurraŧ",
+            "coord_lat": "29.22327",
+            "toponym_search": "Khurra",
+            "region_code": "Faris",
+            "coord_lon": "51.97730",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.9773,
+            29.22327
+        ]
+    }
+}

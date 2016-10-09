@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArfaǧāʾ",
+            "cornu_URI": "ARFAJA_386E299N_S",
+            "toponym_arabic": "عرفجاء",
+            "top_type_orig": "mares",
+            "toponym_buckwalter": "Arfaja",
+            "toponym_arabic_other": "عرفجاء",
+            "toponym_translit": "ʿArfaǧāʾ",
+            "coord_lat": "29.99999",
+            "toponym_search": "Arfaja",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "38.67294",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.67294,
+            29.99999
+        ]
+    }
+}

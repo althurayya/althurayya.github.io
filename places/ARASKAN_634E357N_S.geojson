@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Araskan",
+            "cornu_URI": "ARASKAN_634E357N_S",
+            "toponym_arabic": "أرسكن",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Araskan",
+            "toponym_arabic_other": "أرسكن",
+            "toponym_translit": "Araskan",
+            "coord_lat": "35.74074",
+            "toponym_search": "Araskan",
+            "region_code": "Khurasan",
+            "coord_lon": "63.44735",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.44735,
+            35.74074
+        ]
+    }
+}

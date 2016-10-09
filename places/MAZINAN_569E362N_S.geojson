@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mazīnān",
+            "cornu_URI": "MAZINAN_569E362N_S",
+            "toponym_arabic": "مزينان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Mazinan",
+            "toponym_arabic_other": "مزينان",
+            "toponym_translit": "Mazīnān",
+            "coord_lat": "36.27876",
+            "toponym_search": "Mazinan",
+            "region_code": "Khurasan",
+            "coord_lon": "56.95205",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.95205,
+            36.27876
+        ]
+    }
+}

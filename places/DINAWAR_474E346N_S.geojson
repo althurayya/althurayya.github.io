@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000628-000.json": {
+                "title": "الدينور",
+                "rate": 83,
+                "status": "y"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dīnawar, Māh al-Kūfaŧ",
+            "cornu_URI": "DINAWAR_474E346N_S",
+            "toponym_arabic": "دينور",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Dinawar, Mah al-Kufa",
+            "toponym_arabic_other": "دينور، ماه الكوفة",
+            "toponym_translit": "Dīnawar",
+            "coord_lat": "34.60195",
+            "toponym_search": "Dinawar, Mah al-Kufa",
+            "region_code": "Jibal",
+            "coord_lon": "47.49055",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.49055,
+            34.60195
+        ]
+    }
+}

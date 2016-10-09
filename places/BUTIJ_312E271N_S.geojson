@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būtīǧ",
+            "cornu_URI": "BUTIJ_312E271N_S",
+            "toponym_arabic": "بوتيج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Butij",
+            "toponym_arabic_other": "بوتيج",
+            "toponym_translit": "Būtīǧ",
+            "coord_lat": "27.10901",
+            "toponym_search": "Butij",
+            "region_code": "Egypt",
+            "coord_lon": "31.22681",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.22681,
+            27.10901
+        ]
+    }
+}

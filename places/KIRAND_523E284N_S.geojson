@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kīrand",
+            "cornu_URI": "KIRAND_523E284N_S",
+            "toponym_arabic": "كيرند",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kirand",
+            "toponym_arabic_other": "كيرند",
+            "toponym_translit": "Kīrand",
+            "coord_lat": "28.41977",
+            "toponym_search": "Kirand",
+            "region_code": "Faris",
+            "coord_lon": "52.36569",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.36569,
+            28.41977
+        ]
+    }
+}

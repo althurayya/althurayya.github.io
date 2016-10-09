@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000691-000.json": {
+                "title": "الرماده",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000743-000.json": {
+                "title": "الزراده",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001365-000.json": {
+                "title": "الماه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫakisār, Ḫākisārān, al-Ram_adaŧ",
+            "cornu_URI": "KHAKISAR_596E360N_S",
+            "toponym_arabic": "خكسار",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khakisar, Khakisaran, al-Ramada",
+            "toponym_arabic_other": "خكسار، خاكساران، الرمادة",
+            "toponym_translit": "Ḫakisār",
+            "coord_lat": "36.08000",
+            "toponym_search": "Khakisar, Khakisaran, al-Ramada",
+            "region_code": "Khurasan",
+            "coord_lon": "59.66585",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.66585,
+            36.08
+        ]
+    }
+}

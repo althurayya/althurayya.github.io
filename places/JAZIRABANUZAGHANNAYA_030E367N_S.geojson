@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Banū Zaġannāyaŧ",
+            "cornu_URI": "JAZIRABANUZAGHANNAYA_030E367N_S",
+            "toponym_arabic": "جزيرة بنو زغناية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jazira Banu Zaghannaya",
+            "toponym_arabic_other": "جزيرة بنو زغناية",
+            "toponym_translit": "Ǧazīraŧ Banū Zaġannāyaŧ",
+            "coord_lat": "36.70793",
+            "toponym_search": "Jazira Banu Zaghannaya",
+            "region_code": "Maghrib",
+            "coord_lon": "3.09046",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.09046,
+            36.70793
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wānkaṯ",
+            "cornu_URI": "WANKATH_708E409N_S",
+            "toponym_arabic": "وانكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wankath",
+            "toponym_arabic_other": "وانكث",
+            "toponym_translit": "Wānkaṯ",
+            "coord_lat": "40.92611",
+            "toponym_search": "Wankath",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.89511",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.89511,
+            40.92611
+        ]
+    }
+}

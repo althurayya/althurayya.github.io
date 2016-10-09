@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šamsīn",
+            "cornu_URI": "SHAMSIN_367E345N_S",
+            "toponym_arabic": "شمسين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Shamsin",
+            "toponym_arabic_other": "شمسين",
+            "toponym_translit": "Šamsīn",
+            "coord_lat": "34.53863",
+            "toponym_search": "Shamsin",
+            "region_code": "Sham",
+            "coord_lon": "36.74279",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.74279,
+            34.53863
+        ]
+    }
+}

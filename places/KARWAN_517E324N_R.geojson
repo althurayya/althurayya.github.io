@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karwān",
+            "cornu_URI": "KARWAN_517E324N_R",
+            "toponym_arabic": "كروان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Karwan",
+            "toponym_arabic_other": "كروان",
+            "toponym_translit": "Karwān",
+            "coord_lat": "32.40272",
+            "toponym_search": "Karwan",
+            "region_code": "Jibal",
+            "coord_lon": "51.72677",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.72677,
+            32.40272
+        ]
+    }
+}

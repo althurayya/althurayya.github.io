@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Dihistān",
+            "cornu_URI": "RIBATDIHISTAN_546E382N_S",
+            "toponym_arabic": "رباط دهستان",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Dihistan",
+            "toponym_arabic_other": "رباط دهستان",
+            "toponym_translit": "Ribāṭ Dihistān",
+            "coord_lat": "38.26671",
+            "toponym_search": "Ribat Dihistan",
+            "region_code": "Daylam",
+            "coord_lon": "54.61471",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.61471,
+            38.26671
+        ]
+    }
+}

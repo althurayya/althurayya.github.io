@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001354-000.json": {
+                "title": "مارب",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001358-000.json": {
+                "title": "ماب",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʾrib",
+            "cornu_URI": "MARIB_454E155N_R",
+            "toponym_arabic": "مأرب",
+            "top_type_orig": "mikhlaf",
+            "toponym_buckwalter": "Marib",
+            "toponym_arabic_other": "مأرب",
+            "toponym_translit": "Maʾrib",
+            "coord_lat": "15.55742",
+            "toponym_search": "Marib",
+            "region_code": "Yemen",
+            "coord_lon": "45.43900",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.439,
+            15.55742
+        ]
+    }
+}

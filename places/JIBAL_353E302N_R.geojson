@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧibāl",
+            "cornu_URI": "JIBAL_353E302N_R",
+            "toponym_arabic": "الجبال",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "al-Jibal",
+            "toponym_arabic_other": "الجبال",
+            "toponym_translit": "al-Ǧibāl",
+            "coord_lat": "30.26155",
+            "toponym_search": "al-Jibal",
+            "region_code": "Sham",
+            "coord_lon": "35.32238",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.32238,
+            30.26155
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bīmand",
+            "cornu_URI": "BIMAND_555E296N_S",
+            "toponym_arabic": "بيمند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bimand",
+            "toponym_arabic_other": "بيمند",
+            "toponym_translit": "Bīmand",
+            "coord_lat": "29.66254",
+            "toponym_search": "Bimand",
+            "region_code": "Kirman",
+            "coord_lon": "55.59756",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.59756,
+            29.66254
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qāyīn",
+            "cornu_URI": "QAYIN_590E336N_S",
+            "toponym_arabic": "قايين",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Qayin",
+            "toponym_arabic_other": "قايين",
+            "toponym_translit": "Qāyīn",
+            "coord_lat": "33.64706",
+            "toponym_search": "Qayin",
+            "region_code": "Khurasan",
+            "coord_lon": "59.09428",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.09428,
+            33.64706
+        ]
+    }
+}

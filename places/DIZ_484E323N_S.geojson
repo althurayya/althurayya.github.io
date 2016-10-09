@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Diz, Dizfūl",
+            "cornu_URI": "DIZ_484E323N_S",
+            "toponym_arabic": "الدز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Diz, Dizful",
+            "toponym_arabic_other": "الدز، دزفول",
+            "toponym_translit": "al-Diz",
+            "coord_lat": "32.38975",
+            "toponym_search": "al-Diz, Dizful",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.42219",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.42219,
+            32.38975
+        ]
+    }
+}

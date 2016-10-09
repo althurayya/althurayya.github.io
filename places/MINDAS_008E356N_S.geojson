@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mindās",
+            "cornu_URI": "MINDAS_008E356N_S",
+            "toponym_arabic": "منداس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mindas",
+            "toponym_arabic_other": "منداس",
+            "toponym_translit": "Mindās",
+            "coord_lat": "35.67814",
+            "toponym_search": "Mindas",
+            "region_code": "Maghrib",
+            "coord_lon": "0.82730",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.8273,
+            35.67814
+        ]
+    }
+}

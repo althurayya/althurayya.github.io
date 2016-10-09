@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ǧariyab",
+            "cornu_URI": "NAHRJARIYAB_709E383N_W",
+            "toponym_arabic": "نهر جريب",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Jariyab",
+            "toponym_arabic_other": "نهر جريب",
+            "toponym_translit": "Nahr Ǧariyab",
+            "coord_lat": "38.37779",
+            "toponym_search": "Nahr Jariyab",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.91287",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.91287,
+            38.37779
+        ]
+    }
+}

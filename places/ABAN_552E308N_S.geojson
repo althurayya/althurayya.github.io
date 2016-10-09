@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000027-000.json": {
+                "title": "ابان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abān",
+            "cornu_URI": "ABAN_552E308N_S",
+            "toponym_arabic": "أبان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Aban",
+            "toponym_arabic_other": "أبان",
+            "toponym_translit": "Abān",
+            "coord_lat": "30.88547",
+            "toponym_search": "Aban",
+            "region_code": "Faris",
+            "coord_lon": "55.25395",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.25395,
+            30.88547
+        ]
+    }
+}

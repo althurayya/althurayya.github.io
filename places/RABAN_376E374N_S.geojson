@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raʿbān",
+            "cornu_URI": "RABAN_376E374N_S",
+            "toponym_arabic": "رعبان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Raban",
+            "toponym_arabic_other": "رعبان",
+            "toponym_translit": "Raʿbān",
+            "coord_lat": "37.43156",
+            "toponym_search": "Raban",
+            "region_code": "Aqur",
+            "coord_lon": "37.68027",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.68027,
+            37.43156
+        ]
+    }
+}

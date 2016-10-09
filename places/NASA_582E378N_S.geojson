@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001542-000.json": {
+                "title": "نسا",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nasāʾ",
+            "cornu_URI": "NASA_582E378N_S",
+            "toponym_arabic": "نساء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nasa",
+            "toponym_arabic_other": "نساء",
+            "toponym_translit": "Nasāʾ",
+            "coord_lat": "37.85763",
+            "toponym_search": "Nasa",
+            "region_code": "Khurasan",
+            "coord_lon": "58.21787",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.21787,
+            37.85763
+        ]
+    }
+}

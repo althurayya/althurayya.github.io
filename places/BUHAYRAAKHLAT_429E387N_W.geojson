@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Aḫlāṭ, Buḥayraŧ Ḫilāṭ, Buḥayraŧ Arǧīš",
+            "cornu_URI": "BUHAYRAAKHLAT_429E387N_W",
+            "toponym_arabic": "بحيرة أخلاط",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Akhlat, Buhayra Khilat, Buhayra Arjish",
+            "toponym_arabic_other": "بحيرة أخلاط، بحيرة خلاط، بحيرة أرجيش",
+            "toponym_translit": "Buḥayraŧ Aḫlāṭ",
+            "coord_lat": "38.77880",
+            "toponym_search": "Buhayra Akhlat, Buhayra Khilat, Buhayra Arjish",
+            "region_code": "Rihab",
+            "coord_lon": "42.91010",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.9101,
+            38.7788
+        ]
+    }
+}

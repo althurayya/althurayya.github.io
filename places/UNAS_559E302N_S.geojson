@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ūnas",
+            "cornu_URI": "UNAS_559E302N_S",
+            "toponym_arabic": "أونس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Unas",
+            "toponym_arabic_other": "أونس",
+            "toponym_translit": "Ūnas",
+            "coord_lat": "30.24893",
+            "toponym_search": "Unas",
+            "region_code": "Faris",
+            "coord_lon": "55.98281",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.98281,
+            30.24893
+        ]
+    }
+}

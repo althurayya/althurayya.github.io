@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧawf Murād",
+            "cornu_URI": "JAWFMURAD_454E151N_R",
+            "toponym_arabic": "جوف مراد",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jawf Murad",
+            "toponym_arabic_other": "جوف مراد",
+            "toponym_translit": "Ǧawf Murād",
+            "coord_lat": "15.10298",
+            "toponym_search": "Jawf Murad",
+            "region_code": "Yemen",
+            "coord_lon": "45.44152",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.44152,
+            15.10298
+        ]
+    }
+}

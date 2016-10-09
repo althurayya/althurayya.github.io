@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ Saʿīdābāḏ",
+            "cornu_URI": "QALASAIDABADH_526E300N_S",
+            "toponym_arabic": "قلعة سعيداباذ",
+            "top_type_orig": "citadelle",
+            "toponym_buckwalter": "Qala Saidabadh",
+            "toponym_arabic_other": "قلعة سعيداباذ",
+            "toponym_translit": "Qalʿaŧ Saʿīdābāḏ",
+            "coord_lat": "30.09815",
+            "toponym_search": "Qala Saidabadh",
+            "region_code": "Faris",
+            "coord_lon": "52.67428",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.67428,
+            30.09815
+        ]
+    }
+}

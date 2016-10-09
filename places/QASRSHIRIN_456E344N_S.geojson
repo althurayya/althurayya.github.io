@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Šīrīn",
+            "cornu_URI": "QASRSHIRIN_456E344N_S",
+            "toponym_arabic": "قصر شيرين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qasr Shirin",
+            "toponym_arabic_other": "قصر شيرين",
+            "toponym_translit": "Qaṣr Šīrīn",
+            "coord_lat": "34.49996",
+            "toponym_search": "Qasr Shirin",
+            "region_code": "Iraq",
+            "coord_lon": "45.62659",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.62659,
+            34.49996
+        ]
+    }
+}

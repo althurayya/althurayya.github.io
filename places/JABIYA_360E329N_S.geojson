@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000418-000.json": {
+                "title": "الجابيه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000044-000.json": {
+                "title": "اجدابيه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧābiyaŧ",
+            "cornu_URI": "JABIYA_360E329N_S",
+            "toponym_arabic": "الجابية",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Jabiya",
+            "toponym_arabic_other": "الجابية",
+            "toponym_translit": "al-Ǧābiyaŧ",
+            "coord_lat": "32.92323",
+            "toponym_search": "al-Jabiya",
+            "region_code": "Sham",
+            "coord_lon": "36.04321",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.04321,
+            32.92323
+        ]
+    }
+}

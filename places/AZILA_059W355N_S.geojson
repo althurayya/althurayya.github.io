@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000193-000.json": {
+                "title": "ايله",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Azīlaŧ",
+            "cornu_URI": "AZILA_059W355N_S",
+            "toponym_arabic": "أزيلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Azila",
+            "toponym_arabic_other": "أزيلة",
+            "toponym_translit": "Azīlaŧ",
+            "coord_lat": "35.58306",
+            "toponym_search": "Azila",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.97486",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.97486,
+            35.58306
+        ]
+    }
+}

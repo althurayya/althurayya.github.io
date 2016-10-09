@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000095-000.json": {
+                "title": "الش",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāliš, Bālis, Wāliš, Wālištān",
+            "cornu_URI": "BALISH_676E296N_R",
+            "toponym_arabic": "بالش",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Balish, Balis, Walish, Walishtan",
+            "toponym_arabic_other": "بالش، بالس، والش، والشتان",
+            "toponym_translit": "Bāliš",
+            "coord_lat": "29.64265",
+            "toponym_search": "Balish, Balis, Walish, Walishtan",
+            "region_code": "Sijistan",
+            "coord_lon": "67.65738",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.65738,
+            29.64265
+        ]
+    }
+}

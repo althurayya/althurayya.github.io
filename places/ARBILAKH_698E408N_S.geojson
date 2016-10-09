@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000079-000.json": {
+                "title": "اربل",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arbilaḫ",
+            "cornu_URI": "ARBILAKH_698E408N_S",
+            "toponym_arabic": "أربلخ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arbilakh",
+            "toponym_arabic_other": "أربلخ",
+            "toponym_translit": "Arbilaḫ",
+            "coord_lat": "40.87010",
+            "toponym_search": "Arbilakh",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.83739",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.83739,
+            40.8701
+        ]
+    }
+}

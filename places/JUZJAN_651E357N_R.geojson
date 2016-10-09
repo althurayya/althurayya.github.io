@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000484-000.json": {
+                "title": "الجوزجان",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧūzǧān",
+            "cornu_URI": "JUZJAN_651E357N_R",
+            "toponym_arabic": "جوزجان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Juzjan",
+            "toponym_arabic_other": "جوزجان",
+            "toponym_translit": "Ǧūzǧān",
+            "coord_lat": "35.72110",
+            "toponym_search": "Juzjan",
+            "region_code": "Khurasan",
+            "coord_lon": "65.10068",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.10068,
+            35.7211
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001391-000.json": {
+                "title": "المدان",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001387-000.json": {
+                "title": "المداين",
+                "rate": 93,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Madāʾīn",
+            "cornu_URI": "MADAIN_445E330N_S",
+            "toponym_arabic": "المدائين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Madain",
+            "toponym_arabic_other": "المدائين",
+            "toponym_translit": "al-Madāʾīn",
+            "coord_lat": "33.09075",
+            "toponym_search": "al-Madain",
+            "region_code": "Iraq",
+            "coord_lon": "44.59672",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.59672,
+            33.09075
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Radāʿ",
+            "cornu_URI": "RADA_448E144N_S",
+            "toponym_arabic": "رداع",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rada",
+            "toponym_arabic_other": "رداع",
+            "toponym_translit": "Radāʿ",
+            "coord_lat": "14.42679",
+            "toponym_search": "Rada",
+            "region_code": "Yemen",
+            "coord_lon": "44.84407",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.84407,
+            14.42679
+        ]
+    }
+}

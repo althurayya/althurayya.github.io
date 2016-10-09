@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001615-000.json": {
+                "title": "وودان",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001614-000.json": {
+                "title": "ودان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Waddān",
+            "cornu_URI": "WADDAN_162E289N_S",
+            "toponym_arabic": "ودان",
+            "top_type_orig": "oasis",
+            "toponym_buckwalter": "Waddan",
+            "toponym_arabic_other": "ودان",
+            "toponym_translit": "Waddān",
+            "coord_lat": "28.96493",
+            "toponym_search": "Waddan",
+            "region_code": "Barqa",
+            "coord_lon": "16.28326",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28326,
+            28.96493
+        ]
+    }
+}

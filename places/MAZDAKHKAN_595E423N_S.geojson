@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mazdāḫkān, Mazdāḫqān",
+            "cornu_URI": "MAZDAKHKAN_595E423N_S",
+            "toponym_arabic": "مزداخكان",
+            "top_type_orig": "canton/cite",
+            "toponym_buckwalter": "Mazdakhkan, Mazdakhqan",
+            "toponym_arabic_other": "مزداخكان، مزداخقان",
+            "toponym_translit": "Mazdāḫkān",
+            "coord_lat": "42.39769",
+            "toponym_search": "Mazdakhkan, Mazdakhqan",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.50470",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.5047,
+            42.39769
+        ]
+    }
+}

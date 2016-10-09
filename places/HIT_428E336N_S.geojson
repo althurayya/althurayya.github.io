@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001578-000.json": {
+                "title": "هيت",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hīt",
+            "cornu_URI": "HIT_428E336N_S",
+            "toponym_arabic": "هيت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hit",
+            "toponym_arabic_other": "هيت",
+            "toponym_translit": "Hīt",
+            "coord_lat": "33.64370",
+            "toponym_search": "Hit",
+            "region_code": "Iraq",
+            "coord_lon": "42.80628",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.80628,
+            33.6437
+        ]
+    }
+}

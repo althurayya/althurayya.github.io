@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000377-000.json": {
+                "title": "تفليس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tiflīs",
+            "cornu_URI": "TIFLIS_448E420N_S",
+            "toponym_arabic": "تفليس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tiflis",
+            "toponym_arabic_other": "تفليس",
+            "toponym_translit": "Tiflīs",
+            "coord_lat": "42.08410",
+            "toponym_search": "Tiflis",
+            "region_code": "Rihab",
+            "coord_lon": "44.83734",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.83734,
+            42.0841
+        ]
+    }
+}

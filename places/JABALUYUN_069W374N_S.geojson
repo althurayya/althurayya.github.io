@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal al-ʿUyūn",
+            "cornu_URI": "JABALUYUN_069W374N_S",
+            "toponym_arabic": "جبل العيون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jabal al-Uyun",
+            "toponym_arabic_other": "جبل العيون",
+            "toponym_translit": "Ǧabal al-ʿUyūn",
+            "coord_lat": "37.41112",
+            "toponym_search": "Jabal al-Uyun",
+            "region_code": "Andalus",
+            "coord_lon": "-6.99696",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.99696,
+            37.41112
+        ]
+    }
+}

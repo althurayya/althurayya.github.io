@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Namālataŧ",
+            "cornu_URI": "NAMALATA_046W341N_S",
+            "toponym_arabic": "نمالتة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Namalata",
+            "toponym_arabic_other": "نمالتة",
+            "toponym_translit": "Namālataŧ",
+            "coord_lat": "34.13739",
+            "toponym_search": "Namalata",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.62840",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.6284,
+            34.13739
+        ]
+    }
+}

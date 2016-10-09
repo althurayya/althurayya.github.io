@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūl Šūb",
+            "cornu_URI": "KULSHUB_721E428N_S",
+            "toponym_arabic": "كول شوب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kul Shub",
+            "toponym_arabic_other": "كول شوب",
+            "toponym_translit": "Kūl Šūb",
+            "coord_lat": "42.88984",
+            "toponym_search": "Kul Shub",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.10394",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.10394,
+            42.88984
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zarūdūwaŧ",
+            "cornu_URI": "ZARUDUWA_548E294N_S",
+            "toponym_arabic": "زرودووة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Zaruduwa",
+            "toponym_arabic_other": "زرودووة",
+            "toponym_translit": "Zarūdūwaŧ",
+            "coord_lat": "29.41342",
+            "toponym_search": "Zaruduwa",
+            "region_code": "Faris",
+            "coord_lon": "54.85047",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.85047,
+            29.41342
+        ]
+    }
+}

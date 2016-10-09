@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000381-000.json": {
+                "title": "تهامه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tihāmaŧ",
+            "cornu_URI": "TIHAMA_425E175N_R",
+            "toponym_arabic": "تهامة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Tihama",
+            "toponym_arabic_other": "تهامة",
+            "toponym_translit": "Tihāmaŧ",
+            "coord_lat": "17.58374",
+            "toponym_search": "Tihama",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.51067",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.51067,
+            17.58374
+        ]
+    }
+}

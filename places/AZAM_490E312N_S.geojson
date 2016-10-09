@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Azam, Aǧam",
+            "cornu_URI": "AZAM_490E312N_S",
+            "toponym_arabic": "أزم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Azam, Ajam",
+            "toponym_arabic_other": "أزم، أجم",
+            "toponym_translit": "Azam",
+            "coord_lat": "31.24752",
+            "toponym_search": "Azam, Ajam",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.04158",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.04158,
+            31.24752
+        ]
+    }
+}

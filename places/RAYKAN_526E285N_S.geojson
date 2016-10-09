@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāykān, Ḫān Azādmard",
+            "cornu_URI": "RAYKAN_526E285N_S",
+            "toponym_arabic": "رايكان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Raykan, Khan Azadmard",
+            "toponym_arabic_other": "رايكان، خان أزادمرد",
+            "toponym_translit": "Rāykān",
+            "coord_lat": "28.52097",
+            "toponym_search": "Raykan, Khan Azadmard",
+            "region_code": "Faris",
+            "coord_lon": "52.67152",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.67152,
+            28.52097
+        ]
+    }
+}

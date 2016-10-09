@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000280-000.json": {
+                "title": "البصره",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000111-000.json": {
+                "title": "انباره",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000733-000.json": {
+                "title": "الزاره",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000093-000.json": {
+                "title": "البيره",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bāraŧ",
+            "cornu_URI": "BARA_365E356N_S",
+            "toponym_arabic": "البارة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Bara",
+            "toponym_arabic_other": "البارة",
+            "toponym_translit": "al-Bāraŧ",
+            "coord_lat": "35.68430",
+            "toponym_search": "al-Bara",
+            "region_code": "Sham",
+            "coord_lon": "36.54442",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.54442,
+            35.6843
+        ]
+    }
+}

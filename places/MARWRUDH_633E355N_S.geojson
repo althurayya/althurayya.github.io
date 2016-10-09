@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001401-000.json": {
+                "title": "مرو الروذ",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marw al-Rūḏ",
+            "cornu_URI": "MARWRUDH_633E355N_S",
+            "toponym_arabic": "مرو الروذ",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Marw al-Rudh",
+            "toponym_arabic_other": "مرو الروذ",
+            "toponym_translit": "Marw al-Rūḏ",
+            "coord_lat": "35.59250",
+            "toponym_search": "Marw al-Rudh",
+            "region_code": "Khurasan",
+            "coord_lon": "63.36670",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.3667,
+            35.5925
+        ]
+    }
+}

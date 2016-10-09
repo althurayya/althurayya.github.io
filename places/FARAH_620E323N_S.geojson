@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Farah",
+            "cornu_URI": "FARAH_620E323N_S",
+            "toponym_arabic": "فره",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Farah",
+            "toponym_arabic_other": "فره",
+            "toponym_translit": "Farah",
+            "coord_lat": "32.35928",
+            "toponym_search": "Farah",
+            "region_code": "Sijistan",
+            "coord_lon": "62.06561",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.06561,
+            32.35928
+        ]
+    }
+}

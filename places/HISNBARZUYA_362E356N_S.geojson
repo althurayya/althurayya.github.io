@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Barzūyaŧ",
+            "cornu_URI": "HISNBARZUYA_362E356N_S",
+            "toponym_arabic": "حصن برزوية",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "Hisn Barzuya",
+            "toponym_arabic_other": "حصن برزوية",
+            "toponym_translit": "Ḥiṣn Barzūyaŧ",
+            "coord_lat": "35.67547",
+            "toponym_search": "Hisn Barzuya",
+            "region_code": "Sham",
+            "coord_lon": "36.27118",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.27118,
+            35.67547
+        ]
+    }
+}

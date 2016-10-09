@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000803-000.json": {
+                "title": "سروس",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sardūs",
+            "cornu_URI": "SARDUS_311E301N_S",
+            "toponym_arabic": "سردوس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sardus",
+            "toponym_arabic_other": "سردوس",
+            "toponym_translit": "Sardūs",
+            "coord_lat": "30.16277",
+            "toponym_search": "Sardus",
+            "region_code": "Egypt",
+            "coord_lon": "31.18645",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.18645,
+            30.16277
+        ]
+    }
+}

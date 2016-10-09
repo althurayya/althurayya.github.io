@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rakūnīn",
+            "cornu_URI": "RAKUNIN_527E326N_S",
+            "toponym_arabic": "ركونين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Rakunin",
+            "toponym_arabic_other": "ركونين",
+            "toponym_translit": "Rakūnīn",
+            "coord_lat": "32.66383",
+            "toponym_search": "Rakunin",
+            "region_code": "Mafaza",
+            "coord_lon": "52.72262",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.72262,
+            32.66383
+        ]
+    }
+}

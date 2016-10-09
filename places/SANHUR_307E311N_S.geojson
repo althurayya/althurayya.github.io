@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sanhūr",
+            "cornu_URI": "SANHUR_307E311N_S",
+            "toponym_arabic": "سنهور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sanhur",
+            "toponym_arabic_other": "سنهور",
+            "toponym_translit": "Sanhūr",
+            "coord_lat": "31.16283",
+            "toponym_search": "Sanhur",
+            "region_code": "Egypt",
+            "coord_lon": "30.70832",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.70832,
+            31.16283
+        ]
+    }
+}

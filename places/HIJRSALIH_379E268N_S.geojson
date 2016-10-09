@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000502-000.json": {
+                "title": "الحجر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiǧr Ṣāliḥ, al-Ḥiǧr",
+            "cornu_URI": "HIJRSALIH_379E268N_S",
+            "toponym_arabic": "حجر صالح",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hijr Salih, al-Hijr",
+            "toponym_arabic_other": "حجر صالح، الحجر",
+            "toponym_translit": "Ḥiǧr Ṣāliḥ",
+            "coord_lat": "26.86125",
+            "toponym_search": "Hijr Salih, al-Hijr",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "37.93999",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.93999,
+            26.86125
+        ]
+    }
+}

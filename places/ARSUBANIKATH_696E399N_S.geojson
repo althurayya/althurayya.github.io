@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arsubānīkaṯ, Subānīkaṯ",
+            "cornu_URI": "ARSUBANIKATH_696E399N_S",
+            "toponym_arabic": "أرسبانيكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arsubanikath, Subanikath",
+            "toponym_arabic_other": "أرسبانيكث، سبانيكث",
+            "toponym_translit": "Arsubānīkaṯ",
+            "coord_lat": "39.93024",
+            "toponym_search": "Arsubanikath, Subanikath",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.60096",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.60096,
+            39.93024
+        ]
+    }
+}

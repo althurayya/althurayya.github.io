@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wīnkard",
+            "cornu_URI": "WINKARD_684E405N_S",
+            "toponym_arabic": "وينكرد",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Winkard",
+            "toponym_arabic_other": "وينكرد",
+            "toponym_translit": "Wīnkard",
+            "coord_lat": "40.57316",
+            "toponym_search": "Winkard",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.43871",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.43871,
+            40.57316
+        ]
+    }
+}

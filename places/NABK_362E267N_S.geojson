@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nabk",
+            "cornu_URI": "NABK_362E267N_S",
+            "toponym_arabic": "النبك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Nabk",
+            "toponym_arabic_other": "النبك",
+            "toponym_translit": "al-Nabk",
+            "coord_lat": "26.71435",
+            "toponym_search": "al-Nabk",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "36.24739",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.24739,
+            26.71435
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ al-Amīr",
+            "cornu_URI": "RIBATAMIR_547E375N_S",
+            "toponym_arabic": "رباط الأمير",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat al-Amir",
+            "toponym_arabic_other": "رباط الأمير",
+            "toponym_translit": "Ribāṭ al-Amīr",
+            "coord_lat": "37.58399",
+            "toponym_search": "Ribat al-Amir",
+            "region_code": "Daylam",
+            "coord_lon": "54.76443",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.76443,
+            37.58399
+        ]
+    }
+}

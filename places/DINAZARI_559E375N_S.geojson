@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dīnāzārī",
+            "cornu_URI": "DINAZARI_559E375N_S",
+            "toponym_arabic": "دينازاري",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dinazari",
+            "toponym_arabic_other": "دينازاري",
+            "toponym_translit": "Dīnāzārī",
+            "coord_lat": "37.57458",
+            "toponym_search": "Dinazari",
+            "region_code": "Daylam",
+            "coord_lon": "55.99881",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.99881,
+            37.57458
+        ]
+    }
+}

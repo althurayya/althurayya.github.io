@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Busfurǧān",
+            "cornu_URI": "BUSFURJAN_456E395N_R",
+            "toponym_arabic": "بسفرجان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Busfurjan",
+            "toponym_arabic_other": "بسفرجان",
+            "toponym_translit": "Busfurǧān",
+            "coord_lat": "39.54632",
+            "toponym_search": "Busfurjan",
+            "region_code": "Rihab",
+            "coord_lon": "45.61619",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.61619,
+            39.54632
+        ]
+    }
+}

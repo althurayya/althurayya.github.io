@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧūl",
+            "cornu_URI": "JUL_747E428N_S",
+            "toponym_arabic": "جول",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jul",
+            "toponym_arabic_other": "جول",
+            "toponym_translit": "Ǧūl",
+            "coord_lat": "42.84796",
+            "toponym_search": "Jul",
+            "region_code": "Transoxiana",
+            "coord_lon": "74.79378",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            74.79378,
+            42.84796
+        ]
+    }
+}

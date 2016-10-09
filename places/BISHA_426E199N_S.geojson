@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000317-000.json": {
+                "title": "بيش",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000316-000.json": {
+                "title": "بيشه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bīšaŧ",
+            "cornu_URI": "BISHA_426E199N_S",
+            "toponym_arabic": "بيشة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bisha",
+            "toponym_arabic_other": "بيشة",
+            "toponym_translit": "Bīšaŧ",
+            "coord_lat": "19.93935",
+            "toponym_search": "Bisha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.62594",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.62594,
+            19.93935
+        ]
+    }
+}

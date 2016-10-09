@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Quṭquṭānaŧ",
+            "cornu_URI": "QUTQUTANA_438E319N_S",
+            "toponym_arabic": "القطقطانة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qutqutana",
+            "toponym_arabic_other": "القطقطانة",
+            "toponym_translit": "al-Quṭquṭānaŧ",
+            "coord_lat": "31.93660",
+            "toponym_search": "al-Qutqutana",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.82290",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.8229,
+            31.9366
+        ]
+    }
+}

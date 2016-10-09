@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000316-000.json": {
+                "title": "بيشه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qabīšaŧ",
+            "cornu_URI": "QABISHA_106E348N_R",
+            "toponym_arabic": "قبيشة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qabisha",
+            "toponym_arabic_other": "قبيشة",
+            "toponym_translit": "Qabīšaŧ",
+            "coord_lat": "34.83148",
+            "toponym_search": "Qabisha",
+            "region_code": "Maghrib",
+            "coord_lon": "10.68123",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68123,
+            34.83148
+        ]
+    }
+}

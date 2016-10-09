@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arkū, Rakwaŧ",
+            "cornu_URI": "ARKU_072E360N_S",
+            "toponym_arabic": "أركو",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arku, Rakwa",
+            "toponym_arabic_other": "أركو، ركوة",
+            "toponym_translit": "Arkū",
+            "coord_lat": "36.05429",
+            "toponym_search": "Arku, Rakwa",
+            "region_code": "Maghrib",
+            "coord_lon": "7.20287",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.20287,
+            36.05429
+        ]
+    }
+}

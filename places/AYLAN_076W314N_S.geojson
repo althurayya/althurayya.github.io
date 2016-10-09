@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aylān, Aġmāt Aylā, Aġmāt Waylā",
+            "cornu_URI": "AYLAN_076W314N_S",
+            "toponym_arabic": "أيلان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Aylan, Aghmat Ayla, Aghmat Wayla",
+            "toponym_arabic_other": "أيلان، أغمات أيلا، أغمات ويلا",
+            "toponym_translit": "Aylān",
+            "coord_lat": "31.49952",
+            "toponym_search": "Aylan, Aghmat Ayla, Aghmat Wayla",
+            "region_code": "Maghrib",
+            "coord_lon": "-7.69710",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.6971,
+            31.49952
+        ]
+    }
+}

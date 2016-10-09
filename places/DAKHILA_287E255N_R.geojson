@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Dāḫilaŧ",
+            "cornu_URI": "DAKHILA_287E255N_R",
+            "toponym_arabic": "الداخلة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Dakhila",
+            "toponym_arabic_other": "الداخلة",
+            "toponym_translit": "al-Dāḫilaŧ",
+            "coord_lat": "25.54178",
+            "toponym_search": "al-Dakhila",
+            "region_code": "Egypt",
+            "coord_lon": "28.73902",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.73902,
+            25.54178
+        ]
+    }
+}

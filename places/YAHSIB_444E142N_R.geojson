@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yaḥṣib",
+            "cornu_URI": "YAHSIB_444E142N_R",
+            "toponym_arabic": "يحصب",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Yahsib",
+            "toponym_arabic_other": "يحصب",
+            "toponym_translit": "Yaḥṣib",
+            "coord_lat": "14.21583",
+            "toponym_search": "Yahsib",
+            "region_code": "Yemen",
+            "coord_lon": "44.41651",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.41651,
+            14.21583
+        ]
+    }
+}

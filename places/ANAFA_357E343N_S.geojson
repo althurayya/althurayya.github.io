@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Anafaŧ",
+            "cornu_URI": "ANAFA_357E343N_S",
+            "toponym_arabic": "أنفة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Anafa",
+            "toponym_arabic_other": "أنفة",
+            "toponym_translit": "Anafaŧ",
+            "coord_lat": "34.35634",
+            "toponym_search": "Anafa",
+            "region_code": "Sham",
+            "coord_lon": "35.73678",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.73678,
+            34.35634
+        ]
+    }
+}

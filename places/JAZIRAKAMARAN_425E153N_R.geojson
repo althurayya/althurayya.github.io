@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Kamarān",
+            "cornu_URI": "JAZIRAKAMARAN_425E153N_R",
+            "toponym_arabic": "جزيرة كمران",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Jazira Kamaran",
+            "toponym_arabic_other": "جزيرة كمران",
+            "toponym_translit": "Ǧazīraŧ Kamarān",
+            "coord_lat": "15.36876",
+            "toponym_search": "Jazira Kamaran",
+            "region_code": "Yemen",
+            "coord_lon": "42.56843",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.56843,
+            15.36876
+        ]
+    }
+}

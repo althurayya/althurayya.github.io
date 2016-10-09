@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001532-000.json": {
+                "title": "نصيبين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Naṣībīn",
+            "cornu_URI": "NASIBIN_412E370N_S",
+            "toponym_arabic": "نصيبين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nasibin",
+            "toponym_arabic_other": "نصيبين",
+            "toponym_translit": "Naṣībīn",
+            "coord_lat": "37.05514",
+            "toponym_search": "Nasibin",
+            "region_code": "Aqur",
+            "coord_lon": "41.22167",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.22167,
+            37.05514
+        ]
+    }
+}

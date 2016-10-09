@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000378-000.json": {
+                "title": "تقيوس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Taqyūs",
+            "cornu_URI": "TAQYUS_082E340N_S",
+            "toponym_arabic": "تقيوس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Taqyus",
+            "toponym_arabic_other": "تقيوس",
+            "toponym_translit": "Taqyūs",
+            "coord_lat": "34.00718",
+            "toponym_search": "Taqyus",
+            "region_code": "Maghrib",
+            "coord_lon": "8.26247",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.26247,
+            34.00718
+        ]
+    }
+}

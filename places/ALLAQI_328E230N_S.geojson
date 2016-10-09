@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAllaqī",
+            "cornu_URI": "ALLAQI_328E230N_S",
+            "toponym_arabic": "علقي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Allaqi",
+            "toponym_arabic_other": "علقي",
+            "toponym_translit": "ʿAllaqī",
+            "coord_lat": "23.01969",
+            "toponym_search": "Allaqi",
+            "region_code": "Egypt",
+            "coord_lon": "32.87404",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.87404,
+            23.01969
+        ]
+    }
+}

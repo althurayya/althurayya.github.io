@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rīšahr",
+            "cornu_URI": "RISHAHR_502E303N_S",
+            "toponym_arabic": "ريشهر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Rishahr",
+            "toponym_arabic_other": "ريشهر",
+            "toponym_translit": "Rīšahr",
+            "coord_lat": "30.34108",
+            "toponym_search": "Rishahr",
+            "region_code": "Faris",
+            "coord_lon": "50.22217",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.22217,
+            30.34108
+        ]
+    }
+}

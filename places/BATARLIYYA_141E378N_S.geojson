@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṭarliyyaŧ",
+            "cornu_URI": "BATARLIYYA_141E378N_S",
+            "toponym_arabic": "بطرلية",
+            "top_type_orig": "cite/citadelle",
+            "toponym_buckwalter": "Batarliyya",
+            "toponym_arabic_other": "بطرلية",
+            "toponym_translit": "Baṭarliyyaŧ",
+            "coord_lat": "37.81415",
+            "toponym_search": "Batarliyya",
+            "region_code": "Sicile",
+            "coord_lon": "14.13046",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.13046,
+            37.81415
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000267-000.json": {
+                "title": "بلغار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bulġār",
+            "cornu_URI": "BULGHAR_484E541N_R",
+            "toponym_arabic": "بلغار",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bulghar",
+            "toponym_arabic_other": "بلغار",
+            "toponym_translit": "Bulġār",
+            "coord_lat": "54.15460",
+            "toponym_search": "Bulghar",
+            "region_code": "Khazar",
+            "coord_lon": "48.40369",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.40369,
+            54.1546
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karkas Kūh",
+            "cornu_URI": "KARKASKUH_522E328N_O",
+            "toponym_arabic": "كركس كوه",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Karkas Kuh",
+            "toponym_arabic_other": "كركس كوه",
+            "toponym_translit": "Karkas Kūh",
+            "coord_lat": "32.89927",
+            "toponym_search": "Karkas Kuh",
+            "region_code": "Mafaza",
+            "coord_lon": "52.24892",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.24892,
+            32.89927
+        ]
+    }
+}

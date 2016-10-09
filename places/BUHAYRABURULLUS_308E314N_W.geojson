@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ al-Burullus",
+            "cornu_URI": "BUHAYRABURULLUS_308E314N_W",
+            "toponym_arabic": "بحيرة البرلس",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra al-Burullus",
+            "toponym_arabic_other": "بحيرة البرلس",
+            "toponym_translit": "Buḥayraŧ al-Burullus",
+            "coord_lat": "31.45960",
+            "toponym_search": "Buhayra al-Burullus",
+            "region_code": "Egypt",
+            "coord_lon": "30.80708",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.80708,
+            31.4596
+        ]
+    }
+}

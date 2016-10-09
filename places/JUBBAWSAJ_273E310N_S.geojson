@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧubb al-ʿAwsaǧ",
+            "cornu_URI": "JUBBAWSAJ_273E310N_S",
+            "toponym_arabic": "جب العوسج",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jubb al-Awsaj",
+            "toponym_arabic_other": "جب العوسج",
+            "toponym_translit": "Ǧubb al-ʿAwsaǧ",
+            "coord_lat": "31.04479",
+            "toponym_search": "Jubb al-Awsaj",
+            "region_code": "Barqa",
+            "coord_lon": "27.30318",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.30318,
+            31.04479
+        ]
+    }
+}

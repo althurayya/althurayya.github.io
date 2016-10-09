@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manūf",
+            "cornu_URI": "MANUF_309E304N_S",
+            "toponym_arabic": "منوف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Manuf",
+            "toponym_arabic_other": "منوف",
+            "toponym_translit": "Manūf",
+            "coord_lat": "30.45505",
+            "toponym_search": "Manuf",
+            "region_code": "Egypt",
+            "coord_lon": "30.91950",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.9195,
+            30.45505
+        ]
+    }
+}

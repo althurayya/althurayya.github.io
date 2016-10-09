@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ǧarsīq, Nahr Ǧaršīq",
+            "cornu_URI": "NAHRJARSIQ_517E293N_W",
+            "toponym_arabic": "نهر جرسيق",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Jarsiq, Nahr Jarshiq",
+            "toponym_arabic_other": "نهر جرسيق، نهر جرشيق",
+            "toponym_translit": "Nahr Ǧarsīq",
+            "coord_lat": "29.32600",
+            "toponym_search": "Nahr Jarsiq, Nahr Jarshiq",
+            "region_code": "Faris",
+            "coord_lon": "51.76932",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.76932,
+            29.326
+        ]
+    }
+}

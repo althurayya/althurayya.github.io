@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kayf, Kīf",
+            "cornu_URI": "KAYF_624E352N_S",
+            "toponym_arabic": "كيف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kayf, Kif",
+            "toponym_arabic_other": "كيف، كيف",
+            "toponym_translit": "Kayf",
+            "coord_lat": "35.20428",
+            "toponym_search": "Kayf, Kif",
+            "region_code": "Khurasan",
+            "coord_lon": "62.42996",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.42996,
+            35.20428
+        ]
+    }
+}

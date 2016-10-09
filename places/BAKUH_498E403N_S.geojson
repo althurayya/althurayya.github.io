@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bākūh",
+            "cornu_URI": "BAKUH_498E403N_S",
+            "toponym_arabic": "باكوه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bakuh",
+            "toponym_arabic_other": "باكوه",
+            "toponym_translit": "Bākūh",
+            "coord_lat": "40.37900",
+            "toponym_search": "Bakuh",
+            "region_code": "Rihab",
+            "coord_lon": "49.86422",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.86422,
+            40.379
+        ]
+    }
+}

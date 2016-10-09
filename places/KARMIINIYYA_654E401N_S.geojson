@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001284-000.json": {
+                "title": "كرمينيه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000074-000.json": {
+                "title": "ارمينيه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karmiīniyyaŧ",
+            "cornu_URI": "KARMIINIYYA_654E401N_S",
+            "toponym_arabic": "كرمينية",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Karmiiniyya",
+            "toponym_arabic_other": "كرمينية",
+            "toponym_translit": "Karmiīniyyaŧ",
+            "coord_lat": "40.14581",
+            "toponym_search": "Karmiiniyya",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.40937",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.40937,
+            40.14581
+        ]
+    }
+}

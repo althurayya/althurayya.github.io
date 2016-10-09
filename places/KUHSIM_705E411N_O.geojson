@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūh Sīm, Ǧabal al-Fiḍḍaŧ",
+            "cornu_URI": "KUHSIM_705E411N_O",
+            "toponym_arabic": "كوه سيم",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Kuh Sim, Jabal al-Fidda",
+            "toponym_arabic_other": "كوه سيم، جبل الفضة",
+            "toponym_translit": "Kūh Sīm",
+            "coord_lat": "41.19160",
+            "toponym_search": "Kuh Sim, Jabal al-Fidda",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.54447",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.54447,
+            41.1916
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fārūq",
+            "cornu_URI": "FARUQ_530E299N_S",
+            "toponym_arabic": "فاروق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Faruq",
+            "toponym_arabic_other": "فاروق",
+            "toponym_translit": "Fārūq",
+            "coord_lat": "29.97467",
+            "toponym_search": "Faruq",
+            "region_code": "Faris",
+            "coord_lon": "53.06569",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.06569,
+            29.97467
+        ]
+    }
+}

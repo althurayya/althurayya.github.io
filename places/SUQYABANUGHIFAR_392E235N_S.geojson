@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suqyāʾ Banū Ġifār",
+            "cornu_URI": "SUQYABANUGHIFAR_392E235N_S",
+            "toponym_arabic": "سقياء بنو غفار",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Suqya Banu Ghifar",
+            "toponym_arabic_other": "سقياء بنو غفار",
+            "toponym_translit": "Suqyāʾ Banū Ġifār",
+            "coord_lat": "23.58141",
+            "toponym_search": "Suqya Banu Ghifar",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.23295",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.23295,
+            23.58141
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Haǧar",
+            "cornu_URI": "HAJAR_499E247N_R",
+            "toponym_arabic": "الهجر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Hajar",
+            "toponym_arabic_other": "الهجر",
+            "toponym_translit": "al-Haǧar",
+            "coord_lat": "24.72896",
+            "toponym_search": "al-Hajar",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "49.94102",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.94102,
+            24.72896
+        ]
+    }
+}

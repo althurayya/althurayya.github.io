@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫarǧ",
+            "cornu_URI": "KHARJ_472E237N_R",
+            "toponym_arabic": "الخرج",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Kharj",
+            "toponym_arabic_other": "الخرج",
+            "toponym_translit": "al-Ḫarǧ",
+            "coord_lat": "23.77518",
+            "toponym_search": "al-Kharj",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "47.26694",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.26694,
+            23.77518
+        ]
+    }
+}

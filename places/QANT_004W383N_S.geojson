@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qānt",
+            "cornu_URI": "QANT_004W383N_S",
+            "toponym_arabic": "قانت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qant",
+            "toponym_arabic_other": "قانت",
+            "toponym_translit": "Qānt",
+            "coord_lat": "38.34618",
+            "toponym_search": "Qant",
+            "region_code": "Andalus",
+            "coord_lon": "-0.47061",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.47061,
+            38.34618
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000354-000.json": {
+                "title": "تدمر",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000355-000.json": {
+                "title": "تدمير",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tadmur",
+            "cornu_URI": "TADMUR_382E345N_S",
+            "toponym_arabic": "تدمر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tadmur",
+            "toponym_arabic_other": "تدمر",
+            "toponym_translit": "Tadmur",
+            "coord_lat": "34.54735",
+            "toponym_search": "Tadmur",
+            "region_code": "Sham",
+            "coord_lon": "38.28754",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.28754,
+            34.54735
+        ]
+    }
+}

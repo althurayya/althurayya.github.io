@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000582-000.json": {
+                "title": "خيبر",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫabr",
+            "cornu_URI": "KHABR_532E287N_S",
+            "toponym_arabic": "خبر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khabr",
+            "toponym_arabic_other": "خبر",
+            "toponym_translit": "Ḫabr",
+            "coord_lat": "28.76436",
+            "toponym_search": "Khabr",
+            "region_code": "Faris",
+            "coord_lon": "53.27732",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.27732,
+            28.76436
+        ]
+    }
+}

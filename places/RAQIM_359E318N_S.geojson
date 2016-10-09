@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000699-000.json": {
+                "title": "الرقيم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Raqīm, al-Raqam",
+            "cornu_URI": "RAQIM_359E318N_S",
+            "toponym_arabic": "الرقيم",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "al-Raqim, al-Raqam",
+            "toponym_arabic_other": "الرقيم، الرقم",
+            "toponym_translit": "al-Raqīm",
+            "coord_lat": "31.89279",
+            "toponym_search": "al-Raqim, al-Raqam",
+            "region_code": "Sham",
+            "coord_lon": "35.96419",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.96419,
+            31.89279
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asbaraŧ",
+            "cornu_URI": "ASBARA_735E427N_S",
+            "toponym_arabic": "أسبرة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Asbara",
+            "toponym_arabic_other": "أسبرة",
+            "toponym_translit": "Asbaraŧ",
+            "coord_lat": "42.77192",
+            "toponym_search": "Asbara",
+            "region_code": "Transoxiana",
+            "coord_lon": "73.56945",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.56945,
+            42.77192
+        ]
+    }
+}

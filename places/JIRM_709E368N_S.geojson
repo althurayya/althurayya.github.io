@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧirm",
+            "cornu_URI": "JIRM_709E368N_S",
+            "toponym_arabic": "جرم",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Jirm",
+            "toponym_arabic_other": "جرم",
+            "toponym_translit": "Ǧirm",
+            "coord_lat": "36.80704",
+            "toponym_search": "Jirm",
+            "region_code": "Khurasan",
+            "coord_lon": "70.92564",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.92564,
+            36.80704
+        ]
+    }
+}

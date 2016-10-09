@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000191-000.json": {
+                "title": "ايليا",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001473-000.json": {
+                "title": "المقدس",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayt al-Maqdis, al-Quds, Īliyā",
+            "cornu_URI": "BAYTMAQDIS_352E317N_S",
+            "toponym_arabic": "بيت المقدس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bayt al-Maqdis, al-Quds, Iliya",
+            "toponym_arabic_other": "بيت المقدس، القدس، إيليا",
+            "toponym_translit": "Bayt al-Maqdis",
+            "coord_lat": "31.77768",
+            "toponym_search": "Bayt al-Maqdis, al-Quds, Iliya",
+            "region_code": "Sham",
+            "coord_lon": "35.20345",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.20345,
+            31.77768
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧāǧīstān",
+            "cornu_URI": "JAJISTAN_704E405N_S",
+            "toponym_arabic": "جاجيستان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jajistan",
+            "toponym_arabic_other": "جاجيستان",
+            "toponym_translit": "Ǧāǧīstān",
+            "coord_lat": "40.55623",
+            "toponym_search": "Jajistan",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.43986",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.43986,
+            40.55623
+        ]
+    }
+}

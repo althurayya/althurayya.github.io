@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ūḏ",
+            "cornu_URI": "UDH_492E355N_S",
+            "toponym_arabic": "أوذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Udh",
+            "toponym_arabic_other": "أوذ",
+            "toponym_translit": "Ūḏ",
+            "coord_lat": "35.59348",
+            "toponym_search": "Udh",
+            "region_code": "Jibal",
+            "coord_lon": "49.25084",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.25084,
+            35.59348
+        ]
+    }
+}

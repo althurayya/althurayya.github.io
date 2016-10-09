@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḥīrābāḏ",
+            "cornu_URI": "BAHIRABADH_624E368N_S",
+            "toponym_arabic": "بحيراباذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bahirabadh",
+            "toponym_arabic_other": "بحيراباذ",
+            "toponym_translit": "Baḥīrābāḏ",
+            "coord_lat": "36.88847",
+            "toponym_search": "Bahirabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "62.46952",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.46952,
+            36.88847
+        ]
+    }
+}

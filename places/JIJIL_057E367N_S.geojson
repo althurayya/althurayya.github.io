@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000490-000.json": {
+                "title": "جيجل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧīǧil",
+            "cornu_URI": "JIJIL_057E367N_S",
+            "toponym_arabic": "جيجل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jijil",
+            "toponym_arabic_other": "جيجل",
+            "toponym_translit": "Ǧīǧil",
+            "coord_lat": "36.77325",
+            "toponym_search": "Jijil",
+            "region_code": "Maghrib",
+            "coord_lon": "5.71881",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.71881,
+            36.77325
+        ]
+    }
+}

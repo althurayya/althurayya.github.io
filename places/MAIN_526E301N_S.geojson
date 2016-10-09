@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʾīn, Maʿīn",
+            "cornu_URI": "MAIN_526E301N_S",
+            "toponym_arabic": "مئين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Main, Main",
+            "toponym_arabic_other": "مئين، معين",
+            "toponym_translit": "Maʾīn",
+            "coord_lat": "30.18595",
+            "toponym_search": "Main, Main",
+            "region_code": "Faris",
+            "coord_lon": "52.63784",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.63784,
+            30.18595
+        ]
+    }
+}

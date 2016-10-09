@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000697-000.json": {
+                "title": "الرقه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000669-000.json": {
+                "title": "الرافقه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Raqqaŧ",
+            "cornu_URI": "RAQQA_390E359N_S",
+            "toponym_arabic": "الرقة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Raqqa",
+            "toponym_arabic_other": "الرقة",
+            "toponym_translit": "al-Raqqaŧ",
+            "coord_lat": "35.94930",
+            "toponym_search": "al-Raqqa",
+            "region_code": "Aqur",
+            "coord_lon": "39.05128",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.05128,
+            35.9493
+        ]
+    }
+}

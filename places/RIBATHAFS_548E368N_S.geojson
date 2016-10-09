@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Ḥafṣ",
+            "cornu_URI": "RIBATHAFS_548E368N_S",
+            "toponym_arabic": "رباط حفص",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Hafs",
+            "toponym_arabic_other": "رباط حفص",
+            "toponym_translit": "Ribāṭ Ḥafṣ",
+            "coord_lat": "36.81760",
+            "toponym_search": "Ribat Hafs",
+            "region_code": "Daylam",
+            "coord_lon": "54.88904",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.88904,
+            36.8176
+        ]
+    }
+}

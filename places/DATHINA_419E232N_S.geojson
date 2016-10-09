@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000596-000.json": {
+                "title": "الدثينه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Daṯīnaŧ, Dafīnaŧ",
+            "cornu_URI": "DATHINA_419E232N_S",
+            "toponym_arabic": "الدثينة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Dathina, Dafina",
+            "toponym_arabic_other": "الدثينة، دفينة",
+            "toponym_translit": "al-Daṯīnaŧ",
+            "coord_lat": "23.22544",
+            "toponym_search": "al-Dathina, Dafina",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.92466",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.92466,
+            23.22544
+        ]
+    }
+}

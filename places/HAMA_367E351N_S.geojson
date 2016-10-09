@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000520-000.json": {
+                "title": "حماه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥamāŧ",
+            "cornu_URI": "HAMA_367E351N_S",
+            "toponym_arabic": "حماة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hama",
+            "toponym_arabic_other": "حماة",
+            "toponym_translit": "Ḥamāŧ",
+            "coord_lat": "35.12587",
+            "toponym_search": "Hama",
+            "region_code": "Sham",
+            "coord_lon": "36.76872",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.76872,
+            35.12587
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dayr al-ʿĀqūl",
+            "cornu_URI": "DAYRAQUL_449E329N_S",
+            "toponym_arabic": "دير العاقول",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dayr al-Aqul",
+            "toponym_arabic_other": "دير العاقول",
+            "toponym_translit": "Dayr al-ʿĀqūl",
+            "coord_lat": "32.91181",
+            "toponym_search": "Dayr al-Aqul",
+            "region_code": "Iraq",
+            "coord_lon": "44.98460",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.9846,
+            32.91181
+        ]
+    }
+}

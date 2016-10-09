@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabiltā, Ǧabultā",
+            "cornu_URI": "JABILTA_437E346N_S",
+            "toponym_arabic": "جبلتا",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jabilta, Jabulta",
+            "toponym_arabic_other": "جبلتا، جبلتا",
+            "toponym_translit": "Ǧabiltā",
+            "coord_lat": "34.62614",
+            "toponym_search": "Jabilta, Jabulta",
+            "region_code": "Iraq",
+            "coord_lon": "43.72814",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.72814,
+            34.62614
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūq Ḥamzaŧ",
+            "cornu_URI": "SUQHAMZA_039E363N_S",
+            "toponym_arabic": "سوق حمزة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Suq Hamza",
+            "toponym_arabic_other": "سوق حمزة",
+            "toponym_translit": "Sūq Ḥamzaŧ",
+            "coord_lat": "36.36220",
+            "toponym_search": "Suq Hamza",
+            "region_code": "Maghrib",
+            "coord_lon": "3.91612",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.91612,
+            36.3622
+        ]
+    }
+}

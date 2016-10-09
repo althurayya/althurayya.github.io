@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001614-000.json": {
+                "title": "ودان",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wān",
+            "cornu_URI": "WAN_433E385N_S",
+            "toponym_arabic": "وان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Wan",
+            "toponym_arabic_other": "وان",
+            "toponym_translit": "Wān",
+            "coord_lat": "38.57711",
+            "toponym_search": "Wan",
+            "region_code": "Rihab",
+            "coord_lon": "43.34872",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.34872,
+            38.57711
+        ]
+    }
+}

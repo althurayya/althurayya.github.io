@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biṭān, Qabr al-ʿIdādī",
+            "cornu_URI": "BITAN_432E287N_S",
+            "toponym_arabic": "بطان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bitan, Qabr al-Idadi",
+            "toponym_arabic_other": "بطان، قبر العدادي",
+            "toponym_translit": "Biṭān",
+            "coord_lat": "28.74899",
+            "toponym_search": "Bitan, Qabr al-Idadi",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.27579",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.27579,
+            28.74899
+        ]
+    }
+}

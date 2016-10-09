@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000095-000.json": {
+                "title": "الش",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baš, Albas",
+            "cornu_URI": "BASH_071W388N_S",
+            "toponym_arabic": "البش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Bash, Albas",
+            "toponym_arabic_other": "البش، ألبس",
+            "toponym_translit": "al-Baš",
+            "coord_lat": "38.87561",
+            "toponym_search": "al-Bash, Albas",
+            "region_code": "Andalus",
+            "coord_lon": "-7.17410",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.1741,
+            38.87561
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Damīraŧ, Dumayraŧ",
+            "cornu_URI": "DAMIRA_313E311N_S",
+            "toponym_arabic": "دميرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Damira, Dumayra",
+            "toponym_arabic_other": "دميرة، دميرة",
+            "toponym_translit": "Damīraŧ",
+            "coord_lat": "31.14140",
+            "toponym_search": "Damira, Dumayra",
+            "region_code": "Egypt",
+            "coord_lon": "31.35040",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.3504,
+            31.1414
+        ]
+    }
+}

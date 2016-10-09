@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000801-000.json": {
+                "title": "سروج",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūḫ, Sūǧ",
+            "cornu_URI": "SUKH_712E399N_S",
+            "toponym_arabic": "سوخ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sukh, Suj",
+            "toponym_arabic_other": "سوخ، سوج",
+            "toponym_translit": "Sūḫ",
+            "coord_lat": "39.97506",
+            "toponym_search": "Sukh, Suj",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.21396",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.21396,
+            39.97506
+        ]
+    }
+}

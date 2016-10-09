@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḥallaŧ al-Maḥrūm",
+            "cornu_URI": "MAHALLAMAHRUM_309E307N_S",
+            "toponym_arabic": "محلة المحروم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mahalla al-Mahrum",
+            "toponym_arabic_other": "محلة المحروم",
+            "toponym_translit": "Maḥallaŧ al-Maḥrūm",
+            "coord_lat": "30.79572",
+            "toponym_search": "Mahalla al-Mahrum",
+            "region_code": "Egypt",
+            "coord_lon": "30.92349",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.92349,
+            30.79572
+        ]
+    }
+}

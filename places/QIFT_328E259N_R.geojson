@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001244-000.json": {
+                "title": "قفط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qifṭ, Qufṭ",
+            "cornu_URI": "QIFT_328E259N_R",
+            "toponym_arabic": "قفط",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Qift, Quft",
+            "toponym_arabic_other": "قفط، قفط",
+            "toponym_translit": "Qifṭ",
+            "coord_lat": "25.99671",
+            "toponym_search": "Qift, Quft",
+            "region_code": "Egypt",
+            "coord_lon": "32.80433",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.80433,
+            25.99671
+        ]
+    }
+}

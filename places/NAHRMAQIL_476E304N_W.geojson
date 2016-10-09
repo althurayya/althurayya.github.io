@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001547-000.json": {
+                "title": "نهر معقل",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Maʿqil",
+            "cornu_URI": "NAHRMAQIL_476E304N_W",
+            "toponym_arabic": "نهر المعقل",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr al-Maqil",
+            "toponym_arabic_other": "نهر المعقل",
+            "toponym_translit": "Nahr al-Maʿqil",
+            "coord_lat": "30.49305",
+            "toponym_search": "Nahr al-Maqil",
+            "region_code": "Iraq",
+            "coord_lon": "47.69640",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.6964,
+            30.49305
+        ]
+    }
+}

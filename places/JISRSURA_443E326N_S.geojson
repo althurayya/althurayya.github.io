@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧisr Sūrā, Ǧisr Sūrān",
+            "cornu_URI": "JISRSURA_443E326N_S",
+            "toponym_arabic": "جسر سورا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jisr Sura, Jisr Suran",
+            "toponym_arabic_other": "جسر سورا، جسر سوران",
+            "toponym_translit": "Ǧisr Sūrā",
+            "coord_lat": "32.64626",
+            "toponym_search": "Jisr Sura, Jisr Suran",
+            "region_code": "Iraq",
+            "coord_lon": "44.36585",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.36585,
+            32.64626
+        ]
+    }
+}

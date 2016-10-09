@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000792-000.json": {
+                "title": "سرين",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarmīn",
+            "cornu_URI": "SARMIN_367E358N_S",
+            "toponym_arabic": "سرمين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Sarmin",
+            "toponym_arabic_other": "سرمين",
+            "toponym_translit": "Sarmīn",
+            "coord_lat": "35.89492",
+            "toponym_search": "Sarmin",
+            "region_code": "Sham",
+            "coord_lon": "36.72250",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.7225,
+            35.89492
+        ]
+    }
+}

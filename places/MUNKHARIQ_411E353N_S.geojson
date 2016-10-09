@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Munḫariq",
+            "cornu_URI": "MUNKHARIQ_411E353N_S",
+            "toponym_arabic": "المنخرق",
+            "top_type_orig": "cite?",
+            "toponym_buckwalter": "al-Munkhariq",
+            "toponym_arabic_other": "المنخرق",
+            "toponym_translit": "al-Munḫariq",
+            "coord_lat": "35.33548",
+            "toponym_search": "al-Munkhariq",
+            "region_code": "Aqur",
+            "coord_lon": "41.13557",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.13557,
+            35.33548
+        ]
+    }
+}

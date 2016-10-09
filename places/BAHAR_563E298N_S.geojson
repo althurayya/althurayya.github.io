@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bahār",
+            "cornu_URI": "BAHAR_563E298N_S",
+            "toponym_arabic": "بهار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bahar",
+            "toponym_arabic_other": "بهار",
+            "toponym_translit": "Bahār",
+            "coord_lat": "29.88550",
+            "toponym_search": "Bahar",
+            "region_code": "Kirman",
+            "coord_lon": "56.35225",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.35225,
+            29.8855
+        ]
+    }
+}

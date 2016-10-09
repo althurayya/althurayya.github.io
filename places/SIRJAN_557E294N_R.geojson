@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000683-000.json": {
+                "title": "الرجان",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000904-000.json": {
+                "title": "الشيرجان",
+                "rate": 88,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sīrǧān",
+            "cornu_URI": "SIRJAN_557E294N_R",
+            "toponym_arabic": "السيرجان",
+            "top_type_orig": "circonscription",
+            "toponym_buckwalter": "al-Sirjan",
+            "toponym_arabic_other": "السيرجان",
+            "toponym_translit": "al-Sīrǧān",
+            "coord_lat": "29.46102",
+            "toponym_search": "al-Sirjan",
+            "region_code": "Kirman",
+            "coord_lon": "55.74854",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.74854,
+            29.46102
+        ]
+    }
+}

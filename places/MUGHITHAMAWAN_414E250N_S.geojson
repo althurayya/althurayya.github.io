@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Muġīṯaŧ al-Māwān, al-Muġīṯaŧ",
+            "cornu_URI": "MUGHITHAMAWAN_414E250N_S",
+            "toponym_arabic": "مغيثة الماوان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Mughitha al-Mawan, al-Mughitha",
+            "toponym_arabic_other": "مغيثة الماوان، المغيثة",
+            "toponym_translit": "Muġīṯaŧ al-Māwān",
+            "coord_lat": "25.00091",
+            "toponym_search": "Mughitha al-Mawan, al-Mughitha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.40160",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.4016,
+            25.00091
+        ]
+    }
+}

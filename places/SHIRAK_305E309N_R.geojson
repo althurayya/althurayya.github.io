@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Širāk",
+            "cornu_URI": "SHIRAK_305E309N_R",
+            "toponym_arabic": "الشراك",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Shirak",
+            "toponym_arabic_other": "الشراك",
+            "toponym_translit": "al-Širāk",
+            "coord_lat": "30.99062",
+            "toponym_search": "al-Shirak",
+            "region_code": "Egypt",
+            "coord_lon": "30.57342",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.57342,
+            30.99062
+        ]
+    }
+}

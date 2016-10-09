@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000143-000.json": {
+                "title": "افكان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001146-000.json": {
+                "title": "فكان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fakkān, Afkān",
+            "cornu_URI": "FAKKAN_000E352N_S",
+            "toponym_arabic": "فكان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Fakkan, Afkan",
+            "toponym_arabic_other": "فكان، أفكان",
+            "toponym_translit": "Fakkān",
+            "coord_lat": "35.21592",
+            "toponym_search": "Fakkan, Afkan",
+            "region_code": "Maghrib",
+            "coord_lon": "0.05881",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.05881,
+            35.21592
+        ]
+    }
+}

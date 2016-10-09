@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bih",
+            "cornu_URI": "BIH_613E262N_S",
+            "toponym_arabic": "به",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bih",
+            "toponym_arabic_other": "به",
+            "toponym_translit": "Bih",
+            "coord_lat": "26.22927",
+            "toponym_search": "Bih",
+            "region_code": "Sind",
+            "coord_lon": "61.33378",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.33378,
+            26.22927
+        ]
+    }
+}

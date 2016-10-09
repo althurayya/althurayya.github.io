@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧurzān",
+            "cornu_URI": "JURZAN_432E425N_R",
+            "toponym_arabic": "جرزان",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Jurzan",
+            "toponym_arabic_other": "جرزان",
+            "toponym_translit": "Ǧurzān",
+            "coord_lat": "42.55502",
+            "toponym_search": "Jurzan",
+            "region_code": "Rihab",
+            "coord_lon": "43.20001",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.20001,
+            42.55502
+        ]
+    }
+}

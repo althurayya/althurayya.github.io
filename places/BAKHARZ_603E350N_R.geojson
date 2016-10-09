@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000208-000.json": {
+                "title": "باخرزه",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāḫarz",
+            "cornu_URI": "BAKHARZ_603E350N_R",
+            "toponym_arabic": "باخرز",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bakharz",
+            "toponym_arabic_other": "باخرز",
+            "toponym_translit": "Bāḫarz",
+            "coord_lat": "35.01995",
+            "toponym_search": "Bakharz",
+            "region_code": "Khurasan",
+            "coord_lon": "60.33692",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.33692,
+            35.01995
+        ]
+    }
+}

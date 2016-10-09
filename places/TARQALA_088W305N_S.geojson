@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000362-000.json": {
+                "title": "ترجاله",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tarqālaŧ",
+            "cornu_URI": "TARQALA_088W305N_S",
+            "toponym_arabic": "ترقالة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Tarqala",
+            "toponym_arabic_other": "ترقالة",
+            "toponym_translit": "Tarqālaŧ",
+            "coord_lat": "30.50052",
+            "toponym_search": "Tarqala",
+            "region_code": "Maghrib",
+            "coord_lon": "-8.84130",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.8413,
+            30.50052
+        ]
+    }
+}

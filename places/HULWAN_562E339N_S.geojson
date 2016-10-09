@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000515-000.json": {
+                "title": "حلوان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥulwān",
+            "cornu_URI": "HULWAN_562E339N_S",
+            "toponym_arabic": "حلوان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Hulwan",
+            "toponym_arabic_other": "حلوان",
+            "toponym_translit": "Ḥulwān",
+            "coord_lat": "33.94771",
+            "toponym_search": "Hulwan",
+            "region_code": "Mafaza",
+            "coord_lon": "56.22435",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.22435,
+            33.94771
+        ]
+    }
+}

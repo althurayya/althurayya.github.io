@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000580-000.json": {
+                "title": "خوزستان",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawaristān",
+            "cornu_URI": "KHAWARISTAN_540E299N_S",
+            "toponym_arabic": "خورستان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khawaristan",
+            "toponym_arabic_other": "خورستان",
+            "toponym_translit": "Ḫawaristān",
+            "coord_lat": "29.95166",
+            "toponym_search": "Khawaristan",
+            "region_code": "Faris",
+            "coord_lon": "54.09036",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.09036,
+            29.95166
+        ]
+    }
+}

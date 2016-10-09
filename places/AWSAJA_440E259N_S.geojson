@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿAwsaǧaŧ",
+            "cornu_URI": "AWSAJA_440E259N_S",
+            "toponym_arabic": "العوسجة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Awsaja",
+            "toponym_arabic_other": "العوسجة",
+            "toponym_translit": "al-ʿAwsaǧaŧ",
+            "coord_lat": "25.98495",
+            "toponym_search": "al-Awsaja",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "44.07861",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.07861,
+            25.98495
+        ]
+    }
+}

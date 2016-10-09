@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000500-000.json": {
+                "title": "الحجاز",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥiǧāz",
+            "cornu_URI": "HIJAZ_390E235N_R",
+            "toponym_arabic": "الحجاز",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Hijaz",
+            "toponym_arabic_other": "الحجاز",
+            "toponym_translit": "al-Ḥiǧāz",
+            "coord_lat": "23.51137",
+            "toponym_search": "al-Hijaz",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.02138",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.02138,
+            23.51137
+        ]
+    }
+}

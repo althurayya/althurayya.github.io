@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000509-000.json": {
+                "title": "الحره",
+                "rate": 91,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000540-000.json": {
+                "title": "الحيره",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥirdaŧ",
+            "cornu_URI": "HIRDA_427E152N_R",
+            "toponym_arabic": "الحردة",
+            "top_type_orig": "mikhlaf",
+            "toponym_buckwalter": "al-Hirda",
+            "toponym_arabic_other": "الحردة",
+            "toponym_translit": "al-Ḥirdaŧ",
+            "coord_lat": "15.22479",
+            "toponym_search": "al-Hirda",
+            "region_code": "Yemen",
+            "coord_lon": "42.73173",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.73173,
+            15.22479
+        ]
+    }
+}

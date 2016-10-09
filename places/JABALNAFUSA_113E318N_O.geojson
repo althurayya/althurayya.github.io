@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Nafūsaŧ",
+            "cornu_URI": "JABALNAFUSA_113E318N_O",
+            "toponym_arabic": "جبل نفوسة",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Nafusa",
+            "toponym_arabic_other": "جبل نفوسة",
+            "toponym_translit": "Ǧabal Nafūsaŧ",
+            "coord_lat": "31.81241",
+            "toponym_search": "Jabal Nafusa",
+            "region_code": "Maghrib",
+            "coord_lon": "11.37139",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.37139,
+            31.81241
+        ]
+    }
+}

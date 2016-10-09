@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿUmaq",
+            "cornu_URI": "UMAQ_409E240N_S",
+            "toponym_arabic": "العمق",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Umaq",
+            "toponym_arabic_other": "العمق",
+            "toponym_translit": "al-ʿUmaq",
+            "coord_lat": "24.01161",
+            "toponym_search": "al-Umaq",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.99902",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.99902,
+            24.01161
+        ]
+    }
+}

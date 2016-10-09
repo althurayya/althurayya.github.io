@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣāmġār",
+            "cornu_URI": "SAMGHAR_702E404N_S",
+            "toponym_arabic": "صامغار",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Samghar",
+            "toponym_arabic_other": "صامغار",
+            "toponym_translit": "Ṣāmġār",
+            "coord_lat": "40.46049",
+            "toponym_search": "Samghar",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.22677",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.22677,
+            40.46049
+        ]
+    }
+}

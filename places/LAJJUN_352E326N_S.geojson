@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001344-000.json": {
+                "title": "اللهون",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000501-000.json": {
+                "title": "الحجون",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Laǧǧūn",
+            "cornu_URI": "LAJJUN_352E326N_S",
+            "toponym_arabic": "اللجون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Lajjun",
+            "toponym_arabic_other": "اللجون",
+            "toponym_translit": "al-Laǧǧūn",
+            "coord_lat": "32.60823",
+            "toponym_search": "al-Lajjun",
+            "region_code": "Sham",
+            "coord_lon": "35.27017",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.27017,
+            32.60823
+        ]
+    }
+}

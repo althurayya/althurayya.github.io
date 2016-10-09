@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bannaǧbūr, Fannaǧbūr, Bannazbūr, Qannazbūr",
+            "cornu_URI": "BANNAJBUR_641E269N_S",
+            "toponym_arabic": "بنجبور",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Bannajbur, Fannajbur, Bannazbur, Qannazbur",
+            "toponym_arabic_other": "بنجبور، فنجبور، بنزبور، قنزبور",
+            "toponym_translit": "Bannaǧbūr",
+            "coord_lat": "26.92662",
+            "toponym_search": "Bannajbur, Fannajbur, Bannazbur, Qannazbur",
+            "region_code": "Sind",
+            "coord_lon": "64.11916",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.11916,
+            26.92662
+        ]
+    }
+}

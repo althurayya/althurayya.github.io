@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nūšaǧān al-Suflá",
+            "cornu_URI": "NUSHAJANSUFLA_717E428N_S",
+            "toponym_arabic": "نوشجان السفلى",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Nushajan al-Sufla",
+            "toponym_arabic_other": "نوشجان السفلى",
+            "toponym_translit": "Nūšaǧān al-Suflá",
+            "coord_lat": "42.89978",
+            "toponym_search": "Nushajan al-Sufla",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.70197",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.70197,
+            42.89978
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001271-000.json": {
+                "title": "كابل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kābul",
+            "cornu_URI": "KABUL_691E345N_S",
+            "toponym_arabic": "كابل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kabul",
+            "toponym_arabic_other": "كابل",
+            "toponym_translit": "Kābul",
+            "coord_lat": "34.52442",
+            "toponym_search": "Kabul",
+            "region_code": "Khurasan",
+            "coord_lon": "69.16963",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.16963,
+            34.52442
+        ]
+    }
+}

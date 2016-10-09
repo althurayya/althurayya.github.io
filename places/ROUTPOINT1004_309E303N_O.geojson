@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1004",
+            "cornu_URI": "ROUTPOINT1004_309E303N_O",
+            "toponym_arabic": "RoutPoint1004",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1004",
+            "toponym_arabic_other": "RoutPoint1004",
+            "toponym_translit": "RoutPoint1004",
+            "coord_lat": "30.32150",
+            "toponym_search": "RoutPoint1004",
+            "region_code": "Egypt",
+            "coord_lon": "30.91381",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.91381,
+            30.3215
+        ]
+    }
+}

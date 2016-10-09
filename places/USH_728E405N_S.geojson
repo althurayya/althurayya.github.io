@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000185-000.json": {
+                "title": "اوش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ūš",
+            "cornu_URI": "USH_728E405N_S",
+            "toponym_arabic": "أوش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ush",
+            "toponym_arabic_other": "أوش",
+            "toponym_translit": "Ūš",
+            "coord_lat": "40.53599",
+            "toponym_search": "Ush",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.85752",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.85752,
+            40.53599
+        ]
+    }
+}

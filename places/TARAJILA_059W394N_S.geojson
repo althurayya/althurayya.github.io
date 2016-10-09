@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000362-000.json": {
+                "title": "ترجاله",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Taraǧīlaŧ",
+            "cornu_URI": "TARAJILA_059W394N_S",
+            "toponym_arabic": "ترجيلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tarajila",
+            "toponym_arabic_other": "ترجيلة",
+            "toponym_translit": "Taraǧīlaŧ",
+            "coord_lat": "39.48654",
+            "toponym_search": "Tarajila",
+            "region_code": "Andalus",
+            "coord_lon": "-5.93861",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.93861,
+            39.48654
+        ]
+    }
+}

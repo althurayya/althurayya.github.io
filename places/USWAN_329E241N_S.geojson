@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000159-000.json": {
+                "title": "اسوان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Uswān",
+            "cornu_URI": "USWAN_329E241N_S",
+            "toponym_arabic": "أسوان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Uswan",
+            "toponym_arabic_other": "أسوان",
+            "toponym_translit": "Uswān",
+            "coord_lat": "24.10701",
+            "toponym_search": "Uswan",
+            "region_code": "Egypt",
+            "coord_lon": "32.98286",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.98286,
+            24.10701
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Naṭwayaŧ, Naṭw al-Rummān",
+            "cornu_URI": "NATWAYA_313E306N_R",
+            "toponym_arabic": "نطوية",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Natwaya, Natw al-Rumman",
+            "toponym_arabic_other": "نطوية، نطو الرمان",
+            "toponym_translit": "Naṭwayaŧ",
+            "coord_lat": "30.69837",
+            "toponym_search": "Natwaya, Natw al-Rumman",
+            "region_code": "Egypt",
+            "coord_lon": "31.37316",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.37316,
+            30.69837
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣīmakān",
+            "cornu_URI": "SIMAKAN_531E286N_S",
+            "toponym_arabic": "الصيمكان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Simakan",
+            "toponym_arabic_other": "الصيمكان",
+            "toponym_translit": "al-Ṣīmakān",
+            "coord_lat": "28.69941",
+            "toponym_search": "al-Simakan",
+            "region_code": "Faris",
+            "coord_lon": "53.13182",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.13182,
+            28.69941
+        ]
+    }
+}

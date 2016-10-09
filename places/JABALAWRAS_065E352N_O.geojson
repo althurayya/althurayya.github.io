@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Awrās",
+            "cornu_URI": "JABALAWRAS_065E352N_O",
+            "toponym_arabic": "جبل أوراس",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Awras",
+            "toponym_arabic_other": "جبل أوراس",
+            "toponym_translit": "Ǧabal Awrās",
+            "coord_lat": "35.22457",
+            "toponym_search": "Jabal Awras",
+            "region_code": "Maghrib",
+            "coord_lon": "6.58045",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.58045,
+            35.22457
+        ]
+    }
+}

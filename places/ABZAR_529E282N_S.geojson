@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abzar",
+            "cornu_URI": "ABZAR_529E282N_S",
+            "toponym_arabic": "أبزر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Abzar",
+            "toponym_arabic_other": "أبزر",
+            "toponym_translit": "Abzar",
+            "coord_lat": "28.28084",
+            "toponym_search": "Abzar",
+            "region_code": "Faris",
+            "coord_lon": "52.94703",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.94703,
+            28.28084
+        ]
+    }
+}

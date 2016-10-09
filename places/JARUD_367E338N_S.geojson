@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarūd",
+            "cornu_URI": "JARUD_367E338N_S",
+            "toponym_arabic": "جرود",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jarud",
+            "toponym_arabic_other": "جرود",
+            "toponym_translit": "Ǧarūd",
+            "coord_lat": "33.81588",
+            "toponym_search": "Jarud",
+            "region_code": "Sham",
+            "coord_lon": "36.74014",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.74014,
+            33.81588
+        ]
+    }
+}

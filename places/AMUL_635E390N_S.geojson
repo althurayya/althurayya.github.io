@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000020-000.json": {
+                "title": "امل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āmul",
+            "cornu_URI": "AMUL_635E390N_S",
+            "toponym_arabic": "آمل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Amul",
+            "toponym_arabic_other": "آمل",
+            "toponym_translit": "Āmul",
+            "coord_lat": "39.06795",
+            "toponym_search": "Amul",
+            "region_code": "Khurasan",
+            "coord_lon": "63.51255",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.51255,
+            39.06795
+        ]
+    }
+}

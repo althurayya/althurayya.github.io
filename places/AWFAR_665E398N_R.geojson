@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Awfar",
+            "cornu_URI": "AWFAR_665E398N_R",
+            "toponym_arabic": "أوفر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Awfar",
+            "toponym_arabic_other": "أوفر",
+            "toponym_translit": "Awfar",
+            "coord_lat": "39.82347",
+            "toponym_search": "Awfar",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.52550",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.5255,
+            39.82347
+        ]
+    }
+}

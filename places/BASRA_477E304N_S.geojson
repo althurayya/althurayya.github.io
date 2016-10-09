@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000280-000.json": {
+                "title": "البصره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baṣraŧ",
+            "cornu_URI": "BASRA_477E304N_S",
+            "toponym_arabic": "البصرة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Basra",
+            "toponym_arabic_other": "البصرة",
+            "toponym_translit": "al-Baṣraŧ",
+            "coord_lat": "30.40147",
+            "toponym_search": "al-Basra",
+            "region_code": "Iraq",
+            "coord_lon": "47.71735",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.71735,
+            30.40147
+        ]
+    }
+}

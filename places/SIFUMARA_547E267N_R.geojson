@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sīf ʿUmāraŧ",
+            "cornu_URI": "SIFUMARA_547E267N_R",
+            "toponym_arabic": "سيف عمارة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Sif Umara",
+            "toponym_arabic_other": "سيف عمارة",
+            "toponym_translit": "Sīf ʿUmāraŧ",
+            "coord_lat": "26.77937",
+            "toponym_search": "Sif Umara",
+            "region_code": "Faris",
+            "coord_lon": "54.75943",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.75943,
+            26.77937
+        ]
+    }
+}

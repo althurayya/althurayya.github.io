@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001310-000.json": {
+                "title": "كوم شريك",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūm Šarīk",
+            "cornu_URI": "KUMSHARIK_307E306N_S",
+            "toponym_arabic": "كوم شريك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kum Sharik",
+            "toponym_arabic_other": "كوم شريك",
+            "toponym_translit": "Kūm Šarīk",
+            "coord_lat": "30.63742",
+            "toponym_search": "Kum Sharik",
+            "region_code": "Egypt",
+            "coord_lon": "30.75642",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.75642,
+            30.63742
+        ]
+    }
+}

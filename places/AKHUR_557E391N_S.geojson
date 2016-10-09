@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āḫur",
+            "cornu_URI": "AKHUR_557E391N_S",
+            "toponym_arabic": "آخر",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Akhur",
+            "toponym_arabic_other": "آخر",
+            "toponym_translit": "Āḫur",
+            "coord_lat": "39.19825",
+            "toponym_search": "Akhur",
+            "region_code": "Daylam",
+            "coord_lon": "55.71277",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.71277,
+            39.19825
+        ]
+    }
+}

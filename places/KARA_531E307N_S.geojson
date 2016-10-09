@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karaŧ",
+            "cornu_URI": "KARA_531E307N_S",
+            "toponym_arabic": "كرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kara",
+            "toponym_arabic_other": "كرة",
+            "toponym_translit": "Karaŧ",
+            "coord_lat": "30.73791",
+            "toponym_search": "Kara",
+            "region_code": "Faris",
+            "coord_lon": "53.12982",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.12982,
+            30.73791
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ǧandarūr",
+            "cornu_URI": "NAHRJANDARUR_731E318N_W",
+            "toponym_arabic": "نهر جندرور",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Jandarur",
+            "toponym_arabic_other": "نهر جندرور",
+            "toponym_translit": "Nahr Ǧandarūr",
+            "coord_lat": "31.80740",
+            "toponym_search": "Nahr Jandarur",
+            "region_code": "Sind",
+            "coord_lon": "73.13025",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.13025,
+            31.8074
+        ]
+    }
+}

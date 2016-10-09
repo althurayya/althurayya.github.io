@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001045-000.json": {
+                "title": "العروض",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿIrḍ",
+            "cornu_URI": "IRD_467E248N_R",
+            "toponym_arabic": "العرض",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Ird",
+            "toponym_arabic_other": "العرض",
+            "toponym_translit": "al-ʿIrḍ",
+            "coord_lat": "24.88100",
+            "toponym_search": "al-Ird",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "46.72918",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.72918,
+            24.881
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kārbank",
+            "cornu_URI": "KARBANK_689E373N_S",
+            "toponym_arabic": "كاربنك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Karbank",
+            "toponym_arabic_other": "كاربنك",
+            "toponym_translit": "Kārbank",
+            "coord_lat": "37.32188",
+            "toponym_search": "Karbank",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.92955",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.92955,
+            37.32188
+        ]
+    }
+}

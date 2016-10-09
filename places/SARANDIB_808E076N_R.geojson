@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000793-000.json": {
+                "title": "سرنديب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarandīb",
+            "cornu_URI": "SARANDIB_808E076N_R",
+            "toponym_arabic": "سرنديب",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Sarandib",
+            "toponym_arabic_other": "سرنديب",
+            "toponym_translit": "Sarandīb",
+            "coord_lat": "7.60759",
+            "toponym_search": "Sarandib",
+            "region_code": "Sind",
+            "coord_lon": "80.81976",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            80.81976,
+            7.60759
+        ]
+    }
+}

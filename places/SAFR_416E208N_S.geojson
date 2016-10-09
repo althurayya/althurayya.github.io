@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣafr",
+            "cornu_URI": "SAFR_416E208N_S",
+            "toponym_arabic": "صفر",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "Safr",
+            "toponym_arabic_other": "صفر",
+            "toponym_translit": "Ṣafr",
+            "coord_lat": "20.85351",
+            "toponym_search": "Safr",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.68929",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.68929,
+            20.85351
+        ]
+    }
+}

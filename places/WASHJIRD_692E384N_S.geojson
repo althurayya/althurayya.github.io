@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wašǧird, Dastǧird, Dastkird",
+            "cornu_URI": "WASHJIRD_692E384N_S",
+            "toponym_arabic": "وشجرد",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Washjird, Dastjird, Dastkird",
+            "toponym_arabic_other": "وشجرد، دستجرد، دستكرد",
+            "toponym_translit": "Wašǧird",
+            "coord_lat": "38.46704",
+            "toponym_search": "Washjird, Dastjird, Dastkird",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.21115",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.21115,
+            38.46704
+        ]
+    }
+}

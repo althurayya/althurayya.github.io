@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banhasá",
+            "cornu_URI": "BANHASA_288E282N_S",
+            "toponym_arabic": "بنهسى",
+            "top_type_orig": "oasis",
+            "toponym_buckwalter": "Banhasa",
+            "toponym_arabic_other": "بنهسى",
+            "toponym_translit": "Banhasá",
+            "coord_lat": "28.28725",
+            "toponym_search": "Banhasa",
+            "region_code": "Egypt",
+            "coord_lon": "28.83711",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.83711,
+            28.28725
+        ]
+    }
+}

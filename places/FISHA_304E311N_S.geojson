@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fīšaŧ",
+            "cornu_URI": "FISHA_304E311N_S",
+            "toponym_arabic": "فيشة",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Fisha",
+            "toponym_arabic_other": "فيشة",
+            "toponym_translit": "Fīšaŧ",
+            "coord_lat": "31.13129",
+            "toponym_search": "Fisha",
+            "region_code": "Egypt",
+            "coord_lon": "30.49999",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.49999,
+            31.13129
+        ]
+    }
+}

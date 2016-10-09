@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001133-000.json": {
+                "title": "فدك",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fadak",
+            "cornu_URI": "FADAK_393E252N_S",
+            "toponym_arabic": "فدك",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Fadak",
+            "toponym_arabic_other": "فدك",
+            "toponym_translit": "Fadak",
+            "coord_lat": "25.24834",
+            "toponym_search": "Fadak",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.37400",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.374,
+            25.24834
+        ]
+    }
+}

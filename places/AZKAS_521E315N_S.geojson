@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Azkās",
+            "cornu_URI": "AZKAS_521E315N_S",
+            "toponym_arabic": "أزكاس",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Azkas",
+            "toponym_arabic_other": "أزكاس",
+            "toponym_translit": "Azkās",
+            "coord_lat": "31.51558",
+            "toponym_search": "Azkas",
+            "region_code": "Faris",
+            "coord_lon": "52.17709",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.17709,
+            31.51558
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001259-000.json": {
+                "title": "قوهستان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qūhistān",
+            "cornu_URI": "QUHISTAN_594E337N_R",
+            "toponym_arabic": "قوهستان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Quhistan",
+            "toponym_arabic_other": "قوهستان",
+            "toponym_translit": "Qūhistān",
+            "coord_lat": "33.77051",
+            "toponym_search": "Quhistan",
+            "region_code": "Khurasan",
+            "coord_lon": "59.44592",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.44592,
+            33.77051
+        ]
+    }
+}

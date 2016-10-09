@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biʾr al-Ḥusayn",
+            "cornu_URI": "BIRHUSAYN_679E402N_S",
+            "toponym_arabic": "بئر الحسين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bir al-Husayn",
+            "toponym_arabic_other": "بئر الحسين",
+            "toponym_translit": "Biʾr al-Ḥusayn",
+            "coord_lat": "40.23516",
+            "toponym_search": "Bir al-Husayn",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.99605",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.99605,
+            40.23516
+        ]
+    }
+}

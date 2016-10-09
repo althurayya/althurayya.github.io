@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Unbuwā, Unbuw",
+            "cornu_URI": "UNBUWA_329E244N_S",
+            "toponym_arabic": "أنبوا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Unbuwa, Unbuw",
+            "toponym_arabic_other": "أنبوا، أنبو",
+            "toponym_translit": "Unbuwā",
+            "coord_lat": "24.46534",
+            "toponym_search": "Unbuwa, Unbuw",
+            "region_code": "Egypt",
+            "coord_lon": "32.98745",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.98745,
+            24.46534
+        ]
+    }
+}

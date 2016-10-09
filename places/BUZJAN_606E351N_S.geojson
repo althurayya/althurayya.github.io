@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000484-000.json": {
+                "title": "الجوزجان",
+                "rate": 88,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Būzǧān, Būzkān",
+            "cornu_URI": "BUZJAN_606E351N_S",
+            "toponym_arabic": "البوزجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Buzjan, Buzkan",
+            "toponym_arabic_other": "البوزجان، بوزكان",
+            "toponym_translit": "al-Būzǧān",
+            "coord_lat": "35.17917",
+            "toponym_search": "al-Buzjan, Buzkan",
+            "region_code": "Khurasan",
+            "coord_lon": "60.61524",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.61524,
+            35.17917
+        ]
+    }
+}

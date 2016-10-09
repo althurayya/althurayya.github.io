@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qarʿaŧ",
+            "cornu_URI": "QARA_468E274N_S",
+            "toponym_arabic": "القرعة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qara",
+            "toponym_arabic_other": "القرعة",
+            "toponym_translit": "al-Qarʿaŧ",
+            "coord_lat": "27.45084",
+            "toponym_search": "al-Qara",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "46.88787",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.88787,
+            27.45084
+        ]
+    }
+}

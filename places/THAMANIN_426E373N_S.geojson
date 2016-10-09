@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000406-000.json": {
+                "title": "ثمانين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṯamānīn",
+            "cornu_URI": "THAMANIN_426E373N_S",
+            "toponym_arabic": "ثمانين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Thamanin",
+            "toponym_arabic_other": "ثمانين",
+            "toponym_translit": "Ṯamānīn",
+            "coord_lat": "37.31295",
+            "toponym_search": "Thamanin",
+            "region_code": "Aqur",
+            "coord_lon": "42.64158",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.64158,
+            37.31295
+        ]
+    }
+}

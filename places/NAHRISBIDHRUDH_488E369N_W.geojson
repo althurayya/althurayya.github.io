@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Isbīḏrūḏ, Nahr Sabīḏrūḏ",
+            "cornu_URI": "NAHRISBIDHRUDH_488E369N_W",
+            "toponym_arabic": "نهر إسبيذروذ",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Isbidhrudh, Nahr Sabidhrudh",
+            "toponym_arabic_other": "نهر إسبيذروذ، نهر سبيذروذ",
+            "toponym_translit": "Nahr Isbīḏrūḏ",
+            "coord_lat": "36.97532",
+            "toponym_search": "Nahr Isbidhrudh, Nahr Sabidhrudh",
+            "region_code": "Daylam",
+            "coord_lon": "48.83940",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.8394,
+            36.97532
+        ]
+    }
+}

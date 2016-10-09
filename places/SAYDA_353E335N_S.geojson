@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000949-000.json": {
+                "title": "صيدا",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000915-000.json": {
+                "title": "صداء",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣaydāʾ",
+            "cornu_URI": "SAYDA_353E335N_S",
+            "toponym_arabic": "صيداء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sayda",
+            "toponym_arabic_other": "صيداء",
+            "toponym_translit": "Ṣaydāʾ",
+            "coord_lat": "33.56642",
+            "toponym_search": "Sayda",
+            "region_code": "Sham",
+            "coord_lon": "35.37475",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.37475,
+            33.56642
+        ]
+    }
+}

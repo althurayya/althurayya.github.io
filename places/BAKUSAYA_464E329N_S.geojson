@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bākusāyā",
+            "cornu_URI": "BAKUSAYA_464E329N_S",
+            "toponym_arabic": "باكسايا",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Bakusaya",
+            "toponym_arabic_other": "باكسايا",
+            "toponym_translit": "Bākusāyā",
+            "coord_lat": "32.94441",
+            "toponym_search": "Bakusaya",
+            "region_code": "Iraq",
+            "coord_lon": "46.46935",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.46935,
+            32.94441
+        ]
+    }
+}

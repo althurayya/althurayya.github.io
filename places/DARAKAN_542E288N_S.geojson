@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001325-000.json": {
+                "title": "لاركان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dārakān",
+            "cornu_URI": "DARAKAN_542E288N_S",
+            "toponym_arabic": "داركان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Darakan",
+            "toponym_arabic_other": "داركان",
+            "toponym_translit": "Dārakān",
+            "coord_lat": "28.83127",
+            "toponym_search": "Darakan",
+            "region_code": "Faris",
+            "coord_lon": "54.27779",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.27779,
+            28.83127
+        ]
+    }
+}

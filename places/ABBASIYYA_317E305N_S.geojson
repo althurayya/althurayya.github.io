@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿAbbāsiyyaŧ",
+            "cornu_URI": "ABBASIYYA_317E305N_S",
+            "toponym_arabic": "العباسية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Abbasiyya",
+            "toponym_arabic_other": "العباسية",
+            "toponym_translit": "al-ʿAbbāsiyyaŧ",
+            "coord_lat": "30.53647",
+            "toponym_search": "al-Abbasiyya",
+            "region_code": "Egypt",
+            "coord_lon": "31.70644",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.70644,
+            30.53647
+        ]
+    }
+}

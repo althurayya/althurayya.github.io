@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Muḏayḫiraŧ",
+            "cornu_URI": "MUDHAYKHIRA_439E137N_S",
+            "toponym_arabic": "المذيخرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Mudhaykhira",
+            "toponym_arabic_other": "المذيخرة",
+            "toponym_translit": "al-Muḏayḫiraŧ",
+            "coord_lat": "13.78649",
+            "toponym_search": "al-Mudhaykhira",
+            "region_code": "Yemen",
+            "coord_lon": "43.97403",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.97403,
+            13.78649
+        ]
+    }
+}

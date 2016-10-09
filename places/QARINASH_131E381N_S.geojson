@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarīnaš",
+            "cornu_URI": "QARINASH_131E381N_S",
+            "toponym_arabic": "قرينش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarinash",
+            "toponym_arabic_other": "قرينش",
+            "toponym_translit": "Qarīnaš",
+            "coord_lat": "38.15105",
+            "toponym_search": "Qarinash",
+            "region_code": "Sicile",
+            "coord_lon": "13.18997",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18997,
+            38.15105
+        ]
+    }
+}

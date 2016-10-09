@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001061-000.json": {
+                "title": "عمواس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAmawās",
+            "cornu_URI": "AMAWAS_349E318N_S",
+            "toponym_arabic": "عمواس",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Amawas",
+            "toponym_arabic_other": "عمواس",
+            "toponym_translit": "ʿAmawās",
+            "coord_lat": "31.84394",
+            "toponym_search": "Amawas",
+            "region_code": "Sham",
+            "coord_lon": "34.97656",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.97656,
+            31.84394
+        ]
+    }
+}

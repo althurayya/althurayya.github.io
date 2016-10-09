@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001225-000.json": {
+                "title": "قبا",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kubān, Qubbān",
+            "cornu_URI": "KUBAN_328E231N_S",
+            "toponym_arabic": "كبان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kuban, Qubban",
+            "toponym_arabic_other": "كبان، قبان",
+            "toponym_translit": "Kubān",
+            "coord_lat": "23.12192",
+            "toponym_search": "Kuban, Qubban",
+            "region_code": "Egypt",
+            "coord_lon": "32.88630",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.8863,
+            23.12192
+        ]
+    }
+}

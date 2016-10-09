@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḥr al-Qulzum",
+            "cornu_URI": "BAHRQULZUM_394E190N_W",
+            "toponym_arabic": "بحر القلزم",
+            "top_type_orig": "mer",
+            "toponym_buckwalter": "Bahr al-Qulzum",
+            "toponym_arabic_other": "بحر القلزم",
+            "toponym_translit": "Baḥr al-Qulzum",
+            "coord_lat": "19.02737",
+            "toponym_search": "Bahr al-Qulzum",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.48379",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.48379,
+            19.02737
+        ]
+    }
+}

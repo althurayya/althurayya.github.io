@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Samad",
+            "cornu_URI": "SAMAD_579E227N_S",
+            "toponym_arabic": "سمد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Samad",
+            "toponym_arabic_other": "سمد",
+            "toponym_translit": "Samad",
+            "coord_lat": "22.71138",
+            "toponym_search": "Samad",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "57.96619",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.96619,
+            22.71138
+        ]
+    }
+}

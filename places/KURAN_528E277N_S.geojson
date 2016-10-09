@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001281-000.json": {
+                "title": "كرمان",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001433-000.json": {
+                "title": "مكران",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kurān",
+            "cornu_URI": "KURAN_528E277N_S",
+            "toponym_arabic": "كران",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kuran",
+            "toponym_arabic_other": "كران",
+            "toponym_translit": "Kurān",
+            "coord_lat": "27.76342",
+            "toponym_search": "Kuran",
+            "region_code": "Faris",
+            "coord_lon": "52.86193",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.86193,
+            27.76342
+        ]
+    }
+}

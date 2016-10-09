@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balad Dāwar, Balā Dāwar, Zamīn Dāwar",
+            "cornu_URI": "BALADDAWAR_651E322N_R",
+            "toponym_arabic": "بلد داور",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Balad Dawar, Bala Dawar, Zamin Dawar",
+            "toponym_arabic_other": "بلد داور، بلا داور، زمين داور",
+            "toponym_translit": "Balad Dāwar",
+            "coord_lat": "32.23313",
+            "toponym_search": "Balad Dawar, Bala Dawar, Zamin Dawar",
+            "region_code": "Sijistan",
+            "coord_lon": "65.17678",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.17678,
+            32.23313
+        ]
+    }
+}

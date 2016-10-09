@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000622-000.json": {
+                "title": "دهستان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dihistān",
+            "cornu_URI": "DIHISTAN_629E346N_S",
+            "toponym_arabic": "دهستان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Dihistan",
+            "toponym_arabic_other": "دهستان",
+            "toponym_translit": "Dihistān",
+            "coord_lat": "34.69680",
+            "toponym_search": "Dihistan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.95057",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.95057,
+            34.6968
+        ]
+    }
+}

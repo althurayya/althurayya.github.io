@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣahraǧāt",
+            "cornu_URI": "SAHRAJAT_312E306N_S",
+            "toponym_arabic": "صهرجات",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Sahrajat",
+            "toponym_arabic_other": "صهرجات",
+            "toponym_translit": "Ṣahraǧāt",
+            "coord_lat": "30.65235",
+            "toponym_search": "Sahrajat",
+            "region_code": "Egypt",
+            "coord_lon": "31.26672",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.26672,
+            30.65235
+        ]
+    }
+}

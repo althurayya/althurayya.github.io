@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mīmand",
+            "cornu_URI": "MIMAND_528E288N_S",
+            "toponym_arabic": "ميمند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mimand",
+            "toponym_arabic_other": "ميمند",
+            "toponym_translit": "Mīmand",
+            "coord_lat": "28.88488",
+            "toponym_search": "Mimand",
+            "region_code": "Faris",
+            "coord_lon": "52.85141",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.85141,
+            28.88488
+        ]
+    }
+}

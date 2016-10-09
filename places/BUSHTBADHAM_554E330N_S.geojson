@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bušt Bāḏām",
+            "cornu_URI": "BUSHTBADHAM_554E330N_S",
+            "toponym_arabic": "بشت باذام",
+            "top_type_orig": "relais",
+            "toponym_buckwalter": "Busht Badham",
+            "toponym_arabic_other": "بشت باذام",
+            "toponym_translit": "Bušt Bāḏām",
+            "coord_lat": "33.02224",
+            "toponym_search": "Busht Badham",
+            "region_code": "Mafaza",
+            "coord_lon": "55.41827",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.41827,
+            33.02224
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darābaǧird",
+            "cornu_URI": "DARABAJIRD_545E287N_S",
+            "toponym_arabic": "درابجرد",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Darabajird",
+            "toponym_arabic_other": "درابجرد",
+            "toponym_translit": "Darābaǧird",
+            "coord_lat": "28.75143",
+            "toponym_search": "Darabajird",
+            "region_code": "Faris",
+            "coord_lon": "54.54591",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.54591,
+            28.75143
+        ]
+    }
+}

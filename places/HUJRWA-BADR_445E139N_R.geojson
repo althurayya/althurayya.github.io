@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Huǧr wa-Badr",
+            "cornu_URI": "HUJRWA-BADR_445E139N_R",
+            "toponym_arabic": "هجر وبدر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Hujr wa-Badr",
+            "toponym_arabic_other": "هجر وبدر",
+            "toponym_translit": "Huǧr wa-Badr",
+            "coord_lat": "13.90626",
+            "toponym_search": "Hujr wa-Badr",
+            "region_code": "Yemen",
+            "coord_lon": "44.56313",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.56313,
+            13.90626
+        ]
+    }
+}

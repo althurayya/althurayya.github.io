@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Astarabyān",
+            "cornu_URI": "ASTARABYAN_628E342N_S",
+            "toponym_arabic": "أستربيان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Astarabyan",
+            "toponym_arabic_other": "أستربيان",
+            "toponym_translit": "Astarabyān",
+            "coord_lat": "34.24840",
+            "toponym_search": "Astarabyan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.80223",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.80223,
+            34.2484
+        ]
+    }
+}

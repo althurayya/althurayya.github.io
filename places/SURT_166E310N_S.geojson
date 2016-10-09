@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000790-000.json": {
+                "title": "سرت",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000791-000.json": {
+                "title": "سرته",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Surt",
+            "cornu_URI": "SURT_166E310N_S",
+            "toponym_arabic": "سرت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Surt",
+            "toponym_arabic_other": "سرت",
+            "toponym_translit": "Surt",
+            "coord_lat": "31.09917",
+            "toponym_search": "Surt",
+            "region_code": "Barqa",
+            "coord_lon": "16.60839",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.60839,
+            31.09917
+        ]
+    }
+}

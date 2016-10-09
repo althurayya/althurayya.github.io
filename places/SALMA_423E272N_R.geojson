@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000812-000.json": {
+                "title": "سلمان",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000821-000.json": {
+                "title": "سلماس",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Salmā",
+            "cornu_URI": "SALMA_423E272N_R",
+            "toponym_arabic": "سلما",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Salma",
+            "toponym_arabic_other": "سلما",
+            "toponym_translit": "Salmā",
+            "coord_lat": "27.24360",
+            "toponym_search": "Salma",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.35028",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.35028,
+            27.2436
+        ]
+    }
+}

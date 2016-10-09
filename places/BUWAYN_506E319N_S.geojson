@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buwayn",
+            "cornu_URI": "BUWAYN_506E319N_S",
+            "toponym_arabic": "بوين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Buwayn",
+            "toponym_arabic_other": "بوين",
+            "toponym_translit": "Buwayn",
+            "coord_lat": "31.93047",
+            "toponym_search": "Buwayn",
+            "region_code": "Khuzistan",
+            "coord_lon": "50.60379",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.60379,
+            31.93047
+        ]
+    }
+}

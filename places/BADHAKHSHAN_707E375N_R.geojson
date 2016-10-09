@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000266-000.json": {
+                "title": "بلخشان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḏaḫšān",
+            "cornu_URI": "BADHAKHSHAN_707E375N_R",
+            "toponym_arabic": "بذخشان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Badhakhshan",
+            "toponym_arabic_other": "بذخشان",
+            "toponym_translit": "Baḏaḫšān",
+            "coord_lat": "37.59609",
+            "toponym_search": "Badhakhshan",
+            "region_code": "Khurasan",
+            "coord_lon": "70.79525",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.79525,
+            37.59609
+        ]
+    }
+}

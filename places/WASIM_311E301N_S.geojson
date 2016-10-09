@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wasīm",
+            "cornu_URI": "WASIM_311E301N_S",
+            "toponym_arabic": "وسيم",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "Wasim",
+            "toponym_arabic_other": "وسيم",
+            "toponym_translit": "Wasīm",
+            "coord_lat": "30.12144",
+            "toponym_search": "Wasim",
+            "region_code": "Egypt",
+            "coord_lon": "31.10905",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.10905,
+            30.12144
+        ]
+    }
+}

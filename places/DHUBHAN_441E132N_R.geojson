@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏubḥān",
+            "cornu_URI": "DHUBHAN_441E132N_R",
+            "toponym_arabic": "ذبحان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Dhubhan",
+            "toponym_arabic_other": "ذبحان",
+            "toponym_translit": "Ḏubḥān",
+            "coord_lat": "13.23247",
+            "toponym_search": "Dhubhan",
+            "region_code": "Yemen",
+            "coord_lon": "44.10309",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.10309,
+            13.23247
+        ]
+    }
+}

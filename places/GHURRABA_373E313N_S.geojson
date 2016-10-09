@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġurrabaŧ",
+            "cornu_URI": "GHURRABA_373E313N_S",
+            "toponym_arabic": "الغربة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Ghurraba",
+            "toponym_arabic_other": "الغربة",
+            "toponym_translit": "al-Ġurrabaŧ",
+            "coord_lat": "31.36925",
+            "toponym_search": "al-Ghurraba",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.34142",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.34142,
+            31.36925
+        ]
+    }
+}

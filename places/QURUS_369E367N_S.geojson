@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qūrus",
+            "cornu_URI": "QURUS_369E367N_S",
+            "toponym_arabic": "قورس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qurus",
+            "toponym_arabic_other": "قورس",
+            "toponym_translit": "Qūrus",
+            "coord_lat": "36.72960",
+            "toponym_search": "Qurus",
+            "region_code": "Sham",
+            "coord_lon": "36.94952",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.94952,
+            36.7296
+        ]
+    }
+}

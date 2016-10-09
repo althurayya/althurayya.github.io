@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000515-000.json": {
+                "title": "حلوان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥulwān",
+            "cornu_URI": "HULWAN_312E298N_S",
+            "toponym_arabic": "حلوان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hulwan",
+            "toponym_arabic_other": "حلوان",
+            "toponym_translit": "Ḥulwān",
+            "coord_lat": "29.86015",
+            "toponym_search": "Hulwan",
+            "region_code": "Egypt",
+            "coord_lon": "31.29831",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.29831,
+            29.86015
+        ]
+    }
+}

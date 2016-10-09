@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧāh Zandāyaŧ",
+            "cornu_URI": "JAHZANDAYA_541E288N_S",
+            "toponym_arabic": "جاه زنداية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jah Zandaya",
+            "toponym_arabic_other": "جاه زنداية",
+            "toponym_translit": "Ǧāh Zandāyaŧ",
+            "coord_lat": "28.85635",
+            "toponym_search": "Jah Zandaya",
+            "region_code": "Faris",
+            "coord_lon": "54.18928",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.18928,
+            28.85635
+        ]
+    }
+}

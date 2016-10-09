@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Ḥimyar",
+            "cornu_URI": "JABALHIMYAR_439E138N_O",
+            "toponym_arabic": "جبل حمير",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Himyar",
+            "toponym_arabic_other": "جبل حمير",
+            "toponym_translit": "Ǧabal Ḥimyar",
+            "coord_lat": "13.88026",
+            "toponym_search": "Jabal Himyar",
+            "region_code": "Yemen",
+            "coord_lon": "43.94813",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.94813,
+            13.88026
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buṯīraŧ",
+            "cornu_URI": "BUTHIRA_142E371N_S",
+            "toponym_arabic": "بثيرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Buthira",
+            "toponym_arabic_other": "بثيرة",
+            "toponym_translit": "Buṯīraŧ",
+            "coord_lat": "37.18500",
+            "toponym_search": "Buthira",
+            "region_code": "Sicile",
+            "coord_lon": "14.21096",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.21096,
+            37.185
+        ]
+    }
+}

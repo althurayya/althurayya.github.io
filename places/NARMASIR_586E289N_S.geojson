@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Narmāsīr",
+            "cornu_URI": "NARMASIR_586E289N_S",
+            "toponym_arabic": "نرماسير",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Narmasir",
+            "toponym_arabic_other": "نرماسير",
+            "toponym_translit": "Narmāsīr",
+            "coord_lat": "28.98436",
+            "toponym_search": "Narmasir",
+            "region_code": "Kirman",
+            "coord_lon": "58.64795",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.64795,
+            28.98436
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1801",
+            "cornu_URI": "ROUTPOINT1801_471E433N_O",
+            "toponym_arabic": "RoutPoint1801",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1801",
+            "toponym_arabic_other": "RoutPoint1801",
+            "toponym_translit": "RoutPoint1801",
+            "coord_lat": "43.32408",
+            "toponym_search": "RoutPoint1801",
+            "region_code": "Khazar",
+            "coord_lon": "47.11116",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.11116,
+            43.32408
+        ]
+    }
+}

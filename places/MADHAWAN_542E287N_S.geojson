@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Māḏawan",
+            "cornu_URI": "MADHAWAN_542E287N_S",
+            "toponym_arabic": "الماذون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Madhawan",
+            "toponym_arabic_other": "الماذون",
+            "toponym_translit": "al-Māḏawan",
+            "coord_lat": "28.72175",
+            "toponym_search": "al-Madhawan",
+            "region_code": "Faris",
+            "coord_lon": "54.29861",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.29861,
+            28.72175
+        ]
+    }
+}

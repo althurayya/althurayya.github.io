@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šarʿab",
+            "cornu_URI": "SHARAB_439E136N_R",
+            "toponym_arabic": "شرعب",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Sharab",
+            "toponym_arabic_other": "شرعب",
+            "toponym_translit": "Šarʿab",
+            "coord_lat": "13.61931",
+            "toponym_search": "Sharab",
+            "region_code": "Yemen",
+            "coord_lon": "43.95691",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.95691,
+            13.61931
+        ]
+    }
+}

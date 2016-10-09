@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000741-000.json": {
+                "title": "زبطره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zibaṭraŧ",
+            "cornu_URI": "ZIBATRA_379E380N_S",
+            "toponym_arabic": "زبطرة",
+            "top_type_orig": "placefrontiere",
+            "toponym_buckwalter": "Zibatra",
+            "toponym_arabic_other": "زبطرة",
+            "toponym_translit": "Zibaṭraŧ",
+            "coord_lat": "38.09311",
+            "toponym_search": "Zibatra",
+            "region_code": "Aqur",
+            "coord_lon": "37.90461",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.90461,
+            38.09311
+        ]
+    }
+}

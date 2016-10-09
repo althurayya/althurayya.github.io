@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raʾs Kišm",
+            "cornu_URI": "RASKISHM_562E269N_S",
+            "toponym_arabic": "رأس كشم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ras Kishm",
+            "toponym_arabic_other": "رأس كشم",
+            "toponym_translit": "Raʾs Kišm",
+            "coord_lat": "26.96505",
+            "toponym_search": "Ras Kishm",
+            "region_code": "Faris",
+            "coord_lon": "56.28286",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.28286,
+            26.96505
+        ]
+    }
+}

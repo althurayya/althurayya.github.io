@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000092-000.json": {
+                "title": "اطرابنش",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000994-000.json": {
+                "title": "طرابنش",
+                "rate": 92,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṭrābinuš",
+            "cornu_URI": "ATRABINUSH_125E379N_S",
+            "toponym_arabic": "أطرابنش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Atrabinush",
+            "toponym_arabic_other": "أطرابنش",
+            "toponym_translit": "Aṭrābinuš",
+            "coord_lat": "37.98824",
+            "toponym_search": "Atrabinush",
+            "region_code": "Sicile",
+            "coord_lon": "12.50893",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.50893,
+            37.98824
+        ]
+    }
+}

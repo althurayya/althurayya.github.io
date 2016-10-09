@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Daylamān, al-Daylam",
+            "cornu_URI": "DAYLAMAN_505E366N_R",
+            "toponym_arabic": "ديلمان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Daylaman, al-Daylam",
+            "toponym_arabic_other": "ديلمان، الديلم",
+            "toponym_translit": "Daylamān",
+            "coord_lat": "36.69592",
+            "toponym_search": "Daylaman, al-Daylam",
+            "region_code": "Daylam",
+            "coord_lon": "50.52548",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.52548,
+            36.69592
+        ]
+    }
+}

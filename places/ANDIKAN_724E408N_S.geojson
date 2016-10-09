@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Andikān",
+            "cornu_URI": "ANDIKAN_724E408N_S",
+            "toponym_arabic": "أندكان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Andikan",
+            "toponym_arabic_other": "أندكان",
+            "toponym_translit": "Andikān",
+            "coord_lat": "40.81221",
+            "toponym_search": "Andikan",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.45652",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.45652,
+            40.81221
+        ]
+    }
+}

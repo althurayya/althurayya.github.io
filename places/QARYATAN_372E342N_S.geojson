@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaryatān",
+            "cornu_URI": "QARYATAN_372E342N_S",
+            "toponym_arabic": "القريتان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qaryatan",
+            "toponym_arabic_other": "القريتان",
+            "toponym_translit": "al-Qaryatān",
+            "coord_lat": "34.22510",
+            "toponym_search": "al-Qaryatan",
+            "region_code": "Sham",
+            "coord_lon": "37.24976",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.24976,
+            34.2251
+        ]
+    }
+}

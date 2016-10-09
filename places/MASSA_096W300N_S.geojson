@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001397-000.json": {
+                "title": "مداسه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Māssaŧ",
+            "cornu_URI": "MASSA_096W300N_S",
+            "toponym_arabic": "ماسة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Massa",
+            "toponym_arabic_other": "ماسة",
+            "toponym_translit": "Māssaŧ",
+            "coord_lat": "30.06450",
+            "toponym_search": "Massa",
+            "region_code": "Maghrib",
+            "coord_lon": "-9.64810",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.6481,
+            30.0645
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000672-000.json": {
+                "title": "الران",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000071-000.json": {
+                "title": "ارجان",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000683-000.json": {
+                "title": "الرجان",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Murǧān",
+            "cornu_URI": "MURJAN_556E363N_S",
+            "toponym_arabic": "المرجان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Murjan",
+            "toponym_arabic_other": "المرجان",
+            "toponym_translit": "al-Murǧān",
+            "coord_lat": "36.39341",
+            "toponym_search": "al-Murjan",
+            "region_code": "Daylam",
+            "coord_lon": "55.67094",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.67094,
+            36.39341
+        ]
+    }
+}

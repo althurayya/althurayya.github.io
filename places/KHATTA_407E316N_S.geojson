@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000562-000.json": {
+                "title": "الخط",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫaṭṭá",
+            "cornu_URI": "KHATTA_407E316N_S",
+            "toponym_arabic": "الخطى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Khatta",
+            "toponym_arabic_other": "الخطى",
+            "toponym_translit": "al-Ḫaṭṭá",
+            "coord_lat": "31.64853",
+            "toponym_search": "al-Khatta",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "40.70599",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.70599,
+            31.64853
+        ]
+    }
+}

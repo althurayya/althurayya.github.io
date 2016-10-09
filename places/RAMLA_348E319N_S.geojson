@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000690-000.json": {
+                "title": "الرمله",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000072-000.json": {
+                "title": "الرمله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ramlaŧ",
+            "cornu_URI": "RAMLA_348E319N_S",
+            "toponym_arabic": "الرملة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Ramla",
+            "toponym_arabic_other": "الرملة",
+            "toponym_translit": "al-Ramlaŧ",
+            "coord_lat": "31.92484",
+            "toponym_search": "al-Ramla",
+            "region_code": "Sham",
+            "coord_lon": "34.86436",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.86436,
+            31.92484
+        ]
+    }
+}

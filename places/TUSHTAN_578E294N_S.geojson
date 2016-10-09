@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tūštān",
+            "cornu_URI": "TUSHTAN_578E294N_S",
+            "toponym_arabic": "توشتان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tushtan",
+            "toponym_arabic_other": "توشتان",
+            "toponym_translit": "Tūštān",
+            "coord_lat": "29.42410",
+            "toponym_search": "Tushtan",
+            "region_code": "Kirman",
+            "coord_lon": "57.80931",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.80931,
+            29.4241
+        ]
+    }
+}

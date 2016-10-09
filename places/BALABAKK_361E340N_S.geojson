@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000283-000.json": {
+                "title": "بعلبك",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baʿlabakk",
+            "cornu_URI": "BALABAKK_361E340N_S",
+            "toponym_arabic": "بعلبك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Balabakk",
+            "toponym_arabic_other": "بعلبك",
+            "toponym_translit": "Baʿlabakk",
+            "coord_lat": "34.01251",
+            "toponym_search": "Balabakk",
+            "region_code": "Sham",
+            "coord_lon": "36.19213",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.19213,
+            34.01251
+        ]
+    }
+}

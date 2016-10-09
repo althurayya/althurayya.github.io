@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫuzaymiyyaŧ",
+            "cornu_URI": "KHUZAYMIYYA_431E279N_S",
+            "toponym_arabic": "الخزيمية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Khuzaymiyya",
+            "toponym_arabic_other": "الخزيمية",
+            "toponym_translit": "al-Ḫuzaymiyyaŧ",
+            "coord_lat": "27.91046",
+            "toponym_search": "al-Khuzaymiyya",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.13666",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.13666,
+            27.91046
+        ]
+    }
+}

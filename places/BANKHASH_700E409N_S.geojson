@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banḫāš, Banǧḫāš",
+            "cornu_URI": "BANKHASH_700E409N_S",
+            "toponym_arabic": "بنخاش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bankhash, Banjkhash",
+            "toponym_arabic_other": "بنخاش، بنجخاش",
+            "toponym_translit": "Banḫāš",
+            "coord_lat": "40.99377",
+            "toponym_search": "Bankhash, Banjkhash",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.00883",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.00883,
+            40.99377
+        ]
+    }
+}

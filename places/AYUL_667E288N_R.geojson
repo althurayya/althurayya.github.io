@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000193-000.json": {
+                "title": "ايله",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ayul",
+            "cornu_URI": "AYUL_667E288N_R",
+            "toponym_arabic": "أيل",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Ayul",
+            "toponym_arabic_other": "أيل",
+            "toponym_translit": "Ayul",
+            "coord_lat": "28.85409",
+            "toponym_search": "Ayul",
+            "region_code": "Sind",
+            "coord_lon": "66.70232",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.70232,
+            28.85409
+        ]
+    }
+}

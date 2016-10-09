@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wāyḫān",
+            "cornu_URI": "WAYKHAN_601E420N_S",
+            "toponym_arabic": "وايخان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Waykhan",
+            "toponym_arabic_other": "وايخان",
+            "toponym_translit": "Wāyḫān",
+            "coord_lat": "42.05520",
+            "toponym_search": "Waykhan",
+            "region_code": "Transoxiana",
+            "coord_lon": "60.19436",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.19436,
+            42.0552
+        ]
+    }
+}

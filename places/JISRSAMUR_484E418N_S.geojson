@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧisr Samūr",
+            "cornu_URI": "JISRSAMUR_484E418N_S",
+            "toponym_arabic": "جسر سمور",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Jisr Samur",
+            "toponym_arabic_other": "جسر سمور",
+            "toponym_translit": "Ǧisr Samūr",
+            "coord_lat": "41.84983",
+            "toponym_search": "Jisr Samur",
+            "region_code": "Rihab",
+            "coord_lon": "48.48301",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.48301,
+            41.84983
+        ]
+    }
+}

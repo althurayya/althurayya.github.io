@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000363-000.json": {
+                "title": "تطيله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tuṭīlaŧ",
+            "cornu_URI": "TUTILA_016W420N_S",
+            "toponym_arabic": "تطيلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tutila",
+            "toponym_arabic_other": "تطيلة",
+            "toponym_translit": "Tuṭīlaŧ",
+            "coord_lat": "42.04634",
+            "toponym_search": "Tutila",
+            "region_code": "Andalus",
+            "coord_lon": "-1.62697",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.62697,
+            42.04634
+        ]
+    }
+}

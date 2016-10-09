@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Ṭayy",
+            "cornu_URI": "WADITAYY_419E270N_R",
+            "toponym_arabic": "وادي طي",
+            "top_type_orig": "vallee",
+            "toponym_buckwalter": "Wadi Tayy",
+            "toponym_arabic_other": "وادي طي",
+            "toponym_translit": "Wādī Ṭayy",
+            "coord_lat": "27.05571",
+            "toponym_search": "Wadi Tayy",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "41.94575",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.94575,
+            27.05571
+        ]
+    }
+}

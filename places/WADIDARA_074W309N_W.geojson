@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001603-000.json": {
+                "title": "وادي درعه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Darʿaŧ",
+            "cornu_URI": "WADIDARA_074W309N_W",
+            "toponym_arabic": "وادي درعة",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Dara",
+            "toponym_arabic_other": "وادي درعة",
+            "toponym_translit": "Wādī Darʿaŧ",
+            "coord_lat": "30.93544",
+            "toponym_search": "Wadi Dara",
+            "region_code": "Maghrib",
+            "coord_lon": "-7.42487",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.42487,
+            30.93544
+        ]
+    }
+}

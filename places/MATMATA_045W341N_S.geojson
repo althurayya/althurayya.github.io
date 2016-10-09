@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maṭmāṭaŧ",
+            "cornu_URI": "MATMATA_045W341N_S",
+            "toponym_arabic": "مطماطة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Matmata",
+            "toponym_arabic_other": "مطماطة",
+            "toponym_translit": "Maṭmāṭaŧ",
+            "coord_lat": "34.11636",
+            "toponym_search": "Matmata",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.53948",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.53948,
+            34.11636
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001293-000.json": {
+                "title": "الكناسه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Kanīsaŧ",
+            "cornu_URI": "KANISA_349E327N_S",
+            "toponym_arabic": "الكنيسة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Kanisa",
+            "toponym_arabic_other": "الكنيسة",
+            "toponym_translit": "al-Kanīsaŧ",
+            "coord_lat": "32.74750",
+            "toponym_search": "al-Kanisa",
+            "region_code": "Sham",
+            "coord_lon": "34.95381",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.95381,
+            32.7475
+        ]
+    }
+}

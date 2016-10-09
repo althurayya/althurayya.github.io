@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000326-000.json": {
+                "title": "بيت لحم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayt Laḥm",
+            "cornu_URI": "BAYTLAHM_351E317N_S",
+            "toponym_arabic": "بيت لحم",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Bayt Lahm",
+            "toponym_arabic_other": "بيت لحم",
+            "toponym_translit": "Bayt Laḥm",
+            "coord_lat": "31.70926",
+            "toponym_search": "Bayt Lahm",
+            "region_code": "Sham",
+            "coord_lon": "35.18792",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.18792,
+            31.70926
+        ]
+    }
+}

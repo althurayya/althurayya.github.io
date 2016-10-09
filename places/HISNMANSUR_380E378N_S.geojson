@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000530-000.json": {
+                "title": "حصن منصور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Manṣūr",
+            "cornu_URI": "HISNMANSUR_380E378N_S",
+            "toponym_arabic": "حصن منصور",
+            "top_type_orig": "placefrontiere",
+            "toponym_buckwalter": "Hisn Mansur",
+            "toponym_arabic_other": "حصن منصور",
+            "toponym_translit": "Ḥiṣn Manṣūr",
+            "coord_lat": "37.82371",
+            "toponym_search": "Hisn Mansur",
+            "region_code": "Aqur",
+            "coord_lon": "38.05966",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.05966,
+            37.82371
+        ]
+    }
+}

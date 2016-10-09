@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tall Maḥrá, Tall Baḥrá",
+            "cornu_URI": "TALLMAHRA_391E366N_S",
+            "toponym_arabic": "تل محرى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tall Mahra, Tall Bahra",
+            "toponym_arabic_other": "تل محرى، تل بحرى",
+            "toponym_translit": "Tall Maḥrá",
+            "coord_lat": "36.61998",
+            "toponym_search": "Tall Mahra, Tall Bahra",
+            "region_code": "Aqur",
+            "coord_lon": "39.13855",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.13855,
+            36.61998
+        ]
+    }
+}

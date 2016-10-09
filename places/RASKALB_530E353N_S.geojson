@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raʾs al-Kalb",
+            "cornu_URI": "RASKALB_530E353N_S",
+            "toponym_arabic": "رأس الكلب",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ras al-Kalb",
+            "toponym_arabic_other": "رأس الكلب",
+            "toponym_translit": "Raʾs al-Kalb",
+            "coord_lat": "35.37647",
+            "toponym_search": "Ras al-Kalb",
+            "region_code": "Daylam",
+            "coord_lon": "53.07601",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.07601,
+            35.37647
+        ]
+    }
+}

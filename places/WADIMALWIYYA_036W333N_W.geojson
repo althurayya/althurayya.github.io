@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Malwiyyaŧ",
+            "cornu_URI": "WADIMALWIYYA_036W333N_W",
+            "toponym_arabic": "وادي ملوية",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Malwiyya",
+            "toponym_arabic_other": "وادي ملوية",
+            "toponym_translit": "Wādī Malwiyyaŧ",
+            "coord_lat": "33.37702",
+            "toponym_search": "Wadi Malwiyya",
+            "region_code": "Maghrib",
+            "coord_lon": "-3.64184",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.64184,
+            33.37702
+        ]
+    }
+}

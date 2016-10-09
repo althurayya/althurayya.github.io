@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000814-000.json": {
+                "title": "سلا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Salā",
+            "cornu_URI": "SALA_067W340N_S",
+            "toponym_arabic": "سلا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sala",
+            "toponym_arabic_other": "سلا",
+            "toponym_translit": "Salā",
+            "coord_lat": "34.04753",
+            "toponym_search": "Sala",
+            "region_code": "Maghrib",
+            "coord_lon": "-6.79416",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.79416,
+            34.04753
+        ]
+    }
+}

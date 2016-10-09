@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1702",
+            "cornu_URI": "ROUTPOINT1702_592E359N_O",
+            "toponym_arabic": "RoutPoint1702",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1702",
+            "toponym_arabic_other": "RoutPoint1702",
+            "toponym_translit": "RoutPoint1702",
+            "coord_lat": "35.96126",
+            "toponym_search": "RoutPoint1702",
+            "region_code": "Khurasan",
+            "coord_lon": "59.25769",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.25769,
+            35.96126
+        ]
+    }
+}

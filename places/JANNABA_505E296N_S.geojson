@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧannābaŧ",
+            "cornu_URI": "JANNABA_505E296N_S",
+            "toponym_arabic": "جنابة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jannaba",
+            "toponym_arabic_other": "جنابة",
+            "toponym_translit": "Ǧannābaŧ",
+            "coord_lat": "29.60089",
+            "toponym_search": "Jannaba",
+            "region_code": "Faris",
+            "coord_lon": "50.53898",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.53898,
+            29.60089
+        ]
+    }
+}

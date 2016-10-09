@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Faġkaṯ, Waġkaṯ",
+            "cornu_URI": "FAGHKATH_690E398N_S",
+            "toponym_arabic": "فغكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Faghkath, Waghkath",
+            "toponym_arabic_other": "فغكث، وغكث",
+            "toponym_translit": "Faġkaṯ",
+            "coord_lat": "39.83509",
+            "toponym_search": "Faghkath, Waghkath",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.01759",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.01759,
+            39.83509
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000026-000.json": {
+                "title": "الابواء",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Abwāb",
+            "cornu_URI": "ABWAB_340E174N_S",
+            "toponym_arabic": "الأبواب",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Abwab",
+            "toponym_arabic_other": "الأبواب",
+            "toponym_translit": "al-Abwāb",
+            "coord_lat": "17.49927",
+            "toponym_search": "al-Abwab",
+            "region_code": "Egypt",
+            "coord_lon": "34.09472",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.09472,
+            17.49927
+        ]
+    }
+}

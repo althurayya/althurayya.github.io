@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abtiʿaŧ",
+            "cornu_URI": "ABTIA_500E336N_S",
+            "toponym_arabic": "أبتعة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Abtia",
+            "toponym_arabic_other": "أبتعة",
+            "toponym_translit": "Abtiʿaŧ",
+            "coord_lat": "33.62812",
+            "toponym_search": "Abtia",
+            "region_code": "Jibal",
+            "coord_lon": "50.05422",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.05422,
+            33.62812
+        ]
+    }
+}

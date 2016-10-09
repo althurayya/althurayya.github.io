@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001040-000.json": {
+                "title": "عدن",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAdan",
+            "cornu_URI": "ADAN_450E127N_S",
+            "toponym_arabic": "عدن",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Adan",
+            "toponym_arabic_other": "عدن",
+            "toponym_translit": "ʿAdan",
+            "coord_lat": "12.79365",
+            "toponym_search": "Adan",
+            "region_code": "Yemen",
+            "coord_lon": "45.03942",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.03942,
+            12.79365
+        ]
+    }
+}

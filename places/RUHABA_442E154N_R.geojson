@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ruḥābaŧ",
+            "cornu_URI": "RUHABA_442E154N_R",
+            "toponym_arabic": "رحابة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Ruhaba",
+            "toponym_arabic_other": "رحابة",
+            "toponym_translit": "Ruḥābaŧ",
+            "coord_lat": "15.45562",
+            "toponym_search": "Ruhaba",
+            "region_code": "Yemen",
+            "coord_lon": "44.25892",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.25892,
+            15.45562
+        ]
+    }
+}

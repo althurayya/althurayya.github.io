@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000881-000.json": {
+                "title": "شنترين",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šantarīn",
+            "cornu_URI": "SHANTARIN_087W392N_S",
+            "toponym_arabic": "شنترين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shantarin",
+            "toponym_arabic_other": "شنترين",
+            "toponym_translit": "Šantarīn",
+            "coord_lat": "39.22337",
+            "toponym_search": "Shantarin",
+            "region_code": "Andalus",
+            "coord_lon": "-8.71712",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.71712,
+            39.22337
+        ]
+    }
+}

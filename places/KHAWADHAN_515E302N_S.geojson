@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawāḏān, Ḫawrāwāḏān, Ḫawrābāḏān, Ḫūbaḏān",
+            "cornu_URI": "KHAWADHAN_515E302N_S",
+            "toponym_arabic": "خواذان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Khawadhan, Khawrawadhan, Khawrabadhan, Khubadhan",
+            "toponym_arabic_other": "خواذان، خوراواذان، خوراباذان، خوبذان",
+            "toponym_translit": "Ḫawāḏān",
+            "coord_lat": "30.24443",
+            "toponym_search": "Khawadhan, Khawrawadhan, Khawrabadhan, Khubadhan",
+            "region_code": "Faris",
+            "coord_lon": "51.50809",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.50809,
+            30.24443
+        ]
+    }
+}

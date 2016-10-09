@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧarbā, al-Ǧarbá",
+            "cornu_URI": "JARBA_381E304N_S",
+            "toponym_arabic": "الجربا",
+            "top_type_orig": "mares",
+            "toponym_buckwalter": "al-Jarba, al-Jarba",
+            "toponym_arabic_other": "الجربا، الجربى",
+            "toponym_translit": "al-Ǧarbā",
+            "coord_lat": "30.48436",
+            "toponym_search": "al-Jarba, al-Jarba",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "38.12681",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.12681,
+            30.48436
+        ]
+    }
+}

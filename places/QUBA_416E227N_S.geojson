@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001225-000.json": {
+                "title": "قبا",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001170-000.json": {
+                "title": "قباء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qubāʾ",
+            "cornu_URI": "QUBA_416E227N_S",
+            "toponym_arabic": "قباء",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Quba",
+            "toponym_arabic_other": "قباء",
+            "toponym_translit": "Qubāʾ",
+            "coord_lat": "22.78726",
+            "toponym_search": "Quba",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.65725",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.65725,
+            22.78726
+        ]
+    }
+}

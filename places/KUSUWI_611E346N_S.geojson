@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūsuwī, Kūsarī",
+            "cornu_URI": "KUSUWI_611E346N_S",
+            "toponym_arabic": "كوسوي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kusuwi, Kusari",
+            "toponym_arabic_other": "كوسوي، كوسري",
+            "toponym_translit": "Kūsuwī",
+            "coord_lat": "34.61574",
+            "toponym_search": "Kusuwi, Kusari",
+            "region_code": "Khurasan",
+            "coord_lon": "61.17470",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.1747,
+            34.61574
+        ]
+    }
+}

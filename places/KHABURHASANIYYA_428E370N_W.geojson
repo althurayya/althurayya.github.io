@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫābūr al-Ḥasaniyyaŧ",
+            "cornu_URI": "KHABURHASANIYYA_428E370N_W",
+            "toponym_arabic": "خابور الحسنية",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Khabur al-Hasaniyya",
+            "toponym_arabic_other": "خابور الحسنية",
+            "toponym_translit": "Ḫābūr al-Ḥasaniyyaŧ",
+            "coord_lat": "37.06628",
+            "toponym_search": "Khabur al-Hasaniyya",
+            "region_code": "Aqur",
+            "coord_lon": "42.80477",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.80477,
+            37.06628
+        ]
+    }
+}

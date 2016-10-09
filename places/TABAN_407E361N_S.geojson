@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭābān, Ṭalabān",
+            "cornu_URI": "TABAN_407E361N_S",
+            "toponym_arabic": "طابان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Taban, Talaban",
+            "toponym_arabic_other": "طابان، طلبان",
+            "toponym_translit": "Ṭābān",
+            "coord_lat": "36.16114",
+            "toponym_search": "Taban, Talaban",
+            "region_code": "Aqur",
+            "coord_lon": "40.76153",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.76153,
+            36.16114
+        ]
+    }
+}

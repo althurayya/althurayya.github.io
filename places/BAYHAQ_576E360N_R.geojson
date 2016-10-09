@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000312-000.json": {
+                "title": "بيهق",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayhaq",
+            "cornu_URI": "BAYHAQ_576E360N_R",
+            "toponym_arabic": "بيهق",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bayhaq",
+            "toponym_arabic_other": "بيهق",
+            "toponym_translit": "Bayhaq",
+            "coord_lat": "36.08485",
+            "toponym_search": "Bayhaq",
+            "region_code": "Khurasan",
+            "coord_lon": "57.64840",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.6484,
+            36.08485
+        ]
+    }
+}

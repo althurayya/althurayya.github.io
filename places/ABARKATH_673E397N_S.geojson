@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abārkaṯ, Barkāṯ",
+            "cornu_URI": "ABARKATH_673E397N_S",
+            "toponym_arabic": "أباركث",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Abarkath, Barkath",
+            "toponym_arabic_other": "أباركث، بركاث",
+            "toponym_translit": "Abārkaṯ",
+            "coord_lat": "39.79611",
+            "toponym_search": "Abarkath, Barkath",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.38308",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.38308,
+            39.79611
+        ]
+    }
+}

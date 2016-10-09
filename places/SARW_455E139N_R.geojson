@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sarw",
+            "cornu_URI": "SARW_455E139N_R",
+            "toponym_arabic": "السرو",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Sarw",
+            "toponym_arabic_other": "السرو",
+            "toponym_translit": "al-Sarw",
+            "coord_lat": "13.98039",
+            "toponym_search": "al-Sarw",
+            "region_code": "Yemen",
+            "coord_lon": "45.58857",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.58857,
+            13.98039
+        ]
+    }
+}

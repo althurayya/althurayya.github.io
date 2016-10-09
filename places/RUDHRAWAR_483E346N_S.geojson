@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ruḏrāwar",
+            "cornu_URI": "RUDHRAWAR_483E346N_S",
+            "toponym_arabic": "رذراور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rudhrawar",
+            "toponym_arabic_other": "رذراور",
+            "toponym_translit": "Ruḏrāwar",
+            "coord_lat": "34.62225",
+            "toponym_search": "Rudhrawar",
+            "region_code": "Jibal",
+            "coord_lon": "48.39263",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.39263,
+            34.62225
+        ]
+    }
+}

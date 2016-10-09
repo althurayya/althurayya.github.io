@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Kūfan",
+            "cornu_URI": "RIBATKUFAN_593E372N_S",
+            "toponym_arabic": "رباط كوفن",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Kufan",
+            "toponym_arabic_other": "رباط كوفن",
+            "toponym_translit": "Ribāṭ Kūfan",
+            "coord_lat": "37.24076",
+            "toponym_search": "Ribat Kufan",
+            "region_code": "Khurasan",
+            "coord_lon": "59.38400",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.384,
+            37.24076
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Daḫwīd, Darḫīḏ",
+            "cornu_URI": "DAKHWID_512E303N_S",
+            "toponym_arabic": "دخويد",
+            "top_type_orig": "pont/bourgade/etape",
+            "toponym_buckwalter": "Dakhwid, Darkhidh",
+            "toponym_arabic_other": "دخويد، درخيذ",
+            "toponym_translit": "Daḫwīd",
+            "coord_lat": "30.30738",
+            "toponym_search": "Dakhwid, Darkhidh",
+            "region_code": "Faris",
+            "coord_lon": "51.25820",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.2582,
+            30.30738
+        ]
+    }
+}

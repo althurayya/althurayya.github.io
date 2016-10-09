@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manf, al-ʿAzīziyyaŧ",
+            "cornu_URI": "MANF_312E298N_S",
+            "toponym_arabic": "منف",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Manf, al-Aziziyya",
+            "toponym_arabic_other": "منف، العزيزية",
+            "toponym_translit": "Manf",
+            "coord_lat": "29.85447",
+            "toponym_search": "Manf, al-Aziziyya",
+            "region_code": "Egypt",
+            "coord_lon": "31.25648",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.25648,
+            29.85447
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Babīǧ",
+            "cornu_URI": "BABIJ_307E308N_S",
+            "toponym_arabic": "ببيج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Babij",
+            "toponym_arabic_other": "ببيج",
+            "toponym_translit": "Babīǧ",
+            "coord_lat": "30.87466",
+            "toponym_search": "Babij",
+            "region_code": "Egypt",
+            "coord_lon": "30.75642",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.75642,
+            30.87466
+        ]
+    }
+}

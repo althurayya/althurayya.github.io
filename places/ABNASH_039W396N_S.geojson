@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abnaš",
+            "cornu_URI": "ABNASH_039W396N_S",
+            "toponym_arabic": "أبنش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abnash",
+            "toponym_arabic_other": "أبنش",
+            "toponym_translit": "Abnaš",
+            "coord_lat": "39.63212",
+            "toponym_search": "Abnash",
+            "region_code": "Andalus",
+            "coord_lon": "-3.91003",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.91003,
+            39.63212
+        ]
+    }
+}

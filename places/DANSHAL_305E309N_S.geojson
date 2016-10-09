@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Danšāl",
+            "cornu_URI": "DANSHAL_305E309N_S",
+            "toponym_arabic": "دنشال",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Danshal",
+            "toponym_arabic_other": "دنشال",
+            "toponym_translit": "Danšāl",
+            "coord_lat": "30.95938",
+            "toponym_search": "Danshal",
+            "region_code": "Egypt",
+            "coord_lon": "30.51137",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.51137,
+            30.95938
+        ]
+    }
+}

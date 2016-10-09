@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ Abū Ṯawr",
+            "cornu_URI": "QALAABUTHAWR_139E378N_S",
+            "toponym_arabic": "قلعة أبو ثور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qala Abu Thawr",
+            "toponym_arabic_other": "قلعة أبو ثور",
+            "toponym_translit": "Qalʿaŧ Abū Ṯawr",
+            "coord_lat": "37.83361",
+            "toponym_search": "Qala Abu Thawr",
+            "region_code": "Sicile",
+            "coord_lon": "13.91402",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91402,
+            37.83361
+        ]
+    }
+}

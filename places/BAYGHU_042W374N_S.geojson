@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000322-000.json": {
+                "title": "بيغو",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayġū",
+            "cornu_URI": "BAYGHU_042W374N_S",
+            "toponym_arabic": "بيغو",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bayghu",
+            "toponym_arabic_other": "بيغو",
+            "toponym_translit": "Bayġū",
+            "coord_lat": "37.45788",
+            "toponym_search": "Bayghu",
+            "region_code": "Andalus",
+            "coord_lon": "-4.20406",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.20406,
+            37.45788
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barkarī, Barkawī",
+            "cornu_URI": "BARKARI_437E389N_S",
+            "toponym_arabic": "بركري",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Barkari, Barkawi",
+            "toponym_arabic_other": "بركري، بركوي",
+            "toponym_translit": "Barkarī",
+            "coord_lat": "38.98412",
+            "toponym_search": "Barkari, Barkawi",
+            "region_code": "Rihab",
+            "coord_lon": "43.75682",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.75682,
+            38.98412
+        ]
+    }
+}

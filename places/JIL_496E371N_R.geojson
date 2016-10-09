@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000598-000.json": {
+                "title": "دجيل",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧīl, Ǧīlān",
+            "cornu_URI": "JIL_496E371N_R",
+            "toponym_arabic": "جيل",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jil, Jilan",
+            "toponym_arabic_other": "جيل، جيلان",
+            "toponym_translit": "Ǧīl",
+            "coord_lat": "37.13924",
+            "toponym_search": "Jil, Jilan",
+            "region_code": "Daylam",
+            "coord_lon": "49.65635",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.65635,
+            37.13924
+        ]
+    }
+}

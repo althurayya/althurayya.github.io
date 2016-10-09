@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000564-000.json": {
+                "title": "خلم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫulm",
+            "cornu_URI": "KHULM_677E367N_S",
+            "toponym_arabic": "خلم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khulm",
+            "toponym_arabic_other": "خلم",
+            "toponym_translit": "Ḫulm",
+            "coord_lat": "36.74621",
+            "toponym_search": "Khulm",
+            "region_code": "Khurasan",
+            "coord_lon": "67.70299",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.70299,
+            36.74621
+        ]
+    }
+}

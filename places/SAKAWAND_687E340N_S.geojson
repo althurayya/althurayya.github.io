@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sakāwand",
+            "cornu_URI": "SAKAWAND_687E340N_S",
+            "toponym_arabic": "سكاوند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sakawand",
+            "toponym_arabic_other": "سكاوند",
+            "toponym_translit": "Sakāwand",
+            "coord_lat": "34.08270",
+            "toponym_search": "Sakawand",
+            "region_code": "Khurasan",
+            "coord_lon": "68.74862",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.74862,
+            34.0827
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṭar",
+            "cornu_URI": "QATAR_512E249N_R",
+            "toponym_arabic": "قطر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qatar",
+            "toponym_arabic_other": "قطر",
+            "toponym_translit": "Qaṭar",
+            "coord_lat": "24.95829",
+            "toponym_search": "Qatar",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "51.21928",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.21928,
+            24.95829
+        ]
+    }
+}

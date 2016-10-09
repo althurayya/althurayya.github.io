@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marǧ wa-Zahr",
+            "cornu_URI": "MARJWA-ZAHR_509E330N_S",
+            "toponym_arabic": "مرج وزهر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Marj wa-Zahr",
+            "toponym_arabic_other": "مرج وزهر",
+            "toponym_translit": "Marǧ wa-Zahr",
+            "coord_lat": "33.08994",
+            "toponym_search": "Marj wa-Zahr",
+            "region_code": "Jibal",
+            "coord_lon": "50.95356",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.95356,
+            33.08994
+        ]
+    }
+}

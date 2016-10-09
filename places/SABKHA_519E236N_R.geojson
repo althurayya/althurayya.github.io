@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000776-000.json": {
+                "title": "السبخه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sabḫaŧ",
+            "cornu_URI": "SABKHA_519E236N_R",
+            "toponym_arabic": "السبخة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Sabkha",
+            "toponym_arabic_other": "السبخة",
+            "toponym_translit": "al-Sabḫaŧ",
+            "coord_lat": "23.61911",
+            "toponym_search": "al-Sabkha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "51.97155",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.97155,
+            23.61911
+        ]
+    }
+}

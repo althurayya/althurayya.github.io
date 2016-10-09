@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalqāṭūs",
+            "cornu_URI": "QALQATUS_466E402N_S",
+            "toponym_arabic": "قلقاطوس",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qalqatus",
+            "toponym_arabic_other": "قلقاطوس",
+            "toponym_translit": "Qalqāṭūs",
+            "coord_lat": "40.20714",
+            "toponym_search": "Qalqatus",
+            "region_code": "Rihab",
+            "coord_lon": "46.64590",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.6459,
+            40.20714
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṭrabiyyaŧ",
+            "cornu_URI": "ATRABIYYA_317E307N_R",
+            "toponym_arabic": "أطربية",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Atrabiyya",
+            "toponym_arabic_other": "أطربية",
+            "toponym_translit": "Aṭrabiyyaŧ",
+            "coord_lat": "30.70963",
+            "toponym_search": "Atrabiyya",
+            "region_code": "Egypt",
+            "coord_lon": "31.74628",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.74628,
+            30.70963
+        ]
+    }
+}

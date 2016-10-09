@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ Barātikīn, Qaryaŧ Farātikīn, Qaryaŧ Qarātiǧīn",
+            "cornu_URI": "QARYABARATIKIN_599E431N_S",
+            "toponym_arabic": "قرية براتكين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarya Baratikin, Qarya Faratikin, Qarya Qaratijin",
+            "toponym_arabic_other": "قرية براتكين، قرية فراتكين، قرية قراتجين",
+            "toponym_translit": "Qaryaŧ Barātikīn",
+            "coord_lat": "43.19354",
+            "toponym_search": "Qarya Baratikin, Qarya Faratikin, Qarya Qaratijin",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.95269",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.95269,
+            43.19354
+        ]
+    }
+}

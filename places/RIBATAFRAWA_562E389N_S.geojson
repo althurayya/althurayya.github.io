@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Afrāwaŧ",
+            "cornu_URI": "RIBATAFRAWA_562E389N_S",
+            "toponym_arabic": "رباط أفراوة",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Afrawa",
+            "toponym_arabic_other": "رباط أفراوة",
+            "toponym_translit": "Ribāṭ Afrāwaŧ",
+            "coord_lat": "38.92182",
+            "toponym_search": "Ribat Afrawa",
+            "region_code": "Khurasan",
+            "coord_lon": "56.26856",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.26856,
+            38.92182
+        ]
+    }
+}

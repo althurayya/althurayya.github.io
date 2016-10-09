@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000608-000.json": {
+                "title": "دلاص",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dalāṣ, Dilāṣ",
+            "cornu_URI": "DALAS_311E292N_S",
+            "toponym_arabic": "دلاص",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dalas, Dilas",
+            "toponym_arabic_other": "دلاص، دلاص",
+            "toponym_translit": "Dalāṣ",
+            "coord_lat": "29.21524",
+            "toponym_search": "Dalas, Dilas",
+            "region_code": "Egypt",
+            "coord_lon": "31.16142",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.16142,
+            29.21524
+        ]
+    }
+}

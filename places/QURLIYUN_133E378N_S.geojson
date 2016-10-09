@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurliyūn",
+            "cornu_URI": "QURLIYUN_133E378N_S",
+            "toponym_arabic": "قرليون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qurliyun",
+            "toponym_arabic_other": "قرليون",
+            "toponym_translit": "Qurliyūn",
+            "coord_lat": "37.81007",
+            "toponym_search": "Qurliyun",
+            "region_code": "Sicile",
+            "coord_lon": "13.31224",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31224,
+            37.81007
+        ]
+    }
+}

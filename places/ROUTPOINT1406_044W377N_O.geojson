@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1406",
+            "cornu_URI": "ROUTPOINT1406_044W377N_O",
+            "toponym_arabic": "RoutPoint1406",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1406",
+            "toponym_arabic_other": "RoutPoint1406",
+            "toponym_translit": "RoutPoint1406",
+            "coord_lat": "37.70800",
+            "toponym_search": "RoutPoint1406",
+            "region_code": "Andalus",
+            "coord_lon": "-4.45404",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.45404,
+            37.708
+        ]
+    }
+}

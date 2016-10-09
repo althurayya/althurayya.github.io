@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000508-000.json": {
+                "title": "حران",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥayrān",
+            "cornu_URI": "HAYRAN_430E159N_R",
+            "toponym_arabic": "حيران",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Hayran",
+            "toponym_arabic_other": "حيران",
+            "toponym_translit": "Ḥayrān",
+            "coord_lat": "15.96703",
+            "toponym_search": "Hayran",
+            "region_code": "Yemen",
+            "coord_lon": "43.03594",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.03594,
+            15.96703
+        ]
+    }
+}

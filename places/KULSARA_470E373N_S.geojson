@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kulsāraŧ",
+            "cornu_URI": "KULSARA_470E373N_S",
+            "toponym_arabic": "كلسارة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kulsara",
+            "toponym_arabic_other": "كلسارة",
+            "toponym_translit": "Kulsāraŧ",
+            "coord_lat": "37.37990",
+            "toponym_search": "Kulsara",
+            "region_code": "Rihab",
+            "coord_lon": "47.01236",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.01236,
+            37.3799
+        ]
+    }
+}

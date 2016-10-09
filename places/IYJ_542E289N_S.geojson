@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000107-000.json": {
+                "title": "ايذج",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iyǧ, Iyk",
+            "cornu_URI": "IYJ_542E289N_S",
+            "toponym_arabic": "إيج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Iyj, Iyk",
+            "toponym_arabic_other": "إيج، إيك",
+            "toponym_translit": "Iyǧ",
+            "coord_lat": "28.98623",
+            "toponym_search": "Iyj, Iyk",
+            "region_code": "Faris",
+            "coord_lon": "54.24655",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.24655,
+            28.98623
+        ]
+    }
+}

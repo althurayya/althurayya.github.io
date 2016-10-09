@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000396-000.json": {
+                "title": "تيماء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Taymāʾ",
+            "cornu_URI": "TAYMA_385E275N_S",
+            "toponym_arabic": "تيماء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tayma",
+            "toponym_arabic_other": "تيماء",
+            "toponym_translit": "Taymāʾ",
+            "coord_lat": "27.58081",
+            "toponym_search": "Tayma",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "38.52000",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.52,
+            27.58081
+        ]
+    }
+}

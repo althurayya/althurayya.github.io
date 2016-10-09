@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Burǧ",
+            "cornu_URI": "BURJ_496E333N_S",
+            "toponym_arabic": "البرج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Burj",
+            "toponym_arabic_other": "البرج",
+            "toponym_translit": "al-Burǧ",
+            "coord_lat": "33.39951",
+            "toponym_search": "al-Burj",
+            "region_code": "Jibal",
+            "coord_lon": "49.64019",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.64019,
+            33.39951
+        ]
+    }
+}

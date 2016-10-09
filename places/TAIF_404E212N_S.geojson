@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000965-000.json": {
+                "title": "الطايف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṭāʾif",
+            "cornu_URI": "TAIF_404E212N_S",
+            "toponym_arabic": "الطائف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Taif",
+            "toponym_arabic_other": "الطائف",
+            "toponym_translit": "al-Ṭāʾif",
+            "coord_lat": "21.21629",
+            "toponym_search": "al-Taif",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.40566",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.40566,
+            21.21629
+        ]
+    }
+}

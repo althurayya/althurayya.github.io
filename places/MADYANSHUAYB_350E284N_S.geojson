@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Madyan Šuʿayb",
+            "cornu_URI": "MADYANSHUAYB_350E284N_S",
+            "toponym_arabic": "مدين شعيب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Madyan Shuayb",
+            "toponym_arabic_other": "مدين شعيب",
+            "toponym_translit": "Madyan Šuʿayb",
+            "coord_lat": "28.47663",
+            "toponym_search": "Madyan Shuayb",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.07298",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.07298,
+            28.47663
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0603",
+            "cornu_URI": "ROUTPOINT0603_517E316N_O",
+            "toponym_arabic": "RoutPoint0603",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0603",
+            "toponym_arabic_other": "RoutPoint0603",
+            "toponym_translit": "RoutPoint0603",
+            "coord_lat": "31.65660",
+            "toponym_search": "RoutPoint0603",
+            "region_code": "Faris",
+            "coord_lon": "51.76804",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.76804,
+            31.6566
+        ]
+    }
+}

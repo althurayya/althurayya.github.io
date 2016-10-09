@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧunaynaŧ",
+            "cornu_URI": "JUNAYNA_371E279N_S",
+            "toponym_arabic": "الجنينة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Junayna",
+            "toponym_arabic_other": "الجنينة",
+            "toponym_translit": "al-Ǧunaynaŧ",
+            "coord_lat": "27.92136",
+            "toponym_search": "al-Junayna",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.19786",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.19786,
+            27.92136
+        ]
+    }
+}

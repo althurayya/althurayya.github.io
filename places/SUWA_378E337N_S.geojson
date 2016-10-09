@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suwá",
+            "cornu_URI": "SUWA_378E337N_S",
+            "toponym_arabic": "سوى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Suwa",
+            "toponym_arabic_other": "سوى",
+            "toponym_translit": "Suwá",
+            "coord_lat": "33.72767",
+            "toponym_search": "Suwa",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.85153",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.85153,
+            33.72767
+        ]
+    }
+}

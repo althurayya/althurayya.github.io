@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manǧābārá",
+            "cornu_URI": "MANJABARA_682E258N_S",
+            "toponym_arabic": "منجابارى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Manjabara",
+            "toponym_arabic_other": "منجابارى",
+            "toponym_translit": "Manǧābārá",
+            "coord_lat": "25.84265",
+            "toponym_search": "Manjabara",
+            "region_code": "Sind",
+            "coord_lon": "68.25338",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.25338,
+            25.84265
+        ]
+    }
+}

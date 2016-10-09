@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Asfuzār",
+            "cornu_URI": "ASFUZAR_621E332N_S",
+            "toponym_arabic": "الأسفزار",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Asfuzar",
+            "toponym_arabic_other": "الأسفزار",
+            "toponym_translit": "al-Asfuzār",
+            "coord_lat": "33.24402",
+            "toponym_search": "al-Asfuzar",
+            "region_code": "Khurasan",
+            "coord_lon": "62.12974",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.12974,
+            33.24402
+        ]
+    }
+}

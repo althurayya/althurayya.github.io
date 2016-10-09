@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Qalamūn, Qalamūn",
+            "cornu_URI": "JABALQALAMUN_365E339N_O",
+            "toponym_arabic": "جبل قلمون",
+            "top_type_orig": "montagne",
+            "toponym_buckwalter": "Jabal Qalamun, Qalamun",
+            "toponym_arabic_other": "جبل قلمون، قلمون",
+            "toponym_translit": "Ǧabal Qalamūn",
+            "coord_lat": "33.91260",
+            "toponym_search": "Jabal Qalamun, Qalamun",
+            "region_code": "Sham",
+            "coord_lon": "36.59718",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.59718,
+            33.9126
+        ]
+    }
+}

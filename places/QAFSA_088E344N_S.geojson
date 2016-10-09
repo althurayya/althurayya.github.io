@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001245-000.json": {
+                "title": "قفصه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qafṣaŧ",
+            "cornu_URI": "QAFSA_088E344N_S",
+            "toponym_arabic": "قفصة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qafsa",
+            "toponym_arabic_other": "قفصة",
+            "toponym_translit": "Qafṣaŧ",
+            "coord_lat": "34.40681",
+            "toponym_search": "Qafsa",
+            "region_code": "Maghrib",
+            "coord_lon": "8.82032",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.82032,
+            34.40681
+        ]
+    }
+}

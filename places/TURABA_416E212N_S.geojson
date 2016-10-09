@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Turabaŧ",
+            "cornu_URI": "TURABA_416E212N_S",
+            "toponym_arabic": "تربة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Turaba",
+            "toponym_arabic_other": "تربة",
+            "toponym_translit": "Turabaŧ",
+            "coord_lat": "21.25283",
+            "toponym_search": "Turaba",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.64030",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.6403,
+            21.25283
+        ]
+    }
+}

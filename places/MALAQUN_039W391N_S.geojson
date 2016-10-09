@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Malaqūn",
+            "cornu_URI": "MALAQUN_039W391N_S",
+            "toponym_arabic": "ملقون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Malaqun",
+            "toponym_arabic_other": "ملقون",
+            "toponym_translit": "Malaqūn",
+            "coord_lat": "39.17390",
+            "toponym_search": "Malaqun",
+            "region_code": "Andalus",
+            "coord_lon": "-3.91362",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.91362,
+            39.1739
+        ]
+    }
+}

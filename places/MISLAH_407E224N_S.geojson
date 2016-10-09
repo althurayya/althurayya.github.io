@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Mislaḥ",
+            "cornu_URI": "MISLAH_407E224N_S",
+            "toponym_arabic": "المسلح",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Mislah",
+            "toponym_arabic_other": "المسلح",
+            "toponym_translit": "al-Mislaḥ",
+            "coord_lat": "22.44276",
+            "toponym_search": "al-Mislah",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.79626",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.79626,
+            22.44276
+        ]
+    }
+}

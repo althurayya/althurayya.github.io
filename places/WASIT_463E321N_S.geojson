@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001582-000.json": {
+                "title": "واسط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wāsiṭ",
+            "cornu_URI": "WASIT_463E321N_S",
+            "toponym_arabic": "واسط",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Wasit",
+            "toponym_arabic_other": "واسط",
+            "toponym_translit": "Wāsiṭ",
+            "coord_lat": "32.19497",
+            "toponym_search": "Wasit",
+            "region_code": "Iraq",
+            "coord_lon": "46.32308",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.32308,
+            32.19497
+        ]
+    }
+}

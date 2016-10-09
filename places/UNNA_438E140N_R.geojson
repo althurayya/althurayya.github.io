@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001046-000.json": {
+                "title": "عرنه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿUnnaŧ",
+            "cornu_URI": "UNNA_438E140N_R",
+            "toponym_arabic": "عنة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Unna",
+            "toponym_arabic_other": "عنة",
+            "toponym_translit": "ʿUnnaŧ",
+            "coord_lat": "14.00041",
+            "toponym_search": "Unna",
+            "region_code": "Yemen",
+            "coord_lon": "43.88228",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.88228,
+            14.00041
+        ]
+    }
+}

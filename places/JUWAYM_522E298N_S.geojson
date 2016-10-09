@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuwaym",
+            "cornu_URI": "JUWAYM_522E298N_S",
+            "toponym_arabic": "جويم",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Juwaym",
+            "toponym_arabic_other": "جويم",
+            "toponym_translit": "Ǧuwaym",
+            "coord_lat": "29.87379",
+            "toponym_search": "Juwaym",
+            "region_code": "Faris",
+            "coord_lon": "52.29587",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.29587,
+            29.87379
+        ]
+    }
+}

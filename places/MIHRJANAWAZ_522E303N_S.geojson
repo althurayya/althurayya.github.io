@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mihrǧānāwāz",
+            "cornu_URI": "MIHRJANAWAZ_522E303N_S",
+            "toponym_arabic": "مهرجاناواز",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Mihrjanawaz",
+            "toponym_arabic_other": "مهرجاناواز",
+            "toponym_translit": "Mihrǧānāwāz",
+            "coord_lat": "30.39049",
+            "toponym_search": "Mihrjanawaz",
+            "region_code": "Faris",
+            "coord_lon": "52.21353",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.21353,
+            30.39049
+        ]
+    }
+}

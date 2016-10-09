@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tawarġaŧ",
+            "cornu_URI": "TAWARGHA_148E319N_S",
+            "toponym_arabic": "تورغة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Tawargha",
+            "toponym_arabic_other": "تورغة",
+            "toponym_translit": "Tawarġaŧ",
+            "coord_lat": "31.98024",
+            "toponym_search": "Tawargha",
+            "region_code": "Barqa",
+            "coord_lon": "14.86251",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.86251,
+            31.98024
+        ]
+    }
+}

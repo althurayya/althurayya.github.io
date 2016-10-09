@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Ḏū al-Qarnayn",
+            "cornu_URI": "RIBATDHUQARNAYN_405E385N_S",
+            "toponym_arabic": "رباط ذو القرنين",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "Ribat Dhu al-Qarnayn",
+            "toponym_arabic_other": "رباط ذو القرنين",
+            "toponym_translit": "Ribāṭ Ḏū al-Qarnayn",
+            "coord_lat": "38.57565",
+            "toponym_search": "Ribat Dhu al-Qarnayn",
+            "region_code": "Aqur",
+            "coord_lon": "40.56071",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.56071,
+            38.57565
+        ]
+    }
+}

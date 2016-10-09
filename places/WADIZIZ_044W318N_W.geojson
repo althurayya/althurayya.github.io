@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Zīz",
+            "cornu_URI": "WADIZIZ_044W318N_W",
+            "toponym_arabic": "وادي زيز",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Ziz",
+            "toponym_arabic_other": "وادي زيز",
+            "toponym_translit": "Wādī Zīz",
+            "coord_lat": "31.87198",
+            "toponym_search": "Wadi Ziz",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.48761",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.48761,
+            31.87198
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣarmanǧī, Ǧarmanqān",
+            "cornu_URI": "SARMANJI_674E376N_S",
+            "toponym_arabic": "صرمنجي",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Sarmanji, Jarmanqan",
+            "toponym_arabic_other": "صرمنجي، جرمنقان",
+            "toponym_translit": "Ṣarmanǧī",
+            "coord_lat": "37.60634",
+            "toponym_search": "Sarmanji, Jarmanqan",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.44155",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.44155,
+            37.60634
+        ]
+    }
+}

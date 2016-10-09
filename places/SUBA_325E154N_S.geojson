@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūbaŧ",
+            "cornu_URI": "SUBA_325E154N_S",
+            "toponym_arabic": "سوبة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Suba",
+            "toponym_arabic_other": "سوبة",
+            "toponym_translit": "Sūbaŧ",
+            "coord_lat": "15.48074",
+            "toponym_search": "Suba",
+            "region_code": "Egypt",
+            "coord_lon": "32.55275",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.55275,
+            15.48074
+        ]
+    }
+}

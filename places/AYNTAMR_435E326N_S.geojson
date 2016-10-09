@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001085-000.json": {
+                "title": "عين تمر",
+                "rate": 88,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAyn al-Tamr",
+            "cornu_URI": "AYNTAMR_435E326N_S",
+            "toponym_arabic": "عين التمر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ayn al-Tamr",
+            "toponym_arabic_other": "عين التمر",
+            "toponym_translit": "ʿAyn al-Tamr",
+            "coord_lat": "32.62337",
+            "toponym_search": "Ayn al-Tamr",
+            "region_code": "Iraq",
+            "coord_lon": "43.52574",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.52574,
+            32.62337
+        ]
+    }
+}

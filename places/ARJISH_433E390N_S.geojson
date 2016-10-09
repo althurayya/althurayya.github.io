@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arǧīš",
+            "cornu_URI": "ARJISH_433E390N_S",
+            "toponym_arabic": "أرجيش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arjish",
+            "toponym_arabic_other": "أرجيش",
+            "toponym_translit": "Arǧīš",
+            "coord_lat": "39.02230",
+            "toponym_search": "Arjish",
+            "region_code": "Rihab",
+            "coord_lon": "43.35895",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.35895,
+            39.0223
+        ]
+    }
+}

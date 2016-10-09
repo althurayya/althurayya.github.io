@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būzmāǧan",
+            "cornu_URI": "BUZMAJAN_673E397N_S",
+            "toponym_arabic": "بوزماجن",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Buzmajan",
+            "toponym_arabic_other": "بوزماجن",
+            "toponym_translit": "Būzmāǧan",
+            "coord_lat": "39.74445",
+            "toponym_search": "Buzmajan",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.32394",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.32394,
+            39.74445
+        ]
+    }
+}

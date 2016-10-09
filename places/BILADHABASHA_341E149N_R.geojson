@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bilād al-Ḥabašaŧ",
+            "cornu_URI": "BILADHABASHA_341E149N_R",
+            "toponym_arabic": "بلاد الحبشة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bilad al-Habasha",
+            "toponym_arabic_other": "بلاد الحبشة",
+            "toponym_translit": "Bilād al-Ḥabašaŧ",
+            "coord_lat": "14.94825",
+            "toponym_search": "Bilad al-Habasha",
+            "region_code": "Egypt",
+            "coord_lon": "34.14753",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.14753,
+            14.94825
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kašīd",
+            "cornu_URI": "KASHID_582E297N_S",
+            "toponym_arabic": "كشيد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kashid",
+            "toponym_arabic_other": "كشيد",
+            "toponym_translit": "Kašīd",
+            "coord_lat": "29.71534",
+            "toponym_search": "Kashid",
+            "region_code": "Kirman",
+            "coord_lon": "58.26785",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.26785,
+            29.71534
+        ]
+    }
+}

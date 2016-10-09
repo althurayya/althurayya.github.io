@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥarāz",
+            "cornu_URI": "HARAZ_437E150N_R",
+            "toponym_arabic": "حراز",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Haraz",
+            "toponym_arabic_other": "حراز",
+            "toponym_translit": "Ḥarāz",
+            "coord_lat": "15.06484",
+            "toponym_search": "Haraz",
+            "region_code": "Yemen",
+            "coord_lon": "43.71898",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.71898,
+            15.06484
+        ]
+    }
+}

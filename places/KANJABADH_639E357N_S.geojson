@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kanǧābāḏ",
+            "cornu_URI": "KANJABADH_639E357N_S",
+            "toponym_arabic": "كنجاباذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kanjabadh",
+            "toponym_arabic_other": "كنجاباذ",
+            "toponym_translit": "Kanǧābāḏ",
+            "coord_lat": "35.78873",
+            "toponym_search": "Kanjabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "63.98233",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.98233,
+            35.78873
+        ]
+    }
+}

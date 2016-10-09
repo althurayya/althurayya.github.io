@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧusadāʾ",
+            "cornu_URI": "JUSADA_427E195N_S",
+            "toponym_arabic": "جسداء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jusada",
+            "toponym_arabic_other": "جسداء",
+            "toponym_translit": "Ǧusadāʾ",
+            "coord_lat": "19.51994",
+            "toponym_search": "Jusada",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.71961",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.71961,
+            19.51994
+        ]
+    }
+}

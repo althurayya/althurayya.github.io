@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Urmiyyaŧ",
+            "cornu_URI": "BUHAYRAURMIYYA_453E377N_W",
+            "toponym_arabic": "بحيرة أرمية",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Urmiyya",
+            "toponym_arabic_other": "بحيرة أرمية",
+            "toponym_translit": "Buḥayraŧ Urmiyyaŧ",
+            "coord_lat": "37.70285",
+            "toponym_search": "Buhayra Urmiyya",
+            "region_code": "Rihab",
+            "coord_lon": "45.35353",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.35353,
+            37.70285
+        ]
+    }
+}

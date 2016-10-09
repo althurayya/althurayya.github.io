@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001541-000.json": {
+                "title": "نقموديه",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001223-000.json": {
+                "title": "قموده",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qamūdaŧ",
+            "cornu_URI": "QAMUDA_091E351N_R",
+            "toponym_arabic": "قمودة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qamuda",
+            "toponym_arabic_other": "قمودة",
+            "toponym_translit": "Qamūdaŧ",
+            "coord_lat": "35.15407",
+            "toponym_search": "Qamuda",
+            "region_code": "Maghrib",
+            "coord_lon": "9.13153",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13153,
+            35.15407
+        ]
+    }
+}

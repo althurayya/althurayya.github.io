@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Warwālīǧ, Walwālīz",
+            "cornu_URI": "WARWALIJ_688E367N_S",
+            "toponym_arabic": "ورواليج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Warwalij, Walwaliz",
+            "toponym_arabic_other": "ورواليج، ولواليز",
+            "toponym_translit": "Warwālīǧ",
+            "coord_lat": "36.78174",
+            "toponym_search": "Warwalij, Walwaliz",
+            "region_code": "Khurasan",
+            "coord_lon": "68.89729",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.89729,
+            36.78174
+        ]
+    }
+}

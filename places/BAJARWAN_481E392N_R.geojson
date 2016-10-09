@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000205-000.json": {
+                "title": "باجرا",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000206-000.json": {
+                "title": "باجروان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001501-000.json": {
+                "title": "موقان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāǧarwān, Mūqān, Mūġkān",
+            "cornu_URI": "BAJARWAN_481E392N_R",
+            "toponym_arabic": "باجروان",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Bajarwan, Muqan, Mughkan",
+            "toponym_arabic_other": "باجروان، موقان، موغكان",
+            "toponym_translit": "Bāǧarwān",
+            "coord_lat": "39.22560",
+            "toponym_search": "Bajarwan, Muqan, Mughkan",
+            "region_code": "Rihab",
+            "coord_lon": "48.12475",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.12475,
+            39.2256
+        ]
+    }
+}

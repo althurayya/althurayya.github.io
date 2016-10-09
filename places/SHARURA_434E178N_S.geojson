@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šarūraŧ",
+            "cornu_URI": "SHARURA_434E178N_S",
+            "toponym_arabic": "شرورة",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "Sharura",
+            "toponym_arabic_other": "شرورة",
+            "toponym_translit": "Šarūraŧ",
+            "coord_lat": "17.85975",
+            "toponym_search": "Sharura",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "43.43742",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.43742,
+            17.85975
+        ]
+    }
+}

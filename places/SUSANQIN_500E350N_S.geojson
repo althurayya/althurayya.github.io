@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūsanqīn, Sūsnaqīn, Sūnaqīn",
+            "cornu_URI": "SUSANQIN_500E350N_S",
+            "toponym_arabic": "سوسنقين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Susanqin, Susnaqin, Sunaqin",
+            "toponym_arabic_other": "سوسنقين، سوسنقين، سونقين",
+            "toponym_translit": "Sūsanqīn",
+            "coord_lat": "35.02740",
+            "toponym_search": "Susanqin, Susnaqin, Sunaqin",
+            "region_code": "Jibal",
+            "coord_lon": "50.02954",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.02954,
+            35.0274
+        ]
+    }
+}

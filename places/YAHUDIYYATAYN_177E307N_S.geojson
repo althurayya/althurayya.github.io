@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Yahūdiyyatayn",
+            "cornu_URI": "YAHUDIYYATAYN_177E307N_S",
+            "toponym_arabic": "اليهوديتين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Yahudiyyatayn",
+            "toponym_arabic_other": "اليهوديتين",
+            "toponym_translit": "al-Yahūdiyyatayn",
+            "coord_lat": "30.77615",
+            "toponym_search": "al-Yahudiyyatayn",
+            "region_code": "Barqa",
+            "coord_lon": "17.72231",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.72231,
+            30.77615
+        ]
+    }
+}

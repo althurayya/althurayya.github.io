@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Ziyād",
+            "cornu_URI": "HISNZIYAD_392E387N_S",
+            "toponym_arabic": "حصن زياد",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "Hisn Ziyad",
+            "toponym_arabic_other": "حصن زياد",
+            "toponym_translit": "Ḥiṣn Ziyād",
+            "coord_lat": "38.75874",
+            "toponym_search": "Hisn Ziyad",
+            "region_code": "Aqur",
+            "coord_lon": "39.22470",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.2247,
+            38.75874
+        ]
+    }
+}

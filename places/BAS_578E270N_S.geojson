@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000209-000.json": {
+                "title": "بادس",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bās",
+            "cornu_URI": "BAS_578E270N_S",
+            "toponym_arabic": "باس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bas",
+            "toponym_arabic_other": "باس",
+            "toponym_translit": "Bās",
+            "coord_lat": "27.01075",
+            "toponym_search": "Bas",
+            "region_code": "Kirman",
+            "coord_lon": "57.81535",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.81535,
+            27.01075
+        ]
+    }
+}

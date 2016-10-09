@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000354-000.json": {
+                "title": "تدمر",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000355-000.json": {
+                "title": "تدمير",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tudmīr",
+            "cornu_URI": "TUDMIR_013W379N_R",
+            "toponym_arabic": "تدمير",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Tudmir",
+            "toponym_arabic_other": "تدمير",
+            "toponym_translit": "Tudmīr",
+            "coord_lat": "37.95834",
+            "toponym_search": "Tudmir",
+            "region_code": "Andalus",
+            "coord_lon": "-1.34462",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.34462,
+            37.95834
+        ]
+    }
+}

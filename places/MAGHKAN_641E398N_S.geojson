@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maġkān, Muġkān",
+            "cornu_URI": "MAGHKAN_641E398N_S",
+            "toponym_arabic": "مغكان",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Maghkan, Mughkan",
+            "toponym_arabic_other": "مغكان، مغكان",
+            "toponym_translit": "Maġkān",
+            "coord_lat": "39.89235",
+            "toponym_search": "Maghkan, Mughkan",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.10801",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.10801,
+            39.89235
+        ]
+    }
+}

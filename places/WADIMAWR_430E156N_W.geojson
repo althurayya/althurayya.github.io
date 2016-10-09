@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Mawr",
+            "cornu_URI": "WADIMAWR_430E156N_W",
+            "toponym_arabic": "وادي مور",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Mawr",
+            "toponym_arabic_other": "وادي مور",
+            "toponym_translit": "Wādī Mawr",
+            "coord_lat": "15.67118",
+            "toponym_search": "Wadi Mawr",
+            "region_code": "Yemen",
+            "coord_lon": "43.01443",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.01443,
+            15.67118
+        ]
+    }
+}

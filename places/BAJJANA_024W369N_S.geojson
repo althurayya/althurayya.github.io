@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000218-000.json": {
+                "title": "بجانه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baǧǧānaŧ",
+            "cornu_URI": "BAJJANA_024W369N_S",
+            "toponym_arabic": "بجانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bajjana",
+            "toponym_arabic_other": "بجانة",
+            "toponym_translit": "Baǧǧānaŧ",
+            "coord_lat": "36.95657",
+            "toponym_search": "Bajjana",
+            "region_code": "Andalus",
+            "coord_lon": "-2.41826",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.41826,
+            36.95657
+        ]
+    }
+}

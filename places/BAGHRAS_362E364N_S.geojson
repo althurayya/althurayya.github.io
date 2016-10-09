@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baġrās",
+            "cornu_URI": "BAGHRAS_362E364N_S",
+            "toponym_arabic": "بغراس",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Baghras",
+            "toponym_arabic_other": "بغراس",
+            "toponym_translit": "Baġrās",
+            "coord_lat": "36.41518",
+            "toponym_search": "Baghras",
+            "region_code": "Sham",
+            "coord_lon": "36.22768",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.22768,
+            36.41518
+        ]
+    }
+}

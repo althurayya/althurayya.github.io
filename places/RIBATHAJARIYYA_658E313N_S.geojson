@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ al-Ḥaǧariyyaŧ",
+            "cornu_URI": "RIBATHAJARIYYA_658E313N_S",
+            "toponym_arabic": "رباط الحجرية",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat al-Hajariyya",
+            "toponym_arabic_other": "رباط الحجرية",
+            "toponym_translit": "Ribāṭ al-Ḥaǧariyyaŧ",
+            "coord_lat": "31.39074",
+            "toponym_search": "Ribat al-Hajariyya",
+            "region_code": "Sijistan",
+            "coord_lon": "65.88026",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.88026,
+            31.39074
+        ]
+    }
+}

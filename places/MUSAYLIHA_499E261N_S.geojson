@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Musayliḥaŧ",
+            "cornu_URI": "MUSAYLIHA_499E261N_S",
+            "toponym_arabic": "مسيلحة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Musayliha",
+            "toponym_arabic_other": "مسيلحة",
+            "toponym_translit": "Musayliḥaŧ",
+            "coord_lat": "26.18157",
+            "toponym_search": "Musayliha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "49.98216",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.98216,
+            26.18157
+        ]
+    }
+}

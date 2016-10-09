@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hinduwān, Hindīǧān",
+            "cornu_URI": "HINDUWAN_497E302N_S",
+            "toponym_arabic": "هندوان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hinduwan, Hindijan",
+            "toponym_arabic_other": "هندوان، هنديجان",
+            "toponym_translit": "Hinduwān",
+            "coord_lat": "30.25118",
+            "toponym_search": "Hinduwan, Hindijan",
+            "region_code": "Faris",
+            "coord_lon": "49.70675",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.70675,
+            30.25118
+        ]
+    }
+}

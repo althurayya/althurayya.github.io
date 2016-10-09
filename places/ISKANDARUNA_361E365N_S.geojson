@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000153-000.json": {
+                "title": "اسكندرونه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000152-000.json": {
+                "title": "اسكندريه",
+                "rate": 94,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iskandarūnaŧ, Iskandarīyaŧ",
+            "cornu_URI": "ISKANDARUNA_361E365N_S",
+            "toponym_arabic": "إسكندرونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Iskandaruna, Iskandariya",
+            "toponym_arabic_other": "إسكندرونة، إسكندريية",
+            "toponym_translit": "Iskandarūnaŧ",
+            "coord_lat": "36.57473",
+            "toponym_search": "Iskandaruna, Iskandariya",
+            "region_code": "Sham",
+            "coord_lon": "36.19234",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.19234,
+            36.57473
+        ]
+    }
+}

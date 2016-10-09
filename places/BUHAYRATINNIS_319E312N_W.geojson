@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Tinnīs",
+            "cornu_URI": "BUHAYRATINNIS_319E312N_W",
+            "toponym_arabic": "بحيرة تنيس",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Tinnis",
+            "toponym_arabic_other": "بحيرة تنيس",
+            "toponym_translit": "Buḥayraŧ Tinnīs",
+            "coord_lat": "31.25935",
+            "toponym_search": "Buhayra Tinnis",
+            "region_code": "Egypt",
+            "coord_lon": "31.99133",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.99133,
+            31.25935
+        ]
+    }
+}

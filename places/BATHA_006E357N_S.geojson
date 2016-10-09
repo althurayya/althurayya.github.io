@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000029-000.json": {
+                "title": "الابطح",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baṭḥaŧ",
+            "cornu_URI": "BATHA_006E357N_S",
+            "toponym_arabic": "البطحة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Batha",
+            "toponym_arabic_other": "البطحة",
+            "toponym_translit": "al-Baṭḥaŧ",
+            "coord_lat": "35.78297",
+            "toponym_search": "al-Batha",
+            "region_code": "Maghrib",
+            "coord_lon": "0.60289",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.60289,
+            35.78297
+        ]
+    }
+}

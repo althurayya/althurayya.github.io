@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būmīnaŧ, Būmīná",
+            "cornu_URI": "BUMINA_297E309N_S",
+            "toponym_arabic": "بومينة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bumina, Bumina",
+            "toponym_arabic_other": "بومينة، بومينى",
+            "toponym_translit": "Būmīnaŧ",
+            "coord_lat": "30.93264",
+            "toponym_search": "Bumina, Bumina",
+            "region_code": "Egypt",
+            "coord_lon": "29.71572",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.71572,
+            30.93264
+        ]
+    }
+}

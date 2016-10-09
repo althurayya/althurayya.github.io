@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Lāhūn",
+            "cornu_URI": "LAHUN_309E292N_S",
+            "toponym_arabic": "اللاهون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Lahun",
+            "toponym_arabic_other": "اللاهون",
+            "toponym_translit": "al-Lāhūn",
+            "coord_lat": "29.24901",
+            "toponym_search": "al-Lahun",
+            "region_code": "Egypt",
+            "coord_lon": "30.99122",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.99122,
+            29.24901
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kafarsābā",
+            "cornu_URI": "KAFARSABA_348E321N_S",
+            "toponym_arabic": "كفرسابا",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Kafarsaba",
+            "toponym_arabic_other": "كفرسابا",
+            "toponym_translit": "Kafarsābā",
+            "coord_lat": "32.17778",
+            "toponym_search": "Kafarsaba",
+            "region_code": "Sham",
+            "coord_lon": "34.88134",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.88134,
+            32.17778
+        ]
+    }
+}

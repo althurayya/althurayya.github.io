@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Karyūn, Kiryawn",
+            "cornu_URI": "KARYUN_301E311N_S",
+            "toponym_arabic": "الكريون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Karyun, Kiryawn",
+            "toponym_arabic_other": "الكريون، كريون",
+            "toponym_translit": "al-Karyūn",
+            "coord_lat": "31.14286",
+            "toponym_search": "al-Karyun, Kiryawn",
+            "region_code": "Egypt",
+            "coord_lon": "30.13142",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.13142,
+            31.14286
+        ]
+    }
+}

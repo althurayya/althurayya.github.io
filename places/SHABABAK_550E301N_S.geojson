@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šābābak, Šābāwak, Šahrbābāk",
+            "cornu_URI": "SHABABAK_550E301N_S",
+            "toponym_arabic": "شابابك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shababak, Shabawak, Shahrbabak",
+            "toponym_arabic_other": "شابابك، شاباوك، شهرباباك",
+            "toponym_translit": "Šābābak",
+            "coord_lat": "30.13418",
+            "toponym_search": "Shababak, Shabawak, Shahrbabak",
+            "region_code": "Faris",
+            "coord_lon": "55.05872",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.05872,
+            30.13418
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001126-000.json": {
+                "title": "فاس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001119-000.json": {
+                "title": "فارس",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fās",
+            "cornu_URI": "FAS_050W340N_S",
+            "toponym_arabic": "فاس",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Fas",
+            "toponym_arabic_other": "فاس",
+            "toponym_translit": "Fās",
+            "coord_lat": "34.06727",
+            "toponym_search": "Fas",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.02852",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.02852,
+            34.06727
+        ]
+    }
+}

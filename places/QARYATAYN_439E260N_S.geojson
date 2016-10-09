@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaryatayn",
+            "cornu_URI": "QARYATAYN_439E260N_S",
+            "toponym_arabic": "القريتين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qaryatayn",
+            "toponym_arabic_other": "القريتين",
+            "toponym_translit": "al-Qaryatayn",
+            "coord_lat": "26.08634",
+            "toponym_search": "al-Qaryatayn",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.92995",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.92995,
+            26.08634
+        ]
+    }
+}

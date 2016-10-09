@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qanṭaraŧ al-Nuʿmān",
+            "cornu_URI": "QANTARANUMAN_476E344N_S",
+            "toponym_arabic": "قنطرة النعمان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qantara al-Numan",
+            "toponym_arabic_other": "قنطرة النعمان",
+            "toponym_translit": "Qanṭaraŧ al-Nuʿmān",
+            "coord_lat": "34.46868",
+            "toponym_search": "Qantara al-Numan",
+            "region_code": "Jibal",
+            "coord_lon": "47.65232",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.65232,
+            34.46868
+        ]
+    }
+}

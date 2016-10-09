@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūbāraŧ",
+            "cornu_URI": "SUBARA_729E195N_S",
+            "toponym_arabic": "سوبارة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Subara",
+            "toponym_arabic_other": "سوبارة",
+            "toponym_translit": "Sūbāraŧ",
+            "coord_lat": "19.52404",
+            "toponym_search": "Subara",
+            "region_code": "Sind",
+            "coord_lon": "72.95093",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.95093,
+            19.52404
+        ]
+    }
+}

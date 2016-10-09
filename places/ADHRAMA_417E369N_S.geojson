@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḏramaŧ",
+            "cornu_URI": "ADHRAMA_417E369N_S",
+            "toponym_arabic": "أذرمة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Adhrama",
+            "toponym_arabic_other": "أذرمة",
+            "toponym_translit": "Aḏramaŧ",
+            "coord_lat": "36.99109",
+            "toponym_search": "Adhrama",
+            "region_code": "Aqur",
+            "coord_lon": "41.72002",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.72002,
+            36.99109
+        ]
+    }
+}

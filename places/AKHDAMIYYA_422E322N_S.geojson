@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aḫdamiyyaŧ",
+            "cornu_URI": "AKHDAMIYYA_422E322N_S",
+            "toponym_arabic": "الأخدمية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Akhdamiyya",
+            "toponym_arabic_other": "الأخدمية",
+            "toponym_translit": "al-Aḫdamiyyaŧ",
+            "coord_lat": "32.28927",
+            "toponym_search": "al-Akhdamiyya",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.23928",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.23928,
+            32.28927
+        ]
+    }
+}

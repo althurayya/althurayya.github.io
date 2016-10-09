@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000739-000.json": {
+                "title": "زباله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zubālaŧ",
+            "cornu_URI": "ZUBALA_435E294N_S",
+            "toponym_arabic": "زبالة",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "Zubala",
+            "toponym_arabic_other": "زبالة",
+            "toponym_translit": "Zubālaŧ",
+            "coord_lat": "29.40521",
+            "toponym_search": "Zubala",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.56390",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.5639,
+            29.40521
+        ]
+    }
+}

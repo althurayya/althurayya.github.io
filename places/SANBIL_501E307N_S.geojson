@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sanbīl, Sūq Sanbīl",
+            "cornu_URI": "SANBIL_501E307N_S",
+            "toponym_arabic": "سنبيل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sanbil, Suq Sanbil",
+            "toponym_arabic_other": "سنبيل، سوق سنبيل",
+            "toponym_translit": "Sanbīl",
+            "coord_lat": "30.72440",
+            "toponym_search": "Sanbil, Suq Sanbil",
+            "region_code": "Khuzistan",
+            "coord_lon": "50.14499",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.14499,
+            30.7244
+        ]
+    }
+}

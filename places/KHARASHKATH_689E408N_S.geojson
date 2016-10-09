@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫaraškaṯ",
+            "cornu_URI": "KHARASHKATH_689E408N_S",
+            "toponym_arabic": "خرشكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kharashkath",
+            "toponym_arabic_other": "خرشكث",
+            "toponym_translit": "Ḫaraškaṯ",
+            "coord_lat": "40.80598",
+            "toponym_search": "Kharashkath",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.90655",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.90655,
+            40.80598
+        ]
+    }
+}

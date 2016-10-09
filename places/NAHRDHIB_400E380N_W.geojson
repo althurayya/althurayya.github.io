@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Ḏīb, Nahr al-Kilāb",
+            "cornu_URI": "NAHRDHIB_400E380N_W",
+            "toponym_arabic": "نهر الذيب",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Dhib, Nahr al-Kilab",
+            "toponym_arabic_other": "نهر الذيب، نهر الكلاب",
+            "toponym_translit": "Nahr al-Ḏīb",
+            "coord_lat": "38.07602",
+            "toponym_search": "Nahr al-Dhib, Nahr al-Kilab",
+            "region_code": "Aqur",
+            "coord_lon": "40.08449",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.08449,
+            38.07602
+        ]
+    }
+}

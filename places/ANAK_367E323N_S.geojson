@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aʿnak",
+            "cornu_URI": "ANAK_367E323N_S",
+            "toponym_arabic": "الأعنك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Anak",
+            "toponym_arabic_other": "الأعنك",
+            "toponym_translit": "al-Aʿnak",
+            "coord_lat": "32.31179",
+            "toponym_search": "al-Anak",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "36.79381",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.79381,
+            32.31179
+        ]
+    }
+}

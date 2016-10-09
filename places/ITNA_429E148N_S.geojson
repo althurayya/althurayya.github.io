@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿIṭnaŧ",
+            "cornu_URI": "ITNA_429E148N_S",
+            "toponym_arabic": "عطنة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Itna",
+            "toponym_arabic_other": "عطنة",
+            "toponym_translit": "ʿIṭnaŧ",
+            "coord_lat": "14.82308",
+            "toponym_search": "Itna",
+            "region_code": "Yemen",
+            "coord_lon": "42.94507",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.94507,
+            14.82308
+        ]
+    }
+}

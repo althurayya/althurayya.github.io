@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūlān",
+            "cornu_URI": "KULAN_729E428N_S",
+            "toponym_arabic": "كولان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kulan",
+            "toponym_arabic_other": "كولان",
+            "toponym_translit": "Kūlān",
+            "coord_lat": "42.87068",
+            "toponym_search": "Kulan",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.94179",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.94179,
+            42.87068
+        ]
+    }
+}

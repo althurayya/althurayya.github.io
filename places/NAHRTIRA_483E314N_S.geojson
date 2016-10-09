@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001546-000.json": {
+                "title": "نهر تيري",
+                "rate": 94,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Tīrā, Nahr Tīrīn",
+            "cornu_URI": "NAHRTIRA_483E314N_S",
+            "toponym_arabic": "نهر تيرا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nahr Tira, Nahr Tirin",
+            "toponym_arabic_other": "نهر تيرا، نهر تيرين",
+            "toponym_translit": "Nahr Tīrā",
+            "coord_lat": "31.46790",
+            "toponym_search": "Nahr Tira, Nahr Tirin",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.38090",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.3809,
+            31.4679
+        ]
+    }
+}

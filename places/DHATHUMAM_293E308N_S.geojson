@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏāt al-Ḥumām, Ḏāt al-Ḥammām",
+            "cornu_URI": "DHATHUMAM_293E308N_S",
+            "toponym_arabic": "ذات الحمام",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dhat al-Humam, Dhat al-Hammam",
+            "toponym_arabic_other": "ذات الحمام، ذات الحمام",
+            "toponym_translit": "Ḏāt al-Ḥumām",
+            "coord_lat": "30.86496",
+            "toponym_search": "Dhat al-Humam, Dhat al-Hammam",
+            "region_code": "Barqa",
+            "coord_lon": "29.30208",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.30208,
+            30.86496
+        ]
+    }
+}

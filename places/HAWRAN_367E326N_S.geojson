@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000672-000.json": {
+                "title": "الران",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000538-000.json": {
+                "title": "حوران",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000536-000.json": {
+                "title": "الحوراء",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥawrān",
+            "cornu_URI": "HAWRAN_367E326N_S",
+            "toponym_arabic": "الحوران",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "al-Hawran",
+            "toponym_arabic_other": "الحوران",
+            "toponym_translit": "al-Ḥawrān",
+            "coord_lat": "32.65059",
+            "toponym_search": "al-Hawran",
+            "region_code": "Sham",
+            "coord_lon": "36.73153",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.73153,
+            32.65059
+        ]
+    }
+}

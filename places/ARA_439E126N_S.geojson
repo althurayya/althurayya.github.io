@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿĀraŧ",
+            "cornu_URI": "ARA_439E126N_S",
+            "toponym_arabic": "عارة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ara",
+            "toponym_arabic_other": "عارة",
+            "toponym_translit": "ʿĀraŧ",
+            "coord_lat": "12.66455",
+            "toponym_search": "Ara",
+            "region_code": "Yemen",
+            "coord_lon": "43.91477",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.91477,
+            12.66455
+        ]
+    }
+}

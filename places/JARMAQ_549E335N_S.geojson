@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarmaq",
+            "cornu_URI": "JARMAQ_549E335N_S",
+            "toponym_arabic": "جرمق",
+            "top_type_orig": "relais",
+            "toponym_buckwalter": "Jarmaq",
+            "toponym_arabic_other": "جرمق",
+            "toponym_translit": "Ǧarmaq",
+            "coord_lat": "33.55385",
+            "toponym_search": "Jarmaq",
+            "region_code": "Mafaza",
+            "coord_lon": "54.93672",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.93672,
+            33.55385
+        ]
+    }
+}

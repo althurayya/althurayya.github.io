@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fāqūs",
+            "cornu_URI": "FAQUS_317E307N_S",
+            "toponym_arabic": "فاقوس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Faqus",
+            "toponym_arabic_other": "فاقوس",
+            "toponym_translit": "Fāqūs",
+            "coord_lat": "30.71061",
+            "toponym_search": "Faqus",
+            "region_code": "Egypt",
+            "coord_lon": "31.79581",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.79581,
+            30.71061
+        ]
+    }
+}

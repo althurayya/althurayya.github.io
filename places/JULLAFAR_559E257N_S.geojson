@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧullafār",
+            "cornu_URI": "JULLAFAR_559E257N_S",
+            "toponym_arabic": "جلفار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jullafar",
+            "toponym_arabic_other": "جلفار",
+            "toponym_translit": "Ǧullafār",
+            "coord_lat": "25.75227",
+            "toponym_search": "Jullafar",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "55.98855",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.98855,
+            25.75227
+        ]
+    }
+}

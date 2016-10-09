@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000321-000.json": {
+                "title": "بياسه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayyāsaŧ",
+            "cornu_URI": "BAYYASA_034W379N_S",
+            "toponym_arabic": "بياسة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bayyasa",
+            "toponym_arabic_other": "بياسة",
+            "toponym_translit": "Bayyāsaŧ",
+            "coord_lat": "37.99980",
+            "toponym_search": "Bayyasa",
+            "region_code": "Andalus",
+            "coord_lon": "-3.45773",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.45773,
+            37.9998
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Ḫātūniyyaŧ",
+            "cornu_URI": "BUHAYRAKHATUNIYYA_412E363N_W",
+            "toponym_arabic": "بحيرة خاتونية",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Khatuniyya",
+            "toponym_arabic_other": "بحيرة خاتونية",
+            "toponym_translit": "Buḥayraŧ Ḫātūniyyaŧ",
+            "coord_lat": "36.38728",
+            "toponym_search": "Buhayra Khatuniyya",
+            "region_code": "Aqur",
+            "coord_lon": "41.25352",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.25352,
+            36.38728
+        ]
+    }
+}

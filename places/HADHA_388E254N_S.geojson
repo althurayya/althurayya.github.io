@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥaḏaŧ",
+            "cornu_URI": "HADHA_388E254N_S",
+            "toponym_arabic": "حذة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hadha",
+            "toponym_arabic_other": "حذة",
+            "toponym_translit": "Ḥaḏaŧ",
+            "coord_lat": "25.46077",
+            "toponym_search": "Hadha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "38.85976",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.85976,
+            25.46077
+        ]
+    }
+}

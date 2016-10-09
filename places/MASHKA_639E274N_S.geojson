@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mašká, Maškī",
+            "cornu_URI": "MASHKA_639E274N_S",
+            "toponym_arabic": "مشكى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mashka, Mashki",
+            "toponym_arabic_other": "مشكى، مشكي",
+            "toponym_translit": "Mašká",
+            "coord_lat": "27.46467",
+            "toponym_search": "Mashka, Mashki",
+            "region_code": "Sind",
+            "coord_lon": "63.94609",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.94609,
+            27.46467
+        ]
+    }
+}

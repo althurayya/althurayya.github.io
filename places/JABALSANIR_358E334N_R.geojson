@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Sanīr",
+            "cornu_URI": "JABALSANIR_358E334N_R",
+            "toponym_arabic": "جبل سنير",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jabal Sanir",
+            "toponym_arabic_other": "جبل سنير",
+            "toponym_translit": "Ǧabal Sanīr",
+            "coord_lat": "33.45826",
+            "toponym_search": "Jabal Sanir",
+            "region_code": "Sham",
+            "coord_lon": "35.81024",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.81024,
+            33.45826
+        ]
+    }
+}

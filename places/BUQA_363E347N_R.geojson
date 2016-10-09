@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būqā",
+            "cornu_URI": "BUQA_363E347N_R",
+            "toponym_arabic": "بوقا",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Buqa",
+            "toponym_arabic_other": "بوقا",
+            "toponym_translit": "Būqā",
+            "coord_lat": "34.71618",
+            "toponym_search": "Buqa",
+            "region_code": "Sham",
+            "coord_lon": "36.32185",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.32185,
+            34.71618
+        ]
+    }
+}

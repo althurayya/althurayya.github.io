@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baǧānāk, al-Baǧānākiyyaŧ",
+            "cornu_URI": "BAJANAK_408E486N_R",
+            "toponym_arabic": "البجاناك",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Bajanak, al-Bajanakiyya",
+            "toponym_arabic_other": "البجاناك، البجاناكية",
+            "toponym_translit": "al-Baǧānāk",
+            "coord_lat": "48.61696",
+            "toponym_search": "al-Bajanak, al-Bajanakiyya",
+            "region_code": "Khazar",
+            "coord_lon": "40.89460",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.8946,
+            48.61696
+        ]
+    }
+}

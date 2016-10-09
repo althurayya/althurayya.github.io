@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣarāš",
+            "cornu_URI": "QASARASH_063W394N_S",
+            "toponym_arabic": "قصراش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qasarash",
+            "toponym_arabic_other": "قصراش",
+            "toponym_translit": "Qaṣarāš",
+            "coord_lat": "39.46953",
+            "toponym_search": "Qasarash",
+            "region_code": "Andalus",
+            "coord_lon": "-6.39540",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.3954,
+            39.46953
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarmǧuwī",
+            "cornu_URI": "JARMJUWI_540E359N_S",
+            "toponym_arabic": "جرمجوي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jarmjuwi",
+            "toponym_arabic_other": "جرمجوي",
+            "toponym_translit": "Ǧarmǧuwī",
+            "coord_lat": "35.97336",
+            "toponym_search": "Jarmjuwi",
+            "region_code": "Daylam",
+            "coord_lon": "54.04249",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.04249,
+            35.97336
+        ]
+    }
+}

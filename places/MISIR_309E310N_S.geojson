@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Misīr",
+            "cornu_URI": "MISIR_309E310N_S",
+            "toponym_arabic": "مسير",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Misir",
+            "toponym_arabic_other": "مسير",
+            "toponym_translit": "Misīr",
+            "coord_lat": "31.05159",
+            "toponym_search": "Misir",
+            "region_code": "Egypt",
+            "coord_lon": "30.97785",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.97785,
+            31.05159
+        ]
+    }
+}

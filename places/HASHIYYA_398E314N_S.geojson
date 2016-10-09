@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥašiyyaŧ",
+            "cornu_URI": "HASHIYYA_398E314N_S",
+            "toponym_arabic": "الحشية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Hashiyya",
+            "toponym_arabic_other": "الحشية",
+            "toponym_translit": "al-Ḥašiyyaŧ",
+            "coord_lat": "31.43199",
+            "toponym_search": "al-Hashiyya",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "39.82192",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.82192,
+            31.43199
+        ]
+    }
+}

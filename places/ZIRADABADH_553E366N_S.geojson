@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ziradābāḏ, Zirdābāḏ",
+            "cornu_URI": "ZIRADABADH_553E366N_S",
+            "toponym_arabic": "زرداباذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ziradabadh, Zirdabadh",
+            "toponym_arabic_other": "زرداباذ، زرداباذ",
+            "toponym_translit": "Ziradābāḏ",
+            "coord_lat": "36.65798",
+            "toponym_search": "Ziradabadh, Zirdabadh",
+            "region_code": "Daylam",
+            "coord_lon": "55.30802",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.30802,
+            36.65798
+        ]
+    }
+}

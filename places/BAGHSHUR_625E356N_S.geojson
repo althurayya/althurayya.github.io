@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baġšūr",
+            "cornu_URI": "BAGHSHUR_625E356N_S",
+            "toponym_arabic": "بغشور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baghshur",
+            "toponym_arabic_other": "بغشور",
+            "toponym_translit": "Baġšūr",
+            "coord_lat": "35.60846",
+            "toponym_search": "Baghshur",
+            "region_code": "Khurasan",
+            "coord_lon": "62.54722",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.54722,
+            35.60846
+        ]
+    }
+}

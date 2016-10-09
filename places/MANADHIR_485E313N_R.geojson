@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001453-000.json": {
+                "title": "مناذر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manāḏir",
+            "cornu_URI": "MANADHIR_485E313N_R",
+            "toponym_arabic": "مناذر",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Manadhir",
+            "toponym_arabic_other": "مناذر",
+            "toponym_translit": "Manāḏir",
+            "coord_lat": "31.39058",
+            "toponym_search": "Manadhir",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.53345",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.53345,
+            31.39058
+        ]
+    }
+}

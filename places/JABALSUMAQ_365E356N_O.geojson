@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal al-Sumāq",
+            "cornu_URI": "JABALSUMAQ_365E356N_O",
+            "toponym_arabic": "جبل السماق",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal al-Sumaq",
+            "toponym_arabic_other": "جبل السماق",
+            "toponym_translit": "Ǧabal al-Sumāq",
+            "coord_lat": "35.66884",
+            "toponym_search": "Jabal al-Sumaq",
+            "region_code": "Sham",
+            "coord_lon": "36.58384",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.58384,
+            35.66884
+        ]
+    }
+}

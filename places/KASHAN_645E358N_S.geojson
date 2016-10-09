@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kasḥān",
+            "cornu_URI": "KASHAN_645E358N_S",
+            "toponym_arabic": "كسحان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kashan",
+            "toponym_arabic_other": "كسحان",
+            "toponym_translit": "Kasḥān",
+            "coord_lat": "35.88354",
+            "toponym_search": "Kashan",
+            "region_code": "Khurasan",
+            "coord_lon": "64.54957",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.54957,
+            35.88354
+        ]
+    }
+}

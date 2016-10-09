@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qulayb al-`Ummāl",
+            "cornu_URI": "QULAYBUMMAL_308E308N_S",
+            "toponym_arabic": "قليب العمال",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qulayb al-Ummal",
+            "toponym_arabic_other": "قليب العمال",
+            "toponym_translit": "Qulayb al-`Ummāl",
+            "coord_lat": "30.86818",
+            "toponym_search": "Qulayb al-Ummal",
+            "region_code": "Egypt",
+            "coord_lon": "30.82245",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.82245,
+            30.86818
+        ]
+    }
+}

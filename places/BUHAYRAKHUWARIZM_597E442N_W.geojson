@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Ḫuwārizm",
+            "cornu_URI": "BUHAYRAKHUWARIZM_597E442N_W",
+            "toponym_arabic": "بحيرة خوارزم",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Khuwarizm",
+            "toponym_arabic_other": "بحيرة خوارزم",
+            "toponym_translit": "Buḥayraŧ Ḫuwārizm",
+            "coord_lat": "44.26024",
+            "toponym_search": "Buhayra Khuwarizm",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.76477",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.76477,
+            44.26024
+        ]
+    }
+}

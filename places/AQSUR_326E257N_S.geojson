@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aqṣūr",
+            "cornu_URI": "AQSUR_326E257N_S",
+            "toponym_arabic": "الأقصور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Aqsur",
+            "toponym_arabic_other": "الأقصور",
+            "toponym_translit": "al-Aqṣūr",
+            "coord_lat": "25.72063",
+            "toponym_search": "al-Aqsur",
+            "region_code": "Egypt",
+            "coord_lon": "32.61253",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.61253,
+            25.72063
+        ]
+    }
+}

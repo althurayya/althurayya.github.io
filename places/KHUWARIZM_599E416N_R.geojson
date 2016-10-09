@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000579-000.json": {
+                "title": "خوارزم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫuwārizm",
+            "cornu_URI": "KHUWARIZM_599E416N_R",
+            "toponym_arabic": "خوارزم",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Khuwarizm",
+            "toponym_arabic_other": "خوارزم",
+            "toponym_translit": "Ḫuwārizm",
+            "coord_lat": "41.65733",
+            "toponym_search": "Khuwarizm",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.97545",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.97545,
+            41.65733
+        ]
+    }
+}

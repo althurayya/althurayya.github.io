@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Ṭuġān",
+            "cornu_URI": "RIBATTUGHAN_628E401N_S",
+            "toponym_arabic": "رباط طغان",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Tughan",
+            "toponym_arabic_other": "رباط طغان",
+            "toponym_translit": "Ribāṭ Ṭuġān",
+            "coord_lat": "40.18541",
+            "toponym_search": "Ribat Tughan",
+            "region_code": "Transoxiana",
+            "coord_lon": "62.82511",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.82511,
+            40.18541
+        ]
+    }
+}

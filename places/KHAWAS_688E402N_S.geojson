@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫāwaṣ, Ḥāwas",
+            "cornu_URI": "KHAWAS_688E402N_S",
+            "toponym_arabic": "خاوص",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Khawas, Hawas",
+            "toponym_arabic_other": "خاوص، حاوس",
+            "toponym_translit": "Ḫāwaṣ",
+            "coord_lat": "40.22314",
+            "toponym_search": "Khawas, Hawas",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.82906",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.82906,
+            40.22314
+        ]
+    }
+}

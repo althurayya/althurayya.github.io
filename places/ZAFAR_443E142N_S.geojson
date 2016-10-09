@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001024-000.json": {
+                "title": "ظفار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ẓafār",
+            "cornu_URI": "ZAFAR_443E142N_S",
+            "toponym_arabic": "ظفار",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Zafar",
+            "toponym_arabic_other": "ظفار",
+            "toponym_translit": "Ẓafār",
+            "coord_lat": "14.23881",
+            "toponym_search": "Zafar",
+            "region_code": "Yemen",
+            "coord_lon": "44.38227",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.38227,
+            14.23881
+        ]
+    }
+}

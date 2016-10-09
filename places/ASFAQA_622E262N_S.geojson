@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṣfaqaŧ",
+            "cornu_URI": "ASFAQA_622E262N_S",
+            "toponym_arabic": "أصفقة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asfaqa",
+            "toponym_arabic_other": "أصفقة",
+            "toponym_translit": "Aṣfaqaŧ",
+            "coord_lat": "26.24757",
+            "toponym_search": "Asfaqa",
+            "region_code": "Sind",
+            "coord_lon": "62.20454",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.20454,
+            26.24757
+        ]
+    }
+}

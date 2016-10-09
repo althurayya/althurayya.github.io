@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banhā al-ʿAsal",
+            "cornu_URI": "BANHAASAL_311E304N_S",
+            "toponym_arabic": "بنها العسل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Banha al-Asal",
+            "toponym_arabic_other": "بنها العسل",
+            "toponym_translit": "Banhā al-ʿAsal",
+            "coord_lat": "30.43641",
+            "toponym_search": "Banha al-Asal",
+            "region_code": "Egypt",
+            "coord_lon": "31.16142",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.16142,
+            30.43641
+        ]
+    }
+}

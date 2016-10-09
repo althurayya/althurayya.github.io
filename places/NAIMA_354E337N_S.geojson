@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nāʿimaŧ",
+            "cornu_URI": "NAIMA_354E337N_S",
+            "toponym_arabic": "الناعمة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Naima",
+            "toponym_arabic_other": "الناعمة",
+            "toponym_translit": "al-Nāʿimaŧ",
+            "coord_lat": "33.77683",
+            "toponym_search": "al-Naima",
+            "region_code": "Sham",
+            "coord_lon": "35.46741",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.46741,
+            33.77683
+        ]
+    }
+}

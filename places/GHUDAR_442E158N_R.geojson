@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001097-000.json": {
+                "title": "الغدير",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġudar",
+            "cornu_URI": "GHUDAR_442E158N_R",
+            "toponym_arabic": "الغدر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Ghudar",
+            "toponym_arabic_other": "الغدر",
+            "toponym_translit": "al-Ġudar",
+            "coord_lat": "15.88071",
+            "toponym_search": "al-Ghudar",
+            "region_code": "Yemen",
+            "coord_lon": "44.26507",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.26507,
+            15.88071
+        ]
+    }
+}

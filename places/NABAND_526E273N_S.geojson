@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nāband",
+            "cornu_URI": "NABAND_526E273N_S",
+            "toponym_arabic": "نابند",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Naband",
+            "toponym_arabic_other": "نابند",
+            "toponym_translit": "Nāband",
+            "coord_lat": "27.34352",
+            "toponym_search": "Naband",
+            "region_code": "Faris",
+            "coord_lon": "52.64171",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.64171,
+            27.34352
+        ]
+    }
+}

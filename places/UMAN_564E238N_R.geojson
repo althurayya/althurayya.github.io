@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001057-000.json": {
+                "title": "عمان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001058-000.json": {
+                "title": "عمان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿUmān",
+            "cornu_URI": "UMAN_564E238N_R",
+            "toponym_arabic": "عمان",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Uman",
+            "toponym_arabic_other": "عمان",
+            "toponym_translit": "ʿUmān",
+            "coord_lat": "23.82088",
+            "toponym_search": "Uman",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "56.45284",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.45284,
+            23.82088
+        ]
+    }
+}

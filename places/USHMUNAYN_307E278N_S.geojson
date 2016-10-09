@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ušmūnayn",
+            "cornu_URI": "USHMUNAYN_307E278N_S",
+            "toponym_arabic": "الأشمونين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Ushmunayn",
+            "toponym_arabic_other": "الأشمونين",
+            "toponym_translit": "al-Ušmūnayn",
+            "coord_lat": "27.85616",
+            "toponym_search": "al-Ushmunayn",
+            "region_code": "Egypt",
+            "coord_lon": "30.75576",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.75576,
+            27.85616
+        ]
+    }
+}

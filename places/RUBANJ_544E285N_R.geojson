@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rūbanǧ",
+            "cornu_URI": "RUBANJ_544E285N_R",
+            "toponym_arabic": "روبنج",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Rubanj",
+            "toponym_arabic_other": "روبنج",
+            "toponym_translit": "Rūbanǧ",
+            "coord_lat": "28.51610",
+            "toponym_search": "Rubanj",
+            "region_code": "Faris",
+            "coord_lon": "54.40794",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.40794,
+            28.5161
+        ]
+    }
+}

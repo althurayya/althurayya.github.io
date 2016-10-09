@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000762-000.json": {
+                "title": "الزبداني",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zabadānī",
+            "cornu_URI": "ZABADANI_360E337N_S",
+            "toponym_arabic": "زبداني",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Zabadani",
+            "toponym_arabic_other": "زبداني",
+            "toponym_translit": "Zabadānī",
+            "coord_lat": "33.73115",
+            "toponym_search": "Zabadani",
+            "region_code": "Sham",
+            "coord_lon": "36.08756",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.08756,
+            33.73115
+        ]
+    }
+}

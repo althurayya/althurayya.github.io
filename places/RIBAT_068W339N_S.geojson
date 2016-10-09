@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ",
+            "cornu_URI": "RIBAT_068W339N_S",
+            "toponym_arabic": "رباط",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ribat",
+            "toponym_arabic_other": "رباط",
+            "toponym_translit": "Ribāṭ",
+            "coord_lat": "33.99489",
+            "toponym_search": "Ribat",
+            "region_code": "Maghrib",
+            "coord_lon": "-6.88943",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.88943,
+            33.99489
+        ]
+    }
+}

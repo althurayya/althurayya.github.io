@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Farhākird",
+            "cornu_URI": "FARHAKIRD_595E357N_S",
+            "toponym_arabic": "فرهاكرد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Farhakird",
+            "toponym_arabic_other": "فرهاكرد",
+            "toponym_translit": "Farhākird",
+            "coord_lat": "35.78200",
+            "toponym_search": "Farhakird",
+            "region_code": "Khurasan",
+            "coord_lon": "59.56978",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.56978,
+            35.782
+        ]
+    }
+}

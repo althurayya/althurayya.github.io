@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fahl",
+            "cornu_URI": "FAHL_356E324N_R",
+            "toponym_arabic": "فهل",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Fahl",
+            "toponym_arabic_other": "فهل",
+            "toponym_translit": "Fahl",
+            "coord_lat": "32.43634",
+            "toponym_search": "Fahl",
+            "region_code": "Sham",
+            "coord_lon": "35.61434",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.61434,
+            32.43634
+        ]
+    }
+}

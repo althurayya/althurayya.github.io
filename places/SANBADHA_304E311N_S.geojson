@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sanbāḏaŧ",
+            "cornu_URI": "SANBADHA_304E311N_S",
+            "toponym_arabic": "سنباذة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sanbadha",
+            "toponym_arabic_other": "سنباذة",
+            "toponym_translit": "Sanbāḏaŧ",
+            "coord_lat": "31.19071",
+            "toponym_search": "Sanbadha",
+            "region_code": "Egypt",
+            "coord_lon": "30.47267",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.47267,
+            31.19071
+        ]
+    }
+}

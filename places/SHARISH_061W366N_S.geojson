@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šarīš",
+            "cornu_URI": "SHARISH_061W366N_S",
+            "toponym_arabic": "شريش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sharish",
+            "toponym_arabic_other": "شريش",
+            "toponym_translit": "Šarīš",
+            "coord_lat": "36.69169",
+            "toponym_search": "Sharish",
+            "region_code": "Andalus",
+            "coord_lon": "-6.10856",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.10856,
+            36.69169
+        ]
+    }
+}

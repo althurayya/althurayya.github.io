@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarūzan, Šarūzan",
+            "cornu_URI": "SARUZAN_621E311N_S",
+            "toponym_arabic": "سروزن",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Saruzan, Sharuzan",
+            "toponym_arabic_other": "سروزن، شروزن",
+            "toponym_translit": "Sarūzan",
+            "coord_lat": "31.14385",
+            "toponym_search": "Saruzan, Sharuzan",
+            "region_code": "Sijistan",
+            "coord_lon": "62.17057",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.17057,
+            31.14385
+        ]
+    }
+}

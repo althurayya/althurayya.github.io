@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḏar",
+            "cornu_URI": "MADHAR_678E353N_S",
+            "toponym_arabic": "مذر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Madhar",
+            "toponym_arabic_other": "مذر",
+            "toponym_translit": "Maḏar",
+            "coord_lat": "35.38044",
+            "toponym_search": "Madhar",
+            "region_code": "Khurasan",
+            "coord_lon": "67.85287",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.85287,
+            35.38044
+        ]
+    }
+}

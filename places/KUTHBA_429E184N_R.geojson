@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kuṯbaŧ, Kuṯnaŧ",
+            "cornu_URI": "KUTHBA_429E184N_R",
+            "toponym_arabic": "كثبة",
+            "top_type_orig": "mikhlaf",
+            "toponym_buckwalter": "Kuthba, Kuthna",
+            "toponym_arabic_other": "كثبة، كثنة",
+            "toponym_translit": "Kuṯbaŧ",
+            "coord_lat": "18.48351",
+            "toponym_search": "Kuthba, Kuthna",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.98036",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.98036,
+            18.48351
+        ]
+    }
+}

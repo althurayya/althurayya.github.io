@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarmaqān, Ǧarmaqān, Ribāṭ Sarmaqān",
+            "cornu_URI": "SARMAQAN_548E296N_S",
+            "toponym_arabic": "سرمقان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sarmaqan, Jarmaqan, Ribat Sarmaqan",
+            "toponym_arabic_other": "سرمقان، جرمقان، رباط سرمقان",
+            "toponym_translit": "Sarmaqān",
+            "coord_lat": "29.63539",
+            "toponym_search": "Sarmaqan, Jarmaqan, Ribat Sarmaqan",
+            "region_code": "Kirman",
+            "coord_lon": "54.80361",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.80361,
+            29.63539
+        ]
+    }
+}

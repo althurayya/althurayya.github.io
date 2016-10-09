@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣāʿ",
+            "cornu_URI": "SA_028W344N_S",
+            "toponym_arabic": "صاع",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sa",
+            "toponym_arabic_other": "صاع",
+            "toponym_translit": "Ṣāʿ",
+            "coord_lat": "34.41816",
+            "toponym_search": "Sa",
+            "region_code": "Maghrib",
+            "coord_lon": "-2.89875",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.89875,
+            34.41816
+        ]
+    }
+}

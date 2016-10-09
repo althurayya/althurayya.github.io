@@ -1,0 +1,59 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000324-000.json": {
+                "title": "بيونه",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000298-000.json": {
+                "title": "بونه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000225-000.json": {
+                "title": "بذونه",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000244-000.json": {
+                "title": "برونه",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000300-000.json": {
+                "title": "بونيه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būnaŧ",
+            "cornu_URI": "BUNA_077E368N_S",
+            "toponym_arabic": "بونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Buna",
+            "toponym_arabic_other": "بونة",
+            "toponym_translit": "Būnaŧ",
+            "coord_lat": "36.88509",
+            "toponym_search": "Buna",
+            "region_code": "Maghrib",
+            "coord_lon": "7.74061",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.74061,
+            36.88509
+        ]
+    }
+}

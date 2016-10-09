@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Azdūd, Yazdūd",
+            "cornu_URI": "AZDUD_346E317N_S",
+            "toponym_arabic": "أزدود",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Azdud, Yazdud",
+            "toponym_arabic_other": "أزدود، يزدود",
+            "toponym_translit": "Azdūd",
+            "coord_lat": "31.79837",
+            "toponym_search": "Azdud, Yazdud",
+            "region_code": "Sham",
+            "coord_lon": "34.66817",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.66817,
+            31.79837
+        ]
+    }
+}

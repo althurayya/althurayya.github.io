@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūnaǧ",
+            "cornu_URI": "SUNAJ_662E385N_S",
+            "toponym_arabic": "سونج",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Sunaj",
+            "toponym_arabic_other": "سونج",
+            "toponym_translit": "Sūnaǧ",
+            "coord_lat": "38.58192",
+            "toponym_search": "Sunaj",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.26540",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.2654,
+            38.58192
+        ]
+    }
+}

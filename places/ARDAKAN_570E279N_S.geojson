@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001325-000.json": {
+                "title": "لاركان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ardakān, Sūrakān",
+            "cornu_URI": "ARDAKAN_570E279N_S",
+            "toponym_arabic": "أردكان",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Ardakan, Surakan",
+            "toponym_arabic_other": "أردكان، سوركان",
+            "toponym_translit": "Ardakān",
+            "coord_lat": "27.93413",
+            "toponym_search": "Ardakan, Surakan",
+            "region_code": "Kirman",
+            "coord_lon": "57.01290",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.0129,
+            27.93413
+        ]
+    }
+}

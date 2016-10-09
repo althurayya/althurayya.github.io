@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000387-000.json": {
+                "title": "توزر",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tawwaz, Tawwaǧ !",
+            "cornu_URI": "TAWWAZ_510E294N_S",
+            "toponym_arabic": "توز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tawwaz, Tawwaj !",
+            "toponym_arabic_other": "توز، توج !",
+            "toponym_translit": "Tawwaz",
+            "coord_lat": "29.44172",
+            "toponym_search": "Tawwaz, Tawwaj !",
+            "region_code": "Faris",
+            "coord_lon": "51.03513",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.03513,
+            29.44172
+        ]
+    }
+}

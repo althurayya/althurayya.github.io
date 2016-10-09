@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mastanǧ, Mastank",
+            "cornu_URI": "MASTANJ_668E297N_S",
+            "toponym_arabic": "مستنج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mastanj, Mastank",
+            "toponym_arabic_other": "مستنج، مستنك",
+            "toponym_translit": "Mastanǧ",
+            "coord_lat": "29.79695",
+            "toponym_search": "Mastanj, Mastank",
+            "region_code": "Sijistan",
+            "coord_lon": "66.84894",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.84894,
+            29.79695
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001393-000.json": {
+                "title": "المروه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001409-000.json": {
+                "title": "المريه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Marwaŧ, Ḏū al-Marwaŧ",
+            "cornu_URI": "MARWA_385E257N_S",
+            "toponym_arabic": "المروة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Marwa, Dhu al-Marwa",
+            "toponym_arabic_other": "المروة، ذو المروة",
+            "toponym_translit": "al-Marwaŧ",
+            "coord_lat": "25.71785",
+            "toponym_search": "al-Marwa, Dhu al-Marwa",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "38.58647",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.58647,
+            25.71785
+        ]
+    }
+}

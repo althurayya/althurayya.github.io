@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Sakkān",
+            "cornu_URI": "NAHRSAKKAN_531E285N_W",
+            "toponym_arabic": "نهر سكان",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Sakkan",
+            "toponym_arabic_other": "نهر سكان",
+            "toponym_translit": "Nahr Sakkān",
+            "coord_lat": "28.52387",
+            "toponym_search": "Nahr Sakkan",
+            "region_code": "Faris",
+            "coord_lon": "53.13563",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.13563,
+            28.52387
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asfabǧāy, Safanǧāwī",
+            "cornu_URI": "ASFABJAY_670E305N_S",
+            "toponym_arabic": "أسفبجاي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asfabjay, Safanjawi",
+            "toponym_arabic_other": "أسفبجاي، سفنجاوي",
+            "toponym_translit": "Asfabǧāy",
+            "coord_lat": "30.58971",
+            "toponym_search": "Asfabjay, Safanjawi",
+            "region_code": "Sijistan",
+            "coord_lon": "67.02922",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.02922,
+            30.58971
+        ]
+    }
+}

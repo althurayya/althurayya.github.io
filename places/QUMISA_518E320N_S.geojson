@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001258-000.json": {
+                "title": "قومس",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qūmisaŧ",
+            "cornu_URI": "QUMISA_518E320N_S",
+            "toponym_arabic": "قومسة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qumisa",
+            "toponym_arabic_other": "قومسة",
+            "toponym_translit": "Qūmisaŧ",
+            "coord_lat": "32.00251",
+            "toponym_search": "Qumisa",
+            "region_code": "Faris",
+            "coord_lon": "51.86732",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.86732,
+            32.00251
+        ]
+    }
+}

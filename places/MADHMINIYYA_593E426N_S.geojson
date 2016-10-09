@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḏmīniyyaŧ, Madkamīniyyaŧ !",
+            "cornu_URI": "MADHMINIYYA_593E426N_S",
+            "toponym_arabic": "مذمينية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Madhminiyya, Madkaminiyya !",
+            "toponym_arabic_other": "مذمينية، مدكمينية !",
+            "toponym_translit": "Maḏmīniyyaŧ",
+            "coord_lat": "42.67871",
+            "toponym_search": "Madhminiyya, Madkaminiyya !",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.30953",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.30953,
+            42.67871
+        ]
+    }
+}

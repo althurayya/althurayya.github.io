@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿdin al-Naqiraŧ",
+            "cornu_URI": "MADINNAQIRA_415E255N_S",
+            "toponym_arabic": "معدن النقرة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Madin al-Naqira",
+            "toponym_arabic_other": "معدن النقرة",
+            "toponym_translit": "Maʿdin al-Naqiraŧ",
+            "coord_lat": "25.55360",
+            "toponym_search": "Madin al-Naqira",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.52796",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.52796,
+            25.5536
+        ]
+    }
+}

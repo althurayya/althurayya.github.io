@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000860-000.json": {
+                "title": "سيراف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sīrāf",
+            "cornu_URI": "SIRAF_523E276N_S",
+            "toponym_arabic": "سيراف",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Siraf",
+            "toponym_arabic_other": "سيراف",
+            "toponym_translit": "Sīrāf",
+            "coord_lat": "27.69666",
+            "toponym_search": "Siraf",
+            "region_code": "Faris",
+            "coord_lon": "52.34306",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.34306,
+            27.69666
+        ]
+    }
+}

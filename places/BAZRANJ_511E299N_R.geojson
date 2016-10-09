@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000744-000.json": {
+                "title": "زرنج",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bazranǧ",
+            "cornu_URI": "BAZRANJ_511E299N_R",
+            "toponym_arabic": "بزرنج",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bazranj",
+            "toponym_arabic_other": "بزرنج",
+            "toponym_translit": "Bazranǧ",
+            "coord_lat": "29.92934",
+            "toponym_search": "Bazranj",
+            "region_code": "Faris",
+            "coord_lon": "51.11281",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.11281,
+            29.92934
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿādin al-Tibr",
+            "cornu_URI": "MAADINTIBR_333E226N_O",
+            "toponym_arabic": "معادن التبر",
+            "top_type_orig": "mines",
+            "toponym_buckwalter": "Maadin al-Tibr",
+            "toponym_arabic_other": "معادن التبر",
+            "toponym_translit": "Maʿādin al-Tibr",
+            "coord_lat": "22.61001",
+            "toponym_search": "Maadin al-Tibr",
+            "region_code": "Egypt",
+            "coord_lon": "33.35835",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.35835,
+            22.61001
+        ]
+    }
+}

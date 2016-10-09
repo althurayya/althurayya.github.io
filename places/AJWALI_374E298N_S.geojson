@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aǧwalī",
+            "cornu_URI": "AJWALI_374E298N_S",
+            "toponym_arabic": "الأجولي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ajwali",
+            "toponym_arabic_other": "الأجولي",
+            "toponym_translit": "al-Aǧwalī",
+            "coord_lat": "29.87858",
+            "toponym_search": "al-Ajwali",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.43170",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.4317,
+            29.87858
+        ]
+    }
+}

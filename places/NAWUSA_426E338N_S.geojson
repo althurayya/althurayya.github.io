@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nāwusaŧ",
+            "cornu_URI": "NAWUSA_426E338N_S",
+            "toponym_arabic": "الناوسة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Nawusa",
+            "toponym_arabic_other": "الناوسة",
+            "toponym_translit": "al-Nāwusaŧ",
+            "coord_lat": "33.82317",
+            "toponym_search": "al-Nawusa",
+            "region_code": "Iraq",
+            "coord_lon": "42.61179",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.61179,
+            33.82317
+        ]
+    }
+}

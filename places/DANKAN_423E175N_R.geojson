@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḍankān",
+            "cornu_URI": "DANKAN_423E175N_R",
+            "toponym_arabic": "ضنكان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Dankan",
+            "toponym_arabic_other": "ضنكان",
+            "toponym_translit": "Ḍankān",
+            "coord_lat": "17.52221",
+            "toponym_search": "Dankan",
+            "region_code": "Yemen",
+            "coord_lon": "42.35312",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.35312,
+            17.52221
+        ]
+    }
+}

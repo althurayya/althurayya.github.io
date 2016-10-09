@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000983-000.json": {
+                "title": "طبرقه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000250-000.json": {
+                "title": "برقه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭabarqaŧ",
+            "cornu_URI": "TABARQA_088E369N_S",
+            "toponym_arabic": "طبرقة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tabarqa",
+            "toponym_arabic_other": "طبرقة",
+            "toponym_translit": "Ṭabarqaŧ",
+            "coord_lat": "36.91556",
+            "toponym_search": "Tabarqa",
+            "region_code": "Maghrib",
+            "coord_lon": "8.81185",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81185,
+            36.91556
+        ]
+    }
+}

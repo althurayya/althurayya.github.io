@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000040-000.json": {
+                "title": "ابين",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abšīn",
+            "cornu_URI": "ABSHIN_635E352N_S",
+            "toponym_arabic": "أبشين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abshin",
+            "toponym_arabic_other": "أبشين",
+            "toponym_translit": "Abšīn",
+            "coord_lat": "35.24882",
+            "toponym_search": "Abshin",
+            "region_code": "Khurasan",
+            "coord_lon": "63.52800",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.528,
+            35.24882
+        ]
+    }
+}

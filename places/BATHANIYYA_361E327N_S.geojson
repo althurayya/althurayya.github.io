@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000407-000.json": {
+                "title": "الثني",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000217-000.json": {
+                "title": "البثنيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baṯaniyyaŧ",
+            "cornu_URI": "BATHANIYYA_361E327N_S",
+            "toponym_arabic": "البثنية",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "al-Bathaniyya",
+            "toponym_arabic_other": "البثنية",
+            "toponym_translit": "al-Baṯaniyyaŧ",
+            "coord_lat": "32.72189",
+            "toponym_search": "al-Bathaniyya",
+            "region_code": "Sham",
+            "coord_lon": "36.15837",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.15837,
+            32.72189
+        ]
+    }
+}

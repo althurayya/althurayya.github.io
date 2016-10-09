@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurḥ",
+            "cornu_URI": "QURH_379E265N_S",
+            "toponym_arabic": "قرح",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Qurh",
+            "toponym_arabic_other": "قرح",
+            "toponym_translit": "Qurḥ",
+            "coord_lat": "26.55412",
+            "toponym_search": "Qurh",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "37.99288",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.99288,
+            26.55412
+        ]
+    }
+}

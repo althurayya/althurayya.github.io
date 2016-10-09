@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000152-000.json": {
+                "title": "اسكندريه",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Iskandariyyaŧ",
+            "cornu_URI": "ISKANDARIYYA_299E311N_S",
+            "toponym_arabic": "الإسكندرية",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Iskandariyya",
+            "toponym_arabic_other": "الإسكندرية",
+            "toponym_translit": "al-Iskandariyyaŧ",
+            "coord_lat": "31.19490",
+            "toponym_search": "al-Iskandariyya",
+            "region_code": "Egypt",
+            "coord_lon": "29.90981",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.90981,
+            31.1949
+        ]
+    }
+}

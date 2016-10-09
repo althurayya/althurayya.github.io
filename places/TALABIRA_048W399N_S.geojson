@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001005-000.json": {
+                "title": "طلبيره",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭalābiraŧ",
+            "cornu_URI": "TALABIRA_048W399N_S",
+            "toponym_arabic": "طلابرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Talabira",
+            "toponym_arabic_other": "طلابرة",
+            "toponym_translit": "Ṭalābiraŧ",
+            "coord_lat": "39.97062",
+            "toponym_search": "Talabira",
+            "region_code": "Andalus",
+            "coord_lon": "-4.82541",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.82541,
+            39.97062
+        ]
+    }
+}

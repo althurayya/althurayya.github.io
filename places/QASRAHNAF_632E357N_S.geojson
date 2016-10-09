@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Aḥnaf",
+            "cornu_URI": "QASRAHNAF_632E357N_S",
+            "toponym_arabic": "قصر أحنف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qasr Ahnaf",
+            "toponym_arabic_other": "قصر أحنف",
+            "toponym_translit": "Qaṣr Aḥnaf",
+            "coord_lat": "35.76147",
+            "toponym_search": "Qasr Ahnaf",
+            "region_code": "Khurasan",
+            "coord_lon": "63.21212",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.21212,
+            35.76147
+        ]
+    }
+}

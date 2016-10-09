@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Azāḏwār",
+            "cornu_URI": "AZADHWAR_565E366N_S",
+            "toponym_arabic": "أزاذوار",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Azadhwar",
+            "toponym_arabic_other": "أزاذوار",
+            "toponym_translit": "Azāḏwār",
+            "coord_lat": "36.68546",
+            "toponym_search": "Azadhwar",
+            "region_code": "Khurasan",
+            "coord_lon": "56.59926",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.59926,
+            36.68546
+        ]
+    }
+}

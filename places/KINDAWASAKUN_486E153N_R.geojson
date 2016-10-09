@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kindaŧ wa Sakūn",
+            "cornu_URI": "KINDAWASAKUN_486E153N_R",
+            "toponym_arabic": "كندة و سكون",
+            "top_type_orig": "mikhlaf",
+            "toponym_buckwalter": "Kinda wa Sakun",
+            "toponym_arabic_other": "كندة و سكون",
+            "toponym_translit": "Kindaŧ wa Sakūn",
+            "coord_lat": "15.30551",
+            "toponym_search": "Kinda wa Sakun",
+            "region_code": "Yemen",
+            "coord_lon": "48.67779",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.67779,
+            15.30551
+        ]
+    }
+}

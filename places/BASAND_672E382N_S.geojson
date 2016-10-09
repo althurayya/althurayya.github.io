@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāsand",
+            "cornu_URI": "BASAND_672E382N_S",
+            "toponym_arabic": "باسند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Basand",
+            "toponym_arabic_other": "باسند",
+            "toponym_translit": "Bāsand",
+            "coord_lat": "38.21375",
+            "toponym_search": "Basand",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.24396",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.24396,
+            38.21375
+        ]
+    }
+}

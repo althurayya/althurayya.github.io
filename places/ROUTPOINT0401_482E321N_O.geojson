@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0401",
+            "cornu_URI": "ROUTPOINT0401_482E321N_O",
+            "toponym_arabic": "RoutPoint0401",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0401",
+            "toponym_arabic_other": "RoutPoint0401",
+            "toponym_translit": "RoutPoint0401",
+            "coord_lat": "32.19102",
+            "toponym_search": "RoutPoint0401",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.22336",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.22336,
+            32.19102
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ardaḫīwah",
+            "cornu_URI": "ARDAKHIWAH_602E421N_S",
+            "toponym_arabic": "أردخيوه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ardakhiwah",
+            "toponym_arabic_other": "أردخيوه",
+            "toponym_translit": "Ardaḫīwah",
+            "coord_lat": "42.19314",
+            "toponym_search": "Ardakhiwah",
+            "region_code": "Transoxiana",
+            "coord_lon": "60.25053",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.25053,
+            42.19314
+        ]
+    }
+}

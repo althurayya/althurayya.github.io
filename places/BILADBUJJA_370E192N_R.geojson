@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bilād al-Buǧǧaŧ",
+            "cornu_URI": "BILADBUJJA_370E192N_R",
+            "toponym_arabic": "بلاد البجة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bilad al-Bujja",
+            "toponym_arabic_other": "بلاد البجة",
+            "toponym_translit": "Bilād al-Buǧǧaŧ",
+            "coord_lat": "19.28058",
+            "toponym_search": "Bilad al-Bujja",
+            "region_code": "Egypt",
+            "coord_lon": "37.06730",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.0673,
+            19.28058
+        ]
+    }
+}

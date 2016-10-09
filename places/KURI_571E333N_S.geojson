@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kurī, Kurīn",
+            "cornu_URI": "KURI_571E333N_S",
+            "toponym_arabic": "كري",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kuri, Kurin",
+            "toponym_arabic_other": "كري، كرين",
+            "toponym_translit": "Kurī",
+            "coord_lat": "33.37701",
+            "toponym_search": "Kuri, Kurin",
+            "region_code": "Mafaza",
+            "coord_lon": "57.18746",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.18746,
+            33.37701
+        ]
+    }
+}

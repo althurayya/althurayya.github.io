@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000822-000.json": {
+                "title": "سمنان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Simnān",
+            "cornu_URI": "SIMNAN_534E354N_S",
+            "toponym_arabic": "سمنان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Simnan",
+            "toponym_arabic_other": "سمنان",
+            "toponym_translit": "Simnān",
+            "coord_lat": "35.49513",
+            "toponym_search": "Simnan",
+            "region_code": "Daylam",
+            "coord_lon": "53.40856",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.40856,
+            35.49513
+        ]
+    }
+}

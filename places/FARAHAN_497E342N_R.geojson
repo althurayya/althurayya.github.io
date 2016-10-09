@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Farāhān",
+            "cornu_URI": "FARAHAN_497E342N_R",
+            "toponym_arabic": "فراهان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Farahan",
+            "toponym_arabic_other": "فراهان",
+            "toponym_translit": "Farāhān",
+            "coord_lat": "34.25592",
+            "toponym_search": "Farahan",
+            "region_code": "Jibal",
+            "coord_lon": "49.75261",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.75261,
+            34.25592
+        ]
+    }
+}

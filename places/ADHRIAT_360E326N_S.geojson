@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000058-000.json": {
+                "title": "اذرعات",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḏriʿāt",
+            "cornu_URI": "ADHRIAT_360E326N_S",
+            "toponym_arabic": "أذرعات",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Adhriat",
+            "toponym_arabic_other": "أذرعات",
+            "toponym_translit": "Aḏriʿāt",
+            "coord_lat": "32.61046",
+            "toponym_search": "Adhriat",
+            "region_code": "Sham",
+            "coord_lon": "36.09087",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.09087,
+            32.61046
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qīr, Kīr",
+            "cornu_URI": "QIR_530E284N_S",
+            "toponym_arabic": "قير",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Qir, Kir",
+            "toponym_arabic_other": "قير، كير",
+            "toponym_translit": "Qīr",
+            "coord_lat": "28.44621",
+            "toponym_search": "Qir, Kir",
+            "region_code": "Faris",
+            "coord_lon": "53.03724",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.03724,
+            28.44621
+        ]
+    }
+}

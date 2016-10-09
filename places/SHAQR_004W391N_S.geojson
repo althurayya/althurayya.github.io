@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001486-000.json": {
+                "title": "المشقر",
+                "rate": 91,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000895-000.json": {
+                "title": "شقر",
+                "rate": 75,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šaqr",
+            "cornu_URI": "SHAQR_004W391N_S",
+            "toponym_arabic": "الشقر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Shaqr",
+            "toponym_arabic_other": "الشقر",
+            "toponym_translit": "al-Šaqr",
+            "coord_lat": "39.16483",
+            "toponym_search": "al-Shaqr",
+            "region_code": "Andalus",
+            "coord_lon": "-0.43734",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.43734,
+            39.16483
+        ]
+    }
+}

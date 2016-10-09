@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ Ibrīq",
+            "cornu_URI": "QALAIBRIQ_385E390N_S",
+            "toponym_arabic": "قلعة إبريق",
+            "top_type_orig": "placefrontiere",
+            "toponym_buckwalter": "Qala Ibriq",
+            "toponym_arabic_other": "قلعة إبريق",
+            "toponym_translit": "Qalʿaŧ Ibrīq",
+            "coord_lat": "39.05271",
+            "toponym_search": "Qala Ibriq",
+            "region_code": "Aqur",
+            "coord_lon": "38.53819",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.53819,
+            39.05271
+        ]
+    }
+}

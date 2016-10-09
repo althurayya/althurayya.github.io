@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dāristān",
+            "cornu_URI": "DARISTAN_587E292N_S",
+            "toponym_arabic": "دارستان",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Daristan",
+            "toponym_arabic_other": "دارستان",
+            "toponym_translit": "Dāristān",
+            "coord_lat": "29.22421",
+            "toponym_search": "Daristan",
+            "region_code": "Mafaza",
+            "coord_lon": "58.76561",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.76561,
+            29.22421
+        ]
+    }
+}

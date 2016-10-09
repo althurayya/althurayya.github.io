@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rustākuhan",
+            "cornu_URI": "RUSTAKUHAN_664E265N_S",
+            "toponym_arabic": "رستاكهن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rustakuhan",
+            "toponym_arabic_other": "رستاكهن",
+            "toponym_translit": "Rustākuhan",
+            "coord_lat": "26.57497",
+            "toponym_search": "Rustakuhan",
+            "region_code": "Sind",
+            "coord_lon": "66.40105",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.40105,
+            26.57497
+        ]
+    }
+}

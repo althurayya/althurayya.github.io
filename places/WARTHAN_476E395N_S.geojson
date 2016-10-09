@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Warṯān",
+            "cornu_URI": "WARTHAN_476E395N_S",
+            "toponym_arabic": "ورثان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Warthan",
+            "toponym_arabic_other": "ورثان",
+            "toponym_translit": "Warṯān",
+            "coord_lat": "39.56659",
+            "toponym_search": "Warthan",
+            "region_code": "Rihab",
+            "coord_lon": "47.64257",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.64257,
+            39.56659
+        ]
+    }
+}

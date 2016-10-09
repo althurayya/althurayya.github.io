@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000672-000.json": {
+                "title": "الران",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000071-000.json": {
+                "title": "ارجان",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001121-000.json": {
+                "title": "فاران",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arrān",
+            "cornu_URI": "ARRAN_471E406N_R",
+            "toponym_arabic": "أران",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Arran",
+            "toponym_arabic_other": "أران",
+            "toponym_translit": "Arrān",
+            "coord_lat": "40.60291",
+            "toponym_search": "Arran",
+            "region_code": "Rihab",
+            "coord_lon": "47.14761",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.14761,
+            40.60291
+        ]
+    }
+}

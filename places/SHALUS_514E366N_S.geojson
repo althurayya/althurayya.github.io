@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šālūs, Sālūs",
+            "cornu_URI": "SHALUS_514E366N_S",
+            "toponym_arabic": "شالوس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shalus, Salus",
+            "toponym_arabic_other": "شالوس، سالوس",
+            "toponym_translit": "Šālūs",
+            "coord_lat": "36.60408",
+            "toponym_search": "Shalus, Salus",
+            "region_code": "Daylam",
+            "coord_lon": "51.45535",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.45535,
+            36.60408
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000492-000.json": {
+                "title": "جيرفت",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧīruft",
+            "cornu_URI": "JIRUFT_578E286N_S",
+            "toponym_arabic": "جيرفت",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Jiruft",
+            "toponym_arabic_other": "جيرفت",
+            "toponym_translit": "Ǧīruft",
+            "coord_lat": "28.69436",
+            "toponym_search": "Jiruft",
+            "region_code": "Kirman",
+            "coord_lon": "57.80498",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.80498,
+            28.69436
+        ]
+    }
+}

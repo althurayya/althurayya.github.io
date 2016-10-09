@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001644-000.json": {
+                "title": "يثرب",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001388-000.json": {
+                "title": "المدينه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Madīnaŧ, Madīntaŧ al-Nabī, Yaṯrib",
+            "cornu_URI": "MADINA_396E244N_S",
+            "toponym_arabic": "المدينة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Madina, Madinta al-Nabi, Yathrib",
+            "toponym_arabic_other": "المدينة، مدينتة النبي، يثرب",
+            "toponym_translit": "al-Madīnaŧ",
+            "coord_lat": "24.47782",
+            "toponym_search": "al-Madina, Madinta al-Nabi, Yathrib",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.60908",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.60908,
+            24.47782
+        ]
+    }
+}

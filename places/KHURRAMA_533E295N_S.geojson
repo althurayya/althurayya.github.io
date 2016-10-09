@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000666-000.json": {
+                "title": "رامه",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫurrāmaŧ",
+            "cornu_URI": "KHURRAMA_533E295N_S",
+            "toponym_arabic": "خرامة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khurrama",
+            "toponym_arabic_other": "خرامة",
+            "toponym_translit": "Ḫurrāmaŧ",
+            "coord_lat": "29.54292",
+            "toponym_search": "Khurrama",
+            "region_code": "Faris",
+            "coord_lon": "53.33817",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.33817,
+            29.54292
+        ]
+    }
+}

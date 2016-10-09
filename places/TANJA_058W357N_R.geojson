@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000398-000.json": {
+                "title": "تينجه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tanǧaŧ",
+            "cornu_URI": "TANJA_058W357N_R",
+            "toponym_arabic": "تنجة",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Tanja",
+            "toponym_arabic_other": "تنجة",
+            "toponym_translit": "Tanǧaŧ",
+            "coord_lat": "35.77868",
+            "toponym_search": "Tanja",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.84572",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.84572,
+            35.77868
+        ]
+    }
+}

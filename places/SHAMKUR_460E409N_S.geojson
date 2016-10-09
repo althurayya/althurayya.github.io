@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šamkūr",
+            "cornu_URI": "SHAMKUR_460E409N_S",
+            "toponym_arabic": "شمكور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shamkur",
+            "toponym_arabic_other": "شمكور",
+            "toponym_translit": "Šamkūr",
+            "coord_lat": "40.99521",
+            "toponym_search": "Shamkur",
+            "region_code": "Rihab",
+            "coord_lon": "46.06157",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.06157,
+            40.99521
+        ]
+    }
+}

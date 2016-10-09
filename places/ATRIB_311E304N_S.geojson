@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Atrīb",
+            "cornu_URI": "ATRIB_311E304N_S",
+            "toponym_arabic": "أتريب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Atrib",
+            "toponym_arabic_other": "أتريب",
+            "toponym_translit": "Atrīb",
+            "coord_lat": "30.45947",
+            "toponym_search": "Atrib",
+            "region_code": "Egypt",
+            "coord_lon": "31.17223",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.17223,
+            30.45947
+        ]
+    }
+}

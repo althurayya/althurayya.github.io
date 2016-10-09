@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧiyād al-Ṣaġīr",
+            "cornu_URI": "JIYADSAGHIR_239E319N_S",
+            "toponym_arabic": "جياد الصغير",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jiyad al-Saghir",
+            "toponym_arabic_other": "جياد الصغير",
+            "toponym_translit": "Ǧiyād al-Ṣaġīr",
+            "coord_lat": "31.99027",
+            "toponym_search": "Jiyad al-Saghir",
+            "region_code": "Barqa",
+            "coord_lon": "23.96719",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.96719,
+            31.99027
+        ]
+    }
+}

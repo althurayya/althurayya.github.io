@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Ǧabal Ṭāriq",
+            "cornu_URI": "JAZIRAJABALTARIQ_053W361N_S",
+            "toponym_arabic": "جزيرة جبل طارق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jazira Jabal Tariq",
+            "toponym_arabic_other": "جزيرة جبل طارق",
+            "toponym_translit": "Ǧazīraŧ Ǧabal Ṭāriq",
+            "coord_lat": "36.16752",
+            "toponym_search": "Jazira Jabal Tariq",
+            "region_code": "Andalus",
+            "coord_lon": "-5.33071",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.33071,
+            36.16752
+        ]
+    }
+}

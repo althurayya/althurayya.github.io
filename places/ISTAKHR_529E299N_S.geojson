@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000129-000.json": {
+                "title": "اصطخر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iṣṭaḫr",
+            "cornu_URI": "ISTAKHR_529E299N_S",
+            "toponym_arabic": "إصطخر",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Istakhr",
+            "toponym_arabic_other": "إصطخر",
+            "toponym_translit": "Iṣṭaḫr",
+            "coord_lat": "29.97008",
+            "toponym_search": "Istakhr",
+            "region_code": "Faris",
+            "coord_lon": "52.92548",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.92548,
+            29.97008
+        ]
+    }
+}

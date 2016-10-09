@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Mihrān",
+            "cornu_URI": "NAHRMIHRAN_700E285N_W",
+            "toponym_arabic": "نهر مهران",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Mihran",
+            "toponym_arabic_other": "نهر مهران",
+            "toponym_translit": "Nahr Mihrān",
+            "coord_lat": "28.57493",
+            "toponym_search": "Nahr Mihran",
+            "region_code": "Sind",
+            "coord_lon": "70.02385",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.02385,
+            28.57493
+        ]
+    }
+}

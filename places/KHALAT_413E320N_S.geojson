@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫalāṭ",
+            "cornu_URI": "KHALAT_413E320N_S",
+            "toponym_arabic": "الخلاط",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Khalat",
+            "toponym_arabic_other": "الخلاط",
+            "toponym_translit": "al-Ḫalāṭ",
+            "coord_lat": "32.07507",
+            "toponym_search": "al-Khalat",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "41.37298",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.37298,
+            32.07507
+        ]
+    }
+}

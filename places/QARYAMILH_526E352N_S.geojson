@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-Milḥ",
+            "cornu_URI": "QARYAMILH_526E352N_S",
+            "toponym_arabic": "قرية الملح",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qarya al-Milh",
+            "toponym_arabic_other": "قرية الملح",
+            "toponym_translit": "Qaryaŧ al-Milḥ",
+            "coord_lat": "35.26209",
+            "toponym_search": "Qarya al-Milh",
+            "region_code": "Daylam",
+            "coord_lon": "52.63600",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.636,
+            35.26209
+        ]
+    }
+}

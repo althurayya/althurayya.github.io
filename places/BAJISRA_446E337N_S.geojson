@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāǧisrá",
+            "cornu_URI": "BAJISRA_446E337N_S",
+            "toponym_arabic": "باجسرى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bajisra",
+            "toponym_arabic_other": "باجسرى",
+            "toponym_translit": "Bāǧisrá",
+            "coord_lat": "33.73126",
+            "toponym_search": "Bajisra",
+            "region_code": "Iraq",
+            "coord_lon": "44.63801",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.63801,
+            33.73126
+        ]
+    }
+}

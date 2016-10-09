@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001571-000.json": {
+                "title": "الهرم",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Alham",
+            "cornu_URI": "ALHAM_522E365N_S",
+            "toponym_arabic": "ألهم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Alham",
+            "toponym_arabic_other": "ألهم",
+            "toponym_translit": "Alham",
+            "coord_lat": "36.56405",
+            "toponym_search": "Alham",
+            "region_code": "Daylam",
+            "coord_lon": "52.23414",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.23414,
+            36.56405
+        ]
+    }
+}

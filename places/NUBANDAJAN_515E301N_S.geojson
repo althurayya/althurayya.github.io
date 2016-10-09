@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nūbandaǧān, Nūbanǧān",
+            "cornu_URI": "NUBANDAJAN_515E301N_S",
+            "toponym_arabic": "نوبندجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nubandajan, Nubanjan",
+            "toponym_arabic_other": "نوبندجان، نوبنجان",
+            "toponym_translit": "Nūbandaǧān",
+            "coord_lat": "30.12743",
+            "toponym_search": "Nubandajan, Nubanjan",
+            "region_code": "Faris",
+            "coord_lon": "51.55235",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.55235,
+            30.12743
+        ]
+    }
+}

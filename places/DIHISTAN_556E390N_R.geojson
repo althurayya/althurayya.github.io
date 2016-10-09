@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000622-000.json": {
+                "title": "دهستان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dihistān",
+            "cornu_URI": "DIHISTAN_556E390N_R",
+            "toponym_arabic": "دهستان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Dihistan",
+            "toponym_arabic_other": "دهستان",
+            "toponym_translit": "Dihistān",
+            "coord_lat": "39.09457",
+            "toponym_search": "Dihistan",
+            "region_code": "Daylam",
+            "coord_lon": "55.63466",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.63466,
+            39.09457
+        ]
+    }
+}

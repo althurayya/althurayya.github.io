@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001522-000.json": {
+                "title": "نجران",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Naǧrān",
+            "cornu_URI": "NAJRAN_442E175N_S",
+            "toponym_arabic": "نجران",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Najran",
+            "toponym_arabic_other": "نجران",
+            "toponym_translit": "Naǧrān",
+            "coord_lat": "17.58603",
+            "toponym_search": "Najran",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "44.29950",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.2995,
+            17.58603
+        ]
+    }
+}

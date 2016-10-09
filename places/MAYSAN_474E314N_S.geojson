@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001504-000.json": {
+                "title": "ميسان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maysān",
+            "cornu_URI": "MAYSAN_474E314N_S",
+            "toponym_arabic": "ميسان",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Maysan",
+            "toponym_arabic_other": "ميسان",
+            "toponym_translit": "Maysān",
+            "coord_lat": "31.41304",
+            "toponym_search": "Maysan",
+            "region_code": "Iraq",
+            "coord_lon": "47.47945",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.47945,
+            31.41304
+        ]
+    }
+}

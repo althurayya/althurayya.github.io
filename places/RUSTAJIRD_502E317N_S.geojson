@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rustaǧird, al-Diz",
+            "cornu_URI": "RUSTAJIRD_502E317N_S",
+            "toponym_arabic": "رستجرد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Rustajird, al-Diz",
+            "toponym_arabic_other": "رستجرد، الدز",
+            "toponym_translit": "Rustaǧird",
+            "coord_lat": "31.71801",
+            "toponym_search": "Rustajird, al-Diz",
+            "region_code": "Khuzistan",
+            "coord_lon": "50.29984",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.29984,
+            31.71801
+        ]
+    }
+}

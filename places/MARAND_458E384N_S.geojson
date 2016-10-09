@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marand",
+            "cornu_URI": "MARAND_458E384N_S",
+            "toponym_arabic": "مرند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Marand",
+            "toponym_arabic_other": "مرند",
+            "toponym_translit": "Marand",
+            "coord_lat": "38.46017",
+            "toponym_search": "Marand",
+            "region_code": "Rihab",
+            "coord_lon": "45.80321",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.80321,
+            38.46017
+        ]
+    }
+}

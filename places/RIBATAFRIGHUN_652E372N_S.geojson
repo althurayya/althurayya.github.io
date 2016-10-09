@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Afrīġūn",
+            "cornu_URI": "RIBATAFRIGHUN_652E372N_S",
+            "toponym_arabic": "رباط أفريغون",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Afrighun",
+            "toponym_arabic_other": "رباط أفريغون",
+            "toponym_translit": "Ribāṭ Afrīġūn",
+            "coord_lat": "37.26306",
+            "toponym_search": "Ribat Afrighun",
+            "region_code": "Khurasan",
+            "coord_lon": "65.27273",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.27273,
+            37.26306
+        ]
+    }
+}

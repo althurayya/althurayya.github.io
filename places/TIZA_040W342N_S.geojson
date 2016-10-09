@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīzā, Tāzaŧ",
+            "cornu_URI": "TIZA_040W342N_S",
+            "toponym_arabic": "تيزا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tiza, Taza",
+            "toponym_arabic_other": "تيزا، تازة",
+            "toponym_translit": "Tīzā",
+            "coord_lat": "34.22102",
+            "toponym_search": "Tiza, Taza",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.02927",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.02927,
+            34.22102
+        ]
+    }
+}

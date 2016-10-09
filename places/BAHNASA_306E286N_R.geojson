@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000296-000.json": {
+                "title": "بهنسي",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bahnasá",
+            "cornu_URI": "BAHNASA_306E286N_R",
+            "toponym_arabic": "بهنسى",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Bahnasa",
+            "toponym_arabic_other": "بهنسى",
+            "toponym_translit": "Bahnasá",
+            "coord_lat": "28.60073",
+            "toponym_search": "Bahnasa",
+            "region_code": "Egypt",
+            "coord_lon": "30.66449",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.66449,
+            28.60073
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001220-000.json": {
+                "title": "قم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qumm",
+            "cornu_URI": "QUMM_509E346N_S",
+            "toponym_arabic": "قم",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Qumm",
+            "toponym_arabic_other": "قم",
+            "toponym_translit": "Qumm",
+            "coord_lat": "34.63354",
+            "toponym_search": "Qumm",
+            "region_code": "Jibal",
+            "coord_lon": "50.90695",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.90695,
+            34.63354
+        ]
+    }
+}

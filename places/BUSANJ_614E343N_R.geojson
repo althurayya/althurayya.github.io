@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būsanǧ, Fušanǧ, Būšank",
+            "cornu_URI": "BUSANJ_614E343N_R",
+            "toponym_arabic": "بوسنج",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Busanj, Fushanj, Bushank",
+            "toponym_arabic_other": "بوسنج، فشنج، بوشنك",
+            "toponym_translit": "Būsanǧ",
+            "coord_lat": "34.35023",
+            "toponym_search": "Busanj, Fushanj, Bushank",
+            "region_code": "Khurasan",
+            "coord_lon": "61.47787",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.47787,
+            34.35023
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000110-000.json": {
+                "title": "الانبار",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000109-000.json": {
+                "title": "الانبار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Anbār",
+            "cornu_URI": "ANBAR_437E333N_S",
+            "toponym_arabic": "الأنبار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Anbar",
+            "toponym_arabic_other": "الأنبار",
+            "toponym_translit": "al-Anbār",
+            "coord_lat": "33.39492",
+            "toponym_search": "al-Anbar",
+            "region_code": "Iraq",
+            "coord_lon": "43.70150",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.7015,
+            33.39492
+        ]
+    }
+}

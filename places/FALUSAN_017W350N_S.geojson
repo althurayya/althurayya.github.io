@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001237-000.json": {
+                "title": "قصر الفلوس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fālūsan, Qaṣr al-Fulūs",
+            "cornu_URI": "FALUSAN_017W350N_S",
+            "toponym_arabic": "فالوسن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Falusan, Qasr al-Fulus",
+            "toponym_arabic_other": "فالوسن، قصر الفلوس",
+            "toponym_translit": "Fālūsan",
+            "coord_lat": "35.03281",
+            "toponym_search": "Falusan, Qasr al-Fulus",
+            "region_code": "Maghrib",
+            "coord_lon": "-1.75553",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.75553,
+            35.03281
+        ]
+    }
+}

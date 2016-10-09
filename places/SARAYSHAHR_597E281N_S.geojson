@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarāy Šahr",
+            "cornu_URI": "SARAYSHAHR_597E281N_S",
+            "toponym_arabic": "سراي شهر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Saray Shahr",
+            "toponym_arabic_other": "سراي شهر",
+            "toponym_translit": "Sarāy Šahr",
+            "coord_lat": "28.17735",
+            "toponym_search": "Saray Shahr",
+            "region_code": "Sind",
+            "coord_lon": "59.73164",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.73164,
+            28.17735
+        ]
+    }
+}

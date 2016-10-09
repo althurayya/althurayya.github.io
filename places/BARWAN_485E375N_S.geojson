@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000206-000.json": {
+                "title": "باجروان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barwān",
+            "cornu_URI": "BARWAN_485E375N_S",
+            "toponym_arabic": "بروان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Barwan",
+            "toponym_arabic_other": "بروان",
+            "toponym_translit": "Barwān",
+            "coord_lat": "37.57057",
+            "toponym_search": "Barwan",
+            "region_code": "Daylam",
+            "coord_lon": "48.55981",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.55981,
+            37.57057
+        ]
+    }
+}

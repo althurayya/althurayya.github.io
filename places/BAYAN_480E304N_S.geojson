@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000309-000.json": {
+                "title": "بيانه",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000320-000.json": {
+                "title": "بيران",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000311-000.json": {
+                "title": "بيانه",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayān",
+            "cornu_URI": "BAYAN_480E304N_S",
+            "toponym_arabic": "بيان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bayan",
+            "toponym_arabic_other": "بيان",
+            "toponym_translit": "Bayān",
+            "coord_lat": "30.46468",
+            "toponym_search": "Bayan",
+            "region_code": "Iraq",
+            "coord_lon": "48.03005",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.03005,
+            30.46468
+        ]
+    }
+}

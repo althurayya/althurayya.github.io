@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġarwaŧ, ʿArwaŧ",
+            "cornu_URI": "GHARWA_498E315N_S",
+            "toponym_arabic": "غروة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Gharwa, Arwa",
+            "toponym_arabic_other": "غروة، عروة",
+            "toponym_translit": "Ġarwaŧ",
+            "coord_lat": "31.54027",
+            "toponym_search": "Gharwa, Arwa",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.89724",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.89724,
+            31.54027
+        ]
+    }
+}

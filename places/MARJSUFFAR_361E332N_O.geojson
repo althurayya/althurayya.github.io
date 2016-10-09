@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001406-000.json": {
+                "title": "مرج الصفر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marǧ al-Ṣuffar",
+            "cornu_URI": "MARJSUFFAR_361E332N_O",
+            "toponym_arabic": "مرج الصفر",
+            "top_type_orig": "lieu",
+            "toponym_buckwalter": "Marj al-Suffar",
+            "toponym_arabic_other": "مرج الصفر",
+            "toponym_translit": "Marǧ al-Ṣuffar",
+            "coord_lat": "33.22659",
+            "toponym_search": "Marj al-Suffar",
+            "region_code": "Sham",
+            "coord_lon": "36.14580",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.1458,
+            33.22659
+        ]
+    }
+}

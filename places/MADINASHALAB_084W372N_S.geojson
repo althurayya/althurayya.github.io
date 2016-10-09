@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000872-000.json": {
+                "title": "شلب",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Madīnaŧ Šalab, Šilb",
+            "cornu_URI": "MADINASHALAB_084W372N_S",
+            "toponym_arabic": "مدينة شلب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Madina Shalab, Shilb",
+            "toponym_arabic_other": "مدينة شلب، شلب",
+            "toponym_translit": "Madīnaŧ Šalab",
+            "coord_lat": "37.22519",
+            "toponym_search": "Madina Shalab, Shilb",
+            "region_code": "Andalus",
+            "coord_lon": "-8.42308",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.42308,
+            37.22519
+        ]
+    }
+}

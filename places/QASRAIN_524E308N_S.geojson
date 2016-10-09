@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Aʿīn, Qaṣr Āyīn, al-Rūn",
+            "cornu_URI": "QASRAIN_524E308N_S",
+            "toponym_arabic": "قصر أعين",
+            "top_type_orig": "cite/etape",
+            "toponym_buckwalter": "Qasr Ain, Qasr Ayin, al-Run",
+            "toponym_arabic_other": "قصر أعين، قصر آيين، الرون",
+            "toponym_translit": "Qaṣr Aʿīn",
+            "coord_lat": "30.82066",
+            "toponym_search": "Qasr Ain, Qasr Ayin, al-Run",
+            "region_code": "Faris",
+            "coord_lon": "52.44521",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.44521,
+            30.82066
+        ]
+    }
+}

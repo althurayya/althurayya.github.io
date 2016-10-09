@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bārǧamt, Abār Daḫt",
+            "cornu_URI": "BARJAMT_116E330N_S",
+            "toponym_arabic": "بارجمت",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Barjamt, Abar Dakht",
+            "toponym_arabic_other": "بارجمت، أبار دخت",
+            "toponym_translit": "Bārǧamt",
+            "coord_lat": "33.05675",
+            "toponym_search": "Barjamt, Abar Dakht",
+            "region_code": "Barqa",
+            "coord_lon": "11.63847",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63847,
+            33.05675
+        ]
+    }
+}

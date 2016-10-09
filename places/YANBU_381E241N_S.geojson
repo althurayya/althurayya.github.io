@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yanbuʿ",
+            "cornu_URI": "YANBU_381E241N_S",
+            "toponym_arabic": "ينبع",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Yanbu",
+            "toponym_arabic_other": "ينبع",
+            "toponym_translit": "Yanbuʿ",
+            "coord_lat": "24.10820",
+            "toponym_search": "Yanbu",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "38.12512",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.12512,
+            24.1082
+        ]
+    }
+}

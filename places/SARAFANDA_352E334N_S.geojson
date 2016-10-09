@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣarafandaŧ",
+            "cornu_URI": "SARAFANDA_352E334N_S",
+            "toponym_arabic": "صرفندة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sarafanda",
+            "toponym_arabic_other": "صرفندة",
+            "toponym_translit": "Ṣarafandaŧ",
+            "coord_lat": "33.45495",
+            "toponym_search": "Sarafanda",
+            "region_code": "Sham",
+            "coord_lon": "35.28606",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.28606,
+            33.45495
+        ]
+    }
+}

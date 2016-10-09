@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001555-000.json": {
+                "title": "نينوي",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nīnawá, Nūnawā",
+            "cornu_URI": "NINAWA_431E363N_S",
+            "toponym_arabic": "نينوى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ninawa, Nunawa",
+            "toponym_arabic_other": "نينوى، نونوا",
+            "toponym_translit": "Nīnawá",
+            "coord_lat": "36.35104",
+            "toponym_search": "Ninawa, Nunawa",
+            "region_code": "Aqur",
+            "coord_lon": "43.17500",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.175,
+            36.35104
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ al-Bāšfūyaŧ,  Buḥayraŧ al-Bāšfūriyyaŧ",
+            "cornu_URI": "BUHAYRABASHFUYA_534E296N_W",
+            "toponym_arabic": "بحيرة الباشفوية",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra al-Bashfuya,  Buhayra al-Bashfuriyya",
+            "toponym_arabic_other": "بحيرة الباشفوية،  بحيرة الباشفورية",
+            "toponym_translit": "Buḥayraŧ al-Bāšfūyaŧ",
+            "coord_lat": "29.69700",
+            "toponym_search": "Buhayra al-Bashfuya,  Buhayra al-Bashfuriyya",
+            "region_code": "Faris",
+            "coord_lon": "53.47044",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.47044,
+            29.697
+        ]
+    }
+}

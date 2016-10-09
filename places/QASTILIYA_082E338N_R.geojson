@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001248-000.json": {
+                "title": "قسطيليه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qasṭīliyaŧ",
+            "cornu_URI": "QASTILIYA_082E338N_R",
+            "toponym_arabic": "قسطيلية",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qastiliya",
+            "toponym_arabic_other": "قسطيلية",
+            "toponym_translit": "Qasṭīliyaŧ",
+            "coord_lat": "33.88951",
+            "toponym_search": "Qastiliya",
+            "region_code": "Maghrib",
+            "coord_lon": "8.27517",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.27517,
+            33.88951
+        ]
+    }
+}

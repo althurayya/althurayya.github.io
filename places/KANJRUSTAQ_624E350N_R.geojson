@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kanǧ Rustāq",
+            "cornu_URI": "KANJRUSTAQ_624E350N_R",
+            "toponym_arabic": "كنج رستاق",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Kanj Rustaq",
+            "toponym_arabic_other": "كنج رستاق",
+            "toponym_translit": "Kanǧ Rustāq",
+            "coord_lat": "35.07720",
+            "toponym_search": "Kanj Rustaq",
+            "region_code": "Khurasan",
+            "coord_lon": "62.46952",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.46952,
+            35.0772
+        ]
+    }
+}

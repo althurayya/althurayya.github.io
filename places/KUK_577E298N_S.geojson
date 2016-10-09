@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001313-000.json": {
+                "title": "كوكو",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūk",
+            "cornu_URI": "KUK_577E298N_S",
+            "toponym_arabic": "كوك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kuk",
+            "toponym_arabic_other": "كوك",
+            "toponym_translit": "Kūk",
+            "coord_lat": "29.86457",
+            "toponym_search": "Kuk",
+            "region_code": "Kirman",
+            "coord_lon": "57.76105",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.76105,
+            29.86457
+        ]
+    }
+}

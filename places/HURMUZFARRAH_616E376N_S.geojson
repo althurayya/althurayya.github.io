@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hurmuz Farrah",
+            "cornu_URI": "HURMUZFARRAH_616E376N_S",
+            "toponym_arabic": "هرمز فره",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hurmuz Farrah",
+            "toponym_arabic_other": "هرمز فره",
+            "toponym_translit": "Hurmuz Farrah",
+            "coord_lat": "37.60594",
+            "toponym_search": "Hurmuz Farrah",
+            "region_code": "Khurasan",
+            "coord_lon": "61.61458",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.61458,
+            37.60594
+        ]
+    }
+}

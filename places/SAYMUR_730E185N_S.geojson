@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000944-000.json": {
+                "title": "صيمور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣaymūr",
+            "cornu_URI": "SAYMUR_730E185N_S",
+            "toponym_arabic": "صيمور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Saymur",
+            "toponym_arabic_other": "صيمور",
+            "toponym_translit": "Ṣaymūr",
+            "coord_lat": "18.58187",
+            "toponym_search": "Saymur",
+            "region_code": "Sind",
+            "coord_lon": "73.04586",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.04586,
+            18.58187
+        ]
+    }
+}

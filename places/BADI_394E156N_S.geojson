@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāḍiʿ",
+            "cornu_URI": "BADI_394E156N_S",
+            "toponym_arabic": "باضع",
+            "top_type_orig": "ile/port/cite?",
+            "toponym_buckwalter": "Badi",
+            "toponym_arabic_other": "باضع",
+            "toponym_translit": "Bāḍiʿ",
+            "coord_lat": "15.63308",
+            "toponym_search": "Badi",
+            "region_code": "Egypt",
+            "coord_lon": "39.48117",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.48117,
+            15.63308
+        ]
+    }
+}

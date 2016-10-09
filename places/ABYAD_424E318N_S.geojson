@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Abyaḍ",
+            "cornu_URI": "ABYAD_424E318N_S",
+            "toponym_arabic": "الأبيض",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Abyad",
+            "toponym_arabic_other": "الأبيض",
+            "toponym_translit": "al-Abyaḍ",
+            "coord_lat": "31.86163",
+            "toponym_search": "al-Abyad",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.45438",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.45438,
+            31.86163
+        ]
+    }
+}

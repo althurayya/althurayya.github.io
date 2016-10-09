@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Šalif",
+            "cornu_URI": "WADISHALIF_014E362N_W",
+            "toponym_arabic": "وادي شلف",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Shalif",
+            "toponym_arabic_other": "وادي شلف",
+            "toponym_translit": "Wādī Šalif",
+            "coord_lat": "36.21758",
+            "toponym_search": "Wadi Shalif",
+            "region_code": "Maghrib",
+            "coord_lon": "1.45396",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.45396,
+            36.21758
+        ]
+    }
+}

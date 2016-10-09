@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rākāh",
+            "cornu_URI": "RAKAH_485E344N_S",
+            "toponym_arabic": "راكاه",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Rakah",
+            "toponym_arabic_other": "راكاه",
+            "toponym_translit": "Rākāh",
+            "coord_lat": "34.42798",
+            "toponym_search": "Rakah",
+            "region_code": "Jibal",
+            "coord_lon": "48.54618",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.54618,
+            34.42798
+        ]
+    }
+}

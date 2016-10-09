@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suways",
+            "cornu_URI": "SUWAYS_325E299N_S",
+            "toponym_arabic": "سويس",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Suways",
+            "toponym_arabic_other": "سويس",
+            "toponym_translit": "Suways",
+            "coord_lat": "29.97325",
+            "toponym_search": "Suways",
+            "region_code": "Egypt",
+            "coord_lon": "32.54404",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.54404,
+            29.97325
+        ]
+    }
+}

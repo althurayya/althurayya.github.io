@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000433-000.json": {
+                "title": "جرجرايا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarǧarāyā",
+            "cornu_URI": "JARJARAYA_453E327N_S",
+            "toponym_arabic": "جرجرايا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jarjaraya",
+            "toponym_arabic_other": "جرجرايا",
+            "toponym_translit": "Ǧarǧarāyā",
+            "coord_lat": "32.74104",
+            "toponym_search": "Jarjaraya",
+            "region_code": "Iraq",
+            "coord_lon": "45.31987",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.31987,
+            32.74104
+        ]
+    }
+}

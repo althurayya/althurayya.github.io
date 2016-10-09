@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Malāzkird, Malāzǧird, Manāzǧird",
+            "cornu_URI": "MALAZKIRD_425E391N_S",
+            "toponym_arabic": "ملازكرد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Malazkird, Malazjird, Manazjird",
+            "toponym_arabic_other": "ملازكرد، ملازجرد، منازجرد",
+            "toponym_translit": "Malāzkird",
+            "coord_lat": "39.14370",
+            "toponym_search": "Malazkird, Malazjird, Manazjird",
+            "region_code": "Rihab",
+            "coord_lon": "42.55713",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.55713,
+            39.1437
+        ]
+    }
+}

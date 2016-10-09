@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dih Ušturān, Qaryaŧ al-Ǧimāl",
+            "cornu_URI": "DIHUSHTURAN_557E303N_S",
+            "toponym_arabic": "ده أشتران",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dih Ushturan, Qarya al-Jimal",
+            "toponym_arabic_other": "ده أشتران، قرية الجمال",
+            "toponym_translit": "Dih Ušturān",
+            "coord_lat": "30.31412",
+            "toponym_search": "Dih Ushturan, Qarya al-Jimal",
+            "region_code": "Faris",
+            "coord_lon": "55.70689",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.70689,
+            30.31412
+        ]
+    }
+}

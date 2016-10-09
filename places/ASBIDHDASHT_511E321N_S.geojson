@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asbīḏ Dašt",
+            "cornu_URI": "ASBIDHDASHT_511E321N_S",
+            "toponym_arabic": "أسبيذ دشت",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Asbidh Dasht",
+            "toponym_arabic_other": "أسبيذ دشت",
+            "toponym_translit": "Asbīḏ Dašt",
+            "coord_lat": "32.13467",
+            "toponym_search": "Asbidh Dasht",
+            "region_code": "Jibal",
+            "coord_lon": "51.18532",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.18532,
+            32.13467
+        ]
+    }
+}

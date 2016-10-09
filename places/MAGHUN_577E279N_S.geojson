@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maġūn",
+            "cornu_URI": "MAGHUN_577E279N_S",
+            "toponym_arabic": "مغون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maghun",
+            "toponym_arabic_other": "مغون",
+            "toponym_translit": "Maġūn",
+            "coord_lat": "27.97676",
+            "toponym_search": "Maghun",
+            "region_code": "Kirman",
+            "coord_lon": "57.78820",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.7882,
+            27.97676
+        ]
+    }
+}

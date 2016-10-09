@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧurǧīr",
+            "cornu_URI": "JURJIR_321E309N_S",
+            "toponym_arabic": "جرجير",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jurjir",
+            "toponym_arabic_other": "جرجير",
+            "toponym_translit": "Ǧurǧīr",
+            "coord_lat": "30.91373",
+            "toponym_search": "Jurjir",
+            "region_code": "Egypt",
+            "coord_lon": "32.19454",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.19454,
+            30.91373
+        ]
+    }
+}

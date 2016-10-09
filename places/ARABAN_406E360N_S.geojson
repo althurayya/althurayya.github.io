@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArabān",
+            "cornu_URI": "ARABAN_406E360N_S",
+            "toponym_arabic": "عربان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Araban",
+            "toponym_arabic_other": "عربان",
+            "toponym_translit": "ʿArabān",
+            "coord_lat": "36.05814",
+            "toponym_search": "Araban",
+            "region_code": "Aqur",
+            "coord_lon": "40.69403",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.69403,
+            36.05814
+        ]
+    }
+}

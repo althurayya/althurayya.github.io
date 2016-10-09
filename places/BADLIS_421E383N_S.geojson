@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Badlīs, Bidlīs",
+            "cornu_URI": "BADLIS_421E383N_S",
+            "toponym_arabic": "بدليس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Badlis, Bidlis",
+            "toponym_arabic_other": "بدليس، بدليس",
+            "toponym_translit": "Badlīs",
+            "coord_lat": "38.39550",
+            "toponym_search": "Badlis, Bidlis",
+            "region_code": "Aqur",
+            "coord_lon": "42.13266",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.13266,
+            38.3955
+        ]
+    }
+}

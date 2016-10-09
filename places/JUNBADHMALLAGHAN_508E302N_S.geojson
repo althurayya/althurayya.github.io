@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧunbaḏ Mallaġān, Ǧunbaḏ Mallaǧān",
+            "cornu_URI": "JUNBADHMALLAGHAN_508E302N_S",
+            "toponym_arabic": "جنبذ ملغان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Junbadh Mallaghan, Junbadh Mallajan",
+            "toponym_arabic_other": "جنبذ ملغان، جنبذ ملجان",
+            "toponym_translit": "Ǧunbaḏ Mallaġān",
+            "coord_lat": "30.29389",
+            "toponym_search": "Junbadh Mallaghan, Junbadh Mallajan",
+            "region_code": "Faris",
+            "coord_lon": "50.84951",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.84951,
+            30.29389
+        ]
+    }
+}

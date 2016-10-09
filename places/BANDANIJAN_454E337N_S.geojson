@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bandanīǧān, Bandanīǧīn",
+            "cornu_URI": "BANDANIJAN_454E337N_S",
+            "toponym_arabic": "بندنيجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bandanijan, Bandanijin",
+            "toponym_arabic_other": "بندنيجان، بندنيجين",
+            "toponym_translit": "Bandanīǧān",
+            "coord_lat": "33.71797",
+            "toponym_search": "Bandanijan, Bandanijin",
+            "region_code": "Iraq",
+            "coord_lon": "45.48927",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.48927,
+            33.71797
+        ]
+    }
+}

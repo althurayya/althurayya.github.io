@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kaṯ",
+            "cornu_URI": "KATH_607E417N_S",
+            "toponym_arabic": "كث",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Kath",
+            "toponym_arabic_other": "كث",
+            "toponym_translit": "Kaṯ",
+            "coord_lat": "41.72062",
+            "toponym_search": "Kath",
+            "region_code": "Transoxiana",
+            "coord_lon": "60.70385",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.70385,
+            41.72062
+        ]
+    }
+}

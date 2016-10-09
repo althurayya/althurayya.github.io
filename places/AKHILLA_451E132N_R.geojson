@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḫillaŧ",
+            "cornu_URI": "AKHILLA_451E132N_R",
+            "toponym_arabic": "أخلة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Akhilla",
+            "toponym_arabic_other": "أخلة",
+            "toponym_translit": "Aḫillaŧ",
+            "coord_lat": "13.20320",
+            "toponym_search": "Akhilla",
+            "region_code": "Yemen",
+            "coord_lon": "45.17945",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.17945,
+            13.2032
+        ]
+    }
+}

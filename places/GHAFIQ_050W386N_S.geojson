@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001095-000.json": {
+                "title": "غافق",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġāfiq",
+            "cornu_URI": "GHAFIQ_050W386N_S",
+            "toponym_arabic": "غافق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ghafiq",
+            "toponym_arabic_other": "غافق",
+            "toponym_translit": "Ġāfiq",
+            "coord_lat": "38.68214",
+            "toponym_search": "Ghafiq",
+            "region_code": "Andalus",
+            "coord_lon": "-5.01064",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.01064,
+            38.68214
+        ]
+    }
+}

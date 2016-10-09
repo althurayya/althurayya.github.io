@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Malik",
+            "cornu_URI": "NAHRMALIK_445E329N_W",
+            "toponym_arabic": "نهر الملك",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr al-Malik",
+            "toponym_arabic_other": "نهر الملك",
+            "toponym_translit": "Nahr al-Malik",
+            "coord_lat": "32.94875",
+            "toponym_search": "Nahr al-Malik",
+            "region_code": "Iraq",
+            "coord_lon": "44.50953",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.50953,
+            32.94875
+        ]
+    }
+}

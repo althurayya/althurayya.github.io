@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Abū Šarīk",
+            "cornu_URI": "JAZIRAABUSHARIK_109E370N_S",
+            "toponym_arabic": "جزيرة أبو شريك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jazira Abu Sharik",
+            "toponym_arabic_other": "جزيرة أبو شريك",
+            "toponym_translit": "Ǧazīraŧ Abū Šarīk",
+            "coord_lat": "37.03058",
+            "toponym_search": "Jazira Abu Sharik",
+            "region_code": "Maghrib",
+            "coord_lon": "10.99773",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.99773,
+            37.03058
+        ]
+    }
+}

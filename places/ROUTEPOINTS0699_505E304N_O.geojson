@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutePoints0699",
+            "cornu_URI": "ROUTEPOINTS0699_505E304N_O",
+            "toponym_arabic": "RoutePoints0699",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutePoints0699",
+            "toponym_arabic_other": "RoutePoints0699",
+            "toponym_translit": "RoutePoints0699",
+            "coord_lat": "30.44661",
+            "toponym_search": "RoutePoints0699",
+            "region_code": "Faris",
+            "coord_lon": "50.51371",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.51371,
+            30.44661
+        ]
+    }
+}

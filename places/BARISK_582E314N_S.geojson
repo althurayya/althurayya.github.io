@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bārisk",
+            "cornu_URI": "BARISK_582E314N_S",
+            "toponym_arabic": "بارسك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Barisk",
+            "toponym_arabic_other": "بارسك",
+            "toponym_translit": "Bārisk",
+            "coord_lat": "31.41567",
+            "toponym_search": "Barisk",
+            "region_code": "Mafaza",
+            "coord_lon": "58.27354",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.27354,
+            31.41567
+        ]
+    }
+}

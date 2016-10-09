@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000747-000.json": {
+                "title": "زرق",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fāz, Zarq",
+            "cornu_URI": "FAZ_622E373N_S",
+            "toponym_arabic": "فاز",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Faz, Zarq",
+            "toponym_arabic_other": "فاز، زرق",
+            "toponym_translit": "Fāz",
+            "coord_lat": "37.39749",
+            "toponym_search": "Faz, Zarq",
+            "region_code": "Khurasan",
+            "coord_lon": "62.29575",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.29575,
+            37.39749
+        ]
+    }
+}

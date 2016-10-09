@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫašm",
+            "cornu_URI": "KHASHM_491E374N_S",
+            "toponym_arabic": "خشم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khashm",
+            "toponym_arabic_other": "خشم",
+            "toponym_translit": "Ḫašm",
+            "coord_lat": "37.48626",
+            "toponym_search": "Khashm",
+            "region_code": "Daylam",
+            "coord_lon": "49.18674",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.18674,
+            37.48626
+        ]
+    }
+}

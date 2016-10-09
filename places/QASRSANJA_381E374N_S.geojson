@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000832-000.json": {
+                "title": "سنجه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Sanǧaŧ, Sanǧaŧ",
+            "cornu_URI": "QASRSANJA_381E374N_S",
+            "toponym_arabic": "قصر سنجة",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Qasr Sanja, Sanja",
+            "toponym_arabic_other": "قصر سنجة، سنجة",
+            "toponym_translit": "Qaṣr Sanǧaŧ",
+            "coord_lat": "37.49466",
+            "toponym_search": "Qasr Sanja, Sanja",
+            "region_code": "Aqur",
+            "coord_lon": "38.19495",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.19495,
+            37.49466
+        ]
+    }
+}

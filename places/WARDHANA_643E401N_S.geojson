@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Warḏānaŧ, Awraḏānaŧ",
+            "cornu_URI": "WARDHANA_643E401N_S",
+            "toponym_arabic": "ورذانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wardhana, Awradhana",
+            "toponym_arabic_other": "ورذانة، أورذانة",
+            "toponym_translit": "Warḏānaŧ",
+            "coord_lat": "40.15432",
+            "toponym_search": "Wardhana, Awradhana",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.30515",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.30515,
+            40.15432
+        ]
+    }
+}

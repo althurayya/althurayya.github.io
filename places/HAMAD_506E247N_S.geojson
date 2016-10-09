@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥamaḍ",
+            "cornu_URI": "HAMAD_506E247N_S",
+            "toponym_arabic": "حمض",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Hamad",
+            "toponym_arabic_other": "حمض",
+            "toponym_translit": "Ḥamaḍ",
+            "coord_lat": "24.74231",
+            "toponym_search": "Hamad",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "50.65214",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.65214,
+            24.74231
+        ]
+    }
+}

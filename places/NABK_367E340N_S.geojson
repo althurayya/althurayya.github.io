@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nabk",
+            "cornu_URI": "NABK_367E340N_S",
+            "toponym_arabic": "النبك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Nabk",
+            "toponym_arabic_other": "النبك",
+            "toponym_translit": "al-Nabk",
+            "coord_lat": "34.02567",
+            "toponym_search": "al-Nabk",
+            "region_code": "Sham",
+            "coord_lon": "36.73220",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.7322,
+            34.02567
+        ]
+    }
+}

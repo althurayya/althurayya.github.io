@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000565-000.json": {
+                "title": "خلاط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḫlāṭ, Ḫilāṭ",
+            "cornu_URI": "AKHLAT_425E387N_S",
+            "toponym_arabic": "أخلاط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Akhlat, Khilat",
+            "toponym_arabic_other": "أخلاط، خلاط",
+            "toponym_translit": "Aḫlāṭ",
+            "coord_lat": "38.76551",
+            "toponym_search": "Akhlat, Khilat",
+            "region_code": "Rihab",
+            "coord_lon": "42.51044",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.51044,
+            38.76551
+        ]
+    }
+}

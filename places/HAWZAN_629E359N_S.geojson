@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥawzān",
+            "cornu_URI": "HAWZAN_629E359N_S",
+            "toponym_arabic": "حوزان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Hawzan",
+            "toponym_arabic_other": "حوزان",
+            "toponym_translit": "Ḥawzān",
+            "coord_lat": "35.96191",
+            "toponym_search": "Hawzan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.96749",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.96749,
+            35.96191
+        ]
+    }
+}

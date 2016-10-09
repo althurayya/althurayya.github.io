@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000516-000.json": {
+                "title": "الحليفه",
+                "rate": 82,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏū al-Ḥulayfaŧ",
+            "cornu_URI": "DHUHULAYFA_395E244N_S",
+            "toponym_arabic": "ذو الحليفة",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Dhu al-Hulayfa",
+            "toponym_arabic_other": "ذو الحليفة",
+            "toponym_translit": "Ḏū al-Ḥulayfaŧ",
+            "coord_lat": "24.40558",
+            "toponym_search": "Dhu al-Hulayfa",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.56501",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.56501,
+            24.40558
+        ]
+    }
+}

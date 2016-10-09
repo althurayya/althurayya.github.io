@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Dūr",
+            "cornu_URI": "DUR_438E344N_S",
+            "toponym_arabic": "الدور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Dur",
+            "toponym_arabic_other": "الدور",
+            "toponym_translit": "al-Dūr",
+            "coord_lat": "34.46814",
+            "toponym_search": "al-Dur",
+            "region_code": "Iraq",
+            "coord_lon": "43.80541",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.80541,
+            34.46814
+        ]
+    }
+}

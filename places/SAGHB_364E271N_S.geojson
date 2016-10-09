@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Saġb",
+            "cornu_URI": "SAGHB_364E271N_S",
+            "toponym_arabic": "سغب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Saghb",
+            "toponym_arabic_other": "سغب",
+            "toponym_translit": "Saġb",
+            "coord_lat": "27.19891",
+            "toponym_search": "Saghb",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "36.47366",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.47366,
+            27.19891
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000978-000.json": {
+                "title": "طبرمين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭabarmīn",
+            "cornu_URI": "TABARMIN_152E378N_S",
+            "toponym_arabic": "طبرمين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tabarmin",
+            "toponym_arabic_other": "طبرمين",
+            "toponym_translit": "Ṭabarmīn",
+            "coord_lat": "37.86261",
+            "toponym_search": "Tabarmin",
+            "region_code": "Sicile",
+            "coord_lon": "15.27552",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.27552,
+            37.86261
+        ]
+    }
+}

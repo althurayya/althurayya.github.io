@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maġmadāš",
+            "cornu_URI": "MAGHMADASH_162E311N_S",
+            "toponym_arabic": "مغمداش",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Maghmadash",
+            "toponym_arabic_other": "مغمداش",
+            "toponym_translit": "Maġmadāš",
+            "coord_lat": "31.19302",
+            "toponym_search": "Maghmadash",
+            "region_code": "Barqa",
+            "coord_lon": "16.22169",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.22169,
+            31.19302
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫābarān",
+            "cornu_URI": "KHABARAN_498E309N_S",
+            "toponym_arabic": "الخابران",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Khabaran",
+            "toponym_arabic_other": "الخابران",
+            "toponym_translit": "al-Ḫābarān",
+            "coord_lat": "30.96763",
+            "toponym_search": "al-Khabaran",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.80777",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.80777,
+            30.96763
+        ]
+    }
+}

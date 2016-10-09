@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001640-000.json": {
+                "title": "يابسه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yābisaŧ",
+            "cornu_URI": "YABISA_014E389N_R",
+            "toponym_arabic": "يابسة",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Yabisa",
+            "toponym_arabic_other": "يابسة",
+            "toponym_translit": "Yābisaŧ",
+            "coord_lat": "38.94978",
+            "toponym_search": "Yabisa",
+            "region_code": "Andalus",
+            "coord_lon": "1.41141",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.41141,
+            38.94978
+        ]
+    }
+}

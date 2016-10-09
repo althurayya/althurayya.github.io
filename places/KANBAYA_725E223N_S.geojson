@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001294-000.json": {
+                "title": "كنبايه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kanbāyaŧ",
+            "cornu_URI": "KANBAYA_725E223N_S",
+            "toponym_arabic": "كنباية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kanbaya",
+            "toponym_arabic_other": "كنباية",
+            "toponym_translit": "Kanbāyaŧ",
+            "coord_lat": "22.35228",
+            "toponym_search": "Kanbaya",
+            "region_code": "Sind",
+            "coord_lon": "72.56065",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.56065,
+            22.35228
+        ]
+    }
+}

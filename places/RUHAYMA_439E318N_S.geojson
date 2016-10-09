@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ruhaymaŧ",
+            "cornu_URI": "RUHAYMA_439E318N_S",
+            "toponym_arabic": "الرهيمة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ruhayma",
+            "toponym_arabic_other": "الرهيمة",
+            "toponym_translit": "al-Ruhaymaŧ",
+            "coord_lat": "31.85995",
+            "toponym_search": "al-Ruhayma",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.95117",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.95117,
+            31.85995
+        ]
+    }
+}

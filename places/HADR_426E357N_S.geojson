@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000532-000.json": {
+                "title": "الحضر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥaḍr",
+            "cornu_URI": "HADR_426E357N_S",
+            "toponym_arabic": "الحضر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Hadr",
+            "toponym_arabic_other": "الحضر",
+            "toponym_translit": "al-Ḥaḍr",
+            "coord_lat": "35.79513",
+            "toponym_search": "al-Hadr",
+            "region_code": "Aqur",
+            "coord_lon": "42.69628",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.69628,
+            35.79513
+        ]
+    }
+}

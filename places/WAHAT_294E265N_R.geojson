@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001589-000.json": {
+                "title": "الواحات",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Wāḥāt",
+            "cornu_URI": "WAHAT_294E265N_R",
+            "toponym_arabic": "الواحات",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Wahat",
+            "toponym_arabic_other": "الواحات",
+            "toponym_translit": "al-Wāḥāt",
+            "coord_lat": "26.52400",
+            "toponym_search": "al-Wahat",
+            "region_code": "Egypt",
+            "coord_lon": "29.46855",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.46855,
+            26.524
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000988-000.json": {
+                "title": "طزر",
+                "rate": 86,
+                "status": "y"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭazraŧ",
+            "cornu_URI": "TAZRA_493E351N_S",
+            "toponym_arabic": "طزرة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Tazra",
+            "toponym_arabic_other": "طزرة",
+            "toponym_translit": "Ṭazraŧ",
+            "coord_lat": "35.12165",
+            "toponym_search": "Tazra",
+            "region_code": "Jibal",
+            "coord_lon": "49.39342",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.39342,
+            35.12165
+        ]
+    }
+}

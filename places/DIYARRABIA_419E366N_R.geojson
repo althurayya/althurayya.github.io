@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Diyār Rabīʿaŧ",
+            "cornu_URI": "DIYARRABIA_419E366N_R",
+            "toponym_arabic": "ديار ربيعة",
+            "top_type_orig": "circonscription",
+            "toponym_buckwalter": "Diyar Rabia",
+            "toponym_arabic_other": "ديار ربيعة",
+            "toponym_translit": "Diyār Rabīʿaŧ",
+            "coord_lat": "36.65368",
+            "toponym_search": "Diyar Rabia",
+            "region_code": "Aqur",
+            "coord_lon": "41.99451",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.99451,
+            36.65368
+        ]
+    }
+}

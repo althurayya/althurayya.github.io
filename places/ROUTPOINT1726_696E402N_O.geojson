@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1726",
+            "cornu_URI": "ROUTPOINT1726_696E402N_O",
+            "toponym_arabic": "RoutPoint1726",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1726",
+            "toponym_arabic_other": "RoutPoint1726",
+            "toponym_translit": "RoutPoint1726",
+            "coord_lat": "40.26668",
+            "toponym_search": "RoutPoint1726",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.66363",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.66363,
+            40.26668
+        ]
+    }
+}

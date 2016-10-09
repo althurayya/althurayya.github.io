@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asnā",
+            "cornu_URI": "ASNA_325E253N_S",
+            "toponym_arabic": "أسنا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asna",
+            "toponym_arabic_other": "أسنا",
+            "toponym_translit": "Asnā",
+            "coord_lat": "25.32189",
+            "toponym_search": "Asna",
+            "region_code": "Egypt",
+            "coord_lon": "32.55162",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.55162,
+            25.32189
+        ]
+    }
+}

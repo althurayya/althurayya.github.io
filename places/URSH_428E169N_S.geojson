@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001051-000.json": {
+                "title": "العريش",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿUrš",
+            "cornu_URI": "URSH_428E169N_S",
+            "toponym_arabic": "العرش",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ursh",
+            "toponym_arabic_other": "العرش",
+            "toponym_translit": "al-ʿUrš",
+            "coord_lat": "16.96745",
+            "toponym_search": "al-Ursh",
+            "region_code": "Yemen",
+            "coord_lon": "42.82787",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.82787,
+            16.96745
+        ]
+    }
+}

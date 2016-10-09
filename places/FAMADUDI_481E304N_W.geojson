@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fam al-ʿAḍudī",
+            "cornu_URI": "FAMADUDI_481E304N_W",
+            "toponym_arabic": "فم العضدي",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Fam al-Adudi",
+            "toponym_arabic_other": "فم العضدي",
+            "toponym_translit": "Fam al-ʿAḍudī",
+            "coord_lat": "30.41602",
+            "toponym_search": "Fam al-Adudi",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.14211",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.14211,
+            30.41602
+        ]
+    }
+}

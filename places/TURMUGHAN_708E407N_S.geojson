@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Turmuġān, Ṭurmuqān",
+            "cornu_URI": "TURMUGHAN_708E407N_S",
+            "toponym_arabic": "ترمغان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Turmughan, Turmuqan",
+            "toponym_arabic_other": "ترمغان، طرمقان",
+            "toponym_translit": "Turmuġān",
+            "coord_lat": "40.78105",
+            "toponym_search": "Turmughan, Turmuqan",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.89318",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.89318,
+            40.78105
+        ]
+    }
+}

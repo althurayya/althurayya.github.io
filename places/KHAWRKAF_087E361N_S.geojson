@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawr al-Kāf",
+            "cornu_URI": "KHAWRKAF_087E361N_S",
+            "toponym_arabic": "خور الكاف",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Khawr al-Kaf",
+            "toponym_arabic_other": "خور الكاف",
+            "toponym_translit": "Ḫawr al-Kāf",
+            "coord_lat": "36.18255",
+            "toponym_search": "Khawr al-Kaf",
+            "region_code": "Maghrib",
+            "coord_lon": "8.71976",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.71976,
+            36.18255
+        ]
+    }
+}

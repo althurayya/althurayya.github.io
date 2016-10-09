@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Maṭariyyaŧ",
+            "cornu_URI": "MATARIYYA_407E361N_S",
+            "toponym_arabic": "المطرية",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Matariyya",
+            "toponym_arabic_other": "المطرية",
+            "toponym_translit": "al-Maṭariyyaŧ",
+            "coord_lat": "36.19626",
+            "toponym_search": "al-Matariyya",
+            "region_code": "Aqur",
+            "coord_lon": "40.75853",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.75853,
+            36.19626
+        ]
+    }
+}

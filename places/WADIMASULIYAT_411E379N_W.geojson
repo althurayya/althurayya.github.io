@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Masūliyāt, Nahr Sātīdamā, Wādī Sātīdamā",
+            "cornu_URI": "WADIMASULIYAT_411E379N_W",
+            "toponym_arabic": "وادي مسوليات",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Wadi Masuliyat, Nahr Satidama, Wadi Satidama",
+            "toponym_arabic_other": "وادي مسوليات، نهر ساتيدما، وادي ساتيدما",
+            "toponym_translit": "Wādī Masūliyāt",
+            "coord_lat": "37.98330",
+            "toponym_search": "Wadi Masuliyat, Nahr Satidama, Wadi Satidama",
+            "region_code": "Aqur",
+            "coord_lon": "41.17006",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.17006,
+            37.9833
+        ]
+    }
+}

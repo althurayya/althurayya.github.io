@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zāwar, Rawār",
+            "cornu_URI": "ZAWAR_568E312N_S",
+            "toponym_arabic": "زاور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Zawar, Rawar",
+            "toponym_arabic_other": "زاور، روار",
+            "toponym_translit": "Zāwar",
+            "coord_lat": "31.24891",
+            "toponym_search": "Zawar, Rawar",
+            "region_code": "Kirman",
+            "coord_lon": "56.87568",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.87568,
+            31.24891
+        ]
+    }
+}

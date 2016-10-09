@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġayfā",
+            "cornu_URI": "GHAYFA_315E303N_S",
+            "toponym_arabic": "غيفا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ghayfa",
+            "toponym_arabic_other": "غيفا",
+            "toponym_translit": "Ġayfā",
+            "coord_lat": "30.38241",
+            "toponym_search": "Ghayfa",
+            "region_code": "Egypt",
+            "coord_lon": "31.51348",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.51348,
+            30.38241
+        ]
+    }
+}

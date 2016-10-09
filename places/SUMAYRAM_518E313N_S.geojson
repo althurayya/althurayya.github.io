@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sumayram",
+            "cornu_URI": "SUMAYRAM_518E313N_S",
+            "toponym_arabic": "سميرم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sumayram",
+            "toponym_arabic_other": "سميرم",
+            "toponym_translit": "Sumayram",
+            "coord_lat": "31.35567",
+            "toponym_search": "Sumayram",
+            "region_code": "Faris",
+            "coord_lon": "51.81266",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.81266,
+            31.35567
+        ]
+    }
+}

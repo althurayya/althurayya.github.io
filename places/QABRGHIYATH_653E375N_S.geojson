@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qabr Ġiyāṯ, Qaná Ġiyāṯ",
+            "cornu_URI": "QABRGHIYATH_653E375N_S",
+            "toponym_arabic": "قبر غياث",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qabr Ghiyath, Qana Ghiyath",
+            "toponym_arabic_other": "قبر غياث، قنى غياث",
+            "toponym_translit": "Qabr Ġiyāṯ",
+            "coord_lat": "37.59463",
+            "toponym_search": "Qabr Ghiyath, Qana Ghiyath",
+            "region_code": "Khurasan",
+            "coord_lon": "65.31239",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.31239,
+            37.59463
+        ]
+    }
+}

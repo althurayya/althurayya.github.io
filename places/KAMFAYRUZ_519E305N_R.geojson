@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kām Fayrūz",
+            "cornu_URI": "KAMFAYRUZ_519E305N_R",
+            "toponym_arabic": "كام فيروز",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Kam Fayruz",
+            "toponym_arabic_other": "كام فيروز",
+            "toponym_translit": "Kām Fayrūz",
+            "coord_lat": "30.50943",
+            "toponym_search": "Kam Fayruz",
+            "region_code": "Faris",
+            "coord_lon": "51.90116",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.90116,
+            30.50943
+        ]
+    }
+}

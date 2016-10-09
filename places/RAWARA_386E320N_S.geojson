@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rawārá, al-Dawārá",
+            "cornu_URI": "RAWARA_386E320N_S",
+            "toponym_arabic": "الروارى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Rawara, al-Dawara",
+            "toponym_arabic_other": "الروارى، الدوارى",
+            "toponym_translit": "al-Rawārá",
+            "coord_lat": "32.03911",
+            "toponym_search": "al-Rawara, al-Dawara",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "38.64087",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.64087,
+            32.03911
+        ]
+    }
+}

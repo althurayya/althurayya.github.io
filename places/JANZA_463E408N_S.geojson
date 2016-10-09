@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧanzaŧ, Ǧanǧaŧ",
+            "cornu_URI": "JANZA_463E408N_S",
+            "toponym_arabic": "جنزة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Janza, Janja",
+            "toponym_arabic_other": "جنزة، جنجة",
+            "toponym_translit": "Ǧanzaŧ",
+            "coord_lat": "40.81356",
+            "toponym_search": "Janza, Janja",
+            "region_code": "Rihab",
+            "coord_lon": "46.38603",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.38603,
+            40.81356
+        ]
+    }
+}

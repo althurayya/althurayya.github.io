@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šīrāz",
+            "cornu_URI": "SHIRAZ_525E296N_S",
+            "toponym_arabic": "شيراز",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Shiraz",
+            "toponym_arabic_other": "شيراز",
+            "toponym_translit": "Šīrāz",
+            "coord_lat": "29.61884",
+            "toponym_search": "Shiraz",
+            "region_code": "Faris",
+            "coord_lon": "52.52867",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.52867,
+            29.61884
+        ]
+    }
+}

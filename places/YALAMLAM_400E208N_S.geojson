@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001649-000.json": {
+                "title": "يلملم",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001338-000.json": {
+                "title": "لملم",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yalamlam",
+            "cornu_URI": "YALAMLAM_400E208N_S",
+            "toponym_arabic": "يلملم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Yalamlam",
+            "toponym_arabic_other": "يلملم",
+            "toponym_translit": "Yalamlam",
+            "coord_lat": "20.84741",
+            "toponym_search": "Yalamlam",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.08231",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.08231,
+            20.84741
+        ]
+    }
+}

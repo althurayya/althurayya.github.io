@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Buttam",
+            "cornu_URI": "BUTTAM_684E389N_S",
+            "toponym_arabic": "البتم",
+            "top_type_orig": "montagnes/canton",
+            "toponym_buckwalter": "al-Buttam",
+            "toponym_arabic_other": "البتم",
+            "toponym_translit": "al-Buttam",
+            "coord_lat": "38.95345",
+            "toponym_search": "al-Buttam",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.49336",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.49336,
+            38.95345
+        ]
+    }
+}

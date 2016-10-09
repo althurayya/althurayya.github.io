@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001409-000.json": {
+                "title": "المريه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Mariyyaŧ",
+            "cornu_URI": "MARIYYA_025W368N_S",
+            "toponym_arabic": "المرية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Mariyya",
+            "toponym_arabic_other": "المرية",
+            "toponym_translit": "al-Mariyyaŧ",
+            "coord_lat": "36.86202",
+            "toponym_search": "al-Mariyya",
+            "region_code": "Andalus",
+            "coord_lon": "-2.50099",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.50099,
+            36.86202
+        ]
+    }
+}

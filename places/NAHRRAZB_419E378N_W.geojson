@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Razb, al-Razm, al-Zarm",
+            "cornu_URI": "NAHRRAZB_419E378N_W",
+            "toponym_arabic": "نهر الرزب",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Razb, al-Razm, al-Zarm",
+            "toponym_arabic_other": "نهر الرزب، الرزم، الزرم",
+            "toponym_translit": "Nahr al-Razb",
+            "coord_lat": "37.88869",
+            "toponym_search": "Nahr al-Razb, al-Razm, al-Zarm",
+            "region_code": "Aqur",
+            "coord_lon": "41.97905",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.97905,
+            37.88869
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000060-000.json": {
+                "title": "اذربيجان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḏarbayǧān",
+            "cornu_URI": "ADHARBAYJAN_479E382N_R",
+            "toponym_arabic": "أذربيجان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Adharbayjan",
+            "toponym_arabic_other": "أذربيجان",
+            "toponym_translit": "Aḏarbayǧān",
+            "coord_lat": "38.24076",
+            "toponym_search": "Adharbayjan",
+            "region_code": "Rihab",
+            "coord_lon": "47.95801",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.95801,
+            38.24076
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Ḫarak",
+            "cornu_URI": "JAZIRAKHARAK_503E292N_R",
+            "toponym_arabic": "جزيرة خرك",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Jazira Kharak",
+            "toponym_arabic_other": "جزيرة خرك",
+            "toponym_translit": "Ǧazīraŧ Ḫarak",
+            "coord_lat": "29.23531",
+            "toponym_search": "Jazira Kharak",
+            "region_code": "Faris",
+            "coord_lon": "50.33529",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.33529,
+            29.23531
+        ]
+    }
+}

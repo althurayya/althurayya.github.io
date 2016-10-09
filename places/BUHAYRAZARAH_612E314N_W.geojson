@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Zarah, Buḥayraŧ al-Ṣanṭ",
+            "cornu_URI": "BUHAYRAZARAH_612E314N_W",
+            "toponym_arabic": "بحيرة زره",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Zarah, Buhayra al-Sant",
+            "toponym_arabic_other": "بحيرة زره، بحيرة الصنط",
+            "toponym_translit": "Buḥayraŧ Zarah",
+            "coord_lat": "31.47449",
+            "toponym_search": "Buhayra Zarah, Buhayra al-Sant",
+            "region_code": "Sijistan",
+            "coord_lon": "61.23634",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.23634,
+            31.47449
+        ]
+    }
+}

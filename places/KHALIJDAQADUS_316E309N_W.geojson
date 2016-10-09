@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫalīǧ Daqādūs",
+            "cornu_URI": "KHALIJDAQADUS_316E309N_W",
+            "toponym_arabic": "خليج دقادوس",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Khalij Daqadus",
+            "toponym_arabic_other": "خليج دقادوس",
+            "toponym_translit": "Ḫalīǧ Daqādūs",
+            "coord_lat": "30.93839",
+            "toponym_search": "Khalij Daqadus",
+            "region_code": "Egypt",
+            "coord_lon": "31.65521",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.65521,
+            30.93839
+        ]
+    }
+}

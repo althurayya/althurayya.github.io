@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAqabaŧ al-Fīq, Afīq, Fīq",
+            "cornu_URI": "AQABAFIQ_356E327N_S",
+            "toponym_arabic": "عقبة الفيق",
+            "top_type_orig": "bourgade/passe",
+            "toponym_buckwalter": "Aqaba al-Fiq, Afiq, Fiq",
+            "toponym_arabic_other": "عقبة الفيق، أفيق، فيق",
+            "toponym_translit": "ʿAqabaŧ al-Fīq",
+            "coord_lat": "32.77421",
+            "toponym_search": "Aqaba al-Fiq, Afiq, Fiq",
+            "region_code": "Sham",
+            "coord_lon": "35.67655",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.67655,
+            32.77421
+        ]
+    }
+}

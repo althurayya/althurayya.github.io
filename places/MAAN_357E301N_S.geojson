@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001466-000.json": {
+                "title": "معان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿān, Muʿān",
+            "cornu_URI": "MAAN_357E301N_S",
+            "toponym_arabic": "معان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maan, Muan",
+            "toponym_arabic_other": "معان، معان",
+            "toponym_translit": "Maʿān",
+            "coord_lat": "30.19664",
+            "toponym_search": "Maan, Muan",
+            "region_code": "Sham",
+            "coord_lon": "35.72442",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.72442,
+            30.19664
+        ]
+    }
+}

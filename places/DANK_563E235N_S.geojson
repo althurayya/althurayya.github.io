@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḍank",
+            "cornu_URI": "DANK_563E235N_S",
+            "toponym_arabic": "ضنك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dank",
+            "toponym_arabic_other": "ضنك",
+            "toponym_translit": "Ḍank",
+            "coord_lat": "23.53023",
+            "toponym_search": "Dank",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "56.30591",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.30591,
+            23.53023
+        ]
+    }
+}

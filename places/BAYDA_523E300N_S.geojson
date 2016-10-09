@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001542-000.json": {
+                "title": "نسا",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000319-000.json": {
+                "title": "البيضاء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bayḍāʾ, Nasā",
+            "cornu_URI": "BAYDA_523E300N_S",
+            "toponym_arabic": "البيضاء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Bayda, Nasa",
+            "toponym_arabic_other": "البيضاء، نسا",
+            "toponym_translit": "al-Bayḍāʾ",
+            "coord_lat": "30.03958",
+            "toponym_search": "al-Bayda, Nasa",
+            "region_code": "Faris",
+            "coord_lon": "52.36712",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.36712,
+            30.03958
+        ]
+    }
+}

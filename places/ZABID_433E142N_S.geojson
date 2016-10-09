@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000740-000.json": {
+                "title": "زبيد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zabīd",
+            "cornu_URI": "ZABID_433E142N_S",
+            "toponym_arabic": "زبيد",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Zabid",
+            "toponym_arabic_other": "زبيد",
+            "toponym_translit": "Zabīd",
+            "coord_lat": "14.20796",
+            "toponym_search": "Zabid",
+            "region_code": "Yemen",
+            "coord_lon": "43.32654",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.32654,
+            14.20796
+        ]
+    }
+}

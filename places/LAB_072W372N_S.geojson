@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Lab",
+            "cornu_URI": "LAB_072W372N_S",
+            "toponym_arabic": "لب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Lab",
+            "toponym_arabic_other": "لب",
+            "toponym_translit": "Lab",
+            "coord_lat": "37.23807",
+            "toponym_search": "Lab",
+            "region_code": "Andalus",
+            "coord_lon": "-7.21996",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.21996,
+            37.23807
+        ]
+    }
+}

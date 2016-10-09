@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaṣabaŧ",
+            "cornu_URI": "QASABA_397E350N_S",
+            "toponym_arabic": "القصبة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qasaba",
+            "toponym_arabic_other": "القصبة",
+            "toponym_translit": "al-Qaṣabaŧ",
+            "coord_lat": "35.05726",
+            "toponym_search": "al-Qasaba",
+            "region_code": "Aqur",
+            "coord_lon": "39.76511",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.76511,
+            35.05726
+        ]
+    }
+}

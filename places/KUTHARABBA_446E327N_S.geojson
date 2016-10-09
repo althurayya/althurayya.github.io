@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūṯá Rabbaŧ",
+            "cornu_URI": "KUTHARABBA_446E327N_S",
+            "toponym_arabic": "كوثى ربة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kutha Rabba",
+            "toponym_arabic_other": "كوثى ربة",
+            "toponym_translit": "Kūṯá Rabbaŧ",
+            "coord_lat": "32.75737",
+            "toponym_search": "Kutha Rabba",
+            "region_code": "Iraq",
+            "coord_lon": "44.62604",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.62604,
+            32.75737
+        ]
+    }
+}

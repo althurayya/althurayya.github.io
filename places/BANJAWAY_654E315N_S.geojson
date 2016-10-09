@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banǧawāy",
+            "cornu_URI": "BANJAWAY_654E315N_S",
+            "toponym_arabic": "بنجواي",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Banjaway",
+            "toponym_arabic_other": "بنجواي",
+            "toponym_translit": "Banǧawāy",
+            "coord_lat": "31.51036",
+            "toponym_search": "Banjaway",
+            "region_code": "Sijistan",
+            "coord_lon": "65.43237",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.43237,
+            31.51036
+        ]
+    }
+}

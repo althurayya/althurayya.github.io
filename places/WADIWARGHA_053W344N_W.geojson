@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Warġaŧ",
+            "cornu_URI": "WADIWARGHA_053W344N_W",
+            "toponym_arabic": "وادي ورغة",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Wargha",
+            "toponym_arabic_other": "وادي ورغة",
+            "toponym_translit": "Wādī Warġaŧ",
+            "coord_lat": "34.49584",
+            "toponym_search": "Wadi Wargha",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.30163",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.30163,
+            34.49584
+        ]
+    }
+}

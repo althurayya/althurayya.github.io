@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Futuq",
+            "cornu_URI": "FUTUQ_412E214N_S",
+            "toponym_arabic": "الفتق",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Futuq",
+            "toponym_arabic_other": "الفتق",
+            "toponym_translit": "al-Futuq",
+            "coord_lat": "21.44752",
+            "toponym_search": "al-Futuq",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.28101",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.28101,
+            21.44752
+        ]
+    }
+}

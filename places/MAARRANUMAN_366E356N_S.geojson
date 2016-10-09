@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001465-000.json": {
+                "title": "معره النعمان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿarraŧ al-Nuʿmān",
+            "cornu_URI": "MAARRANUMAN_366E356N_S",
+            "toponym_arabic": "معرة النعمان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maarra al-Numan",
+            "toponym_arabic_other": "معرة النعمان",
+            "toponym_translit": "Maʿarraŧ al-Nuʿmān",
+            "coord_lat": "35.64344",
+            "toponym_search": "Maarra al-Numan",
+            "region_code": "Sham",
+            "coord_lon": "36.69124",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.69124,
+            35.64344
+        ]
+    }
+}

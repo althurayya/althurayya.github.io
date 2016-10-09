@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000234-000.json": {
+                "title": "برذعه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barḏaʿaŧ",
+            "cornu_URI": "BARDHAA_472E404N_S",
+            "toponym_arabic": "برذعة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Bardhaa",
+            "toponym_arabic_other": "برذعة",
+            "toponym_translit": "Barḏaʿaŧ",
+            "coord_lat": "40.45334",
+            "toponym_search": "Bardhaa",
+            "region_code": "Rihab",
+            "coord_lon": "47.23624",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.23624,
+            40.45334
+        ]
+    }
+}

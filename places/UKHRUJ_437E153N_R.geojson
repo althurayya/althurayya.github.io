@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Uḫrūǧ",
+            "cornu_URI": "UKHRUJ_437E153N_R",
+            "toponym_arabic": "الأخروج",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Ukhruj",
+            "toponym_arabic_other": "الأخروج",
+            "toponym_translit": "al-Uḫrūǧ",
+            "coord_lat": "15.34103",
+            "toponym_search": "al-Ukhruj",
+            "region_code": "Yemen",
+            "coord_lon": "43.73654",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.73654,
+            15.34103
+        ]
+    }
+}

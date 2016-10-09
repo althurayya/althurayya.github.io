@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dummāwand",
+            "cornu_URI": "DUMMAWAND_520E357N_R",
+            "toponym_arabic": "دماوند",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Dummawand",
+            "toponym_arabic_other": "دماوند",
+            "toponym_translit": "Dummāwand",
+            "coord_lat": "35.75607",
+            "toponym_search": "Dummawand",
+            "region_code": "Jibal",
+            "coord_lon": "52.07774",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.07774,
+            35.75607
+        ]
+    }
+}

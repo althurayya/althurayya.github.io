@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArfaǧaŧ",
+            "cornu_URI": "ARFAJA_487E276N_S",
+            "toponym_arabic": "عرفجة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Arfaja",
+            "toponym_arabic_other": "عرفجة",
+            "toponym_translit": "ʿArfaǧaŧ",
+            "coord_lat": "27.68528",
+            "toponym_search": "Arfaja",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "48.72446",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.72446,
+            27.68528
+        ]
+    }
+}

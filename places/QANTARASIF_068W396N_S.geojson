@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001227-000.json": {
+                "title": "قنطره السيف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qanṭaraŧ al-Sīf",
+            "cornu_URI": "QANTARASIF_068W396N_S",
+            "toponym_arabic": "قنطرة السيف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qantara al-Sif",
+            "toponym_arabic_other": "قنطرة السيف",
+            "toponym_translit": "Qanṭaraŧ al-Sīf",
+            "coord_lat": "39.69061",
+            "toponym_search": "Qantara al-Sif",
+            "region_code": "Andalus",
+            "coord_lon": "-6.84140",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.8414,
+            39.69061
+        ]
+    }
+}

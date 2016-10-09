@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr al-ʿIbādī, Qabr al-ʿIbādī",
+            "cornu_URI": "QASRIBADI_172E309N_S",
+            "toponym_arabic": "قصر العبادي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qasr al-Ibadi, Qabr al-Ibadi",
+            "toponym_arabic_other": "قصر العبادي، قبر العبادي",
+            "toponym_translit": "Qaṣr al-ʿIbādī",
+            "coord_lat": "30.94914",
+            "toponym_search": "Qasr al-Ibadi, Qabr al-Ibadi",
+            "region_code": "Barqa",
+            "coord_lon": "17.29329",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.29329,
+            30.94914
+        ]
+    }
+}

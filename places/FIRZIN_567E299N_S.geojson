@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000136-000.json": {
+                "title": "افرندين",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Firzīn, Firdīn",
+            "cornu_URI": "FIRZIN_567E299N_S",
+            "toponym_arabic": "فرزين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Firzin, Firdin",
+            "toponym_arabic_other": "فرزين، فردين",
+            "toponym_translit": "Firzīn",
+            "coord_lat": "29.95407",
+            "toponym_search": "Firzin, Firdin",
+            "region_code": "Kirman",
+            "coord_lon": "56.77211",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.77211,
+            29.95407
+        ]
+    }
+}

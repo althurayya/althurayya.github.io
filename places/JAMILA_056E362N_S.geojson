@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧamīlā",
+            "cornu_URI": "JAMILA_056E362N_S",
+            "toponym_arabic": "جميلا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jamila",
+            "toponym_arabic_other": "جميلا",
+            "toponym_translit": "Ǧamīlā",
+            "coord_lat": "36.24063",
+            "toponym_search": "Jamila",
+            "region_code": "Maghrib",
+            "coord_lon": "5.60237",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.60237,
+            36.24063
+        ]
+    }
+}

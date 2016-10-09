@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḏaḫkaṯ",
+            "cornu_URI": "BADHAKHKATH_701E424N_S",
+            "toponym_arabic": "بذخكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Badhakhkath",
+            "toponym_arabic_other": "بذخكث",
+            "toponym_translit": "Baḏaḫkaṯ",
+            "coord_lat": "42.45971",
+            "toponym_search": "Badhakhkath",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.19287",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.19287,
+            42.45971
+        ]
+    }
+}

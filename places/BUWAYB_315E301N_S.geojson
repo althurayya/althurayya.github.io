@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buwayb",
+            "cornu_URI": "BUWAYB_315E301N_S",
+            "toponym_arabic": "بويب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Buwayb",
+            "toponym_arabic_other": "بويب",
+            "toponym_translit": "Buwayb",
+            "coord_lat": "30.16955",
+            "toponym_search": "Buwayb",
+            "region_code": "Egypt",
+            "coord_lon": "31.57979",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.57979,
+            30.16955
+        ]
+    }
+}

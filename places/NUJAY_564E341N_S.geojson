@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nuǧāy, Nūḫānī",
+            "cornu_URI": "NUJAY_564E341N_S",
+            "toponym_arabic": "نجاي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Nujay, Nukhani",
+            "toponym_arabic_other": "نجاي، نوخاني",
+            "toponym_translit": "Nuǧāy",
+            "coord_lat": "34.11501",
+            "toponym_search": "Nujay, Nukhani",
+            "region_code": "Mafaza",
+            "coord_lon": "56.48900",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.489,
+            34.11501
+        ]
+    }
+}

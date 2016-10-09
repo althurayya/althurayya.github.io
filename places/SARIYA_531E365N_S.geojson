@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001262-000.json": {
+                "title": "قيساريه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sāriyaŧ",
+            "cornu_URI": "SARIYA_531E365N_S",
+            "toponym_arabic": "سارية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sariya",
+            "toponym_arabic_other": "سارية",
+            "toponym_translit": "Sāriyaŧ",
+            "coord_lat": "36.53215",
+            "toponym_search": "Sariya",
+            "region_code": "Daylam",
+            "coord_lon": "53.11807",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.11807,
+            36.53215
+        ]
+    }
+}

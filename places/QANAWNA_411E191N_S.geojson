@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qanawnaŧ",
+            "cornu_URI": "QANAWNA_411E191N_S",
+            "toponym_arabic": "قنونة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qanawna",
+            "toponym_arabic_other": "قنونة",
+            "toponym_translit": "Qanawnaŧ",
+            "coord_lat": "19.12337",
+            "toponym_search": "Qanawna",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.15761",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.15761,
+            19.12337
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darīz",
+            "cornu_URI": "DARIZ_515E296N_S",
+            "toponym_arabic": "دريز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dariz",
+            "toponym_arabic_other": "دريز",
+            "toponym_translit": "Darīz",
+            "coord_lat": "29.66188",
+            "toponym_search": "Dariz",
+            "region_code": "Faris",
+            "coord_lon": "51.54129",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.54129,
+            29.66188
+        ]
+    }
+}

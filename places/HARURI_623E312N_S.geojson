@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥarūrī",
+            "cornu_URI": "HARURI_623E312N_S",
+            "toponym_arabic": "حروري",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Haruri",
+            "toponym_arabic_other": "حروري",
+            "toponym_translit": "Ḥarūrī",
+            "coord_lat": "31.28570",
+            "toponym_search": "Haruri",
+            "region_code": "Sijistan",
+            "coord_lon": "62.39332",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.39332,
+            31.2857
+        ]
+    }
+}

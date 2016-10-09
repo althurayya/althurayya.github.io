@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫundāb",
+            "cornu_URI": "KHUNDAB_492E344N_S",
+            "toponym_arabic": "خنداب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khundab",
+            "toponym_arabic_other": "خنداب",
+            "toponym_translit": "Ḫundāb",
+            "coord_lat": "34.41215",
+            "toponym_search": "Khundab",
+            "region_code": "Jibal",
+            "coord_lon": "49.27004",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.27004,
+            34.41215
+        ]
+    }
+}

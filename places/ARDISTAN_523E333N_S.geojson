@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ardistān",
+            "cornu_URI": "ARDISTAN_523E333N_S",
+            "toponym_arabic": "أردستان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ardistan",
+            "toponym_arabic_other": "أردستان",
+            "toponym_translit": "Ardistān",
+            "coord_lat": "33.37701",
+            "toponym_search": "Ardistan",
+            "region_code": "Jibal",
+            "coord_lon": "52.36669",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.36669,
+            33.37701
+        ]
+    }
+}

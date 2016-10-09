@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿarraŧ Qinnasrīn",
+            "cornu_URI": "MAARRAQINNASRIN_366E360N_S",
+            "toponym_arabic": "معرة قنسرين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maarra Qinnasrin",
+            "toponym_arabic_other": "معرة قنسرين",
+            "toponym_translit": "Maʿarraŧ Qinnasrīn",
+            "coord_lat": "36.01376",
+            "toponym_search": "Maarra Qinnasrin",
+            "region_code": "Sham",
+            "coord_lon": "36.69667",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.69667,
+            36.01376
+        ]
+    }
+}

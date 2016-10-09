@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000919-000.json": {
+                "title": "صرصر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣarṣar, Ǧisr Ṣarṣar",
+            "cornu_URI": "SARSAR_443E331N_S",
+            "toponym_arabic": "صرصر",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Sarsar, Jisr Sarsar",
+            "toponym_arabic_other": "صرصر، جسر صرصر",
+            "toponym_translit": "Ṣarṣar",
+            "coord_lat": "33.10972",
+            "toponym_search": "Sarsar, Jisr Sarsar",
+            "region_code": "Iraq",
+            "coord_lon": "44.37025",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.37025,
+            33.10972
+        ]
+    }
+}

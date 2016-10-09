@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001267-000.json": {
+                "title": "القيس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qays",
+            "cornu_URI": "QAYS_307E285N_S",
+            "toponym_arabic": "القيس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Qays",
+            "toponym_arabic_other": "القيس",
+            "toponym_translit": "al-Qays",
+            "coord_lat": "28.52624",
+            "toponym_search": "al-Qays",
+            "region_code": "Egypt",
+            "coord_lon": "30.78687",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.78687,
+            28.52624
+        ]
+    }
+}

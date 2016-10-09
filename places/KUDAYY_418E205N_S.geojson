@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kudayy",
+            "cornu_URI": "KUDAYY_418E205N_S",
+            "toponym_arabic": "كدي",
+            "top_type_orig": "etape?",
+            "toponym_buckwalter": "Kudayy",
+            "toponym_arabic_other": "كدي",
+            "toponym_translit": "Kudayy",
+            "coord_lat": "20.55409",
+            "toponym_search": "Kudayy",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.87220",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.8722,
+            20.55409
+        ]
+    }
+}

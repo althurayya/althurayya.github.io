@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000600-000.json": {
+                "title": "الدردور",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rūr",
+            "cornu_URI": "RUR_689E276N_S",
+            "toponym_arabic": "الرور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Rur",
+            "toponym_arabic_other": "الرور",
+            "toponym_translit": "al-Rūr",
+            "coord_lat": "27.65788",
+            "toponym_search": "al-Rur",
+            "region_code": "Sind",
+            "coord_lon": "68.90569",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.90569,
+            27.65788
+        ]
+    }
+}

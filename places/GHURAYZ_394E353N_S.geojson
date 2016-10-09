@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġurayz , al-ʿUrayr",
+            "cornu_URI": "GHURAYZ_394E353N_S",
+            "toponym_arabic": "الغريز ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ghurayz , al-Urayr",
+            "toponym_arabic_other": "الغريز ، العرير",
+            "toponym_translit": "al-Ġurayz ",
+            "coord_lat": "35.32264",
+            "toponym_search": "al-Ghurayz , al-Urayr",
+            "region_code": "Aqur",
+            "coord_lon": "39.46613",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.46613,
+            35.32264
+        ]
+    }
+}

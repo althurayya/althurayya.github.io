@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001414-000.json": {
+                "title": "مرسي الدجاج",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marsá al-Daǧǧāǧ",
+            "cornu_URI": "MARSADAJJAJ_035E367N_S",
+            "toponym_arabic": "مرسى الدجاج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Marsa al-Dajjaj",
+            "toponym_arabic_other": "مرسى الدجاج",
+            "toponym_translit": "Marsá al-Daǧǧāǧ",
+            "coord_lat": "36.73169",
+            "toponym_search": "Marsa al-Dajjaj",
+            "region_code": "Maghrib",
+            "coord_lon": "3.58797",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.58797,
+            36.73169
+        ]
+    }
+}

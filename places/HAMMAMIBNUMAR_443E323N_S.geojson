@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥammām Ibn ʿUmar",
+            "cornu_URI": "HAMMAMIBNUMAR_443E323N_S",
+            "toponym_arabic": "حمام إبن عمر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hammam Ibn Umar",
+            "toponym_arabic_other": "حمام إبن عمر",
+            "toponym_translit": "Ḥammām Ibn ʿUmar",
+            "coord_lat": "32.39084",
+            "toponym_search": "Hammam Ibn Umar",
+            "region_code": "Iraq",
+            "coord_lon": "44.34773",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.34773,
+            32.39084
+        ]
+    }
+}

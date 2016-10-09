@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001176-000.json": {
+                "title": "قدس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001163-000.json": {
+                "title": "قادس",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qadas",
+            "cornu_URI": "QADAS_354E331N_S",
+            "toponym_arabic": "قدس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qadas",
+            "toponym_arabic_other": "قدس",
+            "toponym_translit": "Qadas",
+            "coord_lat": "33.12189",
+            "toponym_search": "Qadas",
+            "region_code": "Sham",
+            "coord_lon": "35.49123",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.49123,
+            33.12189
+        ]
+    }
+}

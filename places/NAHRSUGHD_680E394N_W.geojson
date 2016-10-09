@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Ṣuġd, Nahr Buḫāraŧ",
+            "cornu_URI": "NAHRSUGHD_680E394N_W",
+            "toponym_arabic": "نهر الصغد",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Sughd, Nahr Bukhara",
+            "toponym_arabic_other": "نهر الصغد، نهر بخارة",
+            "toponym_translit": "Nahr al-Ṣuġd",
+            "coord_lat": "39.40150",
+            "toponym_search": "Nahr al-Sughd, Nahr Bukhara",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.07129",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.07129,
+            39.4015
+        ]
+    }
+}

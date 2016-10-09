@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000077-000.json": {
+                "title": "ارزن",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kārzin",
+            "cornu_URI": "KARZIN_531E284N_S",
+            "toponym_arabic": "كارزن",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Karzin",
+            "toponym_arabic_other": "كارزن",
+            "toponym_translit": "Kārzin",
+            "coord_lat": "28.40599",
+            "toponym_search": "Karzin",
+            "region_code": "Faris",
+            "coord_lon": "53.11293",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.11293,
+            28.40599
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000848-000.json": {
+                "title": "السويديه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Suwaydiyyaŧ",
+            "cornu_URI": "SUWAYDIYYA_359E360N_S",
+            "toponym_arabic": "السويدية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Suwaydiyya",
+            "toponym_arabic_other": "السويدية",
+            "toponym_translit": "al-Suwaydiyyaŧ",
+            "coord_lat": "36.08960",
+            "toponym_search": "al-Suwaydiyya",
+            "region_code": "Sham",
+            "coord_lon": "35.99387",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.99387,
+            36.0896
+        ]
+    }
+}

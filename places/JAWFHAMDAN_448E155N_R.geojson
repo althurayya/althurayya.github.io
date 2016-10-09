@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧawf Hamdān",
+            "cornu_URI": "JAWFHAMDAN_448E155N_R",
+            "toponym_arabic": "جوف همدان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jawf Hamdan",
+            "toponym_arabic_other": "جوف همدان",
+            "toponym_translit": "Ǧawf Hamdān",
+            "coord_lat": "15.59445",
+            "toponym_search": "Jawf Hamdan",
+            "region_code": "Yemen",
+            "coord_lon": "44.81642",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.81642,
+            15.59445
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Karūdīn",
+            "cornu_URI": "RIBATKARUDIN_631E313N_S",
+            "toponym_arabic": "رباط كرودين",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Karudin",
+            "toponym_arabic_other": "رباط كرودين",
+            "toponym_translit": "Ribāṭ Karūdīn",
+            "coord_lat": "31.38151",
+            "toponym_search": "Ribat Karudin",
+            "region_code": "Sijistan",
+            "coord_lon": "63.14407",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.14407,
+            31.38151
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000704-000.json": {
+                "title": "رشيد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rašīd",
+            "cornu_URI": "RASHID_303E314N_S",
+            "toponym_arabic": "رشيد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rashid",
+            "toponym_arabic_other": "رشيد",
+            "toponym_translit": "Rašīd",
+            "coord_lat": "31.41298",
+            "toponym_search": "Rashid",
+            "region_code": "Egypt",
+            "coord_lon": "30.37989",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.37989,
+            31.41298
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000431-000.json": {
+                "title": "جده",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001610-000.json": {
+                "title": "وجده",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuddaŧ",
+            "cornu_URI": "JUDDA_391E214N_S",
+            "toponym_arabic": "جدة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Judda",
+            "toponym_arabic_other": "جدة",
+            "toponym_translit": "Ǧuddaŧ",
+            "coord_lat": "21.46201",
+            "toponym_search": "Judda",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.17790",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.1779,
+            21.46201
+        ]
+    }
+}

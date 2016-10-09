@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banū Wārīfan",
+            "cornu_URI": "BANUWARIFAN_020E362N_S",
+            "toponym_arabic": "بنو واريفن",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Banu Warifan",
+            "toponym_arabic_other": "بنو واريفن",
+            "toponym_translit": "Banū Wārīfan",
+            "coord_lat": "36.21928",
+            "toponym_search": "Banu Warifan",
+            "region_code": "Maghrib",
+            "coord_lon": "2.02980",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.0298,
+            36.21928
+        ]
+    }
+}

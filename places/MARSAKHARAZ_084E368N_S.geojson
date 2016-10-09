@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001412-000.json": {
+                "title": "مرسي الخرز",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marsá al-Ḫaraz",
+            "cornu_URI": "MARSAKHARAZ_084E368N_S",
+            "toponym_arabic": "مرسى الخرز",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Marsa al-Kharaz",
+            "toponym_arabic_other": "مرسى الخرز",
+            "toponym_translit": "Marsá al-Ḫaraz",
+            "coord_lat": "36.85460",
+            "toponym_search": "Marsa al-Kharaz",
+            "region_code": "Maghrib",
+            "coord_lon": "8.42231",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.42231,
+            36.8546
+        ]
+    }
+}

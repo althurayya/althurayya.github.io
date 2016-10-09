@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000120-000.json": {
+                "title": "انصنا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Anṣinā",
+            "cornu_URI": "ANSINA_308E279N_S",
+            "toponym_arabic": "أنصنا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ansina",
+            "toponym_arabic_other": "أنصنا",
+            "toponym_translit": "Anṣinā",
+            "coord_lat": "27.90125",
+            "toponym_search": "Ansina",
+            "region_code": "Egypt",
+            "coord_lon": "30.84685",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.84685,
+            27.90125
+        ]
+    }
+}

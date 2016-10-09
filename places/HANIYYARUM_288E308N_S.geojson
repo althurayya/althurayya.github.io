@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥaniyyaŧ al-Rūm, Quṣūr al-Rūm",
+            "cornu_URI": "HANIYYARUM_288E308N_S",
+            "toponym_arabic": "حنية الروم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Haniyya al-Rum, Qusur al-Rum",
+            "toponym_arabic_other": "حنية الروم، قصور الروم",
+            "toponym_translit": "Ḥaniyyaŧ al-Rūm",
+            "coord_lat": "30.80549",
+            "toponym_search": "Haniyya al-Rum, Qusur al-Rum",
+            "region_code": "Barqa",
+            "coord_lon": "28.85190",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.8519,
+            30.80549
+        ]
+    }
+}

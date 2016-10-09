@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sīnīz, Šīnīz",
+            "cornu_URI": "SINIZ_502E299N_S",
+            "toponym_arabic": "سينيز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Siniz, Shiniz",
+            "toponym_arabic_other": "سينيز، شينيز",
+            "toponym_translit": "Sīnīz",
+            "coord_lat": "29.92283",
+            "toponym_search": "Siniz, Shiniz",
+            "region_code": "Faris",
+            "coord_lon": "50.27838",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.27838,
+            29.92283
+        ]
+    }
+}

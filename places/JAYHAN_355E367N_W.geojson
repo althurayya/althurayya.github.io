@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000491-000.json": {
+                "title": "جيحان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧayḥān",
+            "cornu_URI": "JAYHAN_355E367N_W",
+            "toponym_arabic": "الجيحان",
+            "top_type_orig": "fleuve",
+            "toponym_buckwalter": "al-Jayhan",
+            "toponym_arabic_other": "الجيحان",
+            "toponym_translit": "al-Ǧayḥān",
+            "coord_lat": "36.79276",
+            "toponym_search": "al-Jayhan",
+            "region_code": "Sham",
+            "coord_lon": "35.58877",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.58877,
+            36.79276
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ al-Āstānaŧ",
+            "cornu_URI": "RIBATASTANA_649E366N_S",
+            "toponym_arabic": "رباط الآستانة",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat al-Astana",
+            "toponym_arabic_other": "رباط الآستانة",
+            "toponym_translit": "Ribāṭ al-Āstānaŧ",
+            "coord_lat": "36.67509",
+            "toponym_search": "Ribat al-Astana",
+            "region_code": "Khurasan",
+            "coord_lon": "64.97971",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.97971,
+            36.67509
+        ]
+    }
+}

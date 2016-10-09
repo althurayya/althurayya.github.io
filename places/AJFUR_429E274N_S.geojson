@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000474-000.json": {
+                "title": "الجفار",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aǧfur",
+            "cornu_URI": "AJFUR_429E274N_S",
+            "toponym_arabic": "الأجفر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ajfur",
+            "toponym_arabic_other": "الأجفر",
+            "toponym_translit": "al-Aǧfur",
+            "coord_lat": "27.44255",
+            "toponym_search": "al-Ajfur",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.97781",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.97781,
+            27.44255
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000168-000.json": {
+                "title": "اشك",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asak, Ašk",
+            "cornu_URI": "ASAK_522E358N_S",
+            "toponym_arabic": "أسك",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Asak, Ashk",
+            "toponym_arabic_other": "أسك، أشك",
+            "toponym_translit": "Asak",
+            "coord_lat": "35.87340",
+            "toponym_search": "Asak, Ashk",
+            "region_code": "Daylam",
+            "coord_lon": "52.21623",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.21623,
+            35.8734
+        ]
+    }
+}

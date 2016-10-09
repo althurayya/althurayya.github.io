@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arḥab",
+            "cornu_URI": "ARHAB_443E158N_R",
+            "toponym_arabic": "أرحب",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Arhab",
+            "toponym_arabic_other": "أرحب",
+            "toponym_translit": "Arḥab",
+            "coord_lat": "15.82412",
+            "toponym_search": "Arhab",
+            "region_code": "Yemen",
+            "coord_lon": "44.39237",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.39237,
+            15.82412
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal al-Ǧūdī",
+            "cornu_URI": "JABALJUDI_425E373N_O",
+            "toponym_arabic": "جبل الجودي",
+            "top_type_orig": "montagne",
+            "toponym_buckwalter": "Jabal al-Judi",
+            "toponym_arabic_other": "جبل الجودي",
+            "toponym_translit": "Ǧabal al-Ǧūdī",
+            "coord_lat": "37.36064",
+            "toponym_search": "Jabal al-Judi",
+            "region_code": "Aqur",
+            "coord_lon": "42.51884",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.51884,
+            37.36064
+        ]
+    }
+}

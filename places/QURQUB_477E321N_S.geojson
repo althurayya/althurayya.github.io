@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurqūb",
+            "cornu_URI": "QURQUB_477E321N_S",
+            "toponym_arabic": "قرقوب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qurqub",
+            "toponym_arabic_other": "قرقوب",
+            "toponym_translit": "Qurqūb",
+            "coord_lat": "32.17254",
+            "toponym_search": "Qurqub",
+            "region_code": "Iraq",
+            "coord_lon": "47.70188",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.70188,
+            32.17254
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḫāḍaŧ al-Balāṭ",
+            "cornu_URI": "MAKHADABALAT_060W398N_S",
+            "toponym_arabic": "مخاضة البلاط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Makhada al-Balat",
+            "toponym_arabic_other": "مخاضة البلاط",
+            "toponym_translit": "Maḫāḍaŧ al-Balāṭ",
+            "coord_lat": "39.80641",
+            "toponym_search": "Makhada al-Balat",
+            "region_code": "Andalus",
+            "coord_lon": "-6.06629",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.06629,
+            39.80641
+        ]
+    }
+}

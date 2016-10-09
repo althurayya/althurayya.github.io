@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bārimmā",
+            "cornu_URI": "BARIMMA_435E350N_S",
+            "toponym_arabic": "بارما",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Barimma",
+            "toponym_arabic_other": "بارما",
+            "toponym_translit": "Bārimmā",
+            "coord_lat": "35.07982",
+            "toponym_search": "Barimma",
+            "region_code": "Iraq",
+            "coord_lon": "43.57361",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.57361,
+            35.07982
+        ]
+    }
+}

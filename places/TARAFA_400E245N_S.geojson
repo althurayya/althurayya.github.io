@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṭarafaŧ, al-Ṭaraf",
+            "cornu_URI": "TARAFA_400E245N_S",
+            "toponym_arabic": "الطرفة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Tarafa, al-Taraf",
+            "toponym_arabic_other": "الطرفة، الطرف",
+            "toponym_translit": "al-Ṭarafaŧ",
+            "coord_lat": "24.59544",
+            "toponym_search": "al-Tarafa, al-Taraf",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.02342",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.02342,
+            24.59544
+        ]
+    }
+}

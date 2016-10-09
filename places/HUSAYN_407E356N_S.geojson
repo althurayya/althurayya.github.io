@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥuṣayn",
+            "cornu_URI": "HUSAYN_407E356N_S",
+            "toponym_arabic": "الحصين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Husayn",
+            "toponym_arabic_other": "الحصين",
+            "toponym_translit": "al-Ḥuṣayn",
+            "coord_lat": "35.62321",
+            "toponym_search": "al-Husayn",
+            "region_code": "Aqur",
+            "coord_lon": "40.71642",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.71642,
+            35.62321
+        ]
+    }
+}

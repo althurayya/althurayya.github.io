@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000264-000.json": {
+                "title": "البلقاء",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qāʾ",
+            "cornu_URI": "QA_653E363N_S",
+            "toponym_arabic": "القاء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qa",
+            "toponym_arabic_other": "القاء",
+            "toponym_translit": "al-Qāʾ",
+            "coord_lat": "36.35640",
+            "toponym_search": "al-Qa",
+            "region_code": "Khurasan",
+            "coord_lon": "65.32516",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.32516,
+            36.3564
+        ]
+    }
+}

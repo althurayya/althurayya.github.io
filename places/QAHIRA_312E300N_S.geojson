@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001165-000.json": {
+                "title": "القاهره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qāhiraŧ",
+            "cornu_URI": "QAHIRA_312E300N_S",
+            "toponym_arabic": "القاهرة",
+            "top_type_orig": "quartier",
+            "toponym_buckwalter": "al-Qahira",
+            "toponym_arabic_other": "القاهرة",
+            "toponym_translit": "al-Qāhiraŧ",
+            "coord_lat": "30.05778",
+            "toponym_search": "al-Qahira",
+            "region_code": "Egypt",
+            "coord_lon": "31.24168",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "quarters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.24168,
+            30.05778
+        ]
+    }
+}

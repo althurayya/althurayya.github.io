@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫaywān",
+            "cornu_URI": "KHAYWAN_440E162N_R",
+            "toponym_arabic": "خيوان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Khaywan",
+            "toponym_arabic_other": "خيوان",
+            "toponym_translit": "Ḫaywān",
+            "coord_lat": "16.29079",
+            "toponym_search": "Khaywan",
+            "region_code": "Yemen",
+            "coord_lon": "44.06424",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.06424,
+            16.29079
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suġdabīl",
+            "cornu_URI": "SUGHDABIL_452E422N_R",
+            "toponym_arabic": "سغدبيل",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Sughdabil",
+            "toponym_arabic_other": "سغدبيل",
+            "toponym_translit": "Suġdabīl",
+            "coord_lat": "42.27111",
+            "toponym_search": "Sughdabil",
+            "region_code": "Rihab",
+            "coord_lon": "45.26094",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.26094,
+            42.27111
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001195-000.json": {
+                "title": "قطربل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṭrabbul",
+            "cornu_URI": "QATRABBUL_442E333N_S",
+            "toponym_arabic": "قطربل",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Qatrabbul",
+            "toponym_arabic_other": "قطربل",
+            "toponym_translit": "Qaṭrabbul",
+            "coord_lat": "33.39714",
+            "toponym_search": "Qatrabbul",
+            "region_code": "Iraq",
+            "coord_lon": "44.24636",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.24636,
+            33.39714
+        ]
+    }
+}

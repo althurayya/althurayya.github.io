@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001305-000.json": {
+                "title": "كس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001306-000.json": {
+                "title": "كش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kišš, Kiss",
+            "cornu_URI": "KISHSH_623E301N_S",
+            "toponym_arabic": "كش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kishsh, Kiss",
+            "toponym_arabic_other": "كش، كس",
+            "toponym_translit": "Kišš",
+            "coord_lat": "30.15265",
+            "toponym_search": "Kishsh, Kiss",
+            "region_code": "Sijistan",
+            "coord_lon": "62.37889",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.37889,
+            30.15265
+        ]
+    }
+}

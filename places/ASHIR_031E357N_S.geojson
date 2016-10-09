@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAšīr",
+            "cornu_URI": "ASHIR_031E357N_S",
+            "toponym_arabic": "عشير",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ashir",
+            "toponym_arabic_other": "عشير",
+            "toponym_translit": "ʿAšīr",
+            "coord_lat": "35.70178",
+            "toponym_search": "Ashir",
+            "region_code": "Maghrib",
+            "coord_lon": "3.16032",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.16032,
+            35.70178
+        ]
+    }
+}

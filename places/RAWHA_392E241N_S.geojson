@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000713-000.json": {
+                "title": "الروحاء",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rawḥāʾ",
+            "cornu_URI": "RAWHA_392E241N_S",
+            "toponym_arabic": "روحاء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Rawha",
+            "toponym_arabic_other": "روحاء",
+            "toponym_translit": "Rawḥāʾ",
+            "coord_lat": "24.11893",
+            "toponym_search": "Rawha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.29760",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.2976,
+            24.11893
+        ]
+    }
+}

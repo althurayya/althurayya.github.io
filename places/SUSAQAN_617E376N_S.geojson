@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sūsaqān, al-Sawsaqān",
+            "cornu_URI": "SUSAQAN_617E376N_S",
+            "toponym_arabic": "السوسقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Susaqan, al-Sawsaqan",
+            "toponym_arabic_other": "السوسقان، السوسقان",
+            "toponym_translit": "al-Sūsaqān",
+            "coord_lat": "37.68151",
+            "toponym_search": "al-Susaqan, al-Sawsaqan",
+            "region_code": "Khurasan",
+            "coord_lon": "61.73152",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.73152,
+            37.68151
+        ]
+    }
+}

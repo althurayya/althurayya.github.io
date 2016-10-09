@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫaraqānaŧ",
+            "cornu_URI": "KHARAQANA_675E399N_S",
+            "toponym_arabic": "خرقانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kharaqana",
+            "toponym_arabic_other": "خرقانة",
+            "toponym_translit": "Ḫaraqānaŧ",
+            "coord_lat": "39.97120",
+            "toponym_search": "Kharaqana",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.58739",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.58739,
+            39.9712
+        ]
+    }
+}

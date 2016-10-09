@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧibāl al-Bāriz",
+            "cornu_URI": "JIBALBARIZ_582E286N_O",
+            "toponym_arabic": "جبال البارز",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jibal al-Bariz",
+            "toponym_arabic_other": "جبال البارز",
+            "toponym_translit": "Ǧibāl al-Bāriz",
+            "coord_lat": "28.67780",
+            "toponym_search": "Jibal al-Bariz",
+            "region_code": "Kirman",
+            "coord_lon": "58.29802",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.29802,
+            28.6778
+        ]
+    }
+}

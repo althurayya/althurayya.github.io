@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001187-000.json": {
+                "title": "قراقر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurākir, Qurāqir",
+            "cornu_URI": "QURAKIR_377E313N_S",
+            "toponym_arabic": "قراكر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qurakir, Quraqir",
+            "toponym_arabic_other": "قراكر، قراقر",
+            "toponym_translit": "Qurākir",
+            "coord_lat": "31.32585",
+            "toponym_search": "Qurakir, Quraqir",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.75187",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.75187,
+            31.32585
+        ]
+    }
+}

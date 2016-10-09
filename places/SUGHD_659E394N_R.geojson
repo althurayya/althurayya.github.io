@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣuġd",
+            "cornu_URI": "SUGHD_659E394N_R",
+            "toponym_arabic": "الصغد",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Sughd",
+            "toponym_arabic_other": "الصغد",
+            "toponym_translit": "al-Ṣuġd",
+            "coord_lat": "39.41449",
+            "toponym_search": "al-Sughd",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.93205",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.93205,
+            39.41449
+        ]
+    }
+}

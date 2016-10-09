@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāzīr, Bāzank",
+            "cornu_URI": "BAZIR_498E316N_S",
+            "toponym_arabic": "بازير",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bazir, Bazank",
+            "toponym_arabic_other": "بازير، بازنك",
+            "toponym_translit": "Bāzīr",
+            "coord_lat": "31.64090",
+            "toponym_search": "Bazir, Bazank",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.89265",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.89265,
+            31.6409
+        ]
+    }
+}

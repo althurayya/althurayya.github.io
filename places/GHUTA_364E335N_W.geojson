@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001115-000.json": {
+                "title": "الغوطه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġūṭaŧ",
+            "cornu_URI": "GHUTA_364E335N_W",
+            "toponym_arabic": "الغوطة",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "al-Ghuta",
+            "toponym_arabic_other": "الغوطة",
+            "toponym_translit": "al-Ġūṭaŧ",
+            "coord_lat": "33.50849",
+            "toponym_search": "al-Ghuta",
+            "region_code": "Sham",
+            "coord_lon": "36.44363",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.44363,
+            33.50849
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000365-000.json": {
+                "title": "تكرو",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karū",
+            "cornu_URI": "KARU_516E317N_S",
+            "toponym_arabic": "كرو",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Karu",
+            "toponym_arabic_other": "كرو",
+            "toponym_translit": "Karū",
+            "coord_lat": "31.79256",
+            "toponym_search": "Karu",
+            "region_code": "Faris",
+            "coord_lon": "51.69552",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.69552,
+            31.79256
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fuwaŧ",
+            "cornu_URI": "FUWA_305E312N_S",
+            "toponym_arabic": "فوة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Fuwa",
+            "toponym_arabic_other": "فوة",
+            "toponym_translit": "Fuwaŧ",
+            "coord_lat": "31.22370",
+            "toponym_search": "Fuwa",
+            "region_code": "Egypt",
+            "coord_lon": "30.50654",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.50654,
+            31.2237
+        ]
+    }
+}

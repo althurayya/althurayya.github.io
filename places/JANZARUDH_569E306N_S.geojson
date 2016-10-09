@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧanzarūḏ, Ǧātrūd",
+            "cornu_URI": "JANZARUDH_569E306N_S",
+            "toponym_arabic": "جنزروذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Janzarudh, Jatrud",
+            "toponym_arabic_other": "جنزروذ، جاترود",
+            "toponym_translit": "Ǧanzarūḏ",
+            "coord_lat": "30.67077",
+            "toponym_search": "Janzarudh, Jatrud",
+            "region_code": "Kirman",
+            "coord_lon": "56.92513",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.92513,
+            30.67077
+        ]
+    }
+}

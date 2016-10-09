@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wazkard, Wizkardaŧ",
+            "cornu_URI": "WAZKARD_672E394N_S",
+            "toponym_arabic": "وزكرد",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Wazkard, Wizkarda",
+            "toponym_arabic_other": "وزكرد، وزكردة",
+            "toponym_translit": "Wazkard",
+            "coord_lat": "39.42539",
+            "toponym_search": "Wazkard, Wizkarda",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.29033",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.29033,
+            39.42539
+        ]
+    }
+}

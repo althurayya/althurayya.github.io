@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001177-000.json": {
+                "title": "قديد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫaym, Ḫaym Umm Maʿbad, Qudayd",
+            "cornu_URI": "KHAYM_395E223N_S",
+            "toponym_arabic": "الخيم",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Khaym, Khaym Umm Mabad, Qudayd",
+            "toponym_arabic_other": "الخيم، خيم أم معبد، قديد",
+            "toponym_translit": "al-Ḫaym",
+            "coord_lat": "22.38571",
+            "toponym_search": "al-Khaym, Khaym Umm Mabad, Qudayd",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.56795",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.56795,
+            22.38571
+        ]
+    }
+}

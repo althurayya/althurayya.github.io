@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000941-000.json": {
+                "title": "صورا",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000942-000.json": {
+                "title": "صور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣūr",
+            "cornu_URI": "SUR_352E332N_S",
+            "toponym_arabic": "صور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sur",
+            "toponym_arabic_other": "صور",
+            "toponym_translit": "Ṣūr",
+            "coord_lat": "33.26921",
+            "toponym_search": "Sur",
+            "region_code": "Sham",
+            "coord_lon": "35.20796",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.20796,
+            33.26921
+        ]
+    }
+}

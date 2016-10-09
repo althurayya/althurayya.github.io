@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001306-000.json": {
+                "title": "كش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kišš, Kašš",
+            "cornu_URI": "KISHSH_668E390N_S",
+            "toponym_arabic": "كش",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Kishsh, Kashsh",
+            "toponym_arabic_other": "كش، كش",
+            "toponym_translit": "Kišš",
+            "coord_lat": "39.03102",
+            "toponym_search": "Kishsh, Kashsh",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.84071",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.84071,
+            39.03102
+        ]
+    }
+}

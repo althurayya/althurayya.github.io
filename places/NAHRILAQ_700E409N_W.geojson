@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Īlāq",
+            "cornu_URI": "NAHRILAQ_700E409N_W",
+            "toponym_arabic": "نهر إيلاق",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Ilaq",
+            "toponym_arabic_other": "نهر إيلاق",
+            "toponym_translit": "Nahr Īlāq",
+            "coord_lat": "40.91403",
+            "toponym_search": "Nahr Ilaq",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.01367",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.01367,
+            40.91403
+        ]
+    }
+}

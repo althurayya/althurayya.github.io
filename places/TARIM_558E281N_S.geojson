@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tārim, Tārum",
+            "cornu_URI": "TARIM_558E281N_S",
+            "toponym_arabic": "تارم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tarim, Tarum",
+            "toponym_arabic_other": "تارم، تارم",
+            "toponym_translit": "Tārim",
+            "coord_lat": "28.18163",
+            "toponym_search": "Tarim, Tarum",
+            "region_code": "Faris",
+            "coord_lon": "55.80841",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.80841,
+            28.18163
+        ]
+    }
+}

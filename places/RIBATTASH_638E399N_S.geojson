@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Tāš",
+            "cornu_URI": "RIBATTASH_638E399N_S",
+            "toponym_arabic": "رباط تاش",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Tash",
+            "toponym_arabic_other": "رباط تاش",
+            "toponym_translit": "Ribāṭ Tāš",
+            "coord_lat": "39.99849",
+            "toponym_search": "Ribat Tash",
+            "region_code": "Transoxiana",
+            "coord_lon": "63.82036",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.82036,
+            39.99849
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫān Lanǧān, Ḫalanǧān, Ḫūlanǧān",
+            "cornu_URI": "KHANLANJAN_515E324N_S",
+            "toponym_arabic": "خان لنجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khan Lanjan, Khalanjan, Khulanjan",
+            "toponym_arabic_other": "خان لنجان، خلنجان، خولنجان",
+            "toponym_translit": "Ḫān Lanǧān",
+            "coord_lat": "32.40331",
+            "toponym_search": "Khan Lanjan, Khalanjan, Khulanjan",
+            "region_code": "Jibal",
+            "coord_lon": "51.56268",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.56268,
+            32.40331
+        ]
+    }
+}

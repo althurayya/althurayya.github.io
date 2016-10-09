@@ -1,0 +1,64 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000030-000.json": {
+                "title": "ابهر",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001633-000.json": {
+                "title": "يابه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000023-000.json": {
+                "title": "ابذه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000420-000.json": {
+                "title": "جابه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000968-000.json": {
+                "title": "طابه",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000022-000.json": {
+                "title": "ابه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ubbaŧ",
+            "cornu_URI": "UBBA_087E358N_S",
+            "toponym_arabic": "أبة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ubba",
+            "toponym_arabic_other": "أبة",
+            "toponym_translit": "Ubbaŧ",
+            "coord_lat": "35.80744",
+            "toponym_search": "Ubba",
+            "region_code": "Maghrib",
+            "coord_lon": "8.72082",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.72082,
+            35.80744
+        ]
+    }
+}

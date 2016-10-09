@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000717-000.json": {
+                "title": "الري",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rayy",
+            "cornu_URI": "RAYY_515E356N_S",
+            "toponym_arabic": "الري",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Rayy",
+            "toponym_arabic_other": "الري",
+            "toponym_translit": "al-Rayy",
+            "coord_lat": "35.62754",
+            "toponym_search": "al-Rayy",
+            "region_code": "Jibal",
+            "coord_lon": "51.50831",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.50831,
+            35.62754
+        ]
+    }
+}

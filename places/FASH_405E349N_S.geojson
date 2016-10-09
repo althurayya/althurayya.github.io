@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fāš",
+            "cornu_URI": "FASH_405E349N_S",
+            "toponym_arabic": "الفاش",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Fash",
+            "toponym_arabic_other": "الفاش",
+            "toponym_translit": "al-Fāš",
+            "coord_lat": "34.92311",
+            "toponym_search": "al-Fash",
+            "region_code": "Aqur",
+            "coord_lon": "40.56368",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.56368,
+            34.92311
+        ]
+    }
+}

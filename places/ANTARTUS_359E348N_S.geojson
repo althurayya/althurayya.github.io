@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000990-000.json": {
+                "title": "طرسوس",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Anṭarṭūs, Anṭarsūs, Ṭarṭūs",
+            "cornu_URI": "ANTARTUS_359E348N_S",
+            "toponym_arabic": "أنطرطوس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Antartus, Antarsus, Tartus",
+            "toponym_arabic_other": "أنطرطوس، أنطرسوس، طرطوس",
+            "toponym_translit": "Anṭarṭūs",
+            "coord_lat": "34.89985",
+            "toponym_search": "Antartus, Antarsus, Tartus",
+            "region_code": "Sham",
+            "coord_lon": "35.90356",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.90356,
+            34.89985
+        ]
+    }
+}

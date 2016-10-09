@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kušānī, Kušānīya",
+            "cornu_URI": "KUSHANI_664E400N_S",
+            "toponym_arabic": "كشاني",
+            "top_type_orig": "canton/cheflieu",
+            "toponym_buckwalter": "Kushani, Kushaniya",
+            "toponym_arabic_other": "كشاني، كشانيي",
+            "toponym_translit": "Kušānī",
+            "coord_lat": "40.00888",
+            "toponym_search": "Kushani, Kushaniya",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.49906",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.49906,
+            40.00888
+        ]
+    }
+}

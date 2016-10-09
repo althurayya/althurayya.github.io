@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000318-000.json": {
+                "title": "بياش",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000317-000.json": {
+                "title": "بيش",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000316-000.json": {
+                "title": "بيشه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayš",
+            "cornu_URI": "BAYSH_425E173N_S",
+            "toponym_arabic": "بيش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baysh",
+            "toponym_arabic_other": "بيش",
+            "toponym_translit": "Bayš",
+            "coord_lat": "17.37689",
+            "toponym_search": "Baysh",
+            "region_code": "Yemen",
+            "coord_lon": "42.53617",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.53617,
+            17.37689
+        ]
+    }
+}

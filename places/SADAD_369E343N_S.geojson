@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣadad",
+            "cornu_URI": "SADAD_369E343N_S",
+            "toponym_arabic": "صدد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sadad",
+            "toponym_arabic_other": "صدد",
+            "toponym_translit": "Ṣadad",
+            "coord_lat": "34.31043",
+            "toponym_search": "Sadad",
+            "region_code": "Sham",
+            "coord_lon": "36.93340",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.9334,
+            34.31043
+        ]
+    }
+}

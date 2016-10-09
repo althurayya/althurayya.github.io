@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fustuǧān, al-Fustukān, al-Bustaǧān",
+            "cornu_URI": "FUSTUJAN_540E288N_S",
+            "toponym_arabic": "الفستجان",
+            "top_type_orig": "canton/cite",
+            "toponym_buckwalter": "al-Fustujan, al-Fustukan, al-Bustajan",
+            "toponym_arabic_other": "الفستجان، الفستكان، البستجان",
+            "toponym_translit": "al-Fustuǧān",
+            "coord_lat": "28.88371",
+            "toponym_search": "al-Fustujan, al-Fustukan, al-Bustajan",
+            "region_code": "Faris",
+            "coord_lon": "54.07735",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.07735,
+            28.88371
+        ]
+    }
+}

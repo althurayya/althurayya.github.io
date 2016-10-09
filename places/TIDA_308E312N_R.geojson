@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīdaŧ",
+            "cornu_URI": "TIDA_308E312N_R",
+            "toponym_arabic": "تيدة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Tida",
+            "toponym_arabic_other": "تيدة",
+            "toponym_translit": "Tīdaŧ",
+            "coord_lat": "31.23866",
+            "toponym_search": "Tida",
+            "region_code": "Egypt",
+            "coord_lon": "30.82700",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.827,
+            31.23866
+        ]
+    }
+}

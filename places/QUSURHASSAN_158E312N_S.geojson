@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Quṣūr Ḥassān",
+            "cornu_URI": "QUSURHASSAN_158E312N_S",
+            "toponym_arabic": "قصور حسان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qusur Hassan",
+            "toponym_arabic_other": "قصور حسان",
+            "toponym_translit": "Quṣūr Ḥassān",
+            "coord_lat": "31.25883",
+            "toponym_search": "Qusur Hassan",
+            "region_code": "Barqa",
+            "coord_lon": "15.87924",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.87924,
+            31.25883
+        ]
+    }
+}

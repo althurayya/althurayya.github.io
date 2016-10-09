@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qarīnayn",
+            "cornu_URI": "QARINAYN_624E365N_S",
+            "toponym_arabic": "القرينين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Qarinayn",
+            "toponym_arabic_other": "القرينين",
+            "toponym_translit": "al-Qarīnayn",
+            "coord_lat": "36.57540",
+            "toponym_search": "al-Qarinayn",
+            "region_code": "Khurasan",
+            "coord_lon": "62.44974",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.44974,
+            36.5754
+        ]
+    }
+}

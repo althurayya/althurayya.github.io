@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧāyzan",
+            "cornu_URI": "JAYZAN_498E308N_R",
+            "toponym_arabic": "الجايزن",
+            "top_type_orig": "kura",
+            "toponym_buckwalter": "al-Jayzan",
+            "toponym_arabic_other": "الجايزن",
+            "toponym_translit": "al-Ǧāyzan",
+            "coord_lat": "30.88498",
+            "toponym_search": "al-Jayzan",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.83759",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.83759,
+            30.88498
+        ]
+    }
+}

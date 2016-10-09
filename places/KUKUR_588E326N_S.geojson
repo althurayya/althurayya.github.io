@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001313-000.json": {
+                "title": "كوكو",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūkūr",
+            "cornu_URI": "KUKUR_588E326N_S",
+            "toponym_arabic": "كوكور",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Kukur",
+            "toponym_arabic_other": "كوكور",
+            "toponym_translit": "Kūkūr",
+            "coord_lat": "32.62196",
+            "toponym_search": "Kukur",
+            "region_code": "Mafaza",
+            "coord_lon": "58.85980",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.8598,
+            32.62196
+        ]
+    }
+}

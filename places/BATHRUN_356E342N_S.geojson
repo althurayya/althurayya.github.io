@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṯrūn",
+            "cornu_URI": "BATHRUN_356E342N_S",
+            "toponym_arabic": "بثرون",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "Bathrun",
+            "toponym_arabic_other": "بثرون",
+            "toponym_translit": "Baṯrūn",
+            "coord_lat": "34.25903",
+            "toponym_search": "Bathrun",
+            "region_code": "Sham",
+            "coord_lon": "35.67059",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.67059,
+            34.25903
+        ]
+    }
+}

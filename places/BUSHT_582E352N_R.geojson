@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bušt",
+            "cornu_URI": "BUSHT_582E352N_R",
+            "toponym_arabic": "بشت",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Busht",
+            "toponym_arabic_other": "بشت",
+            "toponym_translit": "Bušt",
+            "coord_lat": "35.26140",
+            "toponym_search": "Busht",
+            "region_code": "Khurasan",
+            "coord_lon": "58.27285",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.27285,
+            35.2614
+        ]
+    }
+}

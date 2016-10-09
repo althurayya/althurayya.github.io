@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1618",
+            "cornu_URI": "ROUTPOINT1618_547E376N_O",
+            "toponym_arabic": "RoutPoint1618",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1618",
+            "toponym_arabic_other": "RoutPoint1618",
+            "toponym_translit": "RoutPoint1618",
+            "coord_lat": "37.63592",
+            "toponym_search": "RoutPoint1618",
+            "region_code": "Daylam",
+            "coord_lon": "54.76182",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.76182,
+            37.63592
+        ]
+    }
+}

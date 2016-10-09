@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kalār",
+            "cornu_URI": "KALAR_510E364N_S",
+            "toponym_arabic": "كلار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kalar",
+            "toponym_arabic_other": "كلار",
+            "toponym_translit": "Kalār",
+            "coord_lat": "36.49897",
+            "toponym_search": "Kalar",
+            "region_code": "Daylam",
+            "coord_lon": "51.07686",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.07686,
+            36.49897
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dimimmā",
+            "cornu_URI": "DIMIMMA_437E333N_S",
+            "toponym_arabic": "دمما",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dimimma",
+            "toponym_arabic_other": "دمما",
+            "toponym_translit": "Dimimmā",
+            "coord_lat": "33.33483",
+            "toponym_search": "Dimimma",
+            "region_code": "Iraq",
+            "coord_lon": "43.78276",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.78276,
+            33.33483
+        ]
+    }
+}

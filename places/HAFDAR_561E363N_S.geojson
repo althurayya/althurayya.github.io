@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hafdar",
+            "cornu_URI": "HAFDAR_561E363N_S",
+            "toponym_arabic": "هفدر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Hafdar",
+            "toponym_arabic_other": "هفدر",
+            "toponym_translit": "Hafdar",
+            "coord_lat": "36.36629",
+            "toponym_search": "Hafdar",
+            "region_code": "Daylam",
+            "coord_lon": "56.13276",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.13276,
+            36.36629
+        ]
+    }
+}

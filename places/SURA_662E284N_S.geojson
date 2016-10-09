@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000828-000.json": {
+                "title": "سموره",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000857-000.json": {
+                "title": "سوريه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūraŧ",
+            "cornu_URI": "SURA_662E284N_S",
+            "toponym_arabic": "سورة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sura",
+            "toponym_arabic_other": "سورة",
+            "toponym_translit": "Sūraŧ",
+            "coord_lat": "28.48590",
+            "toponym_search": "Sura",
+            "region_code": "Sind",
+            "coord_lon": "66.29529",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.29529,
+            28.4859
+        ]
+    }
+}

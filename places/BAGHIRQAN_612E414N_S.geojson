@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baġirqān",
+            "cornu_URI": "BAGHIRQAN_612E414N_S",
+            "toponym_arabic": "بغرقان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Baghirqan",
+            "toponym_arabic_other": "بغرقان",
+            "toponym_translit": "Baġirqān",
+            "coord_lat": "41.43986",
+            "toponym_search": "Baghirqan",
+            "region_code": "Transoxiana",
+            "coord_lon": "61.27533",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.27533,
+            41.43986
+        ]
+    }
+}

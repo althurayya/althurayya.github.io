@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dašt Bārīn",
+            "cornu_URI": "DASHTBARIN_512E292N_S",
+            "toponym_arabic": "دشت بارين",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Dasht Barin",
+            "toponym_arabic_other": "دشت بارين",
+            "toponym_translit": "Dašt Bārīn",
+            "coord_lat": "29.28011",
+            "toponym_search": "Dasht Barin",
+            "region_code": "Faris",
+            "coord_lon": "51.26816",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.26816,
+            29.28011
+        ]
+    }
+}

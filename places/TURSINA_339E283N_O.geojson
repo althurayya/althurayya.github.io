@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭūr Sīnāʾ",
+            "cornu_URI": "TURSINA_339E283N_O",
+            "toponym_arabic": "طور سيناء",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Tur Sina",
+            "toponym_arabic_other": "طور سيناء",
+            "toponym_translit": "Ṭūr Sīnāʾ",
+            "coord_lat": "28.35876",
+            "toponym_search": "Tur Sina",
+            "region_code": "Egypt",
+            "coord_lon": "33.95454",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.95454,
+            28.35876
+        ]
+    }
+}

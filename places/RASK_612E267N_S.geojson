@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāsk",
+            "cornu_URI": "RASK_612E267N_S",
+            "toponym_arabic": "راسك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rask",
+            "toponym_arabic_other": "راسك",
+            "toponym_translit": "Rāsk",
+            "coord_lat": "26.70943",
+            "toponym_search": "Rask",
+            "region_code": "Sind",
+            "coord_lon": "61.22272",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.22272,
+            26.70943
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bahraǧ, al-Fahraǧ, Fahlfahraǧ",
+            "cornu_URI": "BAHRAJ_606E272N_S",
+            "toponym_arabic": "البهرج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Bahraj, al-Fahraj, Fahlfahraj",
+            "toponym_arabic_other": "البهرج، الفهرج، فهلفهرج",
+            "toponym_translit": "al-Bahraǧ",
+            "coord_lat": "27.28057",
+            "toponym_search": "al-Bahraj, al-Fahraj, Fahlfahraj",
+            "region_code": "Sind",
+            "coord_lon": "60.66186",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.66186,
+            27.28057
+        ]
+    }
+}

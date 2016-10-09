@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001597-000.json": {
+                "title": "وادي سهر",
+                "rate": 82,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Surdud",
+            "cornu_URI": "WADISURDUD_431E152N_W",
+            "toponym_arabic": "وادي سردد",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Surdud",
+            "toponym_arabic_other": "وادي سردد",
+            "toponym_translit": "Wādī Surdud",
+            "coord_lat": "15.28451",
+            "toponym_search": "Wadi Surdud",
+            "region_code": "Yemen",
+            "coord_lon": "43.17773",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.17773,
+            15.28451
+        ]
+    }
+}

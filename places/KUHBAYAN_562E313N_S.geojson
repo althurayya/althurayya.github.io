@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūh Bayān",
+            "cornu_URI": "KUHBAYAN_562E313N_S",
+            "toponym_arabic": "كوه بيان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kuh Bayan",
+            "toponym_arabic_other": "كوه بيان",
+            "toponym_translit": "Kūh Bayān",
+            "coord_lat": "31.38012",
+            "toponym_search": "Kuh Bayan",
+            "region_code": "Kirman",
+            "coord_lon": "56.29779",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.29779,
+            31.38012
+        ]
+    }
+}

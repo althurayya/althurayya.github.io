@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Miknāsaŧ",
+            "cornu_URI": "MIKNASA_055W339N_S",
+            "toponym_arabic": "مكناسة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Miknasa",
+            "toponym_arabic_other": "مكناسة",
+            "toponym_translit": "Miknāsaŧ",
+            "coord_lat": "33.91455",
+            "toponym_search": "Miknasa",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.56626",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.56626,
+            33.91455
+        ]
+    }
+}

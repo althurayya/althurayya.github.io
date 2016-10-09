@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sikkaŧ al-Ḥammām",
+            "cornu_URI": "SIKKAHAMMAM_267E311N_S",
+            "toponym_arabic": "سكة الحمام",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sikka al-Hammam",
+            "toponym_arabic_other": "سكة الحمام",
+            "toponym_translit": "Sikkaŧ al-Ḥammām",
+            "coord_lat": "31.19426",
+            "toponym_search": "Sikka al-Hammam",
+            "region_code": "Barqa",
+            "coord_lon": "26.77604",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            26.77604,
+            31.19426
+        ]
+    }
+}

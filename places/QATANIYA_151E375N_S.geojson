@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001196-000.json": {
+                "title": "قطانيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṭāniyaŧ",
+            "cornu_URI": "QATANIYA_151E375N_S",
+            "toponym_arabic": "قطانية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qataniya",
+            "toponym_arabic_other": "قطانية",
+            "toponym_translit": "Qaṭāniyaŧ",
+            "coord_lat": "37.52663",
+            "toponym_search": "Qataniya",
+            "region_code": "Sicile",
+            "coord_lon": "15.10968",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.10968,
+            37.52663
+        ]
+    }
+}

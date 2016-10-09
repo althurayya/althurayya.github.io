@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qudam, Qudum",
+            "cornu_URI": "QUDAM_436E158N_R",
+            "toponym_arabic": "قدم",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qudam, Qudum",
+            "toponym_arabic_other": "قدم، قدم",
+            "toponym_translit": "Qudam",
+            "coord_lat": "15.81462",
+            "toponym_search": "Qudam, Qudum",
+            "region_code": "Yemen",
+            "coord_lon": "43.68913",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.68913,
+            15.81462
+        ]
+    }
+}

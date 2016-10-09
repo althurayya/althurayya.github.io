@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šabruwā, Šubrū",
+            "cornu_URI": "SHABRUWA_312E301N_S",
+            "toponym_arabic": "شبروا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shabruwa, Shubru",
+            "toponym_arabic_other": "شبروا، شبرو",
+            "toponym_translit": "Šabruwā",
+            "coord_lat": "30.11048",
+            "toponym_search": "Shabruwa, Shubru",
+            "region_code": "Egypt",
+            "coord_lon": "31.24225",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.24225,
+            30.11048
+        ]
+    }
+}

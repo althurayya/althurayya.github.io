@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Mīǧan, al-Mīzan",
+            "cornu_URI": "MIJAN_577E284N_S",
+            "toponym_arabic": "الميجن",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Mijan, al-Mizan",
+            "toponym_arabic_other": "الميجن، الميزن",
+            "toponym_translit": "al-Mīǧan",
+            "coord_lat": "28.45204",
+            "toponym_search": "al-Mijan, al-Mizan",
+            "region_code": "Kirman",
+            "coord_lon": "57.76854",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.76854,
+            28.45204
+        ]
+    }
+}

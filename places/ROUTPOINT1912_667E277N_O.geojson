@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1912",
+            "cornu_URI": "ROUTPOINT1912_667E277N_O",
+            "toponym_arabic": "RoutPoint1912",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1912",
+            "toponym_arabic_other": "RoutPoint1912",
+            "toponym_translit": "RoutPoint1912",
+            "coord_lat": "27.77717",
+            "toponym_search": "RoutPoint1912",
+            "region_code": "Sind",
+            "coord_lon": "66.78500",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.785,
+            27.77717
+        ]
+    }
+}

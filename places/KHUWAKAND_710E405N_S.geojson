@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫuwākand",
+            "cornu_URI": "KHUWAKAND_710E405N_S",
+            "toponym_arabic": "خواكند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khuwakand",
+            "toponym_arabic_other": "خواكند",
+            "toponym_translit": "Ḫuwākand",
+            "coord_lat": "40.55623",
+            "toponym_search": "Khuwakand",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.05784",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.05784,
+            40.55623
+        ]
+    }
+}

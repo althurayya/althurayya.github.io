@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Abū Sahl",
+            "cornu_URI": "RIBATABUSAHL_574E401N_S",
+            "toponym_arabic": "رباط أبو سهل",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Abu Sahl",
+            "toponym_arabic_other": "رباط أبو سهل",
+            "toponym_translit": "Ribāṭ Abū Sahl",
+            "coord_lat": "40.18649",
+            "toponym_search": "Ribat Abu Sahl",
+            "region_code": "Daylam",
+            "coord_lon": "57.45149",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.45149,
+            40.18649
+        ]
+    }
+}

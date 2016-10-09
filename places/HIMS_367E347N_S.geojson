@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000519-000.json": {
+                "title": "حمص",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥimṣ",
+            "cornu_URI": "HIMS_367E347N_S",
+            "toponym_arabic": "حمص",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Hims",
+            "toponym_arabic_other": "حمص",
+            "toponym_translit": "Ḥimṣ",
+            "coord_lat": "34.73793",
+            "toponym_search": "Hims",
+            "region_code": "Sham",
+            "coord_lon": "36.72425",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.72425,
+            34.73793
+        ]
+    }
+}

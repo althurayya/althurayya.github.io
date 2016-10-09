@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dawsar",
+            "cornu_URI": "DAWSAR_384E359N_S",
+            "toponym_arabic": "دوسر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dawsar",
+            "toponym_arabic_other": "دوسر",
+            "toponym_translit": "Dawsar",
+            "coord_lat": "35.92575",
+            "toponym_search": "Dawsar",
+            "region_code": "Sham",
+            "coord_lon": "38.49243",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.49243,
+            35.92575
+        ]
+    }
+}

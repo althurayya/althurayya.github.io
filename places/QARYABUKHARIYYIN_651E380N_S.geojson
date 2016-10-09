@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-Buḫāriyyīn",
+            "cornu_URI": "QARYABUKHARIYYIN_651E380N_S",
+            "toponym_arabic": "قرية البخاريين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qarya al-Bukhariyyin",
+            "toponym_arabic_other": "قرية البخاريين",
+            "toponym_translit": "Qaryaŧ al-Buḫāriyyīn",
+            "coord_lat": "38.07235",
+            "toponym_search": "Qarya al-Bukhariyyin",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.15512",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.15512,
+            38.07235
+        ]
+    }
+}

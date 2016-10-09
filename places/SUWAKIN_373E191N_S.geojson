@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000854-000.json": {
+                "title": "سواكن",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suwākin",
+            "cornu_URI": "SUWAKIN_373E191N_S",
+            "toponym_arabic": "سواكن",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Suwakin",
+            "toponym_arabic_other": "سواكن",
+            "toponym_translit": "Suwākin",
+            "coord_lat": "19.11304",
+            "toponym_search": "Suwakin",
+            "region_code": "Egypt",
+            "coord_lon": "37.33032",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.33032,
+            19.11304
+        ]
+    }
+}

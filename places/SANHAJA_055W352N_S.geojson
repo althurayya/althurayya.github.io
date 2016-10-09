@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000616-000.json": {
+                "title": "دنهاجه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣanhāǧaŧ",
+            "cornu_URI": "SANHAJA_055W352N_S",
+            "toponym_arabic": "صنهاجة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sanhaja",
+            "toponym_arabic_other": "صنهاجة",
+            "toponym_translit": "Ṣanhāǧaŧ",
+            "coord_lat": "35.29674",
+            "toponym_search": "Sanhaja",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.52392",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.52392,
+            35.29674
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dāḫarraqān, Ḫarraqān",
+            "cornu_URI": "DAKHARRAQAN_459E377N_S",
+            "toponym_arabic": "داخرقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dakharraqan, Kharraqan",
+            "toponym_arabic_other": "داخرقان، خرقان",
+            "toponym_translit": "Dāḫarraqān",
+            "coord_lat": "37.72041",
+            "toponym_search": "Dakharraqan, Kharraqan",
+            "region_code": "Rihab",
+            "coord_lon": "45.98591",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.98591,
+            37.72041
+        ]
+    }
+}

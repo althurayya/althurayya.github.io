@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥaddādaŧ",
+            "cornu_URI": "HADDADA_548E362N_S",
+            "toponym_arabic": "الحدادة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Haddada",
+            "toponym_arabic_other": "الحدادة",
+            "toponym_translit": "al-Ḥaddādaŧ",
+            "coord_lat": "36.28520",
+            "toponym_search": "al-Haddada",
+            "region_code": "Daylam",
+            "coord_lon": "54.80181",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.80181,
+            36.2852
+        ]
+    }
+}

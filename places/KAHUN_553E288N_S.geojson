@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kāhūn",
+            "cornu_URI": "KAHUN_553E288N_S",
+            "toponym_arabic": "كاهون",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Kahun",
+            "toponym_arabic_other": "كاهون",
+            "toponym_translit": "Kāhūn",
+            "coord_lat": "28.87915",
+            "toponym_search": "Kahun",
+            "region_code": "Kirman",
+            "coord_lon": "55.33985",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.33985,
+            28.87915
+        ]
+    }
+}

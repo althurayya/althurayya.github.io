@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġalāfiqaŧ",
+            "cornu_URI": "GHALAFIQA_430E144N_S",
+            "toponym_arabic": "غلافقة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ghalafiqa",
+            "toponym_arabic_other": "غلافقة",
+            "toponym_translit": "Ġalāfiqaŧ",
+            "coord_lat": "14.44273",
+            "toponym_search": "Ghalafiqa",
+            "region_code": "Yemen",
+            "coord_lon": "43.03243",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.03243,
+            14.44273
+        ]
+    }
+}

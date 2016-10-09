@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḥr al-Ḫazar",
+            "cornu_URI": "BAHRKHAZAR_501E425N_W",
+            "toponym_arabic": "بحر الخزر",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Bahr al-Khazar",
+            "toponym_arabic_other": "بحر الخزر",
+            "toponym_translit": "Baḥr al-Ḫazar",
+            "coord_lat": "42.55994",
+            "toponym_search": "Bahr al-Khazar",
+            "region_code": "Khazar",
+            "coord_lon": "50.10497",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.10497,
+            42.55994
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥaḍramawt",
+            "cornu_URI": "HADRAMAWT_488E156N_R",
+            "toponym_arabic": "حضرموت",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Hadramawt",
+            "toponym_arabic_other": "حضرموت",
+            "toponym_translit": "Ḥaḍramawt",
+            "coord_lat": "15.64792",
+            "toponym_search": "Hadramawt",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "48.80405",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.80405,
+            15.64792
+        ]
+    }
+}

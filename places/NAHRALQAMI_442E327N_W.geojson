@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-ʿAlqamī",
+            "cornu_URI": "NAHRALQAMI_442E327N_W",
+            "toponym_arabic": "نهر العلقمي",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr al-Alqami",
+            "toponym_arabic_other": "نهر العلقمي",
+            "toponym_translit": "Nahr al-ʿAlqamī",
+            "coord_lat": "32.74321",
+            "toponym_search": "Nahr al-Alqami",
+            "region_code": "Iraq",
+            "coord_lon": "44.20922",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.20922,
+            32.74321
+        ]
+    }
+}

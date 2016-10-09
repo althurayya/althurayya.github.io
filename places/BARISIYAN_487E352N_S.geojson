@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bārisiyān",
+            "cornu_URI": "BARISIYAN_487E352N_S",
+            "toponym_arabic": "بارسيان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Barisiyan",
+            "toponym_arabic_other": "بارسيان",
+            "toponym_translit": "Bārisiyān",
+            "coord_lat": "35.29415",
+            "toponym_search": "Barisiyan",
+            "region_code": "Jibal",
+            "coord_lon": "48.71891",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.71891,
+            35.29415
+        ]
+    }
+}

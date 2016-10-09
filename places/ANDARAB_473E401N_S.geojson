@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000114-000.json": {
+                "title": "اندراب",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Andarāb",
+            "cornu_URI": "ANDARAB_473E401N_S",
+            "toponym_arabic": "الأندراب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Andarab",
+            "toponym_arabic_other": "الأندراب",
+            "toponym_translit": "al-Andarāb",
+            "coord_lat": "40.10841",
+            "toponym_search": "al-Andarab",
+            "region_code": "Rihab",
+            "coord_lon": "47.33087",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.33087,
+            40.10841
+        ]
+    }
+}

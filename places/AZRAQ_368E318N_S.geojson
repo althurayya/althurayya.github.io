@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Azraq",
+            "cornu_URI": "AZRAQ_368E318N_S",
+            "toponym_arabic": "الأزرق",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Azraq",
+            "toponym_arabic_other": "الأزرق",
+            "toponym_translit": "al-Azraq",
+            "coord_lat": "31.84612",
+            "toponym_search": "al-Azraq",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "36.87768",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.87768,
+            31.84612
+        ]
+    }
+}

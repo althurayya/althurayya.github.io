@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001302-000.json": {
+                "title": "كفر طاب",
+                "rate": 92,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kafarṭāb",
+            "cornu_URI": "KAFARTAB_366E355N_S",
+            "toponym_arabic": "كفرطاب",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Kafartab",
+            "toponym_arabic_other": "كفرطاب",
+            "toponym_translit": "Kafarṭāb",
+            "coord_lat": "35.50744",
+            "toponym_search": "Kafartab",
+            "region_code": "Sham",
+            "coord_lon": "36.61239",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.61239,
+            35.50744
+        ]
+    }
+}

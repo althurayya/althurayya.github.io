@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mihraǧān, Mihriǧān",
+            "cornu_URI": "MIHRAJAN_578E365N_S",
+            "toponym_arabic": "مهرجان",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Mihrajan, Mihrijan",
+            "toponym_arabic_other": "مهرجان، مهرجان",
+            "toponym_translit": "Mihraǧān",
+            "coord_lat": "36.58050",
+            "toponym_search": "Mihrajan, Mihrijan",
+            "region_code": "Khurasan",
+            "coord_lon": "57.84690",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.8469,
+            36.5805
+        ]
+    }
+}

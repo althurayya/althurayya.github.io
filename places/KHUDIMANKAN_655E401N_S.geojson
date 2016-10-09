@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫudīmankān",
+            "cornu_URI": "KHUDIMANKAN_655E401N_S",
+            "toponym_arabic": "خديمنكان",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Khudimankan",
+            "toponym_arabic_other": "خديمنكان",
+            "toponym_translit": "Ḫudīmankān",
+            "coord_lat": "40.12063",
+            "toponym_search": "Khudimankan",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.58856",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.58856,
+            40.12063
+        ]
+    }
+}

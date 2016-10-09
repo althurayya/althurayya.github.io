@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000993-000.json": {
+                "title": "طرابلس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000102-000.json": {
+                "title": "انطابلس",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṭrābulus, Ṭarābulus",
+            "cornu_URI": "ATRABULUS_131E328N_S",
+            "toponym_arabic": "أطرابلس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Atrabulus, Tarabulus",
+            "toponym_arabic_other": "أطرابلس، طرابلس",
+            "toponym_translit": "Aṭrābulus",
+            "coord_lat": "32.87801",
+            "toponym_search": "Atrabulus, Tarabulus",
+            "region_code": "Barqa",
+            "coord_lon": "13.19209",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.19209,
+            32.87801
+        ]
+    }
+}

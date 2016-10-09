@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sirrayn",
+            "cornu_URI": "SIRRAYN_407E198N_S",
+            "toponym_arabic": "السرين",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "al-Sirrayn",
+            "toponym_arabic_other": "السرين",
+            "toponym_translit": "al-Sirrayn",
+            "coord_lat": "19.83698",
+            "toponym_search": "al-Sirrayn",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.76268",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.76268,
+            19.83698
+        ]
+    }
+}

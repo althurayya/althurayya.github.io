@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000169-000.json": {
+                "title": "اشونه",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ušnuh",
+            "cornu_URI": "USHNUH_451E370N_S",
+            "toponym_arabic": "أشنه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ushnuh",
+            "toponym_arabic_other": "أشنه",
+            "toponym_translit": "Ušnuh",
+            "coord_lat": "37.02695",
+            "toponym_search": "Ushnuh",
+            "region_code": "Rihab",
+            "coord_lon": "45.12379",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.12379,
+            37.02695
+        ]
+    }
+}

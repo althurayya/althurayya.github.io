@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarāwaŧ Abū al-ʿAyš",
+            "cornu_URI": "JARAWAABUAYSH_022W350N_S",
+            "toponym_arabic": "جراوة أبو العيش",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Jarawa Abu al-Aysh",
+            "toponym_arabic_other": "جراوة أبو العيش",
+            "toponym_translit": "Ǧarāwaŧ Abū al-ʿAyš",
+            "coord_lat": "35.09519",
+            "toponym_search": "Jarawa Abu al-Aysh",
+            "region_code": "Maghrib",
+            "coord_lon": "-2.28691",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.28691,
+            35.09519
+        ]
+    }
+}

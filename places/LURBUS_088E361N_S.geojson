@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000068-000.json": {
+                "title": "الاربس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Lurbus, al-Urbus",
+            "cornu_URI": "LURBUS_088E361N_S",
+            "toponym_arabic": "لربس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Lurbus, al-Urbus",
+            "toponym_arabic_other": "لربس، الأربس",
+            "toponym_translit": "Lurbus",
+            "coord_lat": "36.10562",
+            "toponym_search": "Lurbus, al-Urbus",
+            "region_code": "Maghrib",
+            "coord_lon": "8.83937",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83937,
+            36.10562
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Atfū",
+            "cornu_URI": "ATFU_328E250N_R",
+            "toponym_arabic": "أتفو",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Atfu",
+            "toponym_arabic_other": "أتفو",
+            "toponym_translit": "Atfū",
+            "coord_lat": "25.01203",
+            "toponym_search": "Atfu",
+            "region_code": "Egypt",
+            "coord_lon": "32.87999",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.87999,
+            25.01203
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000202-000.json": {
+                "title": "الباميان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bāmiyān",
+            "cornu_URI": "BAMIYAN_678E348N_R",
+            "toponym_arabic": "الباميان",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "al-Bamiyan",
+            "toponym_arabic_other": "الباميان",
+            "toponym_translit": "al-Bāmiyān",
+            "coord_lat": "34.84737",
+            "toponym_search": "al-Bamiyan",
+            "region_code": "Khurasan",
+            "coord_lon": "67.80206",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.80206,
+            34.84737
+        ]
+    }
+}

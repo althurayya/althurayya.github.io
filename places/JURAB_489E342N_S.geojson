@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧūrāb",
+            "cornu_URI": "JURAB_489E342N_S",
+            "toponym_arabic": "جوراب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jurab",
+            "toponym_arabic_other": "جوراب",
+            "toponym_translit": "Ǧūrāb",
+            "coord_lat": "34.21059",
+            "toponym_search": "Jurab",
+            "region_code": "Jibal",
+            "coord_lon": "48.90536",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.90536,
+            34.21059
+        ]
+    }
+}

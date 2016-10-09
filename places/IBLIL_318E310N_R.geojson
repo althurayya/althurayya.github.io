@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iblīl",
+            "cornu_URI": "IBLIL_318E310N_R",
+            "toponym_arabic": "إبليل",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Iblil",
+            "toponym_arabic_other": "إبليل",
+            "toponym_translit": "Iblīl",
+            "coord_lat": "31.01550",
+            "toponym_search": "Iblil",
+            "region_code": "Egypt",
+            "coord_lon": "31.83110",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.8311,
+            31.0155
+        ]
+    }
+}

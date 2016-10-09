@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ušturmaġāk",
+            "cornu_URI": "USHTURMAGHAK_613E368N_S",
+            "toponym_arabic": "أشترمغاك",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ushturmaghak",
+            "toponym_arabic_other": "أشترمغاك",
+            "toponym_translit": "Ušturmaġāk",
+            "coord_lat": "36.80480",
+            "toponym_search": "Ushturmaghak",
+            "region_code": "Khurasan",
+            "coord_lon": "61.32517",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.32517,
+            36.8048
+        ]
+    }
+}

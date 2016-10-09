@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Salīlaŧ",
+            "cornu_URI": "SALILA_412E243N_S",
+            "toponym_arabic": "السليلة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Salila",
+            "toponym_arabic_other": "السليلة",
+            "toponym_translit": "al-Salīlaŧ",
+            "coord_lat": "24.34402",
+            "toponym_search": "al-Salila",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.22235",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.22235,
+            24.34402
+        ]
+    }
+}

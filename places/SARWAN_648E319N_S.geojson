@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000901-000.json": {
+                "title": "شيروان",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarwān, Šarwān",
+            "cornu_URI": "SARWAN_648E319N_S",
+            "toponym_arabic": "سروان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sarwan, Sharwan",
+            "toponym_arabic_other": "سروان، شروان",
+            "toponym_translit": "Sarwān",
+            "coord_lat": "31.97709",
+            "toponym_search": "Sarwan, Sharwan",
+            "region_code": "Sijistan",
+            "coord_lon": "64.84747",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.84747,
+            31.97709
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṭn al-Naḫl",
+            "cornu_URI": "BATNNAKHL_400E248N_R",
+            "toponym_arabic": "بطن النخل",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Batn al-Nakhl",
+            "toponym_arabic_other": "بطن النخل",
+            "toponym_translit": "Baṭn al-Naḫl",
+            "coord_lat": "24.85968",
+            "toponym_search": "Batn al-Nakhl",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.00579",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.00579,
+            24.85968
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000020-000.json": {
+                "title": "امل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āmul",
+            "cornu_URI": "AMUL_524E364N_S",
+            "toponym_arabic": "آمل",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Amul",
+            "toponym_arabic_other": "آمل",
+            "toponym_translit": "Āmul",
+            "coord_lat": "36.42256",
+            "toponym_search": "Amul",
+            "region_code": "Daylam",
+            "coord_lon": "52.40859",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.40859,
+            36.42256
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001294-000.json": {
+                "title": "كنبايه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kazannāyaŧ",
+            "cornu_URI": "KAZANNAYA_039W346N_S",
+            "toponym_arabic": "كزناية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kazannaya",
+            "toponym_arabic_other": "كزناية",
+            "toponym_translit": "Kazannāyaŧ",
+            "coord_lat": "34.66535",
+            "toponym_search": "Kazannaya",
+            "region_code": "Maghrib",
+            "coord_lon": "-3.92129",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.92129,
+            34.66535
+        ]
+    }
+}

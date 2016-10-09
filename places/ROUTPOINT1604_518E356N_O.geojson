@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1604",
+            "cornu_URI": "ROUTPOINT1604_518E356N_O",
+            "toponym_arabic": "RoutPoint1604",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1604",
+            "toponym_arabic_other": "RoutPoint1604",
+            "toponym_translit": "RoutPoint1604",
+            "coord_lat": "35.69230",
+            "toponym_search": "RoutPoint1604",
+            "region_code": "NoRegion",
+            "coord_lon": "51.83058",
+            "region_spelled": "NoRegion",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.83058,
+            35.6923
+        ]
+    }
+}

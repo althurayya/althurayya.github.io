@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001080-000.json": {
+                "title": "عينونا",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAynūnaŧ",
+            "cornu_URI": "AYNUNA_351E281N_S",
+            "toponym_arabic": "عينونة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Aynuna",
+            "toponym_arabic_other": "عينونة",
+            "toponym_translit": "ʿAynūnaŧ",
+            "coord_lat": "28.17030",
+            "toponym_search": "Aynuna",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.19783",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.19783,
+            28.1703
+        ]
+    }
+}

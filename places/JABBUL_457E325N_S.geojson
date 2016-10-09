@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabbūl",
+            "cornu_URI": "JABBUL_457E325N_S",
+            "toponym_arabic": "جبول",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jabbul",
+            "toponym_arabic_other": "جبول",
+            "toponym_translit": "Ǧabbūl",
+            "coord_lat": "32.55466",
+            "toponym_search": "Jabbul",
+            "region_code": "Iraq",
+            "coord_lon": "45.72633",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.72633,
+            32.55466
+        ]
+    }
+}

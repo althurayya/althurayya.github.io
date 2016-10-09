@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hazār, Azār Sābūr",
+            "cornu_URI": "HAZAR_524E299N_S",
+            "toponym_arabic": "هزار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hazar, Azar Sabur",
+            "toponym_arabic_other": "هزار، أزار سابور",
+            "toponym_translit": "Hazār",
+            "coord_lat": "29.94029",
+            "toponym_search": "Hazar, Azar Sabur",
+            "region_code": "Faris",
+            "coord_lon": "52.49428",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.49428,
+            29.94029
+        ]
+    }
+}

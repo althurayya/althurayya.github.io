@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḥwar",
+            "cornu_URI": "AHWAR_466E135N_S",
+            "toponym_arabic": "أحور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ahwar",
+            "toponym_arabic_other": "أحور",
+            "toponym_translit": "Aḥwar",
+            "coord_lat": "13.56967",
+            "toponym_search": "Ahwar",
+            "region_code": "Yemen",
+            "coord_lon": "46.61972",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.61972,
+            13.56967
+        ]
+    }
+}

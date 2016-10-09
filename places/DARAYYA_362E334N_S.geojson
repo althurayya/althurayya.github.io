@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000586-000.json": {
+                "title": "دارا",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dārayyā",
+            "cornu_URI": "DARAYYA_362E334N_S",
+            "toponym_arabic": "داريا",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Darayya",
+            "toponym_arabic_other": "داريا",
+            "toponym_translit": "Dārayyā",
+            "coord_lat": "33.46544",
+            "toponym_search": "Darayya",
+            "region_code": "Sham",
+            "coord_lon": "36.23184",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.23184,
+            33.46544
+        ]
+    }
+}

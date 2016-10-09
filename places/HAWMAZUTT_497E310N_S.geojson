@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥawmaŧ al-Zuṭṭ, al-Zuṭṭ",
+            "cornu_URI": "HAWMAZUTT_497E310N_S",
+            "toponym_arabic": "حومة الزط",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Hawma al-Zutt, al-Zutt",
+            "toponym_arabic_other": "حومة الزط، الزط",
+            "toponym_translit": "Ḥawmaŧ al-Zuṭṭ",
+            "coord_lat": "31.05807",
+            "toponym_search": "Hawma al-Zutt, al-Zutt",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.71372",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.71372,
+            31.05807
+        ]
+    }
+}

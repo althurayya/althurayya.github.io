@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000577-000.json": {
+                "title": "خوار",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫān Rūšan, Ḫān Awīs, Ḫuwāriš",
+            "cornu_URI": "KHANRUSHAN_520E312N_S",
+            "toponym_arabic": "خان روشن",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khan Rushan, Khan Awis, Khuwarish",
+            "toponym_arabic_other": "خان روشن، خان أويس، خوارش",
+            "toponym_translit": "Ḫān Rūšan",
+            "coord_lat": "31.25559",
+            "toponym_search": "Khan Rushan, Khan Awis, Khuwarish",
+            "region_code": "Faris",
+            "coord_lon": "52.02871",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.02871,
+            31.25559
+        ]
+    }
+}

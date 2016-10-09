@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧidġil",
+            "cornu_URI": "JIDGHIL_719E413N_R",
+            "toponym_arabic": "جدغل",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jidghil",
+            "toponym_arabic_other": "جدغل",
+            "toponym_translit": "Ǧidġil",
+            "coord_lat": "41.30084",
+            "toponym_search": "Jidghil",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.97221",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.97221,
+            41.30084
+        ]
+    }
+}

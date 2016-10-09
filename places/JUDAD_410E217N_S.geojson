@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧudad",
+            "cornu_URI": "JUDAD_410E217N_S",
+            "toponym_arabic": "الجدد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Judad",
+            "toponym_arabic_other": "الجدد",
+            "toponym_translit": "al-Ǧudad",
+            "coord_lat": "21.73300",
+            "toponym_search": "al-Judad",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.07197",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.07197,
+            21.733
+        ]
+    }
+}

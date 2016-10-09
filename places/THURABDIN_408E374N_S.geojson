@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṯūr ʿAbdīn",
+            "cornu_URI": "THURABDIN_408E374N_S",
+            "toponym_arabic": "ثور عبدين",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Thur Abdin",
+            "toponym_arabic_other": "ثور عبدين",
+            "toponym_translit": "Ṯūr ʿAbdīn",
+            "coord_lat": "37.40165",
+            "toponym_search": "Thur Abdin",
+            "region_code": "Aqur",
+            "coord_lon": "40.86321",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.86321,
+            37.40165
+        ]
+    }
+}

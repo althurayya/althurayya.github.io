@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nihyā",
+            "cornu_URI": "NIHYA_373E344N_S",
+            "toponym_arabic": "نهيا",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Nihya",
+            "toponym_arabic_other": "نهيا",
+            "toponym_translit": "Nihyā",
+            "coord_lat": "34.45245",
+            "toponym_search": "Nihya",
+            "region_code": "Sham",
+            "coord_lon": "37.38213",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.38213,
+            34.45245
+        ]
+    }
+}

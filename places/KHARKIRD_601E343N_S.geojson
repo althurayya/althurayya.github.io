@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫarkird, Ḫarǧird",
+            "cornu_URI": "KHARKIRD_601E343N_S",
+            "toponym_arabic": "خركرد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kharkird, Kharjird",
+            "toponym_arabic_other": "خركرد، خرجرد",
+            "toponym_translit": "Ḫarkird",
+            "coord_lat": "34.31639",
+            "toponym_search": "Kharkird, Kharjird",
+            "region_code": "Khurasan",
+            "coord_lon": "60.16386",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.16386,
+            34.31639
+        ]
+    }
+}

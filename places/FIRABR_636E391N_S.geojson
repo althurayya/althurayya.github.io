@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001141-000.json": {
+                "title": "فربر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Firabr",
+            "cornu_URI": "FIRABR_636E391N_S",
+            "toponym_arabic": "فربر",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Firabr",
+            "toponym_arabic_other": "فربر",
+            "toponym_translit": "Firabr",
+            "coord_lat": "39.17015",
+            "toponym_search": "Firabr",
+            "region_code": "Transoxiana",
+            "coord_lon": "63.61874",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.61874,
+            39.17015
+        ]
+    }
+}

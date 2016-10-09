@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Baynūnaŧ",
+            "cornu_URI": "BAYNUNA_533E236N_R",
+            "toponym_arabic": "البينونة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Baynuna",
+            "toponym_arabic_other": "البينونة",
+            "toponym_translit": "al-Baynūnaŧ",
+            "coord_lat": "23.69448",
+            "toponym_search": "al-Baynuna",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "53.39087",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.39087,
+            23.69448
+        ]
+    }
+}

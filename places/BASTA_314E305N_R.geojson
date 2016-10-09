@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000288-000.json": {
+                "title": "بسطه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Basṭaŧ",
+            "cornu_URI": "BASTA_314E305N_R",
+            "toponym_arabic": "بسطة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Basta",
+            "toponym_arabic_other": "بسطة",
+            "toponym_translit": "Basṭaŧ",
+            "coord_lat": "30.56736",
+            "toponym_search": "Basta",
+            "region_code": "Egypt",
+            "coord_lon": "31.49925",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.49925,
+            30.56736
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧāsim",
+            "cornu_URI": "JASIM_360E329N_S",
+            "toponym_arabic": "جاسم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jasim",
+            "toponym_arabic_other": "جاسم",
+            "toponym_translit": "Ǧāsim",
+            "coord_lat": "32.98099",
+            "toponym_search": "Jasim",
+            "region_code": "Sham",
+            "coord_lon": "36.04321",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.04321,
+            32.98099
+        ]
+    }
+}

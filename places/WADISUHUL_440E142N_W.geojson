@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001604-000.json": {
+                "title": "وادي سبو",
+                "rate": 82,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Suḥūl",
+            "cornu_URI": "WADISUHUL_440E142N_W",
+            "toponym_arabic": "وادي سحول",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Suhul",
+            "toponym_arabic_other": "وادي سحول",
+            "toponym_translit": "Wādī Suḥūl",
+            "coord_lat": "14.25370",
+            "toponym_search": "Wadi Suhul",
+            "region_code": "Yemen",
+            "coord_lon": "44.08509",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.08509,
+            14.2537
+        ]
+    }
+}

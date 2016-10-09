@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yabambam, Yabanbam",
+            "cornu_URI": "YABAMBAM_428E188N_S",
+            "toponym_arabic": "يبمبم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Yabambam, Yabanbam",
+            "toponym_arabic_other": "يبمبم، يبنبم",
+            "toponym_translit": "Yabambam",
+            "coord_lat": "18.87682",
+            "toponym_search": "Yabambam, Yabanbam",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.82847",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.82847,
+            18.87682
+        ]
+    }
+}

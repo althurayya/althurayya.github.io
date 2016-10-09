@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000801-000.json": {
+                "title": "سروج",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarūǧ",
+            "cornu_URI": "SARUJ_384E369N_R",
+            "toponym_arabic": "سروج",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Saruj",
+            "toponym_arabic_other": "سروج",
+            "toponym_translit": "Sarūǧ",
+            "coord_lat": "36.97910",
+            "toponym_search": "Saruj",
+            "region_code": "Aqur",
+            "coord_lon": "38.43806",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.43806,
+            36.9791
+        ]
+    }
+}

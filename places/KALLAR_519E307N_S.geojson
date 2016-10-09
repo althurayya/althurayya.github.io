@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kallār",
+            "cornu_URI": "KALLAR_519E307N_S",
+            "toponym_arabic": "كلار",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kallar",
+            "toponym_arabic_other": "كلار",
+            "toponym_translit": "Kallār",
+            "coord_lat": "30.72449",
+            "toponym_search": "Kallar",
+            "region_code": "Faris",
+            "coord_lon": "51.92199",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.92199,
+            30.72449
+        ]
+    }
+}

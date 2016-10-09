@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tall Mannas",
+            "cornu_URI": "TALLMANNAS_367E356N_R",
+            "toponym_arabic": "تل منس",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Tall Mannas",
+            "toponym_arabic_other": "تل منس",
+            "toponym_translit": "Tall Mannas",
+            "coord_lat": "35.63129",
+            "toponym_search": "Tall Mannas",
+            "region_code": "Sham",
+            "coord_lon": "36.74697",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.74697,
+            35.63129
+        ]
+    }
+}

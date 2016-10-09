@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥays",
+            "cornu_URI": "HAYS_434E139N_S",
+            "toponym_arabic": "حيس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hays",
+            "toponym_arabic_other": "حيس",
+            "toponym_translit": "Ḥays",
+            "coord_lat": "13.93140",
+            "toponym_search": "Hays",
+            "region_code": "Yemen",
+            "coord_lon": "43.48282",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.48282,
+            13.9314
+        ]
+    }
+}

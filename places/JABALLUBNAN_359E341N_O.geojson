@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Lubnān",
+            "cornu_URI": "JABALLUBNAN_359E341N_O",
+            "toponym_arabic": "جبل لبنان",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Lubnan",
+            "toponym_arabic_other": "جبل لبنان",
+            "toponym_translit": "Ǧabal Lubnān",
+            "coord_lat": "34.15941",
+            "toponym_search": "Jabal Lubnan",
+            "region_code": "Sham",
+            "coord_lon": "35.99225",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.99225,
+            34.15941
+        ]
+    }
+}

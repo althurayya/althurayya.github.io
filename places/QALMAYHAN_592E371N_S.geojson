@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001218-000.json": {
+                "title": "قلمريه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalmayhan",
+            "cornu_URI": "QALMAYHAN_592E371N_S",
+            "toponym_arabic": "قلميهن",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qalmayhan",
+            "toponym_arabic_other": "قلميهن",
+            "toponym_translit": "Qalmayhan",
+            "coord_lat": "37.12708",
+            "toponym_search": "Qalmayhan",
+            "region_code": "Khurasan",
+            "coord_lon": "59.28793",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.28793,
+            37.12708
+        ]
+    }
+}

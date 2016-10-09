@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000446-000.json": {
+                "title": "جزيره البركان",
+                "rate": 85,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ Laft, Ǧazīraŧ Barkāwān, Ǧazīraŧ Banū Kāwān",
+            "cornu_URI": "JAZIRALAFT_558E267N_R",
+            "toponym_arabic": "جزيرة لفت",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Jazira Laft, Jazira Barkawan, Jazira Banu Kawan",
+            "toponym_arabic_other": "جزيرة لفت، جزيرة بركاوان، جزيرة بنو كاوان",
+            "toponym_translit": "Ǧazīraŧ Laft",
+            "coord_lat": "26.74974",
+            "toponym_search": "Jazira Laft, Jazira Barkawan, Jazira Banu Kawan",
+            "region_code": "Faris",
+            "coord_lon": "55.80019",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.80019,
+            26.74974
+        ]
+    }
+}

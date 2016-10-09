@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Sābūr",
+            "cornu_URI": "NAHRSABUR_514E296N_W",
+            "toponym_arabic": "نهر سابور",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Sabur",
+            "toponym_arabic_other": "نهر سابور",
+            "toponym_translit": "Nahr Sābūr",
+            "coord_lat": "29.64228",
+            "toponym_search": "Nahr Sabur",
+            "region_code": "Faris",
+            "coord_lon": "51.42853",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.42853,
+            29.64228
+        ]
+    }
+}

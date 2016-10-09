@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫān Mīm",
+            "cornu_URI": "KHANMIM_528E293N_S",
+            "toponym_arabic": "خان ميم",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Khan Mim",
+            "toponym_arabic_other": "خان ميم",
+            "toponym_translit": "Ḫān Mīm",
+            "coord_lat": "29.31712",
+            "toponym_search": "Khan Mim",
+            "region_code": "Faris",
+            "coord_lon": "52.88580",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.8858,
+            29.31712
+        ]
+    }
+}

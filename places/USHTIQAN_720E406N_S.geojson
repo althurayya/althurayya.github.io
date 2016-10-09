@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Uštīqān",
+            "cornu_URI": "USHTIQAN_720E406N_S",
+            "toponym_arabic": "أشتيقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ushtiqan",
+            "toponym_arabic_other": "أشتيقان",
+            "toponym_translit": "Uštīqān",
+            "coord_lat": "40.67718",
+            "toponym_search": "Ushtiqan",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.05745",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.05745,
+            40.67718
+        ]
+    }
+}

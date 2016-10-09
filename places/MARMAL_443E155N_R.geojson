@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marmal",
+            "cornu_URI": "MARMAL_443E155N_R",
+            "toponym_arabic": "مرمل",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Marmal",
+            "toponym_arabic_other": "مرمل",
+            "toponym_translit": "Marmal",
+            "coord_lat": "15.56063",
+            "toponym_search": "Marmal",
+            "region_code": "Yemen",
+            "coord_lon": "44.36603",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.36603,
+            15.56063
+        ]
+    }
+}

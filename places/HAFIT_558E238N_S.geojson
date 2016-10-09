@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥafīt",
+            "cornu_URI": "HAFIT_558E238N_S",
+            "toponym_arabic": "حفيت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hafit",
+            "toponym_arabic_other": "حفيت",
+            "toponym_translit": "Ḥafīt",
+            "coord_lat": "23.89613",
+            "toponym_search": "Hafit",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "55.85631",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.85631,
+            23.89613
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000037-000.json": {
+                "title": "ابيار",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abār",
+            "cornu_URI": "ABAR_782E284N_S",
+            "toponym_arabic": "أبار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abar",
+            "toponym_arabic_other": "أبار",
+            "toponym_translit": "Abār",
+            "coord_lat": "28.46951",
+            "toponym_search": "Abar",
+            "region_code": "Sind",
+            "coord_lon": "78.21440",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            78.2144,
+            28.46951
+        ]
+    }
+}

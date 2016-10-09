@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qamarṭī, al-Qamraṭī",
+            "cornu_URI": "QAMARTI_404E348N_S",
+            "toponym_arabic": "القمرطي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qamarti, al-Qamrati",
+            "toponym_arabic_other": "القمرطي، القمرطي",
+            "toponym_translit": "al-Qamarṭī",
+            "coord_lat": "34.81073",
+            "toponym_search": "al-Qamarti, al-Qamrati",
+            "region_code": "Aqur",
+            "coord_lon": "40.45161",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.45161,
+            34.81073
+        ]
+    }
+}

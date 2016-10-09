@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001535-000.json": {
+                "title": "نفطه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nafṭaŧ",
+            "cornu_URI": "NAFTA_079E338N_S",
+            "toponym_arabic": "نفطة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nafta",
+            "toponym_arabic_other": "نفطة",
+            "toponym_translit": "Nafṭaŧ",
+            "coord_lat": "33.87018",
+            "toponym_search": "Nafta",
+            "region_code": "Maghrib",
+            "coord_lon": "7.90257",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.90257,
+            33.87018
+        ]
+    }
+}

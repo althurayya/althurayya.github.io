@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001311-000.json": {
+                "title": "الكوفه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Kuswaŧ",
+            "cornu_URI": "KUSWA_362E333N_S",
+            "toponym_arabic": "الكسوة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Kuswa",
+            "toponym_arabic_other": "الكسوة",
+            "toponym_translit": "al-Kuswaŧ",
+            "coord_lat": "33.35826",
+            "toponym_search": "al-Kuswa",
+            "region_code": "Sham",
+            "coord_lon": "36.23184",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.23184,
+            33.35826
+        ]
+    }
+}

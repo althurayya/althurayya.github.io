@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Sandah",
+            "cornu_URI": "RIBATSANDAH_617E412N_S",
+            "toponym_arabic": "رباط سنده",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Sandah",
+            "toponym_arabic_other": "رباط سنده",
+            "toponym_translit": "Ribāṭ Sandah",
+            "coord_lat": "41.23222",
+            "toponym_search": "Ribat Sandah",
+            "region_code": "Transoxiana",
+            "coord_lon": "61.76738",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.76738,
+            41.23222
+        ]
+    }
+}

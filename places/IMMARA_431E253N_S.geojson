@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Immaraŧ",
+            "cornu_URI": "IMMARA_431E253N_S",
+            "toponym_arabic": "إمرة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Immara",
+            "toponym_arabic_other": "إمرة",
+            "toponym_translit": "Immaraŧ",
+            "coord_lat": "25.37319",
+            "toponym_search": "Immara",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "43.14710",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.1471,
+            25.37319
+        ]
+    }
+}

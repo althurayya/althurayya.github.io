@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000200-000.json": {
+                "title": "بابل",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāb",
+            "cornu_URI": "BAB_711E408N_S",
+            "toponym_arabic": "باب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bab",
+            "toponym_arabic_other": "باب",
+            "toponym_translit": "Bāb",
+            "coord_lat": "40.88072",
+            "toponym_search": "Bab",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.16439",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.16439,
+            40.88072
+        ]
+    }
+}

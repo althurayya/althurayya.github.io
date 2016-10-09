@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biʾr Ḥumayd",
+            "cornu_URI": "BIRHUMAYD_681E403N_S",
+            "toponym_arabic": "بئر حميد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bir Humayd",
+            "toponym_arabic_other": "بئر حميد",
+            "toponym_translit": "Biʾr Ḥumayd",
+            "coord_lat": "40.38860",
+            "toponym_search": "Bir Humayd",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.19849",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.19849,
+            40.3886
+        ]
+    }
+}

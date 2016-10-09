@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Maslamaŧ",
+            "cornu_URI": "HISNMASLAMA_390E363N_S",
+            "toponym_arabic": "حصن مسلمة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hisn Maslama",
+            "toponym_arabic_other": "حصن مسلمة",
+            "toponym_translit": "Ḥiṣn Maslamaŧ",
+            "coord_lat": "36.38728",
+            "toponym_search": "Hisn Maslama",
+            "region_code": "Aqur",
+            "coord_lon": "39.07106",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.07106,
+            36.38728
+        ]
+    }
+}

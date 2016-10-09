@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mantīšaŧ",
+            "cornu_URI": "MANTISHA_036W398N_S",
+            "toponym_arabic": "منتيشة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mantisha",
+            "toponym_arabic_other": "منتيشة",
+            "toponym_translit": "Mantīšaŧ",
+            "coord_lat": "39.81332",
+            "toponym_search": "Mantisha",
+            "region_code": "Andalus",
+            "coord_lon": "-3.62588",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.62588,
+            39.81332
+        ]
+    }
+}

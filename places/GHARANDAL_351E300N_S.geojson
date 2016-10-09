@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġarandal, ʿArandal",
+            "cornu_URI": "GHARANDAL_351E300N_S",
+            "toponym_arabic": "غرندل",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Gharandal, Arandal",
+            "toponym_arabic_other": "غرندل، عرندل",
+            "toponym_translit": "Ġarandal",
+            "coord_lat": "30.03245",
+            "toponym_search": "Gharandal, Arandal",
+            "region_code": "Sham",
+            "coord_lon": "35.17023",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.17023,
+            30.03245
+        ]
+    }
+}

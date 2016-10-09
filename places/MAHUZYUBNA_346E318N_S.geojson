@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Māḥūz Yubnā",
+            "cornu_URI": "MAHUZYUBNA_346E318N_S",
+            "toponym_arabic": "ماحوز يبنا",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "Mahuz Yubna",
+            "toponym_arabic_other": "ماحوز يبنا",
+            "toponym_translit": "Māḥūz Yubnā",
+            "coord_lat": "31.87811",
+            "toponym_search": "Mahuz Yubna",
+            "region_code": "Sham",
+            "coord_lon": "34.66888",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.66888,
+            31.87811
+        ]
+    }
+}

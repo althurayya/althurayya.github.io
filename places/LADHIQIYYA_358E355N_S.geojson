@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001324-000.json": {
+                "title": "اللاذقيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Lāḏiqiyyaŧ",
+            "cornu_URI": "LADHIQIYYA_358E355N_S",
+            "toponym_arabic": "اللاذقية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Ladhiqiyya",
+            "toponym_arabic_other": "اللاذقية",
+            "toponym_translit": "al-Lāḏiqiyyaŧ",
+            "coord_lat": "35.51961",
+            "toponym_search": "al-Ladhiqiyya",
+            "region_code": "Sham",
+            "coord_lon": "35.80763",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.80763,
+            35.51961
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0108",
+            "cornu_URI": "ROUTPOINT0108_355E317N_O",
+            "toponym_arabic": "RoutPoint0108",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0108",
+            "toponym_arabic_other": "RoutPoint0108",
+            "toponym_translit": "RoutPoint0108",
+            "coord_lat": "31.79889",
+            "toponym_search": "RoutPoint0108",
+            "region_code": "Sham",
+            "coord_lon": "35.52160",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.5216,
+            31.79889
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001190-000.json": {
+                "title": "قرمونه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarmūnaŧ",
+            "cornu_URI": "QARMUNA_056W374N_S",
+            "toponym_arabic": "قرمونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarmuna",
+            "toponym_arabic_other": "قرمونة",
+            "toponym_translit": "Qarmūnaŧ",
+            "coord_lat": "37.42933",
+            "toponym_search": "Qarmuna",
+            "region_code": "Andalus",
+            "coord_lon": "-5.64097",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.64097,
+            37.42933
+        ]
+    }
+}

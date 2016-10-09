@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dayr al-Naṣārá, Ḥiṣn al-Naṣārá, al-Qaṣr",
+            "cornu_URI": "DAYRNASARA_330E311N_S",
+            "toponym_arabic": "دير النصارى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dayr al-Nasara, Hisn al-Nasara, al-Qasr",
+            "toponym_arabic_other": "دير النصارى، حصن النصارى، القصر",
+            "toponym_translit": "Dayr al-Naṣārá",
+            "coord_lat": "31.14397",
+            "toponym_search": "Dayr al-Nasara, Hisn al-Nasara, al-Qasr",
+            "region_code": "Egypt",
+            "coord_lon": "33.05753",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.05753,
+            31.14397
+        ]
+    }
+}

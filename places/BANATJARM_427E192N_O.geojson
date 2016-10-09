@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banāt Ǧarm, Banāt Ḥarm, Banāt Ḥarb",
+            "cornu_URI": "BANATJARM_427E192N_O",
+            "toponym_arabic": "بنات جرم",
+            "top_type_orig": "site",
+            "toponym_buckwalter": "Banat Jarm, Banat Harm, Banat Harb",
+            "toponym_arabic_other": "بنات جرم، بنات حرم، بنات حرب",
+            "toponym_translit": "Banāt Ǧarm",
+            "coord_lat": "19.20706",
+            "toponym_search": "Banat Jarm, Banat Harm, Banat Harb",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.78290",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.7829,
+            19.20706
+        ]
+    }
+}

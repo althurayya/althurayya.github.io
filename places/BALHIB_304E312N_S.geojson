@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balhīb",
+            "cornu_URI": "BALHIB_304E312N_S",
+            "toponym_arabic": "بلهيب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Balhib",
+            "toponym_arabic_other": "بلهيب",
+            "toponym_translit": "Balhīb",
+            "coord_lat": "31.28513",
+            "toponym_search": "Balhib",
+            "region_code": "Egypt",
+            "coord_lon": "30.46299",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.46299,
+            31.28513
+        ]
+    }
+}

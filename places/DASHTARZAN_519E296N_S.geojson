@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dašt Arzan",
+            "cornu_URI": "DASHTARZAN_519E296N_S",
+            "toponym_arabic": "دشت أرزن",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Dasht Arzan",
+            "toponym_arabic_other": "دشت أرزن",
+            "toponym_translit": "Dašt Arzan",
+            "coord_lat": "29.60960",
+            "toponym_search": "Dasht Arzan",
+            "region_code": "Faris",
+            "coord_lon": "51.94222",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.94222,
+            29.6096
+        ]
+    }
+}

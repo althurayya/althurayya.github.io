@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000996-000.json": {
+                "title": "طرطوشه",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭurṭūšaŧ",
+            "cornu_URI": "TURTUSHA_006E407N_S",
+            "toponym_arabic": "طرطوشة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Turtusha",
+            "toponym_arabic_other": "طرطوشة",
+            "toponym_translit": "Ṭurṭūšaŧ",
+            "coord_lat": "40.79221",
+            "toponym_search": "Turtusha",
+            "region_code": "Andalus",
+            "coord_lon": "0.60933",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.60933,
+            40.79221
+        ]
+    }
+}

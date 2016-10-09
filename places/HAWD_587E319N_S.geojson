@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥawḍ",
+            "cornu_URI": "HAWD_587E319N_S",
+            "toponym_arabic": "الحوض",
+            "top_type_orig": "relais",
+            "toponym_buckwalter": "al-Hawd",
+            "toponym_arabic_other": "الحوض",
+            "toponym_translit": "al-Ḥawḍ",
+            "coord_lat": "31.90091",
+            "toponym_search": "al-Hawd",
+            "region_code": "Mafaza",
+            "coord_lon": "58.78635",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.78635,
+            31.90091
+        ]
+    }
+}

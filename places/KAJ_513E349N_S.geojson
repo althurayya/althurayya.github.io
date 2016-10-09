@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kāǧ",
+            "cornu_URI": "KAJ_513E349N_S",
+            "toponym_arabic": "كاج",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kaj",
+            "toponym_arabic_other": "كاج",
+            "toponym_translit": "Kāǧ",
+            "coord_lat": "34.92405",
+            "toponym_search": "Kaj",
+            "region_code": "Mafaza",
+            "coord_lon": "51.31000",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.31,
+            34.92405
+        ]
+    }
+}

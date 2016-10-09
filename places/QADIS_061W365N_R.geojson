@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001176-000.json": {
+                "title": "قدس",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001163-000.json": {
+                "title": "قادس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qādis",
+            "cornu_URI": "QADIS_061W365N_R",
+            "toponym_arabic": "قادس",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Qadis",
+            "toponym_arabic_other": "قادس",
+            "toponym_translit": "Qādis",
+            "coord_lat": "36.57191",
+            "toponym_search": "Qadis",
+            "region_code": "Andalus",
+            "coord_lon": "-6.18409",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.18409,
+            36.57191
+        ]
+    }
+}

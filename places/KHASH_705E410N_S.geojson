@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫāš, Ḫās, Ḫašt",
+            "cornu_URI": "KHASH_705E410N_S",
+            "toponym_arabic": "خاش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khash, Khas, Khasht",
+            "toponym_arabic_other": "خاش، خاس، خشت",
+            "toponym_translit": "Ḫāš",
+            "coord_lat": "41.02958",
+            "toponym_search": "Khash, Khas, Khasht",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.53285",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.53285,
+            41.02958
+        ]
+    }
+}

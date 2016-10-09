@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001212-000.json": {
+                "title": "قلعه البلوط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ al-Ballūṭ",
+            "cornu_URI": "QALABALLUT_132E375N_S",
+            "toponym_arabic": "قلعة البلوط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qala al-Ballut",
+            "toponym_arabic_other": "قلعة البلوط",
+            "toponym_translit": "Qalʿaŧ al-Ballūṭ",
+            "coord_lat": "37.57066",
+            "toponym_search": "Qala al-Ballut",
+            "region_code": "Sicile",
+            "coord_lon": "13.21986",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21986,
+            37.57066
+        ]
+    }
+}

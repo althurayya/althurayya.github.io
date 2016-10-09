@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Naṣrak",
+            "cornu_URI": "RIBATNASRAK_629E383N_S",
+            "toponym_arabic": "رباط نصرك",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Nasrak",
+            "toponym_arabic_other": "رباط نصرك",
+            "toponym_translit": "Ribāṭ Naṣrak",
+            "coord_lat": "38.31229",
+            "toponym_search": "Ribat Nasrak",
+            "region_code": "Khurasan",
+            "coord_lon": "62.99639",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.99639,
+            38.31229
+        ]
+    }
+}

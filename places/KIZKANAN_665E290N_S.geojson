@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kīzkānān",
+            "cornu_URI": "KIZKANAN_665E290N_S",
+            "toponym_arabic": "كيزكانان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kizkanan",
+            "toponym_arabic_other": "كيزكانان",
+            "toponym_translit": "Kīzkānān",
+            "coord_lat": "29.02220",
+            "toponym_search": "Kizkanan",
+            "region_code": "Sind",
+            "coord_lon": "66.57332",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.57332,
+            29.0222
+        ]
+    }
+}

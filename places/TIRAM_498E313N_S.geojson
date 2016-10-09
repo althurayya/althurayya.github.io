@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīram",
+            "cornu_URI": "TIRAM_498E313N_S",
+            "toponym_arabic": "تيرم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Tiram",
+            "toponym_arabic_other": "تيرم",
+            "toponym_translit": "Tīram",
+            "coord_lat": "31.39156",
+            "toponym_search": "Tiram",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.82612",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.82612,
+            31.39156
+        ]
+    }
+}

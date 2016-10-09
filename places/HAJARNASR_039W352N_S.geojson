@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001530-000.json": {
+                "title": "نكور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Haǧar al-Naṣr, Qalʿaŧ al-Nusūr, Nākūr, Nukūr",
+            "cornu_URI": "HAJARNASR_039W352N_S",
+            "toponym_arabic": "هجر النصر",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Hajar al-Nasr, Qala al-Nusur, Nakur, Nukur",
+            "toponym_arabic_other": "هجر النصر، قلعة النسور، ناكور، نكور",
+            "toponym_translit": "Haǧar al-Naṣr",
+            "coord_lat": "35.22154",
+            "toponym_search": "Hajar al-Nasr, Qala al-Nusur, Nakur, Nukur",
+            "region_code": "Maghrib",
+            "coord_lon": "-3.90859",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.90859,
+            35.22154
+        ]
+    }
+}

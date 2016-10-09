@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sanṭaŧ",
+            "cornu_URI": "SANTA_334E194N_S",
+            "toponym_arabic": "السنطة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Santa",
+            "toponym_arabic_other": "السنطة",
+            "toponym_translit": "al-Sanṭaŧ",
+            "coord_lat": "19.40078",
+            "toponym_search": "al-Santa",
+            "region_code": "Egypt",
+            "coord_lon": "33.43051",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.43051,
+            19.40078
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣandafā",
+            "cornu_URI": "SANDAFA_311E309N_S",
+            "toponym_arabic": "صندفا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sandafa",
+            "toponym_arabic_other": "صندفا",
+            "toponym_translit": "Ṣandafā",
+            "coord_lat": "30.96890",
+            "toponym_search": "Sandafa",
+            "region_code": "Egypt",
+            "coord_lon": "31.16426",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.16426,
+            30.9689
+        ]
+    }
+}

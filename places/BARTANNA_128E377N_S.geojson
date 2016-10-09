@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000242-000.json": {
+                "title": "برطانيه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barṭannaŧ",
+            "cornu_URI": "BARTANNA_128E377N_S",
+            "toponym_arabic": "برطنة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bartanna",
+            "toponym_arabic_other": "برطنة",
+            "toponym_translit": "Barṭannaŧ",
+            "coord_lat": "37.70830",
+            "toponym_search": "Bartanna",
+            "region_code": "Sicile",
+            "coord_lon": "12.88988",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88988,
+            37.7083
+        ]
+    }
+}

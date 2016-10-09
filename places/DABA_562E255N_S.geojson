@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000593-000.json": {
+                "title": "دبا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dabā",
+            "cornu_URI": "DABA_562E255N_S",
+            "toponym_arabic": "دبا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Daba",
+            "toponym_arabic_other": "دبا",
+            "toponym_translit": "Dabā",
+            "coord_lat": "25.59071",
+            "toponym_search": "Daba",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "56.22657",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.22657,
+            25.59071
+        ]
+    }
+}

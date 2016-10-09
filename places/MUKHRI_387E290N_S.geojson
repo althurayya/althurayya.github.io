@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Muḫrī",
+            "cornu_URI": "MUKHRI_387E290N_S",
+            "toponym_arabic": "مخري",
+            "top_type_orig": "pointdeau",
+            "toponym_buckwalter": "Mukhri",
+            "toponym_arabic_other": "مخري",
+            "toponym_translit": "Muḫrī",
+            "coord_lat": "29.01767",
+            "toponym_search": "Mukhri",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "38.70747",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.70747,
+            29.01767
+        ]
+    }
+}

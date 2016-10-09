@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rustāq",
+            "cornu_URI": "RUSTAQ_551E284N_S",
+            "toponym_arabic": "رستاق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rustaq",
+            "toponym_arabic_other": "رستاق",
+            "toponym_translit": "Rustāq",
+            "coord_lat": "28.47950",
+            "toponym_search": "Rustaq",
+            "region_code": "Faris",
+            "coord_lon": "55.10037",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.10037,
+            28.4795
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karkūyaŧ",
+            "cornu_URI": "KARKUYA_040W388N_S",
+            "toponym_arabic": "كركوية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Karkuya",
+            "toponym_arabic_other": "كركوية",
+            "toponym_translit": "Karkūyaŧ",
+            "coord_lat": "38.81784",
+            "toponym_search": "Karkuya",
+            "region_code": "Andalus",
+            "coord_lon": "-4.06918",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.06918,
+            38.81784
+        ]
+    }
+}

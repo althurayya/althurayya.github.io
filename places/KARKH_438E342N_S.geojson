@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001279-000.json": {
+                "title": "الكرخ",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Karḫ",
+            "cornu_URI": "KARKH_438E342N_S",
+            "toponym_arabic": "الكرخ",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Karkh",
+            "toponym_arabic_other": "الكرخ",
+            "toponym_translit": "al-Karḫ",
+            "coord_lat": "34.29663",
+            "toponym_search": "al-Karkh",
+            "region_code": "Iraq",
+            "coord_lon": "43.87468",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.87468,
+            34.29663
+        ]
+    }
+}

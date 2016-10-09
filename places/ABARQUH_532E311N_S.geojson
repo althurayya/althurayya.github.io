@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abarqūh",
+            "cornu_URI": "ABARQUH_532E311N_S",
+            "toponym_arabic": "أبرقوه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abarquh",
+            "toponym_arabic_other": "أبرقوه",
+            "toponym_translit": "Abarqūh",
+            "coord_lat": "31.15094",
+            "toponym_search": "Abarquh",
+            "region_code": "Faris",
+            "coord_lon": "53.25737",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.25737,
+            31.15094
+        ]
+    }
+}

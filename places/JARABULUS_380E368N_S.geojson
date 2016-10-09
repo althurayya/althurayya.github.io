@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarabuluṣ",
+            "cornu_URI": "JARABULUS_380E368N_S",
+            "toponym_arabic": "جربلص",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jarabulus",
+            "toponym_arabic_other": "جربلص",
+            "toponym_translit": "Ǧarabuluṣ",
+            "coord_lat": "36.81562",
+            "toponym_search": "Jarabulus",
+            "region_code": "Sham",
+            "coord_lon": "38.00577",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.00577,
+            36.81562
+        ]
+    }
+}

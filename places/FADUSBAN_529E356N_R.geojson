@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fādūsbān, Qādūstān, Qādūsiyān",
+            "cornu_URI": "FADUSBAN_529E356N_R",
+            "toponym_arabic": "فادوسبان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Fadusban, Qadustan, Qadusiyan",
+            "toponym_arabic_other": "فادوسبان، قادوستان، قادوسيان",
+            "toponym_translit": "Fādūsbān",
+            "coord_lat": "35.61266",
+            "toponym_search": "Fadusban, Qadustan, Qadusiyan",
+            "region_code": "Daylam",
+            "coord_lon": "52.96387",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.96387,
+            35.61266
+        ]
+    }
+}

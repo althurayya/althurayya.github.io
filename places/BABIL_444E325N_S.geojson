@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000200-000.json": {
+                "title": "بابل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bābil",
+            "cornu_URI": "BABIL_444E325N_S",
+            "toponym_arabic": "بابل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Babil",
+            "toponym_arabic_other": "بابل",
+            "toponym_translit": "Bābil",
+            "coord_lat": "32.57211",
+            "toponym_search": "Babil",
+            "region_code": "Iraq",
+            "coord_lon": "44.42281",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.42281,
+            32.57211
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sukayr al-ʿAbbās",
+            "cornu_URI": "SUKAYRABBAS_405E352N_S",
+            "toponym_arabic": "سكير العباس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sukayr al-Abbas",
+            "toponym_arabic_other": "سكير العباس",
+            "toponym_translit": "Sukayr al-ʿAbbās",
+            "coord_lat": "35.24207",
+            "toponym_search": "Sukayr al-Abbas",
+            "region_code": "Aqur",
+            "coord_lon": "40.58767",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.58767,
+            35.24207
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000909-000.json": {
+                "title": "صبره",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000910-000.json": {
+                "title": "وصبره",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣabraŧ",
+            "cornu_URI": "SABRA_124E327N_S",
+            "toponym_arabic": "صبرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sabra",
+            "toponym_arabic_other": "صبرة",
+            "toponym_translit": "Ṣabraŧ",
+            "coord_lat": "32.78822",
+            "toponym_search": "Sabra",
+            "region_code": "Barqa",
+            "coord_lon": "12.48146",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.48146,
+            32.78822
+        ]
+    }
+}

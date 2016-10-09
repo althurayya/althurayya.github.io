@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000277-000.json": {
+                "title": "بنزرت",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banzart",
+            "cornu_URI": "BANZART_098E372N_S",
+            "toponym_arabic": "بنزرت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Banzart",
+            "toponym_arabic_other": "بنزرت",
+            "toponym_translit": "Banzart",
+            "coord_lat": "37.24070",
+            "toponym_search": "Banzart",
+            "region_code": "Maghrib",
+            "coord_lon": "9.82170",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.8217,
+            37.2407
+        ]
+    }
+}

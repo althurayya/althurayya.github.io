@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṯāt wa-Radāʿ",
+            "cornu_URI": "THATWA-RADA_447E144N_R",
+            "toponym_arabic": "ثات ورداع",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "That wa-Rada",
+            "toponym_arabic_other": "ثات ورداع",
+            "toponym_translit": "Ṯāt wa-Radāʿ",
+            "coord_lat": "14.48460",
+            "toponym_search": "That wa-Rada",
+            "region_code": "Yemen",
+            "coord_lon": "44.76857",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.76857,
+            14.4846
+        ]
+    }
+}

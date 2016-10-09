@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001139-000.json": {
+                "title": "الفرماء",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Faramā",
+            "cornu_URI": "FARAMA_325E310N_S",
+            "toponym_arabic": "الفرما",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Farama",
+            "toponym_arabic_other": "الفرما",
+            "toponym_translit": "al-Faramā",
+            "coord_lat": "31.02282",
+            "toponym_search": "al-Farama",
+            "region_code": "Egypt",
+            "coord_lon": "32.59811",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.59811,
+            31.02282
+        ]
+    }
+}

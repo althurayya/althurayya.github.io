@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tuʾām",
+            "cornu_URI": "TUAM_557E241N_S",
+            "toponym_arabic": "تؤام",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tuam",
+            "toponym_arabic_other": "تؤام",
+            "toponym_translit": "Tuʾām",
+            "coord_lat": "24.19401",
+            "toponym_search": "Tuam",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "55.77403",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.77403,
+            24.19401
+        ]
+    }
+}

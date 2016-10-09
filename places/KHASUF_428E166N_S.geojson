@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫaṣūf",
+            "cornu_URI": "KHASUF_428E166N_S",
+            "toponym_arabic": "الخصوف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Khasuf",
+            "toponym_arabic_other": "الخصوف",
+            "toponym_translit": "al-Ḫaṣūf",
+            "coord_lat": "16.67647",
+            "toponym_search": "al-Khasuf",
+            "region_code": "Yemen",
+            "coord_lon": "42.88142",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.88142,
+            16.67647
+        ]
+    }
+}

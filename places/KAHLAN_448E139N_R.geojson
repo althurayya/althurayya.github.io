@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001275-000.json": {
+                "title": "كحلان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kaḥlān",
+            "cornu_URI": "KAHLAN_448E139N_R",
+            "toponym_arabic": "كحلان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Kahlan",
+            "toponym_arabic_other": "كحلان",
+            "toponym_translit": "Kaḥlān",
+            "coord_lat": "13.96335",
+            "toponym_search": "Kahlan",
+            "region_code": "Yemen",
+            "coord_lon": "44.85637",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.85637,
+            13.96335
+        ]
+    }
+}

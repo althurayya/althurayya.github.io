@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šihmār, Sihmār",
+            "cornu_URI": "SHIHMAR_528E361N_S",
+            "toponym_arabic": "شهمار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shihmar, Sihmar",
+            "toponym_arabic_other": "شهمار، سهمار",
+            "toponym_translit": "Šihmār",
+            "coord_lat": "36.16111",
+            "toponym_search": "Shihmar, Sihmar",
+            "region_code": "Daylam",
+            "coord_lon": "52.86652",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.86652,
+            36.16111
+        ]
+    }
+}

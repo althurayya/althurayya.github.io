@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sārūq",
+            "cornu_URI": "SARUQ_495E343N_S",
+            "toponym_arabic": "ساروق",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Saruq",
+            "toponym_arabic_other": "ساروق",
+            "toponym_translit": "Sārūq",
+            "coord_lat": "34.36011",
+            "toponym_search": "Saruq",
+            "region_code": "Jibal",
+            "coord_lon": "49.55519",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.55519,
+            34.36011
+        ]
+    }
+}

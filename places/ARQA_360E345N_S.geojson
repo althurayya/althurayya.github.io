@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001048-000.json": {
+                "title": "عرقه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArqaŧ",
+            "cornu_URI": "ARQA_360E345N_S",
+            "toponym_arabic": "عرقة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arqa",
+            "toponym_arabic_other": "عرقة",
+            "toponym_translit": "ʿArqaŧ",
+            "coord_lat": "34.52991",
+            "toponym_search": "Arqa",
+            "region_code": "Sham",
+            "coord_lon": "36.07300",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.073,
+            34.52991
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAkkaŧ",
+            "cornu_URI": "AKKA_350E329N_S",
+            "toponym_arabic": "عكة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Akka",
+            "toponym_arabic_other": "عكة",
+            "toponym_translit": "ʿAkkaŧ",
+            "coord_lat": "32.92878",
+            "toponym_search": "Akka",
+            "region_code": "Sham",
+            "coord_lon": "35.07559",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.07559,
+            32.92878
+        ]
+    }
+}

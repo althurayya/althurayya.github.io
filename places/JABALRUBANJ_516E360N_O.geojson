@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Rūbanǧ, Ruyanǧ",
+            "cornu_URI": "JABALRUBANJ_516E360N_O",
+            "toponym_arabic": "جبل روبنج",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Rubanj, Ruyanj",
+            "toponym_arabic_other": "جبل روبنج، رينج",
+            "toponym_translit": "Ǧabal Rūbanǧ",
+            "coord_lat": "36.03180",
+            "toponym_search": "Jabal Rubanj, Ruyanj",
+            "region_code": "Daylam",
+            "coord_lon": "51.63759",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.63759,
+            36.0318
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫāriǧaŧ",
+            "cornu_URI": "KHARIJA_305E249N_R",
+            "toponym_arabic": "الخارجة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Kharija",
+            "toponym_arabic_other": "الخارجة",
+            "toponym_translit": "al-Ḫāriǧaŧ",
+            "coord_lat": "24.98738",
+            "toponym_search": "al-Kharija",
+            "region_code": "Egypt",
+            "coord_lon": "30.51687",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.51687,
+            24.98738
+        ]
+    }
+}

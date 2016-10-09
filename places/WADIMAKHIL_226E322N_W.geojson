@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Maḫīl",
+            "cornu_URI": "WADIMAKHIL_226E322N_W",
+            "toponym_arabic": "وادي مخيل",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Makhil",
+            "toponym_arabic_other": "وادي مخيل",
+            "toponym_translit": "Wādī Maḫīl",
+            "coord_lat": "32.26480",
+            "toponym_search": "Wadi Makhil",
+            "region_code": "Barqa",
+            "coord_lon": "22.62048",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.62048,
+            32.2648
+        ]
+    }
+}

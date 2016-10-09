@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001437-000.json": {
+                "title": "ملطيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Malaṭīn, Malaṭiyaŧ",
+            "cornu_URI": "MALATIN_383E383N_S",
+            "toponym_arabic": "ملطين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Malatin, Malatiya",
+            "toponym_arabic_other": "ملطين، ملطية",
+            "toponym_translit": "Malaṭīn",
+            "coord_lat": "38.35806",
+            "toponym_search": "Malatin, Malatiya",
+            "region_code": "Aqur",
+            "coord_lon": "38.35767",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.35767,
+            38.35806
+        ]
+    }
+}

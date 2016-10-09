@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qalʿaŧ",
+            "cornu_URI": "QALA_576E226N_S",
+            "toponym_arabic": "القلعة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Qala",
+            "toponym_arabic_other": "القلعة",
+            "toponym_translit": "al-Qalʿaŧ",
+            "coord_lat": "22.68969",
+            "toponym_search": "al-Qala",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "57.66352",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.66352,
+            22.68969
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kalwān, Kulwān",
+            "cornu_URI": "KALWAN_646E261N_R",
+            "toponym_arabic": "كلوان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Kalwan, Kulwan",
+            "toponym_arabic_other": "كلوان، كلوان",
+            "toponym_translit": "Kalwān",
+            "coord_lat": "26.16004",
+            "toponym_search": "Kalwan, Kulwan",
+            "region_code": "Sind",
+            "coord_lon": "64.66560",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.6656,
+            26.16004
+        ]
+    }
+}

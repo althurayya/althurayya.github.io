@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manūf al-ʿUliyā",
+            "cornu_URI": "MANUFULIYA_309E308N_R",
+            "toponym_arabic": "منوف العليا",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Manuf al-Uliya",
+            "toponym_arabic_other": "منوف العليا",
+            "toponym_translit": "Manūf al-ʿUliyā",
+            "coord_lat": "30.87050",
+            "toponym_search": "Manuf al-Uliya",
+            "region_code": "Egypt",
+            "coord_lon": "30.95223",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.95223,
+            30.8705
+        ]
+    }
+}

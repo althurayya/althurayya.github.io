@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mīmās",
+            "cornu_URI": "MIMAS_344E315N_S",
+            "toponym_arabic": "ميماس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mimas",
+            "toponym_arabic_other": "ميماس",
+            "toponym_translit": "Mīmās",
+            "coord_lat": "31.50145",
+            "toponym_search": "Mimas",
+            "region_code": "Sham",
+            "coord_lon": "34.42276",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.42276,
+            31.50145
+        ]
+    }
+}

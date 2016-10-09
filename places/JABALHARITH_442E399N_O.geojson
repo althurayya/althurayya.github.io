@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal al-Ḥarīṯ, Ǧabal al-Ḥuwayrīṯ",
+            "cornu_URI": "JABALHARITH_442E399N_O",
+            "toponym_arabic": "جبل الحريث",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal al-Harith, Jabal al-Huwayrith",
+            "toponym_arabic_other": "جبل الحريث، جبل الحويريث",
+            "toponym_translit": "Ǧabal al-Ḥarīṯ",
+            "coord_lat": "39.90562",
+            "toponym_search": "Jabal al-Harith, Jabal al-Huwayrith",
+            "region_code": "Rihab",
+            "coord_lon": "44.27779",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.27779,
+            39.90562
+        ]
+    }
+}

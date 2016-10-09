@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAbdās",
+            "cornu_URI": "ABDAS_473E314N_S",
+            "toponym_arabic": "عبداس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abdas",
+            "toponym_arabic_other": "عبداس",
+            "toponym_translit": "ʿAbdās",
+            "coord_lat": "31.46283",
+            "toponym_search": "Abdas",
+            "region_code": "Iraq",
+            "coord_lon": "47.33731",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.33731,
+            31.46283
+        ]
+    }
+}

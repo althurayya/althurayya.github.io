@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sanǧarfaġan",
+            "cornu_URI": "SANJARFAGHAN_660E395N_R",
+            "toponym_arabic": "سنجرفغن",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Sanjarfaghan",
+            "toponym_arabic_other": "سنجرفغن",
+            "toponym_translit": "Sanǧarfaġan",
+            "coord_lat": "39.54210",
+            "toponym_search": "Sanjarfaghan",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.03353",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.03353,
+            39.5421
+        ]
+    }
+}

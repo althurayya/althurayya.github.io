@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tandaŧ",
+            "cornu_URI": "TANDA_307E277N_S",
+            "toponym_arabic": "تندة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tanda",
+            "toponym_arabic_other": "تندة",
+            "toponym_translit": "Tandaŧ",
+            "coord_lat": "27.76484",
+            "toponym_search": "Tanda",
+            "region_code": "Egypt",
+            "coord_lon": "30.70110",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.7011,
+            27.76484
+        ]
+    }
+}

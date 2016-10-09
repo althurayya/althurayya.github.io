@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šāwḏār",
+            "cornu_URI": "SHAWDHAR_672E393N_R",
+            "toponym_arabic": "الشاوذار",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Shawdhar",
+            "toponym_arabic_other": "الشاوذار",
+            "toponym_translit": "al-Šāwḏār",
+            "coord_lat": "39.33812",
+            "toponym_search": "al-Shawdhar",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.21506",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.21506,
+            39.33812
+        ]
+    }
+}

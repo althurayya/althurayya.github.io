@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000717-000.json": {
+                "title": "الري",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qāllarī",
+            "cornu_URI": "QALLARI_688E264N_S",
+            "toponym_arabic": "قالري",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qallari",
+            "toponym_arabic_other": "قالري",
+            "toponym_translit": "Qāllarī",
+            "coord_lat": "26.44591",
+            "toponym_search": "Qallari",
+            "region_code": "Sind",
+            "coord_lon": "68.85922",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.85922,
+            26.44591
+        ]
+    }
+}

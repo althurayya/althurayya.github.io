@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bakrābāḏ, Bakrāwāḏ",
+            "cornu_URI": "BAKRABADH_658E315N_S",
+            "toponym_arabic": "بكراباذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bakrabadh, Bakrawadh",
+            "toponym_arabic_other": "بكراباذ، بكراواذ",
+            "toponym_translit": "Bakrābāḏ",
+            "coord_lat": "31.59434",
+            "toponym_search": "Bakrabadh, Bakrawadh",
+            "region_code": "Sijistan",
+            "coord_lon": "65.86183",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.86183,
+            31.59434
+        ]
+    }
+}

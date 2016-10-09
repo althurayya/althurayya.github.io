@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dartal",
+            "cornu_URI": "DARTAL_650E321N_S",
+            "toponym_arabic": "درتل",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Dartal",
+            "toponym_arabic_other": "درتل",
+            "toponym_translit": "Dartal",
+            "coord_lat": "32.18280",
+            "toponym_search": "Dartal",
+            "region_code": "Sijistan",
+            "coord_lon": "65.03496",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.03496,
+            32.1828
+        ]
+    }
+}

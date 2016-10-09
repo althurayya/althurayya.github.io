@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧaʿfarābāḏ",
+            "cornu_URI": "JAFARABADH_518E311N_S",
+            "toponym_arabic": "جعفراباذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jafarabadh",
+            "toponym_arabic_other": "جعفراباذ",
+            "toponym_translit": "Ǧaʿfarābāḏ",
+            "coord_lat": "31.19326",
+            "toponym_search": "Jafarabadh",
+            "region_code": "Faris",
+            "coord_lon": "51.81266",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.81266,
+            31.19326
+        ]
+    }
+}

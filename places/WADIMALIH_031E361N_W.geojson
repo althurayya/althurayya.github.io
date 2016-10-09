@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī al-Māliḥ",
+            "cornu_URI": "WADIMALIH_031E361N_W",
+            "toponym_arabic": "وادي المالح",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi al-Malih",
+            "toponym_arabic_other": "وادي المالح",
+            "toponym_translit": "Wādī al-Māliḥ",
+            "coord_lat": "36.10990",
+            "toponym_search": "Wadi al-Malih",
+            "region_code": "Maghrib",
+            "coord_lon": "3.18573",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.18573,
+            36.1099
+        ]
+    }
+}

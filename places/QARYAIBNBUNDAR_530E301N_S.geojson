@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ Ibn Bundār",
+            "cornu_URI": "QARYAIBNBUNDAR_530E301N_S",
+            "toponym_arabic": "قرية إبن بندار",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qarya Ibn Bundar",
+            "toponym_arabic_other": "قرية إبن بندار",
+            "toponym_translit": "Qaryaŧ Ibn Bundār",
+            "coord_lat": "30.13418",
+            "toponym_search": "Qarya Ibn Bundar",
+            "region_code": "Faris",
+            "coord_lon": "53.03090",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.0309,
+            30.13418
+        ]
+    }
+}

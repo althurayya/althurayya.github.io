@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġamraŧ",
+            "cornu_URI": "GHAMRA_408E218N_S",
+            "toponym_arabic": "الغمرة",
+            "top_type_orig": "aiguade",
+            "toponym_buckwalter": "al-Ghamra",
+            "toponym_arabic_other": "الغمرة",
+            "toponym_translit": "al-Ġamraŧ",
+            "coord_lat": "21.89675",
+            "toponym_search": "al-Ghamra",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.84007",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.84007,
+            21.89675
+        ]
+    }
+}

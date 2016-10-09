@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000407-000.json": {
+                "title": "الثني",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṯaniyyaŧ",
+            "cornu_URI": "THANIYYA_463E240N_R",
+            "toponym_arabic": "الثنية",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Thaniyya",
+            "toponym_arabic_other": "الثنية",
+            "toponym_translit": "al-Ṯaniyyaŧ",
+            "coord_lat": "24.02771",
+            "toponym_search": "al-Thaniyya",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "46.32366",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.32366,
+            24.02771
+        ]
+    }
+}

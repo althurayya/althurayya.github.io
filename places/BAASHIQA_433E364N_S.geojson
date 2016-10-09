@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāʿašīqā",
+            "cornu_URI": "BAASHIQA_433E364N_S",
+            "toponym_arabic": "باعشيقا",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Baashiqa",
+            "toponym_arabic_other": "باعشيقا",
+            "toponym_translit": "Bāʿašīqā",
+            "coord_lat": "36.41022",
+            "toponym_search": "Baashiqa",
+            "region_code": "Aqur",
+            "coord_lon": "43.36699",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.36699,
+            36.41022
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000319-000.json": {
+                "title": "البيضاء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bayḍāʾ",
+            "cornu_URI": "BAYDA_005E418N_S",
+            "toponym_arabic": "البيضاء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Bayda",
+            "toponym_arabic_other": "البيضاء",
+            "toponym_translit": "al-Bayḍāʾ",
+            "coord_lat": "41.83632",
+            "toponym_search": "al-Bayda",
+            "region_code": "Andalus",
+            "coord_lon": "0.57785",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.57785,
+            41.83632
+        ]
+    }
+}

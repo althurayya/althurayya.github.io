@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000610-000.json": {
+                "title": "دمهره",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001490-000.json": {
+                "title": "مهوره",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001491-000.json": {
+                "title": "مهره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mahraŧ",
+            "cornu_URI": "MAHRA_502E151N_R",
+            "toponym_arabic": "مهرة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Mahra",
+            "toponym_arabic_other": "مهرة",
+            "toponym_translit": "Mahraŧ",
+            "coord_lat": "15.14685",
+            "toponym_search": "Mahra",
+            "region_code": "Yemen",
+            "coord_lon": "50.21937",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.21937,
+            15.14685
+        ]
+    }
+}

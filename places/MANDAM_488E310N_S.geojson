@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mandam, Bandam",
+            "cornu_URI": "MANDAM_488E310N_S",
+            "toponym_arabic": "مندم",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Mandam, Bandam",
+            "toponym_arabic_other": "مندم، بندم",
+            "toponym_translit": "Mandam",
+            "coord_lat": "31.02269",
+            "toponym_search": "Mandam, Bandam",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.88100",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.881,
+            31.02269
+        ]
+    }
+}

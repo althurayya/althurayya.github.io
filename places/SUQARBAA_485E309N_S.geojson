@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sūq al-Arbaʿāʾ",
+            "cornu_URI": "SUQARBAA_485E309N_S",
+            "toponym_arabic": "سوق الأربعاء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Suq al-Arbaa",
+            "toponym_arabic_other": "سوق الأربعاء",
+            "toponym_translit": "Sūq al-Arbaʿāʾ",
+            "coord_lat": "30.94139",
+            "toponym_search": "Suq al-Arbaa",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.52390",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.5239,
+            30.94139
+        ]
+    }
+}

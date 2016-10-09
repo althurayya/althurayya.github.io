@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫūǧān, Ḫūšān, Ḫabūšān",
+            "cornu_URI": "KHUJAN_584E369N_S",
+            "toponym_arabic": "خوجان",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Khujan, Khushan, Khabushan",
+            "toponym_arabic_other": "خوجان، خوشان، خبوشان",
+            "toponym_translit": "Ḫūǧān",
+            "coord_lat": "36.91219",
+            "toponym_search": "Khujan, Khushan, Khabushan",
+            "region_code": "Khurasan",
+            "coord_lon": "58.45439",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.45439,
+            36.91219
+        ]
+    }
+}

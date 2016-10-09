@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Labwaŧ",
+            "cornu_URI": "LABWA_363E341N_S",
+            "toponym_arabic": "لبوة",
+            "top_type_orig": "village?",
+            "toponym_buckwalter": "Labwa",
+            "toponym_arabic_other": "لبوة",
+            "toponym_translit": "Labwaŧ",
+            "coord_lat": "34.19007",
+            "toponym_search": "Labwa",
+            "region_code": "Sham",
+            "coord_lon": "36.33244",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.33244,
+            34.19007
+        ]
+    }
+}

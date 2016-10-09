@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nāmahand",
+            "cornu_URI": "NAMAHAND_519E357N_S",
+            "toponym_arabic": "نامهند",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Namahand",
+            "toponym_arabic_other": "نامهند",
+            "toponym_translit": "Nāmahand",
+            "coord_lat": "35.72749",
+            "toponym_search": "Namahand",
+            "region_code": "Daylam",
+            "coord_lon": "51.92730",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.9273,
+            35.72749
+        ]
+    }
+}

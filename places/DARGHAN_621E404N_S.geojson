@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darġān",
+            "cornu_URI": "DARGHAN_621E404N_S",
+            "toponym_arabic": "درغان",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Darghan",
+            "toponym_arabic_other": "درغان",
+            "toponym_translit": "Darġān",
+            "coord_lat": "40.44741",
+            "toponym_search": "Darghan",
+            "region_code": "Transoxiana",
+            "coord_lon": "62.17614",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.17614,
+            40.44741
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maṣdaqān",
+            "cornu_URI": "MASDAQAN_498E350N_S",
+            "toponym_arabic": "مصدقان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Masdaqan",
+            "toponym_arabic_other": "مصدقان",
+            "toponym_translit": "Maṣdaqān",
+            "coord_lat": "35.06107",
+            "toponym_search": "Masdaqan",
+            "region_code": "Jibal",
+            "coord_lon": "49.85406",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.85406,
+            35.06107
+        ]
+    }
+}

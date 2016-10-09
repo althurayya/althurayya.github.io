@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000578-000.json": {
+                "title": "خولان",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫullār, Ḫullān",
+            "cornu_URI": "KHULLAR_521E299N_S",
+            "toponym_arabic": "خلار",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khullar, Khullan",
+            "toponym_arabic_other": "خلار، خلان",
+            "toponym_translit": "Ḫullār",
+            "coord_lat": "29.98842",
+            "toponym_search": "Khullar, Khullan",
+            "region_code": "Faris",
+            "coord_lon": "52.19005",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.19005,
+            29.98842
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001508-000.json": {
+                "title": "ميلاص",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mīlā",
+            "cornu_URI": "MILA_062E364N_S",
+            "toponym_arabic": "ميلا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mila",
+            "toponym_arabic_other": "ميلا",
+            "toponym_translit": "Mīlā",
+            "coord_lat": "36.42482",
+            "toponym_search": "Mila",
+            "region_code": "Maghrib",
+            "coord_lon": "6.28830",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.2883,
+            36.42482
+        ]
+    }
+}

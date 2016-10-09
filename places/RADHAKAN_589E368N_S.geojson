@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000197-000.json": {
+                "title": "ايكجان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāḏakān, Rāyakān",
+            "cornu_URI": "RADHAKAN_589E368N_S",
+            "toponym_arabic": "راذكان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Radhakan, Rayakan",
+            "toponym_arabic_other": "راذكان، رايكان",
+            "toponym_translit": "Rāḏakān",
+            "coord_lat": "36.81951",
+            "toponym_search": "Radhakan, Rayakan",
+            "region_code": "Khurasan",
+            "coord_lon": "58.96653",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.96653,
+            36.81951
+        ]
+    }
+}

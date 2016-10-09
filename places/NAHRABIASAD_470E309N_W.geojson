@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Abī al-Asad",
+            "cornu_URI": "NAHRABIASAD_470E309N_W",
+            "toponym_arabic": "نهر أبي الأسد",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Nahr Abi al-Asad",
+            "toponym_arabic_other": "نهر أبي الأسد",
+            "toponym_translit": "Nahr Abī al-Asad",
+            "coord_lat": "30.98302",
+            "toponym_search": "Nahr Abi al-Asad",
+            "region_code": "Iraq",
+            "coord_lon": "47.04854",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.04854,
+            30.98302
+        ]
+    }
+}

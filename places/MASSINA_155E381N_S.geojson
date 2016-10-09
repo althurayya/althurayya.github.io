@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001477-000.json": {
+                "title": "مسكيانه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Massīnaŧ",
+            "cornu_URI": "MASSINA_155E381N_S",
+            "toponym_arabic": "مسينة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Massina",
+            "toponym_arabic_other": "مسينة",
+            "toponym_translit": "Massīnaŧ",
+            "coord_lat": "38.17331",
+            "toponym_search": "Massina",
+            "region_code": "Sicile",
+            "coord_lon": "15.52846",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.52846,
+            38.17331
+        ]
+    }
+}

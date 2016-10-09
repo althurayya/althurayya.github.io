@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kuškān",
+            "cornu_URI": "KUSHKAN_533E327N_S",
+            "toponym_arabic": "كشكان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kushkan",
+            "toponym_arabic_other": "كشكان",
+            "toponym_translit": "Kuškān",
+            "coord_lat": "32.70128",
+            "toponym_search": "Kushkan",
+            "region_code": "Mafaza",
+            "coord_lon": "53.32456",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.32456,
+            32.70128
+        ]
+    }
+}

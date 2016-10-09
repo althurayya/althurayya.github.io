@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000977-000.json": {
+                "title": "طبرستان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭabaristān",
+            "cornu_URI": "TABARISTAN_526E363N_R",
+            "toponym_arabic": "طبرستان",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Tabaristan",
+            "toponym_arabic_other": "طبرستان",
+            "toponym_translit": "Ṭabaristān",
+            "coord_lat": "36.34732",
+            "toponym_search": "Tabaristan",
+            "region_code": "Daylam",
+            "coord_lon": "52.60329",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.60329,
+            36.34732
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001258-000.json": {
+                "title": "قومس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qūmis",
+            "cornu_URI": "QUMIS_541E361N_R",
+            "toponym_arabic": "قومس",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qumis",
+            "toponym_arabic_other": "قومس",
+            "toponym_translit": "Qūmis",
+            "coord_lat": "36.11206",
+            "toponym_search": "Qumis",
+            "region_code": "Daylam",
+            "coord_lon": "54.13205",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.13205,
+            36.11206
+        ]
+    }
+}

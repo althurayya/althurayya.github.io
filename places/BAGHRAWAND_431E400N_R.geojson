@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baġrawand",
+            "cornu_URI": "BAGHRAWAND_431E400N_R",
+            "toponym_arabic": "بغروند",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Baghrawand",
+            "toponym_arabic_other": "بغروند",
+            "toponym_translit": "Baġrawand",
+            "coord_lat": "40.00234",
+            "toponym_search": "Baghrawand",
+            "region_code": "Rihab",
+            "coord_lon": "43.16621",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.16621,
+            40.00234
+        ]
+    }
+}

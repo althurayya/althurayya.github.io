@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Kankī",
+            "cornu_URI": "RIBATKANKI_663E310N_S",
+            "toponym_arabic": "رباط كنكي",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Kanki",
+            "toponym_arabic_other": "رباط كنكي",
+            "toponym_translit": "Ribāṭ Kankī",
+            "coord_lat": "31.02943",
+            "toponym_search": "Ribat Kanki",
+            "region_code": "Sijistan",
+            "coord_lon": "66.37622",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.37622,
+            31.02943
+        ]
+    }
+}

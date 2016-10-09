@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šāhī, Sāhī",
+            "cornu_URI": "SHAHI_443E322N_S",
+            "toponym_arabic": "شاهي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Shahi, Sahi",
+            "toponym_arabic_other": "شاهي، ساهي",
+            "toponym_translit": "Šāhī",
+            "coord_lat": "32.24535",
+            "toponym_search": "Shahi, Sahi",
+            "region_code": "Iraq",
+            "coord_lon": "44.36844",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.36844,
+            32.24535
+        ]
+    }
+}

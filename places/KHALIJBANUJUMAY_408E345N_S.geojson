@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫalīǧ Banū Ǧumayʿ",
+            "cornu_URI": "KHALIJBANUJUMAY_408E345N_S",
+            "toponym_arabic": "خليج بنو جميع",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khalij Banu Jumay",
+            "toponym_arabic_other": "خليج بنو جميع",
+            "toponym_translit": "Ḫalīǧ Banū Ǧumayʿ",
+            "coord_lat": "34.54577",
+            "toponym_search": "Khalij Banu Jumay",
+            "region_code": "Aqur",
+            "coord_lon": "40.85162",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.85162,
+            34.54577
+        ]
+    }
+}

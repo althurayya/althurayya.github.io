@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001377-000.json": {
+                "title": "مجنه",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001417-000.json": {
+                "title": "مرمجنه",
+                "rate": 92,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marmāǧannaŧ, Māǧannaŧ",
+            "cornu_URI": "MARMAJANNA_084E354N_S",
+            "toponym_arabic": "مرماجنة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Marmajanna, Majanna",
+            "toponym_arabic_other": "مرماجنة، ماجنة",
+            "toponym_translit": "Marmāǧannaŧ",
+            "coord_lat": "35.48917",
+            "toponym_search": "Marmajanna, Majanna",
+            "region_code": "Maghrib",
+            "coord_lon": "8.40114",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.40114,
+            35.48917
+        ]
+    }
+}

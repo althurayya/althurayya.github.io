@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mālin, al-Safalqāt, Malīn, Mālān",
+            "cornu_URI": "MALIN_621E341N_S",
+            "toponym_arabic": "مالن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Malin, al-Safalqat, Malin, Malan",
+            "toponym_arabic_other": "مالن، السفلقات، ملين، مالان",
+            "toponym_translit": "Mālin",
+            "coord_lat": "34.18473",
+            "toponym_search": "Malin, al-Safalqat, Malin, Malan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.19614",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.19614,
+            34.18473
+        ]
+    }
+}

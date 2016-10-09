@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dīzak",
+            "cornu_URI": "DIZAK_677E400N_S",
+            "toponym_arabic": "ديزك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dizak",
+            "toponym_arabic_other": "ديزك",
+            "toponym_translit": "Dīzak",
+            "coord_lat": "40.09748",
+            "toponym_search": "Dizak",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.79942",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.79942,
+            40.09748
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ludd",
+            "cornu_URI": "LUDD_348E319N_S",
+            "toponym_arabic": "لد",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Ludd",
+            "toponym_arabic_other": "لد",
+            "toponym_translit": "Ludd",
+            "coord_lat": "31.95598",
+            "toponym_search": "Ludd",
+            "region_code": "Sham",
+            "coord_lon": "34.88482",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.88482,
+            31.95598
+        ]
+    }
+}

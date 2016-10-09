@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000493-000.json": {
+                "title": "جيرون",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧīrūqān",
+            "cornu_URI": "JIRUQAN_564E280N_S",
+            "toponym_arabic": "جيروقان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Jiruqan",
+            "toponym_arabic_other": "جيروقان",
+            "toponym_translit": "Ǧīrūqān",
+            "coord_lat": "28.02089",
+            "toponym_search": "Jiruqan",
+            "region_code": "Kirman",
+            "coord_lon": "56.46959",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.46959,
+            28.02089
+        ]
+    }
+}

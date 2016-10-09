@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bilbays",
+            "cornu_URI": "BILBAYS_315E304N_S",
+            "toponym_arabic": "بلبيس",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Bilbays",
+            "toponym_arabic_other": "بلبيس",
+            "toponym_translit": "Bilbays",
+            "coord_lat": "30.41776",
+            "toponym_search": "Bilbays",
+            "region_code": "Egypt",
+            "coord_lon": "31.57097",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.57097,
+            30.41776
+        ]
+    }
+}

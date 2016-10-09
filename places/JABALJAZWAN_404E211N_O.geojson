@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Ǧazwān, Ǧabal Ġazwān",
+            "cornu_URI": "JABALJAZWAN_404E211N_O",
+            "toponym_arabic": "جبل جزوان",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Jazwan, Jabal Ghazwan",
+            "toponym_arabic_other": "جبل جزوان، جبل غزوان",
+            "toponym_translit": "Ǧabal Ǧazwān",
+            "coord_lat": "21.10664",
+            "toponym_search": "Jabal Jazwan, Jabal Ghazwan",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.43179",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.43179,
+            21.10664
+        ]
+    }
+}

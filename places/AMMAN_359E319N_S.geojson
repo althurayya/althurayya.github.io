@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001057-000.json": {
+                "title": "عمان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001534-000.json": {
+                "title": "نعمان",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001058-000.json": {
+                "title": "عمان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAmmān",
+            "cornu_URI": "AMMAN_359E319N_S",
+            "toponym_arabic": "عمان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Amman",
+            "toponym_arabic_other": "عمان",
+            "toponym_translit": "ʿAmmān",
+            "coord_lat": "31.93113",
+            "toponym_search": "Amman",
+            "region_code": "Sham",
+            "coord_lon": "35.91903",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.91903,
+            31.93113
+        ]
+    }
+}

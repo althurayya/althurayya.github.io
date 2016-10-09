@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭiḫfaŧ",
+            "cornu_URI": "TIKHFA_430E249N_S",
+            "toponym_arabic": "طخفة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Tikhfa",
+            "toponym_arabic_other": "طخفة",
+            "toponym_translit": "Ṭiḫfaŧ",
+            "coord_lat": "24.95296",
+            "toponym_search": "Tikhfa",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "43.01192",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.01192,
+            24.95296
+        ]
+    }
+}

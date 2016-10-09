@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAns",
+            "cornu_URI": "ANS_443E144N_R",
+            "toponym_arabic": "عنس",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Ans",
+            "toponym_arabic_other": "عنس",
+            "toponym_translit": "ʿAns",
+            "coord_lat": "14.43955",
+            "toponym_search": "Ans",
+            "region_code": "Yemen",
+            "coord_lon": "44.37788",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.37788,
+            14.43955
+        ]
+    }
+}

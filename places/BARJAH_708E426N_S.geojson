@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bārǧāḥ, Bārǧāḫ, Bārǧāǧ",
+            "cornu_URI": "BARJAH_708E426N_S",
+            "toponym_arabic": "بارجاح",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Barjah, Barjakh, Barjaj",
+            "toponym_arabic_other": "بارجاح، بارجاخ، بارجاج",
+            "toponym_translit": "Bārǧāḥ",
+            "coord_lat": "42.62635",
+            "toponym_search": "Barjah, Barjakh, Barjaj",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.80406",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.80406,
+            42.62635
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Sayḥān",
+            "cornu_URI": "NAHRSAYHAN_352E368N_W",
+            "toponym_arabic": "نهر سيحان",
+            "top_type_orig": "fleuve",
+            "toponym_buckwalter": "Nahr Sayhan",
+            "toponym_arabic_other": "نهر سيحان",
+            "toponym_translit": "Nahr Sayḥān",
+            "coord_lat": "36.80583",
+            "toponym_search": "Nahr Sayhan",
+            "region_code": "Sham",
+            "coord_lon": "35.28698",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.28698,
+            36.80583
+        ]
+    }
+}

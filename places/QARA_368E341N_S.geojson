@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001185-000.json": {
+                "title": "قره",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qāraŧ",
+            "cornu_URI": "QARA_368E341N_S",
+            "toponym_arabic": "قارة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qara",
+            "toponym_arabic_other": "قارة",
+            "toponym_translit": "Qāraŧ",
+            "coord_lat": "34.16598",
+            "toponym_search": "Qara",
+            "region_code": "Sham",
+            "coord_lon": "36.84868",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.84868,
+            34.16598
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001449-000.json": {
+                "title": "المنكب",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Manhab",
+            "cornu_URI": "MANHAB_422E272N_R",
+            "toponym_arabic": "المنهب",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Manhab",
+            "toponym_arabic_other": "المنهب",
+            "toponym_translit": "al-Manhab",
+            "coord_lat": "27.27430",
+            "toponym_search": "al-Manhab",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.21215",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.21215,
+            27.2743
+        ]
+    }
+}

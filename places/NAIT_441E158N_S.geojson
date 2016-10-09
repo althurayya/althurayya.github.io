@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nāʿiṭ",
+            "cornu_URI": "NAIT_441E158N_S",
+            "toponym_arabic": "ناعط",
+            "top_type_orig": "chateau",
+            "toponym_buckwalter": "Nait",
+            "toponym_arabic_other": "ناعط",
+            "toponym_translit": "Nāʿiṭ",
+            "coord_lat": "15.83563",
+            "toponym_search": "Nait",
+            "region_code": "Yemen",
+            "coord_lon": "44.14391",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.14391,
+            15.83563
+        ]
+    }
+}

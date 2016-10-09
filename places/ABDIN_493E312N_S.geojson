@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAbdīn",
+            "cornu_URI": "ABDIN_493E312N_S",
+            "toponym_arabic": "عبدين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Abdin",
+            "toponym_arabic_other": "عبدين",
+            "toponym_translit": "ʿAbdīn",
+            "coord_lat": "31.22889",
+            "toponym_search": "Abdin",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.31456",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.31456,
+            31.22889
+        ]
+    }
+}

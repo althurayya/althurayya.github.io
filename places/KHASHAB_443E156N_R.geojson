@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫašab",
+            "cornu_URI": "KHASHAB_443E156N_R",
+            "toponym_arabic": "خشب",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Khashab",
+            "toponym_arabic_other": "خشب",
+            "toponym_translit": "Ḫašab",
+            "coord_lat": "15.62405",
+            "toponym_search": "Khashab",
+            "region_code": "Yemen",
+            "coord_lon": "44.34672",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.34672,
+            15.62405
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001364-000.json": {
+                "title": "مارد",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001361-000.json": {
+                "title": "مارده",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Māridaŧ",
+            "cornu_URI": "MARIDA_063W388N_S",
+            "toponym_arabic": "ماردة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Marida",
+            "toponym_arabic_other": "ماردة",
+            "toponym_translit": "Māridaŧ",
+            "coord_lat": "38.89521",
+            "toponym_search": "Marida",
+            "region_code": "Andalus",
+            "coord_lon": "-6.32886",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.32886,
+            38.89521
+        ]
+    }
+}

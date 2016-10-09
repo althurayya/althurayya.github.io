@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000880-000.json": {
+                "title": "الشماسيه",
+                "rate": 88,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šamāḫiyyaŧ",
+            "cornu_URI": "SHAMAKHIYYA_486E406N_S",
+            "toponym_arabic": "الشماخية",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Shamakhiyya",
+            "toponym_arabic_other": "الشماخية",
+            "toponym_translit": "al-Šamāḫiyyaŧ",
+            "coord_lat": "40.67871",
+            "toponym_search": "al-Shamakhiyya",
+            "region_code": "Rihab",
+            "coord_lon": "48.68505",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.68505,
+            40.67871
+        ]
+    }
+}

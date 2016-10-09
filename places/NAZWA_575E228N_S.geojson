@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nazwaŧ",
+            "cornu_URI": "NAZWA_575E228N_S",
+            "toponym_arabic": "نزوة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nazwa",
+            "toponym_arabic_other": "نزوة",
+            "toponym_translit": "Nazwaŧ",
+            "coord_lat": "22.86309",
+            "toponym_search": "Nazwa",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "57.52541",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.52541,
+            22.86309
+        ]
+    }
+}

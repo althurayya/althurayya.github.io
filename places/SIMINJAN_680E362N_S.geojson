@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000822-000.json": {
+                "title": "سمنان",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Siminǧān",
+            "cornu_URI": "SIMINJAN_680E362N_S",
+            "toponym_arabic": "سمنجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Siminjan",
+            "toponym_arabic_other": "سمنجان",
+            "toponym_translit": "Siminǧān",
+            "coord_lat": "36.22585",
+            "toponym_search": "Siminjan",
+            "region_code": "Khurasan",
+            "coord_lon": "68.09011",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.09011,
+            36.22585
+        ]
+    }
+}

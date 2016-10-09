@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000899-000.json": {
+                "title": "شهرستان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000768-000.json": {
+                "title": "سابور",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001558-000.json": {
+                "title": "نيسابور",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sābūr, Šahrastān",
+            "cornu_URI": "SABUR_515E298N_R",
+            "toponym_arabic": "سابور",
+            "top_type_orig": "circonscription",
+            "toponym_buckwalter": "Sabur, Shahrastan",
+            "toponym_arabic_other": "سابور، شهرستان",
+            "toponym_translit": "Sābūr",
+            "coord_lat": "29.83157",
+            "toponym_search": "Sabur, Shahrastan",
+            "region_code": "Faris",
+            "coord_lon": "51.51624",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.51624,
+            29.83157
+        ]
+    }
+}

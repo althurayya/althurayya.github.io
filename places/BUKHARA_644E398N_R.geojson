@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḫāraŧ",
+            "cornu_URI": "BUKHARA_644E398N_R",
+            "toponym_arabic": "بخارة",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "Bukhara",
+            "toponym_arabic_other": "بخارة",
+            "toponym_translit": "Buḫāraŧ",
+            "coord_lat": "39.85224",
+            "toponym_search": "Bukhara",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.46489",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.46489,
+            39.85224
+        ]
+    }
+}

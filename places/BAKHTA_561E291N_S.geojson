@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000222-000.json": {
+                "title": "بخته",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāḫtaŧ, Nāǧt",
+            "cornu_URI": "BAKHTA_561E291N_S",
+            "toponym_arabic": "باختة",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Bakhta, Najt",
+            "toponym_arabic_other": "باختة، ناجت",
+            "toponym_translit": "Bāḫtaŧ",
+            "coord_lat": "29.12939",
+            "toponym_search": "Bakhta, Najt",
+            "region_code": "Kirman",
+            "coord_lon": "56.16823",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.16823,
+            29.12939
+        ]
+    }
+}

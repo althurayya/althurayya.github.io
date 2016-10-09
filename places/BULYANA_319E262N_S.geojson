@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bulyanā",
+            "cornu_URI": "BULYANA_319E262N_S",
+            "toponym_arabic": "بلينا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bulyana",
+            "toponym_arabic_other": "بلينا",
+            "toponym_translit": "Bulyanā",
+            "coord_lat": "26.21922",
+            "toponym_search": "Bulyana",
+            "region_code": "Egypt",
+            "coord_lon": "31.99590",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.9959,
+            26.21922
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tūnaŧ",
+            "cornu_URI": "TUNA_320E311N_S",
+            "toponym_arabic": "تونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tuna",
+            "toponym_arabic_other": "تونة",
+            "toponym_translit": "Tūnaŧ",
+            "coord_lat": "31.16442",
+            "toponym_search": "Tuna",
+            "region_code": "Egypt",
+            "coord_lon": "32.08240",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.0824,
+            31.16442
+        ]
+    }
+}

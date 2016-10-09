@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001076-000.json": {
+                "title": "العوراء",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001042-000.json": {
+                "title": "العذراء",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aʿrāʾ",
+            "cornu_URI": "ARA_355E280N_S",
+            "toponym_arabic": "الأعراء",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "al-Ara",
+            "toponym_arabic_other": "الأعراء",
+            "toponym_translit": "al-Aʿrāʾ",
+            "coord_lat": "28.06253",
+            "toponym_search": "al-Ara",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.57504",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.57504,
+            28.06253
+        ]
+    }
+}

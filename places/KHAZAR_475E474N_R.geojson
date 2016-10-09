@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000560-000.json": {
+                "title": "الخزر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫazar",
+            "cornu_URI": "KHAZAR_475E474N_R",
+            "toponym_arabic": "الخزر",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Khazar",
+            "toponym_arabic_other": "الخزر",
+            "toponym_translit": "al-Ḫazar",
+            "coord_lat": "47.42616",
+            "toponym_search": "al-Khazar",
+            "region_code": "Khazar",
+            "coord_lon": "47.55892",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.55892,
+            47.42616
+        ]
+    }
+}

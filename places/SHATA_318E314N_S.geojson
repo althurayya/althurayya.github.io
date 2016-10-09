@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šaṭā",
+            "cornu_URI": "SHATA_318E314N_S",
+            "toponym_arabic": "شطا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shata",
+            "toponym_arabic_other": "شطا",
+            "toponym_translit": "Šaṭā",
+            "coord_lat": "31.40557",
+            "toponym_search": "Shata",
+            "region_code": "Egypt",
+            "coord_lon": "31.87094",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.87094,
+            31.40557
+        ]
+    }
+}

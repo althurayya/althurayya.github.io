@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barzand",
+            "cornu_URI": "BARZAND_478E389N_S",
+            "toponym_arabic": "برزند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Barzand",
+            "toponym_arabic_other": "برزند",
+            "toponym_translit": "Barzand",
+            "coord_lat": "38.96621",
+            "toponym_search": "Barzand",
+            "region_code": "Rihab",
+            "coord_lon": "47.85286",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.85286,
+            38.96621
+        ]
+    }
+}

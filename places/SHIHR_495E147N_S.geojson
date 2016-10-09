@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šiḥr",
+            "cornu_URI": "SHIHR_495E147N_S",
+            "toponym_arabic": "الشحر",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "al-Shihr",
+            "toponym_arabic_other": "الشحر",
+            "toponym_translit": "al-Šiḥr",
+            "coord_lat": "14.76671",
+            "toponym_search": "al-Shihr",
+            "region_code": "Yemen",
+            "coord_lon": "49.59980",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5998,
+            14.76671
+        ]
+    }
+}

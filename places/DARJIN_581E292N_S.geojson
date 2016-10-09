@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000605-000.json": {
+                "title": "درجين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darǧīn",
+            "cornu_URI": "DARJIN_581E292N_S",
+            "toponym_arabic": "درجين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Darjin",
+            "toponym_arabic_other": "درجين",
+            "toponym_translit": "Darǧīn",
+            "coord_lat": "29.20052",
+            "toponym_search": "Darjin",
+            "region_code": "Kirman",
+            "coord_lon": "58.17433",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.17433,
+            29.20052
+        ]
+    }
+}

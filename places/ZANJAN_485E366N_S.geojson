@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000752-000.json": {
+                "title": "زنجان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zanǧān",
+            "cornu_URI": "ZANJAN_485E366N_S",
+            "toponym_arabic": "زنجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Zanjan",
+            "toponym_arabic_other": "زنجان",
+            "toponym_translit": "Zanǧān",
+            "coord_lat": "36.66235",
+            "toponym_search": "Zanjan",
+            "region_code": "Rihab",
+            "coord_lon": "48.50530",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.5053,
+            36.66235
+        ]
+    }
+}

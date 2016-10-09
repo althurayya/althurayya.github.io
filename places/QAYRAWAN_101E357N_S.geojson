@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001263-000.json": {
+                "title": "القيروان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qayrawān",
+            "cornu_URI": "QAYRAWAN_101E357N_S",
+            "toponym_arabic": "القيروان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Qayrawan",
+            "toponym_arabic_other": "القيروان",
+            "toponym_translit": "al-Qayrawān",
+            "coord_lat": "35.70049",
+            "toponym_search": "al-Qayrawan",
+            "region_code": "Maghrib",
+            "coord_lon": "10.14137",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.14137,
+            35.70049
+        ]
+    }
+}

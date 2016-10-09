@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Naǧāf",
+            "cornu_URI": "NAJAF_443E319N_S",
+            "toponym_arabic": "نجاف",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Najaf",
+            "toponym_arabic_other": "نجاف",
+            "toponym_translit": "Naǧāf",
+            "coord_lat": "31.98379",
+            "toponym_search": "Najaf",
+            "region_code": "Iraq",
+            "coord_lon": "44.33826",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.33826,
+            31.98379
+        ]
+    }
+}

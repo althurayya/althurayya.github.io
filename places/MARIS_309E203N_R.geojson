@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marīs",
+            "cornu_URI": "MARIS_309E203N_R",
+            "toponym_arabic": "مريس",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Maris",
+            "toponym_arabic_other": "مريس",
+            "toponym_translit": "Marīs",
+            "coord_lat": "20.35618",
+            "toponym_search": "Maris",
+            "region_code": "Egypt",
+            "coord_lon": "30.93987",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.93987,
+            20.35618
+        ]
+    }
+}

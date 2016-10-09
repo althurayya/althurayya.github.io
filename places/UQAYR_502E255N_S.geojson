@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001069-000.json": {
+                "title": "العقر",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿUqayr",
+            "cornu_URI": "UQAYR_502E255N_S",
+            "toponym_arabic": "العقير",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Uqayr",
+            "toponym_arabic_other": "العقير",
+            "toponym_translit": "al-ʿUqayr",
+            "coord_lat": "25.55890",
+            "toponym_search": "al-Uqayr",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "50.22312",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.22312,
+            25.5589
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001446-000.json": {
+                "title": "منبج",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manbiǧ",
+            "cornu_URI": "MANBIJ_379E365N_S",
+            "toponym_arabic": "منبج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Manbij",
+            "toponym_arabic_other": "منبج",
+            "toponym_translit": "Manbiǧ",
+            "coord_lat": "36.54651",
+            "toponym_search": "Manbij",
+            "region_code": "Aqur",
+            "coord_lon": "37.98957",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.98957,
+            36.54651
+        ]
+    }
+}

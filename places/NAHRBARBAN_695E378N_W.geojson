@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Barbān",
+            "cornu_URI": "NAHRBARBAN_695E378N_W",
+            "toponym_arabic": "نهر بربان",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Barban",
+            "toponym_arabic_other": "نهر بربان",
+            "toponym_translit": "Nahr Barbān",
+            "coord_lat": "37.84635",
+            "toponym_search": "Nahr Barban",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.56601",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.56601,
+            37.84635
+        ]
+    }
+}

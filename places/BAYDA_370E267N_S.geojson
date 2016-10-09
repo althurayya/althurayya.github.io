@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000319-000.json": {
+                "title": "البيضاء",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bayḍāʾ",
+            "cornu_URI": "BAYDA_370E267N_S",
+            "toponym_arabic": "البيضاء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Bayda",
+            "toponym_arabic_other": "البيضاء",
+            "toponym_translit": "al-Bayḍāʾ",
+            "coord_lat": "26.79044",
+            "toponym_search": "al-Bayda",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "37.01435",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.01435,
+            26.79044
+        ]
+    }
+}

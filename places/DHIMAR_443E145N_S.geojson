@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000659-000.json": {
+                "title": "ذمار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏimār",
+            "cornu_URI": "DHIMAR_443E145N_S",
+            "toponym_arabic": "ذمار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dhimar",
+            "toponym_arabic_other": "ذمار",
+            "toponym_translit": "Ḏimār",
+            "coord_lat": "14.56364",
+            "toponym_search": "Dhimar",
+            "region_code": "Yemen",
+            "coord_lon": "44.39720",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.3972,
+            14.56364
+        ]
+    }
+}

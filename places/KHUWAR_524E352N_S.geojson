@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫuwār",
+            "cornu_URI": "KHUWAR_524E352N_S",
+            "toponym_arabic": "الخوار",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "al-Khuwar",
+            "toponym_arabic_other": "الخوار",
+            "toponym_translit": "al-Ḫuwār",
+            "coord_lat": "35.26209",
+            "toponym_search": "al-Khuwar",
+            "region_code": "Daylam",
+            "coord_lon": "52.40859",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.40859,
+            35.26209
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Našk",
+            "cornu_URI": "NASHK_580E297N_S",
+            "toponym_arabic": "نشك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nashk",
+            "toponym_arabic_other": "نشك",
+            "toponym_translit": "Našk",
+            "coord_lat": "29.70224",
+            "toponym_search": "Nashk",
+            "region_code": "Kirman",
+            "coord_lon": "58.03255",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.03255,
+            29.70224
+        ]
+    }
+}

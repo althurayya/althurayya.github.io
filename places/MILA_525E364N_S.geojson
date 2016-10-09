@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001440-000.json": {
+                "title": "مليله",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001507-000.json": {
+                "title": "ميله",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mīlaŧ",
+            "cornu_URI": "MILA_525E364N_S",
+            "toponym_arabic": "ميلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mila",
+            "toponym_arabic_other": "ميلة",
+            "toponym_translit": "Mīlaŧ",
+            "coord_lat": "36.47080",
+            "toponym_search": "Mila",
+            "region_code": "Daylam",
+            "coord_lon": "52.55267",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.55267,
+            36.4708
+        ]
+    }
+}

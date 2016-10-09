@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001408-000.json": {
+                "title": "مرج راهط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marǧ Rāhiṭ",
+            "cornu_URI": "MARJRAHIT_365E336N_O",
+            "toponym_arabic": "مرج راهط",
+            "top_type_orig": "lieu",
+            "toponym_buckwalter": "Marj Rahit",
+            "toponym_arabic_other": "مرج راهط",
+            "toponym_translit": "Marǧ Rāhiṭ",
+            "coord_lat": "33.60226",
+            "toponym_search": "Marj Rahit",
+            "region_code": "Sham",
+            "coord_lon": "36.50981",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.50981,
+            33.60226
+        ]
+    }
+}

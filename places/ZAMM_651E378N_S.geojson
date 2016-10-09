@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000749-000.json": {
+                "title": "زم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zamm, Karkuh",
+            "cornu_URI": "ZAMM_651E378N_S",
+            "toponym_arabic": "زم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Zamm, Karkuh",
+            "toponym_arabic_other": "زم، كركه",
+            "toponym_translit": "Zamm",
+            "coord_lat": "37.86572",
+            "toponym_search": "Zamm, Karkuh",
+            "region_code": "Khurasan",
+            "coord_lon": "65.19679",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.19679,
+            37.86572
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tāmadfūs",
+            "cornu_URI": "TAMADFUS_032E367N_S",
+            "toponym_arabic": "تامدفوس",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Tamadfus",
+            "toponym_arabic_other": "تامدفوس",
+            "toponym_translit": "Tāmadfūs",
+            "coord_lat": "36.73508",
+            "toponym_search": "Tamadfus",
+            "region_code": "Maghrib",
+            "coord_lon": "3.28946",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.28946,
+            36.73508
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Katānaŧ",
+            "cornu_URI": "KATANA_102E336N_S",
+            "toponym_arabic": "كتانة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Katana",
+            "toponym_arabic_other": "كتانة",
+            "toponym_translit": "Katānaŧ",
+            "coord_lat": "33.69175",
+            "toponym_search": "Katana",
+            "region_code": "Barqa",
+            "coord_lon": "10.27879",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.27879,
+            33.69175
+        ]
+    }
+}

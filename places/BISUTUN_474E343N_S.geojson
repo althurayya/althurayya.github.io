@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bīsutūn, Bihsutūn",
+            "cornu_URI": "BISUTUN_474E343N_S",
+            "toponym_arabic": "بيستون",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bisutun, Bihsutun",
+            "toponym_arabic_other": "بيستون، بهستون",
+            "toponym_translit": "Bīsutūn",
+            "coord_lat": "34.37821",
+            "toponym_search": "Bisutun, Bihsutun",
+            "region_code": "Jibal",
+            "coord_lon": "47.47958",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.47958,
+            34.37821
+        ]
+    }
+}

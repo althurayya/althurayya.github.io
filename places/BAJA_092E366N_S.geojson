@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000210-000.json": {
+                "title": "باجه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāǧaŧ",
+            "cornu_URI": "BAJA_092E366N_S",
+            "toponym_arabic": "باجة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baja",
+            "toponym_arabic_other": "باجة",
+            "toponym_translit": "Bāǧaŧ",
+            "coord_lat": "36.67738",
+            "toponym_search": "Baja",
+            "region_code": "Maghrib",
+            "coord_lon": "9.20563",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.20563,
+            36.67738
+        ]
+    }
+}

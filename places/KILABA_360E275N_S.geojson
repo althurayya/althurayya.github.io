@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kilābaŧ, Kilāyaŧ",
+            "cornu_URI": "KILABA_360E275N_S",
+            "toponym_arabic": "كلابة",
+            "top_type_orig": "oasis",
+            "toponym_buckwalter": "Kilaba, Kilaya",
+            "toponym_arabic_other": "كلابة، كلاية",
+            "toponym_translit": "Kilābaŧ",
+            "coord_lat": "27.50168",
+            "toponym_search": "Kilaba, Kilaya",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "36.07695",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.07695,
+            27.50168
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001073-000.json": {
+                "title": "عسفان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿUsfān",
+            "cornu_URI": "USFAN_394E218N_S",
+            "toponym_arabic": "عسفان",
+            "top_type_orig": "aiguade",
+            "toponym_buckwalter": "Usfan",
+            "toponym_arabic_other": "عسفان",
+            "toponym_translit": "ʿUsfān",
+            "coord_lat": "21.88079",
+            "toponym_search": "Usfan",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.46144",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.46144,
+            21.88079
+        ]
+    }
+}

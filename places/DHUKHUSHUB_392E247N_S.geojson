@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000574-000.json": {
+                "title": "ذو خشب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏū Ḫušub",
+            "cornu_URI": "DHUKHUSHUB_392E247N_S",
+            "toponym_arabic": "ذو خشب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dhu Khushub",
+            "toponym_arabic_other": "ذو خشب",
+            "toponym_translit": "Ḏū Ḫušub",
+            "coord_lat": "24.72896",
+            "toponym_search": "Dhu Khushub",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.29172",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.29172,
+            24.72896
+        ]
+    }
+}

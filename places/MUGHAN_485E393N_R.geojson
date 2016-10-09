@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001501-000.json": {
+                "title": "موقان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mūġān, Mūġkān, Mūqān",
+            "cornu_URI": "MUGHAN_485E393N_R",
+            "toponym_arabic": "موغان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Mughan, Mughkan, Muqan",
+            "toponym_arabic_other": "موغان، موغكان، موقان",
+            "toponym_translit": "Mūġān",
+            "coord_lat": "39.33548",
+            "toponym_search": "Mughan, Mughkan, Muqan",
+            "region_code": "Rihab",
+            "coord_lon": "48.50179",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.50179,
+            39.33548
+        ]
+    }
+}

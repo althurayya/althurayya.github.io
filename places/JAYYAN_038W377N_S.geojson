@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000491-000.json": {
+                "title": "جيحان",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000489-000.json": {
+                "title": "جيان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧayyān",
+            "cornu_URI": "JAYYAN_038W377N_S",
+            "toponym_arabic": "جيان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jayyan",
+            "toponym_arabic_other": "جيان",
+            "toponym_translit": "Ǧayyān",
+            "coord_lat": "37.78977",
+            "toponym_search": "Jayyan",
+            "region_code": "Andalus",
+            "coord_lon": "-3.80302",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.80302,
+            37.78977
+        ]
+    }
+}

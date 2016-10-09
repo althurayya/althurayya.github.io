@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Kāzarūn",
+            "cornu_URI": "BUHAYRAKAZARUN_518E295N_W",
+            "toponym_arabic": "بحيرة كازرون",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Kazarun",
+            "toponym_arabic_other": "بحيرة كازرون",
+            "toponym_translit": "Buḥayraŧ Kāzarūn",
+            "coord_lat": "29.50280",
+            "toponym_search": "Buhayra Kazarun",
+            "region_code": "Faris",
+            "coord_lon": "51.83196",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.83196,
+            29.5028
+        ]
+    }
+}

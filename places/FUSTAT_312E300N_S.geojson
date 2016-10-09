@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001151-000.json": {
+                "title": "الفسطاط",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fusṭāṭ",
+            "cornu_URI": "FUSTAT_312E300N_S",
+            "toponym_arabic": "فسطاط",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Fustat",
+            "toponym_arabic_other": "فسطاط",
+            "toponym_translit": "Fusṭāṭ",
+            "coord_lat": "30.04325",
+            "toponym_search": "Fustat",
+            "region_code": "Egypt",
+            "coord_lon": "31.24964",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.24964,
+            30.04325
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Amzah",
+            "cornu_URI": "AMZAH_642E399N_S",
+            "toponym_arabic": "أمزه",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Amzah",
+            "toponym_arabic_other": "أمزه",
+            "toponym_translit": "Amzah",
+            "coord_lat": "39.90472",
+            "toponym_search": "Amzah",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.25722",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.25722,
+            39.90472
+        ]
+    }
+}

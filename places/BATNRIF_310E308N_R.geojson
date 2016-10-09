@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baṭn al-Rīf",
+            "cornu_URI": "BATNRIF_310E308N_R",
+            "toponym_arabic": "بطن الريف",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Batn al-Rif",
+            "toponym_arabic_other": "بطن الريف",
+            "toponym_translit": "Baṭn al-Rīf",
+            "coord_lat": "30.85291",
+            "toponym_search": "Batn al-Rif",
+            "region_code": "Egypt",
+            "coord_lon": "31.02025",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.02025,
+            30.85291
+        ]
+    }
+}

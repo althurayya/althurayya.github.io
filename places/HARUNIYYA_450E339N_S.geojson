@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001563-000.json": {
+                "title": "الهاروني",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000977-000.json": {
+                "title": "طبرستان",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Hārūniyya, Ṭarastān",
+            "cornu_URI": "HARUNIYYA_450E339N_S",
+            "toponym_arabic": "الهاروني",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Haruniyya, Tarastan",
+            "toponym_arabic_other": "الهاروني، طرستان",
+            "toponym_translit": "al-Hārūniyya",
+            "coord_lat": "33.97686",
+            "toponym_search": "al-Haruniyya, Tarastan",
+            "region_code": "Iraq",
+            "coord_lon": "45.01502",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.01502,
+            33.97686
+        ]
+    }
+}

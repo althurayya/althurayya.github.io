@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Īnāwan",
+            "cornu_URI": "WADIINAWAN_043W342N_W",
+            "toponym_arabic": "وادي إيناون",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Inawan",
+            "toponym_arabic_other": "وادي إيناون",
+            "toponym_translit": "Wādī Īnāwan",
+            "coord_lat": "34.24946",
+            "toponym_search": "Wadi Inawan",
+            "region_code": "Maghrib",
+            "coord_lon": "-4.39975",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.39975,
+            34.24946
+        ]
+    }
+}

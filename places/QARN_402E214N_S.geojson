@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarn, Qarn al-Manāzil",
+            "cornu_URI": "QARN_402E214N_S",
+            "toponym_arabic": "قرن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarn, Qarn al-Manazil",
+            "toponym_arabic_other": "قرن، قرن المنازل",
+            "toponym_translit": "Qarn",
+            "coord_lat": "21.46576",
+            "toponym_search": "Qarn, Qarn al-Manazil",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.21296",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.21296,
+            21.46576
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kafrah, Kafr",
+            "cornu_URI": "KAFRAH_524E295N_S",
+            "toponym_arabic": "كفره",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kafrah, Kafr",
+            "toponym_arabic_other": "كفره، كفر",
+            "toponym_translit": "Kafrah",
+            "coord_lat": "29.50609",
+            "toponym_search": "Kafrah, Kafr",
+            "region_code": "Faris",
+            "coord_lon": "52.49957",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.49957,
+            29.50609
+        ]
+    }
+}

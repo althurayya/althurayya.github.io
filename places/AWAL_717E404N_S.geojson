@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000176-000.json": {
+                "title": "اوال",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Awāl",
+            "cornu_URI": "AWAL_717E404N_S",
+            "toponym_arabic": "أوال",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Awal",
+            "toponym_arabic_other": "أوال",
+            "toponym_translit": "Awāl",
+            "coord_lat": "40.43580",
+            "toponym_search": "Awal",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.74749",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.74749,
+            40.4358
+        ]
+    }
+}

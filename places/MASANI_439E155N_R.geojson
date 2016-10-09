@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Maṣāniʿ",
+            "cornu_URI": "MASANI_439E155N_R",
+            "toponym_arabic": "المصانع",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Masani",
+            "toponym_arabic_other": "المصانع",
+            "toponym_translit": "al-Maṣāniʿ",
+            "coord_lat": "15.58050",
+            "toponym_search": "al-Masani",
+            "region_code": "Yemen",
+            "coord_lon": "43.96174",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.96174,
+            15.5805
+        ]
+    }
+}

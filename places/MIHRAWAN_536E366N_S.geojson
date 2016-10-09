@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001493-000.json": {
+                "title": "مهران",
+                "rate": 91,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mihrawān",
+            "cornu_URI": "MIHRAWAN_536E366N_S",
+            "toponym_arabic": "مهروان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Mihrawan",
+            "toponym_arabic_other": "مهروان",
+            "toponym_translit": "Mihrawān",
+            "coord_lat": "36.68468",
+            "toponym_search": "Mihrawan",
+            "region_code": "Daylam",
+            "coord_lon": "53.69593",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.69593,
+            36.68468
+        ]
+    }
+}

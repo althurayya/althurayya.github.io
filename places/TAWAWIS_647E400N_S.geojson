@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001016-000.json": {
+                "title": "طواويس",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṭawāwīs",
+            "cornu_URI": "TAWAWIS_647E400N_S",
+            "toponym_arabic": "الطواويس",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "al-Tawawis",
+            "toponym_arabic_other": "الطواويس",
+            "toponym_translit": "al-Ṭawāwīs",
+            "coord_lat": "40.01136",
+            "toponym_search": "al-Tawawis",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.78279",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.78279,
+            40.01136
+        ]
+    }
+}

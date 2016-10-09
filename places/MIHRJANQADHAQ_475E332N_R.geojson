@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mihrǧānqaḏaq",
+            "cornu_URI": "MIHRJANQADHAQ_475E332N_R",
+            "toponym_arabic": "مهرجانقذق",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Mihrjanqadhaq",
+            "toponym_arabic_other": "مهرجانقذق",
+            "toponym_translit": "Mihrǧānqaḏaq",
+            "coord_lat": "33.20013",
+            "toponym_search": "Mihrjanqadhaq",
+            "region_code": "Jibal",
+            "coord_lon": "47.52071",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.52071,
+            33.20013
+        ]
+    }
+}

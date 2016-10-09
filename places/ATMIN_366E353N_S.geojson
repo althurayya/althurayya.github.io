@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aṭmīn, al-Laṭmīn",
+            "cornu_URI": "ATMIN_366E353N_S",
+            "toponym_arabic": "الأطمين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Atmin, al-Latmin",
+            "toponym_arabic_other": "الأطمين، اللطمين",
+            "toponym_translit": "al-Aṭmīn",
+            "coord_lat": "35.31245",
+            "toponym_search": "al-Atmin, al-Latmin",
+            "region_code": "Sham",
+            "coord_lon": "36.62191",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.62191,
+            35.31245
+        ]
+    }
+}

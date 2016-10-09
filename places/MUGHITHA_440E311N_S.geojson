@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Muġīṯaŧ",
+            "cornu_URI": "MUGHITHA_440E311N_S",
+            "toponym_arabic": "المغيثة",
+            "top_type_orig": "puits",
+            "toponym_buckwalter": "al-Mughitha",
+            "toponym_arabic_other": "المغيثة",
+            "toponym_translit": "al-Muġīṯaŧ",
+            "coord_lat": "31.10097",
+            "toponym_search": "al-Mughitha",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "44.00938",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.00938,
+            31.10097
+        ]
+    }
+}

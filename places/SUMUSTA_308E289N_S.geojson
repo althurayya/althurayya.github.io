@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sumusṭā",
+            "cornu_URI": "SUMUSTA_308E289N_S",
+            "toponym_arabic": "سمسطا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sumusta",
+            "toponym_arabic_other": "سمسطا",
+            "toponym_translit": "Sumusṭā",
+            "coord_lat": "28.96006",
+            "toponym_search": "Sumusta",
+            "region_code": "Egypt",
+            "coord_lon": "30.88762",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.88762,
+            28.96006
+        ]
+    }
+}

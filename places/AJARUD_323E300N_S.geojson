@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAǧarūd",
+            "cornu_URI": "AJARUD_323E300N_S",
+            "toponym_arabic": "عجرود",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ajarud",
+            "toponym_arabic_other": "عجرود",
+            "toponym_translit": "ʿAǧarūd",
+            "coord_lat": "30.05828",
+            "toponym_search": "Ajarud",
+            "region_code": "Egypt",
+            "coord_lon": "32.38039",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.38039,
+            30.05828
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Fārġar",
+            "cornu_URI": "NAHRFARGHAR_695E374N_W",
+            "toponym_arabic": "نهر فارغر",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Farghar",
+            "toponym_arabic_other": "نهر فارغر",
+            "toponym_translit": "Nahr Fārġar",
+            "coord_lat": "37.41482",
+            "toponym_search": "Nahr Farghar",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.57609",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.57609,
+            37.41482
+        ]
+    }
+}

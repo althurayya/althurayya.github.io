@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Badāŧ, Budāŧ",
+            "cornu_URI": "BADA_445E322N_S",
+            "toponym_arabic": "بداة",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Bada, Buda",
+            "toponym_arabic_other": "بداة، بداة",
+            "toponym_translit": "Badāŧ",
+            "coord_lat": "32.25849",
+            "toponym_search": "Bada, Buda",
+            "region_code": "Iraq",
+            "coord_lon": "44.54578",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.54578,
+            32.25849
+        ]
+    }
+}

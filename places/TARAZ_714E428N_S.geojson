@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭarāz",
+            "cornu_URI": "TARAZ_714E428N_S",
+            "toponym_arabic": "طراز",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Taraz",
+            "toponym_arabic_other": "طراز",
+            "toponym_translit": "Ṭarāz",
+            "coord_lat": "42.83695",
+            "toponym_search": "Taraz",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.44044",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.44044,
+            42.83695
+        ]
+    }
+}

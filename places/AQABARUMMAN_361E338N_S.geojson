@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAqabaŧ al-Rummān",
+            "cornu_URI": "AQABARUMMAN_361E338N_S",
+            "toponym_arabic": "عقبة الرمان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Aqaba al-Rumman",
+            "toponym_arabic_other": "عقبة الرمان",
+            "toponym_translit": "ʿAqabaŧ al-Rummān",
+            "coord_lat": "33.88074",
+            "toponym_search": "Aqaba al-Rumman",
+            "region_code": "Sham",
+            "coord_lon": "36.18816",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.18816,
+            33.88074
+        ]
+    }
+}

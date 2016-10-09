@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000368-000.json": {
+                "title": "تلعفر",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tall Aʿfar",
+            "cornu_URI": "TALLAFAR_424E363N_S",
+            "toponym_arabic": "تل أعفر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tall Afar",
+            "toponym_arabic_other": "تل أعفر",
+            "toponym_translit": "Tall Aʿfar",
+            "coord_lat": "36.36312",
+            "toponym_search": "Tall Afar",
+            "region_code": "Aqur",
+            "coord_lon": "42.49401",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.49401,
+            36.36312
+        ]
+    }
+}

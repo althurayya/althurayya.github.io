@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001452-000.json": {
+                "title": "المنصوره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Manṣūraŧ",
+            "cornu_URI": "MANSURA_688E258N_S",
+            "toponym_arabic": "المنصورة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Mansura",
+            "toponym_arabic_other": "المنصورة",
+            "toponym_translit": "al-Manṣūraŧ",
+            "coord_lat": "25.86510",
+            "toponym_search": "al-Mansura",
+            "region_code": "Sind",
+            "coord_lon": "68.87697",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.87697,
+            25.8651
+        ]
+    }
+}

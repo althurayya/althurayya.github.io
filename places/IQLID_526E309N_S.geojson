@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iqlīd",
+            "cornu_URI": "IQLID_526E309N_S",
+            "toponym_arabic": "إقليد",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Iqlid",
+            "toponym_arabic_other": "إقليد",
+            "toponym_translit": "Iqlīd",
+            "coord_lat": "30.91897",
+            "toponym_search": "Iqlid",
+            "region_code": "Faris",
+            "coord_lon": "52.67168",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.67168,
+            30.91897
+        ]
+    }
+}

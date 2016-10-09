@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biskaṯ",
+            "cornu_URI": "BISKATH_694E408N_S",
+            "toponym_arabic": "بسكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Biskath",
+            "toponym_arabic_other": "بسكث",
+            "toponym_translit": "Biskaṯ",
+            "coord_lat": "40.89646",
+            "toponym_search": "Biskath",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.42766",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.42766,
+            40.89646
+        ]
+    }
+}

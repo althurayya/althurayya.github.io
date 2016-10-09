@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Walāšǧird",
+            "cornu_URI": "WALASHJIRD_572E280N_S",
+            "toponym_arabic": "ولاشجرد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Walashjird",
+            "toponym_arabic_other": "ولاشجرد",
+            "toponym_translit": "Walāšǧird",
+            "coord_lat": "28.00340",
+            "toponym_search": "Walashjird",
+            "region_code": "Kirman",
+            "coord_lon": "57.27536",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.27536,
+            28.0034
+        ]
+    }
+}

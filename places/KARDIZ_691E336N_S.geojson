@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kardīz",
+            "cornu_URI": "KARDIZ_691E336N_S",
+            "toponym_arabic": "كرديز",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kardiz",
+            "toponym_arabic_other": "كرديز",
+            "toponym_translit": "Kardīz",
+            "coord_lat": "33.62249",
+            "toponym_search": "Kardiz",
+            "region_code": "Sind",
+            "coord_lon": "69.15407",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.15407,
+            33.62249
+        ]
+    }
+}

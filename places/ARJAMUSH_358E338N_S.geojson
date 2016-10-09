@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArǧamūš",
+            "cornu_URI": "ARJAMUSH_358E338N_S",
+            "toponym_arabic": "عرجموش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arjamush",
+            "toponym_arabic_other": "عرجموش",
+            "toponym_translit": "ʿArǧamūš",
+            "coord_lat": "33.86315",
+            "toponym_search": "Arjamush",
+            "region_code": "Sham",
+            "coord_lon": "35.89165",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.89165,
+            33.86315
+        ]
+    }
+}

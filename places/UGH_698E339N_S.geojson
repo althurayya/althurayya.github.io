@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ūġ, Awaġ",
+            "cornu_URI": "UGH_698E339N_S",
+            "toponym_arabic": "أوغ",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ugh, Awagh",
+            "toponym_arabic_other": "أوغ، أوغ",
+            "toponym_translit": "Ūġ",
+            "coord_lat": "33.95277",
+            "toponym_search": "Ugh, Awagh",
+            "region_code": "Sijistan",
+            "coord_lon": "69.86876",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.86876,
+            33.95277
+        ]
+    }
+}

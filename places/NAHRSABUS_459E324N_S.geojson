@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Sābus",
+            "cornu_URI": "NAHRSABUS_459E324N_S",
+            "toponym_arabic": "نهر سابس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nahr Sabus",
+            "toponym_arabic_other": "نهر سابس",
+            "toponym_translit": "Nahr Sābus",
+            "coord_lat": "32.49681",
+            "toponym_search": "Nahr Sabus",
+            "region_code": "Iraq",
+            "coord_lon": "45.96969",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.96969,
+            32.49681
+        ]
+    }
+}

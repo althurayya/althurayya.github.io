@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rimāʿ",
+            "cornu_URI": "RIMA_432E143N_R",
+            "toponym_arabic": "رماع",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Rima",
+            "toponym_arabic_other": "رماع",
+            "toponym_translit": "Rimāʿ",
+            "coord_lat": "14.35515",
+            "toponym_search": "Rima",
+            "region_code": "Yemen",
+            "coord_lon": "43.25806",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.25806,
+            14.35515
+        ]
+    }
+}

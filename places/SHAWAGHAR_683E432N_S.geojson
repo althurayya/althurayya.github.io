@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šāwaġar",
+            "cornu_URI": "SHAWAGHAR_683E432N_S",
+            "toponym_arabic": "شاوغر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shawaghar",
+            "toponym_arabic_other": "شاوغر",
+            "toponym_translit": "Šāwaġar",
+            "coord_lat": "43.25000",
+            "toponym_search": "Shawaghar",
+            "region_code": "Transoxiana",
+            "coord_lon": "68.31570",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.3157,
+            43.25
+        ]
+    }
+}

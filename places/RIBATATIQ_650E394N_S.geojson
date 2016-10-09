@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ ʿAtīq",
+            "cornu_URI": "RIBATATIQ_650E394N_S",
+            "toponym_arabic": "رباط عتيق",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Atiq",
+            "toponym_arabic_other": "رباط عتيق",
+            "toponym_translit": "Ribāṭ ʿAtīq",
+            "coord_lat": "39.44667",
+            "toponym_search": "Ribat Atiq",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.02339",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.02339,
+            39.44667
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000260-000.json": {
+                "title": "بلنجر",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balanǧar",
+            "cornu_URI": "BALANJAR_464E432N_S",
+            "toponym_arabic": "بلنجر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Balanjar",
+            "toponym_arabic_other": "بلنجر",
+            "toponym_translit": "Balanǧar",
+            "coord_lat": "43.28166",
+            "toponym_search": "Balanjar",
+            "region_code": "Khazar",
+            "coord_lon": "46.42082",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.42082,
+            43.28166
+        ]
+    }
+}

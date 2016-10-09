@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001596-000.json": {
+                "title": "وادي ابي موسي",
+                "rate": 82,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Mūsá",
+            "cornu_URI": "WADIMUSA_354E303N_S",
+            "toponym_arabic": "وادي موسى",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Wadi Musa",
+            "toponym_arabic_other": "وادي موسى",
+            "toponym_translit": "Wādī Mūsá",
+            "coord_lat": "30.33334",
+            "toponym_search": "Wadi Musa",
+            "region_code": "Sham",
+            "coord_lon": "35.47226",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.47226,
+            30.33334
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šubaykaŧ",
+            "cornu_URI": "SHUBAYKA_415E224N_S",
+            "toponym_arabic": "الشبيكة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Shubayka",
+            "toponym_arabic_other": "الشبيكة",
+            "toponym_translit": "al-Šubaykaŧ",
+            "coord_lat": "22.44819",
+            "toponym_search": "al-Shubayka",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.51032",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.51032,
+            22.44819
+        ]
+    }
+}

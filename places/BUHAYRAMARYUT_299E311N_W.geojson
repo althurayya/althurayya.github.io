@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Maryūṭ",
+            "cornu_URI": "BUHAYRAMARYUT_299E311N_W",
+            "toponym_arabic": "بحيرة مريوط",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Maryut",
+            "toponym_arabic_other": "بحيرة مريوط",
+            "toponym_translit": "Buḥayraŧ Maryūṭ",
+            "coord_lat": "31.12142",
+            "toponym_search": "Buhayra Maryut",
+            "region_code": "Egypt",
+            "coord_lon": "29.91455",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.91455,
+            31.12142
+        ]
+    }
+}

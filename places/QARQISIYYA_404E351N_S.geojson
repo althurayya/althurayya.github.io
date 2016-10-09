@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001182-000.json": {
+                "title": "قرقيسيا",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarqīsiyyaŧ",
+            "cornu_URI": "QARQISIYYA_404E351N_S",
+            "toponym_arabic": "قرقيسية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarqisiyya",
+            "toponym_arabic_other": "قرقيسية",
+            "toponym_translit": "Qarqīsiyyaŧ",
+            "coord_lat": "35.14620",
+            "toponym_search": "Qarqisiyya",
+            "region_code": "Aqur",
+            "coord_lon": "40.43747",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.43747,
+            35.1462
+        ]
+    }
+}

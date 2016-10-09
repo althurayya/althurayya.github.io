@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ruḫḫāǧ, al-Raḫwaḏ",
+            "cornu_URI": "RUKHKHAJ_655E314N_R",
+            "toponym_arabic": "الرخاج",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Rukhkhaj, al-Rakhwadh",
+            "toponym_arabic_other": "الرخاج، الرخوذ",
+            "toponym_translit": "al-Ruḫḫāǧ",
+            "coord_lat": "31.49823",
+            "toponym_search": "al-Rukhkhaj, al-Rakhwadh",
+            "region_code": "Sijistan",
+            "coord_lon": "65.52932",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.52932,
+            31.49823
+        ]
+    }
+}

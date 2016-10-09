@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001562-000.json": {
+                "title": "هلبك",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hulbuk",
+            "cornu_URI": "HULBUK_698E378N_S",
+            "toponym_arabic": "هلبك",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Hulbuk",
+            "toponym_arabic_other": "هلبك",
+            "toponym_translit": "Hulbuk",
+            "coord_lat": "37.87023",
+            "toponym_search": "Hulbuk",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.85097",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.85097,
+            37.87023
+        ]
+    }
+}

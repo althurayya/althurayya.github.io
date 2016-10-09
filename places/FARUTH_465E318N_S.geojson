@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fārūṯ",
+            "cornu_URI": "FARUTH_465E318N_S",
+            "toponym_arabic": "الفاروث",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Faruth",
+            "toponym_arabic_other": "الفاروث",
+            "toponym_translit": "al-Fārūṯ",
+            "coord_lat": "31.83729",
+            "toponym_search": "al-Faruth",
+            "region_code": "Iraq",
+            "coord_lon": "46.58171",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.58171,
+            31.83729
+        ]
+    }
+}

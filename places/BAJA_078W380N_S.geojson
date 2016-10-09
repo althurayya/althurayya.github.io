@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000210-000.json": {
+                "title": "باجه",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāǧaŧ",
+            "cornu_URI": "BAJA_078W380N_S",
+            "toponym_arabic": "باجة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baja",
+            "toponym_arabic_other": "باجة",
+            "toponym_translit": "Bāǧaŧ",
+            "coord_lat": "38.00689",
+            "toponym_search": "Baja",
+            "region_code": "Andalus",
+            "coord_lon": "-7.80444",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -7.80444,
+            38.00689
+        ]
+    }
+}

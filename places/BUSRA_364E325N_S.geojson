@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000282-000.json": {
+                "title": "بصري",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buṣrá",
+            "cornu_URI": "BUSRA_364E325N_S",
+            "toponym_arabic": "بصرى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Busra",
+            "toponym_arabic_other": "بصرى",
+            "toponym_translit": "Buṣrá",
+            "coord_lat": "32.51503",
+            "toponym_search": "Busra",
+            "region_code": "Sham",
+            "coord_lon": "36.43071",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.43071,
+            32.51503
+        ]
+    }
+}

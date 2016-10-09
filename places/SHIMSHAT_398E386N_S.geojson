@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000879-000.json": {
+                "title": "شمشاط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šimšāṭ",
+            "cornu_URI": "SHIMSHAT_398E386N_S",
+            "toponym_arabic": "شمشاط",
+            "top_type_orig": "placefrontiere",
+            "toponym_buckwalter": "Shimshat",
+            "toponym_arabic_other": "شمشاط",
+            "toponym_translit": "Šimšāṭ",
+            "coord_lat": "38.61412",
+            "toponym_search": "Shimshat",
+            "region_code": "Aqur",
+            "coord_lon": "39.83119",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.83119,
+            38.61412
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000075-000.json": {
+                "title": "اردبيل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ardabīl",
+            "cornu_URI": "ARDABIL_483E382N_S",
+            "toponym_arabic": "أردبيل",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Ardabil",
+            "toponym_arabic_other": "أردبيل",
+            "toponym_translit": "Ardabīl",
+            "coord_lat": "38.23604",
+            "toponym_search": "Ardabil",
+            "region_code": "Rihab",
+            "coord_lon": "48.30651",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.30651,
+            38.23604
+        ]
+    }
+}

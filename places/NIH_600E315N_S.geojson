@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nih, Nīh",
+            "cornu_URI": "NIH_600E315N_S",
+            "toponym_arabic": "نه",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nih, Nih",
+            "toponym_arabic_other": "نه، نيه",
+            "toponym_translit": "Nih",
+            "coord_lat": "31.57770",
+            "toponym_search": "Nih, Nih",
+            "region_code": "Sijistan",
+            "coord_lon": "60.05406",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.05406,
+            31.5777
+        ]
+    }
+}

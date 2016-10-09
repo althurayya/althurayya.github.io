@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ḫurmārūḏ",
+            "cornu_URI": "NAHRKHURMARUDH_553E370N_W",
+            "toponym_arabic": "نهر خرماروذ",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Khurmarudh",
+            "toponym_arabic_other": "نهر خرماروذ",
+            "toponym_translit": "Nahr Ḫurmārūḏ",
+            "coord_lat": "37.06455",
+            "toponym_search": "Nahr Khurmarudh",
+            "region_code": "Daylam",
+            "coord_lon": "55.38357",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.38357,
+            37.06455
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Warrādaŧ",
+            "cornu_URI": "WARRADA_335E310N_S",
+            "toponym_arabic": "الورادة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Warrada",
+            "toponym_arabic_other": "الورادة",
+            "toponym_translit": "al-Warrādaŧ",
+            "coord_lat": "31.06734",
+            "toponym_search": "al-Warrada",
+            "region_code": "Egypt",
+            "coord_lon": "33.54242",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.54242,
+            31.06734
+        ]
+    }
+}

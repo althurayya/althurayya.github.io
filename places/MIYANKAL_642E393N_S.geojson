@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Miyān Kāl",
+            "cornu_URI": "MIYANKAL_642E393N_S",
+            "toponym_arabic": "ميان كال",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Miyan Kal",
+            "toponym_arabic_other": "ميان كال",
+            "toponym_translit": "Miyān Kāl",
+            "coord_lat": "39.34189",
+            "toponym_search": "Miyan Kal",
+            "region_code": "Transoxiana",
+            "coord_lon": "64.26931",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.26931,
+            39.34189
+        ]
+    }
+}

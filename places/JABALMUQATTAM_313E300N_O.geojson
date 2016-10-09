@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Muqaṭṭam",
+            "cornu_URI": "JABALMUQATTAM_313E300N_O",
+            "toponym_arabic": "جبل مقطم",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Muqattam",
+            "toponym_arabic_other": "جبل مقطم",
+            "toponym_translit": "Ǧabal Muqaṭṭam",
+            "coord_lat": "30.01368",
+            "toponym_search": "Jabal Muqattam",
+            "region_code": "Egypt",
+            "coord_lon": "31.31852",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.31852,
+            30.01368
+        ]
+    }
+}

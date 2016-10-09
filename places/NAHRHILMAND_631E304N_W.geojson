@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Hilmand, Nahr Hindmand, Nahr Hīrmīd, Nahr Hīrmand",
+            "cornu_URI": "NAHRHILMAND_631E304N_W",
+            "toponym_arabic": "نهر هلمند",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Hilmand, Nahr Hindmand, Nahr Hirmid, Nahr Hirmand",
+            "toponym_arabic_other": "نهر هلمند، نهر هندمند، نهر هيرميد، نهر هيرمند",
+            "toponym_translit": "Nahr Hilmand",
+            "coord_lat": "30.47359",
+            "toponym_search": "Nahr Hilmand, Nahr Hindmand, Nahr Hirmid, Nahr Hirmand",
+            "region_code": "Sijistan",
+            "coord_lon": "63.17371",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.17371,
+            30.47359
+        ]
+    }
+}

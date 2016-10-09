@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿdin Banū Sulaym",
+            "cornu_URI": "MADINBANUSULAYM_408E235N_O",
+            "toponym_arabic": "معدن بنو سليم",
+            "top_type_orig": "site",
+            "toponym_buckwalter": "Madin Banu Sulaym",
+            "toponym_arabic_other": "معدن بنو سليم",
+            "toponym_translit": "Maʿdin Banū Sulaym",
+            "coord_lat": "23.53832",
+            "toponym_search": "Madin Banu Sulaym",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.82270",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.8227,
+            23.53832
+        ]
+    }
+}

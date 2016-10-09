@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧurasiyyāt",
+            "cornu_URI": "JURASIYYAT_308E303N_S",
+            "toponym_arabic": "الجرسيات",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "al-Jurasiyyat",
+            "toponym_arabic_other": "الجرسيات",
+            "toponym_translit": "al-Ǧurasiyyāt",
+            "coord_lat": "30.34164",
+            "toponym_search": "al-Jurasiyyat",
+            "region_code": "Egypt",
+            "coord_lon": "30.89161",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.89161,
+            30.34164
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarnīn",
+            "cornu_URI": "QARNIN_622E315N_S",
+            "toponym_arabic": "قرنين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qarnin",
+            "toponym_arabic_other": "قرنين",
+            "toponym_translit": "Qarnīn",
+            "coord_lat": "31.51377",
+            "toponym_search": "Qarnin",
+            "region_code": "Sijistan",
+            "coord_lon": "62.23227",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.23227,
+            31.51377
+        ]
+    }
+}

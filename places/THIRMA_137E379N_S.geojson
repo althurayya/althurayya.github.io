@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000405-000.json": {
+                "title": "ثرمه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṯirmaŧ",
+            "cornu_URI": "THIRMA_137E379N_S",
+            "toponym_arabic": "ثرمة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Thirma",
+            "toponym_arabic_other": "ثرمة",
+            "toponym_translit": "Ṯirmaŧ",
+            "coord_lat": "37.97037",
+            "toponym_search": "Thirma",
+            "region_code": "Sicile",
+            "coord_lon": "13.70463",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.70463,
+            37.97037
+        ]
+    }
+}

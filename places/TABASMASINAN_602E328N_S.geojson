@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭabas Masīnān, Ṭabas al-ʿUnnāb",
+            "cornu_URI": "TABASMASINAN_602E328N_S",
+            "toponym_arabic": "طبس مسينان",
+            "top_type_orig": "ville?",
+            "toponym_buckwalter": "Tabas Masinan, Tabas al-Unnab",
+            "toponym_arabic_other": "طبس مسينان، طبس العناب",
+            "toponym_translit": "Ṭabas Masīnān",
+            "coord_lat": "32.81573",
+            "toponym_search": "Tabas Masinan, Tabas al-Unnab",
+            "region_code": "Mafaza",
+            "coord_lon": "60.20763",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.20763,
+            32.81573
+        ]
+    }
+}

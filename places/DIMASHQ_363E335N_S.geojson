@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000613-000.json": {
+                "title": "دمشق",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dimašq",
+            "cornu_URI": "DIMASHQ_363E335N_S",
+            "toponym_arabic": "دمشق",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Dimashq",
+            "toponym_arabic_other": "دمشق",
+            "toponym_translit": "Dimašq",
+            "coord_lat": "33.51843",
+            "toponym_search": "Dimashq",
+            "region_code": "Sham",
+            "coord_lon": "36.30199",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.30199,
+            33.51843
+        ]
+    }
+}

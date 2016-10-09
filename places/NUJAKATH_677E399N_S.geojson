@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nūǧakaṯ",
+            "cornu_URI": "NUJAKATH_677E399N_S",
+            "toponym_arabic": "نوجكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nujakath",
+            "toponym_arabic_other": "نوجكث",
+            "toponym_translit": "Nūǧakaṯ",
+            "coord_lat": "39.94338",
+            "toponym_search": "Nujakath",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.73525",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.73525,
+            39.94338
+        ]
+    }
+}

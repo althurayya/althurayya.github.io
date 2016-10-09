@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Armābīl, Armāʾīl",
+            "cornu_URI": "ARMABIL_663E262N_S",
+            "toponym_arabic": "أرمابيل",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Armabil, Armail",
+            "toponym_arabic_other": "أرمابيل، أرمائيل",
+            "toponym_translit": "Armābīl",
+            "coord_lat": "26.23769",
+            "toponym_search": "Armabil, Armail",
+            "region_code": "Sind",
+            "coord_lon": "66.38343",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.38343,
+            26.23769
+        ]
+    }
+}

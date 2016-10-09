@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mārtūš",
+            "cornu_URI": "MARTUSH_039W377N_S",
+            "toponym_arabic": "مارتوش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Martush",
+            "toponym_arabic_other": "مارتوش",
+            "toponym_translit": "Mārtūš",
+            "coord_lat": "37.74285",
+            "toponym_search": "Martush",
+            "region_code": "Andalus",
+            "coord_lon": "-3.98826",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.98826,
+            37.74285
+        ]
+    }
+}

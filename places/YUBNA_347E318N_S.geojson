@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yubnā",
+            "cornu_URI": "YUBNA_347E318N_S",
+            "toponym_arabic": "يبنا",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Yubna",
+            "toponym_arabic_other": "يبنا",
+            "toponym_translit": "Yubnā",
+            "coord_lat": "31.87092",
+            "toponym_search": "Yubna",
+            "region_code": "Sham",
+            "coord_lon": "34.73521",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.73521,
+            31.87092
+        ]
+    }
+}

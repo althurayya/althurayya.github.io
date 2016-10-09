@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuwayn, Kuwayn",
+            "cornu_URI": "JUWAYN_616E317N_S",
+            "toponym_arabic": "جوين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Juwayn, Kuwayn",
+            "toponym_arabic_other": "جوين، كوين",
+            "toponym_translit": "Ǧuwayn",
+            "coord_lat": "31.72221",
+            "toponym_search": "Juwayn, Kuwayn",
+            "region_code": "Sijistan",
+            "coord_lon": "61.60731",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.60731,
+            31.72221
+        ]
+    }
+}

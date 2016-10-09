@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫalīǧ Amīr al-Muʾminīn",
+            "cornu_URI": "KHALIJAMIRMUMININ_317E305N_W",
+            "toponym_arabic": "خليج أمير المؤمنين",
+            "top_type_orig": "canal",
+            "toponym_buckwalter": "Khalij Amir al-Muminin",
+            "toponym_arabic_other": "خليج أمير المؤمنين",
+            "toponym_translit": "Ḫalīǧ Amīr al-Muʾminīn",
+            "coord_lat": "30.57863",
+            "toponym_search": "Khalij Amir al-Muminin",
+            "region_code": "Egypt",
+            "coord_lon": "31.79922",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.79922,
+            30.57863
+        ]
+    }
+}

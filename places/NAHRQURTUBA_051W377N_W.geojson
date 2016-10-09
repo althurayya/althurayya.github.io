@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Qurṭūbaŧ",
+            "cornu_URI": "NAHRQURTUBA_051W377N_W",
+            "toponym_arabic": "نهر قرطوبة",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Qurtuba",
+            "toponym_arabic_other": "نهر قرطوبة",
+            "toponym_translit": "Nahr Qurṭūbaŧ",
+            "coord_lat": "37.75423",
+            "toponym_search": "Nahr Qurtuba",
+            "region_code": "Andalus",
+            "coord_lon": "-5.11225",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.11225,
+            37.75423
+        ]
+    }
+}

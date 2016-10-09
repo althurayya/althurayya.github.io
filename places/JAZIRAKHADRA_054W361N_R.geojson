@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧazīraŧ al-Ḫaḍrāʾ",
+            "cornu_URI": "JAZIRAKHADRA_054W361N_R",
+            "toponym_arabic": "جزيرة الخضراء",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Jazira al-Khadra",
+            "toponym_arabic_other": "جزيرة الخضراء",
+            "toponym_translit": "Ǧazīraŧ al-Ḫaḍrāʾ",
+            "coord_lat": "36.16359",
+            "toponym_search": "Jazira al-Khadra",
+            "region_code": "Andalus",
+            "coord_lon": "-5.43793",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.43793,
+            36.16359
+        ]
+    }
+}

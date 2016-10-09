@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bādarāyā",
+            "cornu_URI": "BADARAYA_459E330N_S",
+            "toponym_arabic": "بادرايا",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Badaraya",
+            "toponym_arabic_other": "بادرايا",
+            "toponym_translit": "Bādarāyā",
+            "coord_lat": "33.09968",
+            "toponym_search": "Badaraya",
+            "region_code": "Iraq",
+            "coord_lon": "45.93688",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.93688,
+            33.09968
+        ]
+    }
+}

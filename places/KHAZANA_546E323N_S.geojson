@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫazānaŧ, Ḫarānaŧ",
+            "cornu_URI": "KHAZANA_546E323N_S",
+            "toponym_arabic": "خزانة",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Khazana, Kharana",
+            "toponym_arabic_other": "خزانة، خرانة",
+            "toponym_translit": "Ḫazānaŧ",
+            "coord_lat": "32.32168",
+            "toponym_search": "Khazana, Kharana",
+            "region_code": "Mafaza",
+            "coord_lon": "54.65669",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.65669,
+            32.32168
+        ]
+    }
+}

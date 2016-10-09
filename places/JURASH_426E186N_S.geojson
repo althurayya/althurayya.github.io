@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000435-000.json": {
+                "title": "جرش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuraš",
+            "cornu_URI": "JURASH_426E186N_S",
+            "toponym_arabic": "جرش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jurash",
+            "toponym_arabic_other": "جرش",
+            "toponym_translit": "Ǧuraš",
+            "coord_lat": "18.63711",
+            "toponym_search": "Jurash",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.69682",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.69682,
+            18.63711
+        ]
+    }
+}

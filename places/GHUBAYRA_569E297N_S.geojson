@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġubayrāʾ",
+            "cornu_URI": "GHUBAYRA_569E297N_S",
+            "toponym_arabic": "غبيراء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ghubayra",
+            "toponym_arabic_other": "غبيراء",
+            "toponym_translit": "Ġubayrāʾ",
+            "coord_lat": "29.72844",
+            "toponym_search": "Ghubayra",
+            "region_code": "Kirman",
+            "coord_lon": "56.97972",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.97972,
+            29.72844
+        ]
+    }
+}

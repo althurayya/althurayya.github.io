@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000712-000.json": {
+                "title": "الرويثه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ruwayṯaŧ",
+            "cornu_URI": "RUWAYTHA_392E240N_S",
+            "toponym_arabic": "رويثة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ruwaytha",
+            "toponym_arabic_other": "رويثة",
+            "toponym_translit": "Ruwayṯaŧ",
+            "coord_lat": "24.01966",
+            "toponym_search": "Ruwaytha",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.23589",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.23589,
+            24.01966
+        ]
+    }
+}

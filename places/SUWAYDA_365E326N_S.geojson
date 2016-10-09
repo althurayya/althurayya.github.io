@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000847-000.json": {
+                "title": "السويداء",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suwaydāʾ",
+            "cornu_URI": "SUWAYDA_365E326N_S",
+            "toponym_arabic": "سويداء",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Suwayda",
+            "toponym_arabic_other": "سويداء",
+            "toponym_translit": "Suwaydāʾ",
+            "coord_lat": "32.69627",
+            "toponym_search": "Suwayda",
+            "region_code": "Sham",
+            "coord_lon": "36.55945",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.55945,
+            32.69627
+        ]
+    }
+}

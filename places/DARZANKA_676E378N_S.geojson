@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dārzankā, Dārzanǧī",
+            "cornu_URI": "DARZANKA_676E378N_S",
+            "toponym_arabic": "دارزنكا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Darzanka, Darzanji",
+            "toponym_arabic_other": "دارزنكا، دارزنجي",
+            "toponym_translit": "Dārzankā",
+            "coord_lat": "37.84131",
+            "toponym_search": "Darzanka, Darzanji",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.63175",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.63175,
+            37.84131
+        ]
+    }
+}

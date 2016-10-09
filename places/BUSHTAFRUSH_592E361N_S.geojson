@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buštafrūš, Bustanfarūš",
+            "cornu_URI": "BUSHTAFRUSH_592E361N_S",
+            "toponym_arabic": "بشتفروش",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Bushtafrush, Bustanfarush",
+            "toponym_arabic_other": "بشتفروش، بستنفروش",
+            "toponym_translit": "Buštafrūš",
+            "coord_lat": "36.17813",
+            "toponym_search": "Bushtafrush, Bustanfarush",
+            "region_code": "Khurasan",
+            "coord_lon": "59.24061",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.24061,
+            36.17813
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qusṭānaŧ",
+            "cornu_URI": "QUSTANA_510E354N_S",
+            "toponym_arabic": "قسطانة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qustana",
+            "toponym_arabic_other": "قسطانة",
+            "toponym_translit": "Qusṭānaŧ",
+            "coord_lat": "35.41491",
+            "toponym_search": "Qustana",
+            "region_code": "Jibal",
+            "coord_lon": "51.03856",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.03856,
+            35.41491
+        ]
+    }
+}

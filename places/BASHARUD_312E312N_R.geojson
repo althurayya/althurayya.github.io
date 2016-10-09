@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Bašarūd",
+            "cornu_URI": "BASHARUD_312E312N_R",
+            "toponym_arabic": "البشرود",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Basharud",
+            "toponym_arabic_other": "البشرود",
+            "toponym_translit": "al-Bašarūd",
+            "coord_lat": "31.28817",
+            "toponym_search": "al-Basharud",
+            "region_code": "Egypt",
+            "coord_lon": "31.23342",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.23342,
+            31.28817
+        ]
+    }
+}

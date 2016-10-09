@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Talastānaŧ",
+            "cornu_URI": "TALASTANA_614E370N_S",
+            "toponym_arabic": "تلستانة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Talastana",
+            "toponym_arabic_other": "تلستانة",
+            "toponym_translit": "Talastānaŧ",
+            "coord_lat": "37.03409",
+            "toponym_search": "Talastana",
+            "region_code": "Khurasan",
+            "coord_lon": "61.47492",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.47492,
+            37.03409
+        ]
+    }
+}

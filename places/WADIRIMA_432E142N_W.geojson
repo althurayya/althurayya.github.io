@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Rimāʿ",
+            "cornu_URI": "WADIRIMA_432E142N_W",
+            "toponym_arabic": "وادي رماع",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Rima",
+            "toponym_arabic_other": "وادي رماع",
+            "toponym_translit": "Wādī Rimāʿ",
+            "coord_lat": "14.26412",
+            "toponym_search": "Wadi Rima",
+            "region_code": "Yemen",
+            "coord_lon": "43.25543",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.25543,
+            14.26412
+        ]
+    }
+}

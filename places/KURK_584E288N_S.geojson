@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kurk, Ǧurǧ",
+            "cornu_URI": "KURK_584E288N_S",
+            "toponym_arabic": "كرك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kurk, Jurj",
+            "toponym_arabic_other": "كرك، جرج",
+            "toponym_translit": "Kurk",
+            "coord_lat": "28.88667",
+            "toponym_search": "Kurk, Jurj",
+            "region_code": "Kirman",
+            "coord_lon": "58.49109",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.49109,
+            28.88667
+        ]
+    }
+}

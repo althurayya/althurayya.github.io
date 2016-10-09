@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darnawá",
+            "cornu_URI": "DARNAWA_487E348N_S",
+            "toponym_arabic": "درنوى",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Darnawa",
+            "toponym_arabic_other": "درنوى",
+            "toponym_translit": "Darnawá",
+            "coord_lat": "34.84758",
+            "toponym_search": "Darnawa",
+            "region_code": "Jibal",
+            "coord_lon": "48.73262",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.73262,
+            34.84758
+        ]
+    }
+}

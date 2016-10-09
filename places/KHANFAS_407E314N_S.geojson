@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫanfas, al-Ḥanfas, al-Ǧanfas",
+            "cornu_URI": "KHANFAS_407E314N_S",
+            "toponym_arabic": "الخنفس",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Khanfas, al-Hanfas, al-Janfas",
+            "toponym_arabic_other": "الخنفس، الحنفس، الجنفس",
+            "toponym_translit": "al-Ḫanfas",
+            "coord_lat": "31.48039",
+            "toponym_search": "al-Khanfas, al-Hanfas, al-Janfas",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "40.76716",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.76716,
+            31.48039
+        ]
+    }
+}

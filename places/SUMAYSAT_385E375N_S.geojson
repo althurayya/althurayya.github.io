@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000826-000.json": {
+                "title": "سميساط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sumaysāṭ",
+            "cornu_URI": "SUMAYSAT_385E375N_S",
+            "toponym_arabic": "سميساط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sumaysat",
+            "toponym_arabic_other": "سميساط",
+            "toponym_translit": "Sumaysāṭ",
+            "coord_lat": "37.54334",
+            "toponym_search": "Sumaysat",
+            "region_code": "Aqur",
+            "coord_lon": "38.54365",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.54365,
+            37.54334
+        ]
+    }
+}

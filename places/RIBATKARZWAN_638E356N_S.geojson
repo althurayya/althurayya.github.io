@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Karzwān",
+            "cornu_URI": "RIBATKARZWAN_638E356N_S",
+            "toponym_arabic": "رباط كرزوان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ribat Karzwan",
+            "toponym_arabic_other": "رباط كرزوان",
+            "toponym_translit": "Ribāṭ Karzwān",
+            "coord_lat": "35.61955",
+            "toponym_search": "Ribat Karzwan",
+            "region_code": "Khurasan",
+            "coord_lon": "63.81969",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.81969,
+            35.61955
+        ]
+    }
+}

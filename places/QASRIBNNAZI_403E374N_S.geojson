@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Ibn Nāziʿ, Qaṣr Banū Nāziʿ",
+            "cornu_URI": "QASRIBNNAZI_403E374N_S",
+            "toponym_arabic": "قصر إبن نازع",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qasr Ibn Nazi, Qasr Banu Nazi",
+            "toponym_arabic_other": "قصر إبن نازع، قصر بنو نازع",
+            "toponym_translit": "Qaṣr Ibn Nāziʿ",
+            "coord_lat": "37.40829",
+            "toponym_search": "Qasr Ibn Nazi, Qasr Banu Nazi",
+            "region_code": "Aqur",
+            "coord_lon": "40.32760",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.3276,
+            37.40829
+        ]
+    }
+}

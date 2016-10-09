@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Mayānah",
+            "cornu_URI": "RIBATMAYANAH_627E345N_S",
+            "toponym_arabic": "رباط ميانه",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Mayanah",
+            "toponym_arabic_other": "رباط ميانه",
+            "toponym_translit": "Ribāṭ Mayānah",
+            "coord_lat": "34.53751",
+            "toponym_search": "Ribat Mayanah",
+            "region_code": "Khurasan",
+            "coord_lon": "62.76550",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.7655,
+            34.53751
+        ]
+    }
+}

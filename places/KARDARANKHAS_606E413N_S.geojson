@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kardarānḫās, Kardarānḫuwāš",
+            "cornu_URI": "KARDARANKHAS_606E413N_S",
+            "toponym_arabic": "كردرانخاس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kardarankhas, Kardarankhuwash",
+            "toponym_arabic_other": "كردرانخاس، كردرانخواش",
+            "toponym_translit": "Kardarānḫās",
+            "coord_lat": "41.38937",
+            "toponym_search": "Kardarankhas, Kardarankhuwash",
+            "region_code": "Transoxiana",
+            "coord_lon": "60.68254",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.68254,
+            41.38937
+        ]
+    }
+}

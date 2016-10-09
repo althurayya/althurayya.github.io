@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥawf al-Šarqī",
+            "cornu_URI": "HAWFSHARQI_315E305N_R",
+            "toponym_arabic": "الحوف الشرقي",
+            "top_type_orig": "circon",
+            "toponym_buckwalter": "al-Hawf al-Sharqi",
+            "toponym_arabic_other": "الحوف الشرقي",
+            "toponym_translit": "al-Ḥawf al-Šarqī",
+            "coord_lat": "30.59137",
+            "toponym_search": "al-Hawf al-Sharqi",
+            "region_code": "Egypt",
+            "coord_lon": "31.57495",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.57495,
+            30.59137
+        ]
+    }
+}

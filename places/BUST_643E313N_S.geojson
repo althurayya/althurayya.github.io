@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000290-000.json": {
+                "title": "بست",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bust",
+            "cornu_URI": "BUST_643E313N_S",
+            "toponym_arabic": "بست",
+            "top_type_orig": "qasaba/cheflieu",
+            "toponym_buckwalter": "Bust",
+            "toponym_arabic_other": "بست",
+            "toponym_translit": "Bust",
+            "coord_lat": "31.39108",
+            "toponym_search": "Bust",
+            "region_code": "Sijistan",
+            "coord_lon": "64.39078",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.39078,
+            31.39108
+        ]
+    }
+}

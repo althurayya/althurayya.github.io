@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000768-000.json": {
+                "title": "سابور",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001558-000.json": {
+                "title": "نيسابور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Naysābūr",
+            "cornu_URI": "NAYSABUR_587E361N_S",
+            "toponym_arabic": "نيسابور",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Naysabur",
+            "toponym_arabic_other": "نيسابور",
+            "toponym_translit": "Naysābūr",
+            "coord_lat": "36.12138",
+            "toponym_search": "Naysabur",
+            "region_code": "Khurasan",
+            "coord_lon": "58.79841",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.79841,
+            36.12138
+        ]
+    }
+}

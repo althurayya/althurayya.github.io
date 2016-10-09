@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maknaŧ Abū Manṣūr",
+            "cornu_URI": "MAKNAABUMANSUR_091E368N_R",
+            "toponym_arabic": "مكنة أبو منصور",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Makna Abu Mansur",
+            "toponym_arabic_other": "مكنة أبو منصور",
+            "toponym_translit": "Maknaŧ Abū Manṣūr",
+            "coord_lat": "36.81309",
+            "toponym_search": "Makna Abu Mansur",
+            "region_code": "Maghrib",
+            "coord_lon": "9.11248",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11248,
+            36.81309
+        ]
+    }
+}

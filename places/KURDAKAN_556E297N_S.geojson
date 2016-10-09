@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kurdakān",
+            "cornu_URI": "KURDAKAN_556E297N_S",
+            "toponym_arabic": "كردكان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kurdakan",
+            "toponym_arabic_other": "كردكان",
+            "toponym_translit": "Kurdakān",
+            "coord_lat": "29.79365",
+            "toponym_search": "Kurdakan",
+            "region_code": "Kirman",
+            "coord_lon": "55.67825",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.67825,
+            29.79365
+        ]
+    }
+}

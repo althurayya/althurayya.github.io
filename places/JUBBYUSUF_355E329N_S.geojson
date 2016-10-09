@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧubb Yūsuf",
+            "cornu_URI": "JUBBYUSUF_355E329N_S",
+            "toponym_arabic": "جب يوسف",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Jubb Yusuf",
+            "toponym_arabic_other": "جب يوسف",
+            "toponym_translit": "Ǧubb Yūsuf",
+            "coord_lat": "32.92434",
+            "toponym_search": "Jubb Yusuf",
+            "region_code": "Sham",
+            "coord_lon": "35.52565",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.52565,
+            32.92434
+        ]
+    }
+}

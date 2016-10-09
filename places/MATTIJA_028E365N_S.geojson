@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001375-000.json": {
+                "title": "متيجه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mattīǧaŧ",
+            "cornu_URI": "MATTIJA_028E365N_S",
+            "toponym_arabic": "متيجة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mattija",
+            "toponym_arabic_other": "متيجة",
+            "toponym_translit": "Mattīǧaŧ",
+            "coord_lat": "36.59413",
+            "toponym_search": "Mattija",
+            "region_code": "Maghrib",
+            "coord_lon": "2.84276",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.84276,
+            36.59413
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001193-000.json": {
+                "title": "قرطاجنه",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarṭāǧannaŧ",
+            "cornu_URI": "QARTAJANNA_102E368N_S",
+            "toponym_arabic": "قرطاجنة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qartajanna",
+            "toponym_arabic_other": "قرطاجنة",
+            "toponym_translit": "Qarṭāǧannaŧ",
+            "coord_lat": "36.87916",
+            "toponym_search": "Qartajanna",
+            "region_code": "Maghrib",
+            "coord_lon": "10.26628",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.26628,
+            36.87916
+        ]
+    }
+}

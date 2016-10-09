@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ al-Muntinaŧ, Buḥayraŧ al-Maqlūbaŧ, Buḥayraŧ al-Miyyataŧ, Buḥayraŧ al-Ṣuġar",
+            "cornu_URI": "BUHAYRAMUNTINA_354E313N_W",
+            "toponym_arabic": "بحيرة المنتنة",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra al-Muntina, Buhayra al-Maqluba, Buhayra al-Miyyata, Buhayra al-Sughar",
+            "toponym_arabic_other": "بحيرة المنتنة، بحيرة المقلوبة، بحيرة الميتة، بحيرة الصغر",
+            "toponym_translit": "Buḥayraŧ al-Muntinaŧ",
+            "coord_lat": "31.38450",
+            "toponym_search": "Buhayra al-Muntina, Buhayra al-Maqluba, Buhayra al-Miyyata, Buhayra al-Sughar",
+            "region_code": "Sham",
+            "coord_lon": "35.46173",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.46173,
+            31.3845
+        ]
+    }
+}

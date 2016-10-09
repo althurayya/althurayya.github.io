@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nawá",
+            "cornu_URI": "NAWA_360E328N_S",
+            "toponym_arabic": "نوى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nawa",
+            "toponym_arabic_other": "نوى",
+            "toponym_translit": "Nawá",
+            "coord_lat": "32.88099",
+            "toponym_search": "Nawa",
+            "region_code": "Sham",
+            "coord_lon": "36.02865",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.02865,
+            32.88099
+        ]
+    }
+}

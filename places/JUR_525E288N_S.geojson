@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000479-000.json": {
+                "title": "جور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧūr, Bayrūzābāḏ",
+            "cornu_URI": "JUR_525E288N_S",
+            "toponym_arabic": "جور",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jur, Bayruzabadh",
+            "toponym_arabic_other": "جور، بيروزاباذ",
+            "toponym_translit": "Ǧūr",
+            "coord_lat": "28.84797",
+            "toponym_search": "Jur, Bayruzabadh",
+            "region_code": "Faris",
+            "coord_lon": "52.58324",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.58324,
+            28.84797
+        ]
+    }
+}

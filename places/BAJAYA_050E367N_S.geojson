@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000219-000.json": {
+                "title": "بجايه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baǧāyaŧ",
+            "cornu_URI": "BAJAYA_050E367N_S",
+            "toponym_arabic": "بجاية",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "Bajaya",
+            "toponym_arabic_other": "بجاية",
+            "toponym_translit": "Baǧāyaŧ",
+            "coord_lat": "36.70199",
+            "toponym_search": "Bajaya",
+            "region_code": "Maghrib",
+            "coord_lon": "5.04769",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.04769,
+            36.70199
+        ]
+    }
+}

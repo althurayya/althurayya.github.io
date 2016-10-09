@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint1612",
+            "cornu_URI": "ROUTPOINT1612_471E405N_O",
+            "toponym_arabic": "RoutPoint1612",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint1612",
+            "toponym_arabic_other": "RoutPoint1612",
+            "toponym_translit": "RoutPoint1612",
+            "coord_lat": "40.52049",
+            "toponym_search": "RoutPoint1612",
+            "region_code": "Rihab",
+            "coord_lon": "47.19945",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.19945,
+            40.52049
+        ]
+    }
+}

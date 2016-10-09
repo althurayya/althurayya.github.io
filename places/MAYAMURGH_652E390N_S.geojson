@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Māyamurġ",
+            "cornu_URI": "MAYAMURGH_652E390N_S",
+            "toponym_arabic": "مايمرغ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Mayamurgh",
+            "toponym_arabic_other": "مايمرغ",
+            "toponym_translit": "Māyamurġ",
+            "coord_lat": "39.04225",
+            "toponym_search": "Mayamurgh",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.22233",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.22233,
+            39.04225
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000943-000.json": {
+                "title": "الصيمره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣaymaraŧ",
+            "cornu_URI": "SAYMARA_474E331N_S",
+            "toponym_arabic": "الصيمرة",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "al-Saymara",
+            "toponym_arabic_other": "الصيمرة",
+            "toponym_translit": "al-Ṣaymaraŧ",
+            "coord_lat": "33.14964",
+            "toponym_search": "al-Saymara",
+            "region_code": "Jibal",
+            "coord_lon": "47.40829",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.40829,
+            33.14964
+        ]
+    }
+}

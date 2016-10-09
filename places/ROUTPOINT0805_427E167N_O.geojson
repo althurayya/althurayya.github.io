@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0805",
+            "cornu_URI": "ROUTPOINT0805_427E167N_O",
+            "toponym_arabic": "RoutPoint0805",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0805",
+            "toponym_arabic_other": "RoutPoint0805",
+            "toponym_translit": "RoutPoint0805",
+            "coord_lat": "16.77760",
+            "toponym_search": "RoutPoint0805",
+            "region_code": "Yemen",
+            "coord_lon": "42.71626",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.71626,
+            16.7776
+        ]
+    }
+}

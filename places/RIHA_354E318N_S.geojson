@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000070-000.json": {
+                "title": "اريحا",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Riḥā, Arīḥā",
+            "cornu_URI": "RIHA_354E318N_S",
+            "toponym_arabic": "رحا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Riha, Ariha",
+            "toponym_arabic_other": "رحا، أريحا",
+            "toponym_translit": "Riḥā",
+            "coord_lat": "31.86043",
+            "toponym_search": "Riha, Ariha",
+            "region_code": "Sham",
+            "coord_lon": "35.43774",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.43774,
+            31.86043
+        ]
+    }
+}

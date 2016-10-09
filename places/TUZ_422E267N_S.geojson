@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000387-000.json": {
+                "title": "توزر",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tūz",
+            "cornu_URI": "TUZ_422E267N_S",
+            "toponym_arabic": "توز",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Tuz",
+            "toponym_arabic_other": "توز",
+            "toponym_translit": "Tūz",
+            "coord_lat": "26.71435",
+            "toponym_search": "Tuz",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.29198",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.29198,
+            26.71435
+        ]
+    }
+}

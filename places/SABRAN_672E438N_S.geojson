@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000941-000.json": {
+                "title": "صورا",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣabrān, Ṣawrān",
+            "cornu_URI": "SABRAN_672E438N_S",
+            "toponym_arabic": "صبران",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sabran, Sawran",
+            "toponym_arabic_other": "صبران، صوران",
+            "toponym_translit": "Ṣabrān",
+            "coord_lat": "43.82577",
+            "toponym_search": "Sabran, Sawran",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.26184",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.26184,
+            43.82577
+        ]
+    }
+}

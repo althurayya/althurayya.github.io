@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫalīǧ Sardūs",
+            "cornu_URI": "KHALIJSARDUS_315E311N_W",
+            "toponym_arabic": "خليج سردوس",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Khalij Sardus",
+            "toponym_arabic_other": "خليج سردوس",
+            "toponym_translit": "Ḫalīǧ Sardūs",
+            "coord_lat": "31.11972",
+            "toponym_search": "Khalij Sardus",
+            "region_code": "Egypt",
+            "coord_lon": "31.55816",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.55816,
+            31.11972
+        ]
+    }
+}

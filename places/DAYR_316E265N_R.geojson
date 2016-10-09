@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000628-000.json": {
+                "title": "الدينور",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Dayr, Dayr Bū Šanūdaŧ",
+            "cornu_URI": "DAYR_316E265N_R",
+            "toponym_arabic": "الدير",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "al-Dayr, Dayr Bu Shanuda",
+            "toponym_arabic_other": "الدير، دير بو شنودة",
+            "toponym_translit": "al-Dayr",
+            "coord_lat": "26.54490",
+            "toponym_search": "al-Dayr, Dayr Bu Shanuda",
+            "region_code": "Egypt",
+            "coord_lon": "31.60625",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.60625,
+            26.5449
+        ]
+    }
+}

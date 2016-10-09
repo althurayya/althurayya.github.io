@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001354-000.json": {
+                "title": "مارب",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001358-000.json": {
+                "title": "ماب",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʾāb, Muʾāb",
+            "cornu_URI": "MAAB_357E312N_S",
+            "toponym_arabic": "مآب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maab, Muab",
+            "toponym_arabic_other": "مآب، مؤاب",
+            "toponym_translit": "Maʾāb",
+            "coord_lat": "31.25790",
+            "toponym_search": "Maab, Muab",
+            "region_code": "Sham",
+            "coord_lon": "35.73272",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.73272,
+            31.2579
+        ]
+    }
+}

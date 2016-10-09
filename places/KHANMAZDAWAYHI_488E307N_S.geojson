@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫan Mazdawayhī, Ḫān Mardawayhi",
+            "cornu_URI": "KHANMAZDAWAYHI_488E307N_S",
+            "toponym_arabic": "خن مزدويهي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khan Mazdawayhi, Khan Mardawayhi",
+            "toponym_arabic_other": "خن مزدويهي، خان مردويه",
+            "toponym_translit": "Ḫan Mazdawayhī",
+            "coord_lat": "30.73079",
+            "toponym_search": "Khan Mazdawayhi, Khan Mardawayhi",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.83628",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.83628,
+            30.73079
+        ]
+    }
+}

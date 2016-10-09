@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr al-Šammās",
+            "cornu_URI": "QASRSHAMMAS_263E313N_S",
+            "toponym_arabic": "قصر الشماس",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qasr al-Shammas",
+            "toponym_arabic_other": "قصر الشماس",
+            "toponym_translit": "Qaṣr al-Šammās",
+            "coord_lat": "31.32418",
+            "toponym_search": "Qasr al-Shammas",
+            "region_code": "Barqa",
+            "coord_lon": "26.37011",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            26.37011,
+            31.32418
+        ]
+    }
+}

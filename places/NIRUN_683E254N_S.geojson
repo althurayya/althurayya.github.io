@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nīrūn, al-Bīrūn",
+            "cornu_URI": "NIRUN_683E254N_S",
+            "toponym_arabic": "النيرون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Nirun, al-Birun",
+            "toponym_arabic_other": "النيرون، البيرون",
+            "toponym_translit": "al-Nīrūn",
+            "coord_lat": "25.42764",
+            "toponym_search": "al-Nirun, al-Birun",
+            "region_code": "Sind",
+            "coord_lon": "68.34181",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.34181,
+            25.42764
+        ]
+    }
+}

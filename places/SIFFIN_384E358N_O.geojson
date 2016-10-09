@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000935-000.json": {
+                "title": "صفين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣiffīn",
+            "cornu_URI": "SIFFIN_384E358N_O",
+            "toponym_arabic": "صفين",
+            "top_type_orig": "lieu",
+            "toponym_buckwalter": "Siffin",
+            "toponym_arabic_other": "صفين",
+            "toponym_translit": "Ṣiffīn",
+            "coord_lat": "35.85660",
+            "toponym_search": "Siffin",
+            "region_code": "Aqur",
+            "coord_lon": "38.41040",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.4104,
+            35.8566
+        ]
+    }
+}

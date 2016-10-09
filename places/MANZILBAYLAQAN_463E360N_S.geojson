@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manzil al-Baylaqān",
+            "cornu_URI": "MANZILBAYLAQAN_463E360N_S",
+            "toponym_arabic": "منزل البيلقان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Manzil al-Baylaqan",
+            "toponym_arabic_other": "منزل البيلقان",
+            "toponym_translit": "Manzil al-Baylaqān",
+            "coord_lat": "36.09869",
+            "toponym_search": "Manzil al-Baylaqan",
+            "region_code": "Rihab",
+            "coord_lon": "46.35428",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.35428,
+            36.09869
+        ]
+    }
+}

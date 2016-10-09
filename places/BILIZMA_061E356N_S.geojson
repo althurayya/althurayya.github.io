@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000271-000.json": {
+                "title": "بلزمه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bilizmaŧ",
+            "cornu_URI": "BILIZMA_061E356N_S",
+            "toponym_arabic": "بلزمة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bilizma",
+            "toponym_arabic_other": "بلزمة",
+            "toponym_translit": "Bilizmaŧ",
+            "coord_lat": "35.63685",
+            "toponym_search": "Bilizma",
+            "region_code": "Maghrib",
+            "coord_lon": "6.14010",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.1401,
+            35.63685
+        ]
+    }
+}

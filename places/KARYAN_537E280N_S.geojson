@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000073-000.json": {
+                "title": "اريانه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kāryān",
+            "cornu_URI": "KARYAN_537E280N_S",
+            "toponym_arabic": "كاريان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Karyan",
+            "toponym_arabic_other": "كاريان",
+            "toponym_translit": "Kāryān",
+            "coord_lat": "28.05935",
+            "toponym_search": "Karyan",
+            "region_code": "Faris",
+            "coord_lon": "53.70323",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.70323,
+            28.05935
+        ]
+    }
+}

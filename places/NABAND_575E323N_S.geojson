@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nāband",
+            "cornu_URI": "NABAND_575E323N_S",
+            "toponym_arabic": "نابند",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Naband",
+            "toponym_arabic_other": "نابند",
+            "toponym_translit": "Nāband",
+            "coord_lat": "32.33053",
+            "toponym_search": "Naband",
+            "region_code": "Mafaza",
+            "coord_lon": "57.58788",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.58788,
+            32.33053
+        ]
+    }
+}

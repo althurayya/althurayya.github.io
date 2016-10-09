@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000715-000.json": {
+                "title": "الرويان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000672-000.json": {
+                "title": "الران",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rūyān",
+            "cornu_URI": "RUYAN_517E363N_R",
+            "toponym_arabic": "الرويان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Ruyan",
+            "toponym_arabic_other": "الرويان",
+            "toponym_translit": "al-Rūyān",
+            "coord_lat": "36.36237",
+            "toponym_search": "al-Ruyan",
+            "region_code": "Daylam",
+            "coord_lon": "51.71080",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.7108,
+            36.36237
+        ]
+    }
+}

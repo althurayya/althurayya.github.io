@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūġūn",
+            "cornu_URI": "KUGHUN_570E296N_S",
+            "toponym_arabic": "كوغون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kughun",
+            "toponym_arabic_other": "كوغون",
+            "toponym_translit": "Kūġūn",
+            "coord_lat": "29.61836",
+            "toponym_search": "Kughun",
+            "region_code": "Kirman",
+            "coord_lon": "57.06721",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.06721,
+            29.61836
+        ]
+    }
+}

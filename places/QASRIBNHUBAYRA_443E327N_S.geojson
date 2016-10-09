@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001231-000.json": {
+                "title": "قصر ابن هبيره",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaṣr Ibn Hubayraŧ",
+            "cornu_URI": "QASRIBNHUBAYRA_443E327N_S",
+            "toponym_arabic": "قصر إبن هبيرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qasr Ibn Hubayra",
+            "toponym_arabic_other": "قصر إبن هبيرة",
+            "toponym_translit": "Qaṣr Ibn Hubayraŧ",
+            "coord_lat": "32.70401",
+            "toponym_search": "Qasr Ibn Hubayra",
+            "region_code": "Iraq",
+            "coord_lon": "44.34902",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.34902,
+            32.70401
+        ]
+    }
+}

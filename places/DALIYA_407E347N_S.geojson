@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Dāliyaŧ",
+            "cornu_URI": "DALIYA_407E347N_S",
+            "toponym_arabic": "الدالية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Daliya",
+            "toponym_arabic_other": "الدالية",
+            "toponym_translit": "al-Dāliyaŧ",
+            "coord_lat": "34.71355",
+            "toponym_search": "al-Daliya",
+            "region_code": "Aqur",
+            "coord_lon": "40.74111",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.74111,
+            34.71355
+        ]
+    }
+}

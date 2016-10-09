@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001404-000.json": {
+                "title": "المراغه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marāġaŧ",
+            "cornu_URI": "MARAGHA_462E373N_S",
+            "toponym_arabic": "مراغة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Maragha",
+            "toponym_arabic_other": "مراغة",
+            "toponym_translit": "Marāġaŧ",
+            "coord_lat": "37.34276",
+            "toponym_search": "Maragha",
+            "region_code": "Rihab",
+            "coord_lon": "46.24758",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.24758,
+            37.34276
+        ]
+    }
+}

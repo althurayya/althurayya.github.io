@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ al-Baḫtikān",
+            "cornu_URI": "BUHAYRABAKHTIKAN_539E293N_W",
+            "toponym_arabic": "بحيرة البختكان",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra al-Bakhtikan",
+            "toponym_arabic_other": "بحيرة البختكان",
+            "toponym_translit": "Buḥayraŧ al-Baḫtikān",
+            "coord_lat": "29.33096",
+            "toponym_search": "Buhayra al-Bakhtikan",
+            "region_code": "Faris",
+            "coord_lon": "53.97836",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.97836,
+            29.33096
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001248-000.json": {
+                "title": "قسطيليه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qasṭallaŧ",
+            "cornu_URI": "QASTALLA_038W379N_S",
+            "toponym_arabic": "قسطلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qastalla",
+            "toponym_arabic_other": "قسطلة",
+            "toponym_translit": "Qasṭallaŧ",
+            "coord_lat": "37.98847",
+            "toponym_search": "Qastalla",
+            "region_code": "Andalus",
+            "coord_lon": "-3.87676",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.87676,
+            37.98847
+        ]
+    }
+}

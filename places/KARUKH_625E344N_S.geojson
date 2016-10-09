@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karūḫ",
+            "cornu_URI": "KARUKH_625E344N_S",
+            "toponym_arabic": "كروخ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Karukh",
+            "toponym_arabic_other": "كروخ",
+            "toponym_translit": "Karūḫ",
+            "coord_lat": "34.47814",
+            "toponym_search": "Karukh",
+            "region_code": "Khurasan",
+            "coord_lon": "62.54651",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.54651,
+            34.47814
+        ]
+    }
+}

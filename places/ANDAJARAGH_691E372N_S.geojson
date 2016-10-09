@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Andāǧārāġ",
+            "cornu_URI": "ANDAJARAGH_691E372N_S",
+            "toponym_arabic": "أنداجاراغ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Andajaragh",
+            "toponym_arabic_other": "أنداجاراغ",
+            "toponym_translit": "Andāǧārāġ",
+            "coord_lat": "37.26841",
+            "toponym_search": "Andajaragh",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.17687",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.17687,
+            37.26841
+        ]
+    }
+}

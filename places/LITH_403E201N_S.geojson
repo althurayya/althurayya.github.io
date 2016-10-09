@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Līṯ",
+            "cornu_URI": "LITH_403E201N_S",
+            "toponym_arabic": "الليث",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Lith",
+            "toponym_arabic_other": "الليث",
+            "toponym_translit": "al-Līṯ",
+            "coord_lat": "20.18053",
+            "toponym_search": "al-Lith",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.33707",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.33707,
+            20.18053
+        ]
+    }
+}

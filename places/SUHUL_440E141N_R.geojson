@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000767-000.json": {
+                "title": "الساحل",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Suḥūl",
+            "cornu_URI": "SUHUL_440E141N_R",
+            "toponym_arabic": "السحول",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Suhul",
+            "toponym_arabic_other": "السحول",
+            "toponym_translit": "al-Suḥūl",
+            "coord_lat": "14.19370",
+            "toponym_search": "al-Suhul",
+            "region_code": "Yemen",
+            "coord_lon": "44.03504",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.03504,
+            14.1937
+        ]
+    }
+}

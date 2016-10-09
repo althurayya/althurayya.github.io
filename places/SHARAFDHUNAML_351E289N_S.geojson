@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šaraf Ḏū al-Naml, Šaraf al-Baʿl",
+            "cornu_URI": "SHARAFDHUNAML_351E289N_S",
+            "toponym_arabic": "شرف ذو النمل",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sharaf Dhu al-Naml, Sharaf al-Bal",
+            "toponym_arabic_other": "شرف ذو النمل، شرف البعل",
+            "toponym_translit": "Šaraf Ḏū al-Naml",
+            "coord_lat": "28.94260",
+            "toponym_search": "Sharaf Dhu al-Naml, Sharaf al-Bal",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.19783",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.19783,
+            28.9426
+        ]
+    }
+}

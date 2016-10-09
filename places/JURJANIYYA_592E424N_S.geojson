@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000471-000.json": {
+                "title": "الجعرانه",
+                "rate": 82,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000692-000.json": {
+                "title": "الرمانيه",
+                "rate": 82,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000439-000.json": {
+                "title": "الجرجانيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧurǧāniyyaŧ",
+            "cornu_URI": "JURJANIYYA_592E424N_S",
+            "toponym_arabic": "الجرجانية",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Jurjaniyya",
+            "toponym_arabic_other": "الجرجانية",
+            "toponym_translit": "al-Ǧurǧāniyyaŧ",
+            "coord_lat": "42.45632",
+            "toponym_search": "al-Jurjaniyya",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.21993",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.21993,
+            42.45632
+        ]
+    }
+}

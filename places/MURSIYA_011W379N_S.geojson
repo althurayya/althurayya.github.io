@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001411-000.json": {
+                "title": "مراسيا",
+                "rate": 73,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001415-000.json": {
+                "title": "مرسيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mursiyaŧ",
+            "cornu_URI": "MURSIYA_011W379N_S",
+            "toponym_arabic": "مرسية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mursiya",
+            "toponym_arabic_other": "مرسية",
+            "toponym_translit": "Mursiyaŧ",
+            "coord_lat": "37.99945",
+            "toponym_search": "Mursiya",
+            "region_code": "Andalus",
+            "coord_lon": "-1.11443",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.11443,
+            37.99945
+        ]
+    }
+}

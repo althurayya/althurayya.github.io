@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aǧġ",
+            "cornu_URI": "AJGH_569E375N_S",
+            "toponym_arabic": "أجغ",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Ajgh",
+            "toponym_arabic_other": "أجغ",
+            "toponym_translit": "Aǧġ",
+            "coord_lat": "37.51437",
+            "toponym_search": "Ajgh",
+            "region_code": "Daylam",
+            "coord_lon": "56.95205",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.95205,
+            37.51437
+        ]
+    }
+}

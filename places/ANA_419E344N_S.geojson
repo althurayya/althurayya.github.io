@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿĀnaŧ",
+            "cornu_URI": "ANA_419E344N_S",
+            "toponym_arabic": "عانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ana",
+            "toponym_arabic_other": "عانة",
+            "toponym_translit": "ʿĀnaŧ",
+            "coord_lat": "34.43481",
+            "toponym_search": "Ana",
+            "region_code": "Aqur",
+            "coord_lon": "41.95904",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.95904,
+            34.43481
+        ]
+    }
+}

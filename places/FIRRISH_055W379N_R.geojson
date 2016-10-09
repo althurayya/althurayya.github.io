@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001142-000.json": {
+                "title": "فريش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Firrīš, Qarsīs",
+            "cornu_URI": "FIRRISH_055W379N_R",
+            "toponym_arabic": "فريش",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Firrish, Qarsis",
+            "toponym_arabic_other": "فريش، قرسيس",
+            "toponym_translit": "Firrīš",
+            "coord_lat": "37.95728",
+            "toponym_search": "Firrish, Qarsis",
+            "region_code": "Andalus",
+            "coord_lon": "-5.58702",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.58702,
+            37.95728
+        ]
+    }
+}

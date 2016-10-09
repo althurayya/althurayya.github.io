@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Samīrāʾ",
+            "cornu_URI": "SAMIRA_420E264N_S",
+            "toponym_arabic": "سميراء",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Samira",
+            "toponym_arabic_other": "سميراء",
+            "toponym_translit": "Samīrāʾ",
+            "coord_lat": "26.41998",
+            "toponym_search": "Samira",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.03339",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.03339,
+            26.41998
+        ]
+    }
+}

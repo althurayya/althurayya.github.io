@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000360-000.json": {
+                "title": "ترنوط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tarnūṭ",
+            "cornu_URI": "TARNUT_308E304N_S",
+            "toponym_arabic": "ترنوط",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Tarnut",
+            "toponym_arabic_other": "ترنوط",
+            "toponym_translit": "Tarnūṭ",
+            "coord_lat": "30.40094",
+            "toponym_search": "Tarnut",
+            "region_code": "Egypt",
+            "coord_lon": "30.81078",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.81078,
+            30.40094
+        ]
+    }
+}

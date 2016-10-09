@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Farah",
+            "cornu_URI": "NAHRFARAH_617E320N_W",
+            "toponym_arabic": "نهر فره",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Farah",
+            "toponym_arabic_other": "نهر فره",
+            "toponym_translit": "Nahr Farah",
+            "coord_lat": "32.01209",
+            "toponym_search": "Nahr Farah",
+            "region_code": "Sijistan",
+            "coord_lon": "61.72109",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.72109,
+            32.01209
+        ]
+    }
+}

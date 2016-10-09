@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḥallaŧ Ṣurad",
+            "cornu_URI": "MAHALLASURAD_308E309N_S",
+            "toponym_arabic": "محلة صرد",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Mahalla Surad",
+            "toponym_arabic_other": "محلة صرد",
+            "toponym_translit": "Maḥallaŧ Ṣurad",
+            "coord_lat": "30.96963",
+            "toponym_search": "Mahalla Surad",
+            "region_code": "Egypt",
+            "coord_lon": "30.85120",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.8512,
+            30.96963
+        ]
+    }
+}

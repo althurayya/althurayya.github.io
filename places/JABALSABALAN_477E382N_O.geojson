@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Sabalān",
+            "cornu_URI": "JABALSABALAN_477E382N_O",
+            "toponym_arabic": "جبل سبلان",
+            "top_type_orig": "montagne",
+            "toponym_buckwalter": "Jabal Sabalan",
+            "toponym_arabic_other": "جبل سبلان",
+            "toponym_translit": "Ǧabal Sabalān",
+            "coord_lat": "38.21805",
+            "toponym_search": "Jabal Sabalan",
+            "region_code": "Rihab",
+            "coord_lon": "47.75372",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.75372,
+            38.21805
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000150-000.json": {
+                "title": "اسكر",
+                "rate": 89,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000181-000.json": {
+                "title": "اسكر",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sikr",
+            "cornu_URI": "SIKR_467E321N_S",
+            "toponym_arabic": "السكر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Sikr",
+            "toponym_arabic_other": "السكر",
+            "toponym_translit": "al-Sikr",
+            "coord_lat": "32.19607",
+            "toponym_search": "al-Sikr",
+            "region_code": "Iraq",
+            "coord_lon": "46.77226",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.77226,
+            32.19607
+        ]
+    }
+}

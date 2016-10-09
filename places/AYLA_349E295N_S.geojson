@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000761-000.json": {
+                "title": "زويله",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000193-000.json": {
+                "title": "ايله",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000127-000.json": {
+                "title": "اصيله",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aylaŧ, Waylaŧ",
+            "cornu_URI": "AYLA_349E295N_S",
+            "toponym_arabic": "أيلة",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Ayla, Wayla",
+            "toponym_arabic_other": "أيلة، ويلة",
+            "toponym_translit": "Aylaŧ",
+            "coord_lat": "29.57226",
+            "toponym_search": "Ayla, Wayla",
+            "region_code": "Sham",
+            "coord_lon": "34.94527",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.94527,
+            29.57226
+        ]
+    }
+}

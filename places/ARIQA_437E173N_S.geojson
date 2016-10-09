@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001048-000.json": {
+                "title": "عرقه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAriqaŧ",
+            "cornu_URI": "ARIQA_437E173N_S",
+            "toponym_arabic": "عرقة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ariqa",
+            "toponym_arabic_other": "عرقة",
+            "toponym_translit": "ʿAriqaŧ",
+            "coord_lat": "17.31174",
+            "toponym_search": "Ariqa",
+            "region_code": "Yemen",
+            "coord_lon": "43.71306",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.71306,
+            17.31174
+        ]
+    }
+}

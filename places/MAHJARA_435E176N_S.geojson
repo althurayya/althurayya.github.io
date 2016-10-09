@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Mahǧaraŧ",
+            "cornu_URI": "MAHJARA_435E176N_S",
+            "toponym_arabic": "المهجرة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Mahjara",
+            "toponym_arabic_other": "المهجرة",
+            "toponym_translit": "al-Mahǧaraŧ",
+            "coord_lat": "17.60657",
+            "toponym_search": "al-Mahjara",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "43.54039",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.54039,
+            17.60657
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000899-000.json": {
+                "title": "شهرستان",
+                "rate": 82,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāmašahristān",
+            "cornu_URI": "RAMASHAHRISTAN_612E303N_S",
+            "toponym_arabic": "رامشهرستان",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Ramashahristan",
+            "toponym_arabic_other": "رامشهرستان",
+            "toponym_translit": "Rāmašahristān",
+            "coord_lat": "30.32501",
+            "toponym_search": "Ramashahristan",
+            "region_code": "Sijistan",
+            "coord_lon": "61.20990",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.2099,
+            30.32501
+        ]
+    }
+}

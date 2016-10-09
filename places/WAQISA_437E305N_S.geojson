@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wāqisaŧ",
+            "cornu_URI": "WAQISA_437E305N_S",
+            "toponym_arabic": "واقسة",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "Waqisa",
+            "toponym_arabic_other": "واقسة",
+            "toponym_translit": "Wāqisaŧ",
+            "coord_lat": "30.55363",
+            "toponym_search": "Waqisa",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.77652",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.77652,
+            30.55363
+        ]
+    }
+}

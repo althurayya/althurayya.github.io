@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Manzil Bāšū",
+            "cornu_URI": "MANZILBASHU_109E367N_S",
+            "toponym_arabic": "منزل باشو",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Manzil Bashu",
+            "toponym_arabic_other": "منزل باشو",
+            "toponym_translit": "Manzil Bāšū",
+            "coord_lat": "36.72745",
+            "toponym_search": "Manzil Bashu",
+            "region_code": "Maghrib",
+            "coord_lon": "10.94269",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.94269,
+            36.72745
+        ]
+    }
+}

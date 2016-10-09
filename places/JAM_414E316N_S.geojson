@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧamʿ",
+            "cornu_URI": "JAM_414E316N_S",
+            "toponym_arabic": "الجمع",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Jam",
+            "toponym_arabic_other": "الجمع",
+            "toponym_translit": "al-Ǧamʿ",
+            "coord_lat": "31.67372",
+            "toponym_search": "al-Jam",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "41.46573",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.46573,
+            31.67372
+        ]
+    }
+}

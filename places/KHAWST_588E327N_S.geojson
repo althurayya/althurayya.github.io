@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawst",
+            "cornu_URI": "KHAWST_588E327N_S",
+            "toponym_arabic": "خوست",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Khawst",
+            "toponym_arabic_other": "خوست",
+            "toponym_translit": "Ḫawst",
+            "coord_lat": "32.77833",
+            "toponym_search": "Khawst",
+            "region_code": "Mafaza",
+            "coord_lon": "58.87551",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.87551,
+            32.77833
+        ]
+    }
+}

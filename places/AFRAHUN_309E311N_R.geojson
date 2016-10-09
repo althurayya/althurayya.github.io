@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Afrāḥūn",
+            "cornu_URI": "AFRAHUN_309E311N_R",
+            "toponym_arabic": "الأفراحون",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Afrahun",
+            "toponym_arabic_other": "الأفراحون",
+            "toponym_translit": "al-Afrāḥūn",
+            "coord_lat": "31.19144",
+            "toponym_search": "al-Afrahun",
+            "region_code": "Egypt",
+            "coord_lon": "30.91239",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.91239,
+            31.19144
+        ]
+    }
+}

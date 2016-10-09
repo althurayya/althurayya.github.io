@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000266-000.json": {
+                "title": "بلخشان",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balḫān",
+            "cornu_URI": "BALKHAN_660E375N_S",
+            "toponym_arabic": "بلخان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Balkhan",
+            "toponym_arabic_other": "بلخان",
+            "toponym_translit": "Balḫān",
+            "coord_lat": "37.51897",
+            "toponym_search": "Balkhan",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.00329",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.00329,
+            37.51897
+        ]
+    }
+}

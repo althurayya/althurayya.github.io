@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001322-000.json": {
+                "title": "كثه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Yazd, Kaṯaŧ",
+            "cornu_URI": "YAZD_543E319N_R",
+            "toponym_arabic": "يزد",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Yazd, Katha",
+            "toponym_arabic_other": "يزد، كثة",
+            "toponym_translit": "Yazd",
+            "coord_lat": "31.90975",
+            "toponym_search": "Yazd, Katha",
+            "region_code": "Faris",
+            "coord_lon": "54.34286",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.34286,
+            31.90975
+        ]
+    }
+}

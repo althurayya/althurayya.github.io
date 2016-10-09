@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fallūǧaŧ",
+            "cornu_URI": "FALLUJA_443E325N_S",
+            "toponym_arabic": "فلوجة",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Falluja",
+            "toponym_arabic_other": "فلوجة",
+            "toponym_translit": "Fallūǧaŧ",
+            "coord_lat": "32.55902",
+            "toponym_search": "Falluja",
+            "region_code": "Iraq",
+            "coord_lon": "44.30760",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.3076,
+            32.55902
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šalanbaŧ",
+            "cornu_URI": "SHALANBA_520E356N_S",
+            "toponym_arabic": "شلنبة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shalanba",
+            "toponym_arabic_other": "شلنبة",
+            "toponym_translit": "Šalanbaŧ",
+            "coord_lat": "35.68449",
+            "toponym_search": "Shalanba",
+            "region_code": "Daylam",
+            "coord_lon": "52.04723",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.04723,
+            35.68449
+        ]
+    }
+}

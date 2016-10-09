@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭawlaqā",
+            "cornu_URI": "TAWLAQA_053E346N_S",
+            "toponym_arabic": "طولقا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tawlaqa",
+            "toponym_arabic_other": "طولقا",
+            "toponym_translit": "Ṭawlaqā",
+            "coord_lat": "34.69495",
+            "toponym_search": "Tawlaqa",
+            "region_code": "Maghrib",
+            "coord_lon": "5.38113",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.38113,
+            34.69495
+        ]
+    }
+}

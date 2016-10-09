@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000589-000.json": {
+                "title": "الدامغان",
+                "rate": 93,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Damġān",
+            "cornu_URI": "DAMGHAN_543E361N_S",
+            "toponym_arabic": "الدمغان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Damghan",
+            "toponym_arabic_other": "الدمغان",
+            "toponym_translit": "al-Damġān",
+            "coord_lat": "36.13093",
+            "toponym_search": "al-Damghan",
+            "region_code": "Daylam",
+            "coord_lon": "54.37503",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.37503,
+            36.13093
+        ]
+    }
+}

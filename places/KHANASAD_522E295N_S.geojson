@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫān al-Asad",
+            "cornu_URI": "KHANASAD_522E295N_S",
+            "toponym_arabic": "خان الأسد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khan al-Asad",
+            "toponym_arabic_other": "خان الأسد",
+            "toponym_translit": "Ḫān al-Asad",
+            "coord_lat": "29.56820",
+            "toponym_search": "Khan al-Asad",
+            "region_code": "Faris",
+            "coord_lon": "52.22036",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.22036,
+            29.5682
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000805-000.json": {
+                "title": "سرقوسه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000804-000.json": {
+                "title": "سرقسطه",
+                "rate": 92,
+                "status": "y"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Saraqūsaŧ, Saraqūsṭaŧ",
+            "cornu_URI": "SARAQUSA_009W416N_R",
+            "toponym_arabic": "سرقوسة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Saraqusa, Saraqusta",
+            "toponym_arabic_other": "سرقوسة، سرقوسطة",
+            "toponym_translit": "Saraqūsaŧ",
+            "coord_lat": "41.63368",
+            "toponym_search": "Saraqusa, Saraqusta",
+            "region_code": "Andalus",
+            "coord_lon": "-0.92920",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.9292,
+            41.63368
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001420-000.json": {
+                "title": "مران",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001433-000.json": {
+                "title": "مكران",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mukrān",
+            "cornu_URI": "MUKRAN_625E265N_R",
+            "toponym_arabic": "مكران",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Mukran",
+            "toponym_arabic_other": "مكران",
+            "toponym_translit": "Mukrān",
+            "coord_lat": "26.52688",
+            "toponym_search": "Mukran",
+            "region_code": "Sind",
+            "coord_lon": "62.51067",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.51067,
+            26.52688
+        ]
+    }
+}

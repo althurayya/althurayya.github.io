@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Walīlaŧ",
+            "cornu_URI": "WALILA_056W340N_S",
+            "toponym_arabic": "وليلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Walila",
+            "toponym_arabic_other": "وليلة",
+            "toponym_translit": "Walīlaŧ",
+            "coord_lat": "34.09883",
+            "toponym_search": "Walila",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.60437",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.60437,
+            34.09883
+        ]
+    }
+}

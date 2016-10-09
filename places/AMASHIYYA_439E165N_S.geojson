@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aʿmašiyyaŧ",
+            "cornu_URI": "AMASHIYYA_439E165N_S",
+            "toponym_arabic": "الأعمشية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Amashiyya",
+            "toponym_arabic_other": "الأعمشية",
+            "toponym_translit": "al-Aʿmašiyyaŧ",
+            "coord_lat": "16.56721",
+            "toponym_search": "al-Amashiyya",
+            "region_code": "Yemen",
+            "coord_lon": "43.95032",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.95032,
+            16.56721
+        ]
+    }
+}

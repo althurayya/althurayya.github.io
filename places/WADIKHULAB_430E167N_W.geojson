@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī Ḫulab",
+            "cornu_URI": "WADIKHULAB_430E167N_W",
+            "toponym_arabic": "وادي خلب",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi Khulab",
+            "toponym_arabic_other": "وادي خلب",
+            "toponym_translit": "Wādī Ḫulab",
+            "coord_lat": "16.70128",
+            "toponym_search": "Wadi Khulab",
+            "region_code": "Yemen",
+            "coord_lon": "43.00170",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.0017,
+            16.70128
+        ]
+    }
+}

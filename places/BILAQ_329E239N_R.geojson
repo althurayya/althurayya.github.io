@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bilāq, Ablāq",
+            "cornu_URI": "BILAQ_329E239N_R",
+            "toponym_arabic": "بلاق",
+            "top_type_orig": "ile",
+            "toponym_buckwalter": "Bilaq, Ablaq",
+            "toponym_arabic_other": "بلاق، أبلاق",
+            "toponym_translit": "Bilāq",
+            "coord_lat": "23.99294",
+            "toponym_search": "Bilaq, Ablaq",
+            "region_code": "Egypt",
+            "coord_lon": "32.94356",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.94356,
+            23.99294
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000901-000.json": {
+                "title": "شيروان",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Širwān, Šarwān",
+            "cornu_URI": "SHIRWAN_487E411N_R",
+            "toponym_arabic": "شروان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Shirwan, Sharwan",
+            "toponym_arabic_other": "شروان، شروان",
+            "toponym_translit": "Širwān",
+            "coord_lat": "41.11585",
+            "toponym_search": "Shirwan, Sharwan",
+            "region_code": "Rihab",
+            "coord_lon": "48.75339",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.75339,
+            41.11585
+        ]
+    }
+}

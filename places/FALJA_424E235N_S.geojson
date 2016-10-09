@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Falǧaŧ",
+            "cornu_URI": "FALJA_424E235N_S",
+            "toponym_arabic": "الفلجة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Falja",
+            "toponym_arabic_other": "الفلجة",
+            "toponym_translit": "al-Falǧaŧ",
+            "coord_lat": "23.54101",
+            "toponym_search": "al-Falja",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "42.45066",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.45066,
+            23.54101
+        ]
+    }
+}

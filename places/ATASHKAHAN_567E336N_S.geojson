@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ataškahān",
+            "cornu_URI": "ATASHKAHAN_567E336N_S",
+            "toponym_arabic": "أتشكهان",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Atashkahan",
+            "toponym_arabic_other": "أتشكهان",
+            "toponym_translit": "Ataškahān",
+            "coord_lat": "33.67155",
+            "toponym_search": "Atashkahan",
+            "region_code": "Mafaza",
+            "coord_lon": "56.78965",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.78965,
+            33.67155
+        ]
+    }
+}

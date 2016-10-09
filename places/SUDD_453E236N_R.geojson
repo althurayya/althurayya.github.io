@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000783-000.json": {
+                "title": "السد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Sudd",
+            "cornu_URI": "SUDD_453E236N_R",
+            "toponym_arabic": "السد",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Sudd",
+            "toponym_arabic_other": "السد",
+            "toponym_translit": "al-Sudd",
+            "coord_lat": "23.64065",
+            "toponym_search": "al-Sudd",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "45.37745",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.37745,
+            23.64065
+        ]
+    }
+}

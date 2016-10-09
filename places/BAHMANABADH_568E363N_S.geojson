@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bahmanābāḏ",
+            "cornu_URI": "BAHMANABADH_568E363N_S",
+            "toponym_arabic": "بهمناباذ",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Bahmanabadh",
+            "toponym_arabic_other": "بهمناباذ",
+            "toponym_translit": "Bahmanābāḏ",
+            "coord_lat": "36.32897",
+            "toponym_search": "Bahmanabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "56.83212",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.83212,
+            36.32897
+        ]
+    }
+}

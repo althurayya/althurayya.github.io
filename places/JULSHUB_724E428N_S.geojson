@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧūl Šūb",
+            "cornu_URI": "JULSHUB_724E428N_S",
+            "toponym_arabic": "جول شوب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jul Shub",
+            "toponym_arabic_other": "جول شوب",
+            "toponym_translit": "Ǧūl Šūb",
+            "coord_lat": "42.89268",
+            "toponym_search": "Jul Shub",
+            "region_code": "Transoxiana",
+            "coord_lon": "72.49720",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.4972,
+            42.89268
+        ]
+    }
+}

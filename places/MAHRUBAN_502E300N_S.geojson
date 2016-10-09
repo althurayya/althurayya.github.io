@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001493-000.json": {
+                "title": "مهران",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mahrūbān",
+            "cornu_URI": "MAHRUBAN_502E300N_S",
+            "toponym_arabic": "مهروبان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mahruban",
+            "toponym_arabic_other": "مهروبان",
+            "toponym_translit": "Mahrūbān",
+            "coord_lat": "30.06436",
+            "toponym_search": "Mahruban",
+            "region_code": "Faris",
+            "coord_lon": "50.21436",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.21436,
+            30.06436
+        ]
+    }
+}

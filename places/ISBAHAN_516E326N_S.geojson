@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001658-000.json": {
+                "title": "اليهوديه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000128-000.json": {
+                "title": "اصبهان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Iṣbahān, Iṣfahān, al-Yahūdiyyaŧ",
+            "cornu_URI": "ISBAHAN_516E326N_S",
+            "toponym_arabic": "إصبهان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Isbahan, Isfahan, al-Yahudiyya",
+            "toponym_arabic_other": "إصبهان، إصفهان، اليهودية",
+            "toponym_translit": "Iṣbahān",
+            "coord_lat": "32.66855",
+            "toponym_search": "Isbahan, Isfahan, al-Yahudiyya",
+            "region_code": "Jibal",
+            "coord_lon": "51.65000",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.65,
+            32.66855
+        ]
+    }
+}

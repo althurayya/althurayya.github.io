@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rabinǧan, Arbinǧan",
+            "cornu_URI": "RABINJAN_663E398N_S",
+            "toponym_arabic": "ربنجن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rabinjan, Arbinjan",
+            "toponym_arabic_other": "ربنجن، أربنجن",
+            "toponym_translit": "Rabinǧan",
+            "coord_lat": "39.86785",
+            "toponym_search": "Rabinjan, Arbinjan",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.37226",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.37226,
+            39.86785
+        ]
+    }
+}

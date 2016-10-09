@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nūzwār",
+            "cornu_URI": "NUZWAR_593E420N_S",
+            "toponym_arabic": "نوزوار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nuzwar",
+            "toponym_arabic_other": "نوزوار",
+            "toponym_translit": "Nūzwār",
+            "coord_lat": "42.00196",
+            "toponym_search": "Nuzwar",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.39815",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.39815,
+            42.00196
+        ]
+    }
+}

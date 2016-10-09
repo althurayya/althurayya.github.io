@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fam Nahr Saʿīd",
+            "cornu_URI": "FAMNAHRSAID_401E353N_S",
+            "toponym_arabic": "فم نهر سعيد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Fam Nahr Said",
+            "toponym_arabic_other": "فم نهر سعيد",
+            "toponym_translit": "Fam Nahr Saʿīd",
+            "coord_lat": "35.32381",
+            "toponym_search": "Fam Nahr Said",
+            "region_code": "Aqur",
+            "coord_lon": "40.13133",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.13133,
+            35.32381
+        ]
+    }
+}

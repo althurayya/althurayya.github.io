@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Salūmak",
+            "cornu_URI": "SALUMAK_599E346N_S",
+            "toponym_arabic": "سلومك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Salumak",
+            "toponym_arabic_other": "سلومك",
+            "toponym_translit": "Salūmak",
+            "coord_lat": "34.64655",
+            "toponym_search": "Salumak",
+            "region_code": "Khurasan",
+            "coord_lon": "59.98232",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.98232,
+            34.64655
+        ]
+    }
+}

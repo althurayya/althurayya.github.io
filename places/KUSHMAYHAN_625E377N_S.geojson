@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kušmayhan, Kušmāhan",
+            "cornu_URI": "KUSHMAYHAN_625E377N_S",
+            "toponym_arabic": "كشميهن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kushmayhan, Kushmahan",
+            "toponym_arabic_other": "كشميهن، كشماهن",
+            "toponym_translit": "Kušmayhan",
+            "coord_lat": "37.78994",
+            "toponym_search": "Kushmayhan, Kushmahan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.59986",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.59986,
+            37.78994
+        ]
+    }
+}

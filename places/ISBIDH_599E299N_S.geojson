@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000157-000.json": {
+                "title": "اسفي",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001154-000.json": {
+                "title": "فيد",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Isbīḏ, Isfīd, Sabīḏ, Safīd, Sabīǧ, Sanīǧ",
+            "cornu_URI": "ISBIDH_599E299N_S",
+            "toponym_arabic": "إسبيذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Isbidh, Isfid, Sabidh, Safid, Sabij, Sanij",
+            "toponym_arabic_other": "إسبيذ، إسفيد، سبيذ، سفيد، سبيج، سنيج",
+            "toponym_translit": "Isbīḏ",
+            "coord_lat": "29.91949",
+            "toponym_search": "Isbidh, Isfid, Sabidh, Safid, Sabij, Sanij",
+            "region_code": "Mafaza",
+            "coord_lon": "59.96927",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.96927,
+            29.91949
+        ]
+    }
+}

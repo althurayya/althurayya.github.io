@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ṭālaqānrūḏ",
+            "cornu_URI": "NAHRTALAQANRUDH_501E365N_W",
+            "toponym_arabic": "نهر طالقانروذ",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Talaqanrudh",
+            "toponym_arabic_other": "نهر طالقانروذ",
+            "toponym_translit": "Nahr Ṭālaqānrūḏ",
+            "coord_lat": "36.52902",
+            "toponym_search": "Nahr Talaqanrudh",
+            "region_code": "Daylam",
+            "coord_lon": "50.19216",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.19216,
+            36.52902
+        ]
+    }
+}

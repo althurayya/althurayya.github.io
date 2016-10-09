@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wazārmand, Ūzārmand",
+            "cornu_URI": "WAZARMAND_597E418N_S",
+            "toponym_arabic": "وزارمند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wazarmand, Uzarmand",
+            "toponym_arabic_other": "وزارمند، أوزارمند",
+            "toponym_translit": "Wazārmand",
+            "coord_lat": "41.86361",
+            "toponym_search": "Wazarmand, Uzarmand",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.74298",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.74298,
+            41.86361
+        ]
+    }
+}

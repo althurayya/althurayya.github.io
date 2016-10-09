@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balūr, Bulūr",
+            "cornu_URI": "BALUR_520E358N_S",
+            "toponym_arabic": "بلور",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Balur, Bulur",
+            "toponym_arabic_other": "بلور، بلور",
+            "toponym_translit": "Balūr",
+            "coord_lat": "35.81911",
+            "toponym_search": "Balur, Bulur",
+            "region_code": "Daylam",
+            "coord_lon": "52.06670",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.0667,
+            35.81911
+        ]
+    }
+}

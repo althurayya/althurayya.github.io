@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abšāyaŧ",
+            "cornu_URI": "ABSHAYA_317E264N_S",
+            "toponym_arabic": "أبشاية",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Abshaya",
+            "toponym_arabic_other": "أبشاية",
+            "toponym_translit": "Abšāyaŧ",
+            "coord_lat": "26.47449",
+            "toponym_search": "Abshaya",
+            "region_code": "Egypt",
+            "coord_lon": "31.79880",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.7988,
+            26.47449
+        ]
+    }
+}

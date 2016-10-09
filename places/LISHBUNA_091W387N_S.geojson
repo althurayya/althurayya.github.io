@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000171-000.json": {
+                "title": "اشبونه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Lišbūnaŧ",
+            "cornu_URI": "LISHBUNA_091W387N_S",
+            "toponym_arabic": "لشبونة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Lishbuna",
+            "toponym_arabic_other": "لشبونة",
+            "toponym_translit": "Lišbūnaŧ",
+            "coord_lat": "38.76878",
+            "toponym_search": "Lishbuna",
+            "region_code": "Andalus",
+            "coord_lon": "-9.14514",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.14514,
+            38.76878
+        ]
+    }
+}

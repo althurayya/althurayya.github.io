@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal al-Lukkām",
+            "cornu_URI": "JABALLUKKAM_360E363N_O",
+            "toponym_arabic": "جبل اللكام",
+            "top_type_orig": "montagne",
+            "toponym_buckwalter": "Jabal al-Lukkam",
+            "toponym_arabic_other": "جبل اللكام",
+            "toponym_translit": "Ǧabal al-Lukkām",
+            "coord_lat": "36.33966",
+            "toponym_search": "Jabal al-Lukkam",
+            "region_code": "Sham",
+            "coord_lon": "36.05096",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.05096,
+            36.33966
+        ]
+    }
+}

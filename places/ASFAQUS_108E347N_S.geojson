@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asfāqus",
+            "cornu_URI": "ASFAQUS_108E347N_S",
+            "toponym_arabic": "أسفاقس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asfaqus",
+            "toponym_arabic_other": "أسفاقس",
+            "toponym_translit": "Asfāqus",
+            "coord_lat": "34.77411",
+            "toponym_search": "Asfaqus",
+            "region_code": "Maghrib",
+            "coord_lon": "10.80190",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.8019,
+            34.77411
+        ]
+    }
+}

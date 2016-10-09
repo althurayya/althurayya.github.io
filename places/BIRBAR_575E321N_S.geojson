@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biʾr Bar, Ǧāh Bar",
+            "cornu_URI": "BIRBAR_575E321N_S",
+            "toponym_arabic": "بئر بر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bir Bar, Jah Bar",
+            "toponym_arabic_other": "بئر بر، جاه بر",
+            "toponym_translit": "Biʾr Bar",
+            "coord_lat": "32.13350",
+            "toponym_search": "Bir Bar, Jah Bar",
+            "region_code": "Mafaza",
+            "coord_lon": "57.50413",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.50413,
+            32.1335
+        ]
+    }
+}

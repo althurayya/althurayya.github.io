@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧārbāyaŧ",
+            "cornu_URI": "JARBAYA_696E353N_S",
+            "toponym_arabic": "جارباية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jarbaya",
+            "toponym_arabic_other": "جارباية",
+            "toponym_translit": "Ǧārbāyaŧ",
+            "coord_lat": "35.39907",
+            "toponym_search": "Jarbaya",
+            "region_code": "Khurasan",
+            "coord_lon": "69.62448",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.62448,
+            35.39907
+        ]
+    }
+}

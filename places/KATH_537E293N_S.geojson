@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kaṯ",
+            "cornu_URI": "KATH_537E293N_S",
+            "toponym_arabic": "كث",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kath",
+            "toponym_arabic_other": "كث",
+            "toponym_translit": "Kaṯ",
+            "coord_lat": "29.36324",
+            "toponym_search": "Kath",
+            "region_code": "Faris",
+            "coord_lon": "53.70323",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.70323,
+            29.36324
+        ]
+    }
+}

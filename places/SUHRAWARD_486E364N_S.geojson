@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000843-000.json": {
+                "title": "سهرورد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Suhraward",
+            "cornu_URI": "SUHRAWARD_486E364N_S",
+            "toponym_arabic": "سهرورد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Suhraward",
+            "toponym_arabic_other": "سهرورد",
+            "toponym_translit": "Suhraward",
+            "coord_lat": "36.45828",
+            "toponym_search": "Suhraward",
+            "region_code": "Jibal",
+            "coord_lon": "48.63061",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.63061,
+            36.45828
+        ]
+    }
+}

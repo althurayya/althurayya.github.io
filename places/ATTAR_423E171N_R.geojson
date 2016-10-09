@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAṭṭār",
+            "cornu_URI": "ATTAR_423E171N_R",
+            "toponym_arabic": "عطار",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Attar",
+            "toponym_arabic_other": "عطار",
+            "toponym_translit": "ʿAṭṭār",
+            "coord_lat": "17.18513",
+            "toponym_search": "Attar",
+            "region_code": "Yemen",
+            "coord_lon": "42.39306",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.39306,
+            17.18513
+        ]
+    }
+}

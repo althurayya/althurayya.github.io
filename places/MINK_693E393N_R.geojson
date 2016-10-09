@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mīnk",
+            "cornu_URI": "MINK_693E393N_R",
+            "toponym_arabic": "مينك",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Mink",
+            "toponym_arabic_other": "مينك",
+            "toponym_translit": "Mīnk",
+            "coord_lat": "39.30172",
+            "toponym_search": "Mink",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.38051",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.38051,
+            39.30172
+        ]
+    }
+}

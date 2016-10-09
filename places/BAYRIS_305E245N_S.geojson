@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bayrīs",
+            "cornu_URI": "BAYRIS_305E245N_S",
+            "toponym_arabic": "بيريس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bayris",
+            "toponym_arabic_other": "بيريس",
+            "toponym_translit": "Bayrīs",
+            "coord_lat": "24.59152",
+            "toponym_search": "Bayris",
+            "region_code": "Egypt",
+            "coord_lon": "30.50461",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.50461,
+            24.59152
+        ]
+    }
+}

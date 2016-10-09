@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000883-000.json": {
+                "title": "شنتره",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000886-000.json": {
+                "title": "شنتمريه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šantaraŧ",
+            "cornu_URI": "SHANTARA_093W388N_S",
+            "toponym_arabic": "شنترة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Shantara",
+            "toponym_arabic_other": "شنترة",
+            "toponym_translit": "Šantaraŧ",
+            "coord_lat": "38.80838",
+            "toponym_search": "Shantara",
+            "region_code": "Andalus",
+            "coord_lon": "-9.37353",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.37353,
+            38.80838
+        ]
+    }
+}

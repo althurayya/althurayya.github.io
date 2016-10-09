@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṯuǧǧaŧ",
+            "cornu_URI": "THUJJA_431E181N_S",
+            "toponym_arabic": "الثجة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Thujja",
+            "toponym_arabic_other": "الثجة",
+            "toponym_translit": "al-Ṯuǧǧaŧ",
+            "coord_lat": "18.17110",
+            "toponym_search": "al-Thujja",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "43.19302",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.19302,
+            18.1711
+        ]
+    }
+}

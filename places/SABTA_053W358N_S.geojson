@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000775-000.json": {
+                "title": "سبته",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sabtaŧ",
+            "cornu_URI": "SABTA_053W358N_S",
+            "toponym_arabic": "سبتة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sabta",
+            "toponym_arabic_other": "سبتة",
+            "toponym_translit": "Sabtaŧ",
+            "coord_lat": "35.86107",
+            "toponym_search": "Sabta",
+            "region_code": "Maghrib",
+            "coord_lon": "-5.33338",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.33338,
+            35.86107
+        ]
+    }
+}

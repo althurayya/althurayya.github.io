@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hū",
+            "cornu_URI": "HU_322E260N_S",
+            "toponym_arabic": "هو",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hu",
+            "toponym_arabic_other": "هو",
+            "toponym_translit": "Hū",
+            "coord_lat": "26.02153",
+            "toponym_search": "Hu",
+            "region_code": "Egypt",
+            "coord_lon": "32.29854",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.29854,
+            26.02153
+        ]
+    }
+}

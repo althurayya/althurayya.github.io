@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Asrāb",
+            "cornu_URI": "ASRAB_637E358N_S",
+            "toponym_arabic": "الأسراب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Asrab",
+            "toponym_arabic_other": "الأسراب",
+            "toponym_translit": "al-Asrāb",
+            "coord_lat": "35.81599",
+            "toponym_search": "al-Asrab",
+            "region_code": "Khurasan",
+            "coord_lon": "63.76323",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.76323,
+            35.81599
+        ]
+    }
+}

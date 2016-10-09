@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000063-000.json": {
+                "title": "الاردن",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Urdunn",
+            "cornu_URI": "URDUNN_355E321N_W",
+            "toponym_arabic": "الأردن",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "al-Urdunn",
+            "toponym_arabic_other": "الأردن",
+            "toponym_translit": "al-Urdunn",
+            "coord_lat": "32.15774",
+            "toponym_search": "al-Urdunn",
+            "region_code": "Sham",
+            "coord_lon": "35.56271",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.56271,
+            32.15774
+        ]
+    }
+}

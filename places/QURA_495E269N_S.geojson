@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qurá",
+            "cornu_URI": "QURA_495E269N_S",
+            "toponym_arabic": "القرى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qura",
+            "toponym_arabic_other": "القرى",
+            "toponym_translit": "al-Qurá",
+            "coord_lat": "26.90449",
+            "toponym_search": "al-Qura",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "49.50023",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.50023,
+            26.90449
+        ]
+    }
+}

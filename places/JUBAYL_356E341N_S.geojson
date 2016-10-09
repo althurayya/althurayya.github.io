@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧubayl",
+            "cornu_URI": "JUBAYL_356E341N_S",
+            "toponym_arabic": "جبيل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jubayl",
+            "toponym_arabic_other": "جبيل",
+            "toponym_translit": "Ǧubayl",
+            "coord_lat": "34.12764",
+            "toponym_search": "Jubayl",
+            "region_code": "Sham",
+            "coord_lon": "35.65206",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.65206,
+            34.12764
+        ]
+    }
+}

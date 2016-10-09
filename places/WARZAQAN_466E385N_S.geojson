@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Warzaqān",
+            "cornu_URI": "WARZAQAN_466E385N_S",
+            "toponym_arabic": "ورزقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Warzaqan",
+            "toponym_arabic_other": "ورزقان",
+            "toponym_translit": "Warzaqān",
+            "coord_lat": "38.56125",
+            "toponym_search": "Warzaqan",
+            "region_code": "Rihab",
+            "coord_lon": "46.66017",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.66017,
+            38.56125
+        ]
+    }
+}

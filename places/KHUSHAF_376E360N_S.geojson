@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫušāf",
+            "cornu_URI": "KHUSHAF_376E360N_S",
+            "toponym_arabic": "خشاف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khushaf",
+            "toponym_arabic_other": "خشاف",
+            "toponym_translit": "Ḫušāf",
+            "coord_lat": "36.08630",
+            "toponym_search": "Khushaf",
+            "region_code": "Sham",
+            "coord_lon": "37.69991",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.69991,
+            36.0863
+        ]
+    }
+}

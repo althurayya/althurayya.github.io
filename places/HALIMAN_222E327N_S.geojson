@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥalīmān, Ǧubb Ḥalīmān",
+            "cornu_URI": "HALIMAN_222E327N_S",
+            "toponym_arabic": "حليمان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Haliman, Jubb Haliman",
+            "toponym_arabic_other": "حليمان، جب حليمان",
+            "toponym_translit": "Ḥalīmān",
+            "coord_lat": "32.77902",
+            "toponym_search": "Haliman, Jubb Haliman",
+            "region_code": "Barqa",
+            "coord_lon": "22.20300",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.203,
+            32.77902
+        ]
+    }
+}

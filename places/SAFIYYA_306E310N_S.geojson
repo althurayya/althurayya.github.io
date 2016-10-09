@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000906-000.json": {
+                "title": "الصافيه 1",
+                "rate": 88,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣāfiyyaŧ",
+            "cornu_URI": "SAFIYYA_306E310N_S",
+            "toponym_arabic": "الصافية",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Safiyya",
+            "toponym_arabic_other": "الصافية",
+            "toponym_translit": "al-Ṣāfiyyaŧ",
+            "coord_lat": "31.04306",
+            "toponym_search": "al-Safiyya",
+            "region_code": "Egypt",
+            "coord_lon": "30.69950",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.6995,
+            31.04306
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000558-000.json": {
+                "title": "خركان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001280-000.json": {
+                "title": "الكرج",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000672-000.json": {
+                "title": "الران",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000071-000.json": {
+                "title": "ارجان",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000683-000.json": {
+                "title": "الرجان",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarkān, Ḫarkān, Karkān, al-Karǧān",
+            "cornu_URI": "JARKAN_517E300N_S",
+            "toponym_arabic": "جركان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Jarkan, Kharkan, Karkan, al-Karjan",
+            "toponym_arabic_other": "جركان، خركان، كركان، الكرجان",
+            "toponym_translit": "Ǧarkān",
+            "coord_lat": "30.09815",
+            "toponym_search": "Jarkan, Kharkan, Karkan, al-Karjan",
+            "region_code": "Faris",
+            "coord_lon": "51.78402",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.78402,
+            30.09815
+        ]
+    }
+}

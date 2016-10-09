@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Waḫḫān",
+            "cornu_URI": "WAKHKHAN_723E370N_R",
+            "toponym_arabic": "وخان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Wakhkhan",
+            "toponym_arabic_other": "وخان",
+            "toponym_translit": "Waḫḫān",
+            "coord_lat": "37.03915",
+            "toponym_search": "Wakhkhan",
+            "region_code": "Khurasan",
+            "coord_lon": "72.31013",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.31013,
+            37.03915
+        ]
+    }
+}

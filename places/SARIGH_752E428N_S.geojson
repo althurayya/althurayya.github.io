@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000799-000.json": {
+                "title": "سرغ",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sāriġ",
+            "cornu_URI": "SARIGH_752E428N_S",
+            "toponym_arabic": "سارغ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sarigh",
+            "toponym_arabic_other": "سارغ",
+            "toponym_translit": "Sāriġ",
+            "coord_lat": "42.80107",
+            "toponym_search": "Sarigh",
+            "region_code": "Transoxiana",
+            "coord_lon": "75.26356",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.26356,
+            42.80107
+        ]
+    }
+}

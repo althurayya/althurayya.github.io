@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kamīn",
+            "cornu_URI": "KAMIN_531E301N_S",
+            "toponym_arabic": "كمين",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Kamin",
+            "toponym_arabic_other": "كمين",
+            "toponym_translit": "Kamīn",
+            "coord_lat": "30.17019",
+            "toponym_search": "Kamin",
+            "region_code": "Faris",
+            "coord_lon": "53.16106",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.16106,
+            30.17019
+        ]
+    }
+}

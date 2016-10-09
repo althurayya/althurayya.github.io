@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kabūzanǧakaṯ, Kabūḏanǧakaṯ",
+            "cornu_URI": "KABUZANJAKATH_671E397N_S",
+            "toponym_arabic": "كبوزنجكث",
+            "top_type_orig": "canton/cheflieu",
+            "toponym_buckwalter": "Kabuzanjakath, Kabudhanjakath",
+            "toponym_arabic_other": "كبوزنجكث، كبوذنجكث",
+            "toponym_translit": "Kabūzanǧakaṯ",
+            "coord_lat": "39.70827",
+            "toponym_search": "Kabuzanjakath, Kabudhanjakath",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.17070",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.1707,
+            39.70827
+        ]
+    }
+}

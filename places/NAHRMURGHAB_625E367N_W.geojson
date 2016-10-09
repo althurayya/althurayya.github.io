@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Murġab",
+            "cornu_URI": "NAHRMURGHAB_625E367N_W",
+            "toponym_arabic": "نهر مرغب",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Murghab",
+            "toponym_arabic_other": "نهر مرغب",
+            "toponym_translit": "Nahr Murġab",
+            "coord_lat": "36.73407",
+            "toponym_search": "Nahr Murghab",
+            "region_code": "Khurasan",
+            "coord_lon": "62.52603",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.52603,
+            36.73407
+        ]
+    }
+}

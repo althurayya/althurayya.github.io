@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr al-Ḫābūr",
+            "cornu_URI": "NAHRKHABUR_407E355N_W",
+            "toponym_arabic": "نهر الخابور",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr al-Khabur",
+            "toponym_arabic_other": "نهر الخابور",
+            "toponym_translit": "Nahr al-Ḫābūr",
+            "coord_lat": "35.50335",
+            "toponym_search": "Nahr al-Khabur",
+            "region_code": "Aqur",
+            "coord_lon": "40.73502",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.73502,
+            35.50335
+        ]
+    }
+}

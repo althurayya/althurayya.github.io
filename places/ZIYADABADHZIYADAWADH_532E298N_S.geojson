@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ZiyādābāḏZiyādāwāḏ",
+            "cornu_URI": "ZIYADABADHZIYADAWADH_532E298N_S",
+            "toponym_arabic": "زياداباذزياداواذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "ZiyadabadhZiyadawadh",
+            "toponym_arabic_other": "زياداباذزياداواذ",
+            "toponym_translit": "ZiyādābāḏZiyādāwāḏ",
+            "coord_lat": "29.83708",
+            "toponym_search": "ZiyadabadhZiyadawadh",
+            "region_code": "Faris",
+            "coord_lon": "53.22441",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.22441,
+            29.83708
+        ]
+    }
+}

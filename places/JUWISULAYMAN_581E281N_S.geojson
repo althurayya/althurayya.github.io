@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuwī Sulaymān",
+            "cornu_URI": "JUWISULAYMAN_581E281N_S",
+            "toponym_arabic": "جوي سليمان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Juwi Sulayman",
+            "toponym_arabic_other": "جوي سليمان",
+            "toponym_translit": "Ǧuwī Sulaymān",
+            "coord_lat": "28.12851",
+            "toponym_search": "Juwi Sulayman",
+            "region_code": "Kirman",
+            "coord_lon": "58.18338",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.18338,
+            28.12851
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kubāl",
+            "cornu_URI": "KUBAL_762E432N_S",
+            "toponym_arabic": "كبال",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kubal",
+            "toponym_arabic_other": "كبال",
+            "toponym_translit": "Kubāl",
+            "coord_lat": "43.21825",
+            "toponym_search": "Kubal",
+            "region_code": "Transoxiana",
+            "coord_lon": "76.21861",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            76.21861,
+            43.21825
+        ]
+    }
+}

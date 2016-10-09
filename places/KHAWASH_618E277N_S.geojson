@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫawāš, Ḫawāṣ",
+            "cornu_URI": "KHAWASH_618E277N_S",
+            "toponym_arabic": "خواش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khawash, Khawas",
+            "toponym_arabic_other": "خواش، خواص",
+            "toponym_translit": "Ḫawāš",
+            "coord_lat": "27.79777",
+            "toponym_search": "Khawash, Khawas",
+            "region_code": "Sind",
+            "coord_lon": "61.88374",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.88374,
+            27.79777
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rīwand",
+            "cornu_URI": "RIWAND_583E361N_S",
+            "toponym_arabic": "ريوند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Riwand",
+            "toponym_arabic_other": "ريوند",
+            "toponym_translit": "Rīwand",
+            "coord_lat": "36.18583",
+            "toponym_search": "Riwand",
+            "region_code": "Khurasan",
+            "coord_lon": "58.36115",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.36115,
+            36.18583
+        ]
+    }
+}

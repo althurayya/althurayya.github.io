@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000156-000.json": {
+                "title": "اسفرايين",
+                "rate": 93,
+                "status": "y"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asfarāyin",
+            "cornu_URI": "ASFARAYIN_574E369N_S",
+            "toponym_arabic": "أسفراين",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Asfarayin",
+            "toponym_arabic_other": "أسفراين",
+            "toponym_translit": "Asfarāyin",
+            "coord_lat": "36.98777",
+            "toponym_search": "Asfarayin",
+            "region_code": "Khurasan",
+            "coord_lon": "57.43023",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.43023,
+            36.98777
+        ]
+    }
+}

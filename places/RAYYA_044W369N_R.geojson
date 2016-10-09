@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000721-000.json": {
+                "title": "ريه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rayyaŧ, Rayyuh",
+            "cornu_URI": "RAYYA_044W369N_R",
+            "toponym_arabic": "رية",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Rayya, Rayyuh",
+            "toponym_arabic_other": "رية، ريه",
+            "toponym_translit": "Rayyaŧ",
+            "coord_lat": "36.98351",
+            "toponym_search": "Rayya, Rayyuh",
+            "region_code": "Andalus",
+            "coord_lon": "-4.40368",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.40368,
+            36.98351
+        ]
+    }
+}

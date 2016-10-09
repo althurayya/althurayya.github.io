@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001197-000.json": {
+                "title": "القطيف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaṭīf",
+            "cornu_URI": "QATIF_499E265N_S",
+            "toponym_arabic": "القطيف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Qatif",
+            "toponym_arabic_other": "القطيف",
+            "toponym_translit": "al-Qaṭīf",
+            "coord_lat": "26.53966",
+            "toponym_search": "al-Qatif",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "49.96159",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.96159,
+            26.53966
+        ]
+    }
+}

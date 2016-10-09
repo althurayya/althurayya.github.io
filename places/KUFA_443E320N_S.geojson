@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001311-000.json": {
+                "title": "الكوفه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Kūfaŧ",
+            "cornu_URI": "KUFA_443E320N_S",
+            "toponym_arabic": "الكوفة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Kufa",
+            "toponym_arabic_other": "الكوفة",
+            "toponym_translit": "al-Kūfaŧ",
+            "coord_lat": "32.03808",
+            "toponym_search": "al-Kufa",
+            "region_code": "Iraq",
+            "coord_lon": "44.39355",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.39355,
+            32.03808
+        ]
+    }
+}

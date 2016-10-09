@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000163-000.json": {
+                "title": "اشبيليه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Išbīliyyaŧ",
+            "cornu_URI": "ISHBILIYYA_059W374N_R",
+            "toponym_arabic": "إشبيلية",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Ishbiliyya",
+            "toponym_arabic_other": "إشبيلية",
+            "toponym_translit": "Išbīliyyaŧ",
+            "coord_lat": "37.40790",
+            "toponym_search": "Ishbiliyya",
+            "region_code": "Andalus",
+            "coord_lon": "-5.96199",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.96199,
+            37.4079
+        ]
+    }
+}

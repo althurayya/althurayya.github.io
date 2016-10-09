@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001135-000.json": {
+                "title": "الفراض",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Furḍaŧ",
+            "cornu_URI": "FURDA_407E346N_S",
+            "toponym_arabic": "الفرضة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Furda",
+            "toponym_arabic_other": "الفرضة",
+            "toponym_translit": "al-Furḍaŧ",
+            "coord_lat": "34.67900",
+            "toponym_search": "al-Furda",
+            "region_code": "Aqur",
+            "coord_lon": "40.78158",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.78158,
+            34.679
+        ]
+    }
+}

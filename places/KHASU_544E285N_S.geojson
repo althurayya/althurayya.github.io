@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫasū",
+            "cornu_URI": "KHASU_544E285N_S",
+            "toponym_arabic": "خسو",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Khasu",
+            "toponym_arabic_other": "خسو",
+            "toponym_translit": "Ḫasū",
+            "coord_lat": "28.51610",
+            "toponym_search": "Khasu",
+            "region_code": "Faris",
+            "coord_lon": "54.40794",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.40794,
+            28.5161
+        ]
+    }
+}

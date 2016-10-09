@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001103-000.json": {
+                "title": "غزه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001105-000.json": {
+                "title": "غزنه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġuzzaŧ",
+            "cornu_URI": "GHUZZA_019W350N_S",
+            "toponym_arabic": "غزة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ghuzza",
+            "toponym_arabic_other": "غزة",
+            "toponym_translit": "Ġuzzaŧ",
+            "coord_lat": "35.06747",
+            "toponym_search": "Ghuzza",
+            "region_code": "Maghrib",
+            "coord_lon": "-1.92701",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.92701,
+            35.06747
+        ]
+    }
+}

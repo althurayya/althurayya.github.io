@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001362-000.json": {
+                "title": "المايد",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Maʾidaŧ",
+            "cornu_URI": "MAIDA_068W406N_S",
+            "toponym_arabic": "المئدة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Maida",
+            "toponym_arabic_other": "المئدة",
+            "toponym_translit": "al-Maʾidaŧ",
+            "coord_lat": "40.62317",
+            "toponym_search": "al-Maida",
+            "region_code": "Andalus",
+            "coord_lon": "-6.87557",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.87557,
+            40.62317
+        ]
+    }
+}

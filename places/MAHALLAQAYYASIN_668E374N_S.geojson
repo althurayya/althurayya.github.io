@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḥallaŧ al-Qayyāsīn",
+            "cornu_URI": "MAHALLAQAYYASIN_668E374N_S",
+            "toponym_arabic": "محلة القياسين",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Mahalla al-Qayyasin",
+            "toponym_arabic_other": "محلة القياسين",
+            "toponym_translit": "Maḥallaŧ al-Qayyāsīn",
+            "coord_lat": "37.44577",
+            "toponym_search": "Mahalla al-Qayyasin",
+            "region_code": "Transoxiana",
+            "coord_lon": "66.88170",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.8817,
+            37.44577
+        ]
+    }
+}

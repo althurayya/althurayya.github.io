@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001505-000.json": {
+                "title": "ميافارقين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mayyāfāriqīn",
+            "cornu_URI": "MAYYAFARIQIN_410E381N_S",
+            "toponym_arabic": "ميافارقين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mayyafariqin",
+            "toponym_arabic_other": "ميافارقين",
+            "toponym_translit": "Mayyāfāriqīn",
+            "coord_lat": "38.14322",
+            "toponym_search": "Mayyafariqin",
+            "region_code": "Aqur",
+            "coord_lon": "41.00798",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.00798,
+            38.14322
+        ]
+    }
+}

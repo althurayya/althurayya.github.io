@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dastaǧirdaŧ",
+            "cornu_URI": "DASTAJIRDA_666E368N_S",
+            "toponym_arabic": "دستجردة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Dastajirda",
+            "toponym_arabic_other": "دستجردة",
+            "toponym_translit": "Dastaǧirdaŧ",
+            "coord_lat": "36.83340",
+            "toponym_search": "Dastajirda",
+            "region_code": "Khurasan",
+            "coord_lon": "66.64110",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.6411,
+            36.8334
+        ]
+    }
+}

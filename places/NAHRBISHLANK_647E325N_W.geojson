@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Bišlank",
+            "cornu_URI": "NAHRBISHLANK_647E325N_W",
+            "toponym_arabic": "نهر بشلنك",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Bishlank",
+            "toponym_arabic_other": "نهر بشلنك",
+            "toponym_translit": "Nahr Bišlank",
+            "coord_lat": "32.54487",
+            "toponym_search": "Nahr Bishlank",
+            "region_code": "Sijistan",
+            "coord_lon": "64.79780",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.7978,
+            32.54487
+        ]
+    }
+}

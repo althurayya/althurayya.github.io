@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šātibaŧ",
+            "cornu_URI": "SHATIBA_005W389N_S",
+            "toponym_arabic": "شاتبة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Shatiba",
+            "toponym_arabic_other": "شاتبة",
+            "toponym_translit": "Šātibaŧ",
+            "coord_lat": "38.96551",
+            "toponym_search": "Shatiba",
+            "region_code": "Andalus",
+            "coord_lon": "-0.52276",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.52276,
+            38.96551
+        ]
+    }
+}

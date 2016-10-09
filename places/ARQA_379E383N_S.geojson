@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001048-000.json": {
+                "title": "عرقه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿArqaŧ",
+            "cornu_URI": "ARQA_379E383N_S",
+            "toponym_arabic": "عرقة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Arqa",
+            "toponym_arabic_other": "عرقة",
+            "toponym_translit": "ʿArqaŧ",
+            "coord_lat": "38.36373",
+            "toponym_search": "Arqa",
+            "region_code": "Aqur",
+            "coord_lon": "37.96251",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.96251,
+            38.36373
+        ]
+    }
+}

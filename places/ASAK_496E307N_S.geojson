@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000150-000.json": {
+                "title": "اسكر",
+                "rate": 86,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000181-000.json": {
+                "title": "اسكر",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Āsak",
+            "cornu_URI": "ASAK_496E307N_S",
+            "toponym_arabic": "آسك",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Asak",
+            "toponym_arabic_other": "آسك",
+            "toponym_translit": "Āsak",
+            "coord_lat": "30.73130",
+            "toponym_search": "Asak",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.69307",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.69307,
+            30.7313
+        ]
+    }
+}

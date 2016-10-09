@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Malīǧ",
+            "cornu_URI": "MALIJ_310E305N_S",
+            "toponym_arabic": "مليج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Malij",
+            "toponym_arabic_other": "مليج",
+            "toponym_translit": "Malīǧ",
+            "coord_lat": "30.58083",
+            "toponym_search": "Malij",
+            "region_code": "Egypt",
+            "coord_lon": "31.01342",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.01342,
+            30.58083
+        ]
+    }
+}

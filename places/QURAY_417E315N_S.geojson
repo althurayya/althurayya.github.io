@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qurāy",
+            "cornu_URI": "QURAY_417E315N_S",
+            "toponym_arabic": "القراي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Quray",
+            "toponym_arabic_other": "القراي",
+            "toponym_translit": "al-Qurāy",
+            "coord_lat": "31.51068",
+            "toponym_search": "al-Quray",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "41.79330",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.7933,
+            31.51068
+        ]
+    }
+}

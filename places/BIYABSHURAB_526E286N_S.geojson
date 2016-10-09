@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Biyābšūrāb, Dašt Šūrāb",
+            "cornu_URI": "BIYABSHURAB_526E286N_S",
+            "toponym_arabic": "بيابشوراب",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Biyabshurab, Dasht Shurab",
+            "toponym_arabic_other": "بيابشوراب، دشت شوراب",
+            "toponym_translit": "Biyābšūrāb",
+            "coord_lat": "28.69894",
+            "toponym_search": "Biyabshurab, Dasht Shurab",
+            "region_code": "Faris",
+            "coord_lon": "52.68133",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.68133,
+            28.69894
+        ]
+    }
+}

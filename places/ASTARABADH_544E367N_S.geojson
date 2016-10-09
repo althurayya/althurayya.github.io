@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Astārabāḏ",
+            "cornu_URI": "ASTARABADH_544E367N_S",
+            "toponym_arabic": "أستارباذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Astarabadh",
+            "toponym_arabic_other": "أستارباذ",
+            "toponym_translit": "Astārabāḏ",
+            "coord_lat": "36.78860",
+            "toponym_search": "Astarabadh",
+            "region_code": "Daylam",
+            "coord_lon": "54.47005",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.47005,
+            36.7886
+        ]
+    }
+}

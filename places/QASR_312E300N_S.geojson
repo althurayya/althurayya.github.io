@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qaṣr, Bāb Alyūn",
+            "cornu_URI": "QASR_312E300N_S",
+            "toponym_arabic": "القصر",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Qasr, Bab Alyun",
+            "toponym_arabic_other": "القصر، باب أليون",
+            "toponym_translit": "al-Qaṣr",
+            "coord_lat": "30.01540",
+            "toponym_search": "al-Qasr, Bab Alyun",
+            "region_code": "Egypt",
+            "coord_lon": "31.24253",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.24253,
+            30.0154
+        ]
+    }
+}

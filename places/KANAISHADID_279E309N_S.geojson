@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kanāʾis al-Ḥadīd, Kanāʾis al-Ḥarīr",
+            "cornu_URI": "KANAISHADID_279E309N_S",
+            "toponym_arabic": "كنائس الحديد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kanais al-Hadid, Kanais al-Harir",
+            "toponym_arabic_other": "كنائس الحديد، كنائس الحرير",
+            "toponym_translit": "Kanāʾis al-Ḥadīd",
+            "coord_lat": "30.91449",
+            "toponym_search": "Kanais al-Hadid, Kanais al-Harir",
+            "region_code": "Barqa",
+            "coord_lon": "27.94768",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.94768,
+            30.91449
+        ]
+    }
+}

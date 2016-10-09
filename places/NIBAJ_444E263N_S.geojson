@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001519-000.json": {
+                "title": "النباج",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nibāǧ",
+            "cornu_URI": "NIBAJ_444E263N_S",
+            "toponym_arabic": "النباج",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Nibaj",
+            "toponym_arabic_other": "النباج",
+            "toponym_translit": "al-Nibāǧ",
+            "coord_lat": "26.35812",
+            "toponym_search": "al-Nibaj",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "44.45181",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.45181,
+            26.35812
+        ]
+    }
+}

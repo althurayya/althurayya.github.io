@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001312-000.json": {
+                "title": "كوار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kuwār",
+            "cornu_URI": "KUWAR_526E292N_S",
+            "toponym_arabic": "كوار",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kuwar",
+            "toponym_arabic_other": "كوار",
+            "toponym_translit": "Kuwār",
+            "coord_lat": "29.21962",
+            "toponym_search": "Kuwar",
+            "region_code": "Faris",
+            "coord_lon": "52.69768",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.69768,
+            29.21962
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥafar Abū Mūsá",
+            "cornu_URI": "HAFARABUMUSA_459E284N_S",
+            "toponym_arabic": "حفر أبو موسى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Hafar Abu Musa",
+            "toponym_arabic_other": "حفر أبو موسى",
+            "toponym_translit": "Ḥafar Abū Mūsá",
+            "coord_lat": "28.41584",
+            "toponym_search": "Hafar Abu Musa",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "45.92797",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.92797,
+            28.41584
+        ]
+    }
+}

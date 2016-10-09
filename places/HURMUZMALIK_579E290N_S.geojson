@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hurmuz al-Malik, Qaryaŧ al-Ǧawz",
+            "cornu_URI": "HURMUZMALIK_579E290N_S",
+            "toponym_arabic": "هرمز الملك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hurmuz al-Malik, Qarya al-Jawz",
+            "toponym_arabic_other": "هرمز الملك، قرية الجوز",
+            "toponym_translit": "Hurmuz al-Malik",
+            "coord_lat": "29.01602",
+            "toponym_search": "Hurmuz al-Malik, Qarya al-Jawz",
+            "region_code": "Kirman",
+            "coord_lon": "57.92696",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.92696,
+            29.01602
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000984-000.json": {
+                "title": "طبنه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭubnaŧ",
+            "cornu_URI": "TUBNA_053E353N_S",
+            "toponym_arabic": "طبنة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tubna",
+            "toponym_arabic_other": "طبنة",
+            "toponym_translit": "Ṭubnaŧ",
+            "coord_lat": "35.32395",
+            "toponym_search": "Tubna",
+            "region_code": "Maghrib",
+            "coord_lon": "5.35573",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.35573,
+            35.32395
+        ]
+    }
+}

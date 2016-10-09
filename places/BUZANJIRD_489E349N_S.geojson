@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Būzanǧird",
+            "cornu_URI": "BUZANJIRD_489E349N_S",
+            "toponym_arabic": "بوزنجرد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Buzanjird",
+            "toponym_arabic_other": "بوزنجرد",
+            "toponym_translit": "Būzanǧird",
+            "coord_lat": "34.95777",
+            "toponym_search": "Buzanjird",
+            "region_code": "Jibal",
+            "coord_lon": "48.98488",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.98488,
+            34.95777
+        ]
+    }
+}

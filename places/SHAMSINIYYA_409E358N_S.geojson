@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000880-000.json": {
+                "title": "الشماسيه",
+                "rate": 82,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šamsīniyyaŧ, al-Šamsāniyyaŧ",
+            "cornu_URI": "SHAMSINIYYA_409E358N_S",
+            "toponym_arabic": "الشمسينية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Shamsiniyya, al-Shamsaniyya",
+            "toponym_arabic_other": "الشمسينية، الشمسانية",
+            "toponym_translit": "al-Šamsīniyyaŧ",
+            "coord_lat": "35.86703",
+            "toponym_search": "al-Shamsiniyya, al-Shamsaniyya",
+            "region_code": "Aqur",
+            "coord_lon": "40.90954",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.90954,
+            35.86703
+        ]
+    }
+}

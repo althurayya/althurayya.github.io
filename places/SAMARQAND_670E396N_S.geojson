@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000825-000.json": {
+                "title": "سمرقند",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000824-000.json": {
+                "title": "سمقنده",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Samarqand",
+            "cornu_URI": "SAMARQAND_670E396N_S",
+            "toponym_arabic": "سمرقند",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Samarqand",
+            "toponym_arabic_other": "سمرقند",
+            "toponym_translit": "Samarqand",
+            "coord_lat": "39.67905",
+            "toponym_search": "Samarqand",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.03225",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.03225,
+            39.67905
+        ]
+    }
+}

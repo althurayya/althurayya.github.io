@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Taʿāsir",
+            "cornu_URI": "TAASIR_353E323N_S",
+            "toponym_arabic": "تعاسر",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Taasir",
+            "toponym_arabic_other": "تعاسر",
+            "toponym_translit": "Taʿāsir",
+            "coord_lat": "32.33910",
+            "toponym_search": "Taasir",
+            "region_code": "Sham",
+            "coord_lon": "35.38269",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.38269,
+            32.3391
+        ]
+    }
+}

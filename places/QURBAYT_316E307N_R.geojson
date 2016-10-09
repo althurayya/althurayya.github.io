@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurbayt",
+            "cornu_URI": "QURBAYT_316E307N_R",
+            "toponym_arabic": "قربيت",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Qurbayt",
+            "toponym_arabic_other": "قربيت",
+            "toponym_translit": "Qurbayt",
+            "coord_lat": "30.73556",
+            "toponym_search": "Qurbayt",
+            "region_code": "Egypt",
+            "coord_lon": "31.62447",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.62447,
+            30.73556
+        ]
+    }
+}

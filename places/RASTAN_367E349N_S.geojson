@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000977-000.json": {
+                "title": "طبرستان",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000899-000.json": {
+                "title": "شهرستان",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rastān",
+            "cornu_URI": "RASTAN_367E349N_S",
+            "toponym_arabic": "رستان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rastan",
+            "toponym_arabic_other": "رستان",
+            "toponym_translit": "Rastān",
+            "coord_lat": "34.93350",
+            "toponym_search": "Rastan",
+            "region_code": "Sham",
+            "coord_lon": "36.75337",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.75337,
+            34.9335
+        ]
+    }
+}

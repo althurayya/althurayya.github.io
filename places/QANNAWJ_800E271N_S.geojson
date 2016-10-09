@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001229-000.json": {
+                "title": "قنوج",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qannawǧ",
+            "cornu_URI": "QANNAWJ_800E271N_S",
+            "toponym_arabic": "قنوج",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Qannawj",
+            "toponym_arabic_other": "قنوج",
+            "toponym_translit": "Qannawǧ",
+            "coord_lat": "27.11654",
+            "toponym_search": "Qannawj",
+            "region_code": "Sind",
+            "coord_lon": "80.03921",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            80.03921,
+            27.11654
+        ]
+    }
+}

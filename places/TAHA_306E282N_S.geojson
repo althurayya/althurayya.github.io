@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭaḥā",
+            "cornu_URI": "TAHA_306E282N_S",
+            "toponym_arabic": "طحا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Taha",
+            "toponym_arabic_other": "طحا",
+            "toponym_translit": "Ṭaḥā",
+            "coord_lat": "28.27313",
+            "toponym_search": "Taha",
+            "region_code": "Egypt",
+            "coord_lon": "30.69125",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.69125,
+            28.27313
+        ]
+    }
+}

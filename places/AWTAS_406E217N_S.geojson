@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000174-000.json": {
+                "title": "اوطاس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Awṭās",
+            "cornu_URI": "AWTAS_406E217N_S",
+            "toponym_arabic": "أوطاس",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Awtas",
+            "toponym_arabic_other": "أوطاس",
+            "toponym_translit": "Awṭās",
+            "coord_lat": "21.73300",
+            "toponym_search": "Awtas",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.68003",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.68003,
+            21.733
+        ]
+    }
+}

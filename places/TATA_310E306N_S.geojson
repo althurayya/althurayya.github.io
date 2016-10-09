@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭaṭāʾ",
+            "cornu_URI": "TATA_310E306N_S",
+            "toponym_arabic": "ططاء",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tata",
+            "toponym_arabic_other": "ططاء",
+            "toponym_translit": "Ṭaṭāʾ",
+            "coord_lat": "30.68760",
+            "toponym_search": "Tata",
+            "region_code": "Egypt",
+            "coord_lon": "31.08970",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.0897,
+            30.6876
+        ]
+    }
+}

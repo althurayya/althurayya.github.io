@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000442-000.json": {
+                "title": "الجزاير",
+                "rate": 86,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧazīraŧ",
+            "cornu_URI": "JAZIRA_312E300N_S",
+            "toponym_arabic": "الجزيرة",
+            "top_type_orig": "quartier",
+            "toponym_buckwalter": "al-Jazira",
+            "toponym_arabic_other": "الجزيرة",
+            "toponym_translit": "al-Ǧazīraŧ",
+            "coord_lat": "30.04436",
+            "toponym_search": "al-Jazira",
+            "region_code": "Egypt",
+            "coord_lon": "31.21122",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "quarters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.21122,
+            30.04436
+        ]
+    }
+}

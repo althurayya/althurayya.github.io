@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000811-000.json": {
+                "title": "سلمي",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000817-000.json": {
+                "title": "سلميه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Salamiyyaŧ",
+            "cornu_URI": "SALAMIYYA_370E350N_S",
+            "toponym_arabic": "سلمية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Salamiyya",
+            "toponym_arabic_other": "سلمية",
+            "toponym_translit": "Salamiyyaŧ",
+            "coord_lat": "35.00401",
+            "toponym_search": "Salamiyya",
+            "region_code": "Sham",
+            "coord_lon": "37.07106",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.07106,
+            35.00401
+        ]
+    }
+}

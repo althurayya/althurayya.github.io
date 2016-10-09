@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bahāwaḏ",
+            "cornu_URI": "BAHAWADH_559E318N_S",
+            "toponym_arabic": "بهاوذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bahawadh",
+            "toponym_arabic_other": "بهاوذ",
+            "toponym_translit": "Bahāwaḏ",
+            "coord_lat": "31.83238",
+            "toponym_search": "Bahawadh",
+            "region_code": "Kirman",
+            "coord_lon": "55.96459",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.96459,
+            31.83238
+        ]
+    }
+}

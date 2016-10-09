@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000418-000.json": {
+                "title": "الجابيه",
+                "rate": 86,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000044-000.json": {
+                "title": "اجدابيه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aǧdābiyyaŧ",
+            "cornu_URI": "AJDABIYYA_202E304N_S",
+            "toponym_arabic": "أجدابية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ajdabiyya",
+            "toponym_arabic_other": "أجدابية",
+            "toponym_translit": "Aǧdābiyyaŧ",
+            "coord_lat": "30.46697",
+            "toponym_search": "Ajdabiyya",
+            "region_code": "Barqa",
+            "coord_lon": "20.20218",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.20218,
+            30.46697
+        ]
+    }
+}

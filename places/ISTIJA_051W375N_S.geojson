@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000151-000.json": {
+                "title": "استجه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Istiǧaŧ",
+            "cornu_URI": "ISTIJA_051W375N_S",
+            "toponym_arabic": "إستجة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Istija",
+            "toponym_arabic_other": "إستجة",
+            "toponym_translit": "Istiǧaŧ",
+            "coord_lat": "37.53493",
+            "toponym_search": "Istija",
+            "region_code": "Andalus",
+            "coord_lon": "-5.10865",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.10865,
+            37.53493
+        ]
+    }
+}

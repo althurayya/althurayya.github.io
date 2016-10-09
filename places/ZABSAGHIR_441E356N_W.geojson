@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zāb al-Ṣaġīr, Zāb al-Asfal",
+            "cornu_URI": "ZABSAGHIR_441E356N_W",
+            "toponym_arabic": "زاب الصغير",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Zab al-Saghir, Zab al-Asfal",
+            "toponym_arabic_other": "زاب الصغير، زاب الأسفل",
+            "toponym_translit": "Zāb al-Ṣaġīr",
+            "coord_lat": "35.64182",
+            "toponym_search": "Zab al-Saghir, Zab al-Asfal",
+            "region_code": "Aqur",
+            "coord_lon": "44.10965",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.10965,
+            35.64182
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kīǧ, Kīz",
+            "cornu_URI": "KIJ_630E260N_S",
+            "toponym_arabic": "كيج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kij, Kiz",
+            "toponym_arabic_other": "كيج، كيز",
+            "toponym_translit": "Kīǧ",
+            "coord_lat": "26.02584",
+            "toponym_search": "Kij, Kiz",
+            "region_code": "Sind",
+            "coord_lon": "63.09359",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.09359,
+            26.02584
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qufāʿaŧ",
+            "cornu_URI": "QUFAA_435E137N_R",
+            "toponym_arabic": "قفاعة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Qufaa",
+            "toponym_arabic_other": "قفاعة",
+            "toponym_translit": "Qufāʿaŧ",
+            "coord_lat": "13.78649",
+            "toponym_search": "Qufaa",
+            "region_code": "Yemen",
+            "coord_lon": "43.58641",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.58641,
+            13.78649
+        ]
+    }
+}

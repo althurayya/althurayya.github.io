@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sankān, Sanǧān",
+            "cornu_URI": "SANKAN_594E350N_S",
+            "toponym_arabic": "سنكان",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Sankan, Sanjan",
+            "toponym_arabic_other": "سنكان، سنجان",
+            "toponym_translit": "Sankān",
+            "coord_lat": "35.05003",
+            "toponym_search": "Sankan, Sanjan",
+            "region_code": "Khurasan",
+            "coord_lon": "59.41155",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.41155,
+            35.05003
+        ]
+    }
+}

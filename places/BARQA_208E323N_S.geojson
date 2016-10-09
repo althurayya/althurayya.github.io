@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000250-000.json": {
+                "title": "برقه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barqaŧ",
+            "cornu_URI": "BARQA_208E323N_S",
+            "toponym_arabic": "برقة",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Barqa",
+            "toponym_arabic_other": "برقة",
+            "toponym_translit": "Barqaŧ",
+            "coord_lat": "32.37576",
+            "toponym_search": "Barqa",
+            "region_code": "Barqa",
+            "coord_lon": "20.84475",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.84475,
+            32.37576
+        ]
+    }
+}

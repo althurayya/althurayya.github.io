@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿbar Baḏaḫšān",
+            "cornu_URI": "MABARBADHAKHSHAN_699E375N_O",
+            "toponym_arabic": "معبر بذخشان",
+            "top_type_orig": "gue",
+            "toponym_buckwalter": "Mabar Badhakhshan",
+            "toponym_arabic_other": "معبر بذخشان",
+            "toponym_translit": "Maʿbar Baḏaḫšān",
+            "coord_lat": "37.59170",
+            "toponym_search": "Mabar Badhakhshan",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.90205",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.90205,
+            37.5917
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAqarqūf",
+            "cornu_URI": "AQARQUF_441E333N_R",
+            "toponym_arabic": "عقرقوف",
+            "top_type_orig": "tall",
+            "toponym_buckwalter": "Aqarquf",
+            "toponym_arabic_other": "عقرقوف",
+            "toponym_translit": "ʿAqarqūf",
+            "coord_lat": "33.34374",
+            "toponym_search": "Aqarquf",
+            "region_code": "Iraq",
+            "coord_lon": "44.18108",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.18108,
+            33.34374
+        ]
+    }
+}

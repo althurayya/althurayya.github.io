@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000055-000.json": {
+                "title": "اخسيكث",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḫsīsak",
+            "cornu_URI": "AKHSISAK_652E378N_S",
+            "toponym_arabic": "أخسيسك",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Akhsisak",
+            "toponym_arabic_other": "أخسيسك",
+            "toponym_translit": "Aḫsīsak",
+            "coord_lat": "37.88800",
+            "toponym_search": "Akhsisak",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.26937",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.26937,
+            37.888
+        ]
+    }
+}

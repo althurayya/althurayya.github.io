@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000587-000.json": {
+                "title": "دارين",
+                "rate": 91,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000073-000.json": {
+                "title": "اريانه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dāriyān",
+            "cornu_URI": "DARIYAN_529E295N_S",
+            "toponym_arabic": "داريان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dariyan",
+            "toponym_arabic_other": "داريان",
+            "toponym_translit": "Dāriyān",
+            "coord_lat": "29.54062",
+            "toponym_search": "Dariyan",
+            "region_code": "Faris",
+            "coord_lon": "52.92548",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.92548,
+            29.54062
+        ]
+    }
+}

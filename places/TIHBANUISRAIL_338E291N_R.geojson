@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tīh Banū Isrāʾil",
+            "cornu_URI": "TIHBANUISRAIL_338E291N_R",
+            "toponym_arabic": "تيه بنو إسرائل",
+            "top_type_orig": "desert",
+            "toponym_buckwalter": "Tih Banu Israil",
+            "toponym_arabic_other": "تيه بنو إسرائل",
+            "toponym_translit": "Tīh Banū Isrāʾil",
+            "coord_lat": "29.16755",
+            "toponym_search": "Tih Banu Israil",
+            "region_code": "Egypt",
+            "coord_lon": "33.80128",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.80128,
+            29.16755
+        ]
+    }
+}

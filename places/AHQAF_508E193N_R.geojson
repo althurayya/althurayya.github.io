@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000052-000.json": {
+                "title": "الاحقاف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Aḥqāf",
+            "cornu_URI": "AHQAF_508E193N_R",
+            "toponym_arabic": "الأحقاف",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Ahqaf",
+            "toponym_arabic_other": "الأحقاف",
+            "toponym_translit": "al-Aḥqāf",
+            "coord_lat": "19.38865",
+            "toponym_search": "al-Ahqaf",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "50.85870",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.8587,
+            19.38865
+        ]
+    }
+}

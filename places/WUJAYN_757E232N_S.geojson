@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wuǧayn",
+            "cornu_URI": "WUJAYN_757E232N_S",
+            "toponym_arabic": "وجين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wujayn",
+            "toponym_arabic_other": "وجين",
+            "toponym_translit": "Wuǧayn",
+            "coord_lat": "23.20809",
+            "toponym_search": "Wujayn",
+            "region_code": "Sind",
+            "coord_lon": "75.78308",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.78308,
+            23.20809
+        ]
+    }
+}

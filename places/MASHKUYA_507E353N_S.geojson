@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maškūyaŧ",
+            "cornu_URI": "MASHKUYA_507E353N_S",
+            "toponym_arabic": "مشكوية",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Mashkuya",
+            "toponym_arabic_other": "مشكوية",
+            "toponym_translit": "Maškūyaŧ",
+            "coord_lat": "35.30758",
+            "toponym_search": "Mashkuya",
+            "region_code": "Jibal",
+            "coord_lon": "50.77259",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.77259,
+            35.30758
+        ]
+    }
+}

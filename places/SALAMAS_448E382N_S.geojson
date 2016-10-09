@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000779-000.json": {
+                "title": "سجلماسه",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000821-000.json": {
+                "title": "سلماس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Salamās",
+            "cornu_URI": "SALAMAS_448E382N_S",
+            "toponym_arabic": "سلماس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Salamas",
+            "toponym_arabic_other": "سلماس",
+            "toponym_translit": "Salamās",
+            "coord_lat": "38.22277",
+            "toponym_search": "Salamas",
+            "region_code": "Rihab",
+            "coord_lon": "44.82832",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.82832,
+            38.22277
+        ]
+    }
+}

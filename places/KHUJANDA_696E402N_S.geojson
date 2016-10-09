@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫuǧandaŧ",
+            "cornu_URI": "KHUJANDA_696E402N_S",
+            "toponym_arabic": "خجندة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khujanda",
+            "toponym_arabic_other": "خجندة",
+            "toponym_translit": "Ḫuǧandaŧ",
+            "coord_lat": "40.24606",
+            "toponym_search": "Khujanda",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.63107",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.63107,
+            40.24606
+        ]
+    }
+}

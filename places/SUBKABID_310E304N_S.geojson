@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Subk al-ʿAbīd",
+            "cornu_URI": "SUBKABID_310E304N_S",
+            "toponym_arabic": "سبك العبيد",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Subk al-Abid",
+            "toponym_arabic_other": "سبك العبيد",
+            "toponym_translit": "Subk al-ʿAbīd",
+            "coord_lat": "30.43271",
+            "toponym_search": "Subk al-Abid",
+            "region_code": "Egypt",
+            "coord_lon": "31.05262",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.05262,
+            30.43271
+        ]
+    }
+}

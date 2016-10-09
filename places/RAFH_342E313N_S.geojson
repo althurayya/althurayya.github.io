@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rafḥ",
+            "cornu_URI": "RAFH_342E313N_S",
+            "toponym_arabic": "رفح",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Rafh",
+            "toponym_arabic_other": "رفح",
+            "toponym_translit": "Rafḥ",
+            "coord_lat": "31.30870",
+            "toponym_search": "Rafh",
+            "region_code": "Sham",
+            "coord_lon": "34.25897",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.25897,
+            31.3087
+        ]
+    }
+}

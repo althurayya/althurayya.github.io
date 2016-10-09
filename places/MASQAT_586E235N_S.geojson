@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001483-000.json": {
+                "title": "مسقط",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Masqaṭ",
+            "cornu_URI": "MASQAT_586E235N_S",
+            "toponym_arabic": "مسقط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Masqat",
+            "toponym_arabic_other": "مسقط",
+            "toponym_translit": "Masqaṭ",
+            "coord_lat": "23.54370",
+            "toponym_search": "Masqat",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "58.63618",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.63618,
+            23.5437
+        ]
+    }
+}

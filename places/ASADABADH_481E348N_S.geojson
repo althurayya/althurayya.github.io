@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asadābāḏ",
+            "cornu_URI": "ASADABADH_481E348N_S",
+            "toponym_arabic": "أسداباذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asadabadh",
+            "toponym_arabic_other": "أسداباذ",
+            "toponym_translit": "Asadābāḏ",
+            "coord_lat": "34.80031",
+            "toponym_search": "Asadabadh",
+            "region_code": "Jibal",
+            "coord_lon": "48.15134",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.15134,
+            34.80031
+        ]
+    }
+}

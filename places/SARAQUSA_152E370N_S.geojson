@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000805-000.json": {
+                "title": "سرقوسه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000804-000.json": {
+                "title": "سرقسطه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Saraqūsaŧ",
+            "cornu_URI": "SARAQUSA_152E370N_S",
+            "toponym_arabic": "سرقوسة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Saraqusa",
+            "toponym_arabic_other": "سرقوسة",
+            "toponym_translit": "Saraqūsaŧ",
+            "coord_lat": "37.09110",
+            "toponym_search": "Saraqusa",
+            "region_code": "Sicile",
+            "coord_lon": "15.29356",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.29356,
+            37.0911
+        ]
+    }
+}

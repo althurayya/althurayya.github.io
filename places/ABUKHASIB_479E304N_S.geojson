@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Abū al-Ḫaṣīb",
+            "cornu_URI": "ABUKHASIB_479E304N_S",
+            "toponym_arabic": "أبو الخصيب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Abu al-Khasib",
+            "toponym_arabic_other": "أبو الخصيب",
+            "toponym_translit": "Abū al-Ḫaṣīb",
+            "coord_lat": "30.43759",
+            "toponym_search": "Abu al-Khasib",
+            "region_code": "Iraq",
+            "coord_lon": "47.99265",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.99265,
+            30.43759
+        ]
+    }
+}

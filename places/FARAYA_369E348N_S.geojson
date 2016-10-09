@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Farʿāyā",
+            "cornu_URI": "FARAYA_369E348N_S",
+            "toponym_arabic": "فرعايا",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Faraya",
+            "toponym_arabic_other": "فرعايا",
+            "toponym_translit": "Farʿāyā",
+            "coord_lat": "34.87271",
+            "toponym_search": "Faraya",
+            "region_code": "Sham",
+            "coord_lon": "36.93472",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.93472,
+            34.87271
+        ]
+    }
+}

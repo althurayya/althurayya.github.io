@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Laḥǧ, Lahǧ",
+            "cornu_URI": "LAHJ_448E130N_S",
+            "toponym_arabic": "لحج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Lahj, Lahj",
+            "toponym_arabic_other": "لحج، لهج",
+            "toponym_translit": "Laḥǧ",
+            "coord_lat": "13.06747",
+            "toponym_search": "Lahj, Lahj",
+            "region_code": "Yemen",
+            "coord_lon": "44.86953",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.86953,
+            13.06747
+        ]
+    }
+}

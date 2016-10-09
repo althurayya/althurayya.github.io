@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tāhirt",
+            "cornu_URI": "TAHIRT_013E353N_S",
+            "toponym_arabic": "تاهرت",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Tahirt",
+            "toponym_arabic_other": "تاهرت",
+            "toponym_translit": "Tāhirt",
+            "coord_lat": "35.36971",
+            "toponym_search": "Tahirt",
+            "region_code": "Maghrib",
+            "coord_lon": "1.36504",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.36504,
+            35.36971
+        ]
+    }
+}

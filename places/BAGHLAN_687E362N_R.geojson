@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baġlān",
+            "cornu_URI": "BAGHLAN_687E362N_R",
+            "toponym_arabic": "بغلان",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Baghlan",
+            "toponym_arabic_other": "بغلان",
+            "toponym_translit": "Baġlān",
+            "coord_lat": "36.23560",
+            "toponym_search": "Baghlan",
+            "region_code": "Khurasan",
+            "coord_lon": "68.77093",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.77093,
+            36.2356
+        ]
+    }
+}

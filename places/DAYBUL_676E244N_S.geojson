@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001579-000.json": {
+                "title": "الهيبل",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000630-000.json": {
+                "title": "الديبل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Daybul",
+            "cornu_URI": "DAYBUL_676E244N_S",
+            "toponym_arabic": "الديبل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Daybul",
+            "toponym_arabic_other": "الديبل",
+            "toponym_translit": "al-Daybul",
+            "coord_lat": "24.43756",
+            "toponym_search": "al-Daybul",
+            "region_code": "Sind",
+            "coord_lon": "67.69101",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.69101,
+            24.43756
+        ]
+    }
+}

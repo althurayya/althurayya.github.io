@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Darbāná, al-Darfāná, Šiʿb Darfārid",
+            "cornu_URI": "DARBANA_574E290N_S",
+            "toponym_arabic": "الدربانى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Darbana, al-Darfana, Shib Darfarid",
+            "toponym_arabic_other": "الدربانى، الدرفانى، شعب درفارد",
+            "toponym_translit": "al-Darbāná",
+            "coord_lat": "29.06085",
+            "toponym_search": "al-Darbana, al-Darfana, Shib Darfarid",
+            "region_code": "Kirman",
+            "coord_lon": "57.48653",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.48653,
+            29.06085
+        ]
+    }
+}

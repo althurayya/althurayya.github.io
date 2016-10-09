@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001160-000.json": {
+                "title": "قالي قلا",
+                "rate": 93,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qālīqalā",
+            "cornu_URI": "QALIQALA_412E399N_S",
+            "toponym_arabic": "قاليقلا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qaliqala",
+            "toponym_arabic_other": "قاليقلا",
+            "toponym_translit": "Qālīqalā",
+            "coord_lat": "39.91956",
+            "toponym_search": "Qaliqala",
+            "region_code": "Rihab",
+            "coord_lon": "41.27233",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.27233,
+            39.91956
+        ]
+    }
+}

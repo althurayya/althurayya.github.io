@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dahlīzān",
+            "cornu_URI": "DAHLIZAN_499E307N_S",
+            "toponym_arabic": "دهليزان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dahlizan",
+            "toponym_arabic_other": "دهليزان",
+            "toponym_translit": "Dahlīzān",
+            "coord_lat": "30.77763",
+            "toponym_search": "Dahlizan",
+            "region_code": "Khuzistan",
+            "coord_lon": "49.97179",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.97179,
+            30.77763
+        ]
+    }
+}

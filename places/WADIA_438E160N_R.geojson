@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādiʿaŧ",
+            "cornu_URI": "WADIA_438E160N_R",
+            "toponym_arabic": "وادعة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Wadia",
+            "toponym_arabic_other": "وادعة",
+            "toponym_translit": "Wādiʿaŧ",
+            "coord_lat": "16.03244",
+            "toponym_search": "Wadia",
+            "region_code": "Yemen",
+            "coord_lon": "43.80678",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.80678,
+            16.03244
+        ]
+    }
+}

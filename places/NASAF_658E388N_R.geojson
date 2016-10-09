@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001543-000.json": {
+                "title": "نسف",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nasaf",
+            "cornu_URI": "NASAF_658E388N_R",
+            "toponym_arabic": "نسف",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "Nasaf",
+            "toponym_arabic_other": "نسف",
+            "toponym_translit": "Nasaf",
+            "coord_lat": "38.86245",
+            "toponym_search": "Nasaf",
+            "region_code": "Transoxiana",
+            "coord_lon": "65.81040",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.8104,
+            38.86245
+        ]
+    }
+}

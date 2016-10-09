@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ruwaydašt",
+            "cornu_URI": "RUWAYDASHT_527E324N_S",
+            "toponym_arabic": "رويدشت",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Ruwaydasht",
+            "toponym_arabic_other": "رويدشت",
+            "toponym_translit": "Ruwaydašt",
+            "coord_lat": "32.43743",
+            "toponym_search": "Ruwaydasht",
+            "region_code": "Jibal",
+            "coord_lon": "52.71660",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.7166,
+            32.43743
+        ]
+    }
+}

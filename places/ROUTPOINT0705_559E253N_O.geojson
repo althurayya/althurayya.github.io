@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0705",
+            "cornu_URI": "ROUTPOINT0705_559E253N_O",
+            "toponym_arabic": "RoutPoint0705",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0705",
+            "toponym_arabic_other": "RoutPoint0705",
+            "toponym_translit": "RoutPoint0705",
+            "coord_lat": "25.37617",
+            "toponym_search": "RoutPoint0705",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "55.98750",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.9875,
+            25.37617
+        ]
+    }
+}

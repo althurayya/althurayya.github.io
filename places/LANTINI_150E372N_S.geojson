@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Lantīnī",
+            "cornu_URI": "LANTINI_150E372N_S",
+            "toponym_arabic": "لنتيني",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Lantini",
+            "toponym_arabic_other": "لنتيني",
+            "toponym_translit": "Lantīnī",
+            "coord_lat": "37.29252",
+            "toponym_search": "Lantini",
+            "region_code": "Sicile",
+            "coord_lon": "15.02478",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.02478,
+            37.29252
+        ]
+    }
+}

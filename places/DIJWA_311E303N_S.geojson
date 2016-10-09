@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Diǧwaŧ",
+            "cornu_URI": "DIJWA_311E303N_S",
+            "toponym_arabic": "دجوة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dijwa",
+            "toponym_arabic_other": "دجوة",
+            "toponym_translit": "Diǧwaŧ",
+            "coord_lat": "30.37013",
+            "toponym_search": "Dijwa",
+            "region_code": "Egypt",
+            "coord_lon": "31.10620",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.1062,
+            30.37013
+        ]
+    }
+}

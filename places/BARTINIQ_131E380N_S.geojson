@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Barṭinīq",
+            "cornu_URI": "BARTINIQ_131E380N_S",
+            "toponym_arabic": "برطنيق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bartiniq",
+            "toponym_arabic_other": "برطنيق",
+            "toponym_translit": "Barṭinīq",
+            "coord_lat": "38.03112",
+            "toponym_search": "Bartiniq",
+            "region_code": "Sicile",
+            "coord_lon": "13.11223",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11223,
+            38.03112
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧirǧant",
+            "cornu_URI": "JIRJANT_135E373N_S",
+            "toponym_arabic": "جرجنت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jirjant",
+            "toponym_arabic_other": "جرجنت",
+            "toponym_translit": "Ǧirǧant",
+            "coord_lat": "37.30538",
+            "toponym_search": "Jirjant",
+            "region_code": "Sicile",
+            "coord_lon": "13.59290",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.5929,
+            37.30538
+        ]
+    }
+}

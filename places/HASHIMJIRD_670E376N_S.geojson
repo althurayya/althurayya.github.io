@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hāšimǧird",
+            "cornu_URI": "HASHIMJIRD_670E376N_S",
+            "toponym_arabic": "هاشمجرد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Hashimjird",
+            "toponym_arabic_other": "هاشمجرد",
+            "toponym_translit": "Hāšimǧird",
+            "coord_lat": "37.69255",
+            "toponym_search": "Hashimjird",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.07594",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.07594,
+            37.69255
+        ]
+    }
+}

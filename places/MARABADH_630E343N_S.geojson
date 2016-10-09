@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mārābāḏ",
+            "cornu_URI": "MARABADH_630E343N_S",
+            "toponym_arabic": "ماراباذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Marabadh",
+            "toponym_arabic_other": "ماراباذ",
+            "toponym_translit": "Mārābāḏ",
+            "coord_lat": "34.33710",
+            "toponym_search": "Marabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "63.00426",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.00426,
+            34.3371
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ Bīḏ, Bīḏ, Qaryaŧ al-Ḫillāf",
+            "cornu_URI": "QARYABIDH_531E306N_S",
+            "toponym_arabic": "قرية بيذ",
+            "top_type_orig": "bourgade",
+            "toponym_buckwalter": "Qarya Bidh, Bidh, Qarya al-Khillaf",
+            "toponym_arabic_other": "قرية بيذ، بيذ، قرية الخلاف",
+            "toponym_translit": "Qaryaŧ Bīḏ",
+            "coord_lat": "30.63942",
+            "toponym_search": "Qarya Bidh, Bidh, Qarya al-Khillaf",
+            "region_code": "Faris",
+            "coord_lon": "53.18449",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.18449,
+            30.63942
+        ]
+    }
+}

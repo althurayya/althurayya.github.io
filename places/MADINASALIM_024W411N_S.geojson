@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Madīnaŧ Sālim",
+            "cornu_URI": "MADINASALIM_024W411N_S",
+            "toponym_arabic": "مدينة سالم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Madina Salim",
+            "toponym_arabic_other": "مدينة سالم",
+            "toponym_translit": "Madīnaŧ Sālim",
+            "coord_lat": "41.13714",
+            "toponym_search": "Madina Salim",
+            "region_code": "Andalus",
+            "coord_lon": "-2.41736",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.41736,
+            41.13714
+        ]
+    }
+}

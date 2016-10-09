@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarṭasā",
+            "cornu_URI": "QARTASA_304E310N_S",
+            "toponym_arabic": "قرطسا",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qartasa",
+            "toponym_arabic_other": "قرطسا",
+            "toponym_translit": "Qarṭasā",
+            "coord_lat": "31.05659",
+            "toponym_search": "Qartasa",
+            "region_code": "Egypt",
+            "coord_lon": "30.44108",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.44108,
+            31.05659
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000596-000.json": {
+                "title": "الدثينه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Daṯīnaŧ",
+            "cornu_URI": "DATHINA_458E138N_R",
+            "toponym_arabic": "دثينة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Dathina",
+            "toponym_arabic_other": "دثينة",
+            "toponym_translit": "Daṯīnaŧ",
+            "coord_lat": "13.81354",
+            "toponym_search": "Dathina",
+            "region_code": "Yemen",
+            "coord_lon": "45.89739",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.89739,
+            13.81354
+        ]
+    }
+}

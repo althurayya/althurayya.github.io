@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001495-000.json": {
+                "title": "الموصل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Mawṣil",
+            "cornu_URI": "MAWSIL_431E363N_S",
+            "toponym_arabic": "الموصل",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "al-Mawsil",
+            "toponym_arabic_other": "الموصل",
+            "toponym_translit": "al-Mawṣil",
+            "coord_lat": "36.32809",
+            "toponym_search": "al-Mawsil",
+            "region_code": "Aqur",
+            "coord_lon": "43.12700",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.127,
+            36.32809
+        ]
+    }
+}

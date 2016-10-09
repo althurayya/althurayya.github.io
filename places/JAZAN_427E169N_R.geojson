@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧāzān",
+            "cornu_URI": "JAZAN_427E169N_R",
+            "toponym_arabic": "جازان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Jazan",
+            "toponym_arabic_other": "جازان",
+            "toponym_translit": "Ǧāzān",
+            "coord_lat": "16.99054",
+            "toponym_search": "Jazan",
+            "region_code": "Yemen",
+            "coord_lon": "42.72032",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.72032,
+            16.99054
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Hulbuk",
+            "cornu_URI": "NAHRHULBUK_701E383N_W",
+            "toponym_arabic": "نهر هلبك",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Hulbuk",
+            "toponym_arabic_other": "نهر هلبك",
+            "toponym_translit": "Nahr Hulbuk",
+            "coord_lat": "38.30610",
+            "toponym_search": "Nahr Hulbuk",
+            "region_code": "Transoxiana",
+            "coord_lon": "70.17895",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.17895,
+            38.3061
+        ]
+    }
+}

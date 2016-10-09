@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧīnānǧakaṯ",
+            "cornu_URI": "JINANJAKATH_691E409N_S",
+            "toponym_arabic": "جينانجكث",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jinanjakath",
+            "toponym_arabic_other": "جينانجكث",
+            "toponym_translit": "Ǧīnānǧakaṯ",
+            "coord_lat": "40.99560",
+            "toponym_search": "Jinanjakath",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.11286",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.11286,
+            40.9956
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫunān",
+            "cornu_URI": "KHUNAN_455E413N_S",
+            "toponym_arabic": "خنان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khunan",
+            "toponym_arabic_other": "خنان",
+            "toponym_translit": "Ḫunān",
+            "coord_lat": "41.39027",
+            "toponym_search": "Khunan",
+            "region_code": "Rihab",
+            "coord_lon": "45.50578",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.50578,
+            41.39027
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Fārġar, Farġar",
+            "cornu_URI": "FARGHAR_694E374N_S",
+            "toponym_arabic": "فارغر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Farghar, Farghar",
+            "toponym_arabic_other": "فارغر، فرغر",
+            "toponym_translit": "Fārġar",
+            "coord_lat": "37.48738",
+            "toponym_search": "Farghar, Farghar",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.44705",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.44705,
+            37.48738
+        ]
+    }
+}

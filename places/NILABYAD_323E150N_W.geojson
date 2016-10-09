@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nīl al-Abyaḍ",
+            "cornu_URI": "NILABYAD_323E150N_W",
+            "toponym_arabic": "النيل الأبيض",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "al-Nil al-Abyad",
+            "toponym_arabic_other": "النيل الأبيض",
+            "toponym_translit": "al-Nīl al-Abyaḍ",
+            "coord_lat": "15.06046",
+            "toponym_search": "al-Nil al-Abyad",
+            "region_code": "Egypt",
+            "coord_lon": "32.35560",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.3556,
+            15.06046
+        ]
+    }
+}

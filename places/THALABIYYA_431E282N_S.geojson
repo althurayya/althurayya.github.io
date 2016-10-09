@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṯaʿlabiyyaŧ",
+            "cornu_URI": "THALABIYYA_431E282N_S",
+            "toponym_arabic": "الثعلبية",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "al-Thalabiyya",
+            "toponym_arabic_other": "الثعلبية",
+            "toponym_translit": "al-Ṯaʿlabiyyaŧ",
+            "coord_lat": "28.29472",
+            "toponym_search": "al-Thalabiyya",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.16528",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.16528,
+            28.29472
+        ]
+    }
+}

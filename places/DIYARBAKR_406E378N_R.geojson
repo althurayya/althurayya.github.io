@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Diyār Bakr",
+            "cornu_URI": "DIYARBAKR_406E378N_R",
+            "toponym_arabic": "ديار بكر",
+            "top_type_orig": "circonscription",
+            "toponym_buckwalter": "Diyar Bakr",
+            "toponym_arabic_other": "ديار بكر",
+            "toponym_translit": "Diyār Bakr",
+            "coord_lat": "37.84795",
+            "toponym_search": "Diyar Bakr",
+            "region_code": "Aqur",
+            "coord_lon": "40.67909",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.67909,
+            37.84795
+        ]
+    }
+}

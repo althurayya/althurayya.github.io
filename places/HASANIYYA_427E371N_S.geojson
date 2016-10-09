@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥasaniyyaŧ",
+            "cornu_URI": "HASANIYYA_427E371N_S",
+            "toponym_arabic": "الحسنية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Hasaniyya",
+            "toponym_arabic_other": "الحسنية",
+            "toponym_translit": "al-Ḥasaniyyaŧ",
+            "coord_lat": "37.11078",
+            "toponym_search": "al-Hasaniyya",
+            "region_code": "Aqur",
+            "coord_lon": "42.72248",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.72248,
+            37.11078
+        ]
+    }
+}

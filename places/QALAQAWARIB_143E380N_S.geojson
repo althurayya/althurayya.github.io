@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ al-Qawārib",
+            "cornu_URI": "QALAQAWARIB_143E380N_S",
+            "toponym_arabic": "قلعة القوارب",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qala al-Qawarib",
+            "toponym_arabic_other": "قلعة القوارب",
+            "toponym_translit": "Qalʿaŧ al-Qawārib",
+            "coord_lat": "38.00365",
+            "toponym_search": "Qala al-Qawarib",
+            "region_code": "Sicile",
+            "coord_lon": "14.36712",
+            "region_spelled": "Siqiliyyaŧ (Sicile)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36712,
+            38.00365
+        ]
+    }
+}

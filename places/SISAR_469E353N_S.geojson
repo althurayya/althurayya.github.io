@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sīsar",
+            "cornu_URI": "SISAR_469E353N_S",
+            "toponym_arabic": "سيسر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sisar",
+            "toponym_arabic_other": "سيسر",
+            "toponym_translit": "Sīsar",
+            "coord_lat": "35.31623",
+            "toponym_search": "Sisar",
+            "region_code": "Jibal",
+            "coord_lon": "46.98439",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.98439,
+            35.31623
+        ]
+    }
+}

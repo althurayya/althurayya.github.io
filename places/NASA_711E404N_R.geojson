@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001542-000.json": {
+                "title": "نسا",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nasāʾ, Nasiyā",
+            "cornu_URI": "NASA_711E404N_R",
+            "toponym_arabic": "نساء",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Nasa, Nasiya",
+            "toponym_arabic_other": "نساء، نسيا",
+            "toponym_translit": "Nasāʾ",
+            "coord_lat": "40.41184",
+            "toponym_search": "Nasa, Nasiya",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.10821",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.10821,
+            40.41184
+        ]
+    }
+}

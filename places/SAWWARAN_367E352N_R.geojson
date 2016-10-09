@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000941-000.json": {
+                "title": "صورا",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣawwarān",
+            "cornu_URI": "SAWWARAN_367E352N_R",
+            "toponym_arabic": "صوران",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Sawwaran",
+            "toponym_arabic_other": "صوران",
+            "toponym_translit": "Ṣawwarān",
+            "coord_lat": "35.28804",
+            "toponym_search": "Sawwaran",
+            "region_code": "Sham",
+            "coord_lon": "36.76600",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.766,
+            35.28804
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tūrān",
+            "cornu_URI": "TURAN_662E277N_R",
+            "toponym_arabic": "توران",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Turan",
+            "toponym_arabic_other": "توران",
+            "toponym_translit": "Tūrān",
+            "coord_lat": "27.79334",
+            "toponym_search": "Turan",
+            "region_code": "Sind",
+            "coord_lon": "66.22799",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.22799,
+            27.79334
+        ]
+    }
+}

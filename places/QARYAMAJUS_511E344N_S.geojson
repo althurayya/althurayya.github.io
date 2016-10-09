@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qaryaŧ al-Maǧūs",
+            "cornu_URI": "QARYAMAJUS_511E344N_S",
+            "toponym_arabic": "قرية المجوس",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Qarya al-Majus",
+            "toponym_arabic_other": "قرية المجوس",
+            "toponym_translit": "Qaryaŧ al-Maǧūs",
+            "coord_lat": "34.44607",
+            "toponym_search": "Qarya al-Majus",
+            "region_code": "Jibal",
+            "coord_lon": "51.11259",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.11259,
+            34.44607
+        ]
+    }
+}

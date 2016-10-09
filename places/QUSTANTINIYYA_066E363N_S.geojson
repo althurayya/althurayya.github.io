@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001250-000.json": {
+                "title": "القسطنطينيه",
+                "rate": 95,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qusṭanṭiniyyaŧ, Qusṭanṭiniyyaŧ",
+            "cornu_URI": "QUSTANTINIYYA_066E363N_S",
+            "toponym_arabic": "القسطنطنية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Qustantiniyya, Qustantiniyya",
+            "toponym_arabic_other": "القسطنطنية، قسطنطنية",
+            "toponym_translit": "al-Qusṭanṭiniyyaŧ",
+            "coord_lat": "36.33790",
+            "toponym_search": "al-Qustantiniyya, Qustantiniyya",
+            "region_code": "Maghrib",
+            "coord_lon": "6.62703",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62703,
+            36.3379
+        ]
+    }
+}

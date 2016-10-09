@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000468-000.json": {
+                "title": "جناباذ",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sanābāḏ",
+            "cornu_URI": "SANABADH_596E362N_S",
+            "toponym_arabic": "سناباذ",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Sanabadh",
+            "toponym_arabic_other": "سناباذ",
+            "toponym_translit": "Sanābāḏ",
+            "coord_lat": "36.23200",
+            "toponym_search": "Sanabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "59.61287",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.61287,
+            36.232
+        ]
+    }
+}

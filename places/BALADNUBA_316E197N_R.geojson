@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Balad al-Nūbaŧ",
+            "cornu_URI": "BALADNUBA_316E197N_R",
+            "toponym_arabic": "بلد النوبة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Balad al-Nuba",
+            "toponym_arabic_other": "بلد النوبة",
+            "toponym_translit": "Balad al-Nūbaŧ",
+            "coord_lat": "19.72554",
+            "toponym_search": "Balad al-Nuba",
+            "region_code": "Egypt",
+            "coord_lon": "31.60503",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.60503,
+            19.72554
+        ]
+    }
+}

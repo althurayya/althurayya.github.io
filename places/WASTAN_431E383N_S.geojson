@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wasṭān",
+            "cornu_URI": "WASTAN_431E383N_S",
+            "toponym_arabic": "وسطان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wastan",
+            "toponym_arabic_other": "وسطان",
+            "toponym_translit": "Wasṭān",
+            "coord_lat": "38.34421",
+            "toponym_search": "Wastan",
+            "region_code": "Rihab",
+            "coord_lon": "43.13392",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.13392,
+            38.34421
+        ]
+    }
+}

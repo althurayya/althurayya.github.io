@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣalā",
+            "cornu_URI": "SALA_354E278N_S",
+            "toponym_arabic": "الصلا",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Sala",
+            "toponym_arabic_other": "الصلا",
+            "toponym_translit": "al-Ṣalā",
+            "coord_lat": "27.85039",
+            "toponym_search": "al-Sala",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "35.41578",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.41578,
+            27.85039
+        ]
+    }
+}

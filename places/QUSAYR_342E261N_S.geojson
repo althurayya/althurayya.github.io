@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Quṣayr",
+            "cornu_URI": "QUSAYR_342E261N_S",
+            "toponym_arabic": "قصير",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qusayr",
+            "toponym_arabic_other": "قصير",
+            "toponym_translit": "Quṣayr",
+            "coord_lat": "26.10673",
+            "toponym_search": "Qusayr",
+            "region_code": "Egypt",
+            "coord_lon": "34.27748",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.27748,
+            26.10673
+        ]
+    }
+}

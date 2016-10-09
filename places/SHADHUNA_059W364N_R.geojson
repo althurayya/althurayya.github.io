@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000069-000.json": {
+                "title": "ارشذونه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šaḏūnaŧ, Šadūnaŧ",
+            "cornu_URI": "SHADHUNA_059W364N_R",
+            "toponym_arabic": "شذونة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Shadhuna, Shaduna",
+            "toponym_arabic_other": "شذونة، شدونة",
+            "toponym_translit": "Šaḏūnaŧ",
+            "coord_lat": "36.46640",
+            "toponym_search": "Shadhuna, Shaduna",
+            "region_code": "Andalus",
+            "coord_lon": "-5.91433",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.91433,
+            36.4664
+        ]
+    }
+}

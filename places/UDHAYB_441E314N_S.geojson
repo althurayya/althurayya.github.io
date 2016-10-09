@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Uḏayb",
+            "cornu_URI": "UDHAYB_441E314N_S",
+            "toponym_arabic": "الأذيب",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Udhayb",
+            "toponym_arabic_other": "الأذيب",
+            "toponym_translit": "al-Uḏayb",
+            "coord_lat": "31.49049",
+            "toponym_search": "al-Udhayb",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "44.13666",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.13666,
+            31.49049
+        ]
+    }
+}

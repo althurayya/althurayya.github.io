@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Suwāriqiyyaŧ",
+            "cornu_URI": "SUWARIQIYYA_403E232N_S",
+            "toponym_arabic": "السوارقية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Suwariqiyya",
+            "toponym_arabic_other": "السوارقية",
+            "toponym_translit": "al-Suwāriqiyyaŧ",
+            "coord_lat": "23.28483",
+            "toponym_search": "al-Suwariqiyya",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.35548",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.35548,
+            23.28483
+        ]
+    }
+}

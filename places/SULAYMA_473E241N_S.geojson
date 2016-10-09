@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sulaymaŧ",
+            "cornu_URI": "SULAYMA_473E241N_S",
+            "toponym_arabic": "سليمة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Sulayma",
+            "toponym_arabic_other": "سليمة",
+            "toponym_translit": "Sulaymaŧ",
+            "coord_lat": "24.15648",
+            "toponym_search": "Sulayma",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "47.35509",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.35509,
+            24.15648
+        ]
+    }
+}

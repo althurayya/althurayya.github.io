@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000314-000.json": {
+                "title": "بيسان",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000315-000.json": {
+                "title": "وبيسان",
+                "rate": 91,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baysān",
+            "cornu_URI": "BAYSAN_354E325N_S",
+            "toponym_arabic": "بيسان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Baysan",
+            "toponym_arabic_other": "بيسان",
+            "toponym_translit": "Baysān",
+            "coord_lat": "32.50000",
+            "toponym_search": "Baysan",
+            "region_code": "Sham",
+            "coord_lon": "35.49256",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.49256,
+            32.5
+        ]
+    }
+}

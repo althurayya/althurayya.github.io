@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Karak",
+            "cornu_URI": "KARAK_356E311N_S",
+            "toponym_arabic": "كرك",
+            "top_type_orig": "village?",
+            "toponym_buckwalter": "Karak",
+            "toponym_arabic_other": "كرك",
+            "toponym_translit": "Karak",
+            "coord_lat": "31.17824",
+            "toponym_search": "Karak",
+            "region_code": "Sham",
+            "coord_lon": "35.69038",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.69038,
+            31.17824
+        ]
+    }
+}

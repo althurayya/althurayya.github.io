@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001386-000.json": {
+                "title": "مدين",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Madallīn",
+            "cornu_URI": "MADALLIN_059W389N_S",
+            "toponym_arabic": "مدلين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Madallin",
+            "toponym_arabic_other": "مدلين",
+            "toponym_translit": "Madallīn",
+            "coord_lat": "38.93229",
+            "toponym_search": "Madallin",
+            "region_code": "Andalus",
+            "coord_lon": "-5.94131",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.94131,
+            38.93229
+        ]
+    }
+}

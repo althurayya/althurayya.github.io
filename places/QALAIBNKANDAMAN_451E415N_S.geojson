@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qalʿaŧ Ibn Kandamān",
+            "cornu_URI": "QALAIBNKANDAMAN_451E415N_S",
+            "toponym_arabic": "قلعة إبن كندمان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qala Ibn Kandaman",
+            "toponym_arabic_other": "قلعة إبن كندمان",
+            "toponym_translit": "Qalʿaŧ Ibn Kandamān",
+            "coord_lat": "41.56808",
+            "toponym_search": "Qala Ibn Kandaman",
+            "region_code": "Rihab",
+            "coord_lon": "45.16780",
+            "region_spelled": "al-Riḥāb (Caucasus)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.1678,
+            41.56808
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001477-000.json": {
+                "title": "مسكيانه",
+                "rate": 88,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Miskyānaŧ",
+            "cornu_URI": "MISKYANA_077E356N_S",
+            "toponym_arabic": "المسكيانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Miskyana",
+            "toponym_arabic_other": "المسكيانة",
+            "toponym_translit": "al-Miskyānaŧ",
+            "coord_lat": "35.61620",
+            "toponym_search": "al-Miskyana",
+            "region_code": "Maghrib",
+            "coord_lon": "7.73214",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.73214,
+            35.6162
+        ]
+    }
+}

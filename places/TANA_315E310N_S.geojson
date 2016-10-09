@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Tanā",
+            "cornu_URI": "TANA_315E310N_S",
+            "toponym_arabic": "تنا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tana",
+            "toponym_arabic_other": "تنا",
+            "toponym_translit": "Tanā",
+            "coord_lat": "31.04233",
+            "toponym_search": "Tana",
+            "region_code": "Egypt",
+            "coord_lon": "31.54194",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.54194,
+            31.04233
+        ]
+    }
+}

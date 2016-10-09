@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Band, Bīḏ",
+            "cornu_URI": "BAND_620E260N_S",
+            "toponym_arabic": "بند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Band, Bidh",
+            "toponym_arabic_other": "بند، بيذ",
+            "toponym_translit": "Band",
+            "coord_lat": "26.09290",
+            "toponym_search": "Band, Bidh",
+            "region_code": "Sind",
+            "coord_lon": "62.05375",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.05375,
+            26.0929
+        ]
+    }
+}

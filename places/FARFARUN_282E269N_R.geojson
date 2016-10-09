@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Farfārūn",
+            "cornu_URI": "FARFARUN_282E269N_R",
+            "toponym_arabic": "فرفارون",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Farfarun",
+            "toponym_arabic_other": "فرفارون",
+            "toponym_translit": "Farfārūn",
+            "coord_lat": "26.96368",
+            "toponym_search": "Farfarun",
+            "region_code": "Egypt",
+            "coord_lon": "28.20107",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.20107,
+            26.96368
+        ]
+    }
+}

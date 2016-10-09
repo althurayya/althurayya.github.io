@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Zandarūḏ, al-Zarīnrūḏ, Zaranrūḏ",
+            "cornu_URI": "NAHRZANDARUDH_519E324N_W",
+            "toponym_arabic": "نهر زندروذ",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh",
+            "toponym_arabic_other": "نهر زندروذ، الزرينروذ، زرنروذ",
+            "toponym_translit": "Nahr Zandarūḏ",
+            "coord_lat": "32.45826",
+            "toponym_search": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh",
+            "region_code": "Jibal",
+            "coord_lon": "51.91596",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.91596,
+            32.45826
+        ]
+    }
+}

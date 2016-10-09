@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rustāq Bīk",
+            "cornu_URI": "RUSTAQBIK_699E371N_S",
+            "toponym_arabic": "رستاق بيك",
+            "top_type_orig": "canton/cheflieu",
+            "toponym_buckwalter": "Rustaq Bik",
+            "toponym_arabic_other": "رستاق بيك",
+            "toponym_translit": "Rustāq Bīk",
+            "coord_lat": "37.11046",
+            "toponym_search": "Rustaq Bik",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.91617",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.91617,
+            37.11046
+        ]
+    }
+}

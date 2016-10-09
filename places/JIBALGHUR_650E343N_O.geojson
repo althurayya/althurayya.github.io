@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧibal al-Ġūr",
+            "cornu_URI": "JIBALGHUR_650E343N_O",
+            "toponym_arabic": "جبل الغور",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jibal al-Ghur",
+            "toponym_arabic_other": "جبل الغور",
+            "toponym_translit": "Ǧibal al-Ġūr",
+            "coord_lat": "34.38521",
+            "toponym_search": "Jibal al-Ghur",
+            "region_code": "Khurasan",
+            "coord_lon": "65.09941",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.09941,
+            34.38521
+        ]
+    }
+}

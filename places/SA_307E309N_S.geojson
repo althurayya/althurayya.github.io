@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣāʾ",
+            "cornu_URI": "SA_307E309N_S",
+            "toponym_arabic": "صاء",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Sa",
+            "toponym_arabic_other": "صاء",
+            "toponym_translit": "Ṣāʾ",
+            "coord_lat": "30.95914",
+            "toponym_search": "Sa",
+            "region_code": "Egypt",
+            "coord_lon": "30.73849",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.73849,
+            30.95914
+        ]
+    }
+}

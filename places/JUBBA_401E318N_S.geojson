@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000426-000.json": {
+                "title": "الجبوبه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧubbaŧ, al-Maḥnaŧ",
+            "cornu_URI": "JUBBA_401E318N_S",
+            "toponym_arabic": "الجبة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Jubba, al-Mahna",
+            "toponym_arabic_other": "الجبة، المحنة",
+            "toponym_translit": "al-Ǧubbaŧ",
+            "coord_lat": "31.84948",
+            "toponym_search": "al-Jubba, al-Mahna",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "40.18305",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.18305,
+            31.84948
+        ]
+    }
+}

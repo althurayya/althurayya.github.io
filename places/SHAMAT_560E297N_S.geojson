@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000863-000.json": {
+                "title": "الشام",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Šāmāt",
+            "cornu_URI": "SHAMAT_560E297N_S",
+            "toponym_arabic": "الشامات",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Shamat",
+            "toponym_arabic_other": "الشامات",
+            "toponym_translit": "al-Šāmāt",
+            "coord_lat": "29.76249",
+            "toponym_search": "al-Shamat",
+            "region_code": "Kirman",
+            "coord_lon": "56.01438",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.01438,
+            29.76249
+        ]
+    }
+}

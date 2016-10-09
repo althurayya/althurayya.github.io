@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marġīnan",
+            "cornu_URI": "MARGHINAN_717E405N_S",
+            "toponym_arabic": "مرغينن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Marghinan",
+            "toponym_arabic_other": "مرغينن",
+            "toponym_translit": "Marġīnan",
+            "coord_lat": "40.50359",
+            "toponym_search": "Marghinan",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.76105",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.76105,
+            40.50359
+        ]
+    }
+}

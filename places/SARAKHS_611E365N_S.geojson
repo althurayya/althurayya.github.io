@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000802-000.json": {
+                "title": "سرخس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Saraḫs",
+            "cornu_URI": "SARAKHS_611E365N_S",
+            "toponym_arabic": "سرخس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sarakhs",
+            "toponym_arabic_other": "سرخس",
+            "toponym_translit": "Saraḫs",
+            "coord_lat": "36.51694",
+            "toponym_search": "Sarakhs",
+            "region_code": "Khurasan",
+            "coord_lon": "61.18671",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.18671,
+            36.51694
+        ]
+    }
+}

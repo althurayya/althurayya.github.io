@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿlaṯāyaŧ",
+            "cornu_URI": "MALATHAYA_429E368N_S",
+            "toponym_arabic": "معلثاية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Malathaya",
+            "toponym_arabic_other": "معلثاية",
+            "toponym_translit": "Maʿlaṯāyaŧ",
+            "coord_lat": "36.81597",
+            "toponym_search": "Malathaya",
+            "region_code": "Aqur",
+            "coord_lon": "42.96350",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.9635,
+            36.81597
+        ]
+    }
+}

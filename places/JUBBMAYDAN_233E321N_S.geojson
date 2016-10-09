@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧubb al-Maydān, Ǧubb al-Maydaʿān",
+            "cornu_URI": "JUBBMAYDAN_233E321N_S",
+            "toponym_arabic": "جب الميدان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jubb al-Maydan, Jubb al-Maydaan",
+            "toponym_arabic_other": "جب الميدان، جب الميدعان",
+            "toponym_translit": "Ǧubb al-Maydān",
+            "coord_lat": "32.18179",
+            "toponym_search": "Jubb al-Maydan, Jubb al-Maydaan",
+            "region_code": "Barqa",
+            "coord_lon": "23.31692",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.31692,
+            32.18179
+        ]
+    }
+}

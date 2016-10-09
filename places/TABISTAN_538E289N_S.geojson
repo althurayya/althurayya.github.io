@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000977-000.json": {
+                "title": "طبرستان",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭabistān, Ṭamistān, Ṭimāristān",
+            "cornu_URI": "TABISTAN_538E289N_S",
+            "toponym_arabic": "طبستان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Tabistan, Tamistan, Timaristan",
+            "toponym_arabic_other": "طبستان، طمستان، طمارستان",
+            "toponym_translit": "Ṭabistān",
+            "coord_lat": "28.94971",
+            "toponym_search": "Tabistan, Tamistan, Timaristan",
+            "region_code": "Faris",
+            "coord_lon": "53.81699",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.81699,
+            28.94971
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0605",
+            "cornu_URI": "ROUTPOINT0605_565E298N_O",
+            "toponym_arabic": "RoutPoint0605",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0605",
+            "toponym_arabic_other": "RoutPoint0605",
+            "toponym_translit": "RoutPoint0605",
+            "coord_lat": "29.88928",
+            "toponym_search": "RoutPoint0605",
+            "region_code": "Kirman",
+            "coord_lon": "56.59167",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.59167,
+            29.88928
+        ]
+    }
+}

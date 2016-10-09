@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000656-000.json": {
+                "title": "ذات عرق",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏāt ʿIrq",
+            "cornu_URI": "DHATIRQ_404E216N_S",
+            "toponym_arabic": "ذات عرق",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Dhat Irq",
+            "toponym_arabic_other": "ذات عرق",
+            "toponym_translit": "Ḏāt ʿIrq",
+            "coord_lat": "21.62677",
+            "toponym_search": "Dhat Irq",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.42853",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.42853,
+            21.62677
+        ]
+    }
+}

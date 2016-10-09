@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Aryāġ, Buḥayraŧ al-Riġaŧ",
+            "cornu_URI": "BUHAYRAARYAGH_064W345N_W",
+            "toponym_arabic": "بحيرة أرياغ",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Aryagh, Buhayra al-Righa",
+            "toponym_arabic_other": "بحيرة أرياغ، بحيرة الرغة",
+            "toponym_translit": "Buḥayraŧ Aryāġ",
+            "coord_lat": "34.55645",
+            "toponym_search": "Buhayra Aryagh, Buhayra al-Righa",
+            "region_code": "Maghrib",
+            "coord_lon": "-6.48719",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.48719,
+            34.55645
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṯāfit",
+            "cornu_URI": "ATHAFIT_439E161N_S",
+            "toponym_arabic": "أثافت",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Athafit",
+            "toponym_arabic_other": "أثافت",
+            "toponym_translit": "Aṯāfit",
+            "coord_lat": "16.11174",
+            "toponym_search": "Athafit",
+            "region_code": "Yemen",
+            "coord_lon": "43.97249",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.97249,
+            16.11174
+        ]
+    }
+}

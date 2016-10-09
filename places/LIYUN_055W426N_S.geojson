@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001352-000.json": {
+                "title": "ليون",
+                "rate": 100,
+                "status": "true"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Liyūn",
+            "cornu_URI": "LIYUN_055W426N_S",
+            "toponym_arabic": "ليون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Liyun",
+            "toponym_arabic_other": "ليون",
+            "toponym_translit": "Liyūn",
+            "coord_lat": "42.61850",
+            "toponym_search": "Liyun",
+            "region_code": "Andalus",
+            "coord_lon": "-5.56634",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.56634,
+            42.6185
+        ]
+    }
+}

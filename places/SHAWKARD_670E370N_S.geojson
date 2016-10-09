@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Šawkard, Siyāhǧird",
+            "cornu_URI": "SHAWKARD_670E370N_S",
+            "toponym_arabic": "شوكرد",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Shawkard, Siyahjird",
+            "toponym_arabic_other": "شوكرد، سياهجرد",
+            "toponym_translit": "Šawkard",
+            "coord_lat": "37.02037",
+            "toponym_search": "Shawkard, Siyahjird",
+            "region_code": "Khurasan",
+            "coord_lon": "67.09946",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.09946,
+            37.02037
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zānbūq, Zānbūk",
+            "cornu_URI": "ZANBUQ_619E309N_S",
+            "toponym_arabic": "زانبوق",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Zanbuq, Zanbuk",
+            "toponym_arabic_other": "زانبوق، زانبوك",
+            "toponym_translit": "Zānbūq",
+            "coord_lat": "30.99252",
+            "toponym_search": "Zanbuq, Zanbuk",
+            "region_code": "Sijistan",
+            "coord_lon": "61.91899",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.91899,
+            30.99252
+        ]
+    }
+}

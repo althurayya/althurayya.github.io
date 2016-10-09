@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bunduqaŧ, Manzil Ibn Bunduqaŧ, Manzil Ibn Ṣadaqaŧ",
+            "cornu_URI": "BUNDUQA_319E300N_S",
+            "toponym_arabic": "بندقة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Bunduqa, Manzil Ibn Bunduqa, Manzil Ibn Sadaqa",
+            "toponym_arabic_other": "بندقة، منزل إبن بندقة، منزل إبن صدقة",
+            "toponym_translit": "Bunduqaŧ",
+            "coord_lat": "30.09522",
+            "toponym_search": "Bunduqa, Manzil Ibn Bunduqa, Manzil Ibn Sadaqa",
+            "region_code": "Egypt",
+            "coord_lon": "31.93498",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.93498,
+            30.09522
+        ]
+    }
+}

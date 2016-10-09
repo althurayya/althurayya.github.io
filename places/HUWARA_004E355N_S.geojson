@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001548-000.json": {
+                "title": "نهرواره",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Huwāraŧ",
+            "cornu_URI": "HUWARA_004E355N_S",
+            "toponym_arabic": "هوارة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Huwara",
+            "toponym_arabic_other": "هوارة",
+            "toponym_translit": "Huwāraŧ",
+            "coord_lat": "35.55078",
+            "toponym_search": "Huwara",
+            "region_code": "Maghrib",
+            "coord_lon": "0.44200",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.442,
+            35.55078
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dayrūṭ",
+            "cornu_URI": "DAYRUT_304E312N_S",
+            "toponym_arabic": "ديروط",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dayrut",
+            "toponym_arabic_other": "ديروط",
+            "toponym_translit": "Dayrūṭ",
+            "coord_lat": "31.25059",
+            "toponym_search": "Dayrut",
+            "region_code": "Egypt",
+            "coord_lon": "30.44535",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.44535,
+            31.25059
+        ]
+    }
+}

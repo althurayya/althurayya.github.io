@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Zaytūnaŧ, ʿAyn Zaytūnaŧ, Biʾr Zaytūnaŧ",
+            "cornu_URI": "ZAYTUNA_101E343N_S",
+            "toponym_arabic": "الزيتونة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Zaytuna, Ayn Zaytuna, Bir Zaytuna",
+            "toponym_arabic_other": "الزيتونة، عين زيتونة، بئر زيتونة",
+            "toponym_translit": "al-Zaytūnaŧ",
+            "coord_lat": "34.35352",
+            "toponym_search": "al-Zaytuna, Ayn Zaytuna, Bir Zaytuna",
+            "region_code": "Maghrib",
+            "coord_lon": "10.10538",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.10538,
+            34.35352
+        ]
+    }
+}

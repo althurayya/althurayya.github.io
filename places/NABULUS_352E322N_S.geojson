@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000102-000.json": {
+                "title": "انطابلس",
+                "rate": 83,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001517-000.json": {
+                "title": "نابلس",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001511-000.json": {
+                "title": "نابل",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nābulus",
+            "cornu_URI": "NABULUS_352E322N_S",
+            "toponym_arabic": "نابلس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Nabulus",
+            "toponym_arabic_other": "نابلس",
+            "toponym_translit": "Nābulus",
+            "coord_lat": "32.22047",
+            "toponym_search": "Nabulus",
+            "region_code": "Sham",
+            "coord_lon": "35.24238",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.24238,
+            32.22047
+        ]
+    }
+}

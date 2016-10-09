@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫarrāraŧ",
+            "cornu_URI": "KHARRARA_519E300N_S",
+            "toponym_arabic": "الخرارة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Kharrara",
+            "toponym_arabic_other": "الخرارة",
+            "toponym_translit": "al-Ḫarrāraŧ",
+            "coord_lat": "30.04859",
+            "toponym_search": "al-Kharrara",
+            "region_code": "Faris",
+            "coord_lon": "51.94541",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.94541,
+            30.04859
+        ]
+    }
+}

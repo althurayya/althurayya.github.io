@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dandānaqān",
+            "cornu_URI": "DANDANAQAN_616E372N_S",
+            "toponym_arabic": "دندانقان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Dandanaqan",
+            "toponym_arabic_other": "دندانقان",
+            "toponym_translit": "Dandānaqān",
+            "coord_lat": "37.27393",
+            "toponym_search": "Dandanaqan",
+            "region_code": "Khurasan",
+            "coord_lon": "61.65152",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.65152,
+            37.27393
+        ]
+    }
+}

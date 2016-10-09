@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿUsaylaŧ",
+            "cornu_URI": "USAYLA_407E250N_S",
+            "toponym_arabic": "العسيلة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Usayla",
+            "toponym_arabic_other": "العسيلة",
+            "toponym_translit": "al-ʿUsaylaŧ",
+            "coord_lat": "25.04085",
+            "toponym_search": "al-Usayla",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "40.79626",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.79626,
+            25.04085
+        ]
+    }
+}

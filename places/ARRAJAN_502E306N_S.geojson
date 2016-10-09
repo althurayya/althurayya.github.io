@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000071-000.json": {
+                "title": "ارجان",
+                "rate": 91,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000683-000.json": {
+                "title": "الرجان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arrāǧān",
+            "cornu_URI": "ARRAJAN_502E306N_S",
+            "toponym_arabic": "أراجان",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Arrajan",
+            "toponym_arabic_other": "أراجان",
+            "toponym_translit": "Arrāǧān",
+            "coord_lat": "30.61030",
+            "toponym_search": "Arrajan",
+            "region_code": "Faris",
+            "coord_lon": "50.29766",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.29766,
+            30.6103
+        ]
+    }
+}

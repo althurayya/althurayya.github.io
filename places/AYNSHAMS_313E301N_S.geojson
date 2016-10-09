@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001083-000.json": {
+                "title": "عين شمس",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAyn Šams",
+            "cornu_URI": "AYNSHAMS_313E301N_S",
+            "toponym_arabic": "عين شمس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ayn Shams",
+            "toponym_arabic_other": "عين شمس",
+            "toponym_translit": "ʿAyn Šams",
+            "coord_lat": "30.12919",
+            "toponym_search": "Ayn Shams",
+            "region_code": "Egypt",
+            "coord_lon": "31.30770",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.3077,
+            30.12919
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0207",
+            "cornu_URI": "ROUTPOINT0207_380E379N_O",
+            "toponym_arabic": "RoutPoint0207",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0207",
+            "toponym_arabic_other": "RoutPoint0207",
+            "toponym_translit": "RoutPoint0207",
+            "coord_lat": "37.90914",
+            "toponym_search": "RoutPoint0207",
+            "region_code": "Aqur",
+            "coord_lon": "38.06612",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.06612,
+            37.90914
+        ]
+    }
+}

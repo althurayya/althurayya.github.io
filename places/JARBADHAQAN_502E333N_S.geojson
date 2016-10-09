@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000440-000.json": {
+                "title": "جرباذقان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarbāḏaqān, Ǧulbayǧān",
+            "cornu_URI": "JARBADHAQAN_502E333N_S",
+            "toponym_arabic": "جرباذقان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jarbadhaqan, Julbayjan",
+            "toponym_arabic_other": "جرباذقان، جلبيجان",
+            "toponym_translit": "Ǧarbāḏaqān",
+            "coord_lat": "33.38120",
+            "toponym_search": "Jarbadhaqan, Julbayjan",
+            "region_code": "Jibal",
+            "coord_lon": "50.29276",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.29276,
+            33.3812
+        ]
+    }
+}

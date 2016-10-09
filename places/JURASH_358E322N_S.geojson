@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000435-000.json": {
+                "title": "جرش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuraš",
+            "cornu_URI": "JURASH_358E322N_S",
+            "toponym_arabic": "جرش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jurash",
+            "toponym_arabic_other": "جرش",
+            "toponym_translit": "Ǧuraš",
+            "coord_lat": "32.27309",
+            "toponym_search": "Jurash",
+            "region_code": "Sham",
+            "coord_lon": "35.88040",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.8804,
+            32.27309
+        ]
+    }
+}

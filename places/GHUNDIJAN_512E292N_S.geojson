@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġundiǧān",
+            "cornu_URI": "GHUNDIJAN_512E292N_S",
+            "toponym_arabic": "الغندجان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Ghundijan",
+            "toponym_arabic_other": "الغندجان",
+            "toponym_translit": "al-Ġundiǧān",
+            "coord_lat": "29.22327",
+            "toponym_search": "al-Ghundijan",
+            "region_code": "Faris",
+            "coord_lon": "51.26065",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.26065,
+            29.22327
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000705-000.json": {
+                "title": "الرها",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ruhā",
+            "cornu_URI": "RUHA_388E371N_S",
+            "toponym_arabic": "الرها",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Ruha",
+            "toponym_arabic_other": "الرها",
+            "toponym_translit": "al-Ruhā",
+            "coord_lat": "37.14970",
+            "toponym_search": "al-Ruha",
+            "region_code": "Aqur",
+            "coord_lon": "38.82122",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.82122,
+            37.1497
+        ]
+    }
+}

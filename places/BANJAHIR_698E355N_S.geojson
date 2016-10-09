@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000260-000.json": {
+                "title": "بلنجر",
+                "rate": 89,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000276-000.json": {
+                "title": "بنجهير",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Banǧahīr, Banǧar",
+            "cornu_URI": "BANJAHIR_698E355N_S",
+            "toponym_arabic": "بنجهير",
+            "top_type_orig": "canton",
+            "toponym_buckwalter": "Banjahir, Banjar",
+            "toponym_arabic_other": "بنجهير، بنجر",
+            "toponym_translit": "Banǧahīr",
+            "coord_lat": "35.51814",
+            "toponym_search": "Banjahir, Banjar",
+            "region_code": "Khurasan",
+            "coord_lon": "69.81804",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.81804,
+            35.51814
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥiṣn Badraŧ",
+            "cornu_URI": "HISNBADRA_514E333N_S",
+            "toponym_arabic": "حصن بدرة",
+            "top_type_orig": "forteresse",
+            "toponym_buckwalter": "Hisn Badra",
+            "toponym_arabic_other": "حصن بدرة",
+            "toponym_translit": "Ḥiṣn Badraŧ",
+            "coord_lat": "33.39951",
+            "toponym_search": "Hisn Badra",
+            "region_code": "Mafaza",
+            "coord_lon": "51.46355",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.46355,
+            33.39951
+        ]
+    }
+}

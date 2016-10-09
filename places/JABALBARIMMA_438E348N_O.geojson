@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Bārimmā",
+            "cornu_URI": "JABALBARIMMA_438E348N_O",
+            "toponym_arabic": "جبل بارما",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Barimma",
+            "toponym_arabic_other": "جبل بارما",
+            "toponym_translit": "Ǧabal Bārimmā",
+            "coord_lat": "34.80370",
+            "toponym_search": "Jabal Barimma",
+            "region_code": "Iraq",
+            "coord_lon": "43.89840",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.8984,
+            34.8037
+        ]
+    }
+}

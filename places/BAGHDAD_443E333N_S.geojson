@@ -1,0 +1,43 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {
+            "EI2": {
+                "uri": "ei2_COM_0084.json"
+            }
+        },
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000285-000.json": {
+                "title": "بغداد",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baġdād",
+            "cornu_URI": "BAGHDAD_443E333N_S",
+            "toponym_arabic": "بغداد",
+            "top_type_orig": "metropole",
+            "toponym_buckwalter": "Baghdad",
+            "toponym_arabic_other": "بغداد",
+            "toponym_translit": "Baġdād",
+            "coord_lat": "33.35932",
+            "toponym_search": "Baghdad",
+            "region_code": "Iraq",
+            "coord_lon": "44.35693",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "metropoles"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.35693,
+            33.35932
+        ]
+    }
+}

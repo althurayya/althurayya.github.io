@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Darwāḏ",
+            "cornu_URI": "DARWADH_501E350N_S",
+            "toponym_arabic": "درواذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Darwadh",
+            "toponym_arabic_other": "درواذ",
+            "toponym_translit": "Darwāḏ",
+            "coord_lat": "35.00944",
+            "toponym_search": "Darwadh",
+            "region_code": "Jibal",
+            "coord_lon": "50.19954",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.19954,
+            35.00944
+        ]
+    }
+}

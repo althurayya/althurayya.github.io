@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001419-000.json": {
+                "title": "مرعش",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Marʿaš",
+            "cornu_URI": "MARASH_369E375N_S",
+            "toponym_arabic": "مرعش",
+            "top_type_orig": "placefrontiere",
+            "toponym_buckwalter": "Marash",
+            "toponym_arabic_other": "مرعش",
+            "toponym_translit": "Marʿaš",
+            "coord_lat": "37.58314",
+            "toponym_search": "Marash",
+            "region_code": "Aqur",
+            "coord_lon": "36.92987",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.92987,
+            37.58314
+        ]
+    }
+}

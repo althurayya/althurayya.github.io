@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Šāš, Ṣayḥūn",
+            "cornu_URI": "NAHRSHASH_719E409N_W",
+            "toponym_arabic": "نهر شاش",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Shash, Sayhun",
+            "toponym_arabic_other": "نهر شاش، صيحون",
+            "toponym_translit": "Nahr Šāš",
+            "coord_lat": "40.94221",
+            "toponym_search": "Nahr Shash, Sayhun",
+            "region_code": "Transoxiana",
+            "coord_lon": "71.95478",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            71.95478,
+            40.94221
+        ]
+    }
+}

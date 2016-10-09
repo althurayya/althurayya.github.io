@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000929-000.json": {
+                "title": "صعده",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣaʿdaŧ",
+            "cornu_URI": "SADA_437E169N_S",
+            "toponym_arabic": "صعدة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sada",
+            "toponym_arabic_other": "صعدة",
+            "toponym_translit": "Ṣaʿdaŧ",
+            "coord_lat": "16.94530",
+            "toponym_search": "Sada",
+            "region_code": "Yemen",
+            "coord_lon": "43.76442",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.76442,
+            16.9453
+        ]
+    }
+}

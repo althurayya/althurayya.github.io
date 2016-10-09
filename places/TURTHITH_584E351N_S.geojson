@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000991-000.json": {
+                "title": "طريثيث",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭurṯīṯ, Turšīz, Ṭurayṯīṯ",
+            "cornu_URI": "TURTHITH_584E351N_S",
+            "toponym_arabic": "طرثيث",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Turthith, Turshiz, Turaythith",
+            "toponym_arabic_other": "طرثيث، ترشيز، طريثيث",
+            "toponym_translit": "Ṭurṯīṯ",
+            "coord_lat": "35.13557",
+            "toponym_search": "Turthith, Turshiz, Turaythith",
+            "region_code": "Khurasan",
+            "coord_lon": "58.41130",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.4113,
+            35.13557
+        ]
+    }
+}

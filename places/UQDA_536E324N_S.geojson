@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿUqdaŧ",
+            "cornu_URI": "UQDA_536E324N_S",
+            "toponym_arabic": "عقدة",
+            "top_type_orig": "ville",
+            "toponym_buckwalter": "Uqda",
+            "toponym_arabic_other": "عقدة",
+            "toponym_translit": "ʿUqdaŧ",
+            "coord_lat": "32.40568",
+            "toponym_search": "Uqda",
+            "region_code": "Faris",
+            "coord_lon": "53.66217",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.66217,
+            32.40568
+        ]
+    }
+}

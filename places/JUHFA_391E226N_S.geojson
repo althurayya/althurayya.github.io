@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000429-000.json": {
+                "title": "الجحفه",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧuḥfaŧ",
+            "cornu_URI": "JUHFA_391E226N_S",
+            "toponym_arabic": "الجحفة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Juhfa",
+            "toponym_arabic_other": "الجحفة",
+            "toponym_translit": "al-Ǧuḥfaŧ",
+            "coord_lat": "22.60833",
+            "toponym_search": "al-Juhfa",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.12422",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.12422,
+            22.60833
+        ]
+    }
+}

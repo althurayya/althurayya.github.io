@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001113-000.json": {
+                "title": "الغوير",
+                "rate": 91,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001114-000.json": {
+                "title": "الغور",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ġawr",
+            "cornu_URI": "GHAWR_354E318N_R",
+            "toponym_arabic": "الغور",
+            "top_type_orig": "fosse",
+            "toponym_buckwalter": "al-Ghawr",
+            "toponym_arabic_other": "الغور",
+            "toponym_translit": "al-Ġawr",
+            "coord_lat": "31.86882",
+            "toponym_search": "al-Ghawr",
+            "region_code": "Sham",
+            "coord_lon": "35.48149",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.48149,
+            31.86882
+        ]
+    }
+}

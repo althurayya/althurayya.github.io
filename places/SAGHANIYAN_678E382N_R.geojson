@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000930-000.json": {
+                "title": "الصغانيان",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṣaġāniyān",
+            "cornu_URI": "SAGHANIYAN_678E382N_R",
+            "toponym_arabic": "الصغانيان",
+            "top_type_orig": "territoire",
+            "toponym_buckwalter": "al-Saghaniyan",
+            "toponym_arabic_other": "الصغانيان",
+            "toponym_translit": "al-Ṣaġāniyān",
+            "coord_lat": "38.26337",
+            "toponym_search": "al-Saghaniyan",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.89454",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.89454,
+            38.26337
+        ]
+    }
+}

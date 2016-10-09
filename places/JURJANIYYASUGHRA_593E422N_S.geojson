@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧurǧāniyyaŧ al-Ṣuġrá",
+            "cornu_URI": "JURJANIYYASUGHRA_593E422N_S",
+            "toponym_arabic": "جرجانية الصغرى",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jurjaniyya al-Sughra",
+            "toponym_arabic_other": "جرجانية الصغرى",
+            "toponym_translit": "Ǧurǧāniyyaŧ al-Ṣuġrá",
+            "coord_lat": "42.28887",
+            "toponym_search": "Jurjaniyya al-Sughra",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.31292",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.31292,
+            42.28887
+        ]
+    }
+}

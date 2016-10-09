@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000523-000.json": {
+                "title": "الحمه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000521-000.json": {
+                "title": "الحميمه",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥammaŧ",
+            "cornu_URI": "HAMMA_081E340N_S",
+            "toponym_arabic": "الحمة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Hamma",
+            "toponym_arabic_other": "الحمة",
+            "toponym_translit": "al-Ḥammaŧ",
+            "coord_lat": "34.05630",
+            "toponym_search": "al-Hamma",
+            "region_code": "Maghrib",
+            "coord_lon": "8.19472",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.19472,
+            34.0563
+        ]
+    }
+}

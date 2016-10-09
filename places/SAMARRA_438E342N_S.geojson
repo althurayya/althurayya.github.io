@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000770-000.json": {
+                "title": "سامرا",
+                "rate": 91,
+                "status": "y"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sāmarrāʾ",
+            "cornu_URI": "SAMARRA_438E342N_S",
+            "toponym_arabic": "سامراء",
+            "top_type_orig": "capitale",
+            "toponym_buckwalter": "Samarra",
+            "toponym_arabic_other": "سامراء",
+            "toponym_translit": "Sāmarrāʾ",
+            "coord_lat": "34.20964",
+            "toponym_search": "Samarra",
+            "region_code": "Iraq",
+            "coord_lon": "43.88134",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.88134,
+            34.20964
+        ]
+    }
+}

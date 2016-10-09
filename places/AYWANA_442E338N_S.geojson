@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aywānaŧ, Awānaŧ, Uwānaŧ",
+            "cornu_URI": "AYWANA_442E338N_S",
+            "toponym_arabic": "أيوانة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Aywana, Awana, Uwana",
+            "toponym_arabic_other": "أيوانة، أوانة، أوانة",
+            "toponym_translit": "Aywānaŧ",
+            "coord_lat": "33.81321",
+            "toponym_search": "Aywana, Awana, Uwana",
+            "region_code": "Iraq",
+            "coord_lon": "44.26367",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.26367,
+            33.81321
+        ]
+    }
+}

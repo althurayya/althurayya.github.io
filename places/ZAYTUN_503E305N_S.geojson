@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zaytūn, Zaytān, Firzuk",
+            "cornu_URI": "ZAYTUN_503E305N_S",
+            "toponym_arabic": "زيتون",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Zaytun, Zaytan, Firzuk",
+            "toponym_arabic_other": "زيتون، زيتان، فرزك",
+            "toponym_translit": "Zaytūn",
+            "coord_lat": "30.51616",
+            "toponym_search": "Zaytun, Zaytan, Firzuk",
+            "region_code": "Faris",
+            "coord_lon": "50.39397",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.39397,
+            30.51616
+        ]
+    }
+}

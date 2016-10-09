@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ūrd",
+            "cornu_URI": "URD_519E307N_S",
+            "toponym_arabic": "أورد",
+            "top_type_orig": "canton/cite",
+            "toponym_buckwalter": "Urd",
+            "toponym_arabic_other": "أورد",
+            "toponym_translit": "Ūrd",
+            "coord_lat": "30.77818",
+            "toponym_search": "Urd",
+            "region_code": "Faris",
+            "coord_lon": "51.99227",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.99227,
+            30.77818
+        ]
+    }
+}

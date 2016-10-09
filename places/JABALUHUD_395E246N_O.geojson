@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Uḥud",
+            "cornu_URI": "JABALUHUD_395E246N_O",
+            "toponym_arabic": "جبل أحد",
+            "top_type_orig": "mont",
+            "toponym_buckwalter": "Jabal Uhud",
+            "toponym_arabic_other": "جبل أحد",
+            "toponym_translit": "Ǧabal Uḥud",
+            "coord_lat": "24.64886",
+            "toponym_search": "Jabal Uhud",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.59145",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.59145,
+            24.64886
+        ]
+    }
+}

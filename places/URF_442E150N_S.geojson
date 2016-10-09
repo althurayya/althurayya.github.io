@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿUrf",
+            "cornu_URI": "URF_442E150N_S",
+            "toponym_arabic": "العرف",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Urf",
+            "toponym_arabic_other": "العرف",
+            "toponym_translit": "al-ʿUrf",
+            "coord_lat": "15.09101",
+            "toponym_search": "al-Urf",
+            "region_code": "Yemen",
+            "coord_lon": "44.27297",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.27297,
+            15.09101
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001191-000.json": {
+                "title": "قرناطه",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000133-000.json": {
+                "title": "اغرناطه",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ġarnāṭaŧ",
+            "cornu_URI": "GHARNATA_035W372N_S",
+            "toponym_arabic": "غرناطة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Gharnata",
+            "toponym_arabic_other": "غرناطة",
+            "toponym_translit": "Ġarnāṭaŧ",
+            "coord_lat": "37.20621",
+            "toponym_search": "Gharnata",
+            "region_code": "Andalus",
+            "coord_lon": "-3.59980",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.5998,
+            37.20621
+        ]
+    }
+}

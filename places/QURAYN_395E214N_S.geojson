@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qurayn",
+            "cornu_URI": "QURAYN_395E214N_S",
+            "toponym_arabic": "قرين",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Qurayn",
+            "toponym_arabic_other": "قرين",
+            "toponym_translit": "Qurayn",
+            "coord_lat": "21.41489",
+            "toponym_search": "Qurayn",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.57789",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.57789,
+            21.41489
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qarʿāʾ",
+            "cornu_URI": "QARA_438E308N_S",
+            "toponym_arabic": "قرعاء",
+            "top_type_orig": "puits",
+            "toponym_buckwalter": "Qara",
+            "toponym_arabic_other": "قرعاء",
+            "toponym_translit": "Qarʿāʾ",
+            "coord_lat": "30.87576",
+            "toponym_search": "Qara",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "43.81303",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.81303,
+            30.87576
+        ]
+    }
+}

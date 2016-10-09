@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Lāwakand",
+            "cornu_URI": "LAWAKAND_690E379N_S",
+            "toponym_arabic": "لاوكند",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Lawakand",
+            "toponym_arabic_other": "لاوكند",
+            "toponym_translit": "Lāwakand",
+            "coord_lat": "37.95639",
+            "toponym_search": "Lawakand",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.04582",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.04582,
+            37.95639
+        ]
+    }
+}

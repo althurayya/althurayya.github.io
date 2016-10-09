@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kīt, Ǧīt",
+            "cornu_URI": "KIT_590E420N_S",
+            "toponym_arabic": "كيت",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kit, Jit",
+            "toponym_arabic_other": "كيت، جيت",
+            "toponym_translit": "Kīt",
+            "coord_lat": "42.09511",
+            "toponym_search": "Kit, Jit",
+            "region_code": "Transoxiana",
+            "coord_lon": "59.02814",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.02814,
+            42.09511
+        ]
+    }
+}

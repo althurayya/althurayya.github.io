@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḏāt al-Sāḥil",
+            "cornu_URI": "DHATSAHIL_310E302N_S",
+            "toponym_arabic": "ذات الساحل",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Dhat al-Sahil",
+            "toponym_arabic_other": "ذات الساحل",
+            "toponym_translit": "Ḏāt al-Sāḥil",
+            "coord_lat": "30.22134",
+            "toponym_search": "Dhat al-Sahil",
+            "region_code": "Egypt",
+            "coord_lon": "31.01228",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.01228,
+            30.22134
+        ]
+    }
+}

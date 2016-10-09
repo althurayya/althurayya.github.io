@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫaribtā",
+            "cornu_URI": "KHARIBTA_306E307N_R",
+            "toponym_arabic": "خربتا",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Kharibta",
+            "toponym_arabic_other": "خربتا",
+            "toponym_translit": "Ḫaribtā",
+            "coord_lat": "30.75281",
+            "toponym_search": "Kharibta",
+            "region_code": "Egypt",
+            "coord_lon": "30.66535",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.66535,
+            30.75281
+        ]
+    }
+}

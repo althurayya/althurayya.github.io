@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Qulūfī, al-ʿAlawī",
+            "cornu_URI": "QULUFI_395E321N_S",
+            "toponym_arabic": "القلوفي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Qulufi, al-Alawi",
+            "toponym_arabic_other": "القلوفي، العلوي",
+            "toponym_translit": "al-Qulūfī",
+            "coord_lat": "32.14778",
+            "toponym_search": "al-Qulufi, al-Alawi",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "39.59203",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.59203,
+            32.14778
+        ]
+    }
+}

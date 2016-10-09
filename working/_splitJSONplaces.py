@@ -17,6 +17,9 @@ def splitJSON(file):
         d = json.load(json_data) # .decode("utf-8")
         
         for f in d["features"]:
+            count += 1
+            if count % 100 == 0:
+                print(count)
                 
             if "sources_arabic" not in f["properties"]:
                 f["properties"]["sources_arabic"] = {}
@@ -28,7 +31,7 @@ def splitJSON(file):
             with open("../places/%s.geojson" % fileName,"w",encoding='utf-8') as fp:
                 json.dump(f,fp,indent=4,ensure_ascii=False)
 
-            input("Stopped...")
+            #input("Stopped...")
 
 
 

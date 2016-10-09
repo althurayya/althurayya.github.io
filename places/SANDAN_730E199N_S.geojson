@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sandān",
+            "cornu_URI": "SANDAN_730E199N_S",
+            "toponym_arabic": "سندان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sandan",
+            "toponym_arabic_other": "سندان",
+            "toponym_translit": "Sandān",
+            "coord_lat": "19.90633",
+            "toponym_search": "Sandan",
+            "region_code": "Sind",
+            "coord_lon": "73.01422",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.01422,
+            19.90633
+        ]
+    }
+}

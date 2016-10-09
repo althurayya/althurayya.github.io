@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maʿādin al-Zumurruḏ",
+            "cornu_URI": "MAADINZUMURRUDH_338E250N_O",
+            "toponym_arabic": "معادن الزمرذ",
+            "top_type_orig": "mines",
+            "toponym_buckwalter": "Maadin al-Zumurrudh",
+            "toponym_arabic_other": "معادن الزمرذ",
+            "toponym_translit": "Maʿādin al-Zumurruḏ",
+            "coord_lat": "25.07556",
+            "toponym_search": "Maadin al-Zumurrudh",
+            "region_code": "Egypt",
+            "coord_lon": "33.89324",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.89324,
+            25.07556
+        ]
+    }
+}

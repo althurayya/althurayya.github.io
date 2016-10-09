@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧuwayn, Kūyān",
+            "cornu_URI": "JUWAYN_566E368N_R",
+            "toponym_arabic": "جوين",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Juwayn, Kuyan",
+            "toponym_arabic_other": "جوين، كويان",
+            "toponym_translit": "Ǧuwayn",
+            "coord_lat": "36.86045",
+            "toponym_search": "Juwayn, Kuyan",
+            "region_code": "Khurasan",
+            "coord_lon": "56.69972",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.69972,
+            36.86045
+        ]
+    }
+}

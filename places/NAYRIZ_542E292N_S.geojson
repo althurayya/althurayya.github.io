@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nayrīz",
+            "cornu_URI": "NAYRIZ_542E292N_S",
+            "toponym_arabic": "نيريز",
+            "top_type_orig": "cheflieu",
+            "toponym_buckwalter": "Nayriz",
+            "toponym_arabic_other": "نيريز",
+            "toponym_translit": "Nayrīz",
+            "coord_lat": "29.21368",
+            "toponym_search": "Nayriz",
+            "region_code": "Faris",
+            "coord_lon": "54.27518",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "capitals"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.27518,
+            29.21368
+        ]
+    }
+}

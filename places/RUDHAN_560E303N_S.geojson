@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000708-000.json": {
+                "title": "روذان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rūḏān",
+            "cornu_URI": "RUDHAN_560E303N_S",
+            "toponym_arabic": "الروذان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Rudhan",
+            "toponym_arabic_other": "الروذان",
+            "toponym_translit": "al-Rūḏān",
+            "coord_lat": "30.39947",
+            "toponym_search": "al-Rudhan",
+            "region_code": "Faris",
+            "coord_lon": "56.02186",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.02186,
+            30.39947
+        ]
+    }
+}

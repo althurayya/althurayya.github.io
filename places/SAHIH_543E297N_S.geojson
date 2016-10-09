@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṣahīh, Ṣāhik",
+            "cornu_URI": "SAHIH_543E297N_S",
+            "toponym_arabic": "صهيه",
+            "top_type_orig": "cite?",
+            "toponym_buckwalter": "Sahih, Sahik",
+            "toponym_arabic_other": "صهيه، صاهك",
+            "toponym_translit": "Ṣahīh",
+            "coord_lat": "29.77106",
+            "toponym_search": "Sahih, Sahik",
+            "region_code": "Faris",
+            "coord_lon": "54.30902",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.30902,
+            29.77106
+        ]
+    }
+}

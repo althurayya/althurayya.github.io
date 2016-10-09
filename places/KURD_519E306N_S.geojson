@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kūrd, Kūrad",
+            "cornu_URI": "KURD_519E306N_S",
+            "toponym_arabic": "كورد",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Kurd, Kurad",
+            "toponym_arabic_other": "كورد، كورد",
+            "toponym_translit": "Kūrd",
+            "coord_lat": "30.69092",
+            "toponym_search": "Kurd, Kurad",
+            "region_code": "Faris",
+            "coord_lon": "51.93240",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.9324,
+            30.69092
+        ]
+    }
+}

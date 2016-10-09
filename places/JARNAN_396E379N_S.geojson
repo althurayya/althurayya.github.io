@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarnān",
+            "cornu_URI": "JARNAN_396E379N_S",
+            "toponym_arabic": "جرنان",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Jarnan",
+            "toponym_arabic_other": "جرنان",
+            "toponym_translit": "Ǧarnān",
+            "coord_lat": "37.92941",
+            "toponym_search": "Jarnan",
+            "region_code": "Aqur",
+            "coord_lon": "39.61765",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.61765,
+            37.92941
+        ]
+    }
+}

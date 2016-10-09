@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Tirmīḏ",
+            "cornu_URI": "TIRMIDH_673E372N_S",
+            "toponym_arabic": "الترميذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "al-Tirmidh",
+            "toponym_arabic_other": "الترميذ",
+            "toponym_translit": "al-Tirmīḏ",
+            "coord_lat": "37.27697",
+            "toponym_search": "al-Tirmidh",
+            "region_code": "Transoxiana",
+            "coord_lon": "67.32394",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.32394,
+            37.27697
+        ]
+    }
+}

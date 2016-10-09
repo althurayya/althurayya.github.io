@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Tustar",
+            "cornu_URI": "NAHRTUSTAR_488E318N_W",
+            "toponym_arabic": "نهر تستر",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Tustar",
+            "toponym_arabic_other": "نهر تستر",
+            "toponym_translit": "Nahr Tustar",
+            "coord_lat": "31.88178",
+            "toponym_search": "Nahr Tustar",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.84200",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.842,
+            31.88178
+        ]
+    }
+}

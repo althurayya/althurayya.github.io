@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kuhak",
+            "cornu_URI": "KUHAK_653E314N_S",
+            "toponym_arabic": "كهك",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Kuhak",
+            "toponym_arabic_other": "كهك",
+            "toponym_translit": "Kuhak",
+            "coord_lat": "31.46253",
+            "toponym_search": "Kuhak",
+            "region_code": "Sijistan",
+            "coord_lon": "65.33622",
+            "region_spelled": "Sijistān (Sīstān)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.33622,
+            31.46253
+        ]
+    }
+}

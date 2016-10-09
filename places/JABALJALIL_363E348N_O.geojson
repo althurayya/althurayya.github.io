@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabal Ǧalīl",
+            "cornu_URI": "JABALJALIL_363E348N_O",
+            "toponym_arabic": "جبل جليل",
+            "top_type_orig": "montagne",
+            "toponym_buckwalter": "Jabal Jalil",
+            "toponym_arabic_other": "جبل جليل",
+            "toponym_translit": "Ǧabal Ǧalīl",
+            "coord_lat": "34.85533",
+            "toponym_search": "Jabal Jalil",
+            "region_code": "Sham",
+            "coord_lon": "36.35891",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "sites"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.35891,
+            34.85533
+        ]
+    }
+}

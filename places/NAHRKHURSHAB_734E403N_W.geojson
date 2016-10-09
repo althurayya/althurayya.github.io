@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ḫuršāb, Nahr Ḫaršāb, Nahr Ḫaršān",
+            "cornu_URI": "NAHRKHURSHAB_734E403N_W",
+            "toponym_arabic": "نهر خرشاب",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan",
+            "toponym_arabic_other": "نهر خرشاب، نهر خرشاب، نهر خرشان",
+            "toponym_translit": "Nahr Ḫuršāb",
+            "coord_lat": "40.37680",
+            "toponym_search": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan",
+            "region_code": "Transoxiana",
+            "coord_lon": "73.45613",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.45613,
+            40.3768
+        ]
+    }
+}

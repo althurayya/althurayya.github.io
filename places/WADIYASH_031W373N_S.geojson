@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001598-000.json": {
+                "title": "وادي اش",
+                "rate": 92,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādiyāš",
+            "cornu_URI": "WADIYASH_031W373N_S",
+            "toponym_arabic": "وادياش",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wadiyash",
+            "toponym_arabic_other": "وادياش",
+            "toponym_translit": "Wādiyāš",
+            "coord_lat": "37.33966",
+            "toponym_search": "Wadiyash",
+            "region_code": "Andalus",
+            "coord_lon": "-3.16459",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.16459,
+            37.33966
+        ]
+    }
+}

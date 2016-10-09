@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Nabk",
+            "cornu_URI": "NABK_374E312N_S",
+            "toponym_arabic": "النبك",
+            "top_type_orig": "pointdeau",
+            "toponym_buckwalter": "al-Nabk",
+            "toponym_arabic_other": "النبك",
+            "toponym_translit": "al-Nabk",
+            "coord_lat": "31.21242",
+            "toponym_search": "al-Nabk",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "37.46475",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.46475,
+            31.21242
+        ]
+    }
+}

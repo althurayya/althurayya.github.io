@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Zarraŧ",
+            "cornu_URI": "ZARRA_492E350N_S",
+            "toponym_arabic": "زرة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Zarra",
+            "toponym_arabic_other": "زرة",
+            "toponym_translit": "Zarraŧ",
+            "coord_lat": "35.06556",
+            "toponym_search": "Zarra",
+            "region_code": "Jibal",
+            "coord_lon": "49.23165",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.23165,
+            35.06556
+        ]
+    }
+}

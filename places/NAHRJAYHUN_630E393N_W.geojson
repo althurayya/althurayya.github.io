@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nahr Ǧayḥūn",
+            "cornu_URI": "NAHRJAYHUN_630E393N_W",
+            "toponym_arabic": "نهر جيحون",
+            "top_type_orig": "riviere",
+            "toponym_buckwalter": "Nahr Jayhun",
+            "toponym_arabic_other": "نهر جيحون",
+            "toponym_translit": "Nahr Ǧayḥūn",
+            "coord_lat": "39.39670",
+            "toponym_search": "Nahr Jayhun",
+            "region_code": "Transoxiana",
+            "coord_lon": "63.09182",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.09182,
+            39.3967
+        ]
+    }
+}

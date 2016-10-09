@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000827-000.json": {
+                "title": "سمندر",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Samandar",
+            "cornu_URI": "SAMANDAR_475E429N_S",
+            "toponym_arabic": "سمندر",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Samandar",
+            "toponym_arabic_other": "سمندر",
+            "toponym_translit": "Samandar",
+            "coord_lat": "42.90467",
+            "toponym_search": "Samandar",
+            "region_code": "Khazar",
+            "coord_lon": "47.51198",
+            "region_spelled": "al-Ḫazar",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.51198,
+            42.90467
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000474-000.json": {
+                "title": "الجفار",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ǧifār",
+            "cornu_URI": "JIFAR_332E307N_R",
+            "toponym_arabic": "الجفار",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Jifar",
+            "toponym_arabic_other": "الجفار",
+            "toponym_translit": "al-Ǧifār",
+            "coord_lat": "30.75519",
+            "toponym_search": "al-Jifar",
+            "region_code": "Egypt",
+            "coord_lon": "33.23727",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.23727,
+            30.75519
+        ]
+    }
+}

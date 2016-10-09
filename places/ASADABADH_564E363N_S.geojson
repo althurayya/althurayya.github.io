@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Asadābāḏ",
+            "cornu_URI": "ASADABADH_564E363N_S",
+            "toponym_arabic": "أسداباذ",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Asadabadh",
+            "toponym_arabic_other": "أسداباذ",
+            "toponym_translit": "Asadābāḏ",
+            "coord_lat": "36.32897",
+            "toponym_search": "Asadabadh",
+            "region_code": "Khurasan",
+            "coord_lon": "56.45362",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.45362,
+            36.32897
+        ]
+    }
+}

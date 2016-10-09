@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001486-000.json": {
+                "title": "المشقر",
+                "rate": 83,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Arǧikūk, al-Šaqūr",
+            "cornu_URI": "ARJIKUK_014W352N_S",
+            "toponym_arabic": "أرجكوك",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Arjikuk, al-Shaqur",
+            "toponym_arabic_other": "أرجكوك، الشقور",
+            "toponym_translit": "Arǧikūk",
+            "coord_lat": "35.28205",
+            "toponym_search": "Arjikuk, al-Shaqur",
+            "region_code": "Maghrib",
+            "coord_lon": "-1.45702",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.45702,
+            35.28205
+        ]
+    }
+}

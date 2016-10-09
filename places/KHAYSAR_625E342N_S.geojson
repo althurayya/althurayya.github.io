@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫaysār",
+            "cornu_URI": "KHAYSAR_625E342N_S",
+            "toponym_arabic": "خيسار",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khaysar",
+            "toponym_arabic_other": "خيسار",
+            "toponym_translit": "Ḫaysār",
+            "coord_lat": "34.27292",
+            "toponym_search": "Khaysar",
+            "region_code": "Khurasan",
+            "coord_lon": "62.58466",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.58466,
+            34.27292
+        ]
+    }
+}

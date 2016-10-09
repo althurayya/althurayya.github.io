@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Māḥūz Azdūd",
+            "cornu_URI": "MAHUZAZDUD_346E318N_S",
+            "toponym_arabic": "ماحوز أزدود",
+            "top_type_orig": "port",
+            "toponym_buckwalter": "Mahuz Azdud",
+            "toponym_arabic_other": "ماحوز أزدود",
+            "toponym_translit": "Māḥūz Azdūd",
+            "coord_lat": "31.81276",
+            "toponym_search": "Mahuz Azdud",
+            "region_code": "Sham",
+            "coord_lon": "34.63712",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.63712,
+            31.81276
+        ]
+    }
+}

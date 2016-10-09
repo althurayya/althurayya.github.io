@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001513-000.json": {
+                "title": "ناردين",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001360-000.json": {
+                "title": "ماردين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Mārdīn",
+            "cornu_URI": "MARDIN_407E373N_S",
+            "toponym_arabic": "ماردين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mardin",
+            "toponym_arabic_other": "ماردين",
+            "toponym_translit": "Mārdīn",
+            "coord_lat": "37.30186",
+            "toponym_search": "Mardin",
+            "region_code": "Aqur",
+            "coord_lon": "40.71117",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.71117,
+            37.30186
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Kandaram",
+            "cornu_URI": "KANDARAM_646E353N_S",
+            "toponym_arabic": "كندرم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Kandaram",
+            "toponym_arabic_other": "كندرم",
+            "toponym_translit": "Kandaram",
+            "coord_lat": "35.33988",
+            "toponym_search": "Kandaram",
+            "region_code": "Khurasan",
+            "coord_lon": "64.60334",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.60334,
+            35.33988
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aṭfīḥ",
+            "cornu_URI": "ATFIH_312E294N_S",
+            "toponym_arabic": "أطفيح",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Atfih",
+            "toponym_arabic_other": "أطفيح",
+            "toponym_translit": "Aṭfīḥ",
+            "coord_lat": "29.43347",
+            "toponym_search": "Atfih",
+            "region_code": "Egypt",
+            "coord_lon": "31.29974",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.29974,
+            29.43347
+        ]
+    }
+}

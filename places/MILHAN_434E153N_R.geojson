@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Milḥān",
+            "cornu_URI": "MILHAN_434E153N_R",
+            "toponym_arabic": "ملحان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Milhan",
+            "toponym_arabic_other": "ملحان",
+            "toponym_translit": "Milḥān",
+            "coord_lat": "15.37490",
+            "toponym_search": "Milhan",
+            "region_code": "Yemen",
+            "coord_lon": "43.40292",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.40292,
+            15.3749
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "yes"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000674-000.json": {
+                "title": "راس عين",
+                "rate": 88,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Raʾs al-ʿAyn",
+            "cornu_URI": "RASAYN_400E368N_S",
+            "toponym_arabic": "رأس العين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Ras al-Ayn",
+            "toponym_arabic_other": "رأس العين",
+            "toponym_translit": "Raʾs al-ʿAyn",
+            "coord_lat": "36.83758",
+            "toponym_search": "Ras al-Ayn",
+            "region_code": "Aqur",
+            "coord_lon": "40.06404",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.06404,
+            36.83758
+        ]
+    }
+}

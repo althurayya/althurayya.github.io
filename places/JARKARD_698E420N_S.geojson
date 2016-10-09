@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧarkard, Ġarkard",
+            "cornu_URI": "JARKARD_698E420N_S",
+            "toponym_arabic": "جركرد",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jarkard, Gharkard",
+            "toponym_arabic_other": "جركرد، غركرد",
+            "toponym_translit": "Ǧarkard",
+            "coord_lat": "42.02949",
+            "toponym_search": "Jarkard, Gharkard",
+            "region_code": "Transoxiana",
+            "coord_lon": "69.82576",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.82576,
+            42.02949
+        ]
+    }
+}

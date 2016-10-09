@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ašrašāl",
+            "cornu_URI": "ASHRASHAL_022E365N_S",
+            "toponym_arabic": "أشرشال",
+            "top_type_orig": "cite/port",
+            "toponym_buckwalter": "Ashrashal",
+            "toponym_arabic_other": "أشرشال",
+            "toponym_translit": "Ašrašāl",
+            "coord_lat": "36.54100",
+            "toponym_search": "Ashrashal",
+            "region_code": "Maghrib",
+            "coord_lon": "2.25421",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.25421,
+            36.541
+        ]
+    }
+}

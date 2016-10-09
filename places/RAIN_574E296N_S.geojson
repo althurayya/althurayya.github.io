@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000667-000.json": {
+                "title": "رامين",
+                "rate": 89,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Rāʾin, Rāyin",
+            "cornu_URI": "RAIN_574E296N_S",
+            "toponym_arabic": "رائن",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Rain, Rayin",
+            "toponym_arabic_other": "رائن، راين",
+            "toponym_translit": "Rāʾin",
+            "coord_lat": "29.61311",
+            "toponym_search": "Rain, Rayin",
+            "region_code": "Kirman",
+            "coord_lon": "57.49859",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.49859,
+            29.61311
+        ]
+    }
+}

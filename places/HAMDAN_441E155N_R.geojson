@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Hamdān",
+            "cornu_URI": "HAMDAN_441E155N_R",
+            "toponym_arabic": "همدان",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Hamdan",
+            "toponym_arabic_other": "همدان",
+            "toponym_translit": "Hamdān",
+            "coord_lat": "15.57151",
+            "toponym_search": "Hamdan",
+            "region_code": "Yemen",
+            "coord_lon": "44.12811",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.12811,
+            15.57151
+        ]
+    }
+}

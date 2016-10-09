@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāḏ",
+            "cornu_URI": "BADH_520E335N_S",
+            "toponym_arabic": "باذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Badh",
+            "toponym_arabic_other": "باذ",
+            "toponym_translit": "Bāḏ",
+            "coord_lat": "33.55960",
+            "toponym_search": "Badh",
+            "region_code": "Jibal",
+            "coord_lon": "52.01467",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.01467,
+            33.5596
+        ]
+    }
+}

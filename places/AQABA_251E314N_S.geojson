@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001068-000.json": {
+                "title": "العقبه",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001064-000.json": {
+                "title": "العقاب",
+                "rate": 83,
+                "status": "mb"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001065-000.json": {
+                "title": "العقاب",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-ʿAqabaŧ",
+            "cornu_URI": "AQABA_251E314N_S",
+            "toponym_arabic": "العقبة",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Aqaba",
+            "toponym_arabic_other": "العقبة",
+            "toponym_translit": "al-ʿAqabaŧ",
+            "coord_lat": "31.42889",
+            "toponym_search": "al-Aqaba",
+            "region_code": "Barqa",
+            "coord_lon": "25.18308",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            25.18308,
+            31.42889
+        ]
+    }
+}

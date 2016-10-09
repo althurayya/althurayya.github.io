@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000723-000.json": {
+                "title": "الريب",
+                "rate": 89,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rabb",
+            "cornu_URI": "RABB_432E334N_S",
+            "toponym_arabic": "الرب",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Rabb",
+            "toponym_arabic_other": "الرب",
+            "toponym_translit": "al-Rabb",
+            "coord_lat": "33.46273",
+            "toponym_search": "al-Rabb",
+            "region_code": "Iraq",
+            "coord_lon": "43.26055",
+            "region_spelled": "al-ʿIrāq",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.26055,
+            33.46273
+        ]
+    }
+}

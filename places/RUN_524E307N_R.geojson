@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000715-000.json": {
+                "title": "الرويان",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Rūn",
+            "cornu_URI": "RUN_524E307N_R",
+            "toponym_arabic": "الرون",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Run",
+            "toponym_arabic_other": "الرون",
+            "toponym_translit": "al-Rūn",
+            "coord_lat": "30.74910",
+            "toponym_search": "al-Run",
+            "region_code": "Faris",
+            "coord_lon": "52.44000",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.44,
+            30.7491
+        ]
+    }
+}

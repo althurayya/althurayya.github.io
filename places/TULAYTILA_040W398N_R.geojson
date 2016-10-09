@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001003-000.json": {
+                "title": "طليطله",
+                "rate": 100,
+                "status": "na"
+            },
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001004-000.json": {
+                "title": "طلياطه",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ṭulayṭilaŧ",
+            "cornu_URI": "TULAYTILA_040W398N_R",
+            "toponym_arabic": "طليطلة",
+            "top_type_orig": "district",
+            "toponym_buckwalter": "Tulaytila",
+            "toponym_arabic_other": "طليطلة",
+            "toponym_translit": "Ṭulayṭilaŧ",
+            "coord_lat": "39.88926",
+            "toponym_search": "Tulaytila",
+            "region_code": "Andalus",
+            "coord_lon": "-4.05210",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.0521,
+            39.88926
+        ]
+    }
+}

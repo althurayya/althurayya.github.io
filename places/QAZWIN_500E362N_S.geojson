@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001194-000.json": {
+                "title": "قزوين",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qazwīn",
+            "cornu_URI": "QAZWIN_500E362N_S",
+            "toponym_arabic": "قزوين",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qazwin",
+            "toponym_arabic_other": "قزوين",
+            "toponym_translit": "Qazwīn",
+            "coord_lat": "36.27854",
+            "toponym_search": "Qazwin",
+            "region_code": "Jibal",
+            "coord_lon": "50.00110",
+            "region_spelled": "al-Jibāl",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.0011,
+            36.27854
+        ]
+    }
+}

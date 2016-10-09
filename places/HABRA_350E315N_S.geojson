@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḥabraŧ, al-Ḫalīl, Ḥabrūn, Masǧid Ibrāhīm",
+            "cornu_URI": "HABRA_350E315N_S",
+            "toponym_arabic": "حبرة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Habra, al-Khalil, Habrun, Masjid Ibrahim",
+            "toponym_arabic_other": "حبرة، الخليل، حبرون، مسجد إبراهيم",
+            "toponym_translit": "Ḥabraŧ",
+            "coord_lat": "31.53018",
+            "toponym_search": "Habra, al-Khalil, Habrun, Masjid Ibrahim",
+            "region_code": "Sham",
+            "coord_lon": "35.08912",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.08912,
+            31.53018
+        ]
+    }
+}

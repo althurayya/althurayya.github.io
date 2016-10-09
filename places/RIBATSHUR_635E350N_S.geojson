@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Šūr",
+            "cornu_URI": "RIBATSHUR_635E350N_S",
+            "toponym_arabic": "رباط شور",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Ribat Shur",
+            "toponym_arabic_other": "رباط شور",
+            "toponym_translit": "Ribāṭ Šūr",
+            "coord_lat": "35.08069",
+            "toponym_search": "Ribat Shur",
+            "region_code": "Khurasan",
+            "coord_lon": "63.52263",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.52263,
+            35.08069
+        ]
+    }
+}

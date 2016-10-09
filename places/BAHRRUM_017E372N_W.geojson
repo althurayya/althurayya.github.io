@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Baḥr al-Rūm",
+            "cornu_URI": "BAHRRUM_017E372N_W",
+            "toponym_arabic": "بحر الروم",
+            "top_type_orig": "mer",
+            "toponym_buckwalter": "Bahr al-Rum",
+            "toponym_arabic_other": "بحر الروم",
+            "toponym_translit": "Baḥr al-Rūm",
+            "coord_lat": "37.28888",
+            "toponym_search": "Bahr al-Rum",
+            "region_code": "Andalus",
+            "coord_lon": "1.71713",
+            "region_spelled": "al-Andalus (Spain)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.71713,
+            37.28888
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000832-000.json": {
+                "title": "سنجه",
+                "rate": 86,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sinǧ, Sink",
+            "cornu_URI": "SINJ_616E374N_S",
+            "toponym_arabic": "سنج",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sinj, Sink",
+            "toponym_arabic_other": "سنج، سنك",
+            "toponym_translit": "Sinǧ",
+            "coord_lat": "37.46480",
+            "toponym_search": "Sinj, Sink",
+            "region_code": "Khurasan",
+            "coord_lon": "61.68119",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.68119,
+            37.4648
+        ]
+    }
+}

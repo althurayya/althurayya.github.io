@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000625-000.json": {
+                "title": "دومه الجندل",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Dawmaŧ al-Ǧandal",
+            "cornu_URI": "DAWMAJANDAL_398E297N_S",
+            "toponym_arabic": "دومة الجندل",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Dawma al-Jandal",
+            "toponym_arabic_other": "دومة الجندل",
+            "toponym_translit": "Dawmaŧ al-Ǧandal",
+            "coord_lat": "29.75959",
+            "toponym_search": "Dawma al-Jandal",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "39.87767",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.87767,
+            29.75959
+        ]
+    }
+}

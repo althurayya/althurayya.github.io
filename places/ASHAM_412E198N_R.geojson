@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "ʿAšam",
+            "cornu_URI": "ASHAM_412E198N_R",
+            "toponym_arabic": "عشم",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "Asham",
+            "toponym_arabic_other": "عشم",
+            "toponym_translit": "ʿAšam",
+            "coord_lat": "19.80364",
+            "toponym_search": "Asham",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "41.23862",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.23862,
+            19.80364
+        ]
+    }
+}

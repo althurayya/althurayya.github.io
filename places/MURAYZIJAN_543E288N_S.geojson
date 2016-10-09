@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Murayziǧān",
+            "cornu_URI": "MURAYZIJAN_543E288N_S",
+            "toponym_arabic": "المريزجان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Murayzijan",
+            "toponym_arabic_other": "المريزجان",
+            "toponym_translit": "al-Murayziǧān",
+            "coord_lat": "28.80847",
+            "toponym_search": "al-Murayzijan",
+            "region_code": "Faris",
+            "coord_lon": "54.39753",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.39753,
+            28.80847
+        ]
+    }
+}

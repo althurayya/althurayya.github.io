@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001630-000.json": {
+                "title": "وهران",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wahrān",
+            "cornu_URI": "WAHRAN_006W357N_S",
+            "toponym_arabic": "وهران",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Wahran",
+            "toponym_arabic_other": "وهران",
+            "toponym_translit": "Wahrān",
+            "coord_lat": "35.70565",
+            "toponym_search": "Wahran",
+            "region_code": "Maghrib",
+            "coord_lon": "-0.61866",
+            "region_spelled": "al-Maġrib",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.61866,
+            35.70565
+        ]
+    }
+}

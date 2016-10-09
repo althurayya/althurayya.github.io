@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Nāmiyaŧ",
+            "cornu_URI": "NAMIYA_543E367N_S",
+            "toponym_arabic": "نامية",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Namiya",
+            "toponym_arabic_other": "نامية",
+            "toponym_translit": "Nāmiyaŧ",
+            "coord_lat": "36.77488",
+            "toponym_search": "Namiya",
+            "region_code": "Daylam",
+            "coord_lon": "54.32519",
+            "region_spelled": "al-Daylam",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            54.32519,
+            36.77488
+        ]
+    }
+}

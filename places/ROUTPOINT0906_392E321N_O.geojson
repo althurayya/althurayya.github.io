@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "RoutPoint0906",
+            "cornu_URI": "ROUTPOINT0906_392E321N_O",
+            "toponym_arabic": "RoutPoint0906",
+            "top_type_orig": "rPoint",
+            "toponym_buckwalter": "RoutPoint0906",
+            "toponym_arabic_other": "RoutPoint0906",
+            "toponym_translit": "RoutPoint0906",
+            "coord_lat": "32.14625",
+            "toponym_search": "RoutPoint0906",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "39.20032",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "xroads"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.20032,
+            32.14625
+        ]
+    }
+}

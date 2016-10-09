@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḫarluḫiyyaŧ",
+            "cornu_URI": "KHARLUKHIYYA_747E423N_R",
+            "toponym_arabic": "الخرلخية",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Kharlukhiyya",
+            "toponym_arabic_other": "الخرلخية",
+            "toponym_translit": "al-Ḫarluḫiyyaŧ",
+            "coord_lat": "42.38249",
+            "toponym_search": "al-Kharlukhiyya",
+            "region_code": "Transoxiana",
+            "coord_lon": "74.76957",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            74.76957,
+            42.38249
+        ]
+    }
+}

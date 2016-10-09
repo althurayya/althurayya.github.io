@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Budhaŧ",
+            "cornu_URI": "BUDHA_675E287N_R",
+            "toponym_arabic": "البدهة",
+            "top_type_orig": "region",
+            "toponym_buckwalter": "al-Budha",
+            "toponym_arabic_other": "البدهة",
+            "toponym_translit": "al-Budhaŧ",
+            "coord_lat": "28.71365",
+            "toponym_search": "al-Budha",
+            "region_code": "Sind",
+            "coord_lon": "67.56764",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "regions"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.56764,
+            28.71365
+        ]
+    }
+}

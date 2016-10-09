@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Buḥayraŧ Qadas",
+            "cornu_URI": "BUHAYRAQADAS_355E330N_W",
+            "toponym_arabic": "بحيرة قدس",
+            "top_type_orig": "lac",
+            "toponym_buckwalter": "Buhayra Qadas",
+            "toponym_arabic_other": "بحيرة قدس",
+            "toponym_translit": "Buḥayraŧ Qadas",
+            "coord_lat": "33.06755",
+            "toponym_search": "Buhayra Qadas",
+            "region_code": "Sham",
+            "coord_lon": "35.59845",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.59845,
+            33.06755
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qābis",
+            "cornu_URI": "QABIS_100E338N_S",
+            "toponym_arabic": "قابس",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qabis",
+            "toponym_arabic_other": "قابس",
+            "toponym_translit": "Qābis",
+            "coord_lat": "33.86603",
+            "toponym_search": "Qabis",
+            "region_code": "Barqa",
+            "coord_lon": "10.08563",
+            "region_spelled": "Barqaŧ (Lybia)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.08563,
+            33.86603
+        ]
+    }
+}

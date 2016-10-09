@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ribāṭ Bāris",
+            "cornu_URI": "RIBATBARIS_633E388N_S",
+            "toponym_arabic": "رباط بارس",
+            "top_type_orig": "ribat",
+            "toponym_buckwalter": "Ribat Baris",
+            "toponym_arabic_other": "رباط بارس",
+            "toponym_translit": "Ribāṭ Bāris",
+            "coord_lat": "38.84034",
+            "toponym_search": "Ribat Baris",
+            "region_code": "Khurasan",
+            "coord_lon": "63.35393",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.35393,
+            38.84034
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ribāṭ",
+            "cornu_URI": "RIBAT_534E291N_S",
+            "toponym_arabic": "الرباط",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Ribat",
+            "toponym_arabic_other": "الرباط",
+            "toponym_translit": "al-Ribāṭ",
+            "coord_lat": "29.12318",
+            "toponym_search": "al-Ribat",
+            "region_code": "Faris",
+            "coord_lon": "53.44663",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.44663,
+            29.12318
+        ]
+    }
+}

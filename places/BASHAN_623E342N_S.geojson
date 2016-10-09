@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāšān",
+            "cornu_URI": "BASHAN_623E342N_S",
+            "toponym_arabic": "باشان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Bashan",
+            "toponym_arabic_other": "باشان",
+            "toponym_translit": "Bāšān",
+            "coord_lat": "34.28751",
+            "toponym_search": "Bashan",
+            "region_code": "Khurasan",
+            "coord_lon": "62.37698",
+            "region_spelled": "Ḫurāsān",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.37698,
+            34.28751
+        ]
+    }
+}

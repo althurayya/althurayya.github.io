@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ṭāhiriyyaŧ",
+            "cornu_URI": "TAHIRIYYA_625E398N_S",
+            "toponym_arabic": "الطاهرية",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Tahiriyya",
+            "toponym_arabic_other": "الطاهرية",
+            "toponym_translit": "al-Ṭāhiriyyaŧ",
+            "coord_lat": "39.80992",
+            "toponym_search": "al-Tahiriyya",
+            "region_code": "Transoxiana",
+            "coord_lon": "62.52055",
+            "region_spelled": "Mā-warāʾ-l-nahr (Transoxiana)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.52055,
+            39.80992
+        ]
+    }
+}

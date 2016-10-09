@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Manṣaf",
+            "cornu_URI": "MANSAF_320E301N_S",
+            "toponym_arabic": "المنصف",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Mansaf",
+            "toponym_arabic_other": "المنصف",
+            "toponym_translit": "al-Manṣaf",
+            "coord_lat": "30.18702",
+            "toponym_search": "al-Mansaf",
+            "region_code": "Egypt",
+            "coord_lon": "32.05366",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.05366,
+            30.18702
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Qandābīl",
+            "cornu_URI": "QANDABIL_674E286N_S",
+            "toponym_arabic": "قندابيل",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Qandabil",
+            "toponym_arabic_other": "قندابيل",
+            "toponym_translit": "Qandābīl",
+            "coord_lat": "28.62665",
+            "toponym_search": "Qandabil",
+            "region_code": "Sind",
+            "coord_lon": "67.48191",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            67.48191,
+            28.62665
+        ]
+    }
+}

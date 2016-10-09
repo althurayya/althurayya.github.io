@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.001595-000.json": {
+                "title": "وادي الازرق",
+                "rate": 82,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Wādī al-Ḫārid",
+            "cornu_URI": "WADIKHARID_444E159N_W",
+            "toponym_arabic": "وادي الخارد",
+            "top_type_orig": "wadi",
+            "toponym_buckwalter": "Wadi al-Kharid",
+            "toponym_arabic_other": "وادي الخارد",
+            "toponym_translit": "Wādī al-Ḫārid",
+            "coord_lat": "15.95585",
+            "toponym_search": "Wadi al-Kharid",
+            "region_code": "Yemen",
+            "coord_lon": "44.43363",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "waters"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.43363,
+            15.95585
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫušnābāḏ, Ḥasanābāḏ",
+            "cornu_URI": "KHUSHNABADH_552E287N_S",
+            "toponym_arabic": "خشناباذ",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "Khushnabadh, Hasanabadh",
+            "toponym_arabic_other": "خشناباذ، حسناباذ",
+            "toponym_translit": "Ḫušnābāḏ",
+            "coord_lat": "28.71262",
+            "toponym_search": "Khushnabadh, Hasanabadh",
+            "region_code": "Kirman",
+            "coord_lon": "55.24354",
+            "region_spelled": "Kirmān",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.24354,
+            28.71262
+        ]
+    }
+}

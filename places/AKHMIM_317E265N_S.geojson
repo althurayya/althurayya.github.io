@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000053-000.json": {
+                "title": "اخميم",
+                "rate": 100,
+                "status": "na"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Aḫmīm",
+            "cornu_URI": "AKHMIM_317E265N_S",
+            "toponym_arabic": "أخميم",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Akhmim",
+            "toponym_arabic_other": "أخميم",
+            "toponym_translit": "Aḫmīm",
+            "coord_lat": "26.56301",
+            "toponym_search": "Akhmim",
+            "region_code": "Egypt",
+            "coord_lon": "31.72957",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.72957,
+            26.56301
+        ]
+    }
+}

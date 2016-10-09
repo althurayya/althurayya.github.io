@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Muḫā",
+            "cornu_URI": "MUKHA_432E133N_S",
+            "toponym_arabic": "مخا",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Mukha",
+            "toponym_arabic_other": "مخا",
+            "toponym_translit": "Muḫā",
+            "coord_lat": "13.32902",
+            "toponym_search": "Mukha",
+            "region_code": "Yemen",
+            "coord_lon": "43.26069",
+            "region_spelled": "al-Yaman",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.26069,
+            13.32902
+        ]
+    }
+}

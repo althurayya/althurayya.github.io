@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Fuḥaymaŧ",
+            "cornu_URI": "FUHAYMA_421E342N_S",
+            "toponym_arabic": "الفحيمة",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "al-Fuhayma",
+            "toponym_arabic_other": "الفحيمة",
+            "toponym_translit": "al-Fuḥaymaŧ",
+            "coord_lat": "34.23688",
+            "toponym_search": "al-Fuhayma",
+            "region_code": "Aqur",
+            "coord_lon": "42.18317",
+            "region_spelled": "Aqūr (al-Jazīraŧ)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.18317,
+            34.23688
+        ]
+    }
+}

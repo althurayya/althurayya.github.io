@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Maḥallaŧ Nuqaydaŧ",
+            "cornu_URI": "MAHALLANUQAYDA_307E307N_S",
+            "toponym_arabic": "محلة نقيدة",
+            "top_type_orig": "village",
+            "toponym_buckwalter": "Mahalla Nuqayda",
+            "toponym_arabic_other": "محلة نقيدة",
+            "toponym_translit": "Maḥallaŧ Nuqaydaŧ",
+            "coord_lat": "30.78411",
+            "toponym_search": "Mahalla Nuqayda",
+            "region_code": "Egypt",
+            "coord_lon": "30.70804",
+            "region_spelled": "Miṣr (Egypt)",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.70804,
+            30.78411
+        ]
+    }
+}

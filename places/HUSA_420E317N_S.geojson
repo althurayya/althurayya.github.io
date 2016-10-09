@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {
+            "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000051-000.json": {
+                "title": "الاحاسي",
+                "rate": 83,
+                "status": "mb"
+            }
+        },
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Ḥusá, al-Ǧusá",
+            "cornu_URI": "HUSA_420E317N_S",
+            "toponym_arabic": "الحسى",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Husa, al-Jusa",
+            "toponym_arabic_other": "الحسى، الجسى",
+            "toponym_translit": "al-Ḥusá",
+            "coord_lat": "31.70731",
+            "toponym_search": "al-Husa, al-Jusa",
+            "region_code": "Badiyat al-Arab",
+            "coord_lon": "42.07352",
+            "region_spelled": "Badiyyaŧ al-ʿarab",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.07352,
+            31.70731
+        ]
+    }
+}

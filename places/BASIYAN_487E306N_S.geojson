@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Bāsiyān",
+            "cornu_URI": "BASIYAN_487E306N_S",
+            "toponym_arabic": "باسيان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Basiyan",
+            "toponym_arabic_other": "باسيان",
+            "toponym_translit": "Bāsiyān",
+            "coord_lat": "30.65916",
+            "toponym_search": "Basiyan",
+            "region_code": "Khuzistan",
+            "coord_lon": "48.77033",
+            "region_spelled": "Ḫūzistān (al-Ahwāz)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.77033,
+            30.65916
+        ]
+    }
+}

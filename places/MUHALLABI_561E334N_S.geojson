@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "al-Muhallabī",
+            "cornu_URI": "MUHALLABI_561E334N_S",
+            "toponym_arabic": "المهلبي",
+            "top_type_orig": "etape",
+            "toponym_buckwalter": "al-Muhallabi",
+            "toponym_arabic_other": "المهلبي",
+            "toponym_translit": "al-Muhallabī",
+            "coord_lat": "33.40323",
+            "toponym_search": "al-Muhallabi",
+            "region_code": "Mafaza",
+            "coord_lon": "56.18509",
+            "region_spelled": "al-Mafāzaŧ",
+            "top_type_hom": "waystations"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.18509,
+            33.40323
+        ]
+    }
+}

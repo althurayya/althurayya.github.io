@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ḫulayṣ",
+            "cornu_URI": "KHULAYS_394E221N_S",
+            "toponym_arabic": "خليص",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Khulays",
+            "toponym_arabic_other": "خليص",
+            "toponym_translit": "Ḫulayṣ",
+            "coord_lat": "22.10557",
+            "toponym_search": "Khulays",
+            "region_code": "Jazirat al-Arab",
+            "coord_lon": "39.41808",
+            "region_spelled": "Jazīraŧ al-ʿarab",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.41808,
+            22.10557
+        ]
+    }
+}

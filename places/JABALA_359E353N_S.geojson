@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Ǧabalaŧ",
+            "cornu_URI": "JABALA_359E353N_S",
+            "toponym_arabic": "جبلة",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Jabala",
+            "toponym_arabic_other": "جبلة",
+            "toponym_translit": "Ǧabalaŧ",
+            "coord_lat": "35.36567",
+            "toponym_search": "Jabala",
+            "region_code": "Sham",
+            "coord_lon": "35.95309",
+            "region_spelled": "al-Šām (Greater Syria)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.95309,
+            35.36567
+        ]
+    }
+}

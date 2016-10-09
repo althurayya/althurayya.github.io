@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Saġān",
+            "cornu_URI": "SAGHAN_680E330N_S",
+            "toponym_arabic": "سغان",
+            "top_type_orig": "localite",
+            "toponym_buckwalter": "Saghan",
+            "toponym_arabic_other": "سغان",
+            "toponym_translit": "Saġān",
+            "coord_lat": "33.08810",
+            "toponym_search": "Saghan",
+            "region_code": "Sind",
+            "coord_lon": "68.03075",
+            "region_spelled": "al-Sind",
+            "top_type_hom": "villages"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.03075,
+            33.0881
+        ]
+    }
+}

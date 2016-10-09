@@ -1,0 +1,33 @@
+{
+    "type": "Feature",
+    "properties": {
+        "althurayyaData": {
+            "visual_center": "no"
+        },
+        "sources_english": {},
+        "sources_arabic": {},
+        "cornuData": {
+            "coord_certainty": "certain",
+            "toponym_translit_other": "Sarwīstān, Sarūrīr",
+            "cornu_URI": "SARWISTAN_524E314N_S",
+            "toponym_arabic": "سرويستان",
+            "top_type_orig": "cite",
+            "toponym_buckwalter": "Sarwistan, Sarurir",
+            "toponym_arabic_other": "سرويستان، سرورير",
+            "toponym_translit": "Sarwīstān",
+            "coord_lat": "31.42233",
+            "toponym_search": "Sarwistan, Sarurir",
+            "region_code": "Faris",
+            "coord_lon": "52.43219",
+            "region_spelled": "Fārs(or Fāris)",
+            "top_type_hom": "towns"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            52.43219,
+            31.42233
+        ]
+    }
+}
