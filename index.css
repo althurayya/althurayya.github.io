@@ -25,9 +25,9 @@
     src: url("./fonts/BrillRoman.woff");
 }
 .region_ul {
-     font-weight: bold;
+     font-weight: normal;
      font-size: larger;
-     font-family: 'Amiri', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+     font-family: 'Baskerville', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
  }
 .region_ul:hover {
     color:red;

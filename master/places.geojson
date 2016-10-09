@@ -72730,7 +72730,7 @@
             },
             "properties": {
                 "althurayyaData" : {
-                    "visual_center" : "no"
+                    "visual_center" : "yes"
                 },
                 "cornuData": {
                     "coord_certainty": "certain",
@@ -74153,7 +74153,7 @@
             },
             "properties": {
                 "althurayyaData" : {
-                    "visual_center" : "yes"
+                    "visual_center" : "no"
                 },
                 "cornuData": {
                     "coord_certainty": "certain",
