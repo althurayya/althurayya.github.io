@@ -15,6 +15,7 @@ function create_marker(feature,latlng) {
         //radius: Math.sqrt(feature.properties.topType.length)/3,
         //radius: type_size[feature.properties.cornuData.top_type_hom] * 2,
         type: feature.properties.cornuData.top_type_hom,
+        center: feature.properties.althurayyaData.visual_center,
         region: feature.properties.cornuData.region_code,
         region_spelled: feature.properties.cornuData.region_spelled,
         searchTitle: feature.properties.cornuData.toponym_search,
