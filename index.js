@@ -40,7 +40,6 @@ var min_zoom = 5,
 var prevZoom = min_zoom;
 
 var regs = {};
-var metropoles = [];
 var markers = {};
 var route_layers = {};
 var all_route_layers = [];
@@ -62,7 +61,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             if (regs[feature.properties.cornuData.region_spelled] == undefined)
                 regs[feature.properties.cornuData.region_spelled] = [];
             regs[feature.properties.cornuData.region_spelled]
-                .push([feature.properties.cornuData.cornu_URI,feature.properties.cornuData.top_type_hom]);
+                .push(feature.properties.cornuData.cornu_URI);
 
             var marker = create_marker(feature,latlng);
             latlngs.push([latlng['lat'],latlng['lng']])
@@ -184,7 +183,6 @@ function click_region(reg) {
     prev_select_reg = reg;
     if(reg == "All") {
         Object.keys(marker_properties).forEach(function(key){
-            console.log(marker_properties[key])
             markers[key].setStyle({
                 fillColor: colorLookup[marker_properties[key].region],
                 fillOpacity: "1",
@@ -200,7 +198,6 @@ function click_region(reg) {
         });
     } else {
         var tmp = regs[reg];
-        console.log(tmp);
         Object.keys(markers).forEach(function (key) {
             if (tmp.indexOf(key) == -1) {
                 markers[key].setStyle({
