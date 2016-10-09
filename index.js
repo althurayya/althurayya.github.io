@@ -182,6 +182,7 @@ function click_region(reg) {
         document.getElementById(prev_select_reg).style.color ='gray';
     prev_select_reg = reg;
     if(reg == "All") {
+        map.panTo([30,42]);
         Object.keys(marker_properties).forEach(function(key){
             markers[key].setStyle({
                 fillColor: colorLookup[marker_properties[key].region],
@@ -207,8 +208,10 @@ function click_region(reg) {
                 //markers[key].setZIndexOffset(-1);
                 markers[key].options.zIndexOffset = -1000;
             } else {
-                if (markers[key].top_type == "metropoles")  {
+
+                if (marker_properties[key].center == "yes")  {
                     map.panTo(markers[key].getLatLng());
+                    //console.log(markers[key])
                 }
                 markers[key].setStyle({
                     fillColor: "red"
