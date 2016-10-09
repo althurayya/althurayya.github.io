@@ -40,6 +40,7 @@ var min_zoom = 5,
 var prevZoom = min_zoom;
 
 var regs = {};
+var metropoles = [];
 var markers = {};
 var route_layers = {};
 var all_route_layers = [];
@@ -61,7 +62,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             if (regs[feature.properties.cornuData.region_spelled] == undefined)
                 regs[feature.properties.cornuData.region_spelled] = [];
             regs[feature.properties.cornuData.region_spelled]
-                .push(feature.properties.cornuData.cornu_URI);
+                .push([feature.properties.cornuData.cornu_URI,feature.properties.cornuData.top_type_hom]);
 
             var marker = create_marker(feature,latlng);
             latlngs.push([latlng['lat'],latlng['lng']])
@@ -172,7 +173,7 @@ active_autocomp(auto_list);
  */
 var routeLayer = L.featureGroup();
 /*
- * Highlights and change the color of markers of a region by clicking on a
+ * Highlights and change the color of markers and routes of a region by clicking on a
  * region name.
  */
 var prev_select_reg = undefined;
@@ -182,9 +183,10 @@ function click_region(reg) {
         document.getElementById(prev_select_reg).style.color ='gray';
     prev_select_reg = reg;
     if(reg == "All") {
-        Object.keys(markers).forEach(function(key){
+        Object.keys(marker_properties).forEach(function(key){
+            console.log(marker_properties[key])
             markers[key].setStyle({
-                fillColor: colorLookup[markers[key].options.region],
+                fillColor: colorLookup[marker_properties[key].region],
                 fillOpacity: "1",
             });
         });
@@ -198,6 +200,7 @@ function click_region(reg) {
         });
     } else {
         var tmp = regs[reg];
+        console.log(tmp);
         Object.keys(markers).forEach(function (key) {
             if (tmp.indexOf(key) == -1) {
                 markers[key].setStyle({
