@@ -83,11 +83,17 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     // Add the geojson layer of places to map
     geojson.addTo(map);
 
-    // Create html list of regions in region tab
-    Object.keys(regs).forEach(function (key) {
-        var func = "click_region(\"" + key + "\");";
-        $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
-            + key + "</li>");
+    // sort the region names alphabetically before putting them on the tab
+    Object.keys(regs).sort(function (a, b) {
+        return a.toLowerCase().localeCompare(b.toLowerCase());
+    })
+        // and then, create html list of regions in region tab (from sorted list of regions)
+        .forEach(function (key) {
+            if (key !== "NoRegion") {
+                var func = "click_region(\"" + key + "\");";
+                $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
+                    + key + "</li>");
+            }
     });
 
     var cities = new L.LayerGroup();
