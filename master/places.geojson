@@ -50688,7 +50688,7 @@
             },
             "properties": {
                 "althurayyaData" : {
-                    "visual_center" : "no"
+                    "visual_center" : "yes"
                 },
                 "cornuData": {
                     "coord_certainty": "certain",
