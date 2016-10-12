@@ -55,6 +55,14 @@ var latlngs = [];
 var map = L.map('map',{maxZoom:max_zoom}).setView([30,42], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
 prevTile.addTo(map);
+$(function() {
+    $('#homeTab').tooltip();
+    $('#locTab').tooltip();
+    $('#sourceTab').tooltip();
+    $('#regions').tooltip();
+    $('#search').tooltip();
+    $('#routeSection').tooltip();
+});
 
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
