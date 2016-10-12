@@ -33,7 +33,8 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     }),
     prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
     attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
-    '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' });;
+    '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' }),
+    waterColor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg')//new L.StamenTileLayer("watercolor");
 
 var min_zoom = 5,
     max_zoom = 14;
@@ -113,7 +114,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         "Streets": streets,
         "National Geographic": tiles,
         "Google Satellite":googleSat,
-        "Google Terrain":googleTerrain
+        "Google Terrain":googleTerrain,
+        "Water Color": waterColor
     };
     var overlays = {
         "Places": cities
