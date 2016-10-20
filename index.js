@@ -33,7 +33,8 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     }),
     prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
     attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
-    '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' });;
+    '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' }),
+    waterColor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg')//new L.StamenTileLayer("watercolor");
 
 var min_zoom = 5,
     max_zoom = 14;
@@ -54,6 +55,14 @@ var latlngs = [];
 var map = L.map('map',{maxZoom:max_zoom}).setView([30,42], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
 prevTile.addTo(map);
+$(function() {
+    $('#homeTab').tooltip();
+    $('#locTab').tooltip();
+    $('#sourceTab').tooltip();
+    $('#regions').tooltip();
+    $('#search').tooltip();
+    $('#routeSection').tooltip();
+});
 
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
@@ -113,7 +122,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         "Streets": streets,
         "National Geographic": tiles,
         "Google Satellite":googleSat,
-        "Google Terrain":googleTerrain
+        "Google Terrain":googleTerrain,
+        "Water Color": waterColor
     };
     var overlays = {
         "Places": cities
