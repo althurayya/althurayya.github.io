@@ -1,0 +1,631 @@
+path,circle,rect,polygon,ellipse,line {
+    vector-effect: non-scaling-stroke;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0.75);
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#map { 
+	position:absolute; 
+	top:0; 
+	bottom:0; 
+	width: 100%; 
+  height: 100%;
+}
+
+
+div.tooltip {
+  color: #222; 
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: .5em; 
+  border-radius: 2px; 
+  opacity: 1; 
+  position: absolute;
+}
+
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+
+.text {
+	font-size:7px;
+}
+
+.node {
+  stroke: #96190E;
+  stroke-width: 2;
+  fill: #fff;
+  opacity: 0.9;
+
+}
+
+.zone1-node {
+  fill: #31a354;
+}
+.zone2-node {
+  fill: #FFD62E;
+}
+.zone3-node {
+  fill: #FF9500;
+}
+.zone4-node {
+  fill: #E80909;
+}
+.zone5-node {
+  fill: #000;
+}
+
+.search-node {
+    fill: red;
+    stroke: black;
+    stroke-width: 5;
+    cursor: pointer;
+}
+
+.modal {
+  position: absolute;
+  font-size: 15px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+  color: #000;
+  width: 35%;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+#left-arrow-container {
+  position:absolute;
+  background-color: rgba(255, 255, 255, 0.9);
+  height: 40%;
+  top: 23%;
+  width: 2.9%;
+}
+
+#site-form {
+  position: absolute;
+  top: 10%; 
+  left: 2.3%;
+  height: 70%;
+  bottom: 10%;
+}
+
+#search-container {
+  z-index: 8888;
+  position: absolute;
+  top: 15px;
+  left: 2.3%;
+  padding-bottom: 10px;
+  float: left;
+}
+
+
+#search input {
+  position: relative;
+  top: 0;
+  padding: 5px;
+  width: 200px;
+  line-height: 1;
+  height: 20px;
+}
+
+#site-from, #site-to {
+  position: relative;
+  margin: 10px;
+  left: 0;
+  padding: 5px;
+}
+
+#site-from select, #site-to select {
+  width: 200px;
+}
+
+#go-path {
+  position: relative;
+  top: 15px;
+  left: 30%;
+}
+
+.pathfind-node {
+    fill: black;
+    stroke: black;
+    stroke-width: 1;
+}
+
+
+
+.styled-select {
+   width: 240px;
+   height: 34px;
+   overflow: hidden;
+   border: 1px solid #ccc;
+}
+
+
+.button {
+  background-color:#44c767;
+  border:1px solid #18ab29;
+  display:inline-block;
+  position:relative;
+  cursor:pointer;
+  color:#ffffff;
+  bottom: 20%;
+  font-family:arial;
+  font-size:17px;
+  padding:6px 54px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+}
+
+.button:hover, .add_field_button:hover {
+  background-color:#5cbf2a;
+}
+.button:active, .add_field_button:active {
+  position:relative;
+  top:1px;
+}
+
+.add_field_button {
+  background-color:#44c767;
+  border:1px solid #18ab29;
+  display:inline-block;
+  position:relative;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:arial;
+  font-size:15px;
+  padding: 5px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+  float: right;
+}
+
+#distance {
+  padding: 25px;
+}
+
+.english-form-title {
+  font-size: 20px;
+  font-family: Brill, Gentium, Georgia, Arial, serif;
+  direction: ltr;
+  padding-bottom: 10px;
+}
+
+#network-title {
+  float: right;
+  text-align: center;
+  width: 50%;
+  box-shadow: 2px 1px 5px #888888;
+} 
+
+#pathfinding-title {
+  overflow: auto;
+  width: 50%;
+  text-align: center;
+  box-shadow: 2px 1px 5px #888888;
+}
+
+
+#pathfinding-select select {
+   width: 268px;
+   padding: 5px;
+   line-height: 1;
+   height: 34px;
+   -webkit-appearance: none;
+}
+
+.itinerary-dropdown {
+  position: relative;
+  margin: 10px;
+  left: 0;
+  padding: 3px;
+}
+
+.itinerary-dropdwon input {
+  width: 200px;
+}
+
+.itinerary-num {
+  float: left;
+}
+
+.remove_field {
+  float: right;
+}
+
+#network-content {
+  display: none;
+}
+
+.tab-selected {
+  background-color: #44c767;
+}
+
+.circle {
+  cursor: pointer;
+}
+
+.path-all {
+    stroke: rgba(115, 106, 106, 0.9); /* used to be stroke: red */ 
+    stroke-width: 1px;
+    fill: none;
+}
+
+.path-shortest {
+  stroke-width: 3px;
+  fill: none;
+}
+
+.path-background {
+  stroke: rgba(115, 106, 106, 0.9);
+  stroke-width: 1px;
+  fill: none;
+}
+
+
+.arabic {
+  font-size: 20px;
+  font-family: 'DroidArabicNaskhRegular', 'Lateef', 'Geeza Pro', serif;
+  padding: 0;
+  direction: rtl;
+}
+.english{
+  font-size: 20px;
+  font-family: Brill, Gentium, Georgia, Arial, serif;
+  direction: ltr;
+}
+
+.site-icon {
+  background: black;
+  border:5px solid rgba(255,255,255,0.5);
+  color: black;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:30px;
+}
+
+.check-rect {
+  height: 20px;
+  width: 20px;
+  background: 0;
+  border: 3px solid;
+  text-align: center;
+}
+
+#shortest-path {
+  color: #d12c55;
+}
+
+#network-flooding, #muqaddasi-path, 
+#voronoi, #hierarchy {
+  color: #d12c55;
+  display: none;
+}
+
+
+.left-arrow-right {
+  position:relative;
+  width: 0; 
+  height: 0; 
+  left: 4px;
+  top: 40%%;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid black;
+  display:none;
+}
+
+.right-arrow-right {
+  position:relative;
+  width: 0; 
+  height: 0; 
+  left: 1.5px;
+  top: 40%%;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid black;
+}
+
+/* from Mike Bostock's tooltip example */
+.tooltip{ 
+    background-color:rgba(68,136,187,0.5);;
+          margin: 10px;
+          height: 100px;
+          width: 150px;
+          padding-left: 10px; 
+          padding-top: 10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+}
+
+.label {
+  font-family: 'DroidArabicNaskhRegular', 'Lateef', 'Geeza Pro', serif; 
+  font-size: 20px;
+  fill: #000;
+  stroke-width: 2px;
+  text-shadow: 2px 2px #fff;
+/*  stroke: #fff;
+  stroke-width: 2.5px;
+  stroke-opacity: 0.9;
+  fill: #000080;  */
+}
+
+.left-arrow-left {
+  position:relative;
+  left: 3px;
+  top: 40%%;
+  padding: 0;
+  width: 0; 
+  height: 0; 
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent; 
+  border-right:20px solid black; 
+}
+
+.right-arrow-left {
+  position:relative;
+  left: 3px;
+  top: 40%%;
+  padding: 0;
+  width: 0; 
+  height: 0; 
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent; 
+  display:none;
+  border-right:20px solid black; 
+}
+
+
+/* For thurayya popup */
+#index-lookup-content {
+  display: none;
+  z-index: 9999;
+  position: absolute;
+  font-size: 15px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+  color: #000;
+  width: 30%;
+  top: 10%; 
+  left: 5%;
+  height: 80%;
+  bottom: 10%;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  /*background-color: #FFF;*/
+  overflow: scroll;
+  float: left;
+}
+
+#index-lookup-match {
+  display: none;
+  z-index: 9999;
+  position: absolute;
+  font-size: 15px;
+  font-family: 'Brill', 'Gentium', Georgia, serif;
+  color: #000;
+  width: 55%;
+  top: 10%;
+  right: 5%;
+  bottom: 10%; 
+  height: 80%;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  /*background-color: #FFF;*/
+  overflow: scroll;
+  float: left;
+}
+
+
+.close {
+  z-index: 9999;
+  float: right;
+  color: #f00;
+  cursor : pointer;
+}
+
+#match {
+  direction: rtl;
+  font-family: 'DroidArabicNaskhRegular', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+
+.match-display {
+  display: none;
+  font-family: 'DroidArabicNaskhRegular', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+
+.match-display-reference {
+  display: none;
+  font-family: 'DroidArabicNaskhRegular', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
+}
+
+.match-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+}
+
+.point-cell {
+  fill: none;
+  pointer-events: all;
+  stroke: #000;
+  stroke-opacity: .2;
+  position: absolute;
+}
+
+.point-cell:hover, .point-cell.selected {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: 1;
+  stroke-width: 2px;
+}
+
+.point-cell.selected {
+  stroke-opacity: .6;
+  stroke-width: 3px;
+}
+
+
+.selections {
+  right:10px;
+  top:10px;
+  width: 190px;
+}
+
+.selections label {
+  display: block;
+  padding-bottom: 8px;
+}
+
+.selections input[type=checkbox] {
+  position: relative;
+  top: -1px;
+}
+
+.selections .key {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+  margin: 0 5px;
+}
+
+#selected {
+  bottom: 10px;
+  left: 10px;
+  height: 28px;
+}
+
+#selected h1 {
+  font-size: 20px;
+  margin: 0px;
+  line-height: 20px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#options {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.9);
+  top: 9.5%;
+  right: 2.3%;
+  height: 70%;
+  bottom: 10%;
+  padding: 5px;
+  overflow: scroll;
+  display: none;
+}
+
+
+#network-flooding-title {
+  position: relative;
+  text-align: center; 
+}
+
+#network-flooding-select {
+  position: relative;
+  left: 0;
+  padding: 15px; 
+}
+
+#site-network-flooding {
+  position: relative;
+  margin: 10px;
+  left: 0;
+  padding: 5px;
+}
+
+#site-network-flooding select,{
+  width: 200px;
+}
+
+#go-network-flooding {
+  position: relative;
+  padding-top: 15px;
+  left: 25%;
+
+}
+
+#restore-default {
+  position: absolute;
+  position: absolute;
+  left: 25%;
+  bottom: 2%;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  text-align: center;
+}
+
+#toggle-voronoi {
+  position: absolute;
+  top: 2%;
+  right: 2.3%;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  text-align: center;
+}
+
+#multiplier-select{
+  padding: 15px;
+}
+
+#network-show-unreachable {
+  padding: 20px;
+}
+
+.hull {
+  fill: none;
+  pointer-events: all;
+  stroke: #000;
+  stroke-width: 5px;
+  position: absolute;
+}
+
+#regions {
+  position: absolute;
+  left: 5%;
+  bottom: 2%;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  text-align: center;
+}
+
+
