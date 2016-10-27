@@ -107,3 +107,45 @@
     font-size: 15px;
     color: #b30000;
 }
+
+input[type="text"] {
+    display: block;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: none;
+    -moz-border-radius: none;
+    -ms-border-radius: none;
+    -o-border-radius: none;
+    border-radius: none;
+    padding: 10px;
+    border: solid 1px gainsboro;
+    -webkit-transition: box-shadow 0.3s, border 0.3s;
+    -moz-transition: box-shadow 0.3s, border 0.3s;
+    -o-transition: box-shadow 0.3s, border 0.3s;
+    transition: box-shadow 0.3s, border 0.3s;
+}
+input[type="text"]:focus {
+    outline: none;
+
+    border: solid 1px #707070;
+    -webkit-box-shadow: 0 0 5px 1px #969696;
+    -moz-box-shadow: 0 0 5px 1px #969696;
+    box-shadow: 0 0 5px 1px #969696;
+}
+
+button {
+    border: none;
+    /*color: white;*/
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

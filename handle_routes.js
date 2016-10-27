@@ -11,7 +11,10 @@ function handle_routes(feature,layer) {
         if (sFound == false &&
             feature.properties.sToponym == marker_properties[keys[i]].cornu_URI) {
             sFound = true;
-            sRegion =marker_properties[keys[i]].region;
+            sRegion = marker_properties[keys[i]].region;
+            feature.properties.sTitle = marker_properties[keys[i]].searchTitle;
+            feature.properties.sTitleAr = marker_properties[keys[i]].arabicTitle;
+            feature.properties.sUri = marker_properties[keys[i]].cornu_URI;
             // populate the route_points dictionary with neighbours of the route points
             if (sRegion == 22) {
                 if (route_points[feature.properties.sToponym] == undefined)
@@ -26,6 +29,9 @@ function handle_routes(feature,layer) {
             feature.properties.eToponym == marker_properties[keys[i]].cornu_URI) {
             eFound = true;
             eRegion = marker_properties[keys[i]].region;
+            feature.properties.eTitle = marker_properties[keys[i]].searchTitle;
+            feature.properties.eTitleAr = marker_properties[keys[i]].arabicTitle;
+            feature.properties.eUri = marker_properties[keys[i]].cornu_URI;
             // populate the route_points dictionary with neighbours of the route points
             if (eRegion == 22) {
                 if (route_points[feature.properties.eToponym] == undefined)
@@ -39,7 +45,10 @@ function handle_routes(feature,layer) {
         if (sFound == true && eFound == true)
             break;
     }
+
     all_route_layers.push(layer);
+    route_features.push(feature);
+
     map_region_to_code[marker_properties[keys[i]].region_spelled]
         = marker_properties[keys[i]].region;
     /* Regions 13, 22, and 23 will be light gray.
@@ -53,9 +62,15 @@ function handle_routes(feature,layer) {
             route_layers[marker_properties[keys[i]].region_spelled] = [];
         route_layers[marker_properties[keys[i]].region_spelled].push(layer);
         customLineStyle(layer, colorLookup[sRegion], 2, 1);
+        layer.options.default_color = colorLookup[sRegion];
     }
-    else
+    else {
         customLineStyle(layer, "lightgray", 1, 1);
+        layer.options.default_color = "lightgray";
+    }
+
+
+    //console.log(route_layers)
     //layer.bringToBack();
     /*
      * click on a route section
@@ -86,6 +101,9 @@ function handle_routes(feature,layer) {
             $("#routeDetails").append("<p class = 'details_text'><b>" + rData + ": </b> " + layer.feature.properties[rData] + "</p>");
         })
     }
+    //console.log(JSON.stringify(route_features))
+    //init_graph(route_features);
+    //graph_dijks = createMatrix(route_features);
 }
 
 /*

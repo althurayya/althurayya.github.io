@@ -9,6 +9,11 @@
     <script src="https://rawgit.com/stefanocudini/leaflet-search/master/src/leaflet-search.js"></script>
     <script src="https://rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.js"></script>
     <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
+    <script type="text/javascript" src="d3.v3.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="data-structures-1.4.2.min.js"></script>
+    <script type="text/javascript" src="graph.js"></script>
+    <script type="text/javascript" src="dijkstra.js"></script>
+    <script type="text/javascript" src="helper.js"></script>
     <link rel="stylesheet" href="https://rawgit.com/Leaflet/Leaflet.label/master/dist/leaflet.label.css"/>
 
 
@@ -62,6 +67,7 @@
         <li id="regions"><a href="#regionPane" role="tab" title="Regions"><i class="fa fa-globe"></i></a></li>
         <li id="search"><a href="#searchPane" role="tab" title="Search"><i class="fa fa-search"></i></a></li>
         <li id="routeSection"><a href="#routeSectionPane" role="tab" title="Routes"><i class="fa fa-object-ungroup"></i></a></li>
+        <li id="pathFinding"><a href="#pathFindingPane" role="tab" title="Path Finding"><i class="fa fa-arrow-right"></i></a></li>
 
     </ul>
     <div class="sidebar-content">
@@ -123,7 +129,7 @@
         </div>
         <div class="sidebar-pane" id="searchPane">
             <h1>Search Toponym</h1>
-                    <input id="searchInput" type="text" placeholder="Search toponyms..."
+                    <input id="searchInput" type="text" placeholder="Search toponym..."
                             style="z-index: 99;" autocomplete="on"/>
         </div>
         <div class="sidebar-pane" id="routeSectionPane">
@@ -136,6 +142,18 @@
             <h3 id="routeDetails">
                 <br>
             </h3>
+        </div>
+        <div class="sidebar-pane" id="pathFindingPane">
+            <h1>Find Path</h1>
+            <input id="startInput" type="text" placeholder="Source..."
+                   style="z-index: 99;" autocomplete="on"/><br/>
+            <input id="endInput" type="text" placeholder="Destination..."
+                   style="z-index: 99;" autocomplete="on"/><br/>
+            <button type="button" style="top: 3px;"
+                    onclick="findPath(document.getElementById('startInput').value,
+                                document.getElementById('endInput').value)">
+                Find!
+            </button>
         </div>
     </div>
 </div>

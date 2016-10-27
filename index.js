@@ -42,15 +42,20 @@ var prevZoom = min_zoom;
 
 var regs = {};
 var markers = {};
+// dictionary of routes belonging to region ("region": [routes list])
 var route_layers = {};
 var all_route_layers = [];
 var map_region_to_code = {};
 var markerLabels = {};
 var route_points = {};
-
+var route_features = [];
 var geojson;
 var auto_list = [];
 var latlngs = [];
+
+var graph_dijks;
+var prevPath = [];
+
 
 var map = L.map('map',{maxZoom:max_zoom}).setView([30,42], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
@@ -75,8 +80,11 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             var marker = create_marker(feature,latlng);
             latlngs.push([latlng['lat'],latlng['lng']])
             // list of toponyms for autocomplete action of the search input
-            auto_list.push.apply(auto_list,[feature.properties.cornuData.toponym_search,
-                feature.properties.cornuData.cornu_URI, feature.properties.cornuData.toponym_arabic]);
+            auto_list.push(
+                [feature.properties.cornuData.toponym_search,
+                    feature.properties.cornuData.toponym_arabic,
+                feature.properties.cornuData.cornu_URI
+                    ].join(", "));
            /*
             * click on a marker
             */
@@ -136,7 +144,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         var routes = L.geoJson(data, {
             onEachFeature: handle_routes
         });
-
+        init_graph(route_features);
+        graph_dijks = createMatrix(route_features);
         var rl = routeLayer.addLayer(routes);
         rl.addTo(map);
         rl.bringToBack();
@@ -180,9 +189,14 @@ map.on('click', OnMapClick);
  */
 map.on('zoomend', myzoom);
 
-active_search();
-active_autocomp(auto_list);
+//
+active_search('#searchInput');
+active_autocomp('#searchInput',auto_list);
 
+path_active('#startInput');
+path_autocomp('#startInput',auto_list);
+path_active('#endInput');
+path_autocomp('#endInput',auto_list);
 /*
  * Add the rotes to the map
  */
@@ -256,3 +270,13 @@ function click_on_list(id) {
     $('#'+id+"ref").toggle();
 }
 
+
+function findPath (start, end){
+    //console.log(graph_dijks)
+    var startUri = start.substring(getPosition(start, ', ', 2) + 1, start.length).trim();
+    var endUri = end.substring(getPosition(end, ', ', 2) + 1, end.length).trim();
+    var path = graph_dijks.findShortestPath(startUri, endUri);
+    var countries, uniquePaths = [];
+    displayPath(path, countries, uniquePaths);
+    //console.log("path: " +path)
+}
