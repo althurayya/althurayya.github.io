@@ -6,4 +6,38 @@ This is a new working version of al-Ṯurayyā Gazetteer (or al-Thurayyā Gazett
 
 *Current team*: Masoumeh Seydi and Maxim Romanov @ U Leipzig. Former contributors: 2013–2014: Cameron Jackson (class of 2014, double-major in Arabic and Computer Science, Tufts)—technical and conceptual development; 2013: Adam Tavares, programmer @ Perseus Project, Tufts—techincal development. Special thanks to: 2013–2014: Vickie Sullivan (Chair, Classics Department, Tufts U), 2013—: Gregory Crane and the Perseus DL and the U Leipzig teams for support and inspiration.
 
+## Repository Structure:
+### archive: 
+Old data files
+### css:
+Core and font CSS files
+### experimental:
+Files and projects and some auxilary tools related to the althurayya (and thesis).
+### fonts:
+Fonts
+### master: 
+Data files used in the map
+### old:
+Small-Scale interactive map of ancient islamic world. 
+Sources: Cornu's map, Tarikh al-Islam. 
+Running on Leaflet.js and MapBox 
+### places:
+Individual geojson places files.
+### previous:
+All Al-Thurayya previous versions.
+### readings:
+Workshop report?
+### ref:
+Relevant refrerences and resources
+### scripts:
+Scripts to join/split the geojson data files
+### sources:
+Primary sources in individual json files
+### texts:
+
+### working:
+
+### main directory files: 
+main JS, HTML, and css files (to be restructured ...)
+
 ## Need to add information on License...
