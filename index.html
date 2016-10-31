@@ -145,15 +145,25 @@
         </div>
         <div class="sidebar-pane" id="pathFindingPane">
             <h1>Find Path</h1>
+            <div id="pathInputs">
             <input id="startInput" type="text" placeholder="Source..."
-                   style="z-index: 99;" autocomplete="on"/><br/>
+                   style="z-index: 99;" autocomplete="on"/>
             <input id="endInput" type="text" placeholder="Destination..."
-                   style="z-index: 99;" autocomplete="on"/><br/>
-            <button type="button" style="top: 3px;"
-                    onclick="findPath(document.getElementById('startInput').value,
-                                document.getElementById('endInput').value)">
-                Find!
-            </button>
+                   style="z-index: 99;" autocomplete="on"/>
+            </div>
+            <div class="selections">
+                <div id="itinerary-options"></div>
+                <input type="button" id="addPlace" style="top: 3px;"
+                       title="Add intermediate stop "
+                       onclick="addPathInput()" value="+" >
+                </input>
+            </div>
+            <div>
+                <input type="button" style="top: 3px;"
+                       onclick="findPathConsideringIntermediates()"
+                       value="Find Path">
+                </input>
+            </div>
         </div>
     </div>
 </div>
@@ -164,6 +174,8 @@
 <script src="handle_marker.js"></script>
 <script src="handle_routes.js"></script>
 <script src="search_toponym.js"></script>
+<script src="addPlace.js"></script>
 <script src="index.js"></script>
+<script src="HelpersForSelectionsUI.js"></script>
 </body>
 </html>

@@ -110,7 +110,8 @@
 
 input[type="text"] {
     display: block;
-    margin: 0;
+    /*padding-bottom: 10px;*/
+    margin:5px;
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     -webkit-appearance: none;
@@ -133,19 +134,28 @@ input[type="text"] {
 }
 input[type="text"]:focus {
     outline: none;
-
     border: solid 1px #707070;
     -webkit-box-shadow: 0 0 5px 1px #969696;
     -moz-box-shadow: 0 0 5px 1px #969696;
     box-shadow: 0 0 5px 1px #969696;
 }
 
-button {
+input[type="button"] {
     border: none;
     /*color: white;*/
-    padding: 15px 32px;
+    padding: 10px;
+    margin:5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    background-color: #e7e7e7; color: black;
+}
+
+.selections .key {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    margin: 0 5px;
 }

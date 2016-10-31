@@ -52,7 +52,6 @@ var route_features = [];
 var geojson;
 var auto_list = [];
 var latlngs = [];
-
 var graph_dijks;
 var prevPath = [];
 
@@ -70,30 +69,40 @@ $(function() {
 });
 
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
+    
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
-            if (regs[feature.properties.cornuData.region_spelled] == undefined)
-                regs[feature.properties.cornuData.region_spelled] = [];
-            regs[feature.properties.cornuData.region_spelled]
-                .push(feature.properties.cornuData.cornu_URI);
-
-            var marker = create_marker(feature,latlng);
-            latlngs.push([latlng['lat'],latlng['lng']])
-            // list of toponyms for autocomplete action of the search input
-            auto_list.push(
-                [feature.properties.cornuData.toponym_search,
-                    feature.properties.cornuData.toponym_arabic,
-                feature.properties.cornuData.cornu_URI
-                    ].join(", "));
-           /*
-            * click on a marker
-            */
-            marker.on('click', OnMarkerClick(feature));
-            function ResizeMarker(e) {
-                var currentZoom = map.getZoom();
-                marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
+            if (Object.keys(type_size).indexOf(
+                    feature.properties.cornuData.top_type_hom) != -1) {
+                //return L.Marker(latlng);
             }
-            return marker
+
+                if (regs[feature.properties.cornuData.region_spelled] == undefined)
+                    regs[feature.properties.cornuData.region_spelled] = [];
+                regs[feature.properties.cornuData.region_spelled]
+                    .push(feature.properties.cornuData.cornu_URI);
+
+                var marker = create_marker(feature, latlng);
+                latlngs.push([latlng['lat'], latlng['lng']])
+                // list of toponyms for autocomplete action of the search input
+                auto_list.push(
+                    [feature.properties.cornuData.toponym_search,
+                        feature.properties.cornuData.toponym_arabic,
+                        feature.properties.cornuData.cornu_URI
+                    ].join(", "));
+
+                /*
+                 * click on a marker
+                 */
+                marker.on('click', OnMarkerClick(feature));
+
+                function ResizeMarker(e) {
+                    var currentZoom = map.getZoom();
+                    marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
+                }
+
+                if (marker != null)
+                    return marker;
         }
     });
 
@@ -269,14 +278,46 @@ function click_on_list(id) {
     $('#'+id+"text").children().toggle();
     $('#'+id+"ref").toggle();
 }
+function findPathConsideringIntermediates() {
+    var sizeOfInputs = d3.select("#pathInputs").selectAll("input").size();
+    var src = document.getElementById('startInput').value;
+    var tgt = document.getElementById('endInput').value;
+    var stops = [];
+    stops.push(src);
+    for (var viaCnt = 0; viaCnt < sizeOfInputs - 2; viaCnt++)
+        stops.push(document.getElementById('path'+(viaCnt+1)).value);
+    stops.push(tgt);
 
-
-function findPath (start, end){
-    //console.log(graph_dijks)
-    var startUri = start.substring(getPosition(start, ', ', 2) + 1, start.length).trim();
-    var endUri = end.substring(getPosition(end, ', ', 2) + 1, end.length).trim();
-    var path = graph_dijks.findShortestPath(startUri, endUri);
-    var countries, uniquePaths = [];
-    displayPath(path, countries, uniquePaths);
-    //console.log("path: " +path)
+    var s, t;
+    repaintMarkers();
+    repaintPaths();
+    for (var i = 0; i < stops.length - 1; i++) {
+        s = stops[i];
+        t = stops[i + 1];
+        findPath(s, t)
+    }
 }
+function findPath (start, end){
+    if (start == null || end == null) return;
+    // Extract the cornu_URI from the search inputs for both source and destination
+    var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
+    var endUri = end.substring(end.lastIndexOf(",") +1).trim();
+    console.log("test " + startUri + " " + endUri );
+    var selections = selectedTypes('itinerary-options');
+    if(selections.indexOf("Shortest")!=-1) {
+        var path = graph_dijks.findShortestPath(startUri, endUri);
+        if (path != null) {
+            displayPathControl(path, "red");
+        }
+    }
+    if(selections.indexOf("Within A Day")!=-1) {
+
+        var path = shortestPath(graph.getNode(startUri), graph.getNode(endUri),'d');
+        if (path != null)
+            displayPathControl(path,"green");
+    }
+}
+//function addPathInput(){
+//    $("<>Hello world!</>").insertAfter("#startInput");
+//    $("#startInput")
+//}

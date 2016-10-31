@@ -100,12 +100,14 @@ function active_autocomp(input, auto_list) {
                             prevSearchLabel.setLabelNoHide(false);
                         }
                         if (input == "#endInput" && startSelected != undefined) {
+                            //alert("end keyup")
                             customMarkerStyle(startSelected, "red", 0.8);
                             startSelected.label._container.style.color = "red";
                             startSelected.label._container.style.fontSize = "24px";
                             startSelected.setLabelNoHide(true);
                         }
                         if (input == "#startInput" && endSelected != undefined) {
+                            //alert("start keyup")
                             customMarkerStyle(endSelected, "red", 0.8);
                             endSelected.label._container.style.color = "red";
                             endSelected.label._container.style.fontSize = "24px";
@@ -117,7 +119,7 @@ function active_autocomp(input, auto_list) {
                         prevSearchLabel = markers[key];
                     }
                     else {
-                        customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.8)
+                        customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
                     }
                 }
                 else if (searchTerm === "") {
@@ -138,10 +140,15 @@ function path_autocomp(input, auto_list) {
         minLength: 4,
         select: function (e, ui) {
             var selected = ui.item.value.toUpperCase();
-            if (input == "#startInput") startSelected = selected;
             var selectedMarker;
+
             Object.keys(markers).forEach(function (key) {
-                markerLabels[key].setLabelNoHide(false);
+                if (startSelected != undefined)
+                    startSelected.setLabelNoHide(true);
+                if (endSelected != undefined)
+                    endSelected.setLabelNoHide(true);
+                if (markerLabels[key] != startSelected && markerLabels[key] != endSelected)
+                  markerLabels[key].setLabelNoHide(false);
                 var markerSearchTitle = marker_properties[key].searchTitle.toUpperCase();
                 var markerTopURI = marker_properties[key].cornu_URI;
                 var markerArabicTitle = marker_properties[key].arabicTitle;
@@ -154,30 +161,36 @@ function path_autocomp(input, auto_list) {
                     if (prevSearchLabel != undefined) {
                         prevSearchLabel.label._container.style.color = "black";
                         prevSearchLabel.label._container.style.fontSize = "20px";
-                        prevSearchLabel.setLabelNoHide(false);
+                        //prevSearchLabel.setLabelNoHide(true);
                     }
-                    if (input == "#endInput" && startSelected != undefined) {
-                        customMarkerStyle(startSelected, "red", 0.8);
-                        startSelected.label._container.style.color = "red";
-                        startSelected.label._container.style.fontSize = "24px";
-                        startSelected.setLabelNoHide(true);
+                    if (input == "#startInput") {
+                        if (endSelected != undefined) {
+                            customMarkerStyle(endSelected, "red", 0.8);
+                            endSelected.label._container.style.color = "red";
+                            endSelected.label._container.style.fontSize = "24px";
+                            //endSelected.setLabelNoHide(true);
+                        }
+                        startSelected = markers[key];
                     }
-                    if (input == "#startInput" && endSelected != undefined) {
-                        customMarkerStyle(endSelected, "red", 0.8);
-                        endSelected.label._container.style.color = "red";
-                        endSelected.label._container.style.fontSize = "24px";
-                        endSelected.setLabelNoHide(true);
+                    if (input == "#endInput") {
+                        if (startSelected != undefined) {
+                            customMarkerStyle(startSelected, "red", 0.8);
+                            startSelected.label._container.style.color = "red";
+                            startSelected.label._container.style.fontSize = "24px";
+                            startSelected.setLabelNoHide(true);
+                        }
+                        endSelected = markers[key];
                     }
                     markers[key].setLabelNoHide(true);
                     markers[key].label._container.style.color = "red";
                     markers[key].label._container.style.fontSize = "24px";
-                    if (input == "#startInput") startSelected = markers[key];
-                    if (input == "#endInput") endSelected = markers[key];
+                    //if (input == "#startInput") startSelected = markers[key];
+                    //if (input == "#endInput") endSelected = markers[key];
                     //prevSearchLabel = markers[key];
                 }
                 // else, make them pale
                 else {
-                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.8)
+                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2);
                 }
             })
         }

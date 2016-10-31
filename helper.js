@@ -76,22 +76,29 @@ function calcPathSizeForColors(d, uniquePaths) {
     return size;
 }
 
-function displayPath(pathData, countries, uniquePaths) {
-    if (prevPath != undefined) {
-        prevPath.forEach(function(path) {
-           customLineStyle(path,path.options.default_color);
-        });
-    }
-    prevPath = [];
+function displayPath(pathData) {
+    //if (prevPath != undefined) {
+    //    prevPath.forEach(function(path) {
+    //       customLineStyle(path, path.options.default_color);
+    //    });
+    //}
+    //prevPath = [];
     all_route_layers.forEach(function(lay) {
         if (pathData.indexOf(lay.feature.properties.sToponym) !== -1
                 && pathData.indexOf(lay.feature.properties.eToponym) !== -1) {
             customLineStyle(lay, "red", 3, 1);
-            prevPath.push(lay);
+            //prevPath.push(lay);
             //console.log("lay "+lay)
+        }
+        else {
+            customLineStyle(lay, lay.options.default_color, 1, 0.2);
         }
     });
     Object.keys(markers).forEach(function(keys) {
+        if (pathData.indexOf(marker_properties[keys].cornu_URI) !== -1)
+            customMarkerStyle(markers[keys], "red", 0.8);
+        else
+            customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
 
     });
 
@@ -298,8 +305,6 @@ function findCountries(csv, data, routeData) {
     }
 
     var result = Prim(g);
-    console.log("res " +result);
-
     var i,j;
     for (i = 0; i < arr.length; i++) {
         for (j = i; j < arr.length; j++) {
@@ -372,4 +377,29 @@ function getRandomColor() {
 
 function getPosition(str, m, i) {
     return str.split(m, i).join(m).length;
+}
+
+function repaintPaths() {
+    all_route_layers.forEach(function(lay) {
+        customLineStyle(lay, lay.options.default_color, 1, 0.2);
+    });
+}
+
+function repaintMarkers() {
+    Object.keys(markers).forEach(function(keys) {
+            customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
+    });
+}
+
+function displayPathControl(pathData,color) {
+    all_route_layers.forEach(function (lay) {
+        if (pathData.indexOf(lay.feature.properties.sToponym) !== -1
+            && pathData.indexOf(lay.feature.properties.eToponym) !== -1) {
+            customLineStyle(lay, color, 3, 1);
+        }
+    });
+    Object.keys(markers).forEach(function (keys) {
+        if (pathData.indexOf(marker_properties[keys].cornu_URI) !== -1)
+            customMarkerStyle(markers[keys], color, 0.8);
+    });
 }

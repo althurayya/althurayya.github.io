@@ -65,13 +65,12 @@ function PriorityQueue () {
 }
 
 function findPaths(s, t, withinADay) {
-  var shortest = shortestPath(s, t, withinADay); 
+  var shortest = shortestPath(s, t, withinADay);
   /* second: get rid of longest edge weight */ 
   var max = longestEdge(shortest); 
   max.weight = INFINITY; 
   //var secondShortest = shortestPath(s, t); 
-  console.log(secondShortest);
-  /* get rid of all edge weights over x weight*/ 
+  /* get rid of all edge weights over x weight*/
   return shortest; 
 }
 
@@ -122,7 +121,7 @@ function shortestPath(s, t, searchType) {
      // nodes.enqueue(INFINITY, node._id);
     } 
     previous[node._id] = null; 
-  })
+  });
 
   while(!nodes.isEmpty()) {
     smallest = nodes.dequeue();
