@@ -260,7 +260,6 @@ function click_region(reg) {
                 markers[key].options.zIndexOffset = 1000;
             }
         });
-
         all_route_layers.forEach(function(lay) {
             customLineStyle(lay, "gray", 2, 0.8);  /* "lightgray" */
         });
@@ -303,23 +302,23 @@ function findPathConsideringIntermediates() {
     }
 }
 function findPath (start, end){
+    var shortPath, dayPath;
     if (start == null || end == null) return;
     // Extract the cornu_URI from the search inputs for both source and destination
     var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
     var endUri = end.substring(end.lastIndexOf(",") +1).trim();
-    console.log("test " + startUri + " " + endUri );
+    //console.log("test " + startUri + " " + endUri );
     var selections = selectedTypes('itinerary-options');
     if(selections.indexOf("Shortest")!=-1) {
-        var path = graph_dijks.findShortestPath(startUri, endUri);
-        if (path != null) {
-            displayPathControl(path, "red");
+        shortPath = graph_dijks.findShortestPath(startUri, endUri);
+        if (shortPath != null) {
+            displayPathControl(shortPath, "red");
         }
     }
     if(selections.indexOf("Within A Day")!=-1) {
-
-        var path = shortestPath(graph.getNode(startUri), graph.getNode(endUri),'d');
-        if (path != null)
-            displayPathControl(path,"green");
+        dayPath = shortestPath(graph.getNode(startUri), graph.getNode(endUri),'d');
+        if (dayPath != null)
+            displayPathControl(dayPath,"green");
     }
 }
 //function addPathInput(){

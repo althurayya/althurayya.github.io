@@ -110,7 +110,7 @@
 
 input[type="text"] {
     display: block;
-    height: 12px;
+    height: 15px;
     /*padding-bottom: 10px;*/
     margin:5px;
     font-family: 'Baskerville', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
@@ -149,6 +149,7 @@ input[type="button"] {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-family: 'Baskerville', 'Brill', 'Georgia', 'Lateef', 'Geeza Pro', serif;
     font-size: 16px;
     background-color: #e7e7e7; color: black;
 }

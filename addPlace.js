@@ -14,11 +14,11 @@ function addStop(btnId) {
         // Append the text input for new stop
         newDiv.append('<input type="text" id="stopInput' + numStops +
             '" placeholder="Via..."' +
-            ' autocomplete="on" style="margin-left:10px">');
+            ' autocomplete="on" style="margin-left:15px">');
         // Append new add button
         newDiv.append('<input type="button" title="Add new stop after"' +
             ' id="addStop' + numStops + '" onclick="addStop(this.id)" ' +
-            'value="+" style="margin-left:10px">');
+            'value="+" style="margin-left:15px">');
 
         // Add text input to new div
         //newDiv.append("<input id=''>");
@@ -29,14 +29,8 @@ function addStop(btnId) {
         newDiv.append('<input type="button" id="delBtn' + numStops + '" ' +
             'onclick="removeStop(this.id)"' +
             ' title="Remove this stop" value= "-"' +
-            'style="margin-left:10px"/>');
+            'style="margin-left:15px"/>');
 
-        // Show remove button if at least one input is created.
-        //if (numStops == 1) {
-
-            //var divRemove = $(document.createElement('div'));
-
-        //}
         $("#" + btnId).parent('div').after(newDiv);active_search("stopInputDestination");
         active_autocomp('#' + 'stopInput' + numStops,auto_list,"#pathFindingPane",
             keepLastStops);
@@ -68,7 +62,6 @@ function removeStop(btnId) {
     //}
     //
     //if (numStops == 0) {
-    //    alert(JSON.stringify(container))
     //    //$(container)
     //    //    //.empty()
     //    //    .remove();

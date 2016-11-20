@@ -3,7 +3,6 @@
  * Search Toponym
  */
 var prevSearchLabel;
-var startSelected, endSelected;
 
 function active_search(input) {
     $(input).on('keyup', function () {
@@ -41,7 +40,7 @@ function active_search(input) {
 
 function active_autocomp(input, auto_list, which_input, postprocess) {
     /*
-     * Autocomplete the search input
+     * Autocomplete an input
      */
     $(input).autocomplete({
         appendTo: which_input,//"#searchPane",
@@ -49,7 +48,9 @@ function active_autocomp(input, auto_list, which_input, postprocess) {
         minLength: 4,
         select: function (e, ui) {
             var selected = ui.item.value.toUpperCase();
+            // Select the second part of the selected item in the auto_list which is the topURI
             var key = (selected.split(",")[2]).trim();
+            //Highlight the selected item by red color
             customMarkerStyle(markers[key], "red", 0.8);
             if (prevSearchLabel != undefined) {
                 prevSearchLabel.label._container.style.color = "black";
