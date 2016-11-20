@@ -200,12 +200,12 @@ map.on('zoomend', myzoom);
 
 //
 active_search('#searchInput');
-active_autocomp('#searchInput',auto_list);
+active_search("stopInput0");
+active_search("stopInputDestination");
+active_autocomp('#searchInput',auto_list,"#searchPane",function(){});
+active_autocomp('#stopInput0',auto_list,"#pathFindingPane",keepLastStops);
+active_autocomp('#stopInputDestination',auto_list,"#pathFindingPane",keepLastStops);
 
-path_active('#startInput');
-path_autocomp('#startInput',auto_list);
-path_active('#endInput');
-path_autocomp('#endInput',auto_list);
 /*
  * Add the rotes to the map
  */
@@ -279,13 +279,18 @@ function click_on_list(id) {
     $('#'+id+"ref").toggle();
 }
 function findPathConsideringIntermediates() {
-    var sizeOfInputs = d3.select("#pathInputs").selectAll("input").size();
-    var src = document.getElementById('startInput').value;
-    var tgt = document.getElementById('endInput').value;
+    var sizeOfInputs = numStops;//d3.select("#pathInputs").selectAll("input").size();
+    var src = document.getElementById('stopInput0').value;
+    var tgt = document.getElementById('stopInputDestination').value;
     var stops = [];
     stops.push(src);
-    for (var viaCnt = 0; viaCnt < sizeOfInputs - 2; viaCnt++)
-        stops.push(document.getElementById('path'+(viaCnt+1)).value);
+    $('Input[id^="stopInput"]').each(function() {
+        var stopInputValue = $(this).val();
+        if (stopInputValue.indexOf(",") != -1) {
+            stops.push(stopInputValue);
+
+        }
+    });
     stops.push(tgt);
 
     var s, t;

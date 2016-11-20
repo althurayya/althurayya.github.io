@@ -144,19 +144,31 @@
             </h3>
         </div>
         <div class="sidebar-pane" id="pathFindingPane">
-            <h1>Find Path</h1>
-            <div id="pathInputs">
-            <input id="startInput" type="text" placeholder="Source..."
+            <h1>Pathfinding</h1>
+            <div id="pathInputs" style="display: inline-block;">
+            <label>
+                Source:
+            </label>
+             <input id="stopInput0" type="text" placeholder="Source..."
+                   style="z-index: 99; " autocomplete="on"/>
+             <div id="stopDiv0">
+                 <input type="button" id="addStop0" style="top: 3px;margin-left: 15px;"
+                        title="Add intermediate stop "
+                        onclick="addStop(this.id)" value="+" />
+             </div>
+            <br>
+
+            <label id="destination">
+                Destination:
+            </label>
+            <input id="stopInputDestination" type="text" placeholder="Destination..."
                    style="z-index: 99;" autocomplete="on"/>
-            <input id="endInput" type="text" placeholder="Destination..."
-                   style="z-index: 99;" autocomplete="on"/>
+                <br>
+
             </div>
             <div class="selections">
                 <div id="itinerary-options"></div>
-                <input type="button" id="addPlace" style="top: 3px;"
-                       title="Add intermediate stop "
-                       onclick="addPathInput()" value="+" >
-                </input>
+                <br>
             </div>
             <div>
                 <input type="button" style="top: 3px;"

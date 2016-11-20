@@ -1,63 +1,87 @@
 /**
  * Created by rostam on 29.10.16.
  */
-var iCnt = 0;
-// CREATE A "DIV" ELEMENT AND DESIGN IT USING jQuery ".css()" CLASS.
-var container = d3.select("#pathInputs");
+numStops = 0;
+maxStops = 3;
+function addStop(btnId) {
+    if (numStops <= maxStops) {
+        // Increment counter for number of stops
+        numStops++;
+        //var currentContainer = $("#" + btnId).parent('div');
+        // Add new div for containing the new elements
+        var newDiv = $(document.createElement('div'));
+        newDiv.attr("id", 'stopDiv' + numStops);
+        // Append the text input for new stop
+        newDiv.append('<input type="text" id="stopInput' + numStops +
+            '" placeholder="Via..."' +
+            ' autocomplete="on" style="margin-left:10px">');
+        // Append new add button
+        newDiv.append('<input type="button" title="Add new stop after"' +
+            ' id="addStop' + numStops + '" onclick="addStop(this.id)" ' +
+            'value="+" style="margin-left:10px">');
 
-function addPathInput() {
-    if (iCnt <= 3) {
+        // Add text input to new div
+        //newDiv.append("<input id=''>");
+            //.attr("type","text")
+            //.attr("id",'stopInput' + numStops).attr("placeholder","Via...")
+            //    .attr("autocomplete","on").style("margin-left", "10px");
+        // Append new remove button for current stop
+        newDiv.append('<input type="button" id="delBtn' + numStops + '" ' +
+            'onclick="removeStop(this.id)"' +
+            ' title="Remove this stop" value= "-"' +
+            'style="margin-left:10px"/>');
 
-        iCnt = iCnt + 1;
+        // Show remove button if at least one input is created.
+        //if (numStops == 1) {
 
-        // Add text input.
-        container.append("input").attr("type","text")
-            .attr("id",'path' + iCnt).attr("placeholder","Via...")
-                .attr("autocomplete","on");
-        path_active('#' + 'path' + iCnt);
-        path_autocomp('#' + 'path' + iCnt,auto_list);
+            //var divRemove = $(document.createElement('div'));
 
-        // Show remobe button if at least one input is created.
-        if (iCnt == 1) {
-
-            var divRemove = $(document.createElement('div'));
-            $("#addPlace").after('<input type="button" onclick="removeInput()"' +
-                'id="btRemove" title="Remove intermediate stop" value= "-"/>');
-
-        }
+        //}
+        $("#" + btnId).parent('div').after(newDiv);active_search("stopInputDestination");
+        active_autocomp('#' + 'stopInput' + numStops,auto_list,"#pathFindingPane",
+            keepLastStops);
+        active_autocomp('#' + 'stopInput' + numStops,auto_list,"#pathFindingPane",
+            keepLastStops);
     }
     // After reaching the specified limit, disable the "Add Place!" button.
     // (3 is the limit we have set)
     else {
-        container.append("label").attr("id","limitLabel").html("Reached the limit");
-        document.getElementById("addPlace").disabled = true
+        $("#destination").before('<label id="limitLabel">Reached the limit</label>');
+        $("input[id^='addStop']").attr('disabled', true);
+        //document.getElementById("addStop").disabled = true
     }
 };
 
 // Remove one element per click.
-function removeInput() {
-    if (iCnt != 0) {
-        $('#path' + iCnt).remove();
+function removeStop(btnId) {
+    stopsValue["#stopInput"+numStops] = "";
+    $("#" + btnId).parent('div').remove();
+    numStops--;
+    $("input[id^='addStop']").attr('disabled', false);
+
+    //if (numStops != 0) {
+    //    $('#stop' + numStops).remove();
         $("#limitLabel").remove();
-        iCnt = iCnt - 1;
-        if (iCnt < 4)
-            $('#addPlace').removeAttr('disabled')
-    }
-
-    if (iCnt == 0) {
-        $(container)
-            .empty()
-            .remove();
-
-        $('#btRemove').remove();
-        //$('#addPlace')
-        //    .removeAttr('disabled');
-            //.attr('class', 'bt');
-    }
+    //    numStops = numStops - 1;
+    //    if (numStops < 4)
+    //        $('#addStop').removeAttr('disabled')
+    //}
+    //
+    //if (numStops == 0) {
+    //    alert(JSON.stringify(container))
+    //    //$(container)
+    //    //    //.empty()
+    //    //    .remove();
+    //
+    //    $('#btnRemove').remove();
+    //    //$('#addStop')
+    //    //    .removeAttr('disabled');
+    //        //.attr('class', 'bt');
+    //}
 };
 
 // REMOVE ALL THE ELEMENTS IN THE CONTAINER.
-//$('#btRemoveAll').click(function() {
+//$('#btnRemoveAll').click(function() {
 //    $(container)
 //        .empty()
 //        .remove();
@@ -92,3 +116,16 @@ function removeInput() {
 //    $(divValue).append('<p><b>Your selected values</b></p>' + values);
 //    $('body').append(divValue);
 //}
+
+function keepLastStops(){
+    $('Input[id^="stopInput"]').each(function() {
+        var stopInputValue = $(this).val();
+        if (stopInputValue.indexOf(",") != -1) {
+            var key = (stopInputValue.split(",")[2]).trim();
+            customMarkerStyle(markers[key], "red", 0.8);
+            markers[key].setLabelNoHide(true);
+            markers[key].label._container.style.color = "red";
+            markers[key].label._container.style.fontSize = "24px";
+        }
+    });
+}

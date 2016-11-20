@@ -4,6 +4,7 @@
  */
 var prevSearchLabel;
 var startSelected, endSelected;
+
 function active_search(input) {
     $(input).on('keyup', function () {
         Object.keys(markers).forEach(function (key) {
@@ -38,161 +39,30 @@ function active_search(input) {
     });
 }
 
-function active_autocomp(input, auto_list) {
+function active_autocomp(input, auto_list, which_input, postprocess) {
     /*
      * Autocomplete the search input
      */
     $(input).autocomplete({
-        appendTo: "#searchPane",
+        appendTo: which_input,//"#searchPane",
         source: auto_list,
         minLength: 4,
         select: function (e, ui) {
             var selected = ui.item.value.toUpperCase();
-            var selectedMarker;
-            Object.keys(markers).forEach(function (key) {
-                markerLabels[key].setLabelNoHide(false);
-                var markerSearchTitle = marker_properties[key].searchTitle.toUpperCase();
-                var markerTopURI = marker_properties[key].cornu_URI;
-                var markerArabicTitle = marker_properties[key].arabicTitle;
-                var markerSearchTitles = [];
-                markerSearchTitles.push(markerSearchTitle, markerArabicTitle, markerTopURI);
-                // Change the circle marker color to red if it matches the selected search value
-                if (markerSearchTitles.join(', ') == selected) {
-                    selectedMarker = markers[key];
-                    customMarkerStyle(markers[key], "red", 0.8);
-                    if (prevSearchLabel != undefined) {
-                        prevSearchLabel.label._container.style.color = "black";
-                        prevSearchLabel.label._container.style.fontSize = "20px";
-                        prevSearchLabel.setLabelNoHide(false);
-                    }
-                    markers[key].setLabelNoHide(true);
-                    markers[key].label._container.style.color = "red";
-                    markers[key].label._container.style.fontSize = "24px";
-                    prevSearchLabel = markers[key];
-                }
-                // else, make them pale
-                else {
-                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
-                }
-            })
-            // re-center the map if the selected item exists!
-            if (selectedMarker !== undefined) {
-                map.panTo(selectedMarker.getLatLng());
+            var key = (selected.split(",")[2]).trim();
+            customMarkerStyle(markers[key], "red", 0.8);
+            if (prevSearchLabel != undefined) {
+                prevSearchLabel.label._container.style.color = "black";
+                prevSearchLabel.label._container.style.fontSize = "20px";
+                prevSearchLabel.setLabelNoHide(false);
             }
-        }
-    });
-}
-    function path_active(input) {
-        $(input).on('keyup', function () {
-            Object.keys(markers).forEach(function (key) {
-                var searchTitle = marker_properties[key].searchTitle.toUpperCase();
-                var cornuURI = marker_properties[key].cornu_URI;
-                var arabicTitle = marker_properties[key].arabicTitle;
-                var markerSearchTitle = [];
-                markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
-                var searchTerm = $(input).val().toUpperCase();
-                if (searchTerm !== "" && searchTerm.length > 1) {
-                    if (markerSearchTitle.join(' ').indexOf(searchTerm) != -1) {//) {
-                        customMarkerStyle(markers[key], "red", 0.8);
-                        if(prevSearchLabel != undefined) {
-                            prevSearchLabel.label._container.style.color = "black";
-                            prevSearchLabel.label._container.style.fontSize = "20px";
-                            prevSearchLabel.setLabelNoHide(false);
-                        }
-                        if (input == "#endInput" && startSelected != undefined) {
-                            //alert("end keyup")
-                            customMarkerStyle(startSelected, "red", 0.8);
-                            startSelected.label._container.style.color = "red";
-                            startSelected.label._container.style.fontSize = "24px";
-                            startSelected.setLabelNoHide(true);
-                        }
-                        if (input == "#startInput" && endSelected != undefined) {
-                            //alert("start keyup")
-                            customMarkerStyle(endSelected, "red", 0.8);
-                            endSelected.label._container.style.color = "red";
-                            endSelected.label._container.style.fontSize = "24px";
-                            endSelected.setLabelNoHide(true);
-                        }
-                        markers[key].setLabelNoHide(true);
-                        //markers[key].label._container.style.color = "red";
-                        //markers[key].label._container.style.fontSize = "24px";
-                        prevSearchLabel = markers[key];
-                    }
-                    else {
-                        customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
-                    }
-                }
-                else if (searchTerm === "") {
-                    myzoom();
-                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 1)
-                }
-            })
-        });
-}
-
-function path_autocomp(input, auto_list) {
-    /*
-     * Autocomplete the search input
-     */
-    $(input).autocomplete({
-        appendTo: "#pathFindingPane",
-        source: auto_list,
-        minLength: 4,
-        select: function (e, ui) {
-            var selected = ui.item.value.toUpperCase();
-            var selectedMarker;
-
-            Object.keys(markers).forEach(function (key) {
-                if (startSelected != undefined)
-                    startSelected.setLabelNoHide(true);
-                if (endSelected != undefined)
-                    endSelected.setLabelNoHide(true);
-                if (markerLabels[key] != startSelected && markerLabels[key] != endSelected)
-                  markerLabels[key].setLabelNoHide(false);
-                var markerSearchTitle = marker_properties[key].searchTitle.toUpperCase();
-                var markerTopURI = marker_properties[key].cornu_URI;
-                var markerArabicTitle = marker_properties[key].arabicTitle;
-                var markerSearchTitles = [];
-                markerSearchTitles.push(markerSearchTitle, markerArabicTitle, markerTopURI);
-                // Change the circle marker color to red if it matches the selected search value
-                if (markerSearchTitles.join(', ') == selected) {
-                    selectedMarker = markers[key];
-                    customMarkerStyle(markers[key], "red", 0.8);
-                    if (prevSearchLabel != undefined) {
-                        prevSearchLabel.label._container.style.color = "black";
-                        prevSearchLabel.label._container.style.fontSize = "20px";
-                        //prevSearchLabel.setLabelNoHide(true);
-                    }
-                    if (input == "#startInput") {
-                        if (endSelected != undefined) {
-                            customMarkerStyle(endSelected, "red", 0.8);
-                            endSelected.label._container.style.color = "red";
-                            endSelected.label._container.style.fontSize = "24px";
-                            //endSelected.setLabelNoHide(true);
-                        }
-                        startSelected = markers[key];
-                    }
-                    if (input == "#endInput") {
-                        if (startSelected != undefined) {
-                            customMarkerStyle(startSelected, "red", 0.8);
-                            startSelected.label._container.style.color = "red";
-                            startSelected.label._container.style.fontSize = "24px";
-                            startSelected.setLabelNoHide(true);
-                        }
-                        endSelected = markers[key];
-                    }
-                    markers[key].setLabelNoHide(true);
-                    markers[key].label._container.style.color = "red";
-                    markers[key].label._container.style.fontSize = "24px";
-                    //if (input == "#startInput") startSelected = markers[key];
-                    //if (input == "#endInput") endSelected = markers[key];
-                    //prevSearchLabel = markers[key];
-                }
-                // else, make them pale
-                else {
-                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2);
-                }
-            })
+            markers[key].setLabelNoHide(true);
+            markers[key].label._container.style.color = "red";
+            markers[key].label._container.style.fontSize = "24px";
+            prevSearchLabel = markers[key];
+            // re-center the map if the selected item exists!
+            map.panTo(markers[key].getLatLng());
+            postprocess();
         }
     });
 }
