@@ -149,10 +149,12 @@
             <label>
                 Source:
             </label>
+                <div id="stopDiv0">
              <input id="stopInput0" type="text" placeholder="Source..."
                    style="z-index: 99; " autocomplete="on"/>
-             <div id="stopDiv0">
-                 <input type="button" id="addStop0" style="top: 3px;margin-left: 15px;"
+
+                 <input type="button" id="addStop0"
+                        style="top: 3px;margin-left: 15px;padding: 5px;"
                         title="Add intermediate stop "
                         onclick="addStop(this.id)" value="+" />
              </div>
@@ -162,7 +164,7 @@
                 Destination:
             </label>
             <input id="stopInputDestination" type="text" placeholder="Destination..."
-                   style="z-index: 99;" autocomplete="on"/>
+                   style="z-index: 99;display: block;" autocomplete="on"/>
                 <br>
 
             </div>

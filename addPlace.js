@@ -18,7 +18,7 @@ function addStop(btnId) {
         // Append new add button
         newDiv.append('<input type="button" title="Add new stop after"' +
             ' id="addStop' + numStops + '" onclick="addStop(this.id)" ' +
-            'value="+" style="margin-left:15px">');
+            'value="+" style="margin-left:15px;padding:5px;">');
 
         // Add text input to new div
         //newDiv.append("<input id=''>");
@@ -29,7 +29,7 @@ function addStop(btnId) {
         newDiv.append('<input type="button" id="delBtn' + numStops + '" ' +
             'onclick="removeStop(this.id)"' +
             ' title="Remove this stop" value= "-"' +
-            'style="margin-left:15px"/>');
+            'style="margin-left:15px;padding:5px;"/>');
 
         $("#" + btnId).parent('div').after(newDiv);active_search("stopInputDestination");
         active_autocomp('#' + 'stopInput' + numStops,auto_list,"#pathFindingPane",
@@ -48,7 +48,6 @@ function addStop(btnId) {
 
 // Remove one element per click.
 function removeStop(btnId) {
-    stopsValue["#stopInput"+numStops] = "";
     $("#" + btnId).parent('div').remove();
     numStops--;
     $("input[id^='addStop']").attr('disabled', false);
@@ -114,7 +113,8 @@ function keepLastStops(){
     $('Input[id^="stopInput"]').each(function() {
         var stopInputValue = $(this).val();
         if (stopInputValue.indexOf(",") != -1) {
-            var key = (stopInputValue.split(",")[2]).trim();
+            var sel_splitted = stopInputValue.split(",");
+            var key = (sel_splitted[sel_splitted.length-1]).trim();
             customMarkerStyle(markers[key], "red", 0.8);
             markers[key].setLabelNoHide(true);
             markers[key].label._container.style.color = "red";
