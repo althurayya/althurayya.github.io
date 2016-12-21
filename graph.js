@@ -206,5 +206,10 @@ function placeDistanceInZone(meters, zones) {
   }
 }
 
-
-
+function lengthInMeters(path) {
+  var m = 0;
+  path.forEach(function(p) {
+    m += p.properties.Meter;
+  })
+  return m;
+}

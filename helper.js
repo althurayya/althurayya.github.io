@@ -29,54 +29,8 @@ function createMatrix(postdata) {
     return new DijksGraph(edgeMap);
 }
 
-function calcPathSize(d, uniquePaths) {
-    //var pathscale = d3.scale.linear()
-    //    .domain([d3.min(d3.values(uniquePaths)),d3.max(d3.values(uniquePaths))])
-    //    .range([1,20]);
-    if (arcLayer.visibility())
-        var pathscale = d3.scale.linear().domain([1, 15]).range([1, 30]);
-    else if (routeLayer.visibility())
-        var pathscale = d3.scale.linear().domain([1, 15]).range([1, 15]);
-    // To consider the paths from A to B and B to A as one path
-    var tmp1 = uniquePaths[d.properties.sToponym
-    + "," + d.properties.eToponym];
-    var tmp2 = uniquePaths[d.properties.eToponym
-    + "," + d.properties.sToponym];
-    var size;
-    if (tmp1 == undefined && tmp2 == undefined) {
-        size = 0
-    }
-    else {
-        if (tmp1 == undefined)
-            size = pathscale(tmp2);
-        else size = pathscale(tmp1);
-    }
-    return size;
-}
-
-function calcPathSizeForColors(d, uniquePaths) {
-    //var pathscale = d3.scale.linear()
-    //    .domain([d3.min(d3.values(uniquePaths)),d3.max(d3.values(uniquePaths))])
-    //    .range([1,20]);
-    var pathscale = d3.scale.linear().domain([1, 15]).range([1, 20]);
-    // To consider the paths from A to B and B to A as one path
-    var tmp1 = uniquePaths[d.properties.sToponym
-    + "," + d.properties.eToponym];
-    var tmp2 = uniquePaths[d.properties.eToponym
-    + "," + d.properties.sToponym];
-    var size;
-    if (tmp1 == undefined && tmp2 == undefined) {
-        size = 0
-    }
-    else {
-        if (tmp1 == undefined)
-            size = pathscale(tmp2);
-        else size = pathscale(tmp1);
-    }
-    return size;
-}
-
 function displayPath(pathData) {
+
     //if (prevPath != undefined) {
     //    prevPath.forEach(function(path) {
     //       customLineStyle(path, path.options.default_color);
@@ -140,77 +94,6 @@ function displayPath(pathData) {
     //}
 }
 
-function displayPathArc(pathData, countries, uniquePaths, svg) {
-    //routeLayer.visibility(false);
-    //arcLayer.visibility(true);
-
-    //map.showHideLayer(routeLayer);
-    //map.showHideLayer(arcLayer);
-    displayPath(pathData,countries,uniquePaths);
-    //var rscale = d3.scale.linear()
-    //    .domain(d3.extent(d3.values(countries)))
-    //    .range([5, 30]);
-    //
-    //var colorScale = d3.scale.linear()
-    //    .domain(d3.extent(d3.values(uniquePaths)))
-    //    .range(["darkseagreen", "darkgreen"])
-    //    .interpolate(d3.interpolateHcl);
-    //
-    ////Initial fill of all circles
-    //d3.selectAll("circle").transition().duration(1000)
-    //    .style("fill", "seagreen")
-    //    .attr("r", 5);
-}
-// Updates the routes between a list of countries, using dijkstra algorithm
-function updateRoutesCountries(countries, dijks_graph, svg) {
-    var country = Object.keys(countries);
-    var pathData = [];
-    var uniquePaths = {};
-
-    for (var x = 0; x < country.length; x++) {
-        for (var y = x + 1; y < country.length; y++) {
-            var pData = dijks_graph.findShortestPath(country[x], country[y]);
-            if (pData) {
-                for (var i = 0; i < pData.length; i++) {
-                    for (var j = i + 1; j < pData.length; j++) {
-                        // Check both i to j and j to i paths
-                        // to prevent counting a path two times
-                        if (uniquePaths[pData[i] + "," + pData[j]] == undefined) {
-                            if (uniquePaths[pData[j] + "," + pData[i]] != undefined) {
-                                // adds counter to one of the ij/ji paths
-                                uniquePaths[pData[j] + "," + pData[i]]++;
-                            } else {
-                                uniquePaths[pData[j] + "," + pData[i]] = 1;
-                            }
-                        } else {
-                            uniquePaths[pData[i] + "," + pData[j]]++;
-                        }
-                    }
-                }
-                // concats new path to the array of pathData
-                pathData = pathData.concat(pData);
-            }
-        }
-    }
-    if (d3.select('input[name="pathvis"]:checked')[0][0].value == 0) {
-        //routeLayer.visibility(true);
-        //arcLayer.visibility(false);
-        if (arcLayer.visibility())
-            map.showHideLayer(arcLayer);
-        if (!routeLayer.visibility())
-            map.showHideLayer(routeLayer);
-        //map.showHideLayer(routeLayer);
-        //map.showHideLayer(arcLayer);
-        displayPath(pathData, countries, uniquePaths);
-    } else {
-        if (!arcLayer.visibility())
-            map.showHideLayer(arcLayer);
-        if (routeLayer.visibility())
-            map.showHideLayer(routeLayer);
-        displayPathArc(pathData, countries, uniquePaths, svg);
-    }
-}
-
 function updateRoutes(id) {
     var trav = 0;
     d3.selectAll("path").transition().duration(1000).style("stroke", function (d, i) {
@@ -228,48 +111,6 @@ function updateRoutes(id) {
             }
         }
     }
-}
-
-// Building initial map structures
-function dataStructsBetweenPeopleYears(data) {
-    var min_year = 2000, max_year = 0;
-    // A map from people to assigned year and name (now just toponyms)
-    var peopleMap = {};
-    // A map from year to people assigned to that year
-    var yearPeople = {};
-    data.forEach(function (d) {
-        // Group the years to decades
-        var diedAtDecade = d.diedAt - (d.diedAt % 10);
-        // populating the map. if a person exists in map, concat new place to older ones
-        if (peopleMap[d.id] != undefined) {
-            peopleMap[d.id] = {
-                'diedAt': diedAtDecade,
-                'city': peopleMap[d.id]['city'] + ',' + d.city
-            };
-        }
-        // if a new person is going to be added, a new object is created and added to map
-        else {
-            peopleMap[d.id] = {'diedAt': diedAtDecade, 'city': d.city};
-        }
-        // populating the map. if a person exists in map, concat new years to older ones
-        if (yearPeople[diedAtDecade] != undefined) {
-            yearPeople[diedAtDecade] = {'id': yearPeople[diedAtDecade]['id'] + ',' + d.id};
-        }
-        // if a new person is going to be added, a new object is created and added to map
-        else {
-            yearPeople[diedAtDecade] = {'id': d.id};
-        }
-        // Finding the min and max years
-        var year = parseInt(diedAtDecade);
-        if (year < min_year) min_year = year;
-        if (year > max_year) max_year = year;
-    });
-    var output = {};
-    output['min_year'] = min_year;
-    output['max_year'] = max_year;
-    output['peopleMap'] = peopleMap;
-    output['yearPeople'] = yearPeople;
-    return output;
 }
 
 function findCountries(csv, data, routeData) {
@@ -340,27 +181,26 @@ function findCountries(csv, data, routeData) {
         }
     }
 
-    //alert(JSON.stringify(msp));
     var blob = new Blob([JSON.stringify(geoJson)], {type: "text/plain;charset=utf-8"});
     saveAs(blob, "arcs.json");
 
     return geoJson;
 }
-
+// Claculate distance. For results in meter, 'K' hsould be choosen as the unit
 function distance(lat1, lon1, lat2, lon2, unit) {
-    var radlat1 = Math.PI * lat1 / 180
-    var radlat2 = Math.PI * lat2 / 180
-    var theta = lon1 - lon2
-    var radtheta = Math.PI * theta / 180
+    var radlat1 = Math.PI * lat1 / 180;
+    var radlat2 = Math.PI * lat2 / 180;
+    var theta = lon1 - lon2;
+    var radtheta = Math.PI * theta / 180;
     var dist = Math.sin(radlat1) * Math.sin(radlat2) + Math.cos(radlat1) * Math.cos(radlat2) * Math.cos(radtheta);
-    dist = Math.acos(dist)
-    dist = dist * 180 / Math.PI
-    dist = dist * 60 * 1.1515
+    dist = Math.acos(dist);
+    dist = dist * 180 / Math.PI;
+    dist = dist * 60 * 1.1515;
     if (unit == "K") {
-        dist = dist * 1.609344
+        dist = dist * 1.609344;
     }
     if (unit == "N") {
-        dist = dist * 0.8684
+        dist = dist * 0.8684;
     }
     return dist;
 }
@@ -392,14 +232,40 @@ function repaintMarkers() {
 }
 
 function displayPathControl(pathData,color) {
-    all_route_layers.forEach(function (lay) {
-        if (pathData.indexOf(lay.feature.properties.sToponym) !== -1
-            && pathData.indexOf(lay.feature.properties.eToponym) !== -1) {
-            customLineStyle(lay, color, 3, 1);
+    console.log("pathdata: "+JSON.stringify(pathData))
+    var  path_distances= 0;
+    for(var i = 0;i < pathData.length-1;i++) {
+        var lay = index_routes_layers[pathData[i]+","+pathData[i+1]];
+        if(lay == undefined) {
+            lay = index_routes_layers[pathData[i + 1] + "," + pathData[i]];
         }
-    });
+        if(lay !=undefined) {
+            customLineStyle(lay, color, 3, 1);
+            path_distances += lay.feature.properties.Meter;
+        }
+    }
+    //all_route_layers.forEach(function (lay) {
+    //    if (pathData.indexOf(lay.feature.properties.sToponym) !== -1
+    //        && pathData.indexOf(lay.feature.properties.eToponym) !== -1) {
+    //        console.log("test " + JSON.stringify(lay.feature.properties.Meter));
+    //
+    //    }
+    //});
     Object.keys(markers).forEach(function (keys) {
         if (pathData.indexOf(marker_properties[keys].cornu_URI) !== -1)
             customMarkerStyle(markers[keys], color, 0.8);
     });
+
+    return path_distances;
+}
+//Calculate the direct distance from start to end
+function calcDirectDistance (start, end) {
+    var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
+    var endUri = end.substring(end.lastIndexOf(",") + 1).trim();
+    var direct_distance = distance(
+        markers[startUri]['_latlng']['lat'], markers[startUri]['_latlng']['lng'],
+        markers[endUri]['_latlng']['lat'],
+        markers[endUri]['_latlng']['lng'], 'K');
+    var int_direct_dist = parseInt(direct_distance * 1000, 10);
+    return int_direct_dist;
 }

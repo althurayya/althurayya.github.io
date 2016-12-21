@@ -47,6 +47,9 @@ function handle_routes(feature,layer) {
     }
 
     all_route_layers.push(layer);
+    index_routes_layers
+        [layer.feature.properties.sToponym+","+layer.feature.properties.eToponym]
+            = layer;
     route_features.push(feature);
 
     map_region_to_code[marker_properties[keys[i]].region_spelled]
@@ -121,3 +124,7 @@ function customLineStyle(layer, color, width, opacity) {
 function getRouteStyle (layer) {
     return layer.options;
 }
+
+
+
+

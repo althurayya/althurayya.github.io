@@ -45,6 +45,7 @@ var markers = {};
 // dictionary of routes belonging to region ("region": [routes list])
 var route_layers = {};
 var all_route_layers = [];
+var index_routes_layers = {};
 var map_region_to_code = {};
 var markerLabels = {};
 var route_points = {};
@@ -279,49 +280,120 @@ function click_on_list(id) {
 }
 function findPathConsideringIntermediates() {
     var sizeOfInputs = numStops;//d3.select("#pathInputs").selectAll("input").size();
-    var src = document.getElementById('stopInput0').value;
-    var tgt = document.getElementById('stopInputDestination').value;
+    var src = $('#stopInput0').val();
+    var tgt = $('#stopInputDestination').val();
+    var selections = selectedTypes('itinerary-options');
     var stops = [];
+    var s, t;
+    var shortestPaths = [];
+    var dayPaths = [];
+    var short_distance = 0;
+    var day_distance = 0;
+    //Clear the previous distance information to be ready for the new path
+    $("#dist_div").html("");
+    // Repaint markers and paths to be ready for the new query
+    repaintMarkers();
+    repaintPaths();
+
+
     stops.push(src);
     $('Input[id^="stopInput"]').each(function() {
         var stopInputValue = $(this).val();
         if (stopInputValue.indexOf(",") != -1) {
             stops.push(stopInputValue);
-
         }
     });
     stops.push(tgt);
 
-    var s, t;
-    repaintMarkers();
-    repaintPaths();
+// Find shortest and within a day paths from source to destination, including stops in between
     for (var i = 0; i < stops.length - 1; i++) {
         s = stops[i];
         t = stops[i + 1];
-        findPath(s, t)
+        if (selections.indexOf("Shortest") != -1) {
+            var short_path = findPath(s, t, "Shortest");
+            short_distance += displayPathControl(short_path, "red");
+        }
+            //shortestPaths.push(findPath(s, t, "Shortest"));
+        if (selections.indexOf("Within A Day") != -1){
+            var day_path = findPath(s, t, "Within A Day");
+            day_distance += displayPathControl(day_path, "green");
+        }
     }
+    
+    // Calculate direct distance from source to destination
+    var int_direct_dist = calcDirectDistance(stops[0], stops[stops.length -1]);
+    // Add direct dictance information to the page
+    var direct_elem = "<p id=" +"'direct_dist'"+">Direct distance: " + int_direct_dist + " m</p>";
+    $("#dist_div").append(direct_elem);
+
+    // Add shortest distance information to th page
+    if (selections.indexOf("Shortest") != -1) {
+        var avgShort_dist = (short_distance + int_direct_dist)/2;
+        var short_elem = "<p id=" +"'short_dist'"+">Shortest distance: " + short_distance + " m</p>";
+        var avgShort_elem = "<p id=" +"'avgShort_dist'"+">Average shortest distance: "
+            + avgShort_dist + " m</p>";
+        $("#dist_div").append(short_elem) ;
+        $("#dist_div").append(avgShort_elem);
+    }
+    // Add within a day distance information to th page
+    if (selections.indexOf("Within A Day") != -1) {
+        var avgDay_dist = (day_distance + int_direct_dist) / 2;
+        var day_elem = "<p id=" + "'day_dist'" + ">Within a day distance: " + day_distance + " m</p>";
+        var avgDay_elem = "<p id=" + "'avgDay_dist'" + ">Average within a day distance: "
+            + avgDay_dist + " m</p>";
+        $("#dist_div").append(day_elem);
+        $("#dist_div").append(avgDay_elem);
+    }
+    //displayDistances();
 }
-function findPath (start, end){
+function findPath (start, end, pathType) {
     var shortPath, dayPath;
     if (start == null || end == null) return;
     // Extract the cornu_URI from the search inputs for both source and destination
+    //TODO: should be changed regarding the future changes in data
     var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
-    var endUri = end.substring(end.lastIndexOf(",") +1).trim();
-    //console.log("test " + startUri + " " + endUri );
-    var selections = selectedTypes('itinerary-options');
-    if(selections.indexOf("Shortest")!=-1) {
+    var endUri = end.substring(end.lastIndexOf(",") + 1).trim();
+    //var selections = selectedTypes('itinerary-options');
+    //var direct_distance = distance(
+    //    markers[startUri]['_latlng']['lat'], markers[startUri]['_latlng']['lng'],
+    //    markers[endUri]['_latlng']['lat'],
+    //    markers[endUri]['_latlng']['lng'], 'K');
+    //var int_direct_dist = parseInt(direct_distance * 1000, 10);
+    //console.log("dir: "+ int_direct_dist);
+    //var direct_elem = "<p id=" +"'direct_dist'"+">Direct distance: " + int_direct_dist + " m</p>";
+    //$("#dist_div").append(direct_elem) ;
+    //if (selections.indexOf("Shortest") != -1) {
+    if (pathType == "Shortest") {
         shortPath = graph_dijks.findShortestPath(startUri, endUri);
         if (shortPath != null) {
-            displayPathControl(shortPath, "red");
+            return shortPath;
+            //var short_dist = displayPathControl(shortPath, "red");
+            //if(short_dist!=0) {
+                var short_elem = "<p id=" +"'short_dist'"+">Shortest distance: " + short_dist + " m</p>";
+                //var avgShort_dist = (short_dist + int_direct_dist)/2;
+                var avgShort_elem = "<p id=" +"'avgShort_dist'"+">Average shortest distance: "
+                    + avgShort_dist + " m</p>";
+                $("#dist_div").append(short_elem) ;
+                $("#dist_div").append(avgShort_elem);
+
+            //}
         }
     }
-    if(selections.indexOf("Within A Day")!=-1) {
-        dayPath = shortestPath(graph.getNode(startUri), graph.getNode(endUri),'d');
-        if (dayPath != null)
-            displayPathControl(dayPath,"green");
+    //if (selections.indexOf("Within A Day") != -1) {
+    if (pathType == "Within A Day") {
+        dayPath = shortestPath(graph.getNode(startUri), graph.getNode(endUri), 'd');
+        if (dayPath != null) {
+            return dayPath;
+            //var inaDay_dist = displayPathControl(dayPath, "green");
+            //if(inaDay_dist!=0) {
+                var day_elem = "<p id=" +"'day_dist'"+">Within a day distance: " + inaDay_dist + " m</p>";
+                //var avgDay_dist = (inaDay_dist + int_direct_dist)/2;
+                var avgDay_elem = "<p id=" +"'avgDay_dist'"+">Average within a day distance: "
+                    + avgDay_dist + " m</p>";
+                $("#dist_div").append(day_elem) ;
+                $("#dist_div").append(avgDay_elem);
+            //}
+        }
     }
 }
-//function addPathInput(){
-//    $("<>Hello world!</>").insertAfter("#startInput");
-//    $("#startInput")
-//}
+
