@@ -232,7 +232,6 @@ function repaintMarkers() {
 }
 
 function displayPathControl(pathData,color) {
-    console.log("pathdata: "+JSON.stringify(pathData))
     var  path_distances= 0;
     for(var i = 0;i < pathData.length-1;i++) {
         var lay = index_routes_layers[pathData[i]+","+pathData[i+1]];
@@ -258,6 +257,7 @@ function displayPathControl(pathData,color) {
 
     return path_distances;
 }
+
 //Calculate the direct distance from start to end
 function calcDirectDistance (start, end) {
     var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
