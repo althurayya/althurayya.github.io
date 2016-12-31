@@ -47,7 +47,6 @@ var route_layers = {};
 var all_route_layers = [];
 var index_routes_layers = {};
 var map_region_to_code = {};
-var markerLabels = {};
 var route_points = {};
 var route_features = [];
 var geojson;
@@ -55,9 +54,9 @@ var auto_list = [];
 var latlngs = [];
 var graph_dijks;
 var prevPath = [];
+var init_lat = 30, init_lon = 40
 
-
-var map = L.map('map',{maxZoom:max_zoom}).setView([30,42], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
+var map = L.map('map',{maxZoom:max_zoom}).setView([init_lat,init_lon], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
 prevTile.addTo(map);
 $(function() {
@@ -128,7 +127,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
         markers[key].addTo(cities);
         // metropoles has the label on load and brought to front
         if(marker_properties[key].type == "metropoles") {
-            markerLabels[key].setLabelNoHide(true);
+            markers[key].setLabelNoHide(true);
             markers[key].bringToFront();
         }
     });

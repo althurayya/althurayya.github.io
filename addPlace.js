@@ -46,7 +46,6 @@ function addStop(btnId) {
     else {
         $("#destination").before('<label id="limitLabel" style="display: block;">Reached the limit</label>');
         $("input[id^='addStop']").attr('disabled', true);
-        //document.getElementById("addStop").disabled = true
     }
 };
 
@@ -121,9 +120,7 @@ function keepLastStops(){
             // The last part of the selected text should be URI in data //TODO
             var key = (sel_splitted[sel_splitted.length-1]).trim();
             customMarkerStyle(markers[key], "red", 0.8);
-            markers[key].setLabelNoHide(true);
-            markers[key].label._container.style.color = "red";
-            markers[key].label._container.style.fontSize = "24px";
+            customLabelStyle(markers[key], "red", "24px", true);
         }
     });
 }

@@ -34,7 +34,7 @@ function create_marker(feature,latlng) {
     tmp.options.opacity = 0.0;
     tmp.options.direction = "auto";
     tmp.top_type = feature.properties.cornuData.top_type_hom;
-    markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
+    //markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
     markers[feature.properties.cornuData.cornu_URI] = marker;
     return marker;
 }
@@ -74,16 +74,13 @@ function OnMarkerClick(feature) {
         //$("#txtLink > a").attr("href",feature.properties.SOURCE);
         //$("#txtLink > a").attr("target","_blank");
         if(prevClickedMarker !== undefined) {
-          prevClickedMarker.label._container.style.color = "black";
-          prevClickedMarker.label._container.style.fontSize = "20px";
-            // for metropoles, always keep the label!
-          if (prevClickedMarker.top_type !== "metropoles")
-            prevClickedMarker.setLabelNoHide(false);
+            if (prevClickedMarker.top_type !== "metropoles")
+                customLabelStyle(prevClickedMarker, "black", "20px", false);
+            else
+                customLabelStyle(prevClickedMarker, "black", "20px", true);
         }
-        markerLabels[feature.properties.cornuData.cornu_URI].setLabelNoHide(true);
-        markerLabels[feature.properties.cornuData.cornu_URI].label._container.style.color = "red";
-        markerLabels[feature.properties.cornuData.cornu_URI].label._container.style.fontSize = "24px";
-        prevClickedMarker = markerLabels[feature.properties.cornuData.cornu_URI];
+        customLabelStyle(markers[feature.properties.cornuData.cornu_URI], "red", "24px", true)
+        prevClickedMarker = markers[feature.properties.cornuData.cornu_URI];
 
         // Create html content of external sources (in location tab) for a location clicked
         Object.keys(feature.properties.sources_english).forEach(function(engSourceUri) {
@@ -146,3 +143,9 @@ function customMarkerStyle(marker, color, opacity) {
         fillOpacity: opacity
     })
 };
+
+function customLabelStyle (marker, color, font, status) {
+    marker.label._container.style.color = color;
+    marker.label._container.style.fontSize = font;
+    marker.setLabelNoHide(status)
+}

@@ -17,9 +17,10 @@ function active_search(input) {
                 if (markerSearchTitle.join('').indexOf(searchTerm) != -1) {
                     customMarkerStyle(markers[key], "red", 0.8);
                     if(prevSearchLabel != undefined) {
-                        prevSearchLabel.label._container.style.color = "black";
-                        prevSearchLabel.label._container.style.fontSize = "20px";
-                        prevSearchLabel.setLabelNoHide(false);
+                        customLabelStyle(prevSearchLabel, "black", "20px", false)
+                        //prevSearchLabel.label._container.style.color = "black";
+                        //prevSearchLabel.label._container.style.fontSize = "20px";
+                        //prevSearchLabel.setLabelNoHide(false);
                     }
                     markers[key].setLabelNoHide(true);
                     //markers[key].label._container.style.color = "red";
@@ -56,13 +57,16 @@ function active_autocomp(input, auto_list, which_input, postprocess) {
             //Highlight the selected item by red color
             customMarkerStyle(markers[key], "red", 0.8);
             if (prevSearchLabel != undefined) {
-                prevSearchLabel.label._container.style.color = "black";
-                prevSearchLabel.label._container.style.fontSize = "20px";
-                prevSearchLabel.setLabelNoHide(false);
+                customLabelStyle(prevSearchLabel, "black", "20px", false);
+                //prevSearchLabel.label._container.style.color = "black";
+                //prevSearchLabel.label._container.style.fontSize = "20px";
+                //prevSearchLabel.setLabelNoHide(false);
             }
-            markers[key].setLabelNoHide(true);
-            markers[key].label._container.style.color = "red";
-            markers[key].label._container.style.fontSize = "24px";
+            customLabelStyle(markers[key], "red", "24px", true);
+            //
+            //markers[key].setLabelNoHide(true);
+            //markers[key].label._container.style.color = "red";
+            //markers[key].label._container.style.fontSize = "24px";
             prevSearchLabel = markers[key];
             // re-center the map if the selected item exists!
             map.panTo(markers[key].getLatLng());

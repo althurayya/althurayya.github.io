@@ -24,14 +24,14 @@ function myzoom() {
         comp_size -= 1;
         if(indZoom[comp_size]!=undefined) {
             indZoom[comp_size].forEach(function (iz) {
-                markerLabels[iz].setLabelNoHide(false);
+                markers[iz].setLabelNoHide(false);
             });
         }
     } else {
         var comp_size = Math.floor((max_zoom - currentZoom) / 2) + 1;
         if(indZoom[comp_size]!=undefined) {
             indZoom[comp_size].forEach(function (iz) {
-                markerLabels[iz].setLabelNoHide(true);
+                markers[iz].setLabelNoHide(true);
             });
         }
     }

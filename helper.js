@@ -160,14 +160,21 @@ function repaintMarkers() {
 
 function resetPaths() {
     all_route_layers.forEach(function(lay) {
-        customLineStyle(lay, lay.options.default_color, 3, 1);
+        customLineStyle(lay, lay.options.default_color, 2, 1);
     });
 }
 
 function resetMarkers() {
     Object.keys(markers).forEach(function(keys) {
         customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 1);
-    });
+        marker = markers[keys];
+        if(marker.label._container != undefined)
+            if(marker_properties[keys].type == "metropoles")
+               customLabelStyle(markers[keys], "black", "20px", true);
+            else
+                customLabelStyle(markers[keys], "black", "20px", false);
+        markers[keys].bringToFront();
+    })
 }
 
 function displayPathControl(pathData,color) {
@@ -212,10 +219,11 @@ function calcDirectDistance (start, end) {
 }
 //TODO: zoom and labels should be reset as well
 function resetMap(){
+    map.setView([init_lat, init_lon], min_zoom);
     resetMarkers();
     resetPaths();
 }
-//TODO: zoom and labels should be reset as well???
+//TODO: zoom and labels should be repainted as well???
 function repaintMap(){
     repaintMarkers();
     repaintPaths();
