@@ -68,6 +68,7 @@
         <li id="search"><a href="#searchPane" role="tab" title="Search"><i class="fa fa-search"></i></a></li>
         <li id="routeSection"><a href="#routeSectionPane" role="tab" title="Routes"><i class="fa fa-object-ungroup"></i></a></li>
         <li id="pathFinding"><a href="#pathFindingPane" role="tab" title="Path Finding"><i class="fa fa-arrow-right"></i></a></li>
+        <li id="network"><a href="#networkPane" role="tab" title="Network"><i class="fa fa-bullseye "></i></a></li>
 
     </ul>
     <div class="sidebar-content">
@@ -158,15 +159,15 @@
                         title="Add intermediate stop "
                         onclick="addStop(this.id)" value="+" />
                 </div>
-            <br>
-            <div style="display: block;">
-                <label id="destination">
-                    Destination:
-                </label>
-                <input id="stopInputDestination" type="text" placeholder="Destination..."
-                       style="z-index: 99;display: block;" autocomplete="on"/>
-                    <br>
-            </div>
+                <br>
+                <div style="display: block;">
+                    <label id="destination">
+                        Destination:
+                    </label>
+                    <input id="stopInputDestination" type="text" placeholder="Destination..."
+                           style="z-index: 99;display: block;" autocomplete="on"/>
+                        <br>
+                </div>
 
             </div>
             <div class="selections">
@@ -176,13 +177,11 @@
             <div style="bottom: 10px">
                 <input type="button" style="top: 3px;"
                        onclick="findPathConsideringIntermediates()"
-                       value="Find Path!">
-                </input>
+                       value="Find Path!"/>
             </div>
             <!--< style="margin: 5px">-->
             <h2 id="path_dist_header" style="display: none;">Path distances:</h2>
-            <div id="dist_div">
-            </div>
+            <div id="dist_div"></div>
                 <!--<table id="dist_table" style="display: none;">-->
                     <!--<tr style="display: none;"><td>Direct distance: </td>-->
                         <!--<td id="direct_dist"></td></tr>-->
@@ -195,7 +194,35 @@
                     <!--<tr style="display: none;"><td>Average within a day distance: </td>-->
                         <!--<td id="avgInaDay_dist"></td></tr>-->
                 <!--</table>-->
-            </div>
+        </div>
+        <div class="sidebar-pane" id="networkPane">
+            <h1>Network</h1>
+            <label>Start From:</label>
+            <input id="startFrom" type="text" placeholder="Source..."
+                       style="z-index: 99; " autocomplete="on"/>
+            <label style="display: block;padding-left: 70px">
+                <input type="checkbox" id="unreachable_checkbox" value="unreachable">
+                Show Unreachable Sites:
+            </label>
+            <br>
+            <label>Multiplier:</label>
+            <select id="multiSelect" style="margin: 5px">
+                <option value="1">1</option><option value="2">2</option>
+                <option value="3">3</option><option value="4">4</option>
+                <option value="5">5</option><option value="6">6</option>
+                <option value="7">7</option><option value="8">8</option>
+                <option value="9">9</option><option value="10">10</option>
+
+            </select>
+            <br><br>
+            <input type="button" style="top: 3px;"
+                   onclick="findNetwork()"
+                   value="Find Network!"/>
+            <br>
+            <input type="button" style="top: 3px;"
+                   onclick="resetMap()"
+                   value="Reset Map!"/>
+        </div>
         </div>
     </div>
 </div>

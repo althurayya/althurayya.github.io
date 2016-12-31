@@ -203,9 +203,11 @@ map.on('zoomend', myzoom);
 active_search('#searchInput');
 active_search("stopInput0");
 active_search("stopInputDestination");
+active_search("#startFrom");
 active_autocomp('#searchInput',auto_list,"#searchPane",function(){});
 active_autocomp('#stopInput0',auto_list,"#pathFindingPane",keepLastStops);
 active_autocomp('#stopInputDestination',auto_list,"#pathFindingPane",keepLastStops);
+active_autocomp('#startFrom',auto_list,"#networkPane",function(){});
 
 /*
  * Add the rotes to the map
@@ -366,4 +368,32 @@ function displayDistance (container, dist, direct_dist, textValue) {
             + " distance: " + avg_dist + " m</p>";
         container.append(avg_elem);
     }
+}
+
+function findNetwork() {
+    //resetMap()
+    repaintMap();
+    var start = document.getElementById("startFrom").value.split(',');
+    var sourceID = start[start.length-1].trim();
+    var s = graph.getNode(sourceID);
+    var distances = shortestPath(s, s, 'n');
+    var multiplier = $("#multiSelect").val();
+    var network = getNetwork(distances, multiplier);
+    var color = d3.scale.linear()
+        .domain([ 1, 5, 10])
+        .range(["#E7B11D", "orange", "red"]);
+    //networkToFlood = network;
+    //flood(network, sourceID);
+    //TODO: not all the markers need to be colored
+    if ($('#unreachable_checkbox').is(':checked')) {
+        Object.keys(markers).forEach(function (key) {
+            customMarkerStyle(markers[key], "black", 1)
+        });
+    }
+    Object.keys(network).forEach(function (key) {
+        network[key].forEach(function(val){
+            key = key.replace(/\D/g,'').trim();
+            customMarkerStyle(markers[val], color(key), 1)
+        });
+    });
 }

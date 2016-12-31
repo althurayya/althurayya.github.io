@@ -113,79 +113,6 @@ function updateRoutes(id) {
     }
 }
 
-function findCountries(csv, data, routeData) {
-    var arr = [];
-    var cityNames = [];
-
-
-    var g = new Graph_msp();
-
-    data.forEach(function (d) {
-        csv.forEach(function (c) {
-            if (c.topURI == d.city) {
-                if (cityNames.indexOf(d.city) == -1) {
-                    cityNames.push(d.city);
-                    arr.push({"lat": c.lat, "lon": c.lon, "city": d.city});
-                    g.addNode(d.city);
-                }
-            }
-        });
-    });
-    var geoJson = {
-        "features": [],
-        "type": "FeatureCollection"
-    };
-
-    for (i = 0; i < arr.length; i++) {
-        for (j = i; j < arr.length; j++) {
-            if (i != j) {
-                g.addEdge(arr[i].city, arr[j].city, distance(arr[i].lat, arr[i].lon
-                    , arr[j].lat, arr[j].lon, "K"));
-            }
-        }
-    }
-
-    var result = Prim(g);
-    var i,j;
-    for (i = 0; i < arr.length; i++) {
-        for (j = i; j < arr.length; j++) {
-            if (i != j) {
-                var arcs =
-                {
-                    "type": "Feature",
-                    "geometry": {
-                        type: "LineString",
-                        coordinates: [
-                            [parseFloat(arr[i].lon), parseFloat(arr[i].lat)],
-                            [parseFloat(arr[j].lon), parseFloat(arr[j].lat)]
-                        ]
-                    },
-                    "properties": {
-                        "sToponym": arr[i].city,
-                        "eToponym": arr[j].city,
-                        "Meter": distance(arr[i].lat, arr[i].lon
-                            , arr[j].lat, arr[j].lon, "K")
-                    }
-                };
-                var isInTree = false;
-                result.forEach(function(r) {
-                   if(r.src==arr[i].city && r.dst == arr[j].city) {
-                       isInTree=true;
-                   }
-                });
-                //if(Math.abs(result.indexOf(arr[i].city) -
-                //            result.indexOf(arr[j].city)) < 2)
-                if(isInTree)
-                    geoJson.features.push(arcs);
-            }
-        }
-    }
-
-    var blob = new Blob([JSON.stringify(geoJson)], {type: "text/plain;charset=utf-8"});
-    saveAs(blob, "arcs.json");
-
-    return geoJson;
-}
 // Claculate distance. For results in meter, 'K' hsould be choosen as the unit
 function distance(lat1, lon1, lat2, lon2, unit) {
     var radlat1 = Math.PI * lat1 / 180;
@@ -231,31 +158,45 @@ function repaintMarkers() {
     });
 }
 
+function resetPaths() {
+    all_route_layers.forEach(function(lay) {
+        customLineStyle(lay, lay.options.default_color, 3, 1);
+    });
+}
+
+function resetMarkers() {
+    Object.keys(markers).forEach(function(keys) {
+        customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 1);
+    });
+}
+
 function displayPathControl(pathData,color) {
     var  path_distances= 0;
-    for(var i = 0;i < pathData.length-1;i++) {
-        var lay = index_routes_layers[pathData[i]+","+pathData[i+1]];
-        if(lay == undefined) {
-            lay = index_routes_layers[pathData[i + 1] + "," + pathData[i]];
+    //if (pathData != undefined) { //TODO:
+        for (var i = 0; i < pathData.length - 1; i++) {
+            var lay = index_routes_layers[pathData[i] + "," + pathData[i + 1]];
+            if (lay == undefined) {
+                lay = index_routes_layers[pathData[i + 1] + "," + pathData[i]];
+            }
+            if (lay != undefined) {
+                customLineStyle(lay, color, 3, 1);
+                path_distances += lay.feature.properties.Meter;
+            }
         }
-        if(lay !=undefined) {
-            customLineStyle(lay, color, 3, 1);
-            path_distances += lay.feature.properties.Meter;
-        }
-    }
-    //all_route_layers.forEach(function (lay) {
-    //    if (pathData.indexOf(lay.feature.properties.sToponym) !== -1
-    //        && pathData.indexOf(lay.feature.properties.eToponym) !== -1) {
-    //        console.log("test " + JSON.stringify(lay.feature.properties.Meter));
-    //
-    //    }
-    //});
-    Object.keys(markers).forEach(function (keys) {
-        if (pathData.indexOf(marker_properties[keys].cornu_URI) !== -1)
-            customMarkerStyle(markers[keys], color, 0.8);
-    });
-
+        //all_route_layers.forEach(function (lay) {
+        //    if (pathData.indexOf(lay.feature.properties.sToponym) !== -1
+        //        && pathData.indexOf(lay.feature.properties.eToponym) !== -1) {
+        //        console.log("test " + JSON.stringify(lay.feature.properties.Meter));
+        //
+        //    }
+        //});
+        Object.keys(markers).forEach(function (keys) {
+            if (pathData.indexOf(marker_properties[keys].cornu_URI) !== -1)
+                customMarkerStyle(markers[keys], color, 0.8);
+        });
+    //}
     return path_distances;
+
 }
 
 //Calculate the direct distance from start to end
@@ -268,4 +209,14 @@ function calcDirectDistance (start, end) {
         markers[endUri]['_latlng']['lng'], 'K');
     var int_direct_dist = parseInt(direct_distance * 1000, 10);
     return int_direct_dist;
+}
+//TODO: zoom and labels should be reset as well
+function resetMap(){
+    resetMarkers();
+    resetPaths();
+}
+//TODO: zoom and labels should be reset as well???
+function repaintMap(){
+    repaintMarkers();
+    repaintPaths();
 }
