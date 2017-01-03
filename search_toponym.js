@@ -53,7 +53,6 @@ function active_autocomp(input, auto_list, which_input, postprocess) {
             // the last part of the selected text should be URI in data structure //TODO
             var sel_splitted = selected.split(",");
             var key = (sel_splitted[sel_splitted.length-1]).trim();
-
             //Highlight the selected item by red color
             customMarkerStyle(markers[key], "red", 0.8);
             if (prevSearchLabel != undefined) {

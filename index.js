@@ -101,8 +101,9 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                     marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
                 }
 
-                if (marker != null)
+                if (marker != null) {
                     return marker;
+                }
         }
     });
 
@@ -199,14 +200,14 @@ map.on('click', OnMapClick);
 map.on('zoomend', myzoom);
 
 //
-active_search('#searchInput');
-active_search("stopInput0");
-active_search("stopInputDestination");
 active_search("#startFrom");
+active_search('#searchInput');
+active_search("#stopInput0");
+active_search("#stopInputDestination");
+active_autocomp('#startFrom',auto_list,"#networkPane",function(){});
 active_autocomp('#searchInput',auto_list,"#searchPane",function(){});
 active_autocomp('#stopInput0',auto_list,"#pathFindingPane",keepLastStops);
 active_autocomp('#stopInputDestination',auto_list,"#pathFindingPane",keepLastStops);
-active_autocomp('#startFrom',auto_list,"#networkPane",function(){});
 
 /*
  * Add the rotes to the map

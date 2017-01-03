@@ -28,14 +28,17 @@ function create_marker(feature,latlng) {
         marker.setRadius(rad);
     }
     else marker.setRadius(0);
-    var tmp = marker.bindLabel(feature.properties.cornuData.toponym_translit);
-    tmp.options.className = "leaflet-label";
-    tmp.options.zoomAnimation = true;
-    tmp.options.opacity = 0.0;
-    tmp.options.direction = "auto";
-    tmp.top_type = feature.properties.cornuData.top_type_hom;
+    var marker = marker.bindLabel(feature.properties.cornuData.toponym_translit);
+    marker.options.className = "leaflet-label";
+    marker.options.zoomAnimation = true;
+    marker.options.opacity = 0.0;
+    marker.options.direction = "auto";
+    marker.top_type = feature.properties.cornuData.top_type_hom;
     //markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
     markers[feature.properties.cornuData.cornu_URI] = marker;
+
+    //marker.setLabelNoHide(true);
+    //marker.setLabelNoHide(false);
     return marker;
 }
 // Variable holding the previous clicked marker

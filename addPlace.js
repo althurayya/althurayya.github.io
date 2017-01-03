@@ -119,8 +119,8 @@ function keepLastStops(){
             var sel_splitted = stopInputValue.split(",");
             // The last part of the selected text should be URI in data //TODO
             var key = (sel_splitted[sel_splitted.length-1]).trim();
-            customMarkerStyle(markers[key], "red", 0.8);
-            customLabelStyle(markers[key], "red", "24px", true);
+                customMarkerStyle(markers[key], "red", 0.8);
+                customLabelStyle(markers[key], "red", "24px", true);
         }
     });
 }
