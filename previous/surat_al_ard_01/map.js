@@ -429,7 +429,7 @@ function makeNetwork() {
 
 function flood(network, source) {
  // make default unreachable
-	var sitesByZone = network.values(); 
+	var sitesByZone = network.values();
 	var siteClass, pathClass, zone; 
 	//TODO: make this faster by doing a map over all circle.node just once. 
 	for(var i = 0; i < sitesByZone.length; i++) { // don't need last zone, default unreachable

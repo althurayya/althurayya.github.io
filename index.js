@@ -203,7 +203,9 @@ map.on('zoomend', myzoom);
 active_search("#startFrom");
 active_search('#searchInput');
 active_search("#stopInput0");
+active_search("#stopInput1");
 active_search("#stopInputDestination");
+
 active_autocomp('#startFrom',auto_list,"#networkPane",function(){});
 active_autocomp('#searchInput',auto_list,"#searchPane",function(){});
 active_autocomp('#stopInput0',auto_list,"#pathFindingPane",keepLastStops);
@@ -380,20 +382,35 @@ function findNetwork() {
     var multiplier = $("#multiSelect").val();
     var network = getNetwork(distances, multiplier);
     var color = d3.scale.linear()
-        .domain([ 1, 5, 10])
-        .range(["#E7B11D", "orange", "red"]);
+        .domain([ 1, 2, 3, 4, 5])
+        .range(["#E84946", "#FF9500", "#FFD62E","#6CA376" ]);
     //networkToFlood = network;
     //flood(network, sourceID);
     //TODO: not all the markers need to be colored
     if ($('#unreachable_checkbox').is(':checked')) {
         Object.keys(markers).forEach(function (key) {
-            customMarkerStyle(markers[key], "black", 1)
+            customMarkerStyle(markers[key], "black", 1);
+            //markers[key].setRadius(1);
         });
     }
+    //cons.ole.log(index_routes_layers)
     Object.keys(network).forEach(function (key) {
+        key_trim = key.replace(/\D/g,'').trim();
         network[key].forEach(function(val){
-            key = key.replace(/\D/g,'').trim();
-            customMarkerStyle(markers[val], color(key), 1)
-        });
+            // get only the digit of zone value
+            //key_ = key.replace(/\D/g,'').trim();
+            customMarkerStyle(markers[val], color(key_trim), 1);
+        })
+        if (key_trim == 1) {
+            Object.keys(index_routes_layers).forEach(function (r) {
+                var s = r.split(",")[0];
+                var e = r.split(",")[1];
+                if (network[key].indexOf(s) !== -1 && network[key].indexOf(e) !== -1) {
+                    customLineStyle(index_routes_layers[r], "red", 3, 1)
+                }
+            })
+        };
+
     });
+
 }

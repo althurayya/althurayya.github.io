@@ -144,6 +144,7 @@ function customMarkerStyle(marker, color, opacity) {
         fillColor: color,
         color: color,
         fillOpacity: opacity
+
     })
 };
 

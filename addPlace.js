@@ -35,9 +35,10 @@ function addStop(btnId) {
             ' title="Remove this stop" value= "-"' +
             'style="margin-left:15px;padding:5px;"/>');
 
-        $("#" + btnId).parent('div').after(newDiv);active_search("stopInputDestination");
-        active_autocomp('#' + 'stopInput' + idCounter, auto_list,"#pathFindingPane",
-            keepLastStops);
+        $("#" + btnId).parent('div').after(newDiv);
+
+        //active_search("stopInputDestination");
+        active_search('#' + 'stopInput' + idCounter)
         active_autocomp('#' + 'stopInput' + idCounter, auto_list,"#pathFindingPane",
             keepLastStops);
     }

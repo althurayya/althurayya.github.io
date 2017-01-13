@@ -3,7 +3,7 @@ var graph;
 var DAY = 39702;
 var WITHIN_A_DAY = DAY * 3;
 //var MULTIPLIER = 3;
-var NUM_ZONES = 10;
+var NUM_ZONES = 5;
 
 function init_graph(routes) {
   var Graph = require('data-structures').Graph;

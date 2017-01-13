@@ -160,3 +160,19 @@ input[type="button"] {
     border-radius: 6px;
     margin: 0 5px;
 }
+
+.zone1-node {
+    fill: #31a354;
+}
+.zone2-node {
+    fill: #FFD62E;
+}
+.zone3-node {
+    fill: #FF9500;
+}
+.zone4-node {
+    fill: #E80909;
+}
+.zone5-node {
+    fill: #000;
+}

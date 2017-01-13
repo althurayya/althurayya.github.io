@@ -155,6 +155,7 @@ function repaintPaths() {
 function repaintMarkers() {
     Object.keys(markers).forEach(function(keys) {
             customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
+        markers[keys].bringToFront();
     });
 }
 
