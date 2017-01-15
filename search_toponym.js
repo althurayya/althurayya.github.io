@@ -14,11 +14,15 @@ function active_search(input) {
             var markerSearchTitle = [];
             markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
             var searchTerm = $(input).val().toUpperCase();
+            if(prevClickedMarker != undefined)
+                customMarkerStyle(prevClickedMarker, colorLookup[marker_properties[key].region], 1);
             if (searchTerm !== "" && searchTerm.length > 1) {
                 if (markerSearchTitle.join('').indexOf(searchTerm) != -1) {
                     customMarkerStyle(markers[key], "red", 0.8);
-                    if(prevSearchLabel != undefined)
-                        customLabelStyle(prevSearchLabel, "black", "20px", false)
+                    if(prevSearchLabel != undefined) {
+                        customLabelStyle(prevSearchLabel, "black", "20px", false);
+                        customMarkerStyle(prevSearchLabel, colorLookup[marker_properties[key].region], 1);
+                    }
                     markers[key].setLabelNoHide(true);
                     prevSearchLabel = markers[key];
                 }

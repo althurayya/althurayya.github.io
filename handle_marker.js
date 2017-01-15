@@ -77,12 +77,15 @@ function OnMarkerClick(feature) {
         //$("#txtLink > a").attr("href",feature.properties.SOURCE);
         //$("#txtLink > a").attr("target","_blank");
         if(prevClickedMarker !== undefined) {
+            customMarkerStyle(prevClickedMarker,
+                prevClickedMarker.defaultOptions.color, 1);
             if (prevClickedMarker.top_type !== "metropoles")
                 customLabelStyle(prevClickedMarker, "black", "20px", false);
             else
                 customLabelStyle(prevClickedMarker, "black", "20px", true);
         }
-        customLabelStyle(markers[feature.properties.cornuData.cornu_URI], "red", "24px", true)
+        customLabelStyle(markers[feature.properties.cornuData.cornu_URI], "red", "24px", true);
+        customMarkerStyle(markers[feature.properties.cornuData.cornu_URI], "red", 1);
         prevClickedMarker = markers[feature.properties.cornuData.cornu_URI];
 
         // Create html content of external sources (in location tab) for a location clicked
