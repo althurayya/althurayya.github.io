@@ -119,7 +119,6 @@
             <p id="initSourceDesc">Click on a map marker to get their descriptions from primary sources. Keep in mind that currently we are still working on aligning this data, and for this reason, many results that you see are “fuzzy” matches, that is they were suggested as possible matches using Levenshtein distance (implemented with Python’s `fuzzywuzzy` library). You will see the percentage of the match next to each entry, although 100% match does not always mean the true match, since there is a number of places with the same names.</p>
 
         </div>
-
         <div class="sidebar-pane" id="regionPane">
             <h1 id="regionList">Regions:</h1>
             <ul id="regionDiv">
@@ -196,9 +195,18 @@
         <div class="sidebar-pane" id="networkPane">
             <h1>Network</h1>
             <label>Start From:</label>
-            <input id="startFrom" type="text" placeholder="Source..."
+            <div id="netDiv0">
+                <input id="netInput0" type="text" placeholder="Start Network..."
                        style="z-index: 99; " autocomplete="on"/>
-            <label style="display: block;padding-left: 70px">
+
+                <input type="button" id="addNet0"
+                       style="top: 3px;margin-left: 15px;padding: 5px;"
+                       title="Add new site for network flood"
+                       onclick="addNet(this.id)" value="+" />
+            </div>
+            <br>
+
+            <label style="display: block;padding-left: 30px">
                 <input type="checkbox" id="unreachable_checkbox" value="unreachable">
                 Show Unreachable Sites:
             </label>
@@ -221,7 +229,6 @@
                    onclick="resetMap()"
                    value="Reset Map!"/>
         </div>
-        </div>
     </div>
 </div>
 <div id="map" class="sidebar-map"></div>
@@ -232,6 +239,8 @@
 <script src="handle_routes.js"></script>
 <script src="search_toponym.js"></script>
 <script src="addPlace.js"></script>
+<script src="addNetwork.js"></script>
+<script src="addInput.js"></script>
 <script src="index.js"></script>
 <script src="HelpersForSelectionsUI.js"></script>
 <script>

@@ -44,10 +44,14 @@ var regs = {};
 var markers = {};
 // dictionary of routes belonging to region ("region": [routes list])
 var route_layers = {};
+// Array of all route layers, having geometry from geoJSON data file in "feature" property
+// and some other options in "options" property (like color!)
 var all_route_layers = [];
+// Map {"startURI, endURI": route}
 var index_routes_layers = {};
 var map_region_to_code = {};
 var route_points = {};
+// Array of all individual routes as geoJson objects (lineString), as in data file. [{}, {}]
 var route_features = [];
 var geojson;
 var auto_list = [];
@@ -200,13 +204,13 @@ map.on('click', OnMapClick);
 map.on('zoomend', myzoom);
 
 //
-active_search("#startFrom");
+active_search("#netInput0");
 active_search('#searchInput');
 active_search("#stopInput0");
-active_search("#stopInput1");
+//active_search("#stopInput1");
 active_search("#stopInputDestination");
 
-active_autocomp('#startFrom',auto_list,"#networkPane",function(){});
+active_autocomp('#netInput0',auto_list,"#networkPane",function(){});
 active_autocomp('#searchInput',auto_list,"#searchPane",function(){});
 active_autocomp('#stopInput0',auto_list,"#pathFindingPane",keepLastStops);
 active_autocomp('#stopInputDestination',auto_list,"#pathFindingPane",keepLastStops);
@@ -328,7 +332,7 @@ function findPathConsideringIntermediates() {
     // Calculate direct distance from source to destination
     var int_direct_dist = calcDirectDistance(stops[0], stops[stops.length -1]);
 
-    // Add direct dictance information to the page
+    // Add direct distance information to the page
     $("#path_dist_header").css("display", "block");
     displayDistance ($("#dist_div"), int_direct_dist, int_direct_dist, "Direct");
 
@@ -375,15 +379,32 @@ function displayDistance (container, dist, direct_dist, textValue) {
 function findNetwork() {
     //resetMap()
     repaintMap();
-    var start = document.getElementById("startFrom").value.split(',');
-    var sourceID = start[start.length-1].trim();
-    var s = graph.getNode(sourceID);
-    var distances = shortestPath(s, s, 'n');
-    var multiplier = $("#multiSelect").val();
-    var network = getNetwork(distances, multiplier);
+    var map_zone_all_sites = {};
+    $('Input[id^="netInput"]').each(function() {
+        var start = $(this).val().split(',');
+        var sourceID = start[start.length - 1].trim();
+        var s = graph.getNode(sourceID);
+        var distances = shortestPath(s, s, 'n');
+        var multiplier = $("#multiSelect").val();
+        var network = getNetwork(distances, multiplier);
+        Object.keys(network).forEach(function(zone) {
+            // get only the digit of zone value
+            zone_trim = zone.replace(/\D/g, '').trim();
+            //zone_trim = function(zone){
+            //    return zone.replace(/\D/g, '').trim();
+            //}
+            network[zone].forEach(function(uri){
+                if (map_zone_all_sites[uri] == undefined)
+                    map_zone_all_sites[uri] = zone_trim;
+                else
+                map_zone_all_sites[uri] = Math.min(map_zone_all_sites[uri], zone_trim);
+            });
+        });
+    });
+
     var color = d3.scale.linear()
-        .domain([ 1, 2, 3, 4, 5])
-        .range(["#E84946", "#FF9500", "#FFD62E","#6CA376" ]);
+        .domain([1, 2, 3, 4, 5])
+        .range(["#E84946", "#FF9500", "#FFD62E", "#6CA376", "gray"]);
     //networkToFlood = network;
     //flood(network, sourceID);
     //TODO: not all the markers need to be colored
@@ -393,24 +414,14 @@ function findNetwork() {
             //markers[key].setRadius(1);
         });
     }
-    //cons.ole.log(index_routes_layers)
-    Object.keys(network).forEach(function (key) {
-        key_trim = key.replace(/\D/g,'').trim();
-        network[key].forEach(function(val){
-            // get only the digit of zone value
-            //key_ = key.replace(/\D/g,'').trim();
-            customMarkerStyle(markers[val], color(key_trim), 1);
-        })
-        if (key_trim == 1) {
-            Object.keys(index_routes_layers).forEach(function (r) {
-                var s = r.split(",")[0];
-                var e = r.split(",")[1];
-                if (network[key].indexOf(s) !== -1 && network[key].indexOf(e) !== -1) {
-                    customLineStyle(index_routes_layers[r], "red", 3, 1)
-                }
-            })
-        };
-
+    Object.keys(map_zone_all_sites).forEach(function (uri) {
+        customMarkerStyle(markers[uri], color(map_zone_all_sites[uri]), 1);
     });
-
+    Object.keys(index_routes_layers).forEach(function (r) {
+        var s = r.split(",")[0];
+        var e = r.split(",")[1];
+        if (map_zone_all_sites[s] == 1 &&
+            map_zone_all_sites[e] == 1)
+            customLineStyle(index_routes_layers[r], "red", 3, 1);
+    });
 }

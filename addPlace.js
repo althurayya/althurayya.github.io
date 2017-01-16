@@ -5,12 +5,11 @@ numStops = 0;
 maxStops = 10;
 idCounter = 0;
 function addStop(btnId) {
-    if (numStops <= maxStops) {
+    if (numStops < maxStops) {
         // Increment counter for number of stops
         numStops++;
         // increase the idCounter to prevent the duplicate input ids
         idCounter++;
-        console.log("id:" +idCounter)
         //var currentContainer = $("#" + btnId).parent('div');
         // Add new div for containing the new elements
         var newDiv = $(document.createElement('div'));
@@ -19,12 +18,11 @@ function addStop(btnId) {
         newDiv.append('<input type="text" id="stopInput' + idCounter +
             '" placeholder="Via..."' +
             ' autocomplete="on" style="margin-left:15px">');
-        // Append new add button
+        // Append new add button to new div
         newDiv.append('<input type="button" title="Add new stop after"' +
             ' id="addStop' + idCounter + '" onclick="addStop(this.id)" ' +
             'value="+" style="margin-left:15px;padding:5px;">');
 
-        // Add text input to new div
         //newDiv.append("<input id=''>");
             //.attr("type","text")
             //.attr("id",'stopInput' + numStops).attr("placeholder","Via...")
@@ -43,13 +41,13 @@ function addStop(btnId) {
             keepLastStops);
     }
     // After reaching the specified limit, disable the "Add Place!" button.
-    // (3 is the limit we have set)
+    // (10 is the limit we have set)
     else {
         $("#destination").before('<label id="limitLabel" style="display: block;">Reached the limit</label>');
         $("input[id^='addStop']").attr('disabled', true);
     }
 };
-
+//TODO: reset the style of the removed toponym
 // Remove one element per click.
 function removeStop(btnId) {
     $("#" + btnId).parent('div').remove();
@@ -112,7 +110,7 @@ function removeStop(btnId) {
 //    $(divValue).append('<p><b>Your selected values</b></p>' + values);
 //    $('body').append(divValue);
 //}
-
+//TODO: duplications with autocomplete function (the current input value get colored twice!)
 function keepLastStops(){
     $('Input[id^="stopInput"]').each(function() {
         var stopInputValue = $(this).val();
@@ -120,8 +118,10 @@ function keepLastStops(){
             var sel_splitted = stopInputValue.split(",");
             // The last part of the selected text should be URI in data //TODO
             var key = (sel_splitted[sel_splitted.length-1]).trim();
-                customMarkerStyle(markers[key], "red", 0.8);
-                customLabelStyle(markers[key], "red", "24px", true);
+            customMarkerStyle(markers[key], "red", 0.8);
+            customLabelStyle(markers[key], "red", "24px", true);
+            markers[key].bringToFront();
+
         }
     });
 }

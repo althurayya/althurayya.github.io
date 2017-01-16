@@ -14,25 +14,31 @@ function active_search(input) {
             var markerSearchTitle = [];
             markerSearchTitle.push(searchTitle, cornuURI, arabicTitle);
             var searchTerm = $(input).val().toUpperCase();
-            if(prevClickedMarker != undefined)
-                customMarkerStyle(prevClickedMarker, colorLookup[marker_properties[key].region], 1);
+            //if(prevClickedMarker != undefined)
+            //    customMarkerStyle(prevClickedMarker,
+            //        prevClickedMarker.defaultOptions.color, 1);
             if (searchTerm !== "" && searchTerm.length > 1) {
                 if (markerSearchTitle.join('').indexOf(searchTerm) != -1) {
                     customMarkerStyle(markers[key], "red", 0.8);
                     if(prevSearchLabel != undefined) {
                         customLabelStyle(prevSearchLabel, "black", "20px", false);
-                        customMarkerStyle(prevSearchLabel, colorLookup[marker_properties[key].region], 1);
+                        //customMarkerStyle(prevSearchLabel, colorLookup[marker_properties[key].region], 1);
+                        customMarkerStyle(prevSearchLabel, prevSearchLabel.defaultOptions.color, 1);
+
                     }
                     markers[key].setLabelNoHide(true);
                     prevSearchLabel = markers[key];
                 }
                 else {
-                    customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
+                    //customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 0.2)
+                    customMarkerStyle(markers[key], markers[key].defaultOptions.color, 0.2)
+
                 }
             }
             else if (searchTerm === "") {
                 myzoom();
-                customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 1)
+                //customMarkerStyle(markers[key], colorLookup[marker_properties[key].region], 1)
+                customMarkerStyle(markers[key], markers[key].defaultOptions.color, 1)
             }
         })
     });
