@@ -323,8 +323,8 @@ function findPathConsideringIntermediates() {
             short_distance += displayPathControl(short_path, "red");
         }
             //shortestPaths.push(findPath(s, t, "Shortest"));
-        if (selections.indexOf("Within A Day") != -1){
-            var day_path = findPath(s, t, "Within A Day");
+        if (selections.indexOf("Optimal") != -1){
+            var day_path = findPath(s, t, "Optimal");
             day_distance += displayPathControl(day_path, "green");
         }
     }
@@ -341,8 +341,8 @@ function findPathConsideringIntermediates() {
         displayDistance ($("#dist_div"), short_distance, int_direct_dist, "Shortest");
     }
     // Add within a day distance information to th page
-    if (selections.indexOf("Within A Day") != -1) {
-        displayDistance ($("#dist_div"), day_distance, int_direct_dist, "Within A Day");
+    if (selections.indexOf("Optimal") != -1) {
+        displayDistance ($("#dist_div"), day_distance, int_direct_dist, "Optimal");
     }
 }
 function findPath (start, end, pathType) {
@@ -357,7 +357,7 @@ function findPath (start, end, pathType) {
         if (shortPath != null)
             return shortPath;
     }
-    if (pathType == "Within A Day") {
+    if (pathType == "Optimal") {
         dayPath = shortestPath(graph.getNode(startUri), graph.getNode(endUri), 'd');
         if (dayPath != null)
             return dayPath;
