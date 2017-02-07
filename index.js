@@ -318,13 +318,13 @@ function findPathConsideringIntermediates() {
     for (var i = 0; i < stops.length - 1; i++) {
         s = stops[i];
         t = stops[i + 1];
-        if (selections.indexOf("Shortest") != -1) {
-            var short_path = findPath(s, t, "Shortest");
+        if (selections.indexOf(itin_opts[0]) != -1) {
+            var short_path = findPath(s, t, itin_opts[0]);
             short_distance += displayPathControl(short_path, "red");
         }
             //shortestPaths.push(findPath(s, t, "Shortest"));
-        if (selections.indexOf("Optimal") != -1){
-            var day_path = findPath(s, t, "Optimal");
+        if (selections.indexOf(itin_opts[1]) != -1){
+            var day_path = findPath(s, t, itin_opts[1]);
             day_distance += displayPathControl(day_path, "green");
         }
     }
@@ -337,12 +337,12 @@ function findPathConsideringIntermediates() {
     displayDistance ($("#dist_div"), int_direct_dist, int_direct_dist, "Direct");
 
     // Add shortest distance information to th page
-    if (selections.indexOf("Shortest") != -1) {
-        displayDistance ($("#dist_div"), short_distance, int_direct_dist, "Shortest");
+    if (selections.indexOf(itin_opts[0]) != -1) {
+        displayDistance ($("#dist_div"), short_distance, int_direct_dist, itin_opts[0]);
     }
     // Add within a day distance information to th page
-    if (selections.indexOf("Optimal") != -1) {
-        displayDistance ($("#dist_div"), day_distance, int_direct_dist, "Optimal");
+    if (selections.indexOf(itin_opts[1]) != -1) {
+        displayDistance ($("#dist_div"), day_distance, int_direct_dist, itin_opts[1]);
     }
 }
 function findPath (start, end, pathType) {
@@ -352,12 +352,12 @@ function findPath (start, end, pathType) {
     //TODO: should be changed regarding the future changes in data
     var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
     var endUri = end.substring(end.lastIndexOf(",") + 1).trim();
-    if (pathType == "Shortest") {
+    if (pathType == itin_opts[0]) {
         shortPath = graph_dijks.findShortestPath(startUri, endUri);
         if (shortPath != null)
             return shortPath;
     }
-    if (pathType == "Optimal") {
+    if (pathType == itin_opts[1]) {
         dayPath = shortestPath(graph.getNode(startUri), graph.getNode(endUri), 'd');
         if (dayPath != null)
             return dayPath;
