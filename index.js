@@ -315,12 +315,12 @@ function findPathConsideringIntermediates(start, end, stopInputsId) {
     displayDistance ($("#dist_div"), int_direct_dist, int_direct_dist, "Direct");
 
     // Add shortest distance information to th page
-    if (selections.indexOf("Shortest") != -1) {
-        displayDistance ($("#dist_div"), short_distance, int_direct_dist, "Shortest");
+    if (selections.indexOf(itin_opts[0]) != -1) {
+        displayDistance ($("#dist_div"), short_distance, int_direct_dist, itin_opts[0]);
     }
     // Add within a day distance information to th page
-    if (selections.indexOf("Within A Day") != -1) {
-        displayDistance ($("#dist_div"), day_distance, int_direct_dist, "Within A Day");
+    if (selections.indexOf(itin_opts[1]) != -1) {
+        displayDistance ($("#dist_div"), day_distance, int_direct_dist, itin_opts[1]);
     }
 }
 function makeItinerary (source, target, stopInputsId){
