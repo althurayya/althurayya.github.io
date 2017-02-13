@@ -2,10 +2,11 @@
  * Created by rostam on 31.10.16.
  */
 var pathColors = {};
-var pathTypes = d3.set(['Shortest', 'Within A Day']); // can add back 'Through Centers' eventually..
-var pathInitialSelections = d3.set(['Shortest', 'Within A Day']);
-pathColors['Shortest'] = '#f00';
-pathColors['Within A Day'] = '#345C1D';
+var itin_opts = ['Shortest', 'Optimal'];
+var pathTypes = d3.set(itin_opts); // can add back 'Through Centers' eventually..
+var pathInitialSelections = d3.set(itin_opts);
+pathColors[itin_opts[0]] = '#f00';
+pathColors[itin_opts[1]] = '#345C1D';
 
 function selectionsUI(identifier, initialSelections, colors) {
     var space = d3.select(identifier).selectAll('input')
