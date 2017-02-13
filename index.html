@@ -67,6 +67,7 @@
         <li id="routeSection"><a href="#routeSectionPane" role="tab" title="Routes"><i class="fa fa-object-ungroup"></i></a></li>
         <li id="pathFinding"><a href="#pathFindingPane" role="tab" title="Path Finding"><i class="fa fa-arrow-right"></i></a></li>
         <li id="network"><a href="#networkPane" role="tab" title="Network"><i class="fa fa-bullseye "></i></a></li>
+        <li id="assignCoord"><a href="#assignCoordPane" role="tab" title="Assign Coordinate"><i class="fa fa-map-pin"></i></a></li>
 
     </ul>
     <div class="sidebar-content">
@@ -87,6 +88,8 @@
 
             <h2>Open Data:</h2>
             <p>All data is available on <a href="https://github.com/althurayya/althurayya.github.io">GitHub</a></p>
+            <h2>Research:</h2>
+            <p>Part of the research related to the current data is available on <a href="https://bl.ocks.org/masoumeh">Blocks</a></p>
 
         </div>
         <div class="sidebar-pane" id="location">
@@ -117,7 +120,6 @@
             <h1 id="sourceTitle">Sources</h1>
             <div id="sources"></div>
             <p id="initSourceDesc">Click on a map marker to get their descriptions from primary sources. Keep in mind that currently we are still working on aligning this data, and for this reason, many results that you see are “fuzzy” matches, that is they were suggested as possible matches using Levenshtein distance (implemented with Python’s `fuzzywuzzy` library). You will see the percentage of the match next to each entry, although 100% match does not always mean the true match, since there is a number of places with the same names.</p>
-
         </div>
         <div class="sidebar-pane" id="regionPane">
             <h1 id="regionList">Regions:</h1>
@@ -165,7 +167,6 @@
                            style="z-index: 99;display: block;" autocomplete="on"/>
                         <br>
                 </div>
-
             </div>
             <div class="selections">
                 <div id="itinerary-options"></div>
@@ -173,12 +174,11 @@
             </div>
             <div style="bottom: 10px">
                 <input type="button" style="top: 3px;"
-                       onclick="findPathConsideringIntermediates()"
+                       onclick="findPathConsideringIntermediates(
+                                document.getElementById('stopInput0').value,
+                                document.getElementById('stopInputDestination').value,
+                                'stopInput')"
                        value="Find Path!"/>
-                <p>
-                <b>NB:</b> The <i>shortest</i> option generates the shortest path in the network, using Dijkstra algorithm;
-                the <i>optimal</i> path tries to find the shortest path with the highest number of stations and settlements along the way (under the assumption that such paths are safer).
-                </p>
             </div>
             <!--< style="margin: 5px">-->
             <h2 id="path_dist_header" style="display: none;">Path distances:</h2>
@@ -233,6 +233,23 @@
                    onclick="resetMap()"
                    value="Reset Map!"/>
         </div>
+        <div class="sidebar-pane" id="assignCoordPane">
+            <h1 id="pathsList">Paths:</h1>
+            <h2>(for research)</h2>
+            <div id="select_last_path">
+                <label style="display: block">Source index:</label>
+                <input id="source_index" type="text" style="display: inline"/>
+                <label style="display: block">Destination index:</label>
+                <input type="text" id="dest_index" style="display: inline"/>
+                <input type="button" id="listPath_btn" value="List the path!"/>
+
+            </div>
+            <div id="pathsDiv" style="display: none">
+                <!--<li id="path" class="region_ul" onclick="click_region('All')">All</li>-->
+            </div>
+            <input type="button" id="saveToFile_btn" onclick="saveNewUrisToFile()"
+                   style="display: none" value="Save URIs to file!"/>
+        </div>
     </div>
 </div>
 <div id="map" class="sidebar-map"></div>
@@ -247,6 +264,7 @@
 <script src="addInput.js"></script>
 <script src="index.js"></script>
 <script src="HelpersForSelectionsUI.js"></script>
+<script src="../althurayya.github.io/experimental/js/ext_lib/FileSaver.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

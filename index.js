@@ -286,17 +286,13 @@ function click_on_list(id) {
     $('#'+id+"text").children().toggle();
     $('#'+id+"ref").toggle();
 }
-function findPathConsideringIntermediates() {
+function findPathConsideringIntermediates(start, end, stopInputsId) {
     var sizeOfInputs = numStops;//d3.select("#pathInputs").selectAll("input").size();
-    var src = $('#stopInput0').val();
-    var tgt = $('#stopInputDestination').val();
+    //var src = $('#stopInput0').val();
+    //var tgt = $('#stopInputDestination').val();
+
     var selections = selectedTypes('itinerary-options');
-    var stops = [];
-    var s, t;
-    var shortestPaths = [];
-    var dayPaths = [];
-    var short_distance = 0;
-    var day_distance = 0;
+
     //Clear the previous distance information to be ready for the new path
     $("#dist_div").html("");
     $("#path_dist_header").css("display", "none");
@@ -304,46 +300,60 @@ function findPathConsideringIntermediates() {
     repaintMarkers();
     repaintPaths();
 
+// make the itinerary by pushing start, end and all stops in between into an array
+    var itinerary = makeItinerary (start, end, stopInputsId);
 
-    stops.push(src);
-    $('Input[id^="stopInput"]').each(function() {
-        var stopInputValue = $(this).val();
-        if (stopInputValue.indexOf(",") != -1) {
-            stops.push(stopInputValue);
-        }
-    });
-    stops.push(tgt);
-
-// Find shortest and within a day paths from source to destination, including stops in between
-    for (var i = 0; i < stops.length - 1; i++) {
-        s = stops[i];
-        t = stops[i + 1];
-        if (selections.indexOf(itin_opts[0]) != -1) {
-            var short_path = findPath(s, t, itin_opts[0]);
-            short_distance += displayPathControl(short_path, "red");
-        }
-            //shortestPaths.push(findPath(s, t, "Shortest"));
-        if (selections.indexOf(itin_opts[1]) != -1){
-            var day_path = findPath(s, t, itin_opts[1]);
-            day_distance += displayPathControl(day_path, "green");
-        }
-    }
-
+// Find shortest and within a day paths for itinerary and return the distance values for each path
+    var distances = findItinerary(itinerary, selections);
+    var short_distance = distances[0];
+    var day_distance = distances[1];
     // Calculate direct distance from source to destination
-    var int_direct_dist = calcDirectDistance(stops[0], stops[stops.length -1]);
+    var int_direct_dist = calcDirectDistance(itinerary[0], itinerary[itinerary.length -1]);
 
     // Add direct distance information to the page
     $("#path_dist_header").css("display", "block");
     displayDistance ($("#dist_div"), int_direct_dist, int_direct_dist, "Direct");
 
     // Add shortest distance information to th page
-    if (selections.indexOf(itin_opts[0]) != -1) {
-        displayDistance ($("#dist_div"), short_distance, int_direct_dist, itin_opts[0]);
+    if (selections.indexOf("Shortest") != -1) {
+        displayDistance ($("#dist_div"), short_distance, int_direct_dist, "Shortest");
     }
     // Add within a day distance information to th page
-    if (selections.indexOf(itin_opts[1]) != -1) {
-        displayDistance ($("#dist_div"), day_distance, int_direct_dist, itin_opts[1]);
+    if (selections.indexOf("Within A Day") != -1) {
+        displayDistance ($("#dist_div"), day_distance, int_direct_dist, "Within A Day");
     }
+}
+function makeItinerary (source, target, stopInputsId){
+
+    var stops = [];
+    stops.push(source);
+    //$('Input[id^="stopInput"]').each(function() {
+    $('Input[id^=' + stopInputsId + ']').each(function() {
+        var stopInputValue = $(this).val();
+        if (stopInputValue.indexOf(",") != -1) {
+            stops.push(stopInputValue);
+        }
+    });
+    stops.push(target);
+    return stops;
+}
+function findItinerary(stops, selections) {
+    var short_distance = 0, day_distance = 0;
+    var s, t;
+    for (var i = 0; i < stops.length - 1; i++) {
+        s = stops[i];
+        t = stops[i + 1];
+        if (selections.indexOf("Shortest") != -1) {
+            var short_path = findPath(s, t, "Shortest");
+            short_distance += displayPathControl(short_path, "red");
+        }
+        //shortestPaths.push(findPath(s, t, "Shortest"));
+        if (selections.indexOf("Within A Day") != -1){
+            var day_path = findPath(s, t, "Within A Day");
+            day_distance += displayPathControl(day_path, "green");
+        }
+    }
+    return [short_distance, day_distance]
 }
 function findPath (start, end, pathType) {
     var shortPath, dayPath;
@@ -352,12 +362,14 @@ function findPath (start, end, pathType) {
     //TODO: should be changed regarding the future changes in data
     var startUri = start.substring(start.lastIndexOf(",") + 1).trim();
     var endUri = end.substring(end.lastIndexOf(",") + 1).trim();
-    if (pathType == itin_opts[0]) {
+    if (pathType == "Shortest") {
         shortPath = graph_dijks.findShortestPath(startUri, endUri);
         if (shortPath != null)
             return shortPath;
     }
-    if (pathType == itin_opts[1]) {
+    if (pathType == "Within A Day") {
+        console.log("sURI: "+ startUri)
+        console.log("eURI: "+ endUri)
         dayPath = shortestPath(graph.getNode(startUri), graph.getNode(endUri), 'd');
         if (dayPath != null)
             return dayPath;
@@ -425,3 +437,4 @@ function findNetwork() {
             customLineStyle(index_routes_layers[r], "red", 3, 1);
     });
 }
+
