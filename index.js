@@ -58,7 +58,8 @@ var auto_list = [];
 var latlngs = [];
 var graph_dijks;
 var prevPath = [];
-var init_lat = 30, init_lon = 40
+var init_lat = 30, init_lon = 40;
+var clicked_lat, clicked_lng;
 
 var map = L.map('map',{maxZoom:max_zoom}).setView([init_lat,init_lon], min_zoom);//"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
@@ -194,6 +195,8 @@ function OnMapClick(e) {
     $("#sidebar-pane").removeClass('active');
     $(".sidebar-tabs > li").removeClass('active');
     $("#sidebar").addClass('collapsed');
+    clicked_lat = e.latlng.lat;
+    clicked_lng = e.latlng.lng;
 }
 
 map.on('click', OnMapClick);
