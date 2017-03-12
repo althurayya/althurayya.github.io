@@ -1,24 +1,27 @@
 /**
  *
  */
-d3.json("Muqaddasi_all_shortest_paths.json", function(error, data) {
+//d3.json("Muqaddasi_all_shortest_paths.json", function(error, data) {
+d3.text("Muqaddasi_all_shortest_paths_noDuplicates.txt", function(error, data) {
+    //console.log(JSON.stringify(d3.csv.parseRows(data)[0]))
     var newURIs = {};
-    var sourceLen = Object.keys(data).length;
+    var pathsLen = d3.csv.parseRows(data).length;
     var i, j, source, destination;
     d3.select("#listPath_btn").on("click", function(){
-        i = d3.select('#source_index').property("value");
-        j = d3.select('#dest_index').property("value");
-
-        if (i == null || i == ""|| i >= sourceLen)
-            i= 0;
-        source = Object.keys(data)[i];
-
-        if (j == null || j == "" || j >= Object.keys(data[source]))
-            j = 0;
-        destination = Object.keys(data[source])[j];
+        i = d3.select('#path_index').property("value");
+        var path = d3.csv.parseRows(data)[i];
+        //j = d3.select('#dest_index').property("value");
+        //
+        //if (i == null || i == ""|| i >= sourceLen)
+        //    i= 0;
+        //source = Object.keys(data)[i];
+        //
+        //if (j == null || j == "" || j >= Object.keys(data[source]))
+        //    j = 0;
+        //destination = Object.keys(data[source])[j];
         d3.select("#pathsDiv").style("display", "block");
 //d3.select("#saveToFile_btn").style("display", "block");
-        listPathFromText (source, destination, data[source][destination]);
+        listPathFromText (path);
     });
     d3.select("#pathsDiv")
         //.select("ul")
@@ -65,24 +68,24 @@ d3.json("Muqaddasi_all_shortest_paths.json", function(error, data) {
         .attr("value", "Next Path!")
         .style("display", "inline-block")
         .on('click', function () {
-            j++;
-            var destLen = Object.keys(data[source]).length;
-            d3.select("#source_index").property("value", i);
-            d3.select("#dest_index").property("value", j);
+            i++;
+            //var destLen = Object.keys(data[source]).length;
+            d3.select("#path_index").property("value", i);
+            //d3.select("#dest_index").property("value", j);
             //nextPath(i, j, source, destination, sourceLen, destLen, data[source][destination])
-            if (j < destLen && i < sourceLen) {
-                destination = Object.keys(data[source])[j];
+            if (i < pathsLen) {
+                path = d3.csv.parseRows(data)[i];
                 //source = Object.keys(data)[i];
-                listPathFromText(source, destination, data[source][destination]);
+                listPathFromText(path);
             }
-            else if (j >= destLen && i < sourceLen){
-                j = 0;
-                i++;
-                source = Object.keys(data)[i];
-                destination = Object.keys(data[source])[j];
-                listPathFromText(source, destination, data[source][destination]);
-            }
-            else if (j >= destLen && i >= sourceLen){
+            //else if (j >= destLen && i < sourceLen){
+            //    j = 0;
+            //    i++;
+            //    source = Object.keys(data)[i];
+            //    destination = Object.keys(data[source])[j];
+            //    listPathFromText(source, destination, data[source][destination]);
+            //}
+            else if (i >= pathsLen){
                 d3.select("#pathsDiv").html("");
                 d3.select("#pathsDiv").append("p")
                     .text("No more paths to show!");
@@ -106,7 +109,7 @@ d3.json('testURIs.json',function(error,data) {
     }
 });
 
-function listPathFromText (source, destination, stops) {
+function listPathFromText (stops) {
     var coordPattern = /_\d{3}\w\d{3}\w_/;
 
     d3.select("#listDiv").html("");
@@ -168,8 +171,10 @@ d3.select("#saveToFile_btn").on("click", function () {
     saveNewUrisToFile(this, "clicked");
 });
 function saveNewUrisToFile(newUris) {
-    var blob = new Blob([JSON.stringify(newUris)], {type: "text/plain;charset=utf-8"});
-    saveAs(blob, "newURIs.json");
+    //localStorage.clear();
+    var blob = new Blob([JSON.stringify(JSON.stringify(localStorage))],
+        {type: "text/plain;charset=utf-8"});
+    saveAs(blob, "testURIs.json");
 }
 //$('Input[id^="text_"]').on('focus', function() {
 //    console.log(this.id);
@@ -180,7 +185,7 @@ $(':focus').attr("value", clicked_lat+","+clicked_lng)
 var active_text = document.activeElement.id;
 
 function nextPath(sourceIndex, destIndex, source, destination, sourceLen, destLen, data){
-    console.log("data: "+data)
+    //console.log("data: "+data)
     if (destIndex < destLen && sourceIndex < sourceLen) {
         destination = Object.keys(data[source])[destIndex];
         //source = Object.keys(data)[i];

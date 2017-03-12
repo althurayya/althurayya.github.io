@@ -2,6 +2,8 @@
  * Created by rostam on 25.09.16.
  */
 var prev_route_clicked;
+var prev_route_markers = [];
+var prev_route_labels = [];
 function handle_routes(feature,layer) {
     var sRegion, eRegion;
     var sFound = false;
@@ -83,13 +85,43 @@ function handle_routes(feature,layer) {
         if (prev_route_clicked !== undefined)
             customLineStyle(prev_route_clicked.layer, prev_route_clicked.color,
                 prev_route_clicked.weight, prev_route_clicked.opacity);
+
+        if (prev_route_markers.length > 0){
+            console.log(prev_route_markers[0])
+            //TODO: rewite with map function on the array "prev_route_markers"
+            customMarkerStyle(prev_route_markers[0],
+                prev_route_markers[0].defaultOptions.color, 1);
+            customMarkerStyle(prev_route_markers[1],
+                prev_route_markers[0].defaultOptions.color, 1);
+            if (prev_route_markers[0].top_type !== "metropoles")
+                customLabelStyle(prev_route_markers[0], "black", "20px", false);
+            else
+                customLabelStyle(prev_route_markers[0], "black", "20px", true);
+
+            if (prev_route_markers[0].top_type !== "metropoles")
+                customLabelStyle(prev_route_markers[1], "black", "20px", false);
+            else
+                customLabelStyle(prev_route_markers[1], "black", "20px", true);
+        }
+
         prev_route_clicked={};
         prev_route_clicked.layer = layer;
         prev_route_clicked.color = layer.options.color;
         prev_route_clicked.weight = layer.options.weight;
         prev_route_clicked.opacity = layer.options.opacity;
 
+
         customLineStyle(layer, "red", 3, 1);
+        customMarkerStyle(markers[feature.properties.sToponym], "red", 1);
+        customMarkerStyle(markers[feature.properties.eToponym], "red", 1);
+        prev_route_markers = [];
+        prev_route_markers.push(markers[feature.properties.sToponym]);
+        prev_route_markers.push(markers[feature.properties.eToponym]);
+        customLabelStyle(markers[feature.properties.sToponym], "red", "24px", true);
+        customLabelStyle(markers[feature.properties.eToponym], "red", "24px", true);
+        prev_route_labels = [];
+        prev_route_labels.push(markers[feature.properties.sToponym]);
+        prev_route_markers.push(markers[feature.properties.eToponym]);
 
         $("#sidebar").removeClass('collapsed');
         $(".sidebar-pane").removeClass('active');
