@@ -3,7 +3,7 @@
  */
 //d3.json("Muqaddasi_all_shortest_paths.json", function(error, data) {
 d3.text("Muqaddasi_all_shortest_paths_noDuplicates.txt", function(error, data) {
-    console.log(JSON.stringify(d3.csv.parseRows(data)[0]))
+    //console.log(JSON.stringify(d3.csv.parseRows(data)[0]))
     var newURIs = {};
     var pathsLen = d3.csv.parseRows(data).length;
     var i, j, source, destination;
@@ -185,7 +185,7 @@ $(':focus').attr("value", clicked_lat+","+clicked_lng)
 var active_text = document.activeElement.id;
 
 function nextPath(sourceIndex, destIndex, source, destination, sourceLen, destLen, data){
-    console.log("data: "+data)
+    //console.log("data: "+data)
     if (destIndex < destLen && sourceIndex < sourceLen) {
         destination = Object.keys(data[source])[destIndex];
         //source = Object.keys(data)[i];

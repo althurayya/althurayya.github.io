@@ -152,7 +152,9 @@ function customMarkerStyle(marker, color, opacity) {
 };
 
 function customLabelStyle (marker, color, font, status) {
-    marker.label._container.style.color = color;
-    marker.label._container.style.fontSize = font;
+    if (marker.label._container !== undefined) {
+        marker.label._container.style.color = color;
+        marker.label._container.style.fontSize = font;
+    }
     marker.setLabelNoHide(status)
 }
