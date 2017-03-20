@@ -13861,45 +13861,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    55.206,
-                    37.19091
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "althurayyaData": {
-                    "visual_center": "no"
-                },
-                "cornuData": {
-                    "coord_certainty": "certain",
-                    "coord_lat": "37.19091",
-                    "coord_lon": "55.20600",
-                    "cornu_URI": "JURJAN_552E371N_R",
-                    "region_code": "Daylam",
-                    "region_spelled": "al-Daylam",
-                    "top_type_hom": "regions",
-                    "top_type_orig": "region",
-                    "toponym_arabic": "جرجان",
-                    "toponym_arabic_other": "جرجان",
-                    "toponym_buckwalter": "Jurjan",
-                    "toponym_search": "Jurjan",
-                    "toponym_translit": "Ǧurǧān",
-                    "toponym_translit_other": "Ǧurǧān"
-                },
-                "sources_arabic": {
-                    "0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.000438-000.json": {
-                        "rate": 100,
-                        "status": "na",
-                        "title": "جرجان"
-                    }
-                },
-                "sources_english": {}
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     55.30802,
                     36.65798
                 ],
