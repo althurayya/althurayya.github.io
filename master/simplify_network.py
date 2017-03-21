@@ -8,10 +8,13 @@ with open("routes_full.json", "r", encoding="utf8") as f1:
     
 
 for i in routes["features"]:
+    i["geometry"]["coordinates"] = [i["geometry"]["coordinates"][0], i["geometry"]["coordinates"][-1]]
     edgeKey = i["properties"]["sToponym"]+"@"+i["properties"]["eToponym"]
     if edgeKey in edgeDic:
         print("%s is already in the dictionary" % edgeKey)
         print(edgeDic[edgeKey])
+        print("===ERROR===")
+        print(i)
         print(len(edgeDic))
         print("===ERROR===")
     else:
@@ -20,7 +23,6 @@ for i in routes["features"]:
         
     #input(edgeKey)
     #input(i)
-    i["geometry"]["coordinates"] = [i["geometry"]["coordinates"][0], i["geometry"]["coordinates"][-1]]
     #input(i["properties"]["sToponym"])
 
     # count nodes' weights
