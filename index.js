@@ -78,22 +78,22 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
             if (Object.keys(type_size).indexOf(
-                    feature.properties.cornuData.top_type_hom) != -1) {
+                    feature.archive.cornuData.top_type_hom) != -1) {
                 //return L.Marker(latlng);
             }
 
-                if (regs[feature.properties.cornuData.region_spelled] == undefined)
-                    regs[feature.properties.cornuData.region_spelled] = [];
-                regs[feature.properties.cornuData.region_spelled]
-                    .push(feature.properties.cornuData.cornu_URI);
+                if (regs[feature.archive.cornuData.region_spelled] == undefined)
+                    regs[feature.archive.cornuData.region_spelled] = [];
+                regs[feature.archive.cornuData.region_spelled]
+                    .push(feature.archive.cornuData.cornu_URI);
 
                 var marker = create_marker(feature, latlng);
                 latlngs.push([latlng['lat'], latlng['lng']])
                 // list of toponyms for autocomplete action of the search input
                 auto_list.push(
-                    [feature.properties.cornuData.toponym_search,
-                        feature.properties.cornuData.toponym_arabic,
-                        feature.properties.cornuData.cornu_URI
+                    [feature.archive.cornuData.toponym_search,
+                        feature.archive.cornuData.toponym_arabic,
+                        feature.archive.cornuData.cornu_URI
                     ].join(", "));
 
                 /*
@@ -103,7 +103,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
                 function ResizeMarker(e) {
                     var currentZoom = map.getZoom();
-                    marker.setradius(currentZoom * (Math.sqrt(feature.properties.translitTitle.length) / 3));
+                    marker.setradius(currentZoom * (Math.sqrt(feature.archive.cornuData.toponym_translit.length) / 3));
                 }
 
                 if (marker != null) {
@@ -263,7 +263,7 @@ function click_region(reg) {
                 if (marker_properties[key].center == "yes")  {
                     map.panTo(markers[key].getLatLng());
                     //console.log(markers[key])
-                }
+
                 markers[key].setStyle({
                     fillColor: "red"
                     , color: "red"

@@ -4,38 +4,62 @@
 var marker_properties = {};
 function create_marker(feature,latlng) {
     var marker = L.circleMarker(latlng,{
-        fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
-        color: colorLookup[feature.properties.cornuData.region_code],
+        //fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
+        //color: colorLookup[feature.properties.cornuData.region_code],
+        // new structure of places.geojson file
+        fillColor: setColor(feature.archive.cornuData.region_code, [13, 23]),
+        color: colorLookup[feature.archive.cornuData.region_code],
         opacity: 1,
         fillOpacity: 1,
         weight: 1
     });
-    marker_properties[feature.properties.cornuData.cornu_URI]= {
-        cornu_URI: feature.properties.cornuData.cornu_URI,
+    //marker_properties[feature.properties.cornuData.cornu_URI]= {
+    //    cornu_URI: feature.properties.cornuData.cornu_URI,
+    //    //radius: Math.sqrt(feature.properties.topType.length)/3,
+    //    //radius: type_size[feature.properties.cornuData.top_type_hom] * 2,
+    //    type: feature.properties.cornuData.top_type_hom,
+    //    center: feature.properties.althurayyaData.visual_center,
+    //    region: feature.properties.cornuData.region_code,
+    //    region_spelled: feature.properties.cornuData.region_spelled,
+    //    searchTitle: feature.properties.cornuData.toponym_search,
+    //    arabicTitle: feature.properties.cornuData.toponym_arabic,
+    //    lat: feature.properties.cornuData.coord_lat,
+    //    lng: feature.properties.cornuData.coord_lon
+
+    // new structure of places.geojson file
+    marker_properties[feature.archive.cornuData.cornu_URI]= {
+        cornu_URI: feature.archive.cornuData.cornu_URI,
         //radius: Math.sqrt(feature.properties.topType.length)/3,
         //radius: type_size[feature.properties.cornuData.top_type_hom] * 2,
-        type: feature.properties.cornuData.top_type_hom,
+        type: feature.archive.cornuData.top_type_hom,
         center: feature.properties.althurayyaData.visual_center,
-        region: feature.properties.cornuData.region_code,
-        region_spelled: feature.properties.cornuData.region_spelled,
-        searchTitle: feature.properties.cornuData.toponym_search,
-        arabicTitle: feature.properties.cornuData.toponym_arabic,
-        lat: feature.properties.cornuData.coord_lat,
-        lng: feature.properties.cornuData.coord_lon
+        region: feature.archive.cornuData.region_code,
+        region_spelled: feature.archive.cornuData.region_spelled,
+        searchTitle: feature.archive.cornuData.toponym_search,
+        arabicTitle: feature.archive.cornuData.toponym_arabic,
+        lat: feature.archive.cornuData.coord_lat,
+        lng: feature.archive.cornuData.coord_lon
     };
-    var rad = type_size[feature.properties.cornuData.top_type_hom] * 2;
+    //var rad = type_size[feature.properties.cornuData.top_type_hom] * 2;
+    // new structure of places.geojson file
+    var rad = type_size[feature.archive.cornuData.top_type_hom] * 2;
     if(!isNaN(rad)) {
         marker.setRadius(rad);
     }
     else marker.setRadius(0);
-    var marker = marker.bindLabel(feature.properties.cornuData.toponym_translit);
+    //var marker = marker.bindLabel(feature.properties.cornuData.toponym_translit);
+    // new structure of places.geojson file
+    var marker = marker.bindLabel(feature.archive.cornuData.toponym_translit);
     marker.options.className = "leaflet-label";
     marker.options.zoomAnimation = true;
     marker.options.opacity = 0.0;
     marker.options.direction = "auto";
-    marker.top_type = feature.properties.cornuData.top_type_hom;
+    //marker.top_type = feature.properties.cornuData.top_type_hom;
+    //markers[feature.properties.cornuData.cornu_URI] = marker;
+    // new structure of places.geojson file
+    marker.top_type = feature.archive.cornuData.top_type_hom;
     //markerLabels[feature.properties.cornuData.cornu_URI] = tmp;
-    markers[feature.properties.cornuData.cornu_URI] = marker;
+    markers[feature.archive.cornuData.cornu_URI] = marker;
 
     //marker.setLabelNoHide(true);
     //marker.setLabelNoHide(false);
@@ -60,12 +84,19 @@ function OnMarkerClick(feature) {
         $("#initSourceDesc").remove();
         $("#location").addClass('active');
         $("#locTab").addClass('active');
-        $("#locTitle").text("Location: " + feature.properties.cornuData.toponym_translit
-            + " (" + feature.properties.cornuData.toponym_arabic + ")");
+        // new structure of places.geojson file
+        //$("#locTitle").text("Location: " + feature.properties.cornuData.toponym_translit
+        //    + " (" + feature.properties.cornuData.toponym_arabic + ")");
+        $("#locTitle").text("Location: " + feature.archive.cornuData.toponym_translit
+            + " (" + feature.archive.cornuData.toponym_arabic + ")");
         $("#techInfo").text("Technical Information");
-        $("#sourceTitle").text("Sources on: " + feature.properties.cornuData.toponym_arabic);
+        // new structure of places.geojson file
+        //$("#sourceTitle").text("Sources on: " + feature.properties.cornuData.toponym_arabic);
+        $("#sourceTitle").text("Sources on: " + feature.archive.cornuData.toponym_arabic);
         // Remove the previous html of english sources to put the new content
-        if ($.isEmptyObject(feature.properties.sources_english)){
+        // new structure of places.geojson file
+        //if ($.isEmptyObject(feature.properties.sources_english)){
+        if (feature.properties.references.secondary.length === 0){
             $("#otherSources").hide();
             $("#goToPrimSource").hide();
             $('#engSourcesDiv').html("");
@@ -84,14 +115,23 @@ function OnMarkerClick(feature) {
             else
                 customLabelStyle(prevClickedMarker, "black", "20px", true);
         }
-        customLabelStyle(markers[feature.properties.cornuData.cornu_URI], "red", "24px", true);
-        customMarkerStyle(markers[feature.properties.cornuData.cornu_URI], "red", 1);
-        prevClickedMarker = markers[feature.properties.cornuData.cornu_URI];
+        // new structure of places.geojson file
+        //customLabelStyle(markers[feature.properties.cornuData.cornu_URI], "red", "24px", true);
+        //customMarkerStyle(markers[feature.properties.cornuData.cornu_URI], "red", 1);
+        //prevClickedMarker = markers[feature.properties.cornuData.cornu_URI];
+        customLabelStyle(markers[feature.archive.cornuData.cornu_URI], "red", "24px", true);
+        customMarkerStyle(markers[feature.archive.cornuData.cornu_URI], "red", 1);
+        prevClickedMarker = markers[feature.archive.cornuData.cornu_URI];
 
         // Create html content of external sources (in location tab) for a location clicked
-        Object.keys(feature.properties.sources_english).forEach(function(engSourceUri) {
+        // new structure of places.geojson file
+        //Object.keys(feature.properties.sources_english).forEach(function(engSourceUri) {
+        Object.keys(feature.properties.references.secondary).forEach(function(engSourceUri) {
             $('#engSourcesDiv').html("");
-            var refUri = "./ref/" + feature.properties.sources_english[engSourceUri]['uri'];
+            //var refUri = "./ref/" + feature.properties.sources_english[engSourceUri]['uri'];
+            var refUri = "./ref/" + feature.references.secondary[engSourceUri];
+            //TODO: remove it when we get ".json" out of the id strings
+            //var id = "E" + engSourceUri.replace(/\./g, "_");
             var id = "E" + engSourceUri.replace(/\./g, "_");
             // Create html content of primary sources (in location tab) for a location clicked
             $.getJSON(refUri, function (data) {
@@ -112,14 +152,21 @@ function OnMarkerClick(feature) {
             });
         });
         // Create html content of technical details (in location tab) for a location clicked
-        Object.keys(feature.properties.cornuData).forEach(function (cData) {
-            $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.cornuData[cData] + "</p>");
+        // new structure of places.geojson file
+        //Object.keys(feature.properties.cornuData).forEach(function (cData) {
+        Object.keys(feature.archive.cornuData).forEach(function (cData) {
+            $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.archive.cornuData[cData] + "</p>");
         });
 
         // sort the primary source objects by rate to show them in descending order on flap
-        var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
-            return feature.properties.sources_arabic[b].rate -
-                feature.properties.sources_arabic[a].rate;
+        // new structure of places.geojson file
+        //var srt_keys = Object.keys(feature.properties.sources_arabic).sort(function (a, b) {
+        //    return feature.properties.sources_arabic[b].rate -
+        //        feature.properties.sources_arabic[a].rate;
+        //});
+        var srt_keys = Object.keys(feature.properties.references.primary).sort(function (a, b) {
+            return feature.properties.references.primary[b].rate -
+            feature.properties.references.primary[a].rate;
         });
         srt_keys.forEach(function (sources) {
             //$('#sources').html("");
@@ -131,7 +178,7 @@ function OnMarkerClick(feature) {
                     "<li id=\'" + id + "\' " +
                     "onclick=click_on_list(\'" + id + "\')>"
                     + data['features'][0]['source'] + ": <span class=\"arabicInline\">" + data['features'][0]['title']
-                    + "&lrm;(" + feature.properties.sources_arabic[sources].rate + "% match)</span></li>" +
+                    + "&lrm;(" + feature.properties.references.primary[sources].match_rate + "% match)</span></li>" +
                     "<div id=\'" + id + "text\'>" + data['features'][0]['text'] + "</div><br>" +
                     "<div id=\'" + id + "ref\' " + "class='reference'>" + data['features'][0]['reference'] +"</div><br>");
             });
