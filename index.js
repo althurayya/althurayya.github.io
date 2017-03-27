@@ -77,7 +77,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
-            console.log(JSON.stringify(feature))
             if (Object.keys(type_size).indexOf(
                     feature.archive.cornuData.top_type_hom) != -1) {
                 //return L.Marker(latlng);

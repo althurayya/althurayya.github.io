@@ -76,7 +76,6 @@ function handle_routes(feature,layer) {
     }
 
 
-    //console.log(route_layers)
     //layer.bringToBack();
     /*
      * click on a route section
@@ -88,7 +87,6 @@ function handle_routes(feature,layer) {
                 prev_route_clicked.weight, prev_route_clicked.opacity);
 
         if (prev_route_markers.length > 0){
-            console.log(prev_route_markers[0])
             //TODO: rewite with map function on the array "prev_route_markers"
             customMarkerStyle(prev_route_markers[0],
                 prev_route_markers[0].defaultOptions.color, 1);
