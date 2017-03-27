@@ -77,6 +77,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
+            console.log(JSON.stringify(feature))
             if (Object.keys(type_size).indexOf(
                     feature.archive.cornuData.top_type_hom) != -1) {
                 //return L.Marker(latlng);
@@ -260,16 +261,17 @@ function click_region(reg) {
                 markers[key].options.zIndexOffset = -1000;
             } else {
 
-                if (marker_properties[key].center == "yes")  {
+                if (marker_properties[key].center == "yes") {
                     map.panTo(markers[key].getLatLng());
                     //console.log(markers[key])
 
-                markers[key].setStyle({
-                    fillColor: "red"
-                    , color: "red"
-                });
-                //markers[key].setZIndexOffset(100);
-                markers[key].options.zIndexOffset = 1000;
+                    markers[key].setStyle({
+                        fillColor: "red"
+                        , color: "red"
+                    });
+                    //markers[key].setZIndexOffset(100);
+                    markers[key].options.zIndexOffset = 1000;
+                }
             }
         });
         all_route_layers.forEach(function(lay) {

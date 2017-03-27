@@ -9,7 +9,8 @@ function handle_routes(feature,layer) {
     var sFound = false;
     var eFound = false;
     var keys = Object.keys(markers);
-    for (var i = 0; i < keys.length; i++) {
+    var i;
+    for (i = 0; i < keys.length; i++) {
         if (sFound == false &&
             feature.properties.sToponym == marker_properties[keys[i]].cornu_URI) {
             sFound = true;
