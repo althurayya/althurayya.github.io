@@ -67,8 +67,11 @@ function handle_routes(feature,layer) {
         if (route_layers[marker_properties[keys[i]].region_spelled] == undefined)
             route_layers[marker_properties[keys[i]].region_spelled] = [];
         route_layers[marker_properties[keys[i]].region_spelled].push(layer);
-        customLineStyle(layer, colorLookup[sRegion], 2, 1);
-        layer.options.default_color = colorLookup[sRegion];
+        //customLineStyle(layer, colorLookup[sRegion], 2, 1);
+        //layer.options.default_color = colorLookup[sRegion];
+        // new structure of places.geojson file
+        customLineStyle(layer, regions[sRegion]['color'], 2, 1);
+        layer.options.default_color = regions[sRegion]['color'];
     }
     else {
         customLineStyle(layer, "lightgray", 1, 1);

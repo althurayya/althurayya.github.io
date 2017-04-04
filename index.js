@@ -82,18 +82,18 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //return L.Marker(latlng);
             }
 
-                if (regs[feature.archive.cornuData.region_spelled] == undefined)
-                    regs[feature.archive.cornuData.region_spelled] = [];
-                regs[feature.archive.cornuData.region_spelled]
-                    .push(feature.archive.cornuData.cornu_URI);
+                if (regs[feature.properties.althurayyaData.region] == undefined)
+                    regs[feature.properties.althurayyaData.region] = [];
+                regs[feature.properties.althurayyaData.region]
+                    .push(feature.properties.althurayyaData.URI);
 
                 var marker = create_marker(feature, latlng);
                 latlngs.push([latlng['lat'], latlng['lng']])
                 // list of toponyms for autocomplete action of the search input
                 auto_list.push(
-                    [feature.archive.cornuData.toponym_search,
-                        feature.archive.cornuData.toponym_arabic,
-                        feature.archive.cornuData.cornu_URI
+                    [feature.properties.althurayyaData.names.english.search,
+                        feature.properties.althurayyaData.names.arabic.common,
+                        feature.properties.althurayyaData.URI
                     ].join(", "));
 
                 /*
@@ -103,7 +103,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
                 function ResizeMarker(e) {
                     var currentZoom = map.getZoom();
-                    marker.setradius(currentZoom * (Math.sqrt(feature.archive.cornuData.toponym_translit.length) / 3));
+                    marker.setradius(currentZoom * (Math.sqrt(feature.properties.althurayyaData.names.english.translit.length) / 3));
                 }
 
                 if (marker != null) {
@@ -111,7 +111,6 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 }
         }
     });
-
     // Add the geojson layer of places to map
     geojson.addTo(map);
 
@@ -124,7 +123,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
             if (key !== "NoRegion") {
                 var func = "click_region(\"" + key + "\");";
                 $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
-                    + key + "</li>");
+                    + regions[key]['display'] + "</li>");
             }
     });
 
@@ -169,8 +168,11 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //var found = false;
                 for (var j = 1; j < route_points[rp].length; j++) {
                     if (route_points[rp][i]["end"] == route_points[rp][j]["end"]) {
-                        customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
-                        customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                        // new structure of places.geojson file
+                        //customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                        //customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                        customLineStyle(route_points[rp][i]["route"], regions[route_points[rp][i]["end"]]['color'], 2, 1);
+                        customLineStyle(route_points[rp][j]["route"], regions[route_points[rp][i]["end"]]['color'], 2, 1);
                     }
                 }
             }
@@ -185,7 +187,8 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
  */
 function setColor (code, toExclude) {
     if (toExclude.indexOf(code) == -1)
-        colorLookup[code];
+        //colorLookup[code];
+        return regions[code]['color']
     else return "lightgray";
 }
 /*
@@ -236,15 +239,19 @@ function click_region(reg) {
         map.panTo([30,42]);
         Object.keys(marker_properties).forEach(function(key){
             markers[key].setStyle({
-                fillColor: colorLookup[marker_properties[key].region],
+                // new structure of places.geojson file
+                //fillColor: colorLookup[marker_properties[key].region],
+                fillColor: regions[marker_properties[key].region]['color'],
                 fillOpacity: "1",
             });
         });
 
         Object.keys(route_layers).forEach(function(key) {
             route_layers[key].forEach(function (lay) {
-                customLineStyle(lay,colorLookup[
-                    map_region_to_code[key]], 2, 1);
+                // new structure of places.geojson file
+                //customLineStyle(lay,colorLookup[
+                //    map_region_to_code[key]], 2, 1);
+                customLineStyle(lay,regions[map_region_to_code[key]]['color'], 2, 1);
             });
 
         });
@@ -259,9 +266,9 @@ function click_region(reg) {
                 //markers[key].setZIndexOffset(-1);
                 markers[key].options.zIndexOffset = -1000;
             } else {
+                //if (marker_properties[key].center == "yes") {
+                //    map.panTo(markers[key].getLatLng());
 
-                if (marker_properties[key].center == "yes") {
-                    map.panTo(markers[key].getLatLng());
                     //console.log(markers[key])
 
                     markers[key].setStyle({
@@ -270,7 +277,7 @@ function click_region(reg) {
                     });
                     //markers[key].setZIndexOffset(100);
                     markers[key].options.zIndexOffset = 1000;
-                }
+                //}
             }
         });
         all_route_layers.forEach(function(lay) {
@@ -282,6 +289,11 @@ function click_region(reg) {
                 customLineStyle(lay, 'red', 3, 1);
             });
         }
+        // find the region visual center from regions.js in which the
+        // display name is the clicked region in UI
+        for (var k in regions)
+            if (regions[k]['display'] == reg)
+                map.panTo(markers[regions[k]['visual_center']].getLatLng());
     }
 }
 

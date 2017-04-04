@@ -52,8 +52,9 @@ function displayPath(pathData) {
         if (pathData.indexOf(marker_properties[keys].cornu_URI) !== -1)
             customMarkerStyle(markers[keys], "red", 0.8);
         else
-            customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
-
+        // new structure of places.geojson file
+        //    customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
+            customMarkerStyle(markers[keys], regions[marker_properties[keys].region]['color'], 0.2);
     });
 
     //if (pathData) {
@@ -154,7 +155,9 @@ function repaintPaths() {
 
 function repaintMarkers() {
     Object.keys(markers).forEach(function(keys) {
-            customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
+        // new structure of places.geojson file
+        //customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 0.2);
+        customMarkerStyle(markers[keys], regions[marker_properties[keys].region]['color'], 0.2);
         markers[keys].bringToFront();
     });
 }
@@ -167,7 +170,9 @@ function resetPaths() {
 
 function resetMarkers() {
     Object.keys(markers).forEach(function(keys) {
-        customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 1);
+        // new structure of places.geojson file
+        //customMarkerStyle(markers[keys], colorLookup[marker_properties[keys].region], 1);
+        customMarkerStyle(markers[keys], regions[marker_properties[keys].region]['color'], 1);
         marker = markers[keys];
         if(marker.label._container != undefined)
             if(marker_properties[keys].type == "metropoles")
