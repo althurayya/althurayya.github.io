@@ -35,6 +35,7 @@ function create_marker(feature,latlng) {
         type: feature.properties.althurayyaData.top_type,
         center: feature.properties.althurayyaData.visual_center,
         region: feature.properties.althurayyaData.region,
+        // TODO: should change the region_spelled to read from properties.althurayyaData
         region_spelled: feature.archive.cornuData.region_spelled,
         searchTitle: feature.properties.althurayyaData.names.english.search,
         arabicTitle: feature.properties.althurayyaData.names.arabic.common,

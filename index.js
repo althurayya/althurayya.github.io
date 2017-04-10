@@ -251,7 +251,7 @@ function click_region(reg) {
                 // new structure of places.geojson file
                 //customLineStyle(lay,colorLookup[
                 //    map_region_to_code[key]], 2, 1);
-                customLineStyle(lay,regions[map_region_to_code[key]]['color'], 2, 1);
+                customLineStyle(lay,regions[key]['color'], 2, 1);
             });
 
         });
@@ -269,8 +269,6 @@ function click_region(reg) {
                 //if (marker_properties[key].center == "yes") {
                 //    map.panTo(markers[key].getLatLng());
 
-                    //console.log(markers[key])
-
                     markers[key].setStyle({
                         fillColor: "red"
                         , color: "red"
@@ -283,17 +281,12 @@ function click_region(reg) {
         all_route_layers.forEach(function(lay) {
             customLineStyle(lay, "gray", 2, 0.8);  /* "lightgray" */
         });
-
         if(route_layers[reg] != undefined) {
             route_layers[reg].forEach(function (lay) {
                 customLineStyle(lay, 'red', 3, 1);
             });
         }
-        // find the region visual center from regions.js in which the
-        // display name is the clicked region in UI
-        for (var k in regions)
-            if (regions[k]['display'] == reg)
-                map.panTo(markers[regions[k]['visual_center']].getLatLng());
+        map.panTo(markers[regions[reg]['visual_center']].getLatLng());
     }
 }
 
