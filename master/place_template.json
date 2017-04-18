@@ -1,0 +1,48 @@
+        {
+            "archive": { # take cornuData out of the main places file
+                "romanov": {
+                    "source_of_coordinates": "Google",
+                    "notes": "Here goes a free running comment/note."
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    -0.35371,
+                    42.16109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "althurayyaData": {
+                    "URI": "WASHQA_003W421N_R",
+                    "language": ["ara","eng"],
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.16109", # delete!
+                    "coord_lon": "-0.35371", # delete!
+                    "names": {
+                        "ara": {
+                            "common": "وشقة",
+                            "common_other": "وشقة",
+                            "search": "وشقة",
+                            "translit": "",
+                            "translit_other": ""
+                        },
+                        "eng": {
+                            "common": "",
+                            "common_other": "",
+                            "search": "Washqa",
+                            "translit": "Wašqaŧ",
+                            "translit_other": "Wašqaŧ"
+                        }
+                    },
+                    "region_URI": "Andalus_RE", # change to region URIs
+                    "source": "romanov",
+                    "top_type": "regions"
+                },
+                "references": {
+                    "primary": {},
+                    "secondary": {}
+                }
+            },
+            "type": "Feature"
+        },
