@@ -1,5 +1,5 @@
         {
-            "archive": { # take cornuData out of the main places file
+            "archive": { //# take cornuData out of the main places file
                 "romanov": {
                     "source_of_coordinates": "Google",
                     "notes": "Here goes a free running comment/note."
@@ -17,8 +17,8 @@
                     "URI": "WASHQA_003W421N_R",
                     "language": ["ara","eng"],
                     "coord_certainty": "certain",
-                    "coord_lat": "42.16109", # delete!
-                    "coord_lon": "-0.35371", # delete!
+                    "coord_lat": "42.16109", // delete!
+                    "coord_lon": "-0.35371", // delete!
                     "names": {
                         "ara": {
                             "common": "وشقة",

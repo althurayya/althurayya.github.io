@@ -61,6 +61,7 @@ var graph_dijks;
 var prevPath = [];
 var init_lat = 30, init_lon = 42;
 var clicked_lat, clicked_lng;
+var regions;
 
 var map = L.map('map',{maxZoom:max_zoom}).setView([init_lat,init_lon], min_zoom); //"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
@@ -83,17 +84,17 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 //return L.Marker(latlng);
             }
 
-                if (regs[feature.properties.althurayyaData.region] == undefined)
-                    regs[feature.properties.althurayyaData.region] = [];
-                regs[feature.properties.althurayyaData.region]
+                if (regs[feature.properties.althurayyaData.region_URI] == undefined)
+                    regs[feature.properties.althurayyaData.region_URI] = [];
+                regs[feature.properties.althurayyaData.region_URI]
                     .push(feature.properties.althurayyaData.URI);
 
                 var marker = create_marker(feature, latlng);
                 latlngs.push([latlng['lat'], latlng['lng']])
                 // list of toponyms for autocomplete action of the search input
                 auto_list.push(
-                    [feature.properties.althurayyaData.names.english.search,
-                        feature.properties.althurayyaData.names.arabic.common,
+                    [feature.properties.althurayyaData.names.eng.search,
+                        feature.properties.althurayyaData.names.ara.common,
                         feature.properties.althurayyaData.URI
                     ].join(", "));
 
@@ -104,7 +105,7 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
 
                 function ResizeMarker(e) {
                     var currentZoom = map.getZoom();
-                    marker.setradius(currentZoom * (Math.sqrt(feature.properties.althurayyaData.names.english.translit.length) / 3));
+                    marker.setradius(currentZoom * (Math.sqrt(feature.properties.althurayyaData.names.eng.translit.length) / 3));
                 }
 
                 if (marker != null) {
@@ -181,6 +182,10 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
     }).error(function(data) {
         console.log("Error!");
     });;
+});
+
+$.getJSON($('link[rel="regions"]').attr("href"), function( data ) {
+    regions = data;
 });
 
 /*

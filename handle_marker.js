@@ -7,9 +7,9 @@ function create_marker(feature,latlng) {
         //fillColor: setColor(feature.properties.cornuData.region_code, [13, 23]),
         //color: colorLookup[feature.properties.cornuData.region_code],
         // new structure of places.geojson file
-        fillColor: setColor(feature.properties.althurayyaData.region, [13, 23]),
+        fillColor: setColor(feature.properties.althurayyaData.region_URI, [13, 23]),
         //color: colorLookup[feature.properties.althurayyaData.region],
-        color: regions[feature.properties.althurayyaData.region]['color'],
+        color: regions[feature.properties.althurayyaData.region_URI]['color'],
         opacity: 1,
         fillOpacity: 1,
         weight: 1
@@ -34,13 +34,16 @@ function create_marker(feature,latlng) {
         //radius: type_size[feature.properties.cornuData.top_type_hom] * 2,
         type: feature.properties.althurayyaData.top_type,
         center: feature.properties.althurayyaData.visual_center,
-        region: feature.properties.althurayyaData.region,
+        region: feature.properties.althurayyaData.region_URI,
         // TODO: should change the region_spelled to read from properties.althurayyaData
         region_spelled: feature.archive.cornuData.region_spelled,
-        searchTitle: feature.properties.althurayyaData.names.english.search,
-        arabicTitle: feature.properties.althurayyaData.names.arabic.common,
-        lat: feature.properties.althurayyaData.coord_lat,
-        lng: feature.properties.althurayyaData.coord_lon
+        searchTitle: feature.properties.althurayyaData.names.eng.search,
+        arabicTitle: feature.properties.althurayyaData.names.ara.common,
+        // new structure of places.geojson file
+        //lat: feature.properties.althurayyaData.coord_lat,
+        //lng: feature.properties.althurayyaData.coord_lon
+        lat: feature.geometry.coordinates[1],
+        lng: feature.geometry.coordinates[0]
     };
     //var rad = type_size[feature.properties.cornuData.top_type_hom] * 2;
     // new structure of places.geojson file
@@ -51,7 +54,7 @@ function create_marker(feature,latlng) {
     else marker.setRadius(0);
     //var marker = marker.bindLabel(feature.properties.cornuData.toponym_translit);
     // new structure of places.geojson file
-    var marker = marker.bindLabel(feature.properties.althurayyaData.names.english.translit);
+    var marker = marker.bindLabel(feature.properties.althurayyaData.names.eng.translit);
     marker.options.className = "leaflet-label";
     marker.options.zoomAnimation = true;
     marker.options.opacity = 0.0;
@@ -89,12 +92,12 @@ function OnMarkerClick(feature) {
         // new structure of places.geojson file
         //$("#locTitle").text("Location: " + feature.properties.cornuData.toponym_translit
         //    + " (" + feature.properties.cornuData.toponym_arabic + ")");
-        $("#locTitle").text("Location: " + feature.properties.althurayyaData.names.english.translit
-            + " (" + feature.properties.althurayyaData.names.arabic.common + ")");
+        $("#locTitle").text("Location: " + feature.properties.althurayyaData.names.eng.translit
+            + " (" + feature.properties.althurayyaData.names.ara.common + ")");
         $("#techInfo").text("Technical Information");
         // new structure of places.geojson file
         //$("#sourceTitle").text("Sources on: " + feature.properties.cornuData.toponym_arabic);
-        $("#sourceTitle").text("Sources on: " + feature.properties.althurayyaData.names.arabic.common);
+        $("#sourceTitle").text("Sources on: " + feature.properties.althurayyaData.names.ara.common);
         // Remove the previous html of english sources to put the new content
         // new structure of places.geojson file
         //if ($.isEmptyObject(feature.properties.sources_english)){
