@@ -1,0 +1,50 @@
+        {
+            "archive": {
+                "yourID": {
+                    "key": "value",
+                    "key": "value",
+                    "key": "value"
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    000,
+                    000
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "althurayyaData": {
+                    "URI": "",
+                    "coord_certainty": "",
+                    "language": [
+                        "ara",
+                        "eng"
+                    ],
+                    "names": {
+                        "ara": {
+                            "common": "",
+                            "common_other": "",
+                            "search": "",
+                            "translit": "",
+                            "translit_other": ""
+                        },
+                        "eng": {
+                            "common": "",
+                            "common_other": "",
+                            "search": "",
+                            "translit": "",
+                            "translit_other": ""
+                        }
+                    },
+                    "region_URI": "",
+                    "source": "",
+                    "top_type": ""
+                },
+                "references": {
+                    "primary": {},
+                    "secondary": {}
+                }
+            },
+            "type": "Feature"
+        }
