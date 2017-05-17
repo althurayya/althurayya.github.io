@@ -36,7 +36,8 @@ function create_marker(feature,latlng) {
         center: feature.properties.althurayyaData.visual_center,
         region: feature.properties.althurayyaData.region_URI,
         // TODO: should change the region_spelled to read from properties.althurayyaData
-        region_spelled: feature.archive.cornuData.region_spelled,
+        //region_spelled: feature.archive.cornuData.region_spelled,
+	region_spelled: regions[feature.properties.althurayyaData.region_URI]['region_code'],
         searchTitle: feature.properties.althurayyaData.names.eng.search,
         arabicTitle: feature.properties.althurayyaData.names.ara.common,
         // new structure of places.geojson file

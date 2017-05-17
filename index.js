@@ -76,12 +76,12 @@ $(function() {
 });
 
 $.getJSON($('link[rel="points"]').attr("href"), function (data) {
-    
     geojson = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
             if (Object.keys(type_size).indexOf(
-                    feature.archive.cornuData.top_type_hom) != -1) {
-                //return L.Marker(latlng);
+                    //feature.archive.cornuData.top_type_hom) != -1) {
+		feature.properties.althurayyaData.top_type) != -1) {
+                	//return L.Marker(latlng);
             }
 
                 if (regs[feature.properties.althurayyaData.region_URI] == undefined)
