@@ -75,14 +75,16 @@ $(function() {
     $('#routeSection').tooltip();
 });
 
-$.getJSON($('link[rel="points"]').attr("href"), function (data) {
-    geojson = L.geoJson(data, {
-        pointToLayer: function (feature, latlng) {
-            if (Object.keys(type_size).indexOf(
-                    //feature.archive.cornuData.top_type_hom) != -1) {
-		feature.properties.althurayyaData.top_type) != -1) {
-                	//return L.Marker(latlng);
-            }
+$.getJSON($('link[rel="regions"]').attr("href"), function( data ) {
+    regions = data;
+    $.getJSON($('link[rel="points"]').attr("href"), function (data) {
+        geojson = L.geoJson(data, {
+            pointToLayer: function (feature, latlng) {
+                if (Object.keys(type_size).indexOf(
+                        //feature.archive.cornuData.top_type_hom) != -1) {
+                        feature.properties.althurayyaData.top_type) != -1) {
+                    //return L.Marker(latlng);
+                }
 
                 if (regs[feature.properties.althurayyaData.region_URI] == undefined)
                     regs[feature.properties.althurayyaData.region_URI] = [];
@@ -111,81 +113,78 @@ $.getJSON($('link[rel="points"]').attr("href"), function (data) {
                 if (marker != null) {
                     return marker;
                 }
-        }
-    });
-    // Add the geojson layer of places to map
-    geojson.addTo(map);
-
-    // sort the region names alphabetically before putting them on the tab
-    Object.keys(regs).sort(function (a, b) {
-        return a.toLowerCase().localeCompare(b.toLowerCase());
-    })
-        // and then, create html list of regions in region tab (from sorted list of regions)
-        .forEach(function (key) {
-            if (key !== "NoRegion") {
-                var func = "click_region(\"" + key + "\");";
-                $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
-                    + regions[key]['display'] + "</li>");
             }
-    });
-
-    var cities = new L.LayerGroup();
-    Object.keys(markers).forEach(function(key) {
-        markers[key].addTo(cities);
-        // metropoles has the label on load and brought to front
-        if(marker_properties[key].type == "metropoles") {
-            markers[key].setLabelNoHide(true);
-            markers[key].bringToFront();
-        }
-    });
-
-    // Different layers of map
-    var baseLayers = {
-        "AMWC" : prevTile,
-        "Grayscale": grayscale,
-        "Streets": streets,
-        "National Geographic": tiles,
-        "Google Satellite":googleSat,
-        "Google Terrain":googleTerrain,
-        "Water Color": waterColor
-    };
-    var overlays = {
-        "Places": cities
-    };
-    L.control.layers(baseLayers, overlays).addTo(map);
-    var sidebar = L.control.sidebar('sidebar').addTo(map);
-}).done(function () {
-    index_zoom(markers,type_size);
-    $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
-        var routes = L.geoJson(data, {
-            onEachFeature: handle_routes
         });
-        init_graph(route_features);
-        graph_dijks = createMatrix(route_features);
-        var rl = routeLayer.addLayer(routes);
-        rl.addTo(map);
-        rl.bringToBack();
-        Object.keys(route_points).forEach(function(rp) {
-            for (var i = 0; i < route_points[rp].length - 1; i++) {
-                //var found = false;
-                for (var j = 1; j < route_points[rp].length; j++) {
-                    if (route_points[rp][i]["end"] == route_points[rp][j]["end"]) {
-                        // new structure of places.geojson file
-                        //customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
-                        //customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
-                        customLineStyle(route_points[rp][i]["route"], regions[route_points[rp][i]["end"]]['color'], 2, 1);
-                        customLineStyle(route_points[rp][j]["route"], regions[route_points[rp][i]["end"]]['color'], 2, 1);
+        // Add the geojson layer of places to map
+        geojson.addTo(map);
+
+        // sort the region names alphabetically before putting them on the tab
+        Object.keys(regs).sort(function (a, b) {
+            return a.toLowerCase().localeCompare(b.toLowerCase());
+        })
+        // and then, create html list of regions in region tab (from sorted list of regions)
+            .forEach(function (key) {
+                if (key !== "NoRegion") {
+                    var func = "click_region(\"" + key + "\");";
+                    $("#regionDiv").append("<li id=\'" + key+  "\' class='region_ul' onclick=\'"+ func + "\';>"
+                        + regions[key]['display'] + "</li>");
+                }
+            });
+
+        var cities = new L.LayerGroup();
+        Object.keys(markers).forEach(function(key) {
+            markers[key].addTo(cities);
+            // metropoles has the label on load and brought to front
+            if(marker_properties[key].type == "metropoles") {
+                markers[key].setLabelNoHide(true);
+                markers[key].bringToFront();
+            }
+        });
+
+        // Different layers of map
+        var baseLayers = {
+            "AMWC" : prevTile,
+            "Grayscale": grayscale,
+            "Streets": streets,
+            "National Geographic": tiles,
+            "Google Satellite":googleSat,
+            "Google Terrain":googleTerrain,
+            "Water Color": waterColor
+        };
+        var overlays = {
+            "Places": cities
+        };
+        L.control.layers(baseLayers, overlays).addTo(map);
+        var sidebar = L.control.sidebar('sidebar').addTo(map);
+    }).done(function () {
+        index_zoom(markers,type_size);
+        $.getJSON($('link[rel="routes"]').attr("href"), function (data) {
+            var routes = L.geoJson(data, {
+                onEachFeature: handle_routes
+            });
+            init_graph(route_features);
+            graph_dijks = createMatrix(route_features);
+            var rl = routeLayer.addLayer(routes);
+            rl.addTo(map);
+            rl.bringToBack();
+            Object.keys(route_points).forEach(function(rp) {
+                for (var i = 0; i < route_points[rp].length - 1; i++) {
+                    //var found = false;
+                    for (var j = 1; j < route_points[rp].length; j++) {
+                        if (route_points[rp][i]["end"] == route_points[rp][j]["end"]) {
+                            // new structure of places.geojson file
+                            //customLineStyle(route_points[rp][i]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                            //customLineStyle(route_points[rp][j]["route"], colorLookup[route_points[rp][i]["end"]], 2, 1);
+                            customLineStyle(route_points[rp][i]["route"], regions[route_points[rp][i]["end"]]['color'], 2, 1);
+                            customLineStyle(route_points[rp][j]["route"], regions[route_points[rp][i]["end"]]['color'], 2, 1);
+                        }
                     }
                 }
-            }
+            });
+        }).error(function(data) {
+            console.log("Error!");
         });
-    }).error(function(data) {
-        console.log("Error!");
-    });;
-});
-
-$.getJSON($('link[rel="regions"]').attr("href"), function( data ) {
-    regions = data;
+    });
 });
 
 /*
