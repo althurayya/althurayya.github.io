@@ -74,24 +74,49 @@
     </ul>
     <div class="sidebar-content">
         <div class="sidebar-pane active" id="home">
-            <h1 id="homeTitle">al-Ṯurayyā Gazetteer</h1>
+            <h1 id="homeTitle">al-Ṯurayyā Project</h1>
 
-            <p>This is a new working version of <i>al-Ṯurayyā Gazetteer</i> (or <i>al-Thurayyā Gazetteer</i>). Currently it includes over 2,000 toponyms and almost as many route sections georeferenced from Georgette Cornu’s <i>Atlas du monde arabo-islamique à l'époque classique: IXe-Xe siècles</i> (Leiden: Brill, 1983). The functionality is still under development. You can use an earlier version of <i>al-Ṯurayyā</i>, where you can browse the Gazetteer by clicking on any toponym marker. The popup will show the toponym both in Arabic script and transliterated. We are using a slightly modified transliteration system that facilitates conversion between fully transliterated, transliterated, and Arabic forms of toponyms. It should be easily understandable. There may be typos, because of the nature of how the data has been generated, so please, let us know if something should be corrected. The popup also offers a selection of possible sources on a toponym in question. You can check <i>Arabic Sources</i>: currently, al-Samʿānī’s <i>Kitāb al-ansāb</i> and Yāqūt’s <i>Muʿjam al-buldān</i>. Currently, the Gazetteer will only check for exact matches, which means that in some cases there will not be any entry at all, while in other cases there may be more than one and they may refer to other places with the same name. Improving the precision of this lookup is on our to-do list. You can also check if there is information on a toponym in question in Brill’s <i>Encyclopaedia of Islam</i>, <i>Pleiades</i>, and <i>Wikipedia</i>. It can be found <a href="https://althurayya.github.io/previous/althurayya_02/">here</a>.</p>
+            <p>This is a new working version of the al-Ṯurayyā project which currently includes the gazetteer (<i>al-Ṯurayyā Gazetteer</i>, or <i>al-Thurayyā Gazetteer</i>), and the geospatial model of the early Islamic world. Both parts of the project are still under development.</p>
 
-            <p><i>Note on transliteration:</i> The website uses a somewhat unconventional transliteration system, which was developed to facilitate computational analysis. Unlike more traditional transliteration schemes the current one uses one-to-one letter representation, with every Arabic letter transcribed distinctively, which allows for an automatic conversion between transliteration and the Arabic script. The overall scheme should be easily recognizable to Arabists (new letters are as follows: <i>ŧ</i> for <i>tāʾ marbuṭaŧ</i>; <i>ã</i> for dagger <i>alif</i>; and <i>á</i> for <i>alif maqṣūraŧ</i>).</p>
+            <p><b>Gazetteer</b>: The gazetteer currently includes over 2,000 toponyms and almost as many route sections georeferenced from Georgette Cornu’s <i>Atlas du monde arabo-islamique à l'époque classique: IXe-Xe siècles</i> (Leiden: Brill, 1983). Tabs relevant to the gazetteer are as follows:</p>
+
+            <p><font class="fa fa-question"></font> is the current tab with the general information about the project;</p>
+
+            <p><font class="fa fa-map-marker"></font> is the ‘Technical information’ of a selected toponym (URI, coord_certainty, language, names, region_URI, source, top_type), which is used for placing it on the map;</p>
+
+            <p><font class="fa fa-book"></font> is the description(s) of a selected toponym from Arabic sources (at the moment, only al-Ḥimyarī’s <i>Rawḍ al-miʿṭār</i>). Records from primary sources are matched automatically, with the % of the match shown in parenthesis.</p>
+
+            <p><font class="fa fa-search"></font> Search panel. Since the gazetteer currently does not include English versions of placenames, one must search for Arabic names: for example, Dimashq instead of Damascus. One can use Arabic or simplified transliteration (LOC transliteration scheme).</p>
+
+            <p>The <i>previous version of the gazetteer</i> can be found <a target="new_tab" href="https://althurayya.github.io/previous/althurayya_02/">here</a>. You can browse this version by clicking on any toponym marker. The popup will show the toponym both in Arabic script and transliterated (On transliteration scheme, see below). The popup also offers a selection of possible sources on a toponym in question. You can check <i>Arabic Sources</i>: currently, al-Samʿānī’s <i>Kitāb al-ansāb</i> and Yāqūt’s <i>Muʿjam al-buldān</i>. The Gazetteer shows only exact matches, which means that in some cases there will not be any entry at all, while in other cases there may be more than one and they may refer to other places with the same name. You can also check if there is information on a toponym in question in Brill’s <i>Encyclopaedia of Islam</i>, <i>Pleiades</i>, and <i>Wikipedia</i>.</p>
+
+            <p><b>Geospatial model</b> currently consists of a two main modules (<i>work in progress</i>) which plot 1) routes and itineraries of various complexity; and 2) networks of reachable places from selected centers. Tabs relevant to the geospatial model are as follows:</p>
+
+            <p><font class="fa fa-globe"></font> The maps of provinces. The extent of each province is modeled by coloring places and route sections associated with the same province in Cornu’s data. Route sections that begin in one region and end in another are colored in grey, thus denoting space between provinces. This way of representing provinces allows showing the extent of a province in question without imposing “borderlines”.</p>
+
+            <p><font class="fa fa-object-ungroup"></font> Technical information on route sections. This tab is mostly for development purposes, although one can find there useful information, including ID, start and end points, and the length in meters (Complete list includes: sToponym, eToponym, id, Meter, eTitle, eTitleAr, eUri, sTitle, sTitleAr, sUri).</p>
+
+            <p><font class="fa fa-arrow-right"></font> Pathfinding allows one to model paths between two and more locations (naval travel is not implemented). The modeled path will be presented as the shortest and the optimal options. One can introduce additional route points between the <i>source</i> and the <i>destination</i> to model a more complex itinerary. <b>NB:</b> The <i>shortest</i> option generates the shortest path in the network, using Dijkstra algorithm; the <i>optimal</i> path tries to find the shortest path with the highest number of stations and settlements along the way (under the assumption that such paths are safer).
+            </p>
+
+            <p><font class="fa fa-bullseye "></font> Modeling of the network of settlements reachable from a selected point within a certain number of days. One can also model a multicenter network for comparative purposes.</p>
+
+            <p><font class="fa fa-map-pin"></font> Path analysis tab (for internal research purposes).</p>
+
+
+            <p><b>Note on the transliteration scheme:</b> The website uses a somewhat unconventional transliteration system, which was developed to facilitate computational analysis. Unlike more traditional transliteration schemes the current one uses one-to-one letter representation, with every Arabic letter transcribed distinctively, which allows for an automatic conversion between transliteration and the Arabic script. The overall scheme should be easily recognizable to Arabists (new letters are as follows: <i>ŧ</i> for <i>tāʾ marbuṭaŧ</i>; <i>ã</i> for dagger <i>alif</i>; and <i>á</i> for <i>alif maqṣūraŧ</i>).</p>
 
             <h2>Credits and Acknowledgments:</h2>
 
-            <p><b>Current team</b>: Masoumeh Seydi and Maxim Romanov @ U Leipzig.
-
+            <p>
+            <b>Current team</b>: Masoumeh Seydi (U Leipzig) and Maxim Romanov (U Vienna).
             <b>Former contributors:</b> 2013–2014: Cameron Jackson (class of 2014, double-major in Arabic and Computer Science, Tufts)—technical and conceptual development; 2013: Adam Tavares, programmer @ Perseus Project, Tufts—techincal development.
+            <b>Special thanks to:</b> 2013–2014: Vickie Sullivan (Chair, Classics Department, Tufts U), 2013—: Gregory Crane and the Perseus DL and the U Leipzig teams for support and inspiration.
+            </p>
 
-            <b>Special thanks to:</b> 2013–2014: Vickie Sullivan (Chair, Classics Department, Tufts U), 2013—: Gregory Crane and the Perseus DL and the U Leipzig teams for support and inspiration.</p>
-
-            <h2>Open Data:</h2>
-            <p>All data is available on <a href="https://github.com/althurayya/althurayya.github.io">GitHub</a></p>
-            <h2>Research:</h2>
-            <p>Part of the research related to the current data is available on <a href="https://bl.ocks.org/masoumeh">Blocks</a></p>
+            <p><b>Open Data:</b> All data is available on <a href="https://github.com/althurayya/althurayya.github.io/">GitHub</a>.</p>
+            
+            <p><b>Research:</b> Part of research experiments related to the current data is available on <a href="https://bl.ocks.org/masoumeh/">Blocks</a>.</p>
 
         </div>
         <div class="sidebar-pane" id="location">
@@ -139,7 +164,7 @@
 
             <h2 id="admin2"></h2>
 
-            <p id="initRouteDesc">If you click on a route section, information about it will appear here.</p>
+            <p id="initRouteDesc">Clicking on a route section will display technical information on that route section.</p>
 
             <h3 id="routeDetails">
                 <br>
@@ -204,7 +229,7 @@
         </div>
         <div class="sidebar-pane" id="networkPane">
             <h1>Network</h1>
-            <label>Start From:</label>
+            <label>Starting Point:</label>
             <div id="netDiv0">
                 <input id="netInput0" type="text" placeholder="Start Network..."
                        style="z-index: 99; " autocomplete="on"/>
@@ -221,7 +246,7 @@
                 Show Unreachable Sites:
             </label>
             <br>
-            <label>Multiplier:</label>
+            <label>Extent of the network<br>(in days of travel, ~30 km):</label>
             <select id="multiSelect" style="margin: 5px">
                 <option value="1">1</option><option value="2">2</option>
                 <option value="3">3</option><option value="4">4</option>
@@ -237,21 +262,20 @@
                 <option value="23">23</option><option value="24">24</option>
                 <option value="25">25</option><option value="26">26</option>
                 <option value="27">27</option><option value="28">28</option>
-                <option value="29">29</option><option value="30">20</option>
+                <option value="29">29</option><option value="30">30</option>
 
             </select>
             <br><br>
             <input type="button" style="top: 3px;"
                    onclick="findNetwork()"
-                   value="Find Network!"/>
+                   value="Click to Model the Network"/>
             <br>
             <input type="button" style="top: 3px;"
                    onclick="resetMap()"
-                   value="Reset Map!"/>
+                   value="Click to Reset the Map"/>
         </div>
         <div class="sidebar-pane" id="assignCoordPane">
-            <h1 id="pathsList">Paths:</h1>
-            <h2>(for research)</h2>
+            <h1 id="pathsList">Paths (for research):</h1>
             <div id="select_last_path">
                 <label style="display: block">Path index:</label>
                 <input id="path_index" type="text" style="display: inline" value="0"/>
