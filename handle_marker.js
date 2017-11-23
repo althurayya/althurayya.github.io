@@ -159,13 +159,57 @@ function OnMarkerClick(feature) {
             });
         });
         // Create html content of technical details (in location tab) for a location clicked
-        // new structure of places.geojson file
+        // new structure of places.geojson file. The hardcoded values,
+        // such as "language" and "names" should be defined in a constant values in
+        // seperate js file for further changes in the data files.
+
         //Object.keys(feature.properties.cornuData).forEach(function (cData) {
         Object.keys(feature.properties.althurayyaData).forEach(function (cData) {
-            if (typeof(cData) !== 'Object')
-                $("#cornuDetails").append("<p class = 'details_text'><b>" + cData + ": </b> " + feature.properties.althurayyaData[cData] + "</p>");
-            else if (typeof(cData) === 'Object') {
-                
+            var tmp = feature.properties.althurayyaData[cData];
+            console.log(tmp)
+            $("#cornuDetails").append("<p id='detail_" + cData + "' class = 'details_text'><b>"
+                + cData + ": </b> </p>")
+            if (typeof(tmp) == 'string')
+                $("#detail_" + cData).append(tmp);
+            if (cData == "language") {
+                var values = tmp.join(', ');
+                $("#detail_" + cData).append(function() {
+                    return values;
+                })
+            }
+
+            if (cData == "names") {
+                // TODO: in case that the names object's structure in data file is changed
+                // (TODO:) instead of an object, langs variable must accordingly be changed
+                var langs = d3.keys(tmp);
+                var names = d3.select("#detail_names").append("ul");
+                // create li element for each language item
+                names.selectAll("li")
+                    .data(langs).enter().append("li")
+                    .attr("id", function (d) {
+                        return "lang_" + d;
+                    } )
+                    .text(function (d) {
+                        return d;
+                    })
+                // for each language item, add list of values to the corresponding
+                // parent element
+                langs.forEach(function(l) {
+                    // select the corresponding parent element which holds the
+                    // language value
+                    d3.select("#lang_" + l).append("ul")
+                        .selectAll("li")
+                        .data(d3.entries(tmp[l])) // { key: "common", value: "قرح" }, etc.
+                        .enter()
+                        .append("li")
+                        .attr("class", "li_names")
+                        .text(function (d) {
+                            if (d.value !== "")
+                                return d.key.replace(/_/g," ") + ": " + d.value;
+                            // for empty values, return NA
+                            else return d.key.replace(/_/g," ") + ": NA";
+                        })
+                })
             }
         });
 
