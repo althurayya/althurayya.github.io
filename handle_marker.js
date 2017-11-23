@@ -168,7 +168,7 @@ function OnMarkerClick(feature) {
             var tmp = feature.properties.althurayyaData[cData];
             console.log(tmp)
             $("#cornuDetails").append("<p id='detail_" + cData + "' class = 'details_text'><b>"
-                + cData + ": </b> </p>")
+                + cData.replace(/_/g," ") + ": </b> </p>")
             if (typeof(tmp) == 'string')
                 $("#detail_" + cData).append(tmp);
             if (cData == "language") {
