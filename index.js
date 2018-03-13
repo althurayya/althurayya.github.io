@@ -390,12 +390,13 @@ function findPath (start, end, pathType) {
 
 function displayDistance (container, dist, direct_dist, textValue) {
     var tmpTextValue = textValue.replace(/ /g,"_").toLowerCase();
-    var avg_dist = (dist + direct_dist) / 2;
-    var elem = "<p id='" + tmpTextValue + "'>" + textValue + " distance: " + dist/1000 + " KM</p>";
+    var avg_dist = (dist == 0) ? direct_dist : (dist + direct_dist) / 2;
+    var elem = "<p id='" + tmpTextValue + "'>" + textValue + " distance: " +
+        parseInt((dist/1000).toFixed()).toLocaleString('en') + " km</p>";
     container.append(elem);
     if (textValue != "Direct") {
         var avg_elem = "<p style='padding-left:10px;' id='avg_" + tmpTextValue + "'>Average " +  textValue.toLowerCase()
-            + " distance: " + avg_dist/1000 + " KM</p>";
+            + " distance: " + parseInt((avg_dist/1000).toFixed()).toLocaleString('en') + " km</p>";
         container.append(avg_elem);
     }
 }
