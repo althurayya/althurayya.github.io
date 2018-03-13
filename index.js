@@ -391,11 +391,11 @@ function findPath (start, end, pathType) {
 function displayDistance (container, dist, direct_dist, textValue) {
     var tmpTextValue = textValue.replace(/ /g,"_").toLowerCase();
     var avg_dist = (dist + direct_dist) / 2;
-    var elem = "<p id='" + tmpTextValue + "'>" + textValue + " distance: " + dist + " m</p>";
+    var elem = "<p id='" + tmpTextValue + "'>" + textValue + " distance: " + dist/1000 + " KM</p>";
     container.append(elem);
     if (textValue != "Direct") {
         var avg_elem = "<p style='padding-left:10px;' id='avg_" + tmpTextValue + "'>Average " +  textValue.toLowerCase()
-            + " distance: " + avg_dist + " m</p>";
+            + " distance: " + avg_dist/1000 + " KM</p>";
         container.append(avg_elem);
     }
 }

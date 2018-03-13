@@ -166,7 +166,6 @@ function OnMarkerClick(feature) {
         //Object.keys(feature.properties.cornuData).forEach(function (cData) {
         Object.keys(feature.properties.althurayyaData).forEach(function (cData) {
             var tmp = feature.properties.althurayyaData[cData];
-            console.log(tmp)
             $("#cornuDetails").append("<p id='detail_" + cData + "' class = 'details_text'><b>"
                 + cData.replace(/_/g," ") + ": </b> </p>")
             if (typeof(tmp) == 'string')
