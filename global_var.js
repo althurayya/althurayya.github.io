@@ -68,3 +68,10 @@ var type_size =
  "xroads" : 0.7
  };
  */
+
+var graph;
+//var DAY = 120000;
+var DAY = 39702;
+var WITHIN_A_DAY = DAY * 3;
+//var MULTIPLIER = 3;
+var NUM_ZONES = 5;
