@@ -391,12 +391,16 @@ function findPath (start, end, pathType) {
 function displayDistance (container, dist, direct_dist, textValue) {
     var tmpTextValue = textValue.replace(/ /g,"_").toLowerCase();
     var avg_dist = (dist == 0) ? direct_dist : (dist + direct_dist) / 2;
-    var elem = "<p id='" + tmpTextValue + "'>" + textValue + " distance: " +
-        parseInt((dist/DAY).toFixed()).toLocaleString('en') + " days of travel</p>";
-    container.append(elem);
+    var elem_km = "<p id='" + tmpTextValue + "'>" + textValue + " distance: <a style='font-weight:bold;'>"
+        + parseInt((dist/DAY).toFixed()).toLocaleString('en') +
+        " </a> days of travel, <a style='font-weight:bold;'>" +
+        parseInt((dist/1000).toFixed()).toLocaleString('en')+ "</a> km</p>";
+    container.append(elem_km);
     if (textValue != "Direct") {
         var avg_elem = "<p style='padding-left:10px;' id='avg_" + tmpTextValue + "'>Average " +  textValue.toLowerCase()
-            + " distance: " + parseInt((avg_dist/DAY).toFixed()).toLocaleString('en') + " days of travel</p>";
+            + " distance: <a style='font-weight:bold;'>" + parseInt((dist/DAY).toFixed()).toLocaleString('en') +
+            " </a> days of travel, <a style='font-weight:bold;'>"
+            + parseInt((avg_dist/1000).toFixed()).toLocaleString('en') + "</a> km</p>";
         container.append(avg_elem);
     }
 }
