@@ -65,7 +65,7 @@ var regions;
 
 var map = L.map('map',{maxZoom:max_zoom}).setView([init_lat,init_lon], min_zoom); //"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
-prevTile.addTo(map);
+googleTerrain.addTo(map);
 $(function() {
     $('#homeTab').tooltip();
     $('#locTab').tooltip();
@@ -143,9 +143,9 @@ $.getJSON($('link[rel="regions"]').attr("href"), function( data ) {
 
         // Different layers of map
         var baseLayers = {
-            "AMWC" : prevTile,
-            "Grayscale": grayscale,
-            "Streets": streets,
+            // "AMWC" : prevTile,
+            // "Grayscale": grayscale,
+            // "Streets": streets,
             "National Geographic": tiles,
             "Google Satellite":googleSat,
             "Google Terrain":googleTerrain,
