@@ -35,16 +35,19 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
     attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' }),
+
     waterColor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg')//new L.StamenTileLayer("watercolor");
 
+    var watercolorlayer = new L.StamenTileLayer("watercolor");
+
+//new version based on https://leafletjs.com/examples/layers-control/
 var mbAttr2 = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
     'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+    mbUrl2 = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
 
 
-
-var grayscalev9   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr2}),
-    streetsv11  = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr2});
+var grayscalev9   = L.tileLayer(mbUrl2, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr2}),
+    streetsv11  = L.tileLayer(mbUrl2, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr2});
 
 var min_zoom = 5, // 5
     max_zoom = 14;
@@ -158,7 +161,7 @@ $.getJSON($('link[rel="regions"]').attr("href"), function( data ) {
             "National Geographic": tiles,
             "Google Satellite":googleSat,
             "Google Terrain":googleTerrain,
-            "Water Color": waterColor
+            "Water Color": watercolorlayer
         };
         var overlays = {
             "Places": cities
