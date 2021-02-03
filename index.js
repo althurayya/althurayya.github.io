@@ -32,13 +32,13 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
         maxZoom: 20,
         subdomains:['mt0','mt1','mt2','mt3']
     }),
-    prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
-    attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
-    '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' }),
+    // prevTile = L.mapbox.tileLayer('cjacks04.jij42jel', {
+    // attribution: 'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
+    // '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' }),
 
-    waterColor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg')//new L.StamenTileLayer("watercolor");
+    // waterColor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg')//new L.StamenTileLayer("watercolor");
 
-    var watercolorlayer = new L.StamenTileLayer("watercolor");
+     watercolorlayer = new L.StamenTileLayer("watercolor");
 
 //new version based on https://leafletjs.com/examples/layers-control/
 var mbAttr2 = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
