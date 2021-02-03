@@ -37,6 +37,15 @@ var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
     '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>' }),
     waterColor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg')//new L.StamenTileLayer("watercolor");
 
+var mbAttr2 = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+    'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+
+
+
+var grayscalev9   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr2}),
+    streetsv11  = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr2});
+
 var min_zoom = 5, // 5
     max_zoom = 14;
 var prevZoom = min_zoom;
@@ -65,7 +74,7 @@ var regions;
 
 var map = L.map('map',{maxZoom:max_zoom}).setView([init_lat,init_lon], min_zoom); //"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
-googleTerrain.addTo(map);
+grayscalev9.addTo(map);
 $(function() {
     $('#homeTab').tooltip();
     $('#locTab').tooltip();
@@ -144,7 +153,7 @@ $.getJSON($('link[rel="regions"]').attr("href"), function( data ) {
         // Different layers of map
         var baseLayers = {
             // "AMWC" : prevTile,
-            // "Grayscale": grayscale,
+            "Grayscale": grayscalev9,
             // "Streets": streets,
             "National Geographic": tiles,
             "Google Satellite":googleSat,
