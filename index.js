@@ -77,7 +77,8 @@ var regions;
 
 var map = L.map('map',{maxZoom:max_zoom}).setView([init_lat,init_lon], min_zoom); //"[30, 40], min_zoom" //.fitBounds(geojson.getBounds(), {paddingTopLeft: [500, 0]});
 // Add default tile to the map
-grayscalev9.addTo(map);
+//grayscalev9.addTo(map);
+googleSat.addTo(map);
 $(function() {
     $('#homeTab').tooltip();
     $('#locTab').tooltip();
