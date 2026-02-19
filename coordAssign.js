@@ -102,6 +102,7 @@ function change(type) {
 };
 
 d3.json('testURIs.json',function(error,data) {
+    if(error || !data) return;
     if(localStorage.length == 0) {
         Object.keys(data).forEach(function (key) {
             localStorage.setItem(key, data[key]);
