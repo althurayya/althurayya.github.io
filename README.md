@@ -40,4 +40,25 @@ Primary sources in individual json files
 ### main directory files: 
 main JS, HTML, and css files (to be restructured ...)
 
-## Need to add information on License...
+## License
+
+Unless otherwise noted, the original code and other original contributions
+in this repository are licensed under the Apache License, Version 2.0. See
+[LICENSE](LICENSE) for the full text.
+
+This repository also includes third-party software, fonts, map data, and
+other materials that are not covered by the project license. Their own
+copyright notices, license terms, and attribution requirements continue to
+apply; see the notices in the relevant files and the attributions displayed
+by the map application.
+
+## Dataset license
+
+Unless otherwise noted, the original datasets created and curated by the
+project are licensed under [CC BY 4.0](DATA-LICENSE.md). This includes
+original project data such as curated place records, route records,
+coordinates, identifiers, transliterations, and project-created metadata.
+
+Source-derived material and third-party data are excluded unless their own
+terms permit redistribution under CC BY 4.0. See [DATA-LICENSE.md](DATA-LICENSE.md)
+for the scope, attribution guidance, and full license link.
